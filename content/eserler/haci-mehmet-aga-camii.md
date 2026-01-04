@@ -5,10 +5,10 @@ slug: "haci-mehmet-aga-camii"
 description: "### Hacı Mehmet Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3062916,38.3219604"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "neccar-mehmet-efendi-turbesi"
 description: "## Neccar Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.943091,41.018756"
 draft: "false"
 weight: "999"

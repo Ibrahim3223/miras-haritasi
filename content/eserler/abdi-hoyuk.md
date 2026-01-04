@@ -5,10 +5,10 @@ slug: "abdi-hoyuk"
 description: "## Abdi Höyük: Kozaklı'nın Gizli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7905791,39.1138648"
 draft: "false"
 weight: "999"

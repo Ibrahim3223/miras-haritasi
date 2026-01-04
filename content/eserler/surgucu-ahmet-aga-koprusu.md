@@ -5,10 +5,10 @@ slug: "surgucu-ahmet-aga-koprusu"
 description: "## Sürgücü Ahmet Ağa Köprüsü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7272148,37.5858612"
 draft: "false"
 weight: "999"

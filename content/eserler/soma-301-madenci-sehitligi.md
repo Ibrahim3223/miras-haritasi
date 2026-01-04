@@ -5,10 +5,10 @@ slug: "soma-301-madenci-sehitligi"
 description: "### Soma 301 Madenci Şehitliği: Anımsanan Kahramanlık..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6439037,39.1771355"
 draft: "false"
 weight: "999"

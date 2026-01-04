@@ -5,10 +5,10 @@ slug: "cumhuriyet-hamami"
 description: "## Cumhuriyet Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.433794,38.611866"
 draft: "false"
 weight: "999"

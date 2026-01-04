@@ -5,10 +5,10 @@ slug: "bozikan-kalesi-sason"
 description: "## Bozıkan Kalesi: Sason'un Tarihsel Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.4544436,38.4706467"
 draft: "false"
 weight: "999"

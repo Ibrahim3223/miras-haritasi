@@ -5,10 +5,10 @@ slug: "sut-dede-mescidi"
 description: "## Süt Dede Mescidi: Tarihi ve Kültürel Mirası Yansıtan Bir Cami..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5371914,38.751915"
 draft: "false"
 weight: "999"

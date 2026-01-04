@@ -5,10 +5,10 @@ slug: "zuveroglu-camii-ve-cesmesi"
 description: "# Züveroğlu Camii ve Çeşmesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1686325,36.2029228"
 draft: "false"
 weight: "999"

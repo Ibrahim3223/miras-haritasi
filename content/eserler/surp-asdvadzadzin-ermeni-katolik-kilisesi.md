@@ -5,10 +5,10 @@ slug: "surp-asdvadzadzin-ermeni-katolik-kilisesi"
 description: "## Surp Asdvadzadzin Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Cathédrale_arménienne_catholique,_Istanbul.JPG/1200px-Cathédrale_arménienne_catholique,_Istanbul.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.979656123,41.035566296"
 draft: "false"
 weight: "10"

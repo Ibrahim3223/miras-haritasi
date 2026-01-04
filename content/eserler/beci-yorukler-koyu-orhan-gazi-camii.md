@@ -5,10 +5,10 @@ slug: "beci-yorukler-koyu-orhan-gazi-camii"
 description: "## Beçi Yörükler Köyü Orhan Gazi Camii..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.1973305,40.8957062"
 draft: "false"
 weight: "999"

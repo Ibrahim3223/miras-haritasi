@@ -5,10 +5,10 @@ slug: "kirklareli-ataturk-aniti"
 description: "## Kırklareli Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kirklareli_dingiloglu_parki_ataturk_aniti_01.jpg/1200px-Kirklareli_dingiloglu_parki_ataturk_aniti_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.224933877,41.735045534"
 draft: "false"
 weight: "10"

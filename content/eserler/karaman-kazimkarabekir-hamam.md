@@ -5,10 +5,10 @@ slug: "karaman-kazimkarabekir-hamam"
 description: "## Karaman Kazımkarabekir Hamam..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Kazımkarabekir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.9570732,37.2261162"
 draft: "false"
 weight: "999"

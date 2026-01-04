@@ -5,10 +5,10 @@ slug: "esen-mahallesi-kaya-mezari-vezirkopru"
 description: "## Esen Mahallesi Kaya Mezarı, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.329235,41.104167"
 draft: "false"
 weight: "999"

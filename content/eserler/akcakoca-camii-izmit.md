@@ -5,10 +5,10 @@ slug: "akcakoca-camii-izmit"
 description: "## Akçakoca Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9210472,40.7670097"
 draft: "false"
 weight: "999"

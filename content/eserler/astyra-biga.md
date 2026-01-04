@@ -5,10 +5,10 @@ slug: "astyra-biga"
 description: "## Astyra (Biga)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.682841,40.043192"
 draft: "false"
 weight: "999"

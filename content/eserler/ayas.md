@@ -5,10 +5,10 @@ slug: "ayas"
 description: "## Ayas Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Yumurtalik2.jpg/1200px-Yumurtalik2.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.789487,36.769676"
 draft: "false"
 weight: "10"

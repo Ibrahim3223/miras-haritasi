@@ -5,10 +5,10 @@ slug: "saint-mary-magdalene-anglikan-kilisesi"
 description: "## Saint Mary Magdalene Anglikan Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bornova_Saint_Mary_Magdalene_Anglican_Church_1.jpg/1200px-Bornova_Saint_Mary_Magdalene_Anglican_Church_1.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.223916666,38.462333333"
 draft: "false"
 weight: "10"

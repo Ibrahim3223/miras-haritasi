@@ -5,10 +5,10 @@ slug: "kocatarla-onbasi-bayiri-tumulusu"
 description: "### Kocatarla Onbaşı Bayırı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0902996,41.9449577"
 draft: "false"
 weight: "999"

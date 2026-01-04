@@ -5,10 +5,10 @@ slug: "uluyol-koprusu"
 description: "## Uluyol Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2535992,38.3409004"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alahan-manastiri"
 description: "## Alahan Manastırı: Mersin'in Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Alahan_Monastery,_Mersin_Province.jpg/1200px-Alahan_Monastery,_Mersin_Province.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.36555556,36.77944444"
 draft: "false"
 weight: "10"

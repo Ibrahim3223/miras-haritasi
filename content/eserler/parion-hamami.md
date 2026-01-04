@@ -5,10 +5,10 @@ slug: "parion-hamami"
 description: "## Parion Hamamı: Bir Antik Kentin Gizli Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.067759047,40.425746698"
 draft: "false"
 weight: "999"

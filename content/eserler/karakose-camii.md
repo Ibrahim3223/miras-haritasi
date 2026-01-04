@@ -5,10 +5,10 @@ slug: "karakose-camii"
 description: "### Karaköse Camii: Erzurum'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.271389,39.9076462"
 draft: "false"
 weight: "999"

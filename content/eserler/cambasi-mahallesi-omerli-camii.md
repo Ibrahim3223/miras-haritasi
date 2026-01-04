@@ -5,10 +5,10 @@ slug: "cambasi-mahallesi-omerli-camii"
 description: "## Çambaşı Mahallesi Ömerli Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.249575835,40.695895444"
 draft: "false"
 weight: "999"

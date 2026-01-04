@@ -5,10 +5,10 @@ slug: "abdurrahman-pasa-camii-kangal"
 description: "## Abdurrahman Paşa Camii: Kangal'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3914223,39.2353821"
 draft: "false"
 weight: "999"

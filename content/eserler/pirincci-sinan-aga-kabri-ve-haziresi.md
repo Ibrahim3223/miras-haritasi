@@ -5,10 +5,10 @@ slug: "pirincci-sinan-aga-kabri-ve-haziresi"
 description: "## Pirinççi Sinan Ağa Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9456787,41.02211"
 draft: "false"
 weight: "999"

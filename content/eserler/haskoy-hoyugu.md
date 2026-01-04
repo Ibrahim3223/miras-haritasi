@@ -5,10 +5,10 @@ slug: "haskoy-hoyugu"
 description: "## Hasköy Höyüğü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

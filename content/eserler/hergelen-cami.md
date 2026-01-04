@@ -5,10 +5,10 @@ slug: "hergelen-cami"
 description: "## Hergelen Cami..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8370171,38.923008"
 draft: "false"
 weight: "999"

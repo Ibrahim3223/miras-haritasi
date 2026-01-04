@@ -5,10 +5,10 @@ slug: "papazoglu-medresesi"
 description: "## Papazoğlu Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.960323,41.00886"
 draft: "false"
 weight: "999"

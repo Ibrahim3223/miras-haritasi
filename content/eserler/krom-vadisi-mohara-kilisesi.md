@@ -5,10 +5,10 @@ slug: "krom-vadisi-mohara-kilisesi"
 description: "## Krom Vadisi Mohara Kilisesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.606971,40.551093"
 draft: "false"
 weight: "999"

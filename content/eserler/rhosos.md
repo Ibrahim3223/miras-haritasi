@@ -5,10 +5,10 @@ slug: "rhosos"
 description: "**Rhosos: Arsuz'un Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Arsuz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.883,36.413"
 draft: "false"
 weight: "999"

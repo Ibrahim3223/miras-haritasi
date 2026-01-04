@@ -5,10 +5,10 @@ slug: "koluna-koprusu"
 description: "## Koluna Köprüsü: Tarihi ve Kültürel Mirasının Bir Örneği..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.961283,40.924533"
 draft: "false"
 weight: "999"

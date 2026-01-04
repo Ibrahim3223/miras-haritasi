@@ -5,10 +5,10 @@ slug: "geyve-ii-beyazit-koprusu"
 description: "## Geyve II. Beyazıt Köprüsü..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Geyve"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.2968,40.53503"
 draft: "false"
 weight: "999"

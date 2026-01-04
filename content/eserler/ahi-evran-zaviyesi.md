@@ -5,10 +5,10 @@ slug: "ahi-evran-zaviyesi"
 description: "## Ahi Evran Zaviyesi: Kırşehir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Kirahievran.jpg/1200px-Kirahievran.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.159232,39.148227"
 draft: "false"
 weight: "10"

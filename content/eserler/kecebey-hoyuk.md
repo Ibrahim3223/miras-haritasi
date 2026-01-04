@@ -5,10 +5,10 @@ slug: "kecebey-hoyuk"
 description: "## Keçebey Höyük: Antakya'da Gizli Bir Miras..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.30706,36.286167"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bey-camii-kahramanmaras"
 description: "### Bey Camii, Kahramanmaraş..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9351006,37.5815125"
 draft: "false"
 weight: "999"

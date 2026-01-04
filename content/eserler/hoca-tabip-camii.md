@@ -5,10 +5,10 @@ slug: "hoca-tabip-camii"
 description: "## Hoca Tabip Camii: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0689316,40.1818314"
 draft: "false"
 weight: "999"

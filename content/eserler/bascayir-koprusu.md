@@ -5,10 +5,10 @@ slug: "bascayir-koprusu"
 description: "### Başçayır Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0667,37.9574013"
 draft: "false"
 weight: "999"

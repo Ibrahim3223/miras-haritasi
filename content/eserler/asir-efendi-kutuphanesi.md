@@ -5,10 +5,10 @@ slug: "asir-efendi-kutuphanesi"
 description: "## Aşir Efendi Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Building_in_Fatih.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.971356,41.014868"
 draft: "false"
 weight: "999"

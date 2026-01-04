@@ -5,10 +5,10 @@ slug: "atav-koprusu"
 description: "## Atav Köprüsü: Çanakkale'nin Efsanevi Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.0392895,40.024086"
 draft: "false"
 weight: "999"

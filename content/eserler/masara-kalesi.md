@@ -5,10 +5,10 @@ slug: "masara-kalesi"
 description: "## Masara Kalesi Tanıtımı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Baskil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.3683968,38.6148872"
 draft: "false"
 weight: "999"

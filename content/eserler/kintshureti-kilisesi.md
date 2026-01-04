@@ -5,10 +5,10 @@ slug: "kintshureti-kilisesi"
 description: "## Kintshureti Kilisesi..."
 featured_image: ""
 province: "Borçka ilçesi"
-iller: '["Borçka ilçesi"]'
+iller: ["Borçka ilçesi"]
 district: "Zedoban"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.716638888,41.42525"
 draft: "false"
 weight: "999"

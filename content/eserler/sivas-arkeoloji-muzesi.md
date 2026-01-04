@@ -5,10 +5,10 @@ slug: "sivas-arkeoloji-muzesi"
 description: "### Sivas Arkeoloji Müzesi: Türk Kültür Mirasının Öncüleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Sivas_Museum_01.jpg/1200px-Sivas_Museum_01.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.011528,39.755389"
 draft: "false"
 weight: "10"

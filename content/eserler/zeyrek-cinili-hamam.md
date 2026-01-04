@@ -5,10 +5,10 @@ slug: "zeyrek-cinili-hamam"
 description: "### Zeyrek Çinili Hamam Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Çinili_Hamam,_Zeyrek_48.jpg/1200px-Çinili_Hamam,_Zeyrek_48.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.95644,41.01812"
 draft: "false"
 weight: "10"

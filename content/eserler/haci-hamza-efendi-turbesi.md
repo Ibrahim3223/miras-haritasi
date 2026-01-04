@@ -5,10 +5,10 @@ slug: "haci-hamza-efendi-turbesi"
 description: "### Hacı Hamza Efendi Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7655144,41.3750496"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-til-hoyugu"
 description: "## Küçük Til Höyüğü: Tarihi ve Kültürel Mirasının Gizli Anıtı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.3216133,38.1774118"
 draft: "false"
 weight: "999"

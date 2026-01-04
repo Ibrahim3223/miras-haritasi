@@ -5,10 +5,10 @@ slug: "ahmet-baba-turbesi"
 description: "## Ahmet Baba Türbesi: Maltepe'nin Değerli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1481705,40.9588013"
 draft: "false"
 weight: "999"

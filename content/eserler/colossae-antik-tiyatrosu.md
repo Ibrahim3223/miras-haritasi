@@ -5,10 +5,10 @@ slug: "colossae-antik-tiyatrosu"
 description: "## Colossae Antik Tiyatrosu..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.2612316,37.7865637"
 draft: "false"
 weight: "999"

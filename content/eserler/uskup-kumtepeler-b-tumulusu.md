@@ -5,10 +5,10 @@ slug: "uskup-kumtepeler-b-tumulusu"
 description: "### Üsküp Kumtepeler B Tümülüsü: Kırklareli'nin Arkeolojik Güzelliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3719025,41.753994"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarikoy-hamami"
 description: "## Sarıköy Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6004677,40.2081871"
 draft: "false"
 weight: "999"

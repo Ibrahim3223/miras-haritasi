@@ -5,10 +5,10 @@ slug: "kirklareli-tholos-tipi-mezar-yapisi"
 description: "## Kırklareli Tholos Tipi Mezar Yapısı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1850929,41.7482758"
 draft: "false"
 weight: "999"

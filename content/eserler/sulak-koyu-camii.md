@@ -5,10 +5,10 @@ slug: "sulak-koyu-camii"
 description: "## Sulak Köyü Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.865383212,41.162048429"
 draft: "false"
 weight: "999"

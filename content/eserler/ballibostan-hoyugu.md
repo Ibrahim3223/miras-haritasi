@@ -5,10 +5,10 @@ slug: "ballibostan-hoyugu"
 description: "**Ballıbostan Höyüğü: Ağrı'nın Gizli Mirası**..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Ağrı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.1883659,39.6762238"
 draft: "false"
 weight: "999"

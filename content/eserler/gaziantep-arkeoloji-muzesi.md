@@ -5,10 +5,10 @@ slug: "gaziantep-arkeoloji-muzesi"
 description: "## Gaziantep Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Gaziantep_Museum_Stele_Gözlühöyük.jpg/1200px-Gaziantep_Museum_Stele_Gözlühöyük.jpg"
 province: "Gaziantep alt bölgesi"
-iller: '["Gaziantep alt bölgesi"]'
+iller: ["Gaziantep alt bölgesi"]
 district: "Şehitkâmil"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.37826,37.06626"
 draft: "false"
 weight: "10"

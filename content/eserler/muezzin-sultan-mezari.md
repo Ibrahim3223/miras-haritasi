@@ -5,10 +5,10 @@ slug: "muezzin-sultan-mezari"
 description: "## Müezzin Sultan Mezarı: Edirne'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.553196,41.678046"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gungoren-tumulus-2-arguvan"
 description: "### Güngören Tümülüs 2, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2393684,38.8963814"
 draft: "false"
 weight: "999"

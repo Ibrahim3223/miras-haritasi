@@ -5,10 +5,10 @@ slug: "firat-viyadugu"
 description: "## Fırat Viyadüğü: Tarihsel Bir Köprü Çöplüğü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.9051,37.0489"
 draft: "false"
 weight: "999"

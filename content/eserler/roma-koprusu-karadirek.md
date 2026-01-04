@@ -5,10 +5,10 @@ slug: "roma-koprusu-karadirek"
 description: "## Roma Köprüsü, Karadirek: Tarihî Bir Çatılma..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.195959,38.552876"
 draft: "false"
 weight: "999"

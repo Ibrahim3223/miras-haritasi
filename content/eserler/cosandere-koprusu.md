@@ -5,10 +5,10 @@ slug: "cosandere-koprusu"
 description: "## Coşandere Köprüsü: Trabzon'un Eski Çağın Gizemi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.6069031,40.7678108"
 draft: "false"
 weight: "999"

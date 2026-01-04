@@ -5,10 +5,10 @@ slug: "aralik-koyu-camii"
 description: "## Aralık Köyü Camii: Eynesil'deki bir Klasik Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Aral%C4%B1k_k%C3%B6y%C3%BC2.jpg"
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Eynesil"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.116594,41.038341"
 draft: "false"
 weight: "999"

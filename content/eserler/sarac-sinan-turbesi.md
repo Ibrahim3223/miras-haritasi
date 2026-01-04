@@ -5,10 +5,10 @@ slug: "sarac-sinan-turbesi"
 description: "### Saraç Sinan Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8686142,39.9378777"
 draft: "false"
 weight: "999"

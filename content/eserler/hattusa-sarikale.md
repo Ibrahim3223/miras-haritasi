@@ -5,10 +5,10 @@ slug: "hattusa-sarikale"
 description: "## Hattuşa Sarıkale: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Boğazkale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.615101,40.012558"
 draft: "false"
 weight: "999"

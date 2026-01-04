@@ -5,10 +5,10 @@ slug: "dedeli-hoyuk"
 description: "## Dedeli Höyük: Kırşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0995803,38.871076"
 draft: "false"
 weight: "999"

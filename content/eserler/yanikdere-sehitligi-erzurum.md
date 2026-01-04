@@ -5,10 +5,10 @@ slug: "yanikdere-sehitligi-erzurum"
 description: "### Yanıkdere Şehitliği, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2936974,39.9278717"
 draft: "false"
 weight: "999"

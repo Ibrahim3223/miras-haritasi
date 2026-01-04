@@ -5,10 +5,10 @@ slug: "cerkes-ibrahim-aga-camii"
 description: "## Çerkes İbrahim Ağa Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5974312,40.0514488"
 draft: "false"
 weight: "999"

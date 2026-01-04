@@ -5,10 +5,10 @@ slug: "kolla-trakya"
 description: "### Kolla: Trakya'nın Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.42059,40.797133"
 draft: "false"
 weight: "999"

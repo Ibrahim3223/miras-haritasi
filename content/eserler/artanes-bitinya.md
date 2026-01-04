@@ -5,10 +5,10 @@ slug: "artanes-bitinya"
 description: "## Artanes (Bitinya): Bir Geçmişi ve Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.604165,41.17132"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-tateos-surp-partogomeos-kilisesi"
 description: "## Surp Tateos – Surp Partoğomeos Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Sankt-Thaddäus-Bartholomäus-Kirche.jpg/1200px-Sankt-Thaddäus-Bartholomäus-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.951444444,41.003361111"
 draft: "false"
 weight: "10"

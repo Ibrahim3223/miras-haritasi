@@ -5,10 +5,10 @@ slug: "ferah-baba-turbesi"
 description: "### Ferah Baba Türbesi: İstanbul'un Eski Şehrini Hafızaya Geçiren Anıtsal Yapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9347572,41.0399017"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dumlupinar-sehitligi"
 description: "## Dumlupınar Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Dumlupınar-şehitlik_1.JPG/1200px-Dumlupınar-şehitlik_1.JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.958585,38.843186"
 draft: "false"
 weight: "10"

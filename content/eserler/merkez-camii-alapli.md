@@ -5,10 +5,10 @@ slug: "merkez-camii-alapli"
 description: "### Merkez Camii (Alaplı)..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Alaplı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.3869534,41.1804123"
 draft: "false"
 weight: "999"

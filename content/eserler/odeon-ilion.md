@@ -5,10 +5,10 @@ slug: "odeon-ilion"
 description: "## Odeon (İlion): Çanakkale'nin Efsanevi Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Troy_Odeion_7843.jpg/1200px-Troy_Odeion_7843.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.238611111,39.956666666"
 draft: "false"
 weight: "10"

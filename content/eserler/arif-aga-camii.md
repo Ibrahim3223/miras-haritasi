@@ -5,10 +5,10 @@ slug: "arif-aga-camii"
 description: "## Arif Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Arif_Ağa_Camii_30.JPG/1200px-Arif_Ağa_Camii_30.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5535374,41.6806946"
 draft: "false"
 weight: "10"

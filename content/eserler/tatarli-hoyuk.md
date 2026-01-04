@@ -5,10 +5,10 @@ slug: "tatarli-hoyuk"
 description: "## Tatarlı Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0517273,37.1227989"
 draft: "false"
 weight: "999"

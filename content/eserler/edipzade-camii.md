@@ -5,10 +5,10 @@ slug: "edipzade-camii"
 description: "## Edipzade Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.701024362,36.887921487"
 draft: "false"
 weight: "999"

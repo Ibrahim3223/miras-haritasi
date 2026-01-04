@@ -5,10 +5,10 @@ slug: "kuba-camii-izmir"
 description: "## Kuba Camii: Tarihî Bir Mirasın İmzası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3695068,37.9477768"
 draft: "false"
 weight: "999"

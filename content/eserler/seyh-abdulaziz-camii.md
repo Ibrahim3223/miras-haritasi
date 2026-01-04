@@ -5,10 +5,10 @@ slug: "seyh-abdulaziz-camii"
 description: "## Şeyh Abdülaziz Camii: Mardin'in Eski ve Gizemli Camisi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.737168,37.313262"
 draft: "false"
 weight: "999"

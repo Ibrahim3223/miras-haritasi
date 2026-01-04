@@ -5,10 +5,10 @@ slug: "gaziosmanpasa-sahnesi"
 description: "## Gaziosmanpaşa Sahnesi: İstanbul'un Tarihî Tiyatro Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Gaziosmanpaşa"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.91598068,41.0575686"
 draft: "false"
 weight: "999"

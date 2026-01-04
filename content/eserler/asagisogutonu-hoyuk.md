@@ -5,10 +5,10 @@ slug: "asagisogutonu-hoyuk"
 description: "## Aşağısöğütönü Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.436417,39.802233"
 draft: "false"
 weight: "999"

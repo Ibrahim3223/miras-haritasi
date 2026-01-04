@@ -5,10 +5,10 @@ slug: "havlu-camii"
 description: "## Havlu Camii..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.2110214,40.4622002"
 draft: "false"
 weight: "999"

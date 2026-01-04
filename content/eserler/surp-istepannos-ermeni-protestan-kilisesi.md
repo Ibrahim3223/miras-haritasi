@@ -5,10 +5,10 @@ slug: "surp-istepannos-ermeni-protestan-kilisesi"
 description: "## Surp İstepannos Ermeni Protestan Kilisesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.4036503,40.7817841"
 draft: "false"
 weight: "999"

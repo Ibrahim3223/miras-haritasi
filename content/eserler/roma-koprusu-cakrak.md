@@ -5,10 +5,10 @@ slug: "roma-koprusu-cakrak"
 description: "## Roma Köprüsü, Çakrak..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.6032602,40.5251661"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "metamorfoz-manastiri"
 description: "## Metamorfoz Manastırı: Adalar'da Bir Keşif..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0516376,40.9088631"
 draft: "false"
 weight: "999"

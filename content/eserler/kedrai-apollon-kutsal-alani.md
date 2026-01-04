@@ -5,10 +5,10 @@ slug: "kedrai-apollon-kutsal-alani"
 description: "## Kedrai Apollon Kutsal Alanı: Muğla'nın Gizli Çıkınları..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2076511,36.9920082"
 draft: "false"
 weight: "999"

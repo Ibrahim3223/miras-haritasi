@@ -5,10 +5,10 @@ slug: "kepirtepe-hoyugu"
 description: "## Kepirtepe Höyüğü: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.39589,41.38022"
 draft: "false"
 weight: "999"

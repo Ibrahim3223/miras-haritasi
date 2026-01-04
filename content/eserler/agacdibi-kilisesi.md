@@ -5,10 +5,10 @@ slug: "agacdibi-kilisesi"
 description: "### Ağaçdibi Kilisesi: Hakkâri'nin Gizemli Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.785099,37.5037994"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zal-mahmut-pasa-medresesi"
 description: "### Zal Mahmut Paşa Medresesi: İstanbul'un Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.935558,41.044923"
 draft: "false"
 weight: "999"

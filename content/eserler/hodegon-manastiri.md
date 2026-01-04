@@ -5,10 +5,10 @@ slug: "hodegon-manastiri"
 description: "### Hodegon Manastırı: Bir Geçiş Döneminin Eski Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Byzantine_Constantinople-pt.svg/1200px-Byzantine_Constantinople-pt.svg.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.98503333,41.00903056"
 draft: "false"
 weight: "10"

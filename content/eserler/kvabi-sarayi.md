@@ -5,10 +5,10 @@ slug: "kvabi-sarayi"
 description: "## Kvabi Sarayı: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Şenkaya"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "42.265333333,40.555527777"
 draft: "false"
 weight: "999"

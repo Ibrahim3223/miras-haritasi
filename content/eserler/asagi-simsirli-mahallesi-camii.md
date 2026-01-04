@@ -5,10 +5,10 @@ slug: "asagi-simsirli-mahallesi-camii"
 description: "## Aşağı Şimşirli Mahallesi Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.040792089,41.024460028"
 draft: "false"
 weight: "999"

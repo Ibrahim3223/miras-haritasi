@@ -5,10 +5,10 @@ slug: "emir-avlusu-becin"
 description: "## Emir Avlusu, Beçin: Milas'ta Bir Orta Çağ Kale İmkânı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.7885647,37.270256"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "acicesme"
 description: "## Acıçeşme Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Meriç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.353748,41.175825"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turkocagi-sahnesi"
 description: "### Türkocağı Sahnesi: Antik Tiyatro Mirasının Öreni..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "32.855555555,39.933333333"
 draft: "false"
 weight: "999"

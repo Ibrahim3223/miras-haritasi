@@ -5,10 +5,10 @@ slug: "antandros-roma-hamami"
 description: "## Antandros Roma Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7843456,39.5720215"
 draft: "false"
 weight: "999"

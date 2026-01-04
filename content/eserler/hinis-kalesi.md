@@ -5,10 +5,10 @@ slug: "hinis-kalesi"
 description: "### Hınıs Kalesi ..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: '["Erzurum Vilayeti"]'
+iller: ["Erzurum Vilayeti"]
 district: "Hınıs"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.6949806,39.358654"
 draft: "false"
 weight: "999"

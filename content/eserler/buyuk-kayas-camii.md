@@ -5,10 +5,10 @@ slug: "buyuk-kayas-camii"
 description: "## Büyük Kayaş Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.9681015,39.9141922"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karacaoglan-ve-karaca-kiz-aniti"
 description: "## Karacaoğlan ve Karaca Kız Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.5639915,36.7693825"
 draft: "false"
 weight: "999"

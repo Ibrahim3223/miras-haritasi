@@ -5,10 +5,10 @@ slug: "ibsin-hoyugu"
 description: "### İbşin Höyüğü: Kırşehir'in Gizli Hazine..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1508025,38.8531753"
 draft: "false"
 weight: "999"

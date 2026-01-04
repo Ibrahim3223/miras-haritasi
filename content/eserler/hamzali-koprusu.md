@@ -5,10 +5,10 @@ slug: "hamzali-koprusu"
 description: "# Hamzalı Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.08482,40.958263"
 draft: "false"
 weight: "999"

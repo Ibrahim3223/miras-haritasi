@@ -5,10 +5,10 @@ slug: "ibrahim-gavs-turbesi"
 description: "## İbrahim Gavsî Türbesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.78280264,41.234042292"
 draft: "false"
 weight: "999"

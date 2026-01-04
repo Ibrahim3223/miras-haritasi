@@ -5,10 +5,10 @@ slug: "hagios-stephanos-kilisesi"
 description: "## Hagios Stephanos Kilisesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6490974,38.5491524"
 draft: "false"
 weight: "999"

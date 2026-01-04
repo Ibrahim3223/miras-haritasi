@@ -5,10 +5,10 @@ slug: "kardzveli-kilisesi"
 description: "## Kardzveli Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.832623898,41.18291903"
 draft: "false"
 weight: "999"

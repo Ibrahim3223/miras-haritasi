@@ -5,10 +5,10 @@ slug: "zerban-hoyuk"
 description: "## Zerban Höyük: Tarih ve Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Çelikhan ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.180032144,38.027334719"
 draft: "false"
 weight: "999"

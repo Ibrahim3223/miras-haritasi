@@ -5,10 +5,10 @@ slug: "hierapolis-tiyatro-ustu-kilisesi"
 description: "### Hierapolis Tiyatro Üstü Kilisesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1303387,37.9270134"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kite-kalesi"
 description: "# Kite Kalesi: Bursa'nın Eski Kaleleri Arasındaki Bir Ören..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.8783493,40.1988258"
 draft: "false"
 weight: "999"

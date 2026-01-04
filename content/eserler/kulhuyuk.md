@@ -5,10 +5,10 @@ slug: "kulhuyuk"
 description: "## Külhüyük Arkeolojik Sitesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.65472,39.527222"
 draft: "false"
 weight: "999"

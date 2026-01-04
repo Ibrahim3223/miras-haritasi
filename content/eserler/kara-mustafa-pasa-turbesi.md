@@ -5,10 +5,10 @@ slug: "kara-mustafa-pasa-turbesi"
 description: "### Kara Mustafa Paşa Türbesi: Bursa'nın Güzelliğine Bir Katkı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0415726,40.1924973"
 draft: "false"
 weight: "999"

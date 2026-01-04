@@ -5,10 +5,10 @@ slug: "sofu-dede-turbesi"
 description: "## Sofu Dede Türbesi: Şile'nin Tarihî Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7914333,41.1407013"
 draft: "false"
 weight: "999"

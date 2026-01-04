@@ -5,10 +5,10 @@ slug: "seyh-muhammed-fethul-maarif-hazretleri-turbesi"
 description: "## Şeyh Muhammed Fethül Maarif Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1905994,40.8883018"
 draft: "false"
 weight: "999"

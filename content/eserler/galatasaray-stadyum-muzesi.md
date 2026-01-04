@@ -5,10 +5,10 @@ slug: "galatasaray-stadyum-muzesi"
 description: "**Galatasaray Stadyum Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.990855426,41.103368646"
 draft: "false"
 weight: "999"

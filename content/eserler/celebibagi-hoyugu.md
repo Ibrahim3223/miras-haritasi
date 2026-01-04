@@ -5,10 +5,10 @@ slug: "celebibagi-hoyugu"
 description: "## Çelebibağı Höyüğü: Van Vilayeti'nin Gizli Harikası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "Erciş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.322163136,38.975234261"
 draft: "false"
 weight: "999"

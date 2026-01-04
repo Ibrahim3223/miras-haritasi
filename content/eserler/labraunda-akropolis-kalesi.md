@@ -5,10 +5,10 @@ slug: "labraunda-akropolis-kalesi"
 description: "## Labraunda Akropolis Kalesi: Milas'ın Gizli Öncülü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8196468,37.4214439"
 draft: "false"
 weight: "999"

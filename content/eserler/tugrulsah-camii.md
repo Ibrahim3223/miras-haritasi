@@ -5,10 +5,10 @@ slug: "tugrulsah-camii"
 description: "## Tuğrulşah Camii: Erzurum'un Göz Alıcı Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.9979286,40.4835625"
 draft: "false"
 weight: "999"

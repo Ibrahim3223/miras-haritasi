@@ -5,10 +5,10 @@ slug: "amber-reis-camii"
 description: "## Amber Reis Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amber_Reis_Camii_2025-10-25_1761373252.jpg/1200px-Amber_Reis_Camii_2025-10-25_1761373252.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4852753,37.8678932"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tek-minare-isikli"
 description: "## Tek Minare, Işıklı Camisi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.8454876,38.323246"
 draft: "false"
 weight: "999"

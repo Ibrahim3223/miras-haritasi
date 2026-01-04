@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-camii-beyoglu"
 description: "## Mihrişah Valide Sultan Camii: İstanbul'un Gizli Çehresine Giriş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Istanbul_asv2021-11_img18_MVS_Mosque.jpg/1200px-Istanbul_asv2021-11_img18_MVS_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.943,41.046111111"
 draft: "false"
 weight: "10"

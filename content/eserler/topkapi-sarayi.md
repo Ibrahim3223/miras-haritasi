@@ -5,10 +5,10 @@ slug: "topkapi-sarayi"
 description: "## Topkapı Sarayı: İstanbul'un En Büyük Tarihi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Topkapi_Palace_Seen_From_Harem.JPG/1200px-Topkapi_Palace_Seen_From_Harem.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.984,41.013"
 draft: "false"
 weight: "1"

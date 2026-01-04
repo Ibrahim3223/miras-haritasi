@@ -5,10 +5,10 @@ slug: "polikron-manastiri"
 description: "### Polikron Manastırı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.1325,40.3873"
 draft: "false"
 weight: "999"

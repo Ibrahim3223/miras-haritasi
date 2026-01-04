@@ -5,10 +5,10 @@ slug: "sinekli-kopru"
 description: "## Sinekli Köprü: Gülyalı, Ordu'nun Tarihî Esrarı..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gülyalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.05894,40.918875"
 draft: "false"
 weight: "999"

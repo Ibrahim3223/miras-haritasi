@@ -5,10 +5,10 @@ slug: "haci-cuma-camii"
 description: "## Hacı Cuma Camii: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2797127,39.907917"
 draft: "false"
 weight: "999"

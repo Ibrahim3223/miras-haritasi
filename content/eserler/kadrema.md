@@ -5,10 +5,10 @@ slug: "kadrema"
 description: "**Kadrema Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.44443611,36.61381111"
 draft: "false"
 weight: "999"

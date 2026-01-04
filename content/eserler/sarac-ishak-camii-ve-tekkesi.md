@@ -5,10 +5,10 @@ slug: "sarac-ishak-camii-ve-tekkesi"
 description: "## Saraç İshak Camii ve Tekkesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9638939,41.0071869"
 draft: "false"
 weight: "999"

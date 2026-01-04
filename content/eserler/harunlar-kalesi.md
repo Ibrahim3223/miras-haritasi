@@ -5,10 +5,10 @@ slug: "harunlar-kalesi"
 description: "## Harunlar Kalesi Tanıtımı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Yunak"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "31.9135056,38.6186104"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kizilcayikik-tarihi-koprusu"
 description: "## Kızılcayıkık Tarihi Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8007431,37.3648872"
 draft: "false"
 weight: "999"

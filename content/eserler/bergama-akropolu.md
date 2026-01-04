@@ -5,10 +5,10 @@ slug: "bergama-akropolu"
 description: "## Bergama Akropolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Acropolis_of_Pergamon_-_Friedrich_Thierch_-_1882.jpg/1200px-Acropolis_of_Pergamon_-_Friedrich_Thierch_-_1882.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.18421,39.13216"
 draft: "false"
 weight: "10"

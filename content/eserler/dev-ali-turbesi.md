@@ -5,10 +5,10 @@ slug: "dev-ali-turbesi"
 description: "## Dev Ali Türbesi: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.493842,38.363516"
 draft: "false"
 weight: "999"

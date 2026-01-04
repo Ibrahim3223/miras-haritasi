@@ -5,10 +5,10 @@ slug: "asagi-cami-1"
 description: "## Aşağı Cami 1: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5149994,38.4023018"
 draft: "false"
 weight: "999"

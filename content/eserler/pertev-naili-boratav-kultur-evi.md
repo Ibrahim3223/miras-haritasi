@@ -5,10 +5,10 @@ slug: "pertev-naili-boratav-kultur-evi"
 description: "## Pertev Naili Boratav Kültür Evi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.2117844,40.4647522"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "helvaci-dede-cami"
 description: "## Helvacı Dede Cami: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.487446994,38.724586375"
 draft: "false"
 weight: "999"

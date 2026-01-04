@@ -5,10 +5,10 @@ slug: "hacihamza-kalesi"
 description: "**Hacıhamza Kalesi: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Kargı"
-iller: '["Kargı"]'
+iller: ["Kargı"]
 district: "Hacıhamza"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.449337,41.0763283"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "apahunyats-monastery"
 description: "## Apahunyats Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

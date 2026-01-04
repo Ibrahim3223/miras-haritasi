@@ -5,10 +5,10 @@ slug: "yenikoy-tekhoyuk-tumulusu"
 description: "### Yeniköy Tekhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7312431,41.3219604"
 draft: "false"
 weight: "999"

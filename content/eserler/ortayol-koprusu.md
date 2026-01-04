@@ -5,10 +5,10 @@ slug: "ortayol-koprusu"
 description: "### Ortayol Köprüsü: Pazar, Rize'nin Efsanevi Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.917367,41.093233"
 draft: "false"
 weight: "999"

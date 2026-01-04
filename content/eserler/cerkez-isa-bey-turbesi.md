@@ -5,10 +5,10 @@ slug: "cerkez-isa-bey-turbesi"
 description: "## Çerkez İsa Bey Türbesi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Çayıralan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.6421127,39.3016586"
 draft: "false"
 weight: "999"

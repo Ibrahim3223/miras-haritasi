@@ -5,10 +5,10 @@ slug: "istanbul-teknik-universitesi-nadir-eserler-kutuphanesi"
 description: "## İstanbul Teknik Üniversitesi Nadir Eserler Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

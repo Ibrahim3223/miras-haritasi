@@ -5,10 +5,10 @@ slug: "yeldegirmenitepe-tumulusu"
 description: "## Yeldeğirmenitepe Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Köprübaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.4450836,38.762207"
 draft: "false"
 weight: "999"

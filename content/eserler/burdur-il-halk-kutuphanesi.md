@@ -5,10 +5,10 @@ slug: "burdur-il-halk-kutuphanesi"
 description: "## Burdur İl Halk Kütüphanesi: Türkiye'nin Kültürel Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.2861099,37.7196159"
 draft: "false"
 weight: "999"

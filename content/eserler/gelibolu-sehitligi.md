@@ -5,10 +5,10 @@ slug: "gelibolu-sehitligi"
 description: "## Gelibolu Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Gelibolu_Şehitliği.jpg/1200px-Gelibolu_Şehitliği.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.681586558,40.42011237"
 draft: "false"
 weight: "10"

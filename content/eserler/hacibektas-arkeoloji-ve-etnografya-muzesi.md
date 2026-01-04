@@ -5,10 +5,10 @@ slug: "hacibektas-arkeoloji-ve-etnografya-muzesi"
 description: "## Hacıbektaş Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.559956,38.941734"
 draft: "false"
 weight: "999"

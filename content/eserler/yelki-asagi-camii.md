@@ -5,10 +5,10 @@ slug: "yelki-asagi-camii"
 description: "## Yelki Aşağı Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8729954,38.3414268"
 draft: "false"
 weight: "999"

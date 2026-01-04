@@ -5,10 +5,10 @@ slug: "degirmendere-koprusu"
 description: "## Değirmendere Köprüsü: Tarih ve Mimari Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Trabzon_Sep_2019_10_15_29_876000.jpeg/1200px-Trabzon_Sep_2019_10_15_29_876000.jpeg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "10"

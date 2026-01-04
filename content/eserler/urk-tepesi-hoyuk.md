@@ -5,10 +5,10 @@ slug: "urk-tepesi-hoyuk"
 description: "## Ürk Tepesi Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "İnönü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1182788,39.6959487"
 draft: "false"
 weight: "999"

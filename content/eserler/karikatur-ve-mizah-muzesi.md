@@ -5,10 +5,10 @@ slug: "karikatur-ve-mizah-muzesi"
 description: "## Karikatür ve Mizah Müzesi: Tarihe ve Komikliğe Ev Sahip..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97378,41.03308"
 draft: "false"
 weight: "999"

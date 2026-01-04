@@ -5,10 +5,10 @@ slug: "naksidil-valide-sultan-turbesi"
 description: "## Nakşidil Valide Sultan Türbesi: İstanbul'un Gizli Çehresinde Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Nakşidil_Valide_Sultan_Türbesi.jpg/1200px-Nakşidil_Valide_Sultan_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9508591,41.0181923"
 draft: "false"
 weight: "10"

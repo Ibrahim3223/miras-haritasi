@@ -5,10 +5,10 @@ slug: "pazar-hamami"
 description: "### Pazar Hamamı Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.706707,36.8874969"
 draft: "false"
 weight: "999"

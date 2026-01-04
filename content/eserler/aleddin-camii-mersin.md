@@ -5,10 +5,10 @@ slug: "aleddin-camii-mersin"
 description: "# Alâeddin Camii, Mersin..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.92483713,36.377936897"
 draft: "false"
 weight: "999"

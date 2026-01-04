@@ -5,10 +5,10 @@ slug: "norsuntepe-hoyugu"
 description: "# Norşuntepe Höyüğü: Elazığ'ın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.47,38.61888889"
 draft: "false"
 weight: "999"

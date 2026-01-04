@@ -5,10 +5,10 @@ slug: "pancar-tumulusu-torbali"
 description: "### Pancar Tümülüsü, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2507992,38.2210999"
 draft: "false"
 weight: "999"

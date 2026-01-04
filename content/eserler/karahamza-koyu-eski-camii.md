@@ -5,10 +5,10 @@ slug: "karahamza-koyu-eski-camii"
 description: "**Karahamza Köyü Eski Camii: Kırklareli'de Bir Önemli Kültür Mirası**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0140877,41.8725395"
 draft: "false"
 weight: "999"

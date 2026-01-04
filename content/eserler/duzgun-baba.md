@@ -5,10 +5,10 @@ slug: "duzgun-baba"
 description: "## Düzgün Baba Anıt'ı..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Nazımiye (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.7911606,39.1242981"
 draft: "false"
 weight: "999"

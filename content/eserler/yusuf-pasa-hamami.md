@@ -5,10 +5,10 @@ slug: "yusuf-pasa-hamami"
 description: "# Yusuf Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.5801373,41.0220718"
 draft: "false"
 weight: "999"

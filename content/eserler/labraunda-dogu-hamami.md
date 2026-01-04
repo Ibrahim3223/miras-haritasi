@@ -5,10 +5,10 @@ slug: "labraunda-dogu-hamami"
 description: "**Labraunda Doğu Hamamı**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8207417,37.4185219"
 draft: "false"
 weight: "999"

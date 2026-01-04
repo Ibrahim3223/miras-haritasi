@@ -5,10 +5,10 @@ slug: "dogancay-muzesi"
 description: "## Doğançay Müzesi: Beyoğlu'ndaki Etkileyici Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Dogancay_Museum.JPG/1200px-Dogancay_Museum.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.978444444,41.035805555"
 draft: "false"
 weight: "10"

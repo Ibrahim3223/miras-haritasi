@@ -5,10 +5,10 @@ slug: "alaca-minare-camii-merzifon"
 description: "## Alaca Minare Camii: Merzifon'un Tarihi Bir Çarı..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4648666,40.8760147"
 draft: "false"
 weight: "999"

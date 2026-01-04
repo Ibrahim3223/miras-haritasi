@@ -5,10 +5,10 @@ slug: "bozdag-savunma-yapisi-karacaagac"
 description: "## Bozdağ Savunma Yapısı, Karacaağaç..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8856831,37.1776276"
 draft: "false"
 weight: "999"

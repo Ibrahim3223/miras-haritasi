@@ -5,10 +5,10 @@ slug: "cagil-hoyugu"
 description: "# Çağıl Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.678661404,37.122125263"
 draft: "false"
 weight: "999"

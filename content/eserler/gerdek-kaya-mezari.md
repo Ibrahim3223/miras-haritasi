@@ -5,10 +5,10 @@ slug: "gerdek-kaya-mezari"
 description: "## Gerdek Kaya Mezarı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.8799934,40.2412262"
 draft: "false"
 weight: "999"

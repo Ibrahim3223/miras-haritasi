@@ -5,10 +5,10 @@ slug: "tuzla-koprusu"
 description: "### Tuzla Köprüsü: Yozgat'taki Tarihî Bir Miras..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yerköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.256723,39.71516"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gordion-tumulus-t26"
 description: "### Gordion Tümülüs T26 Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.997133172,39.650019326"
 draft: "false"
 weight: "999"

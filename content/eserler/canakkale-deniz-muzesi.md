@@ -5,10 +5,10 @@ slug: "canakkale-deniz-muzesi"
 description: "## Çanakkale Deniz Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.399722222,40.148055555"
 draft: "false"
 weight: "999"

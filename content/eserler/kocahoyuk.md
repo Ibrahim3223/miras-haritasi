@@ -5,10 +5,10 @@ slug: "kocahoyuk"
 description: "# Kocahöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Domaniç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.622683,39.782367"
 draft: "false"
 weight: "999"

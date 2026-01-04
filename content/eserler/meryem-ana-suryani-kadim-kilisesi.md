@@ -5,10 +5,10 @@ slug: "meryem-ana-suryani-kadim-kilisesi"
 description: "**Meryem Ana Süryani Kadim Kilisesi**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.23059,37.908979"
 draft: "false"
 weight: "999"

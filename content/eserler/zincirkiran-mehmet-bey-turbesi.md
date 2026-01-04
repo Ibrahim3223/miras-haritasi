@@ -5,10 +5,10 @@ slug: "zincirkiran-mehmet-bey-turbesi"
 description: "## Zincirkıran Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7045555,36.886982"
 draft: "false"
 weight: "999"

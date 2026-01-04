@@ -5,10 +5,10 @@ slug: "havza-imareti-kumbeti-samsun"
 description: "## Havza İmareti Kümbeti Samsun: Samsun'un Gizli Çehresini Bekleyen Bir Anıt..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.6563339,40.9711075"
 draft: "false"
 weight: "999"

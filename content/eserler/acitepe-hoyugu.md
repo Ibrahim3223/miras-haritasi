@@ -5,10 +5,10 @@ slug: "acitepe-hoyugu"
 description: "## Acıtepe Höyüğü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6974182,38.8793602"
 draft: "false"
 weight: "999"

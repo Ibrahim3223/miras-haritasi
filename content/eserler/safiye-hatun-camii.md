@@ -5,10 +5,10 @@ slug: "safiye-hatun-camii"
 description: "## Safiye Hatun Camii: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.441836744,38.820547283"
 draft: "false"
 weight: "999"

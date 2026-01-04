@@ -5,10 +5,10 @@ slug: "yayvantepe"
 description: "## Yayvantepe: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Ergani"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.7568413,38.2177962"
 draft: "false"
 weight: "999"

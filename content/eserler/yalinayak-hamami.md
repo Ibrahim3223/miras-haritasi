@@ -5,10 +5,10 @@ slug: "yalinayak-hamami"
 description: "## Yalınayak Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Yalınayak_Hamamı.jpg/1200px-Yalınayak_Hamamı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7318784,38.0832245"
 draft: "false"
 weight: "10"

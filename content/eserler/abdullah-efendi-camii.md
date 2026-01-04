@@ -5,10 +5,10 @@ slug: "abdullah-efendi-camii"
 description: "# Abdullah Efendi Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1455116,38.4209595"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "izmir-dogal-yasam-parki"
 description: "## İzmir Doğal Yaşam Parkı: Doğası İle Birleşen Müze..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/İzmir_Natural_Life_Park_p1.JPG/1200px-İzmir_Natural_Life_Park_p1.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çiğli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.963611111,38.491111111"
 draft: "false"
 weight: "10"

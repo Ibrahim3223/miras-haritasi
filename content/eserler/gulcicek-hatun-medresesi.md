@@ -5,10 +5,10 @@ slug: "gulcicek-hatun-medresesi"
 description: "### Gülçiçek Hatun Medresesi: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0498924,40.1889648"
 draft: "false"
 weight: "999"

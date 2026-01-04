@@ -5,10 +5,10 @@ slug: "pizan-kalesi"
 description: "## Pizan Kalesi: Başkale'nin Gizemli Kaleleri..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Başkale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.949346,37.952116"
 draft: "false"
 weight: "999"

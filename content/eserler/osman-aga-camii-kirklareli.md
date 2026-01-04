@@ -5,10 +5,10 @@ slug: "osman-aga-camii-kirklareli"
 description: "### Osman Ağa Camii, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2267647,41.7367935"
 draft: "false"
 weight: "999"

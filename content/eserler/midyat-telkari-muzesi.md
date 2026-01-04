@@ -5,10 +5,10 @@ slug: "midyat-telkari-muzesi"
 description: "## Midyat Telkari Müzesi: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.3757,37.41541"
 draft: "false"
 weight: "999"

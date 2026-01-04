@@ -5,10 +5,10 @@ slug: "tahta-minare-hamami"
 description: "## Tahta Minare Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.948282,41.031859"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kambur-kopru"
 description: "## Kambur Köprü: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3582096,37.6740341"
 draft: "false"
 weight: "999"

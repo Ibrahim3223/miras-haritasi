@@ -5,10 +5,10 @@ slug: "erzurum-turk-ve-islam-eserleri-muzesi"
 description: "**Erzurum Türk ve İslam Eserleri Müzesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

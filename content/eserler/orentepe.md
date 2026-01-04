@@ -5,10 +5,10 @@ slug: "orentepe"
 description: "## Örentepe Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Emet"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.41665,39.3287"
 draft: "false"
 weight: "999"

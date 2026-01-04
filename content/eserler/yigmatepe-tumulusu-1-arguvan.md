@@ -5,10 +5,10 @@ slug: "yigmatepe-tumulusu-1-arguvan"
 description: "### Yığmatepe Tümülüsü 1, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1491356,38.8230896"
 draft: "false"
 weight: "999"

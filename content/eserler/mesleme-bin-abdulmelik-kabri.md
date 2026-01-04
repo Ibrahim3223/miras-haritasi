@@ -5,10 +5,10 @@ slug: "mesleme-bin-abdulmelik-kabri"
 description: "### Mesleme Bin Abdülmelik Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mesleme_Bin_Abdülmelik_Kabri.jpg/1200px-Mesleme_Bin_Abdülmelik_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.97136,41.024283"
 draft: "false"
 weight: "10"

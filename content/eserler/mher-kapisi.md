@@ -5,10 +5,10 @@ slug: "mher-kapisi"
 description: "## Mher Kapısı: Van'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Mhera_Door.jpg/1200px-Mhera_Door.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.390203,38.516659"
 draft: "false"
 weight: "10"

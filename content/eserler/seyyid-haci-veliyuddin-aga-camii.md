@@ -5,10 +5,10 @@ slug: "seyyid-haci-veliyuddin-aga-camii"
 description: "## Seyyid Hacı Veliyüddin Ağa Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5753078,40.7737732"
 draft: "false"
 weight: "999"

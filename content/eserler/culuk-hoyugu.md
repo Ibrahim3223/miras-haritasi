@@ -5,10 +5,10 @@ slug: "culuk-hoyugu"
 description: "## Culuk Höyüğü: Ankara'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Haymana"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.6809647,39.4255971"
 draft: "false"
 weight: "999"

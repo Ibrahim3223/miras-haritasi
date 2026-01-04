@@ -5,10 +5,10 @@ slug: "cayagzi-koyu-orhan-gazi-camii"
 description: "# Çayağzı Köyü Orhan Gazi Camii..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.2287579,41.0861702"
 draft: "false"
 weight: "999"

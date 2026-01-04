@@ -5,10 +5,10 @@ slug: "molla-fenai-turbesi"
 description: "## Molla Fenai Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.938082,41.010491"
 draft: "false"
 weight: "999"

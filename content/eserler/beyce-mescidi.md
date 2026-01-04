@@ -5,10 +5,10 @@ slug: "beyce-mescidi"
 description: "## Beyce Mescidi: Edirne'nin Gizli Çeşmidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5535278,41.6826057"
 draft: "false"
 weight: "999"

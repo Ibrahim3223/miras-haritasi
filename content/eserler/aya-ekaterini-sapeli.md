@@ -5,10 +5,10 @@ slug: "aya-ekaterini-sapeli"
 description: "# Aya Ekaterini Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0245018,40.9800644"
 draft: "false"
 weight: "999"

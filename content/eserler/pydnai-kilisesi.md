@@ -5,10 +5,10 @@ slug: "pydnai-kilisesi"
 description: "### Pydnai Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.2326031,36.3333855"
 draft: "false"
 weight: "999"

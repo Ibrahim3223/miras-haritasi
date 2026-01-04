@@ -5,10 +5,10 @@ slug: "yukari-hereke-camii"
 description: "### Yukarı Hereke Camii: Kocaeli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6437035,40.7998505"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "malkaya"
 description: "# Malkaya Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Malkaya04.jpg/1200px-Malkaya04.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0570218,39.104392"
 draft: "false"
 weight: "999"

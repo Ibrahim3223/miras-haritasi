@@ -5,10 +5,10 @@ slug: "hisarkoy-kiraz"
 description: "### Hisarköy, Kiraz: İzmir'in Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kiraz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.190317,38.241817"
 draft: "false"
 weight: "999"

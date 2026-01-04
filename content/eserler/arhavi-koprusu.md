@@ -5,10 +5,10 @@ slug: "arhavi-koprusu"
 description: "# Arhavi Köprüsü: Tarihî Bir Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Arhavi_panorama_Kapisre_Bridge.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Arhavi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

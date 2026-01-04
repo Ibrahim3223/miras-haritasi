@@ -5,10 +5,10 @@ slug: "asagimaden-koyu-camii"
 description: "### Aşağımaden Köyü Camii: Artvin'in Değerli Camii Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.836387016,40.992353633"
 draft: "false"
 weight: "999"

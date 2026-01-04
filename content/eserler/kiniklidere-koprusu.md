@@ -5,10 +5,10 @@ slug: "kiniklidere-koprusu"
 description: "### Kınıklıdere Köprüsü: Tekirdağ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.977551,41.096561"
 draft: "false"
 weight: "999"

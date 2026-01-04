@@ -5,10 +5,10 @@ slug: "sara-hatun-camii"
 description: "## Sara Hatun Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.2530823,38.7046585"
 draft: "false"
 weight: "999"

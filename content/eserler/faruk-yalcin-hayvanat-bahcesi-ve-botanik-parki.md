@@ -5,10 +5,10 @@ slug: "faruk-yalcin-hayvanat-bahcesi-ve-botanik-parki"
 description: "## Faruk Yalçın Hayvanat Bahçesi ve Botanik Parkı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.36861111,40.785"
 draft: "false"
 weight: "999"

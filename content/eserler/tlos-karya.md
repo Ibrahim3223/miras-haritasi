@@ -5,10 +5,10 @@ slug: "tlos-karya"
 description: "## Tlos (Karya): Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.077022,36.601967"
 draft: "false"
 weight: "999"

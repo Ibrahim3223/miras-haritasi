@@ -5,10 +5,10 @@ slug: "ters-tepe-hoyugu"
 description: "## Ters Tepe Höyüğü: Manisa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Selendi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.841533,38.7372"
 draft: "false"
 weight: "999"

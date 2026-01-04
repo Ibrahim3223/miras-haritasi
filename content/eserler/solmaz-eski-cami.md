@@ -5,10 +5,10 @@ slug: "solmaz-eski-cami"
 description: "## Solmaz Eski Cami: Denizli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9679317,37.4918671"
 draft: "false"
 weight: "999"

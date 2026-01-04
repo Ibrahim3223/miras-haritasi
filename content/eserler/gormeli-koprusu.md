@@ -5,10 +5,10 @@ slug: "gormeli-koprusu"
 description: "# Görmeli Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.955744,36.561669"
 draft: "false"
 weight: "999"

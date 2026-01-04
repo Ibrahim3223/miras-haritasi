@@ -5,10 +5,10 @@ slug: "musa-aga-camii"
 description: "## Musa Ağa Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.444924891,38.822568259"
 draft: "false"
 weight: "999"

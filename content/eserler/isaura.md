@@ -5,10 +5,10 @@ slug: "isaura"
 description: "## Isaura: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Isaura_04.jpg/1200px-Isaura_04.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "10"

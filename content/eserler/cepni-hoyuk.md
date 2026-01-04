@@ -5,10 +5,10 @@ slug: "cepni-hoyuk"
 description: "### Çepni Höyük: Tarihî bir Mirasın İzleri..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3978299,39.6401495"
 draft: "false"
 weight: "999"

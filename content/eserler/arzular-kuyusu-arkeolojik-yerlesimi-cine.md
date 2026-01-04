@@ -5,10 +5,10 @@ slug: "arzular-kuyusu-arkeolojik-yerlesimi-cine"
 description: "# Arzular Kuyusu Arkeolojik Yerleşimi, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9606266,37.726223"
 draft: "false"
 weight: "999"

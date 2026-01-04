@@ -5,10 +5,10 @@ slug: "piyaleoglu-camii"
 description: "## Piyaleoğlu Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.139164,38.4158669"
 draft: "false"
 weight: "999"

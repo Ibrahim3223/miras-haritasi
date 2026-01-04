@@ -5,10 +5,10 @@ slug: "tattaios"
 description: "### Tattaios: Tarihi ve Kültürel Mirasın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3429555,40.286922"
 draft: "false"
 weight: "999"

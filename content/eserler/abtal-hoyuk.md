@@ -5,10 +5,10 @@ slug: "abtal-hoyuk"
 description: "# Abtal Höyük: Hatay'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.511774,36.2967956"
 draft: "false"
 weight: "999"

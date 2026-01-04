@@ -5,10 +5,10 @@ slug: "tabip-hasan-pasa-camii"
 description: "## Tabip Hasan Paşa Camii..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3795776,40.1490631"
 draft: "false"
 weight: "999"

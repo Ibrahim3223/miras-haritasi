@@ -5,10 +5,10 @@ slug: "erzurum-arkeoloji-muzesi"
 description: "**Erzurum Arkeoloji Müzesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.266861,39.901432"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kemer-hamami"
 description: "## Kemer Hamamı Tanıtımı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9739494,39.4209442"
 draft: "false"
 weight: "999"

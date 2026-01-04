@@ -5,10 +5,10 @@ slug: "limnai-trakya"
 description: "## Limnai: Trakya'nın Gizli Mirası..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.272679,40.27056"
 draft: "false"
 weight: "999"

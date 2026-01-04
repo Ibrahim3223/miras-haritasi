@@ -5,10 +5,10 @@ slug: "fasillar-aniti"
 description: "**Fasıllar Anıtı: Konya'nın Gizli Anıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fasillar.jpg/1200px-Fasillar.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.89583333,37.65833333"
 draft: "false"
 weight: "10"

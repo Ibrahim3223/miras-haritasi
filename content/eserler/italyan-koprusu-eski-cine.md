@@ -5,10 +5,10 @@ slug: "italyan-koprusu-eski-cine"
 description: "### İtalyan Köprüsü (Eski Çine)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.06493,37.5431709"
 draft: "false"
 weight: "999"

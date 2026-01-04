@@ -5,10 +5,10 @@ slug: "belen-tepe-hoyugu"
 description: "### Belen Tepe Höyüğü: Bursa'nın Gizli Kültür Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

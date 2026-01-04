@@ -5,10 +5,10 @@ slug: "leylekli-yilanli-kopru"
 description: "### Leylekli Yılanlı Köprü..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.95518,40.58952"
 draft: "false"
 weight: "999"

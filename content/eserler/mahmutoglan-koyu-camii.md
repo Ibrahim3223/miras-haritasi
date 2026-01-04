@@ -5,10 +5,10 @@ slug: "mahmutoglan-koyu-camii"
 description: "## Mahmutoğlan Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.995523066,40.356217993"
 draft: "false"
 weight: "999"

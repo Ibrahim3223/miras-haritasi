@@ -5,10 +5,10 @@ slug: "sefersah-hamami"
 description: "### Seferşah Hamamı: Ezine'de Bir Zamanın Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.3361301,39.7870255"
 draft: "false"
 weight: "999"

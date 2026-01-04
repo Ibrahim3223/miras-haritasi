@@ -5,10 +5,10 @@ slug: "canakkale-sehitlikleri"
 description: "**Çanakkale Şehitlikleri: Tarihimizin Anıtlarından Biri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Çanakkaleden.JPG/1200px-Çanakkaleden.JPG"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

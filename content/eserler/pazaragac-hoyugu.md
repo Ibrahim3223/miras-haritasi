@@ -5,10 +5,10 @@ slug: "pazaragac-hoyugu"
 description: "### Pazarağaç Höyüğü: Afyonkarahisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9333453,38.5721781"
 draft: "false"
 weight: "999"

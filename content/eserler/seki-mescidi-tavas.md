@@ -5,10 +5,10 @@ slug: "seki-mescidi-tavas"
 description: "### Seki Mescidi, Tavas: Tarihi ve Kültürel Mirasının Bir Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8066,37.6999"
 draft: "false"
 weight: "999"

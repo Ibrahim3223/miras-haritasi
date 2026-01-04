@@ -5,10 +5,10 @@ slug: "tarihi-camasirhane-muzesi"
 description: "## Tarihi Çamaşırhane Müzesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.6156998,40.6011581"
 draft: "false"
 weight: "999"

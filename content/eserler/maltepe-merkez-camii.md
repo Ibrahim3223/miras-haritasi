@@ -5,10 +5,10 @@ slug: "maltepe-merkez-camii"
 description: "## Maltepe Merkez Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1305714,40.9245453"
 draft: "false"
 weight: "999"

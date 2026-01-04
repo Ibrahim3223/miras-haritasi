@@ -5,10 +5,10 @@ slug: "ayakapi-hamami"
 description: "## Ayakapı Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Ayakap%C4%B1_Hamam%C4%B1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.955577,41.028049"
 draft: "false"
 weight: "999"

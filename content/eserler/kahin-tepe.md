@@ -5,10 +5,10 @@ slug: "kahin-tepe"
 description: "## Kahin Tepe: Kastamonu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.3919,41.2301"
 draft: "false"
 weight: "999"

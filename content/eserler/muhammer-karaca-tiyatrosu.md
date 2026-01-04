@@ -5,10 +5,10 @@ slug: "muhammer-karaca-tiyatrosu"
 description: "## Muhammer Karaca Tiyatrosu: Beyoğlu'ndaki Bir Antik Tiyatro'nun Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.976455186,41.031068036"
 draft: "false"
 weight: "999"

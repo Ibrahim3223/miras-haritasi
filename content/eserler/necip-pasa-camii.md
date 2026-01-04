@@ -5,10 +5,10 @@ slug: "necip-pasa-camii"
 description: "## Necip Paşa Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.410030629,40.156621848"
 draft: "false"
 weight: "999"

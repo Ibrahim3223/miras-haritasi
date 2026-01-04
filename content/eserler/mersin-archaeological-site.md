@@ -5,10 +5,10 @@ slug: "mersin-archaeological-site"
 description: "## Mersin Arkeolojik Alanı: Geçmişin İzleri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

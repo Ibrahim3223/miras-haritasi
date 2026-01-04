@@ -5,10 +5,10 @@ slug: "ciscissus"
 description: "# Ciscissus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.786827,38.15395"
 draft: "false"
 weight: "999"

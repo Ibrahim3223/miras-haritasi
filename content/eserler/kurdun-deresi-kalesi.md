@@ -5,10 +5,10 @@ slug: "kurdun-deresi-kalesi"
 description: "## Kurdun Deresi Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.9578934,40.5595818"
 draft: "false"
 weight: "999"

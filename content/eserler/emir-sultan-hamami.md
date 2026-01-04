@@ -5,10 +5,10 @@ slug: "emir-sultan-hamami"
 description: "## Emir Sultan Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Bursa_Emir_Sultan_Camii_7068.jpg/1200px-Bursa_Emir_Sultan_Camii_7068.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0811119,40.1806755"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "molla-mehmet-celebi-turbesi"
 description: "## Molla Mehmet Çelebi Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7437515,38.0840149"
 draft: "false"
 weight: "999"

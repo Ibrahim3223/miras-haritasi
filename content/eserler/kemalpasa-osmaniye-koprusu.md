@@ -5,10 +5,10 @@ slug: "kemalpasa-osmaniye-koprusu"
 description: "# Kemalpaşa Osmaniye Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Bridge_of_Kemalpasa.jpg/1200px-Bridge_of_Kemalpasa.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.5265797,41.4812583"
 draft: "false"
 weight: "10"

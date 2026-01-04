@@ -5,10 +5,10 @@ slug: "fatma-hatun-turbesi"
 description: "## Fatma Hatun Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5048027,37.8705292"
 draft: "false"
 weight: "999"

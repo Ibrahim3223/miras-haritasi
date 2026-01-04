@@ -5,10 +5,10 @@ slug: "yenice-camii"
 description: "## Yenice Camii: Sivrihisar'ın Tarihi Bir Örneği..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.531517,39.4517059"
 draft: "false"
 weight: "999"

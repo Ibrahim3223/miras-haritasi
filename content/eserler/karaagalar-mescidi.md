@@ -5,10 +5,10 @@ slug: "karaagalar-mescidi"
 description: "## Karaağalar Mescidi: İstanbul'un Gizli Çekeceği Bir Camisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9831619,41.0125313"
 draft: "false"
 weight: "999"

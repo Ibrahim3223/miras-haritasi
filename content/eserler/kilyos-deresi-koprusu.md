@@ -5,10 +5,10 @@ slug: "kilyos-deresi-koprusu"
 description: "## Kilyos Deresi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.039421,41.246214"
 draft: "false"
 weight: "999"

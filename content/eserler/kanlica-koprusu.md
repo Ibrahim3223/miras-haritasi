@@ -5,10 +5,10 @@ slug: "kanlica-koprusu"
 description: "## Kanlıca Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.0895538,40.6269646"
 draft: "false"
 weight: "999"

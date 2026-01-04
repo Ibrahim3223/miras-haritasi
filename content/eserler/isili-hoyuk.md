@@ -5,10 +5,10 @@ slug: "isili-hoyuk"
 description: "### İsili Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.7409501,36.9319227"
 draft: "false"
 weight: "999"

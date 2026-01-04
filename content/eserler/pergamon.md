@@ -5,10 +5,10 @@ slug: "pergamon"
 description: "**Pergamon: Antik Dünya'nın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Temple_of_Trajan,_Pergamon_01.jpg/1200px-Temple_of_Trajan,_Pergamon_01.jpg"
 province: "Dioecesis Asiana"
-iller: '["Dioecesis Asiana"]'
+iller: ["Dioecesis Asiana"]
 district: "Asya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.183333,39.116667"
 draft: "false"
 weight: "10"

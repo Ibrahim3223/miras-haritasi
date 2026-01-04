@@ -5,10 +5,10 @@ slug: "teos-liman-kilisesi"
 description: "## Teos Liman Kilisesi: İzmir'in Tarihî bir Ören Yeri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.7917385,38.1711731"
 draft: "false"
 weight: "999"

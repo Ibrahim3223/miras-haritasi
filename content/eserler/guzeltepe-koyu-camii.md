@@ -5,10 +5,10 @@ slug: "guzeltepe-koyu-camii"
 description: "### Güzeltepe Köyü Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Çayırova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4011097,40.8347206"
 draft: "false"
 weight: "999"

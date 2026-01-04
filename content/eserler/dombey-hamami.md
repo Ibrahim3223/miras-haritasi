@@ -5,10 +5,10 @@ slug: "dombey-hamami"
 description: "## Dombey Hamamı: Çivril'de Bir Tarihî Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.848774,38.3216972"
 draft: "false"
 weight: "999"

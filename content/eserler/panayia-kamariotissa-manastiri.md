@@ -5,10 +5,10 @@ slug: "panayia-kamariotissa-manastiri"
 description: "## Panayia Kamariotissa Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.086841019,40.875222289"
 draft: "false"
 weight: "999"

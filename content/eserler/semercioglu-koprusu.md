@@ -5,10 +5,10 @@ slug: "semercioglu-koprusu"
 description: "# Semercioğlu Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.897619,40.968405"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ermenek-ulu-cami"
 description: "## Ermenek Ulu Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ermenek_Ulu_Cami_5116.jpg/1200px-Ermenek_Ulu_Cami_5116.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.890277777,36.641361111"
 draft: "false"
 weight: "10"

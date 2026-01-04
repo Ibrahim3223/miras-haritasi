@@ -5,10 +5,10 @@ slug: "gazi-mihal-bey-camii"
 description: "## Gazi Mihal Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gazi_Mihal_Bey_Camii39.JPG/1200px-Gazi_Mihal_Bey_Camii39.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5403877,41.6758301"
 draft: "false"
 weight: "10"

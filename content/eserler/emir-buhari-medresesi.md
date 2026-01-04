@@ -5,10 +5,10 @@ slug: "emir-buhari-medresesi"
 description: "## Emir Buhari Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.946291,41.02028"
 draft: "false"
 weight: "999"

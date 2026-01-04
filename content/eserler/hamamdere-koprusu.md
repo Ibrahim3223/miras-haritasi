@@ -5,10 +5,10 @@ slug: "hamamdere-koprusu"
 description: "## Hamamdere Köprüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2147675,41.6087685"
 draft: "false"
 weight: "999"

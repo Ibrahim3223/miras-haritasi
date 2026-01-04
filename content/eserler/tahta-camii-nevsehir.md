@@ -5,10 +5,10 @@ slug: "tahta-camii-nevsehir"
 description: "## Tahta Camii: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7106171,38.6215973"
 draft: "false"
 weight: "999"

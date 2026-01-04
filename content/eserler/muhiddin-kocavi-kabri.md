@@ -5,10 +5,10 @@ slug: "muhiddin-kocavi-kabri"
 description: "## Muhiddin Kocavi Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9577942,41.0240784"
 draft: "false"
 weight: "999"

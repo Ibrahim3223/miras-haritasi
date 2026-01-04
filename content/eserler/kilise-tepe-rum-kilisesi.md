@@ -5,10 +5,10 @@ slug: "kilise-tepe-rum-kilisesi"
 description: "## Kilise Tepe Rum Kilisesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.289212948,41.13638903"
 draft: "false"
 weight: "999"

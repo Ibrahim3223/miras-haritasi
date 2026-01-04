@@ -5,10 +5,10 @@ slug: "divabuyeni-manastiri"
 description: "## Divabuyeni Manastırı..."
 featured_image: ""
 province: "Gevaş"
-iller: '["Gevaş"]'
+iller: ["Gevaş"]
 district: "İnköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.8451819,38.4986005"
 draft: "false"
 weight: "999"

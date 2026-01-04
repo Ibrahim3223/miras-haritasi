@@ -5,10 +5,10 @@ slug: "arabi-camii-sanliurfa"
 description: "## Arabi Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7907295,37.1455574"
 draft: "false"
 weight: "999"

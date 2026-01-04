@@ -5,10 +5,10 @@ slug: "carsi-camii-gomec"
 description: "## Çarşı Camii, Gömeç: Balıkesir'in Kutsal Mekânı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gömeç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.840936,39.390618"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amyzon"
 description: "**Amyzon Arkeolojik Sit**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Amyzon_aggregatum_SRIC_SR_87-33-04_img1.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.711,37.6087"
 draft: "false"
 weight: "999"

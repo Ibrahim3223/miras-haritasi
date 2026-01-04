@@ -5,10 +5,10 @@ slug: "aydin-sehitler-aniti"
 description: "### Aydın Şehitler Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8437366,37.8468094"
 draft: "false"
 weight: "999"

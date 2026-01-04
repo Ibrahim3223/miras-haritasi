@@ -5,10 +5,10 @@ slug: "miletos-mysia"
 description: "## Miletos (Mysia) Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.974176,39.528399"
 draft: "false"
 weight: "999"

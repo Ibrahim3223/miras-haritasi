@@ -5,10 +5,10 @@ slug: "ishan-camii"
 description: "## İşhan Camii: Artvin'in Gizli Çeşmesinde Yükselen Bir Mimari Harikası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7401,40.7511"
 draft: "false"
 weight: "999"

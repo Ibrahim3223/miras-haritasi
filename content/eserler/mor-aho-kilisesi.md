@@ -5,10 +5,10 @@ slug: "mor-aho-kilisesi"
 description: "**Mor Aho Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Dargeçit"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.6096649,37.5613174"
 draft: "false"
 weight: "999"

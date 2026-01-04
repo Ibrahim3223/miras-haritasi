@@ -5,10 +5,10 @@ slug: "tokat-mevlevihanesi"
 description: "**Tokat Mevlevihanesi: Tokat'ın Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.5542183,40.3107529"
 draft: "false"
 weight: "999"

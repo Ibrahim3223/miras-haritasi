@@ -5,10 +5,10 @@ slug: "hoca-sinan-mescidi-bergama"
 description: "## Hoca Sinan Mescidi: Bergama'nın Tarihsel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1824188,39.1201057"
 draft: "false"
 weight: "999"

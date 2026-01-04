@@ -5,10 +5,10 @@ slug: "kizilcikdere-tumulusu"
 description: "### Kızılcıkdere Tümülüsü: Kırklareli'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3223133,41.6887741"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehit-kerem-oguz-erbay-ust-gecidi"
 description: "## Şehit Kerem Oğuz Erbay Üst Geçidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Güzelyalı_Overpass.jpg/1200px-Güzelyalı_Overpass.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.083972222,38.398916666"
 draft: "false"
 weight: "10"

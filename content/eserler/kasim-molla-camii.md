@@ -5,10 +5,10 @@ slug: "kasim-molla-camii"
 description: "## Kasım Molla Camii: Of, Trabzon'un Gizli Çehresi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.305401008,40.846205063"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "canakkale-sehitleri-aniti"
 description: "## Çanakkale Şehitleri Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Onderkokturk-canakkale01.jpg/1200px-Onderkokturk-canakkale01.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.21928,40.050164"
 draft: "false"
 weight: "10"

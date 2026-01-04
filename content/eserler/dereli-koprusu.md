@@ -5,10 +5,10 @@ slug: "dereli-koprusu"
 description: "### Dereli Köprüsü: Tunceli'nin Gizemli Köprüsü..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Pertek"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.3042865,38.8928686"
 draft: "false"
 weight: "999"

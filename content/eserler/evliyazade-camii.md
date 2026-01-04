@@ -5,10 +5,10 @@ slug: "evliyazade-camii"
 description: "### Evliyazade Camii: İzmir'in tarihi bir parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1412411,38.4216728"
 draft: "false"
 weight: "999"

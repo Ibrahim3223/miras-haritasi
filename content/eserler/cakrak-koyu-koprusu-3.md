@@ -5,10 +5,10 @@ slug: "cakrak-koyu-koprusu-3"
 description: "## Çakrak Köyü Köprüsü 3: Alucra'nın Tarihi Bir Ruhuna Sahip Bir Köprü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.601627,40.525321"
 draft: "false"
 weight: "999"

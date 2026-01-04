@@ -5,10 +5,10 @@ slug: "tcg-gayret"
 description: "## TCG Gayret: Kocaeli'nin Denizcilik Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Gayret_Museum.jpg/1200px-Gayret_Museum.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.916836,40.760185"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "saka-hamami"
 description: "## Saka Hamamı: Antakya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1661263,36.2034607"
 draft: "false"
 weight: "999"

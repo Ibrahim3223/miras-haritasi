@@ -5,10 +5,10 @@ slug: "kaynarca-mevkii"
 description: "## Kaynarca Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6152382,40.3797684"
 draft: "false"
 weight: "999"

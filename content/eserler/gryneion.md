@@ -5,10 +5,10 @@ slug: "gryneion"
 description: "### Gryneion: İzmir'in Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Gryneion_Antik_Kenti.jpg/1200px-Gryneion_Antik_Kenti.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.06916667,38.87444444"
 draft: "false"
 weight: "10"

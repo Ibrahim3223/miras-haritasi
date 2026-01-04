@@ -5,10 +5,10 @@ slug: "nesturi-kocanis-kilisesi"
 description: "## Nesturi Koçanis Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.8017464,37.6525002"
 draft: "false"
 weight: "999"

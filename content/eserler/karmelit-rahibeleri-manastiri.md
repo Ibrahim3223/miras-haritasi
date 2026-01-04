@@ -5,10 +5,10 @@ slug: "karmelit-rahibeleri-manastiri"
 description: "## Karmelit Rahibeleri Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0300179,40.9818115"
 draft: "false"
 weight: "999"

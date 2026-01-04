@@ -5,10 +5,10 @@ slug: "dervis-ali-camii"
 description: "### Derviş Ali Camii: Fatih'in Gizli Çeşmesi'nin Yeri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9428787,41.0275116"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasinli-cami"
 description: "## Hasinli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4902267,38.7145462"
 draft: "false"
 weight: "999"

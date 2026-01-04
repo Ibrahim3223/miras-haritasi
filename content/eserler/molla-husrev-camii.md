@@ -5,10 +5,10 @@ slug: "molla-husrev-camii"
 description: "## Molla Hüsrev Camii: İstanbul'un Gizli Çehresinde Bir Klasik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Molla_Hüsrev_Camii,_Küçükmustafapaşa_03.jpg/1200px-Molla_Hüsrev_Camii,_Küçükmustafapaşa_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.95581883,41.026394313"
 draft: "false"
 weight: "10"

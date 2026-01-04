@@ -5,10 +5,10 @@ slug: "roma-koprusu-ulubey"
 description: "## Roma Köprüsü, Ulubey..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.326624,38.365242"
 draft: "false"
 weight: "999"

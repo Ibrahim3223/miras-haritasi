@@ -5,10 +5,10 @@ slug: "seydi-seyfullah-baba-turbe-ve-haziresi"
 description: "# Seydi Seyfullah Baba Türbe ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9313335,41.0096626"
 draft: "false"
 weight: "999"

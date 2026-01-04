@@ -5,10 +5,10 @@ slug: "taslica-camii"
 description: "## Taşlıca Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Çekmeköy_Taşlıca_Camii.jpg/1200px-Çekmeköy_Taşlıca_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.177798411,41.045500214"
 draft: "false"
 weight: "10"

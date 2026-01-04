@@ -5,10 +5,10 @@ slug: "artigiana-sapeli"
 description: "## Artigiana Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.986798976,41.048299372"
 draft: "false"
 weight: "999"

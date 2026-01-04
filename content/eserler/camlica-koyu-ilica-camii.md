@@ -5,10 +5,10 @@ slug: "camlica-koyu-ilica-camii"
 description: "## Çamlıca Köyü Ilıca Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.641552,40.9400139"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hizirsah-taksiarhon-kilisesi"
 description: "### Hızırşah Taksiarhon Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.6588955,36.7458191"
 draft: "false"
 weight: "999"

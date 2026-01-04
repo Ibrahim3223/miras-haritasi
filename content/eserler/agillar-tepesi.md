@@ -5,10 +5,10 @@ slug: "agillar-tepesi"
 description: "## Ağıllar Tepesi: Sivas'ın Gizli Cenneti..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2661561,39.8099083"
 draft: "false"
 weight: "999"

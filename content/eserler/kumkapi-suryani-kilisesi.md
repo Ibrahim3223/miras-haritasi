@@ -5,10 +5,10 @@ slug: "kumkapi-suryani-kilisesi"
 description: "### Kumkapı Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9653683,41.0060043"
 draft: "false"
 weight: "999"

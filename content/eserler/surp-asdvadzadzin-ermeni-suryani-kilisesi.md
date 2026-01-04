@@ -5,10 +5,10 @@ slug: "surp-asdvadzadzin-ermeni-suryani-kilisesi"
 description: "## Surp Asdvadzadzin Ermeni-Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.977944,41.03654"
 draft: "false"
 weight: "999"

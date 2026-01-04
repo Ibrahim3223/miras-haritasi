@@ -5,10 +5,10 @@ slug: "arap-camii-artuklu"
 description: "## Arap Camii (Artuklu): Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.748234,37.31282"
 draft: "false"
 weight: "999"

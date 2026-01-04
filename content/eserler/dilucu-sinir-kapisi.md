@@ -5,10 +5,10 @@ slug: "dilucu-sinir-kapisi"
 description: "## Dilucu Sınır Kapısı: Bir Kervansarayın Gizemi..."
 featured_image: ""
 province: "Sürmeli uyezdi"
-iller: '["Sürmeli uyezdi"]'
+iller: ["Sürmeli uyezdi"]
 district: "Aralık"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.797778,39.655556"
 draft: "false"
 weight: "999"

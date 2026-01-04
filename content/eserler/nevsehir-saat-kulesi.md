@@ -5,10 +5,10 @@ slug: "nevsehir-saat-kulesi"
 description: "## Nevşehir Saat Kulesi: Tarihi ve Ünlü Saat Kulesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.7085,38.622805555"
 draft: "false"
 weight: "999"

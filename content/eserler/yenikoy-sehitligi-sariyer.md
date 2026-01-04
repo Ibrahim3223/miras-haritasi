@@ -5,10 +5,10 @@ slug: "yenikoy-sehitligi-sariyer"
 description: "### Yeniköy Şehitliği: Sarıyer'in Anıtsal Mezarlığı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0588531,41.1187134"
 draft: "false"
 weight: "999"

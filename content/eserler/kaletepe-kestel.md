@@ -5,10 +5,10 @@ slug: "kaletepe-kestel"
 description: "# Kaletepe, Kestel Arkeolojik Sitesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.4414005,37.9524994"
 draft: "false"
 weight: "999"

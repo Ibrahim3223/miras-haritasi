@@ -5,10 +5,10 @@ slug: "nisa-antik-tiyatrosu"
 description: "## Nisa Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.627644,36.443176"
 draft: "false"
 weight: "999"

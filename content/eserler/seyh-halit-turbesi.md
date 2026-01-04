@@ -5,10 +5,10 @@ slug: "seyh-halit-turbesi"
 description: "### Şeyh Halit Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.043643,38.180538"
 draft: "false"
 weight: "999"

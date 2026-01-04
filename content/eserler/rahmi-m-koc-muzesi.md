@@ -5,10 +5,10 @@ slug: "rahmi-m-koc-muzesi"
 description: "### Rahmi M. Koç Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Istanbul_asv2021-11_img15_Rahmi_Koç_Museum.jpg/1200px-Istanbul_asv2021-11_img15_Rahmi_Koç_Museum.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.94926,41.04227"
 draft: "false"
 weight: "10"

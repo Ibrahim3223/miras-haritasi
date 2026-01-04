@@ -5,10 +5,10 @@ slug: "iki-gobek-hamami"
 description: "## İki Göbek Hamamı: Tarihi ve Kültürel Mirasın Gizli Çıplaklığı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2789652,39.9126139"
 draft: "false"
 weight: "999"

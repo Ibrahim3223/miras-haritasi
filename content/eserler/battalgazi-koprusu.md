@@ -5,10 +5,10 @@ slug: "battalgazi-koprusu"
 description: "## Battalgazi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.3505,38.2711"
 draft: "false"
 weight: "999"

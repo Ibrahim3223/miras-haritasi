@@ -5,10 +5,10 @@ slug: "east-byzantine-gate"
 description: "## Doğu Roma Kapısı: Denizli'nin Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Laodicea_East-Byzantine-Gate_20240929_084952.jpg/1200px-Laodicea_East-Byzantine-Gate_20240929_084952.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1110596,37.8352184"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bey-camii-aydin"
 description: "## Bey Camii, Aydın..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8434219,37.84758"
 draft: "false"
 weight: "999"

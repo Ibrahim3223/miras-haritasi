@@ -5,10 +5,10 @@ slug: "sircali-mescit"
 description: "## Sırçalı Mescit: Konya'nın Değerli Kültür Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5022736,37.8744736"
 draft: "false"
 weight: "999"

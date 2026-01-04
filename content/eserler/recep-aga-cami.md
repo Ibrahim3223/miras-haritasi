@@ -5,10 +5,10 @@ slug: "recep-aga-cami"
 description: "## Recep Ağa Cami: Bor, Niğde'nin İhtişamlı Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5632133,37.8925934"
 draft: "false"
 weight: "999"

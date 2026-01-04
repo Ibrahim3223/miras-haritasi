@@ -5,10 +5,10 @@ slug: "ihsan-dogramaci-aniti"
 description: "### İhsan Doğramacı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/İhsan_Doğramacı_Heykeli.jpg/1200px-İhsan_Doğramacı_Heykeli.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

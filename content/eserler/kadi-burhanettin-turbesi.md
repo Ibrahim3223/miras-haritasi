@@ -5,10 +5,10 @@ slug: "kadi-burhanettin-turbesi"
 description: "## Kadı Burhanettin Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.005433,39.742377"
 draft: "false"
 weight: "999"

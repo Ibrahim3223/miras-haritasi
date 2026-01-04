@@ -5,10 +5,10 @@ slug: "saka-baba-eyup"
 description: "**Saka Baba Anıtı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9285851,41.0433044"
 draft: "false"
 weight: "999"

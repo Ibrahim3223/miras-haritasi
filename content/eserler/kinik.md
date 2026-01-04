@@ -5,10 +5,10 @@ slug: "kinik"
 description: "# Kınık: Pazaryeri, Bilecik'teki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Pazaryeri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.834733,40.015883"
 draft: "false"
 weight: "999"

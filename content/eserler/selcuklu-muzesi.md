@@ -5,10 +5,10 @@ slug: "selcuklu-muzesi"
 description: "## Selçuklu Müzesi: Kayseri'nin İhtişamlı Tarihsel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.4841309,38.7239265"
 draft: "false"
 weight: "999"

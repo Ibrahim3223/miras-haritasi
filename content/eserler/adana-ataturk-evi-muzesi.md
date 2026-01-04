@@ -5,10 +5,10 @@ slug: "adana-ataturk-evi-muzesi"
 description: "## Adana Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ataturk_Museum_in_Adana.jpg/1200px-Ataturk_Museum_in_Adana.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.33194444,36.98861111"
 draft: "false"
 weight: "10"

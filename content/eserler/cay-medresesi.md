@@ -5,10 +5,10 @@ slug: "cay-medresesi"
 description: "### Çay Medresesi: Bir Tarihî Mirasın Gerçekleri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "31.0224819,38.5929604"
 draft: "false"
 weight: "999"

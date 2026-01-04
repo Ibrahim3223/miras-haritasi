@@ -5,10 +5,10 @@ slug: "maden-saat-kulesi"
 description: "## Maden Saat Kulesi: Türkiye'nin Doğası ile Birlikte Geçen Tarihi Bir Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "39.666472222,38.393361111"
 draft: "false"
 weight: "999"

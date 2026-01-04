@@ -5,10 +5,10 @@ slug: "hati-cirpanin-mezari"
 description: "## Hatı Çırpan'ın Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Satı_Çırpan'ın_mezarı,_Kahramankazan,_2022_Mart-ön.jpg/1200px-Satı_Çırpan'ın_mezarı,_Kahramankazan,_2022_Mart-ön.jpg"
 province: "Kahramankazan"
-iller: '["Kahramankazan"]'
+iller: ["Kahramankazan"]
 district: "Satıkadın"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.684330555,40.206730555"
 draft: "false"
 weight: "10"

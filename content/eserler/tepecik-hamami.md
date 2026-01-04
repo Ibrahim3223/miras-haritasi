@@ -5,10 +5,10 @@ slug: "tepecik-hamami"
 description: "## Tepecik Hamamı: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4254017,37.0364075"
 draft: "false"
 weight: "999"

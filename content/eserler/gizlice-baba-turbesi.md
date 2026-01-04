@@ -5,10 +5,10 @@ slug: "gizlice-baba-turbesi"
 description: "### Gizlice Baba Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.695164,39.442194"
 draft: "false"
 weight: "999"

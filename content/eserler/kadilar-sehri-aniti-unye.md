@@ -5,10 +5,10 @@ slug: "kadilar-sehri-aniti-unye"
 description: "# Kadılar Şehri Anıtı: Ünye'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.285481,41.130163"
 draft: "false"
 weight: "999"

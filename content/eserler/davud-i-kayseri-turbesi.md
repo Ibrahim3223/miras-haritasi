@@ -5,10 +5,10 @@ slug: "davud-i-kayseri-turbesi"
 description: "## Davud-i Kayseri Türbesi: İznik'in Tarihsel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.725578,40.431462"
 draft: "false"
 weight: "999"

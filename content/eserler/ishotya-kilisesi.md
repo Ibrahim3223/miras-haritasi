@@ -5,10 +5,10 @@ slug: "ishotya-kilisesi"
 description: "## İshotya Kilisesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.547094,37.756714"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turhal-kalesi"
 description: "### Turhal Kalesi: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.0924911,40.3883781"
 draft: "false"
 weight: "999"

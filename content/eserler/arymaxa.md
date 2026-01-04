@@ -5,10 +5,10 @@ slug: "arymaxa"
 description: "**Arymaxa: Kapukargın'ın Gizli Mirası**..."
 featured_image: ""
 province: "Dalaman"
-iller: '["Dalaman"]'
+iller: ["Dalaman"]
 district: "Kapukargın"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.855,36.64"
 draft: "false"
 weight: "999"

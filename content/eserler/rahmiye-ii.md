@@ -5,10 +5,10 @@ slug: "rahmiye-ii"
 description: "## Rahmiye II: Akhisar'ın Tarihi Cebi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7844658,38.8435364"
 draft: "false"
 weight: "999"

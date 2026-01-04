@@ -5,10 +5,10 @@ slug: "pamukcular-camii"
 description: "## Pamukçular Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.835035,40.787996"
 draft: "false"
 weight: "999"

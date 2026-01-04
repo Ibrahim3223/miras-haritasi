@@ -5,10 +5,10 @@ slug: "kuvva-i-milliye-kultur-muzesi"
 description: "## Kuvva-i Milliye Kültür Müzesi..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.9810925,39.5038795"
 draft: "false"
 weight: "999"

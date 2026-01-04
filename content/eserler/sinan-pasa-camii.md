@@ -5,10 +5,10 @@ slug: "sinan-pasa-camii"
 description: "## Sinan Paşa Camii: Beşiktaş'ta Bir Uygarlık Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/İstanbul_5153.jpg/1200px-İstanbul_5153.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.006245,41.042343"
 draft: "false"
 weight: "10"

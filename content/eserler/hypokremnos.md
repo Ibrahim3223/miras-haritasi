@@ -5,10 +5,10 @@ slug: "hypokremnos"
 description: "### Hypokremnos: Urla, İzmir'de Bir Keşif..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.649177,38.327305"
 draft: "false"
 weight: "999"

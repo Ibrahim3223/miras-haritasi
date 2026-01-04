@@ -5,10 +5,10 @@ slug: "zernek-kalesi"
 description: "## Zernek Kalesi: Van'ın Tarihî Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.6289,38.345661111"
 draft: "false"
 weight: "999"

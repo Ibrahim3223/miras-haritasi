@@ -5,10 +5,10 @@ slug: "ebulfazl-camii"
 description: "### Ebulfazl Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Ebulfazl_Camii_(49751).jpg/1200px-Ebulfazl_Camii_(49751).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.982027777,41.028611111"
 draft: "false"
 weight: "10"

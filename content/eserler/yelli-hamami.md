@@ -5,10 +5,10 @@ slug: "yelli-hamami"
 description: "## Yelli Hamamı: Milas'ın Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7914181,37.2695274"
 draft: "false"
 weight: "999"

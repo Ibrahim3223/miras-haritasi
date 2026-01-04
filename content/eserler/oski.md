@@ -5,10 +5,10 @@ slug: "oski"
 description: "## Oşki Manastırı: Erzurum'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Oshki4.jpg/1200px-Oshki4.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.542111111,40.613711111"
 draft: "false"
 weight: "10"

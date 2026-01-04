@@ -5,10 +5,10 @@ slug: "yarimca-camii"
 description: "## Yarımca Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3927994,41.0059013"
 draft: "false"
 weight: "999"

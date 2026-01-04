@@ -5,10 +5,10 @@ slug: "taslitepe-1-tumulusu"
 description: "# Taşlıtepe 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1273613,41.9220123"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koyunpazari-mescidi"
 description: "### Koyunpazarı Mescidi: Ankara'nın Tarihi Bir Öreni..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8630219,39.9354057"
 draft: "false"
 weight: "999"

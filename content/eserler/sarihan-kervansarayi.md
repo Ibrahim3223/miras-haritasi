@@ -5,10 +5,10 @@ slug: "sarihan-kervansarayi"
 description: "## Sarıhan Kervansarayı: Tarihî Bir Eğri Boyu Kervansarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Sarihangesamt.jpg/1200px-Sarihangesamt.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.90888889,38.71166667"
 draft: "false"
 weight: "10"

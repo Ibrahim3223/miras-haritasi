@@ -5,10 +5,10 @@ slug: "yahsihan-demir-kopru"
 description: "## Yahşihan Demir Köprü..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.447984,39.842922"
 draft: "false"
 weight: "999"

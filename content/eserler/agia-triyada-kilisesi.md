@@ -5,10 +5,10 @@ slug: "agia-triyada-kilisesi"
 description: "## Agia Triyada Kilisesi: Ayvalık'ta Bir Geçitli Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Abandoned_Old_Church.jpg/1200px-Abandoned_Old_Church.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.659734,39.335676"
 draft: "false"
 weight: "10"

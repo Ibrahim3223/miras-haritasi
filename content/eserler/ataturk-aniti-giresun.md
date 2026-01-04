@@ -5,10 +5,10 @@ slug: "ataturk-aniti-giresun"
 description: "## Atatürk Anıtı, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.384096,40.917663"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "servi-camii"
 description: "## Servi Camii: Kütahya'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9814644,39.41996"
 draft: "false"
 weight: "999"

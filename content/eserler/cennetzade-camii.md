@@ -5,10 +5,10 @@ slug: "cennetzade-camii"
 description: "### Cennetzade Camii: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2757721,39.9041786"
 draft: "false"
 weight: "999"

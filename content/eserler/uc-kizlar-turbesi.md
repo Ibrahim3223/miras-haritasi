@@ -5,10 +5,10 @@ slug: "uc-kizlar-turbesi"
 description: "## Üç Kızlar Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.6216049,40.6033211"
 draft: "false"
 weight: "999"

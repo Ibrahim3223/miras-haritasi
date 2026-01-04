@@ -5,10 +5,10 @@ slug: "helvaci-ana-turbesi"
 description: "## Helvacı Ana Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9733715,41.0430984"
 draft: "false"
 weight: "999"

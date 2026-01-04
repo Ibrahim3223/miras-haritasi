@@ -5,10 +5,10 @@ slug: "agin-ulu-camii"
 description: "### Ağın Ulu Camii: Elazığ'da Gizli Bir Çanak..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7160835,38.9428558"
 draft: "false"
 weight: "999"

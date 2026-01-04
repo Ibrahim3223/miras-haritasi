@@ -5,10 +5,10 @@ slug: "karesi-turbesi"
 description: "## Karesi Türbesi: Balıkesir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Karesi_Bey_türbesi.jpg/1200px-Karesi_Bey_türbesi.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.879388888,39.64975"
 draft: "false"
 weight: "10"

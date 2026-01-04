@@ -5,10 +5,10 @@ slug: "sih-salih-medresesi"
 description: "# Şıh Salih Medresesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.6248398,36.7993011"
 draft: "false"
 weight: "999"

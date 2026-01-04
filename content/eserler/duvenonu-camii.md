@@ -5,10 +5,10 @@ slug: "duvenonu-camii"
 description: "## Düvenönü Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Düvenönü_Camii,_Babadağ,_Denizli.jpg/1200px-Düvenönü_Camii,_Babadağ,_Denizli.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Babadağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8561993,37.8056984"
 draft: "false"
 weight: "10"

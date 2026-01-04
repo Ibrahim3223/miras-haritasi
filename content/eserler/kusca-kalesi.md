@@ -5,10 +5,10 @@ slug: "kusca-kalesi"
 description: "## Kuşça Kalesi: Cihanbeyli'nin Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Cihanbeyli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.6881027,38.8602295"
 draft: "false"
 weight: "999"

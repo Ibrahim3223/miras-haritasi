@@ -5,10 +5,10 @@ slug: "golkoy-mahallesi-kilisesi-golkoy"
 description: "## Gölköy Mahallesi Kilisesi: Geçmişin Eserleri Arasındaki Düzenlisinin Gizemi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gölköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.612792,40.614592"
 draft: "false"
 weight: "999"

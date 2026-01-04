@@ -5,10 +5,10 @@ slug: "eliav-sinagogu"
 description: "## Eliav Sinagogu..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: ""
 draft: "false"
 weight: "999"

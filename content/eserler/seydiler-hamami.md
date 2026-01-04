@@ -5,10 +5,10 @@ slug: "seydiler-hamami"
 description: "## Seydiler Hamamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.5394115,39.4475098"
 draft: "false"
 weight: "999"

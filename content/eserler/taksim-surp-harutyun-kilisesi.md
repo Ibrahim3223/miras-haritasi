@@ -5,10 +5,10 @@ slug: "taksim-surp-harutyun-kilisesi"
 description: "## Taksim Surp Harutyun Kilisesi: İstanbul'un Gizli Kıpti Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Taksim_Surp_Harutyun_Church.jpg/1200px-Taksim_Surp_Harutyun_Church.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.984126,41.035057"
 draft: "false"
 weight: "10"

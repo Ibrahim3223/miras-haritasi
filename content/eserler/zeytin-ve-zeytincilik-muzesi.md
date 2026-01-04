@@ -5,10 +5,10 @@ slug: "zeytin-ve-zeytincilik-muzesi"
 description: "# Zeytin ve Zeytincilik Müzesi: Akhisar'daki Bir Kültür Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.8399029,38.9204292"
 draft: "false"
 weight: "999"

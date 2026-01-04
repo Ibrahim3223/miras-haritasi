@@ -5,10 +5,10 @@ slug: "balibagi-hoyugu-ve-nekropolu"
 description: "## Balıbağı Höyüğü ve Nekropolü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7545052,40.5353432"
 draft: "false"
 weight: "999"

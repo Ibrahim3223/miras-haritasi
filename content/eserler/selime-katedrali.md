@@ -5,10 +5,10 @@ slug: "selime-katedrali"
 description: "### Selime Katedrali: Aksaray'ın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Selime_Cathedral.jpg/1200px-Selime_Cathedral.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.259433,38.301198"
 draft: "false"
 weight: "10"

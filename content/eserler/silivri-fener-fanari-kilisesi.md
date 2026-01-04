@@ -5,10 +5,10 @@ slug: "silivri-fener-fanari-kilisesi"
 description: "### Silivri Fener (Fanari) Kilisesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2366657,41.1538353"
 draft: "false"
 weight: "999"

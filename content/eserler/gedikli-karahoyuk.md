@@ -5,10 +5,10 @@ slug: "gedikli-karahoyuk"
 description: "## Gedikli Karahöyük: Gaziantep'te Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.832,37.2199"
 draft: "false"
 weight: "999"

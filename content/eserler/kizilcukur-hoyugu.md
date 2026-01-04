@@ -5,10 +5,10 @@ slug: "kizilcukur-hoyugu"
 description: "## Kızılçukur Höyüğü: Tarihî Mirasın Gizemli Yerleşkesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Sarıgöl"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6495113,38.1472473"
 draft: "false"
 weight: "999"

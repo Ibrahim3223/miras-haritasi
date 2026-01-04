@@ -5,10 +5,10 @@ slug: "markia-anit-mezari"
 description: "## Markia Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3176498,36.2686005"
 draft: "false"
 weight: "999"

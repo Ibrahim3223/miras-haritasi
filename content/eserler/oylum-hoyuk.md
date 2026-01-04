@@ -5,10 +5,10 @@ slug: "oylum-hoyuk"
 description: "# Oylum Höyük: Kilis'te Gizli Tarih..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/OylumHüyük1.jpg/1200px-OylumHüyük1.jpg"
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.178462,36.699138"
 draft: "false"
 weight: "10"

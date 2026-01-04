@@ -5,10 +5,10 @@ slug: "tahta-camii"
 description: "## Tahta Camii: Erzurum'un Gizli Çehresini Kapsayan Tarihi Bir Çanak..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2811089,39.9025154"
 draft: "false"
 weight: "999"

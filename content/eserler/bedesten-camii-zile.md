@@ -5,10 +5,10 @@ slug: "bedesten-camii-zile"
 description: "## Bedesten Camii, Zile..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8882446,40.3020744"
 draft: "false"
 weight: "999"

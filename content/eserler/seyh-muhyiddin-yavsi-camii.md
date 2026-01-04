@@ -5,10 +5,10 @@ slug: "seyh-muhyiddin-yavsi-camii"
 description: "### Şeyh Muhyiddin Yavsi Camii..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4706573,40.730526"
 draft: "false"
 weight: "999"

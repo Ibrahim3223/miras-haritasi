@@ -5,10 +5,10 @@ slug: "gaziura"
 description: "# Gaziura Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.059111,40.404051"
 draft: "false"
 weight: "999"

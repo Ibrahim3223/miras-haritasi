@@ -5,10 +5,10 @@ slug: "bitlice-mescidi"
 description: "### Bitlice Mescidi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9445019,41.0261612"
 draft: "false"
 weight: "999"

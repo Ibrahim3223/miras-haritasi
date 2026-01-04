@@ -5,10 +5,10 @@ slug: "phinopolis-pontus"
 description: "## Phinopolis (Pontus): Antik Dönemin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.876,41.268"
 draft: "false"
 weight: "999"

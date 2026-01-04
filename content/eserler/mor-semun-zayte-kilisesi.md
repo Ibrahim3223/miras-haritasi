@@ -5,10 +5,10 @@ slug: "mor-semun-zayte-kilisesi"
 description: "## Mor Şemun Zayte Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.3379593,37.4726677"
 draft: "false"
 weight: "999"

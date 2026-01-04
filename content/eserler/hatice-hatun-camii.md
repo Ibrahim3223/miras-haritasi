@@ -5,10 +5,10 @@ slug: "hatice-hatun-camii"
 description: "## Hatice Hatun Camii..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.2155209,40.4594574"
 draft: "false"
 weight: "999"

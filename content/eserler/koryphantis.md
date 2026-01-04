@@ -5,10 +5,10 @@ slug: "koryphantis"
 description: "## Koryphantis Arkeolojik Siti: Gömeç'in Gizli Çarpısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gömeç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.782977,39.355929"
 draft: "false"
 weight: "999"

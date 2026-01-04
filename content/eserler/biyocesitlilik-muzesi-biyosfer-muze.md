@@ -5,10 +5,10 @@ slug: "biyocesitlilik-muzesi-biyosfer-muze"
 description: "## Biyoçeşitlilik Müzesi (Biyosfer Müze)..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.732569842,39.893736578"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aidesim-orenyeri"
 description: "## Aidesim Örenyeri: Kilis'in Gizli Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

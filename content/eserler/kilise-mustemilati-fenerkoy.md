@@ -5,10 +5,10 @@ slug: "kilise-mustemilati-fenerkoy"
 description: "## Kilise Müştemilatı, Fenerköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.238133992,41.150013344"
 draft: "false"
 weight: "999"

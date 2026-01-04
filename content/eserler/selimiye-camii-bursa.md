@@ -5,10 +5,10 @@ slug: "selimiye-camii-bursa"
 description: "## Selimiye Camii (Bursa)..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0533657,40.1915703"
 draft: "false"
 weight: "1"

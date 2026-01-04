@@ -5,10 +5,10 @@ slug: "aziz-pavlus-kilisesi"
 description: "# Aziz Pavlus Kilisesi: Tarsus'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Tarsus_Ecclesia_Sancti_Pauli_Apostoli.jpg/1200px-Tarsus_Ecclesia_Sancti_Pauli_Apostoli.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.89779,36.91414"
 draft: "false"
 weight: "10"

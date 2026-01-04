@@ -5,10 +5,10 @@ slug: "cayboyu-hoyugu"
 description: "## Çayboyu Höyüğü: Türkiye'nin Gizli Özellikleri Arasındaki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Çınar"
-iller: '["Çınar"]'
+iller: ["Çınar"]
 district: "Muratcık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

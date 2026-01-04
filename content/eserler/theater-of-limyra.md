@@ -5,10 +5,10 @@ slug: "theater-of-limyra"
 description: "## Limyra Tiyatrosu: Antik Limyra'nın Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1703021,36.3430206"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-davut-turbesi"
 description: "### Şeyh Davut Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.967144,41.0171623"
 draft: "false"
 weight: "999"

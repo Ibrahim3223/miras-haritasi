@@ -5,10 +5,10 @@ slug: "cibonun-tepesi-tumulusu-sivas"
 description: "## Cibo’nun Tepesi Tümülüsü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2112503,39.7028999"
 draft: "false"
 weight: "999"

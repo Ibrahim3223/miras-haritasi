@@ -5,10 +5,10 @@ slug: "pinara-antik-tiyatrosu"
 description: "## Pınara Antik Tiyatrosu: Muğla'nın Tarihi Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.258898,36.492114"
 draft: "false"
 weight: "999"

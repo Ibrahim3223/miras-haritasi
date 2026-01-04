@@ -5,10 +5,10 @@ slug: "rosalado-mevki-kilisesi"
 description: "### Rosalado Mevki Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8703995,40.1941986"
 draft: "false"
 weight: "999"

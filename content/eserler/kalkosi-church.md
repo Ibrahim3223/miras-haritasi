@@ -5,10 +5,10 @@ slug: "kalkosi-church"
 description: "## K'alk'osi Church: Gürcistan'ın Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.342533333,40.608836111"
 draft: "false"
 weight: "999"

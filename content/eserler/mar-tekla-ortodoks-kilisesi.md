@@ -5,10 +5,10 @@ slug: "mar-tekla-ortodoks-kilisesi"
 description: "## Mar Tekla Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.9909515,36.1206665"
 draft: "false"
 weight: "999"

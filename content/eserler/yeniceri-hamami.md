@@ -5,10 +5,10 @@ slug: "yeniceri-hamami"
 description: "**Yeniçeri Hamamı**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5633163,41.6814537"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultan-ii-bayezid-kulliyesi-saglik-muzesi"
 description: "# Sultan II. Bayezid Külliyesi Sağlık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Edirne_7349_Nevit.JPG/1200px-Edirne_7349_Nevit.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.54361111,41.68583333"
 draft: "false"
 weight: "10"

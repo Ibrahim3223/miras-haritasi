@@ -5,10 +5,10 @@ slug: "cirpilli-koprusu"
 description: "### Çirpilli Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gördes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2734356,38.8170128"
 draft: "false"
 weight: "999"

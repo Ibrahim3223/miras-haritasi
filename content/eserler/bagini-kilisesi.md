@@ -5,10 +5,10 @@ slug: "bagini-kilisesi"
 description: "### Bagini Kilisesi..."
 featured_image: ""
 province: "Borçka"
-iller: '["Borçka"]'
+iller: ["Borçka"]
 district: "Balcı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.873944444,41.314583333"
 draft: "false"
 weight: "999"

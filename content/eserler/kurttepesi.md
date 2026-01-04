@@ -5,10 +5,10 @@ slug: "kurttepesi"
 description: "### Kurttepesi Arkeolojik Sitesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Bozova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.2413902,37.2348557"
 draft: "false"
 weight: "999"

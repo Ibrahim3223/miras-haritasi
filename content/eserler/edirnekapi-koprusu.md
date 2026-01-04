@@ -5,10 +5,10 @@ slug: "edirnekapi-koprusu"
 description: "## Edirnekapı Köprüsü: İstanbul'un Efsanevi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.934988,41.0303993"
 draft: "false"
 weight: "999"

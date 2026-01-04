@@ -5,10 +5,10 @@ slug: "eski-katolik-kilisesi"
 description: "## Eski Katolik Kilisesi: Giresun'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.391045,40.917533"
 draft: "false"
 weight: "999"

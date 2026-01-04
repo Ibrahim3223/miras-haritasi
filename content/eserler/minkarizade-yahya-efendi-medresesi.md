@@ -5,10 +5,10 @@ slug: "minkarizade-yahya-efendi-medresesi"
 description: "## Minkarizade Yahya Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.013287,41.021437"
 draft: "false"
 weight: "999"

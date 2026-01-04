@@ -5,10 +5,10 @@ slug: "buyuk-tekke-turbesi"
 description: "# Büyük Tekke Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9358635,38.0422173"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "beyseri-hamami"
 description: "## Beyseri Hamamı: Antakya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1641273,36.2001839"
 draft: "false"
 weight: "999"

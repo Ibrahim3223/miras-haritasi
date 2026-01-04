@@ -5,10 +5,10 @@ slug: "kymnissa"
 description: "## Kymnissa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.273513,37.00864"
 draft: "false"
 weight: "999"

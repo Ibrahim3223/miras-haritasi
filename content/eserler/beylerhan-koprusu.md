@@ -5,10 +5,10 @@ slug: "beylerhan-koprusu"
 description: "# Beylerhan Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.16441,38.69522"
 draft: "false"
 weight: "999"

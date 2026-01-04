@@ -5,10 +5,10 @@ slug: "nebi-eyup-turbesi"
 description: "## Nebi Eyüp Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6229744,36.7993469"
 draft: "false"
 weight: "999"

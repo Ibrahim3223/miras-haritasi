@@ -5,10 +5,10 @@ slug: "kilis-muzesi"
 description: "## Kilis Müzesi: Türkiyenin Kuzeyinde Gizlenen Tarihî Bir Miras..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.111388888,36.716944444"
 draft: "false"
 weight: "999"

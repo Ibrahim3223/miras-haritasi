@@ -5,10 +5,10 @@ slug: "gurun-ulu-camii"
 description: "## Gürün Ulu Camii: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gürün"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.2693138,38.7224426"
 draft: "false"
 weight: "999"

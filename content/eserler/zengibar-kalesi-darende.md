@@ -5,10 +5,10 @@ slug: "zengibar-kalesi-darende"
 description: "### Zengibar Kalesi, Darende..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Darende"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.4915009,38.5720787"
 draft: "false"
 weight: "999"

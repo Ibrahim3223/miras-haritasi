@@ -5,10 +5,10 @@ slug: "mesken-tarihi-koprusu"
 description: "### Mesken Tarihi Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2586422,37.4775734"
 draft: "false"
 weight: "999"

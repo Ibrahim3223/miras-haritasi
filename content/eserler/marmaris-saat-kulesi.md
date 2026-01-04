@@ -5,10 +5,10 @@ slug: "marmaris-saat-kulesi"
 description: "## Marmaris Saat Kulesi: Muğla'nın Tarihî Bir Simgesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "28.2700005,36.8552284"
 draft: "false"
 weight: "999"

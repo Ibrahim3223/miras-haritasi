@@ -5,10 +5,10 @@ slug: "moda-camii"
 description: "## Moda Camii: Kadıköy'ün Eski ve Şirin Camisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.025583333,40.982583333"
 draft: "false"
 weight: "999"

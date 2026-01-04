@@ -5,10 +5,10 @@ slug: "suhut-ulu-cami"
 description: "## Şuhut Ulu Cami..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.543555555,38.532611111"
 draft: "false"
 weight: "999"

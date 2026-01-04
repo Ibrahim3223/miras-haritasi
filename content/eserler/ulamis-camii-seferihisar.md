@@ -5,10 +5,10 @@ slug: "ulamis-camii-seferihisar"
 description: "## Ulamış Camii: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8414993,38.2467003"
 draft: "false"
 weight: "999"

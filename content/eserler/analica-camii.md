@@ -5,10 +5,10 @@ slug: "analica-camii"
 description: "### Analıca Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Analc%C4%B1_mescid_genel.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9769039,39.4185066"
 draft: "false"
 weight: "999"

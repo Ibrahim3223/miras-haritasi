@@ -5,10 +5,10 @@ slug: "karaagac-koyu-camii"
 description: "## Karaağaç Köyü Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Kapaklı_-_Karaağaç_Village_Mosque_-_20250602145355.jpg/1200px-Kapaklı_-_Karaağaç_Village_Mosque_-_20250602145355.jpg"
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7158623,41.0090561"
 draft: "false"
 weight: "999"

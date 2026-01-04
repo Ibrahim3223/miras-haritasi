@@ -5,10 +5,10 @@ slug: "yigit-cedid-camii"
 description: "## Bursa'nın Tarihî Çehresinde Yiğit Cedid Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Bursa_Yiğid_Cedid_Mosque_7358.jpg/1200px-Bursa_Yiğid_Cedid_Mosque_7358.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0644608,40.1858902"
 draft: "false"
 weight: "10"

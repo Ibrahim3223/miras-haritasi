@@ -5,10 +5,10 @@ slug: "katarli-hoyuk"
 description: "# Katarlı Höyük: Tarihî Mirasının Gizli Kalesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.419647306,37.152248369"
 draft: "false"
 weight: "999"

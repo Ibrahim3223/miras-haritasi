@@ -5,10 +5,10 @@ slug: "mehmet-pasa-camii"
 description: "### Mehmet Paşa Camii Tanıtımı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8357353,40.6545753"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yavsan-kilisesi"
 description: "## Yavşan Kilisesi: Mesudiye'nin Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.917484,40.460261"
 draft: "false"
 weight: "999"

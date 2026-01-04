@@ -5,10 +5,10 @@ slug: "panagia-kilisesi"
 description: "## Panagia Kilisesi: Talas'ın Gizli Çehresinde Bir Kahramanlık..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.575389,38.65498"
 draft: "false"
 weight: "999"

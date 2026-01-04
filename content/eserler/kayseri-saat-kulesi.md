@@ -5,10 +5,10 @@ slug: "kayseri-saat-kulesi"
 description: "## Kayseri Saat Kulesi: Tarih ve Kültür Mirasının Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KayseriSaatKulesi.jpg/1200px-KayseriSaatKulesi.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.48795,38.72227"
 draft: "false"
 weight: "10"

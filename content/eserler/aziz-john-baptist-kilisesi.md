@@ -5,10 +5,10 @@ slug: "aziz-john-baptist-kilisesi"
 description: "## Aziz John Baptist Kilisesi: Selçuk'un Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sirince-Hl-Johannes.JPG/1200px-Sirince-Hl-Johannes.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.432055555,37.941527777"
 draft: "false"
 weight: "10"

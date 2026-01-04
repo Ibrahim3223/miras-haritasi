@@ -5,10 +5,10 @@ slug: "ayasofya-kutuphanesi"
 description: "**Ayasofya Kütüphanesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9797077,41.0082779"
 draft: "false"
 weight: "1"

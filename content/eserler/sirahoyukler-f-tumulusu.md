@@ -5,10 +5,10 @@ slug: "sirahoyukler-f-tumulusu"
 description: "## Sırahöyükler F Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7896214,41.8340874"
 draft: "false"
 weight: "999"

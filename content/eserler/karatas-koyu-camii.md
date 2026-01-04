@@ -5,10 +5,10 @@ slug: "karatas-koyu-camii"
 description: "## Karataş Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.837162682,40.280790537"
 draft: "false"
 weight: "999"

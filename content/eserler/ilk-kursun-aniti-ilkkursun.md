@@ -5,10 +5,10 @@ slug: "ilk-kursun-aniti-ilkkursun"
 description: "## İlkkurşun: İlk kurşun anıtı Ödemiş'in Gizli Hazinesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8616924,38.1733131"
 draft: "false"
 weight: "999"

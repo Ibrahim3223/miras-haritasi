@@ -5,10 +5,10 @@ slug: "inonu-evi-muzesi"
 description: "## İnönü Evi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.132916,38.414901"
 draft: "false"
 weight: "999"

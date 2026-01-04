@@ -5,10 +5,10 @@ slug: "bana-manastiri"
 description: "## Bana Manastırı: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Bana_cathedral_-_Şenkaya.jpg/1200px-Bana_cathedral_-_Şenkaya.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.269961,40.668061"
 draft: "false"
 weight: "10"

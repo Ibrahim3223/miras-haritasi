@@ -5,10 +5,10 @@ slug: "gavur-kalesi"
 description: "# Gavur Kalesi: Tarih ve Kültürel Miras..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.417722,37.69928"
 draft: "false"
 weight: "999"

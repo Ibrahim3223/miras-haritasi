@@ -5,10 +5,10 @@ slug: "defterdar-camii"
 description: "## Defterdar Camii: Eyüp'te bir Tarihî Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Defterdar_Camii.jpg/1200px-Defterdar_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9376,41.042"
 draft: "false"
 weight: "10"

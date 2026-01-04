@@ -5,10 +5,10 @@ slug: "kayalik-hoyuk"
 description: "**Kayalık Höyük**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6362046,39.4408124"
 draft: "false"
 weight: "999"

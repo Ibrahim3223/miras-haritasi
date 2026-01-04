@@ -5,10 +5,10 @@ slug: "karatepe-arslantas"
 description: "## Karatepe-Arslantaş: Tarihî Bir Köy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Karatepe_Stadtmauer.JPG/1200px-Karatepe_Stadtmauer.JPG"
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.25361111,37.29555556"
 draft: "false"
 weight: "10"

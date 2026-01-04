@@ -5,10 +5,10 @@ slug: "theodosius-forumu"
 description: "## Theodosius Forumu: İstanbul'un Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Forum_Theodosius_Istanbul_March_2008_(1).JPG/1200px-Forum_Theodosius_Istanbul_March_2008_(1).JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.96361111,41.00972222"
 draft: "false"
 weight: "10"

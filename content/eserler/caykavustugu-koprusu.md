@@ -5,10 +5,10 @@ slug: "caykavustugu-koprusu"
 description: "## Çaykavuştuğu Köprüsü: Milas'ın Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.813015,37.3699989"
 draft: "false"
 weight: "999"

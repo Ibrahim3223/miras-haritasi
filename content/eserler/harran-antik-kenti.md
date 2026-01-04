@@ -5,10 +5,10 @@ slug: "harran-antik-kenti"
 description: "### Harran Antik Kenti: Mezopotamya'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ancient_city_of_Harran_Ruins_-_Sanliurfa.jpg/1200px-Ancient_city_of_Harran_Ruins_-_Sanliurfa.jpg"
 province: "Part İmparatorluğu"
-iller: '["Part İmparatorluğu"]'
+iller: ["Part İmparatorluğu"]
 district: "Harran"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

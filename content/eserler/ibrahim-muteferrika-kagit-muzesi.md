@@ -5,10 +5,10 @@ slug: "ibrahim-muteferrika-kagit-muzesi"
 description: "## İbrahim Müteferrika Kağıt Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.2624073,40.6514206"
 draft: "false"
 weight: "999"

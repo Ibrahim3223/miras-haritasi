@@ -5,10 +5,10 @@ slug: "yesilhisar-ulu-cami"
 description: "## Yeşilhisar Ulu Camii: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.0832214,38.3503838"
 draft: "false"
 weight: "999"

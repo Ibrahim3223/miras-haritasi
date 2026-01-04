@@ -5,10 +5,10 @@ slug: "gazi-turhan-bey-turbesi"
 description: "## Gazi Turhan Bey Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.754432,41.203417"
 draft: "false"
 weight: "999"

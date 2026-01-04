@@ -5,10 +5,10 @@ slug: "sultan-selim-ii-hamami"
 description: "## Sultan Selim (II) Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.5479851,37.7151031"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "camili-koyu-camii"
 description: "# Camili Köyü Camii: Borçka'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Khertvisi_Mosque_02.png/1200px-Khertvisi_Mosque_02.png"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.898666666,41.478944444"
 draft: "false"
 weight: "10"

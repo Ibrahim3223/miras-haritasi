@@ -5,10 +5,10 @@ slug: "termessos"
 description: "### Termessos: Antik bir Kentin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Termessos_-_Theater.jpg/1200px-Termessos_-_Theater.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.46444444,36.9825"
 draft: "false"
 weight: "10"

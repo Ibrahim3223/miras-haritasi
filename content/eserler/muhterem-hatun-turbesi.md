@@ -5,10 +5,10 @@ slug: "muhterem-hatun-turbesi"
 description: "### Muhterem Hatun Türbesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1707916,39.1431618"
 draft: "false"
 weight: "999"

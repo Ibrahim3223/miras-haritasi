@@ -5,10 +5,10 @@ slug: "ic-karaaslan-turbesi"
 description: "## İç Karaaslan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4997139,37.8737144"
 draft: "false"
 weight: "999"

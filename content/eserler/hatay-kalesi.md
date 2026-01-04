@@ -5,10 +5,10 @@ slug: "hatay-kalesi"
 description: "# Hatay Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.181778,36.2043266"
 draft: "false"
 weight: "999"

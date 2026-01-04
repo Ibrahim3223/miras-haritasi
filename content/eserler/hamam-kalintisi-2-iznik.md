@@ -5,10 +5,10 @@ slug: "hamam-kalintisi-2-iznik"
 description: "### İznik'te Bir Süs: Hamam Kalıntısı 2..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.7271347,40.4290886"
 draft: "false"
 weight: "999"

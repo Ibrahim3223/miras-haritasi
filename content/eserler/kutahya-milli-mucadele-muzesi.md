@@ -5,10 +5,10 @@ slug: "kutahya-milli-mucadele-muzesi"
 description: "### Kütahya Milli Mücadele Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.97128,39.422944"
 draft: "false"
 weight: "999"

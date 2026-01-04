@@ -5,10 +5,10 @@ slug: "gozne-kalesi"
 description: "## Gözne Kalesi: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Gözne_Castle_(east).JPG/1200px-Gözne_Castle_(east).JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.57416667,36.99222222"
 draft: "false"
 weight: "10"

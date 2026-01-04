@@ -5,10 +5,10 @@ slug: "isikli-koprusu"
 description: "## Işıklı Köprüsü: Enez'in Şanslı Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.3115387,40.7166328"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ballica-sultan-turbesi"
 description: "### Ballıca Sultan Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balıkesir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8788548,39.6436081"
 draft: "false"
 weight: "999"

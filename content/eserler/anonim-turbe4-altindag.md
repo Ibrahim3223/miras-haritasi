@@ -5,10 +5,10 @@ slug: "anonim-turbe4-altindag"
 description: "## Anonim Türbe-4, Altındağ: Ankara'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.857917644,39.943925373"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arslanpasa-camii"
 description: "## Arslanpaşa Camii: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/12/Adana_location_Kozan.svg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.996891,40.5446358"
 draft: "false"
 weight: "999"

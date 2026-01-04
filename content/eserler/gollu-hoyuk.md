@@ -5,10 +5,10 @@ slug: "gollu-hoyuk"
 description: "## Göllü Höyük: Kahramanmaraş'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.894206504,37.379517103"
 draft: "false"
 weight: "999"

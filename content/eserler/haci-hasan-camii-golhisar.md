@@ -5,10 +5,10 @@ slug: "haci-hasan-camii-golhisar"
 description: "## Hacı Hasan Camii, Gölhisar..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5189209,37.1550484"
 draft: "false"
 weight: "999"

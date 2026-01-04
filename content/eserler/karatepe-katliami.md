@@ -5,10 +5,10 @@ slug: "karatepe-katliami"
 description: "## Karatepe Katliamı Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0832214,37.9201393"
 draft: "false"
 weight: "999"

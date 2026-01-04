@@ -5,10 +5,10 @@ slug: "kalaba-tumulusu-akyurt"
 description: "## Kalaba Tümülüsü: Akyurt'taki Antik Mirasın Gizemi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Akyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0783691,40.147049"
 draft: "false"
 weight: "999"

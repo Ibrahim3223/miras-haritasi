@@ -5,10 +5,10 @@ slug: "haci-tahir-kavala-camii"
 description: "## Hacı Tahir Kavala Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.3864326,40.757843"
 draft: "false"
 weight: "999"

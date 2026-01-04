@@ -5,10 +5,10 @@ slug: "sofraz-anit-mezari"
 description: "## Sofraz Anıt Mezarı..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.9833755,37.6266708"
 draft: "false"
 weight: "999"

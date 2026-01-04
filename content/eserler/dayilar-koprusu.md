@@ -5,10 +5,10 @@ slug: "dayilar-koprusu"
 description: "## Dayılar Köprüsü: Bir Geçit Üzerinden Geçen Tarih..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.500637,38.091366"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "usta-sagirt-kumbeti"
 description: "## Usta Şagirt Kümbeti: Ahlat'ın Gizli Mihribanı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4576416,38.7365952"
 draft: "false"
 weight: "999"

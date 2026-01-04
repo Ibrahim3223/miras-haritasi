@@ -5,10 +5,10 @@ slug: "gucunkaya-hoyuk"
 description: "## Gücünkaya Höyük: Aksaray'ın Gizli Kahramanları..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1305451,38.3832658"
 draft: "false"
 weight: "999"

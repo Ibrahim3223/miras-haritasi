@@ -5,10 +5,10 @@ slug: "firuz-aga-hamami"
 description: "## Firuz Ağa Hamamı: İstanbulluğun Gizli Çehresini Açığa Çıkaran Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.979533,41.030388"
 draft: "false"
 weight: "999"

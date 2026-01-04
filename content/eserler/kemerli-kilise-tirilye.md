@@ -5,10 +5,10 @@ slug: "kemerli-kilise-tirilye"
 description: "## Kemerli Kilise (Tirilye): Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Tirilye_(Zeytinbağı)_,Bursa-Manastır.._-_panoramio.jpg/1200px-Tirilye_(Zeytinbağı)_,Bursa-Manastır.._-_panoramio.jpg"
 province: "Mudanya"
-iller: '["Mudanya"]'
+iller: ["Mudanya"]
 district: "Tirilye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.795333333,40.39325"
 draft: "false"
 weight: "10"

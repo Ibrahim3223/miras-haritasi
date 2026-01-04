@@ -5,10 +5,10 @@ slug: "st-michael-kilisesi"
 description: "## St. Michael Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.561587,41.019072"
 draft: "false"
 weight: "999"

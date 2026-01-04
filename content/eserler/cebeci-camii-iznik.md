@@ -5,10 +5,10 @@ slug: "cebeci-camii-iznik"
 description: "## Cebeci Camii: İznik'te Bir Örnek Osmanlı Mimarisi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7161598,40.4317665"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurt-seyh-dede-turbesi"
 description: "## Kurt Şeyh Dede Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Devrekani"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.8474121,41.603569"
 draft: "false"
 weight: "999"

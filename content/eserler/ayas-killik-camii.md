@@ -5,10 +5,10 @@ slug: "ayas-killik-camii"
 description: "### Ayaş Killik Camii Tanıtımı..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3309059,40.0229836"
 draft: "false"
 weight: "999"

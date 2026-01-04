@@ -5,10 +5,10 @@ slug: "aya-panayia-kilisesi"
 description: "### Aya Panayia Kilisesi: Gökçeada'nın Tarihî Bir Ölümsüzü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8730469,40.1900864"
 draft: "false"
 weight: "999"

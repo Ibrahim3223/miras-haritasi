@@ -5,10 +5,10 @@ slug: "dokumacilar-camii"
 description: "## Dokumacılar Camii: Artvin'in Gizli Çehresini Açığa Kaldıran Bir Miras..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.325809,40.768126"
 draft: "false"
 weight: "999"

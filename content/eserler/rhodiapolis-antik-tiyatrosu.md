@@ -5,10 +5,10 @@ slug: "rhodiapolis-antik-tiyatrosu"
 description: "## Rhodiapolis Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.265692,36.387474"
 draft: "false"
 weight: "999"

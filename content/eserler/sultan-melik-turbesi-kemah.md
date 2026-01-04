@@ -5,10 +5,10 @@ slug: "sultan-melik-turbesi-kemah"
 description: "## Sultan Melik Türbesi, Kemah..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.0327301,39.6084175"
 draft: "false"
 weight: "999"

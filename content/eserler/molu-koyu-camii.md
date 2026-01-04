@@ -5,10 +5,10 @@ slug: "molu-koyu-camii"
 description: "## Molu Köyü Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.372113711,38.800607967"
 draft: "false"
 weight: "999"

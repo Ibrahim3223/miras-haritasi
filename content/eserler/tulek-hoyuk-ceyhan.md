@@ -5,10 +5,10 @@ slug: "tulek-hoyuk-ceyhan"
 description: "## Tülek Höyük, Ceyhan: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.8799057,36.9552383"
 draft: "false"
 weight: "999"

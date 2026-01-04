@@ -5,10 +5,10 @@ slug: "hamiye-colakoglu-seramik-muzesi"
 description: "## Hamiye Çolakoğlu Seramik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Hamiye_Çolakoğlu_Seramik_Müzesi,_2020.jpg_05.jpg/1200px-Hacettepe_Üniversitesi,_Beytepe_Kampüsü,_Hamiye_Çolakoğlu_Seramik_Müzesi,_2020.jpg_05.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.730901,39.891782"
 draft: "false"
 weight: "10"

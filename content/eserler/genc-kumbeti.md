@@ -5,10 +5,10 @@ slug: "genc-kumbeti"
 description: "### Genç Kümbeti..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Genç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.5767708,38.7562523"
 draft: "false"
 weight: "999"

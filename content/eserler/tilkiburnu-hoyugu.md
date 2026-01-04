@@ -5,10 +5,10 @@ slug: "tilkiburnu-hoyugu"
 description: "## Tilkiburnu Höyüğü: Kırklareli'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

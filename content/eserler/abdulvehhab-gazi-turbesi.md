@@ -5,10 +5,10 @@ slug: "abdulvehhab-gazi-turbesi"
 description: "### Abdülvehhab Gazi Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.244205,40.263407"
 draft: "false"
 weight: "999"

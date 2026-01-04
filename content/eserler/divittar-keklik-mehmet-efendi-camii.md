@@ -5,10 +5,10 @@ slug: "divittar-keklik-mehmet-efendi-camii"
 description: "## Divittar Keklik Mehmet Efendi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.955952,41.021662"
 draft: "false"
 weight: "999"

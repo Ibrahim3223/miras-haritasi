@@ -5,10 +5,10 @@ slug: "mezartepesi"
 description: "### Mezartepesi: Tokat'taki Antik Bir Miras..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.6068561,40.2074953"
 draft: "false"
 weight: "999"

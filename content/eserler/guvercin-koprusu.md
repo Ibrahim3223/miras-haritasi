@@ -5,10 +5,10 @@ slug: "guvercin-koprusu"
 description: "### Güvercin Köprüsü: Gönen'in Tarihi Bir Şehri Arayanların Adeta Kaderi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Aesepus_Bridge_3.JPG/1200px-Aesepus_Bridge_3.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.602326,40.26746"
 draft: "false"
 weight: "10"

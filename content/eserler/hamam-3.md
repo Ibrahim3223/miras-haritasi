@@ -5,10 +5,10 @@ slug: "hamam-3"
 description: "## Selçuk'un Tarihi Hamamı: Hamam 3..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3652,37.9547005"
 draft: "false"
 weight: "999"

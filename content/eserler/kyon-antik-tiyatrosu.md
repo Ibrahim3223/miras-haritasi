@@ -5,10 +5,10 @@ slug: "kyon-antik-tiyatrosu"
 description: "### Kyon Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Kavaklıdere"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.462257,37.411583"
 draft: "false"
 weight: "999"

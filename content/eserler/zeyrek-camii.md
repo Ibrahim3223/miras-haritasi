@@ -5,10 +5,10 @@ slug: "zeyrek-camii"
 description: "## Zeyrek Camii: İstanbul'un Tarihî Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Molla_Zeyrek_Camii.jpg/1200px-Molla_Zeyrek_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.95722222,41.01972222"
 draft: "false"
 weight: "10"

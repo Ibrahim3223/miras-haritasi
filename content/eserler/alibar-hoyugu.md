@@ -5,10 +5,10 @@ slug: "alibar-hoyugu"
 description: "### Alibar Höyüğü: Yozgat'taki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.750286808,39.407159802"
 draft: "false"
 weight: "999"

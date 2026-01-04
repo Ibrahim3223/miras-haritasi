@@ -5,10 +5,10 @@ slug: "hamidiye-koprusu-kalintisi"
 description: "## Hamidiye Köprüsü Kalıntısı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.9207611,40.5765648"
 draft: "false"
 weight: "999"

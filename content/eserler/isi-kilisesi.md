@@ -5,10 +5,10 @@ slug: "isi-kilisesi"
 description: "## İsi Kilisesi..."
 featured_image: ""
 province: "Uzundere"
-iller: '["Uzundere"]'
+iller: ["Uzundere"]
 district: "Altınçanak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.616375,40.576005555"
 draft: "false"
 weight: "999"

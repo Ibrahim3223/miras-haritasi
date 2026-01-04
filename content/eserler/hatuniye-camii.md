@@ -5,10 +5,10 @@ slug: "hatuniye-camii"
 description: "### Hatuniye Camii: Amasya'nın Tarihî Bir Çandır..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Amasya-Mosque.JPG/1200px-Amasya-Mosque.JPG"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.829416666,40.652027777"
 draft: "false"
 weight: "10"

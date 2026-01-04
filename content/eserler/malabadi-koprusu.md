@@ -5,10 +5,10 @@ slug: "malabadi-koprusu"
 description: "### Malabadi Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Malabadibridge.jpg/1200px-Malabadibridge.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.20373,38.15348"
 draft: "false"
 weight: "10"

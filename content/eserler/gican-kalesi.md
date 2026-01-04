@@ -5,10 +5,10 @@ slug: "gican-kalesi"
 description: "### Gıcan Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.8403702,37.8186073"
 draft: "false"
 weight: "999"

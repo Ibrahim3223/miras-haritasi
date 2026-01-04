@@ -5,10 +5,10 @@ slug: "ayasofya-sehzadeler-turbesi"
 description: "## Ayasofya Şehzadeler Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Tomb_of_Princes_-at_Hagia_Sophia_-_02.JPG/1200px-Tomb_of_Princes_-at_Hagia_Sophia_-_02.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9793587,41.0079689"
 draft: "false"
 weight: "1"

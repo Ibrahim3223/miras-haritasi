@@ -5,10 +5,10 @@ slug: "egirdir-hoyuk"
 description: "## Eğirdir Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.819083,37.889583"
 draft: "false"
 weight: "999"

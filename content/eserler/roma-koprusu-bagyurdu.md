@@ -5,10 +5,10 @@ slug: "roma-koprusu-bagyurdu"
 description: "### Roma Köprüsü, Bağyurdu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.630976,38.444168"
 draft: "false"
 weight: "999"

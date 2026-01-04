@@ -5,10 +5,10 @@ slug: "kanlidere-sehitligi"
 description: "**Kanlıdere Şehitliği**..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2393684,40.0872459"
 draft: "false"
 weight: "999"

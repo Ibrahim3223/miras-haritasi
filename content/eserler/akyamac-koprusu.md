@@ -5,10 +5,10 @@ slug: "akyamac-koprusu"
 description: "## Akyamaç Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.919483,41.044267"
 draft: "false"
 weight: "999"

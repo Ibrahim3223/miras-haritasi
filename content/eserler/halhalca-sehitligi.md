@@ -5,10 +5,10 @@ slug: "halhalca-sehitligi"
 description: "# Halhalca Şehitliği..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4353199,40.1612778"
 draft: "false"
 weight: "999"

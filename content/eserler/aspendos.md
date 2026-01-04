@@ -5,10 +5,10 @@ slug: "aspendos"
 description: "### Aspendos: Antik Çağın En Büyük Tiyatro Yapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Aspendos_Amphitheatre.jpg/1200px-Aspendos_Amphitheatre.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.17222,36.93889"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "gazi-camii-burdur"
 description: "### Gazi Camii, Burdur..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2847843,37.7185478"
 draft: "false"
 weight: "999"

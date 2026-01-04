@@ -5,10 +5,10 @@ slug: "ahmet-aga-camii-altinyayla"
 description: "### Ahmet Ağa Camii, Altınyayla..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Altınyayla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.7512093,39.2720261"
 draft: "false"
 weight: "999"

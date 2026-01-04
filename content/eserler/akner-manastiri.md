@@ -5,10 +5,10 @@ slug: "akner-manastiri"
 description: "## Akner Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/58/Vartanantz.jpg"
 province: "Aladağ"
-iller: '["Aladağ"]'
+iller: ["Aladağ"]
 district: "Eğner"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "35.4596078,37.448194"
 draft: "false"
 weight: "999"

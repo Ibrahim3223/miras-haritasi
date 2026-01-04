@@ -5,10 +5,10 @@ slug: "dort-tepeler-d-tumulusu"
 description: "### Dört Tepeler D Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7069492,41.4635849"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "baladur-haci-mehmet-aga-camii"
 description: "### Baladur Hacı Mehmet Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1393375,38.4142189"
 draft: "false"
 weight: "999"

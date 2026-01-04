@@ -5,10 +5,10 @@ slug: "tepekoy-camii-kesap"
 description: "### Tepeköy Camii (Keşap): Giresun'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Keşap"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.563033,40.919575"
 draft: "false"
 weight: "999"

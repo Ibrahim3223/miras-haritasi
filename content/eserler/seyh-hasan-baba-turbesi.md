@@ -5,10 +5,10 @@ slug: "seyh-hasan-baba-turbesi"
 description: "## Şeyh Hasan Baba Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.9857178,37.0290451"
 draft: "false"
 weight: "999"

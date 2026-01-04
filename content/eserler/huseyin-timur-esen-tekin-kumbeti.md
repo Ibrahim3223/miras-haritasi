@@ -5,10 +5,10 @@ slug: "huseyin-timur-esen-tekin-kumbeti"
 description: "## Hüseyin Timur-Esen Tekin Kümbeti..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4716492,38.7490501"
 draft: "false"
 weight: "999"

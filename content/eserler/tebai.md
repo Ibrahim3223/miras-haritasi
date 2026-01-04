@@ -5,10 +5,10 @@ slug: "tebai"
 description: "### Tebai Arkeolojik Siti: Balıkesir'in Gizli Çanakkale'si..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0,39.5833"
 draft: "false"
 weight: "999"

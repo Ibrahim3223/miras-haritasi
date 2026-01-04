@@ -5,10 +5,10 @@ slug: "abdulmecid-cami"
 description: "# Abdulmecid Cami: Adana'nın Güzeli..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.2956928,36.9725678"
 draft: "false"
 weight: "999"

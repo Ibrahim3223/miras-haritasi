@@ -5,10 +5,10 @@ slug: "oleatrium-zeytin-ve-zeytinyagi-tarihi-muzesi"
 description: "### Oleatrium Zeytin ve Zeytinyağı Tarihi Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2894897,37.7593002"
 draft: "false"
 weight: "999"

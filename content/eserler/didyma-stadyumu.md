@@ -5,10 +5,10 @@ slug: "didyma-stadyumu"
 description: "## Didyma Stadyumu: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.256666666,37.384722222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kisa-kopru"
 description: "## Kısa Köprü: Silivri'nin Tarihi ve Etkileyici Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2432232,41.0753632"
 draft: "false"
 weight: "999"

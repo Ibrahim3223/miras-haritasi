@@ -5,10 +5,10 @@ slug: "mukrime-hatun-turbesi"
 description: "### Mükrime Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Mukrime_Hatun_tomb_8028.jpg/1200px-Mukrime_Hatun_tomb_8028.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0454998,40.1902847"
 draft: "false"
 weight: "10"

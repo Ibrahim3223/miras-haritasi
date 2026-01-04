@@ -5,10 +5,10 @@ slug: "kusdam-hoyuk"
 description: "## Kuşdam Höyük..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1829453,39.0524368"
 draft: "false"
 weight: "999"

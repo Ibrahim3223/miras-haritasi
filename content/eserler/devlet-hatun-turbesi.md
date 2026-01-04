@@ -5,10 +5,10 @@ slug: "devlet-hatun-turbesi"
 description: "# Devlet Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bursa_Devlet_Hatun_Türbesi_2006_0037.jpg/1200px-Bursa_Devlet_Hatun_Türbesi_2006_0037.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0757668,40.183863"
 draft: "false"
 weight: "10"

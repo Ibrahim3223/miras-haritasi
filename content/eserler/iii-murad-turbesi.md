@@ -5,10 +5,10 @@ slug: "iii-murad-turbesi"
 description: "### III. Murad Türbesi: Fatih, İstanbul'un Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

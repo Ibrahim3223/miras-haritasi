@@ -5,10 +5,10 @@ slug: "kuytu-camii"
 description: "## Kuytu Camii: Çankırı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5194321,40.7359695"
 draft: "false"
 weight: "999"

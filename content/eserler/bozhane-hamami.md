@@ -5,10 +5,10 @@ slug: "bozhane-hamami"
 description: "### Bozhane Hamamı: Tarihî Bir Mirasın Gerçek Hikayesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Karadeniz Ereğli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.4139938,41.2840996"
 draft: "false"
 weight: "999"

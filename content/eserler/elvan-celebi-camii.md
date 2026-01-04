@@ -5,10 +5,10 @@ slug: "elvan-celebi-camii"
 description: "## Elvan Çelebi Camii: Fatih'te Gizlenmiş bir Cennet..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.979187,41.0151176"
 draft: "false"
 weight: "999"

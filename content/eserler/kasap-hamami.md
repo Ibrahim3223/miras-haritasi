@@ -5,10 +5,10 @@ slug: "kasap-hamami"
 description: "### Kasap Hamamı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.6734453,40.4097664"
 draft: "false"
 weight: "999"

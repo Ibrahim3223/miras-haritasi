@@ -5,10 +5,10 @@ slug: "dede-sultan-hamami"
 description: "## Dede Sultan Hamamı: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7760449,41.3719164"
 draft: "false"
 weight: "999"

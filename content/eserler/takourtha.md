@@ -5,10 +5,10 @@ slug: "takourtha"
 description: "## Takourtha Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.419758,37.262517"
 draft: "false"
 weight: "999"

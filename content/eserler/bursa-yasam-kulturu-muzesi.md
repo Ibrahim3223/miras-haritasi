@@ -5,10 +5,10 @@ slug: "bursa-yasam-kulturu-muzesi"
 description: "## Bursa Yaşam Kültürü Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0580921,40.1808853"
 draft: "false"
 weight: "999"

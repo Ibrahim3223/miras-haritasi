@@ -5,10 +5,10 @@ slug: "gordion-tumulus-g"
 description: "## Gordion Tümülüs G: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.990639,39.653648"
 draft: "false"
 weight: "999"

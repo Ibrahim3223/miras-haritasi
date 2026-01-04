@@ -5,10 +5,10 @@ slug: "tasmakiran-camii"
 description: "## Tasmakıran Camii: Tarihi ve Mimari Gizemi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4803047,38.7176208"
 draft: "false"
 weight: "999"

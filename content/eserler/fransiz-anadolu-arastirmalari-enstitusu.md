@@ -5,10 +5,10 @@ slug: "fransiz-anadolu-arastirmalari-enstitusu"
 description: "## Fransız Anadolu Araştırmaları Enstitüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Palace_of_France,_Istanbul_(16034968799).jpg/1200px-Palace_of_France,_Istanbul_(16034968799).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.977293393,41.031519936"
 draft: "false"
 weight: "10"

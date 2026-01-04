@@ -5,10 +5,10 @@ slug: "bodur-camii"
 description: "### Sivrihisar'ın Bodur Camii: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5338993,39.4505005"
 draft: "false"
 weight: "999"

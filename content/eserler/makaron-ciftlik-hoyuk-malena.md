@@ -5,10 +5,10 @@ slug: "makaron-ciftlik-hoyuk-malena"
 description: "### Makaron Çiftlik Höyük, Malena..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.844602777,39.136086111"
 draft: "false"
 weight: "999"

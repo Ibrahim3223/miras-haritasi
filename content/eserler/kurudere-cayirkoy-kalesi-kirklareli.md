@@ -5,10 +5,10 @@ slug: "kurudere-cayirkoy-kalesi-kirklareli"
 description: "### Kurudere Çayırköy Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5129356,41.7552681"
 draft: "false"
 weight: "999"

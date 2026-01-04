@@ -5,10 +5,10 @@ slug: "bayramli-kilisesi"
 description: "## Bayramlı Kilisesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.8205757,41.3078041"
 draft: "false"
 weight: "999"

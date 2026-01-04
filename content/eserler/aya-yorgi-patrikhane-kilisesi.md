@@ -5,10 +5,10 @@ slug: "aya-yorgi-patrikhane-kilisesi"
 description: "**Aya Yorgi Patrikhane Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Church_of_St._George,_Istanbul_(August_2010).jpg/1200px-Church_of_St._George,_Istanbul_(August_2010).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.951822222,41.029091666"
 draft: "false"
 weight: "10"

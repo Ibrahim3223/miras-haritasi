@@ -5,10 +5,10 @@ slug: "yagibasan-medresesi-tokat"
 description: "### Yağıbasan Medresesi: Tokat'ın Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Ekran_görüntüsü_2023-01-11_003313.png/1200px-Ekran_görüntüsü_2023-01-11_003313.png"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "36.546166666,40.315694444"
 draft: "false"
 weight: "10"

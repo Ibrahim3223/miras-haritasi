@@ -5,10 +5,10 @@ slug: "milli-mucadele-muzesi-kayseri"
 description: "## Milli Mücadele Müzesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.4888992,38.7166557"
 draft: "false"
 weight: "999"

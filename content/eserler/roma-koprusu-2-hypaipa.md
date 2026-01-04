@@ -5,10 +5,10 @@ slug: "roma-koprusu-2-hypaipa"
 description: "## Roma Köprüsü 2, Hypaipa: Ödemiş'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9549236,38.2744179"
 draft: "false"
 weight: "999"

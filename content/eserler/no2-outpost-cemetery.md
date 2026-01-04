@@ -5,10 +5,10 @@ slug: "no2-outpost-cemetery"
 description: "## No.2 Outpost Cemetery: Kocadere'nin Gizli Anıtı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.28187,40.25218"
 draft: "false"
 weight: "999"

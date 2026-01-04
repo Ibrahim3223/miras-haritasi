@@ -5,10 +5,10 @@ slug: "gorgodos-kilisesi"
 description: "## Gorgodos Kilisesi: Torul'un Gizli Değerleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.2660751,40.5104485"
 draft: "false"
 weight: "999"

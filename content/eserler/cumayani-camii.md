@@ -5,10 +5,10 @@ slug: "cumayani-camii"
 description: "## Cumayanı Camii: Kastamonu'nun Tarihi Bir Anıt..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.972065,41.9695168"
 draft: "false"
 weight: "999"

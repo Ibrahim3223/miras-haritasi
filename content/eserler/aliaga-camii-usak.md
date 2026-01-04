@@ -5,10 +5,10 @@ slug: "aliaga-camii-usak"
 description: "### Aliağa Camii: Uşak'ın Tarihi Bir Cenneti..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4025478,38.6805954"
 draft: "false"
 weight: "999"

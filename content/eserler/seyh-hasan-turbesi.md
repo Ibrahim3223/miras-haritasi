@@ -5,10 +5,10 @@ slug: "seyh-hasan-turbesi"
 description: "## Şeyh Hasan Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Aybastı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.44416,40.702332"
 draft: "false"
 weight: "999"

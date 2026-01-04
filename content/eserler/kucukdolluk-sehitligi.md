@@ -5,10 +5,10 @@ slug: "kucukdolluk-sehitligi"
 description: "### Küçükdöllük Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6677799,41.7553787"
 draft: "false"
 weight: "999"

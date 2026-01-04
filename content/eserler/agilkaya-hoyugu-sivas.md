@@ -5,10 +5,10 @@ slug: "agilkaya-hoyugu-sivas"
 description: "## Ağılkaya Höyüğü: Sivas'ın Gizli Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2989502,39.6348495"
 draft: "false"
 weight: "999"

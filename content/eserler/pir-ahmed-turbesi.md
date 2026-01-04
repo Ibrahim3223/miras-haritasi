@@ -5,10 +5,10 @@ slug: "pir-ahmed-turbesi"
 description: "## Pir Ahmed Türbesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.6025085,40.39571"
 draft: "false"
 weight: "999"

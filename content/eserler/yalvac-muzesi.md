@@ -5,10 +5,10 @@ slug: "yalvac-muzesi"
 description: "## Yalvaç Müzesi: Isparta'nın Kültür Mirasının Anıtlarından Biridir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Yalvaç_Müzesi.jpg/1200px-Yalvaç_Müzesi.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.178224,38.298041"
 draft: "false"
 weight: "10"

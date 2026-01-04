@@ -5,10 +5,10 @@ slug: "tarihi-debboy-koprusu"
 description: "## Tarihi Debboy Köprüsü: Gediz'in Gizli Cenneti..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Gediz"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4152318,39.0457751"
 draft: "false"
 weight: "999"

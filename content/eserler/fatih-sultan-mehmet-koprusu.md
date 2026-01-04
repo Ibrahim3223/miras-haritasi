@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-koprusu"
 description: "## Fatih Sultan Mehmet Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Istanbul_Bosporusbrücke_II.JPG/1200px-Istanbul_Bosporusbrücke_II.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.061388888,41.091111111"
 draft: "false"
 weight: "10"

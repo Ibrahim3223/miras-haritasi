@@ -5,10 +5,10 @@ slug: "hierapolis-plutoniumu"
 description: "## Hierapolis Plutoniumu: Denizli'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Plutonium-2.jpg/1200px-Plutonium-2.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.12611111,37.92666667"
 draft: "false"
 weight: "10"

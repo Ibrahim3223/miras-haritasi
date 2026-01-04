@@ -5,10 +5,10 @@ slug: "kopru-4-bozdogan"
 description: "## Köprü 4, Bozdoğan: Aydın'ın Etkileyici Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3097115,37.6744804"
 draft: "false"
 weight: "999"

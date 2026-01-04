@@ -5,10 +5,10 @@ slug: "muvatalli-kabartmasi"
 description: "## Muvatalli Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sirkeli_Hüyük_04_2004_hethitisches_Felsrelief_am_Ceyhan.jpg/1200px-Sirkeli_Hüyük_04_2004_hethitisches_Felsrelief_am_Ceyhan.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.7458725,37.0040016"
 draft: "false"
 weight: "10"

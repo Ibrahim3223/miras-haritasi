@@ -5,10 +5,10 @@ slug: "istanbul-sinema-muzesi"
 description: "## İstanbul Sinema Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9791546,41.0341988"
 draft: "false"
 weight: "999"

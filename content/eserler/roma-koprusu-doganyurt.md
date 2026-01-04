@@ -5,10 +5,10 @@ slug: "roma-koprusu-doganyurt"
 description: "### Roma Köprüsü, Doğanyurt..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9822998,37.6100998"
 draft: "false"
 weight: "999"

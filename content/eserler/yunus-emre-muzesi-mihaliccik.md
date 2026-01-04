@@ -5,10 +5,10 @@ slug: "yunus-emre-muzesi-mihaliccik"
 description: "## Yunus Emre Müzesi, Mihalıçcık..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mihalıççık"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.486459,39.710971"
 draft: "false"
 weight: "999"

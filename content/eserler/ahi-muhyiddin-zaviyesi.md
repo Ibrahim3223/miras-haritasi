@@ -5,10 +5,10 @@ slug: "ahi-muhyiddin-zaviyesi"
 description: "## Ahi Muhyiddin Zaviyesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.5543976,40.3079491"
 draft: "false"
 weight: "999"

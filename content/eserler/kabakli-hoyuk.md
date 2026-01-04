@@ -5,10 +5,10 @@ slug: "kabakli-hoyuk"
 description: "## Kabaklı Höyük: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2367888,39.7209239"
 draft: "false"
 weight: "999"

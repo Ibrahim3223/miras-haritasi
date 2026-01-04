@@ -5,10 +5,10 @@ slug: "atlamatasi-camii"
 description: "# Atlamataşı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Pervititch-Maps_of_Istanbul-Kas%C4%B1mpa%C5%9Fa%2C_Atlamata%C5%9F%C4%B1-19.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9608631,41.0206108"
 draft: "false"
 weight: "999"

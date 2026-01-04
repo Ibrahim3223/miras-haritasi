@@ -5,10 +5,10 @@ slug: "ilk-adim-aniti-ilkadim"
 description: "## İlkadım Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.335499,41.292237"
 draft: "false"
 weight: "999"

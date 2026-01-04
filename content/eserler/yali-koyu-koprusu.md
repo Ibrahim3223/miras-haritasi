@@ -5,10 +5,10 @@ slug: "yali-koyu-koprusu"
 description: "**Yalı Köyü Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.92238,41.037775"
 draft: "false"
 weight: "999"

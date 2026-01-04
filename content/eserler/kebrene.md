@@ -5,10 +5,10 @@ slug: "kebrene"
 description: "## Kebrene Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.566389,39.744167"
 draft: "false"
 weight: "999"

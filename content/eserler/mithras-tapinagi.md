@@ -5,10 +5,10 @@ slug: "mithras-tapinagi"
 description: "## Mithras Tapınağı: Diyarbakır'ın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.4987078,37.6098135"
 draft: "false"
 weight: "999"

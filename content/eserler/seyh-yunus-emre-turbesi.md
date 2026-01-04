@@ -5,10 +5,10 @@ slug: "seyh-yunus-emre-turbesi"
 description: "## Şeyh Yunus Emre Türbesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.243611111,41.119416666"
 draft: "false"
 weight: "999"

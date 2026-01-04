@@ -5,10 +5,10 @@ slug: "verya-sinagogu"
 description: "## Verya Sinagogu: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.945722222,41.033388888"
 draft: "false"
 weight: "999"

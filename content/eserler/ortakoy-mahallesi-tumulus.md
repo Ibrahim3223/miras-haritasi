@@ -5,10 +5,10 @@ slug: "ortakoy-mahallesi-tumulus"
 description: "## Ortaköy Mahallesi Tümülüs..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3919811,41.0907173"
 draft: "false"
 weight: "999"

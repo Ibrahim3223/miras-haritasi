@@ -5,10 +5,10 @@ slug: "sanliurfa-geleneksel-el-sanatlari-muzesi"
 description: "## Şanlıurfa Geleneksel El Sanatları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Şanlıurfa_Geleneksel_El_Sanatları_Merkezi.jpg/1200px-Şanlıurfa_Geleneksel_El_Sanatları_Merkezi.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.783691,37.148487"
 draft: "false"
 weight: "10"

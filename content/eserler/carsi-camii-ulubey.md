@@ -5,10 +5,10 @@ slug: "carsi-camii-ulubey"
 description: "## Çarşı Camii, Ulubey: Uşak'ın Değerli Eseri..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2910938,38.4187889"
 draft: "false"
 weight: "999"

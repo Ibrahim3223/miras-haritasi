@@ -5,10 +5,10 @@ slug: "darulhadis-camii"
 description: "## Darülhadis Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Darülhadis_Camii_-_2025c.jpg/1200px-Darülhadis_Camii_-_2025c.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5483341,41.6711159"
 draft: "false"
 weight: "10"

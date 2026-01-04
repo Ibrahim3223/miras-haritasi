@@ -5,10 +5,10 @@ slug: "hilmi-abbas-camii"
 description: "## Hilmi Abbas Camii: Pendik, İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2342774,40.8811934"
 draft: "false"
 weight: "999"

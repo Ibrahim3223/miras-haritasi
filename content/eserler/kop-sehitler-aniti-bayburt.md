@@ -5,10 +5,10 @@ slug: "kop-sehitler-aniti-bayburt"
 description: "### Kop Şehitler Anıtı, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.519638,40.026792"
 draft: "false"
 weight: "999"

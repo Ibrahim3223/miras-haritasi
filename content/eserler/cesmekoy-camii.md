@@ -5,10 +5,10 @@ slug: "cesmekoy-camii"
 description: "## Çeşmeköy Camii: Datça' nun Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4602509,36.693634"
 draft: "false"
 weight: "999"

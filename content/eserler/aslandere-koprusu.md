@@ -5,10 +5,10 @@ slug: "aslandere-koprusu"
 description: "## Aslandere Köprüsü: Rize'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.2490353,41.2509433"
 draft: "false"
 weight: "999"

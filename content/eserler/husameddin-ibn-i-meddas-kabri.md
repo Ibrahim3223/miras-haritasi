@@ -5,10 +5,10 @@ slug: "husameddin-ibn-i-meddas-kabri"
 description: "## Hüsameddin İbn-i Meddas Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9588261,41.0227966"
 draft: "false"
 weight: "999"

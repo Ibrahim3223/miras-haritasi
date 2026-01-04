@@ -5,10 +5,10 @@ slug: "kucuk-kozluca-hoyugu"
 description: "## Küçük Kozluca Höyüğü: Şırnak'ın Gizli İncisi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.7060776,37.1458168"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-koltuk-kapisi"
 description: "### Yıldız Sarayı Koltuk Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.010467426,41.050141645"
 draft: "false"
 weight: "999"

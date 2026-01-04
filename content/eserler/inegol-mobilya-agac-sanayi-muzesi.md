@@ -5,10 +5,10 @@ slug: "inegol-mobilya-agac-sanayi-muzesi"
 description: "## İnegöl Mobilya Ağaç Sanayi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.5130463,40.0782242"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "geyikli-hamami"
 description: "## Geyikli Hamamı: Ezine'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.2065086,39.803318"
 draft: "false"
 weight: "999"

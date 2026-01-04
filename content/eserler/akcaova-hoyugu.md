@@ -5,10 +5,10 @@ slug: "akcaova-hoyugu"
 description: "### Akçaova Höyüğü: Ankara'nın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.2572241,39.6295863"
 draft: "false"
 weight: "999"

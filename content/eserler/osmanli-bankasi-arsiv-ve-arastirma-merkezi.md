@@ -5,10 +5,10 @@ slug: "osmanli-bankasi-arsiv-ve-arastirma-merkezi"
 description: "## Osmanlı Bankası Arşiv ve Araştırma Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Ottoman_Banks_Archives_and_Research_Centre.jpg/1200px-Ottoman_Banks_Archives_and_Research_Centre.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "10"

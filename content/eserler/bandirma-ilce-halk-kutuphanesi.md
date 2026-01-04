@@ -5,10 +5,10 @@ slug: "bandirma-ilce-halk-kutuphanesi"
 description: "## Bandırma İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.97114,40.35588"
 draft: "false"
 weight: "999"

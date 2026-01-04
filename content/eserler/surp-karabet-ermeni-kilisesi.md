@@ -5,10 +5,10 @@ slug: "surp-karabet-ermeni-kilisesi"
 description: "### Surp Karabet Ermeni Kilisesi: Gümüşhane'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.45461,40.454252"
 draft: "false"
 weight: "999"

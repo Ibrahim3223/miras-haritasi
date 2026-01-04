@@ -5,10 +5,10 @@ slug: "kadilar-turbesi"
 description: "# Kadılar Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8231964,40.6492004"
 draft: "false"
 weight: "999"

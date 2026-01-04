@@ -5,10 +5,10 @@ slug: "armutarasi-hoyuk"
 description: "## Armutarası Höyük: Manisa'nın Gizli Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.455283,38.577483"
 draft: "false"
 weight: "999"

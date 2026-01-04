@@ -5,10 +5,10 @@ slug: "elmali-kalesi-malkara"
 description: "### Elmalı Kalesi: Tarihi ve Kültürel Mirasın Parçaları Arasında..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.9400158,40.7698746"
 draft: "false"
 weight: "999"

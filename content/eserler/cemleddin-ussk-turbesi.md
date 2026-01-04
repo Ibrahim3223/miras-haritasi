@@ -5,10 +5,10 @@ slug: "cemleddin-ussk-turbesi"
 description: "## Cemâleddin Uşşâkî Türbesi: Eyüpsultan'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.938332,41.035931"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "carsi-hamami-tekirdag"
 description: "## Çarşı Hamamı: Tekirdağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.5135975,40.9784279"
 draft: "false"
 weight: "999"

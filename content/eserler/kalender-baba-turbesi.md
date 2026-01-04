@@ -5,10 +5,10 @@ slug: "kalender-baba-turbesi"
 description: "## Kalender Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.494957,37.8799858"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fatih-camii-sebinkarahisar"
 description: "## Fatih Camii: Şebinkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4247138,40.2858409"
 draft: "false"
 weight: "999"

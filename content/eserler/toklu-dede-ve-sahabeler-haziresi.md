@@ -5,10 +5,10 @@ slug: "toklu-dede-ve-sahabeler-haziresi"
 description: "### Toklu Dede ve Sahabeler Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9412384,41.0392952"
 draft: "false"
 weight: "999"

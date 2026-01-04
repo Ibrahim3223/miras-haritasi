@@ -5,10 +5,10 @@ slug: "asagi-cami-turbesi"
 description: "## Aşağı Cami Türbesi: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.8475971,38.3209152"
 draft: "false"
 weight: "999"

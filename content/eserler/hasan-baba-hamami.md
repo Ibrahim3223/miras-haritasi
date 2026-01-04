@@ -5,10 +5,10 @@ slug: "hasan-baba-hamami"
 description: "## Hasan Baba Hamamı Tanıtımı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.978878,37.0308342"
 draft: "false"
 weight: "999"

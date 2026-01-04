@@ -5,10 +5,10 @@ slug: "pir-ahmet-bey-turbesi"
 description: "### Pir Ahmet Bey Türbesi: Tokat'ın Gizli Güzeli..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.5533752,40.3175507"
 draft: "false"
 weight: "999"

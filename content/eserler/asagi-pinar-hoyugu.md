@@ -5,10 +5,10 @@ slug: "asagi-pinar-hoyugu"
 description: "## Aşağı Pınar Höyüğü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.22527778,41.72166667"
 draft: "false"
 weight: "999"

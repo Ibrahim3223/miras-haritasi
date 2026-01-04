@@ -5,10 +5,10 @@ slug: "priene-roma-hamam-kompleksi"
 description: "## Priene Roma Hamam Kompleksi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2983131,37.6596832"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cihanoglu-medresesi"
 description: "### Cihanoğlu Medresesi: Aydın'ın Efsanevi Eğitim Merkezi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.8395805,37.8535004"
 draft: "false"
 weight: "999"

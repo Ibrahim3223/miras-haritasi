@@ -5,10 +5,10 @@ slug: "kalkanli-koprusu"
 description: "# Kalkanlı Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.364918,40.607849"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turgutbey-tepeyani-tumulusu"
 description: "### Turgutbey Tepeyanı Tümülüsü: Lüleburgaz'ın Gizli Ören Yeri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4174728,41.4810257"
 draft: "false"
 weight: "999"

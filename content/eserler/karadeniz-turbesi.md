@@ -5,10 +5,10 @@ slug: "karadeniz-turbesi"
 description: "## Karadeniz Türbesi: Diyarbakır'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2408485,37.9080429"
 draft: "false"
 weight: "999"

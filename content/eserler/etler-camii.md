@@ -5,10 +5,10 @@ slug: "etler-camii"
 description: "## Etler Camii: Serik'te Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.056958,37.143315"
 draft: "false"
 weight: "999"

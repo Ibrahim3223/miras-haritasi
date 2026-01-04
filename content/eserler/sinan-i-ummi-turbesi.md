@@ -5,10 +5,10 @@ slug: "sinan-i-ummi-turbesi"
 description: "## Sinan-ı Ümmi Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9103,36.7454"
 draft: "false"
 weight: "999"

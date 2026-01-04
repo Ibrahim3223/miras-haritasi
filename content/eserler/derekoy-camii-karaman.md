@@ -5,10 +5,10 @@ slug: "derekoy-camii-karaman"
 description: "## Dereköy Camii: Karaman'ın Gizli Müktesebatı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2693787,37.125679"
 draft: "false"
 weight: "999"

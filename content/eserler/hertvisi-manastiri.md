@@ -5,10 +5,10 @@ slug: "hertvisi-manastiri"
 description: "## Hertvisi Manastırı: Borçka'nın Gizli Cenneti..."
 featured_image: ""
 province: "Borçka"
-iller: '["Borçka"]'
+iller: ["Borçka"]
 district: "Camili"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.909361111,41.487527777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "inebey-hamami"
 description: "## İnebey Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0609818,40.1827469"
 draft: "false"
 weight: "999"

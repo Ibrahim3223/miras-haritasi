@@ -5,10 +5,10 @@ slug: "roma-tiyatrosu-kurtalan"
 description: "## Roma Tiyatrosu, Kurtalan..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Kurtalan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.3849144,37.977951"
 draft: "false"
 weight: "999"

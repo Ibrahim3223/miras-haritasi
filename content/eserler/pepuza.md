@@ -5,10 +5,10 @@ slug: "pepuza"
 description: "### Pepuza: Uşak'ın Gizli Cenneti..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.46138889,38.40805556"
 draft: "false"
 weight: "999"

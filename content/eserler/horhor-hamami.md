@@ -5,10 +5,10 @@ slug: "horhor-hamami"
 description: "# Horhor Hamamı: İstanbul'un Fethi ile Geçirdiği Dönemden Kalan Bir Tarihi Çıkın..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.95064,41.011446"
 draft: "false"
 weight: "999"

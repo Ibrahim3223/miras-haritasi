@@ -5,10 +5,10 @@ slug: "tumulus-1-karabag"
 description: "## Tümülüs 1, Karabağ: Aydın'ın Gizli Şehri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7108364,37.8798904"
 draft: "false"
 weight: "999"

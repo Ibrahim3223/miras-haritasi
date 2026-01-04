@@ -5,10 +5,10 @@ slug: "hacikoseler-koprusu"
 description: "## Hacıköseler Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1135406,37.720562"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ilicek-hoyugu"
 description: "### İlicek Höyüğü: Nevşehir'in Gizli Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6325474,39.0125331"
 draft: "false"
 weight: "999"

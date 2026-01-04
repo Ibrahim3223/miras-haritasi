@@ -5,10 +5,10 @@ slug: "hisar-kapisi"
 description: "### Hisar Kapısı: Bursa'nın Tarihi Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0579052,40.1855431"
 draft: "false"
 weight: "999"

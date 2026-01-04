@@ -5,10 +5,10 @@ slug: "gedikpasa-ermeni-protestan-kilisesi"
 description: "## Gedikpaşa Ermeni Protestan Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.966698,41.006919"
 draft: "false"
 weight: "999"

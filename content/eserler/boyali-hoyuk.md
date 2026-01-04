@@ -5,10 +5,10 @@ slug: "boyali-hoyuk"
 description: "# Boyalı Höyük: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2922,40.3211"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "labraunda-bizans-kilisesi"
 description: "## Labraunda Bizans Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.820816,37.4186134"
 draft: "false"
 weight: "999"

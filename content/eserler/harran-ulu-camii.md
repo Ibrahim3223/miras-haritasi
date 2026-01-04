@@ -5,10 +5,10 @@ slug: "harran-ulu-camii"
 description: "### Harran Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Historical_Harran_University.jpg/1200px-Historical_Harran_University.jpg"
 province: "Part İmparatorluğu"
-iller: '["Part İmparatorluğu"]'
+iller: ["Part İmparatorluğu"]
 district: "Harran"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.031166666,36.864638888"
 draft: "false"
 weight: "10"

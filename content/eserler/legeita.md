@@ -5,10 +5,10 @@ slug: "legeita"
 description: "## Legeita Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.356445,37.682053"
 draft: "false"
 weight: "999"

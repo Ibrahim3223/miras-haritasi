@@ -5,10 +5,10 @@ slug: "haci-ahmet-camii-burhaniye"
 description: "### Hacı Ahmet Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9833965,39.5008163"
 draft: "false"
 weight: "999"

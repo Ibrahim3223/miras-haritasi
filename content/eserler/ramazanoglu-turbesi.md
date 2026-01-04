@@ -5,10 +5,10 @@ slug: "ramazanoglu-turbesi"
 description: "# Ramazanoğlu Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.331043,36.9846612"
 draft: "false"
 weight: "999"

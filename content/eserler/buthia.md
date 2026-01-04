@@ -5,10 +5,10 @@ slug: "buthia"
 description: "## Buthia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.307181,38.327245"
 draft: "false"
 weight: "999"

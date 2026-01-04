@@ -5,10 +5,10 @@ slug: "cemalettin-efendi-turbesi"
 description: "## Cemalettin Efendi Türbesi: Kastamonu'da Bir Önemli Anıt..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7662926,41.374054"
 draft: "false"
 weight: "999"

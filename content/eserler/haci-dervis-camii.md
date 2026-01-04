@@ -5,10 +5,10 @@ slug: "haci-dervis-camii"
 description: "**Kilis'te Tarihi Bir Şekilde Örenin Önindeki Hacı Derviş Camii**..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.11689,36.7164993"
 draft: "false"
 weight: "999"

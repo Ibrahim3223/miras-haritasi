@@ -5,10 +5,10 @@ slug: "hamam-gokcebayir"
 description: "## Hamam, Gökçebayır: Ezine'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.255797785,39.790763785"
 draft: "false"
 weight: "999"

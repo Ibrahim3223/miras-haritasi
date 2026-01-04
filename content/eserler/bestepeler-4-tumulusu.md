@@ -5,10 +5,10 @@ slug: "bestepeler-4-tumulusu"
 description: "## Beştepeler 4 Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9288292,41.1674271"
 draft: "false"
 weight: "999"

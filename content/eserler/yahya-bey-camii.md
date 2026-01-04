@@ -5,10 +5,10 @@ slug: "yahya-bey-camii"
 description: "## Yahya Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Yahya_Bey_Camii_22.JPG/1200px-Yahya_Bey_Camii_22.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5634613,41.6762619"
 draft: "false"
 weight: "10"

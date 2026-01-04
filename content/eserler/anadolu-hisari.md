@@ -5,10 +5,10 @@ slug: "anadolu-hisari"
 description: "# Anadolu Hisarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Anadolu_Hisarı_in_2024_(cropped).jpg/1200px-Anadolu_Hisarı_in_2024_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.067027777,41.082138888"
 draft: "false"
 weight: "10"

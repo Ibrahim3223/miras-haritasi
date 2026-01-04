@@ -5,10 +5,10 @@ slug: "mansur-bin-cavena-turbesi"
 description: "## Mansur Bin Cavena Türbesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.2777672,37.7612877"
 draft: "false"
 weight: "999"

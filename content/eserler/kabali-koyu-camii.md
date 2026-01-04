@@ -5,10 +5,10 @@ slug: "kabali-koyu-camii"
 description: "## Kabalı Köyü Camii: Sinop'un Gizli Çehresinde Bir Ölümsüz..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.0716248,41.8615913"
 draft: "false"
 weight: "999"

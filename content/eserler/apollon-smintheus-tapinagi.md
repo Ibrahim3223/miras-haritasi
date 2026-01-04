@@ -5,10 +5,10 @@ slug: "apollon-smintheus-tapinagi"
 description: "## Apollon Smintheus Tapınağı: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chryse.jpg/1200px-Chryse.jpg"
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1175,39.536111111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "guneykoy-koprusu-1"
 description: "### Güneyköy Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.077971,40.992728"
 draft: "false"
 weight: "999"

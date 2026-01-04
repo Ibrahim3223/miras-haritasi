@@ -5,10 +5,10 @@ slug: "telli-haci-halil-camii"
 description: "### Telli Hacı Halil Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8654823,39.9351654"
 draft: "false"
 weight: "999"

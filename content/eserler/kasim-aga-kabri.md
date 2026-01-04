@@ -5,10 +5,10 @@ slug: "kasim-aga-kabri"
 description: "## Kasım Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9396515,41.0287933"
 draft: "false"
 weight: "999"

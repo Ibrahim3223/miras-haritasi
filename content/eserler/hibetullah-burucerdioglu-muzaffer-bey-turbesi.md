@@ -5,10 +5,10 @@ slug: "hibetullah-burucerdioglu-muzaffer-bey-turbesi"
 description: "## Hibetullah Burucerdioğlu Muzaffer Bey Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0151482,39.7491417"
 draft: "false"
 weight: "999"

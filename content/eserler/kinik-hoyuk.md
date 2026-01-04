@@ -5,10 +5,10 @@ slug: "kinik-hoyuk"
 description: "### Kınık Höyük: Niğde'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Kınık_Höyük_09.jpg/1200px-Kınık_Höyük_09.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.363464,37.931759"
 draft: "false"
 weight: "999"

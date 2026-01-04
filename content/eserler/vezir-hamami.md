@@ -5,10 +5,10 @@ slug: "vezir-hamami"
 description: "## Vezir Hamamı: Şanlıurfa'da Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.7913143,37.155054"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "adile-sah-kadin-camii"
 description: "## Adile Şah Kadın Camii: Ayvansaray'da Bir Tarihî Değer..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94104,41.034669"
 draft: "false"
 weight: "999"

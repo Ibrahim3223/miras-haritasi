@@ -5,10 +5,10 @@ slug: "sazibey-camii"
 description: "## Şazibey Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9243774,37.5808678"
 draft: "false"
 weight: "999"

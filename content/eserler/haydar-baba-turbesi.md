@@ -5,10 +5,10 @@ slug: "haydar-baba-turbesi"
 description: "# Haydar Baba Türbesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.915504,36.7438"
 draft: "false"
 weight: "999"

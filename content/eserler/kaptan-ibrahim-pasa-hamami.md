@@ -5,10 +5,10 @@ slug: "kaptan-ibrahim-pasa-hamami"
 description: "## Kaptan İbrahim Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9622726,41.0131073"
 draft: "false"
 weight: "999"

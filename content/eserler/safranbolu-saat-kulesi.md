@@ -5,10 +5,10 @@ slug: "safranbolu-saat-kulesi"
 description: "## Safranbolu Saat Kulesi: Karabük'te Bir Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Safranbolu_Saat_Kulesi.JPG/1200px-Safranbolu_Saat_Kulesi.JPG"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu (ilçe)"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "32.690416666,41.245916666"
 draft: "false"
 weight: "10"

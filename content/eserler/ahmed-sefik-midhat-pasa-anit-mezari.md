@@ -5,10 +5,10 @@ slug: "ahmed-sefik-midhat-pasa-anit-mezari"
 description: "## Ahmed Şefik Midhat Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9817829,41.0678711"
 draft: "false"
 weight: "999"

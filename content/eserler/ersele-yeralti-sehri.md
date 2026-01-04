@@ -5,10 +5,10 @@ slug: "ersele-yeralti-sehri"
 description: "### Ersele Yeraltı Şehri: Tarihin Gizli Yerleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ersele_Yeraltı_Şehri_-_05.jpg/1200px-Ersele_Yeraltı_Şehri_-_05.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.215555555,38.678055555"
 draft: "false"
 weight: "10"

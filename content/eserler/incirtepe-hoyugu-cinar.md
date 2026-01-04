@@ -5,10 +5,10 @@ slug: "incirtepe-hoyugu-cinar"
 description: "**İncirtepe Höyüğü: Diyarbakır'ın Eski Tarihi**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.5016785,37.7086525"
 draft: "false"
 weight: "999"

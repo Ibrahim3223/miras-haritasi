@@ -5,10 +5,10 @@ slug: "vecihi-hurkus-havacilik-parki"
 description: "### Vecihi Hürkuş Havacılık Parkı: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Eskişehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.50055556,39.78666667"
 draft: "false"
 weight: "999"

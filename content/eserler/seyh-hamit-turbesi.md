@@ -5,10 +5,10 @@ slug: "seyh-hamit-turbesi"
 description: "## Şeyh Hamit Türbesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.756413,37.31718"
 draft: "false"
 weight: "999"

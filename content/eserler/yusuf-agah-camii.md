@@ -5,10 +5,10 @@ slug: "yusuf-agah-camii"
 description: "### Yusuf Agah Camii: İstanbul'un Gizli Çehresinde Bir Örgü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Yusuf_Agah_Camii_02.jpg/1200px-Yusuf_Agah_Camii_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.966806842,41.031507397"
 draft: "false"
 weight: "10"

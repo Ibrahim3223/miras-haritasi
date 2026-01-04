@@ -5,10 +5,10 @@ slug: "barsalion"
 description: "# Barsalion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.1967,38.0881"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "samsun-kent-muzesi"
 description: "## Samsun Kent Müzesi ..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.339994,41.286409"
 draft: "false"
 weight: "999"

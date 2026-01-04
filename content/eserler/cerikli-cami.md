@@ -5,10 +5,10 @@ slug: "cerikli-cami"
 description: "## Çerikli Cami: Kırıkkale'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.9884987,39.8991013"
 draft: "false"
 weight: "999"

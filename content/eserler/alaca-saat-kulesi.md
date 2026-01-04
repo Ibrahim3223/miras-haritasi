@@ -5,10 +5,10 @@ slug: "alaca-saat-kulesi"
 description: "## Alaca Saat Kulesi: Çorum'un Tarihsel Çatıldığı Kule..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.841777777,40.169361111"
 draft: "false"
 weight: "999"

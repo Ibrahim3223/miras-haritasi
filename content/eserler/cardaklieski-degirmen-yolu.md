@@ -5,10 +5,10 @@ slug: "cardaklieski-degirmen-yolu"
 description: "# Çardaklı/Eski Değirmen Yolu Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.529844,41.710283"
 draft: "false"
 weight: "999"

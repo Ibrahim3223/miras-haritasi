@@ -5,10 +5,10 @@ slug: "sinan-i-erdebil-turbesi"
 description: "## Sinan-ı Erdebilî Türbesi: İstanbul'un Gizli Mücevheri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9223289,41.019989"
 draft: "false"
 weight: "999"

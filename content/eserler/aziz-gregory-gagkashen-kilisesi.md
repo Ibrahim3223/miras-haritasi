@@ -5,10 +5,10 @@ slug: "aziz-gregory-gagkashen-kilisesi"
 description: "## Aziz Gregory Gagkashen Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/20110419_Saint_Gregory_(King_Gagik)_Ani_Turkey.jpg/1200px-20110419_Saint_Gregory_(King_Gagik)_Ani_Turkey.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5687,40.51"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "27-mayis-muzesi"
 description: "## 27 Mayıs Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9947491,40.8655396"
 draft: "false"
 weight: "999"

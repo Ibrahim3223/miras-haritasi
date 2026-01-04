@@ -5,10 +5,10 @@ slug: "saint-peter-ve-saint-paul-kilisesi"
 description: "### Saint Peter ve Saint Paul Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/İstanbul_-_Sen_Piyer_Kilisesi_Karaköy_-_Mart_2013.JPG/1200px-İstanbul_-_Sen_Piyer_Kilisesi_Karaköy_-_Mart_2013.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97305556,41.02472222"
 draft: "false"
 weight: "10"

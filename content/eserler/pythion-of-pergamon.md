@@ -5,10 +5,10 @@ slug: "pythion-of-pergamon"
 description: "### Pythion of Pergamon..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.18416,39.1325"
 draft: "false"
 weight: "999"

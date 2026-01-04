@@ -5,10 +5,10 @@ slug: "ikisu-mahallesi-koprusu-1"
 description: "## İkisu Mahallesi Köprüsü 1: Trabzon'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Yomra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.799279,40.90498"
 draft: "false"
 weight: "999"

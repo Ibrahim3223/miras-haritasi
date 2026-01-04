@@ -5,10 +5,10 @@ slug: "kosemtug-tumulusu"
 description: "## Kösemtuğ Tümülüsü: Balıkesir'in Gizli İlahi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0769672,40.1471024"
 draft: "false"
 weight: "999"

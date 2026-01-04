@@ -5,10 +5,10 @@ slug: "tiflis-camii"
 description: "## Tiflis Camii: Ankara'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8580017,39.9403496"
 draft: "false"
 weight: "999"

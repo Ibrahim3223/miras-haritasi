@@ -5,10 +5,10 @@ slug: "tahtakuslar-etnografya-muzesi"
 description: "### Tahtakuşlar Etnografya Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.85833333,39.59111111"
 draft: "false"
 weight: "999"

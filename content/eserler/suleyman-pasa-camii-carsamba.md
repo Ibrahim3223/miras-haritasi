@@ -5,10 +5,10 @@ slug: "suleyman-pasa-camii-carsamba"
 description: "### Süleyman Paşa Camii, Çarşamba..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.728699,41.194752"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "musadag-muzesi"
 description: "## Musadağ Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.9748497,36.1157684"
 draft: "false"
 weight: "999"

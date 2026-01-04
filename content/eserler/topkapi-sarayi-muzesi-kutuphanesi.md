@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-muzesi-kutuphanesi"
 description: "## Topkapı Sarayı Müzesi Kütüphanesi: İstanbul'un Gizli Kitap Odası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.965774267,41.010772946"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "olimpos"
 description: "### Olimpos: Antalya'nın Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/OlimposBeach.jpg/1200px-OlimposBeach.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.4735419,36.3965579"
 draft: "false"
 weight: "10"

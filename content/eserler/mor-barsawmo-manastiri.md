@@ -5,10 +5,10 @@ slug: "mor-barsawmo-manastiri"
 description: "# Mor Barsawmo Manastırı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Malatya"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "38.7982,38.0623"
 draft: "false"
 weight: "999"

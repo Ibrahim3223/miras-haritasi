@@ -5,10 +5,10 @@ slug: "seyh-ahmet-camii"
 description: "### Şeyh Ahmet Camii: Cide'nin Tarihî ve Kültür Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Cide"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7310753,41.4553528"
 draft: "false"
 weight: "999"

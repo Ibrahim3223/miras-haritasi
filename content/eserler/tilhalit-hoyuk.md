@@ -5,10 +5,10 @@ slug: "tilhalit-hoyuk"
 description: "## Tilhalit Höyük: Gaziantep'in Eski Köyü..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.6387405,36.767437"
 draft: "false"
 weight: "999"

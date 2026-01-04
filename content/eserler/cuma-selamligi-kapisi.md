@@ -5,10 +5,10 @@ slug: "cuma-selamligi-kapisi"
 description: "## Cuma Selamlığı Kapısı: İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9811974,41.0088234"
 draft: "false"
 weight: "999"

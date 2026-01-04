@@ -5,10 +5,10 @@ slug: "milas-ulu-camii"
 description: "# Milas Ulu Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.783444444,37.313444444"
 draft: "false"
 weight: "999"

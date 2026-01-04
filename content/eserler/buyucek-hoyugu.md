@@ -5,10 +5,10 @@ slug: "buyucek-hoyugu"
 description: "## Büyücek Höyüğü: Akçakale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9912877,36.7824029"
 draft: "false"
 weight: "999"

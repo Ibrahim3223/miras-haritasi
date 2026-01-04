@@ -5,10 +5,10 @@ slug: "hulusi-efendinin-dogdugu-ev-muzesi"
 description: "## Hulusi Efendi’nin Doğduğu Ev Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Malatya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.481001372,38.60748917"
 draft: "false"
 weight: "999"

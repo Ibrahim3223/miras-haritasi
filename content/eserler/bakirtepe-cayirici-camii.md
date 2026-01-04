@@ -5,10 +5,10 @@ slug: "bakirtepe-cayirici-camii"
 description: "## Bakırtepe Çayıriçi Camii: Artvin'in Gizli Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5011,40.8459999"
 draft: "false"
 weight: "999"

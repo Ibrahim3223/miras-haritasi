@@ -5,10 +5,10 @@ slug: "igneci-baba-turbesi"
 description: "## İğneci Baba Türbesi: Amasya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.832828,40.651927"
 draft: "false"
 weight: "999"

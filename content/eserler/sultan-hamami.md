@@ -5,10 +5,10 @@ slug: "sultan-hamami"
 description: "### Sultan Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5461117,40.314964"
 draft: "false"
 weight: "999"

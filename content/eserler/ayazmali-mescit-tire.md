@@ -5,10 +5,10 @@ slug: "ayazmali-mescit-tire"
 description: "# Ayazmalı Mescit, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7392654,38.0810699"
 draft: "false"
 weight: "999"

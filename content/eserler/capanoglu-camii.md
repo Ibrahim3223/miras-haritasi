@@ -5,10 +5,10 @@ slug: "capanoglu-camii"
 description: "## Çapanoğlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Çapanoğlu_Mosque-_2014-02-11_14-18.JPG/1200px-Çapanoğlu_Mosque-_2014-02-11_14-18.JPG"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.805638888,39.821805555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "uveys-pasa-camii"
 description: "## Üveys Paşa Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8422146,37.8536377"
 draft: "false"
 weight: "999"

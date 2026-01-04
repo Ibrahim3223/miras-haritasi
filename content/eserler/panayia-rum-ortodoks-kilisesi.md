@@ -5,10 +5,10 @@ slug: "panayia-rum-ortodoks-kilisesi"
 description: "## Panayia Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.005388888,41.043666666"
 draft: "false"
 weight: "999"

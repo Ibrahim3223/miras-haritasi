@@ -5,10 +5,10 @@ slug: "ataturk-ve-adile-hala-aniti"
 description: "## Atatürk ve Adile Hala Anıtı: Tarsus'taki Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.8865547,36.9201813"
 draft: "false"
 weight: "999"

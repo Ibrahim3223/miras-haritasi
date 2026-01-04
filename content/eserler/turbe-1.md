@@ -5,10 +5,10 @@ slug: "turbe-1"
 description: "### Germencik'teki Türbe 1: Aydın'ın Gizli Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.515604,37.9273224"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koca-camii-nazilli"
 description: "## Koca Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3264294,37.9180984"
 draft: "false"
 weight: "999"

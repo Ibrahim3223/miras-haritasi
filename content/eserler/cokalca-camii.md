@@ -5,10 +5,10 @@ slug: "cokalca-camii"
 description: "## Çokalca Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.569643,41.676918"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taskopru-anamur"
 description: "## Taşköprü, Anamur: Kıbrıs'ın Efsanevi Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8046417,36.0644569"
 draft: "false"
 weight: "999"

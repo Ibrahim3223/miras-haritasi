@@ -5,10 +5,10 @@ slug: "umurca-tumulusu-3"
 description: "## Umurca Tümülüsü 3: Lüleburgaz'ın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3920097,41.4158478"
 draft: "false"
 weight: "999"

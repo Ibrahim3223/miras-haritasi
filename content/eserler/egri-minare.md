@@ -5,10 +5,10 @@ slug: "egri-minare"
 description: "## Eğri Minare: Aksaray'ın Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Aksaray_Leaning_Minaret_3114.jpg/1200px-Aksaray_Leaning_Minaret_3114.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.029388888,38.376888888"
 draft: "false"
 weight: "10"

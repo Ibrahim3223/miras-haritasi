@@ -5,10 +5,10 @@ slug: "nigdenin-tarihi-anitlari"
 description: "## Niğde'nin Tarihi Anıtları..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6791534,37.9668083"
 draft: "false"
 weight: "999"

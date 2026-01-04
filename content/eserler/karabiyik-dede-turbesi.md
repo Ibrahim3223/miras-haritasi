@@ -5,10 +5,10 @@ slug: "karabiyik-dede-turbesi"
 description: "## Karabıyık Dede Türbesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Dörtyol"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.2478769,36.800898"
 draft: "false"
 weight: "999"

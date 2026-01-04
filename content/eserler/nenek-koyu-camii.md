@@ -5,10 +5,10 @@ slug: "nenek-koyu-camii"
 description: "### Nenek Köyü Camii: Mamak'taki Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.032361188,39.960451513"
 draft: "false"
 weight: "999"

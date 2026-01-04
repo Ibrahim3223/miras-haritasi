@@ -5,10 +5,10 @@ slug: "evliya-hoca-turbesi-uskudar"
 description: "## Evliya Hoca Türbesi: Üsküdar'daki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0183735,41.0225258"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "titiopolis-kilisesi"
 description: "## Titiopolis Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.8095894,36.0925713"
 draft: "false"
 weight: "999"

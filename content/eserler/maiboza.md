@@ -5,10 +5,10 @@ slug: "maiboza"
 description: "### Maiboza: Eski Türklerin Gizli Şehirleri Arasındaki Bir Harika..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.91486,38.71042"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akhisar-koyu-kemer-kopru"
 description: "## Akhisar Köyü Kemer Köprü: Gümüşhane'nin Gizli Çarıgı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.85014,40.43878"
 draft: "false"
 weight: "999"

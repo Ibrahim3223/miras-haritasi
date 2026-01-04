@@ -5,10 +5,10 @@ slug: "maltepe-tepe-ustu-yerlesimi-karpuzlu"
 description: "## Maltepe Tepe Üstü Yerleşimi, Karpuzlu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karpuzlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8626003,37.5545998"
 draft: "false"
 weight: "999"

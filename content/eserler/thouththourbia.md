@@ -5,10 +5,10 @@ slug: "thouththourbia"
 description: "## Thouththourbia: Eski Dünya'nın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.5797245,36.93999"
 draft: "false"
 weight: "999"

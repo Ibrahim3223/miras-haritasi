@@ -5,10 +5,10 @@ slug: "pedaia"
 description: "## Pedaia: Eski Türkiye'nin Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.873662,37.634612"
 draft: "false"
 weight: "999"

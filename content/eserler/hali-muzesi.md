@@ -5,10 +5,10 @@ slug: "hali-muzesi"
 description: "## Halı Müzesi: İnsanların Görsel İlimi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.981096,41.008583"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uc-adsiz-kahraman-sehitligi"
 description: "## Üç Adsız Kahraman Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5583477,41.6829491"
 draft: "false"
 weight: "999"

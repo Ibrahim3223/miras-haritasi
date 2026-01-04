@@ -5,10 +5,10 @@ slug: "haburman-koprusu"
 description: "## Haburman Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.442492,38.131241"
 draft: "false"
 weight: "999"

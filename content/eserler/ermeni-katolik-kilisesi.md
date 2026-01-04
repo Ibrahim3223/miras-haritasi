@@ -5,10 +5,10 @@ slug: "ermeni-katolik-kilisesi"
 description: "## Ermeni Katolik Kilisesi: Diyarbakır'ın Gizli Ölümsüzü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.2385938,37.908534"
 draft: "false"
 weight: "999"

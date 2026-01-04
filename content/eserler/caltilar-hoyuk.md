@@ -5,10 +5,10 @@ slug: "caltilar-hoyuk"
 description: "## Çaltılar Höyük: Muğla'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.690943,36.919037"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-sarayi"
 description: "**İbrahim Paşa Sarayı: İstanbul'un Gizli Çarı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turkish_and_Islamic_Arts_Museum_01.jpg/1200px-Turkish_and_Islamic_Arts_Museum_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.97456,41.0063"
 draft: "false"
 weight: "10"

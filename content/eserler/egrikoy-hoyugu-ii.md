@@ -5,10 +5,10 @@ slug: "egrikoy-hoyugu-ii"
 description: "## Eğriköy Höyüğü II: Kayseri'nin Gizli Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yeşilhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.2066,38.212826"
 draft: "false"
 weight: "999"

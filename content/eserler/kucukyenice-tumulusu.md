@@ -5,10 +5,10 @@ slug: "kucukyenice-tumulusu"
 description: "### Küçükyenice Tümülüsü: Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Gölpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0771866,40.2323914"
 draft: "false"
 weight: "999"

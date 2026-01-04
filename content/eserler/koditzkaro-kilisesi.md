@@ -5,10 +5,10 @@ slug: "koditzkaro-kilisesi"
 description: "## Koditzkaro Kilisesi: Ardahan'ın Gizli Öreni..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Akyaka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.580108333,41.085136111"
 draft: "false"
 weight: "999"

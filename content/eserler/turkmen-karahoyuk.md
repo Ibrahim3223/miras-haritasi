@@ -5,10 +5,10 @@ slug: "turkmen-karahoyuk"
 description: "### Türkmen Karahöyük: Tarihî Miras ve Arkeolojik Büyüklük..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0294,37.623299"
 draft: "false"
 weight: "999"

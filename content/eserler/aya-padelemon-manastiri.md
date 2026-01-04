@@ -5,10 +5,10 @@ slug: "aya-padelemon-manastiri"
 description: "## Aya Padelemon Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8339996,40.1439018"
 draft: "false"
 weight: "999"

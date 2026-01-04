@@ -5,10 +5,10 @@ slug: "salarli-buyukhoyuk-tumulusu"
 description: "## Salarlı Büyükhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6363239,41.2360458"
 draft: "false"
 weight: "999"

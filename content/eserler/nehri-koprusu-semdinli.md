@@ -5,10 +5,10 @@ slug: "nehri-koprusu-semdinli"
 description: "## Nehri Köprüsü, Şemdinli..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Şemdinli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "44.51638,37.26732"
 draft: "false"
 weight: "999"

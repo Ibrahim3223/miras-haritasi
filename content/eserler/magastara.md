@@ -5,10 +5,10 @@ slug: "magastara"
 description: "## Magastara: Burdur'un Gizli Harikası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.388773,37.716197"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turbe-kapisi-fatih-kulliyesi"
 description: "### Türbe Kapısı, Fatih Külliyesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.950798,41.019146"
 draft: "false"
 weight: "999"

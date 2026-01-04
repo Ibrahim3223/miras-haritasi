@@ -5,10 +5,10 @@ slug: "kaunos-demeter-kutsal-alani"
 description: "### Kaunos Demeter Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6207294,36.8226089"
 draft: "false"
 weight: "999"

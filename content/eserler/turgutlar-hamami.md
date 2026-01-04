@@ -5,10 +5,10 @@ slug: "turgutlar-hamami"
 description: "## Turgutlar Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.1466637,42.0249901"
 draft: "false"
 weight: "999"

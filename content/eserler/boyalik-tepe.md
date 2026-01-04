@@ -5,10 +5,10 @@ slug: "boyalik-tepe"
 description: "### Boyalık Tepe: Altıeylül'ün Gizli Öyküsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.909633,39.518383"
 draft: "false"
 weight: "999"

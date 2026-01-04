@@ -5,10 +5,10 @@ slug: "emir-erdogmus-turbesi"
 description: "### Emir Erdoğmuş Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4975624,38.7161446"
 draft: "false"
 weight: "999"

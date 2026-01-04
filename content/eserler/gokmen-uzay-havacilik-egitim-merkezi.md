@@ -5,10 +5,10 @@ slug: "gokmen-uzay-havacilik-egitim-merkezi"
 description: "## Gökmen Uzay Havacılık Eğitim Merkezi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Bursa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

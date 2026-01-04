@@ -5,10 +5,10 @@ slug: "corlenasar-kalesi"
 description: "### Çörlenasar Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6357651,37.5279465"
 draft: "false"
 weight: "999"

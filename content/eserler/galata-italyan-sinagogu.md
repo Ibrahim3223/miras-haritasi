@@ -5,10 +5,10 @@ slug: "galata-italyan-sinagogu"
 description: "### Galata İtalyan Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.972615,41.025423"
 draft: "false"
 weight: "999"

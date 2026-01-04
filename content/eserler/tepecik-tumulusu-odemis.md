@@ -5,10 +5,10 @@ slug: "tepecik-tumulusu-odemis"
 description: "### Tepecik Tümülüsü'nden Ödemiş'e Yolculuk..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0909004,38.2462997"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saraykoy-yalikoy-degirmen-koprusu"
 description: "## Sarayköy-Yalıköy Değirmen Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3807,41.019067"
 draft: "false"
 weight: "999"

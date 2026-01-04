@@ -5,10 +5,10 @@ slug: "gulpinar-hoyuk"
 description: "**Gülpınar Höyük: Yozgat'ın Gizli Öyküsü**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.2338771,39.474441"
 draft: "false"
 weight: "999"

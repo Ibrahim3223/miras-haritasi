@@ -5,10 +5,10 @@ slug: "kumkale-kalesi"
 description: "## Kumkale Kalesi: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.198691,40.006526"
 draft: "false"
 weight: "999"

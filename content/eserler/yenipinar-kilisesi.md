@@ -5,10 +5,10 @@ slug: "yenipinar-kilisesi"
 description: "## Yenipınar Kilisesi: Batman'ın Gizemli Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Beşiri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.3013954,37.842411"
 draft: "false"
 weight: "999"

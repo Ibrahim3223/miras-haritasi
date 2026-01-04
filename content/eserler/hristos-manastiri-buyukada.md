@@ -5,10 +5,10 @@ slug: "hristos-manastiri-buyukada"
 description: "### Hristos Manastırı: Büyükada'nın Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.1235733,40.8641815"
 draft: "false"
 weight: "999"

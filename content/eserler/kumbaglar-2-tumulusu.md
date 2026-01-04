@@ -5,10 +5,10 @@ slug: "kumbaglar-2-tumulusu"
 description: "## Kumbağlar 2 Tümülüsü: Şarköy'ün Gizemi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1773033,40.7964363"
 draft: "false"
 weight: "999"

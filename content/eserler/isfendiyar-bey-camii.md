@@ -5,10 +5,10 @@ slug: "isfendiyar-bey-camii"
 description: "## İsfendiyar Bey Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7768326,41.3743439"
 draft: "false"
 weight: "999"

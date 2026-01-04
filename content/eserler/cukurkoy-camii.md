@@ -5,10 +5,10 @@ slug: "cukurkoy-camii"
 description: "### Çukurköy Camii: Menemen'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1180782,38.6959953"
 draft: "false"
 weight: "999"

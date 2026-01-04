@@ -5,10 +5,10 @@ slug: "hasan-padisah-camii"
 description: "### Hasan Padişah Camii: Şanlıurfa'nın Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7875862,37.1474342"
 draft: "false"
 weight: "999"

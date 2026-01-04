@@ -5,10 +5,10 @@ slug: "dalyan-camii"
 description: "## Dalyan Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ortaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6416035,36.8341217"
 draft: "false"
 weight: "999"

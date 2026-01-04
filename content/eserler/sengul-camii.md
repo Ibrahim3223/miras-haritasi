@@ -5,10 +5,10 @@ slug: "sengul-camii"
 description: "## Şengül Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Şengül_dış.jpg/1200px-Şengül_dış.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9742985,39.4163513"
 draft: "false"
 weight: "10"

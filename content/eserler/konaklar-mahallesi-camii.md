@@ -5,10 +5,10 @@ slug: "konaklar-mahallesi-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.006674442,41.032444279"
 draft: "false"
 weight: "999"

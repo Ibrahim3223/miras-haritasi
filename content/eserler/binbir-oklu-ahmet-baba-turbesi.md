@@ -5,10 +5,10 @@ slug: "binbir-oklu-ahmet-baba-turbesi"
 description: "### Binbir Oklu Ahmet Baba Türbesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5697899,41.6273003"
 draft: "false"
 weight: "999"

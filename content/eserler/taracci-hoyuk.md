@@ -5,10 +5,10 @@ slug: "taracci-hoyuk"
 description: "## Taraççı Höyük: Balıkesir'in Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.639541625,40.233674005"
 draft: "false"
 weight: "999"

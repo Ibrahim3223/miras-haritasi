@@ -5,10 +5,10 @@ slug: "ortahisar-etnografya-muzesi"
 description: "# Ortahisar Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.8649,38.6212"
 draft: "false"
 weight: "999"

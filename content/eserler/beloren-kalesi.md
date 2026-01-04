@@ -5,10 +5,10 @@ slug: "beloren-kalesi"
 description: "## Belören Kalesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.969244449,36.302282949"
 draft: "false"
 weight: "999"

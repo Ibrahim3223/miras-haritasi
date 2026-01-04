@@ -5,10 +5,10 @@ slug: "topcu-ve-fuze-okulu-sinif-muzesi"
 description: "## Topçu ve Füze Okulu Sınıf Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.1508675,39.5839615"
 draft: "false"
 weight: "999"

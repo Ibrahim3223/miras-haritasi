@@ -5,10 +5,10 @@ slug: "agiltepe-tumulusu-buyukcekmece"
 description: "## Ağıltepe Tümülüsü: Büyükçekmece'nin Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.4139996,41.0754013"
 draft: "false"
 weight: "999"

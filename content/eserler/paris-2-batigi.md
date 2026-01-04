@@ -5,10 +5,10 @@ slug: "paris-2-batigi"
 description: "### Paris 2 Batığı: Kemer'de Yüzyıllar Öncesinden Kalan Gizemli Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.5863705,36.6022415"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turhal-kervansarayi"
 description: "### Turhal Kervansarayı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

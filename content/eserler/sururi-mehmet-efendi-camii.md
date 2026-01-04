@@ -5,10 +5,10 @@ slug: "sururi-mehmet-efendi-camii"
 description: "## Sururi Mehmet Efendi Camii: Beyoğlu'ndaki Bir Önemli Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.972173425,41.035173015"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mermer-ocagi-ustu-kalesi-kirklareli"
 description: "## Mermer Ocağı Üstü Kalesi: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5102959,41.8675652"
 draft: "false"
 weight: "999"

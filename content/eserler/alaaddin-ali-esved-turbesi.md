@@ -5,10 +5,10 @@ slug: "alaaddin-ali-esved-turbesi"
 description: "## Alaaddin Ali Esved Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7244,40.4311"
 draft: "false"
 weight: "999"

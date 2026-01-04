@@ -5,10 +5,10 @@ slug: "buyukcit-koyu-meryemana-koprusu"
 description: "## Büyükçit Köyü Meryemana Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.21336,40.51246"
 draft: "false"
 weight: "999"

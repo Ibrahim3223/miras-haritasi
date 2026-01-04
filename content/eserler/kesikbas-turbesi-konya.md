@@ -5,10 +5,10 @@ slug: "kesikbas-turbesi-konya"
 description: "## Kesikbaş Türbesi, Konya..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4943962,37.8793983"
 draft: "false"
 weight: "999"

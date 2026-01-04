@@ -5,10 +5,10 @@ slug: "afakan-turbesi"
 description: "## Afakan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.430191,37.88097"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zigana-koyu-koprusu"
 description: "## Zigana Köyü Köprüsü: Torul'un Gizli Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.357814,40.607041"
 draft: "false"
 weight: "999"

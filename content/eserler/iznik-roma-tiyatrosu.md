@@ -5,10 +5,10 @@ slug: "iznik-roma-tiyatrosu"
 description: "## İznik Roma Tiyatrosu: Bir İhtişamın Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/İznik_Roma_Tiyatrosu_.jpg/1200px-İznik_Roma_Tiyatrosu_.jpg"
 province: "İznik (ilçe)"
-iller: '["İznik (ilçe)"]'
+iller: ["İznik (ilçe)"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.716888888,40.426694444"
 draft: "false"
 weight: "10"

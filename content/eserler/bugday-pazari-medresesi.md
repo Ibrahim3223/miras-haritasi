@@ -5,10 +5,10 @@ slug: "bugday-pazari-medresesi"
 description: "## Buğday Pazarı Medresesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.6190567,40.601223"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ilistra"
 description: "## Ilistra: Karaman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.02718,37.19792"
 draft: "false"
 weight: "999"

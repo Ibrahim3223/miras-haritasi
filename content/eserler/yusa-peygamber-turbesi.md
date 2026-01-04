@@ -5,10 +5,10 @@ slug: "yusa-peygamber-turbesi"
 description: "## Yuşa Peygamber Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3872,37.0619"
 draft: "false"
 weight: "999"

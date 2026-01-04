@@ -5,10 +5,10 @@ slug: "cantakoy-tumulusu-2"
 description: "### Çantaköy Tümülüsü 2: Silivri'nin Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0675774,41.1112671"
 draft: "false"
 weight: "999"

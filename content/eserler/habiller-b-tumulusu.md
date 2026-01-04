@@ -5,10 +5,10 @@ slug: "habiller-b-tumulusu"
 description: "## Habiller B Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8095474,41.6656265"
 draft: "false"
 weight: "999"

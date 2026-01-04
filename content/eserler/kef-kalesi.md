@@ -5,10 +5,10 @@ slug: "kef-kalesi"
 description: "### Kef Kalesi: Bitlis'in Tarihî Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.718947,38.833536"
 draft: "false"
 weight: "999"

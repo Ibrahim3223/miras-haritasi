@@ -5,10 +5,10 @@ slug: "amasya-kalesi-bozdogan"
 description: "## Amasya Kalesi, Bozdoğan: Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.4797001,37.6030006"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmet-alibey-hamami"
 description: "## Mehmet Alibey Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.019621,39.7541264"
 draft: "false"
 weight: "999"

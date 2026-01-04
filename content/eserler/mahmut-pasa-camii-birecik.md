@@ -5,10 +5,10 @@ slug: "mahmut-pasa-camii-birecik"
 description: "## Mahmut Paşa Camii: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.9799385,37.0289612"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirklareli-merkez-b-tumulusu"
 description: "## Kırklareli Merkez B Tümülüsü: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.228653,41.7177696"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ozbek-hamami"
 description: "## Özbek Hamamı: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7059002,38.3651009"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gazi-osman-pasa-camii"
 description: "### Gazi Osman Paşa Camii..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6614265,37.9740791"
 draft: "false"
 weight: "999"

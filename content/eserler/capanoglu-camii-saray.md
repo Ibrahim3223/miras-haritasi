@@ -5,10 +5,10 @@ slug: "capanoglu-camii-saray"
 description: "**Çapanoğlu Camii: Yozgat'ın Zirvesinde Bir Kent Camisi**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yerköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6534345,39.6918839"
 draft: "false"
 weight: "999"

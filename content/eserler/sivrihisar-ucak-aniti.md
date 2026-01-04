@@ -5,10 +5,10 @@ slug: "sivrihisar-ucak-aniti"
 description: "### Sivrihisar Uçak Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Sivrihisar_Airplane.jpg/1200px-Sivrihisar_Airplane.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.53333333,39.43388889"
 draft: "false"
 weight: "10"

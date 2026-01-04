@@ -5,10 +5,10 @@ slug: "annelerimize-ve-kadinlarimiza-saygi-ve-sukran-aniti"
 description: "## Annelerimize ve Kadınlarımıza Saygı ve Şükran Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.511868292,39.780358005"
 draft: "false"
 weight: "999"

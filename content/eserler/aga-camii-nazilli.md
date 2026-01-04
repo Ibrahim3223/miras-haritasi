@@ -5,10 +5,10 @@ slug: "aga-camii-nazilli"
 description: "### Ağa Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3243999,37.9035988"
 draft: "false"
 weight: "999"

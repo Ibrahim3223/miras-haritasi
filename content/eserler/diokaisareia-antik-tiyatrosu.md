@@ -5,10 +5,10 @@ slug: "diokaisareia-antik-tiyatrosu"
 description: "## Diokaisareia Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.926775,36.581255"
 draft: "false"
 weight: "999"

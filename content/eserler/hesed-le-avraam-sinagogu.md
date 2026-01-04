@@ -5,10 +5,10 @@ slug: "hesed-le-avraam-sinagogu"
 description: "## Hesed Le Avraam Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hesed_Le_Avraam_Synagogue.jpg/1200px-Hesed_Le_Avraam_Synagogue.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.13475,40.872277777"
 draft: "false"
 weight: "10"

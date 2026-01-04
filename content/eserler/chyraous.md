@@ -5,10 +5,10 @@ slug: "chyraous"
 description: "### Chyraous Kalesi: Altıeylül'ün Gizli Değerleri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.940367,39.49242"
 draft: "false"
 weight: "999"

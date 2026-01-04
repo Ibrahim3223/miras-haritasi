@@ -5,10 +5,10 @@ slug: "akalan-kalesi"
 description: "## Akalan Kalesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.1570358,41.2720009"
 draft: "false"
 weight: "999"

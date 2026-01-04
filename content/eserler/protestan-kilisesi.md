@@ -5,10 +5,10 @@ slug: "protestan-kilisesi"
 description: "### Protestan Kilisesi: Talas'taki Bir Geçmiş..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.58429,38.644229"
 draft: "false"
 weight: "999"

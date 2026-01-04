@@ -5,10 +5,10 @@ slug: "scyllae"
 description: "## Ege Denizi'ndeki Gizemli Scyllae Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.091144,41.637244"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "silivri-belediye-hamami"
 description: "## Silivri Belediye Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.2467613,41.0728378"
 draft: "false"
 weight: "999"

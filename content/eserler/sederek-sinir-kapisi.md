@@ -5,10 +5,10 @@ slug: "sederek-sinir-kapisi"
 description: "## Sederek Sınır Kapısı: Tarihi ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.8031044,39.655266697"
 draft: "false"
 weight: "999"

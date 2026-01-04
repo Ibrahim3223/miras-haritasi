@@ -5,10 +5,10 @@ slug: "kuzugol-kalesi"
 description: "## Kuzugöl Kalesi: Pasinler'in Gizli Şatosu..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.4250679,40.0095711"
 draft: "false"
 weight: "999"

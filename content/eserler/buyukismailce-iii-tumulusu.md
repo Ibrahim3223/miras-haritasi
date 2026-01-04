@@ -5,10 +5,10 @@ slug: "buyukismailce-iii-tumulusu"
 description: "# Büyükismailçe III Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4744263,41.8199997"
 draft: "false"
 weight: "999"

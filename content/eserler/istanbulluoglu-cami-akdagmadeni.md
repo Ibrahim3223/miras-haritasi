@@ -5,10 +5,10 @@ slug: "istanbulluoglu-cami-akdagmadeni"
 description: "## İstanbulluoğlu Camii: Akdağmadeni'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Akdağmadeni"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8777084,39.6610413"
 draft: "false"
 weight: "999"

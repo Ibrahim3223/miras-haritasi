@@ -5,10 +5,10 @@ slug: "gordos-lidya"
 description: "## Gordos (Lidya)..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.31421,38.876702"
 draft: "false"
 weight: "999"

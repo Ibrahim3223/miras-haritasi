@@ -5,10 +5,10 @@ slug: "deniz-sehitleri-aniti-sinop"
 description: "**Deniz Şehitleri Anıtı: Sinop'un Onuruna**..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1507149,42.027317"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kutahya-muzesi"
 description: "## Kütahya Müzesi: Geçmişten Geleceğe Bir Ziyaret..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

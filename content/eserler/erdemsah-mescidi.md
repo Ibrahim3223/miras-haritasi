@@ -5,10 +5,10 @@ slug: "erdemsah-mescidi"
 description: "## Erdemşah Mescidi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4956932,37.8701439"
 draft: "false"
 weight: "999"

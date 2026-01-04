@@ -5,10 +5,10 @@ slug: "kaptan-sinan-mescidi"
 description: "# Kaptan Sinan Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.939352,41.0164757"
 draft: "false"
 weight: "999"

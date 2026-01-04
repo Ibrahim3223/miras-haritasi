@@ -5,10 +5,10 @@ slug: "mehmet-efendi-camii"
 description: "## Mehmet Efendi Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.851313274,41.117821196"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "duatepe-aniti"
 description: "### Duatepe Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.0633554,39.6070974"
 draft: "false"
 weight: "999"

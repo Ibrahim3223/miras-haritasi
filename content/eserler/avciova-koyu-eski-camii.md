@@ -5,10 +5,10 @@ slug: "avciova-koyu-eski-camii"
 description: "## Avcıova Köyü Eski Camii: Çubuk'ta Bir Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.022131055,40.439819825"
 draft: "false"
 weight: "999"

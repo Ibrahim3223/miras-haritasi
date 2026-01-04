@@ -5,10 +5,10 @@ slug: "livapasa-konagi-etnografya-muzesi"
 description: "### Livapaşa Konağı Etnografya Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7755061,41.3750635"
 draft: "false"
 weight: "999"

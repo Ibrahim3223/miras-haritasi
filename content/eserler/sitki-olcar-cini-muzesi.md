@@ -5,10 +5,10 @@ slug: "sitki-olcar-cini-muzesi"
 description: "## Sıtkı Olçar Çini Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9788418,39.4216194"
 draft: "false"
 weight: "999"

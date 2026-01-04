@@ -5,10 +5,10 @@ slug: "ravendel"
 description: "## Ravendel Kalesi: Kilis'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.949187,36.793102"
 draft: "false"
 weight: "999"

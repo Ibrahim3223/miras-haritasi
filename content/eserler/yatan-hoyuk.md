@@ -5,10 +5,10 @@ slug: "yatan-hoyuk"
 description: "### Yatan Höyük: Boğazlıyan'ın Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3232416,39.2724122"
 draft: "false"
 weight: "999"

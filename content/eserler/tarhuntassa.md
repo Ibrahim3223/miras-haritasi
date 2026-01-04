@@ -5,10 +5,10 @@ slug: "tarhuntassa"
 description: "## Tarhuntassa Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Hattusa_Bronze_Tablet_Cuneiform.JPG/1200px-Hattusa_Bronze_Tablet_Cuneiform.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mersin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.16666667,36.86666667"
 draft: "false"
 weight: "10"

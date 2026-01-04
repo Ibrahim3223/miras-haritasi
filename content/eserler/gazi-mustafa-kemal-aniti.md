@@ -5,10 +5,10 @@ slug: "gazi-mustafa-kemal-aniti"
 description: "### Gazi Mustafa Kemal Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gazi_Mustafa_Kemal_Anıtı,_Silifke_(2).JPG/1200px-Gazi_Mustafa_Kemal_Anıtı,_Silifke_(2).JPG"
 province: "Silifke (ilçe)"
-iller: '["Silifke (ilçe)"]'
+iller: ["Silifke (ilçe)"]
 district: "Göksu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.925916666,36.380277777"
 draft: "false"
 weight: "10"

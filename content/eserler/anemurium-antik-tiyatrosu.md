@@ -5,10 +5,10 @@ slug: "anemurium-antik-tiyatrosu"
 description: "### Anemurium Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8019447,36.0225868"
 draft: "false"
 weight: "999"

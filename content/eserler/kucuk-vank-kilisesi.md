@@ -5,10 +5,10 @@ slug: "kucuk-vank-kilisesi"
 description: "## Küçük Vank Kilisesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Timurkışla"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.306166666,40.544194444"
 draft: "false"
 weight: "999"

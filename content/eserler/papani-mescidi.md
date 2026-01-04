@@ -5,10 +5,10 @@ slug: "papani-mescidi"
 description: "### Papani Mescidi: Ankara'nın Eski Şehir Merkezi'nde Tarihi Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.857621656,39.940333442"
 draft: "false"
 weight: "999"

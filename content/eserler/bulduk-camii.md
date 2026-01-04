@@ -5,10 +5,10 @@ slug: "bulduk-camii"
 description: "# Bulduk Camii: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9577847,40.9447746"
 draft: "false"
 weight: "999"

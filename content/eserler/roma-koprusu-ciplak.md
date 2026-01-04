@@ -5,10 +5,10 @@ slug: "roma-koprusu-ciplak"
 description: "## Roma Köprüsü, Çıplak: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.261286304,39.927022329"
 draft: "false"
 weight: "999"

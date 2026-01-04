@@ -5,10 +5,10 @@ slug: "placia"
 description: "## Placia: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.27741,40.397648"
 draft: "false"
 weight: "999"

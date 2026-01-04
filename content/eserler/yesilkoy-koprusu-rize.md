@@ -5,10 +5,10 @@ slug: "yesilkoy-koprusu-rize"
 description: "**Yeşilköy Köprüsü: Rize'nin Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.5992,40.9576"
 draft: "false"
 weight: "999"

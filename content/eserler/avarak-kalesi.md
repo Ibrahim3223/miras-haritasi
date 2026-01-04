@@ -5,10 +5,10 @@ slug: "avarak-kalesi"
 description: "## Avarak Kalesi: Giresun'un Gizli Çandırı..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.6659088,40.1357346"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "altin-kalem-mescidi"
 description: "**Altın Kalem Mescidi: Akşehir'in Gizli Çehresi**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.4090595,38.3583946"
 draft: "false"
 weight: "999"

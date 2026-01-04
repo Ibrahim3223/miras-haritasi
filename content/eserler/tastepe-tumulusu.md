@@ -5,10 +5,10 @@ slug: "tastepe-tumulusu"
 description: "## Taştepe Tümülüsü: Edirne'nin Gizli Tarihî Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.631974731,41.945403718"
 draft: "false"
 weight: "999"

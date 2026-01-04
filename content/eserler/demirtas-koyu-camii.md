@@ -5,10 +5,10 @@ slug: "demirtas-koyu-camii"
 description: "### Demirtaş Köyü Camii: İzmir'in Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.951162,38.998523"
 draft: "false"
 weight: "999"

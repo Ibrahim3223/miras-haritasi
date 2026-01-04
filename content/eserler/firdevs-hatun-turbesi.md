@@ -5,10 +5,10 @@ slug: "firdevs-hatun-turbesi"
 description: "### Giriş..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2036552,40.1694679"
 draft: "false"
 weight: "999"

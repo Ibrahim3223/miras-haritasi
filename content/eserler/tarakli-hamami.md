@@ -5,10 +5,10 @@ slug: "tarakli-hamami"
 description: "**Taraklı Hamamı**..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Taraklı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.4923286,40.3963127"
 draft: "false"
 weight: "999"

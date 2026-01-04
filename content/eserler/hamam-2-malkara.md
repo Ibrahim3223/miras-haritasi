@@ -5,10 +5,10 @@ slug: "hamam-2-malkara"
 description: "## Hamam 2, Malkara: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.9024906,40.8900795"
 draft: "false"
 weight: "999"

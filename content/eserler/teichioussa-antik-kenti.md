@@ -5,10 +5,10 @@ slug: "teichioussa-antik-kenti"
 description: "### Teichioussa Antik Kenti: İyonya'nın Gizli Mirası..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4109,37.4124"
 draft: "false"
 weight: "999"

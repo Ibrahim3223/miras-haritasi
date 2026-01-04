@@ -5,10 +5,10 @@ slug: "bezirhane"
 description: "## Bezirhane: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.2890995,38.2698208"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-aga-camii-kars"
 description: "### Ali Ağa Camii, Kars: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.0917358,40.6097832"
 draft: "false"
 weight: "999"

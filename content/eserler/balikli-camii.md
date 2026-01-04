@@ -5,10 +5,10 @@ slug: "balikli-camii"
 description: "# Balıklı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Balıklı_camii_dış.JPG/1200px-Balıklı_camii_dış.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "10"

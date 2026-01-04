@@ -5,10 +5,10 @@ slug: "uctepeler-c-tumulusu"
 description: "## Üçtepeler C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7323494,41.5021744"
 draft: "false"
 weight: "999"

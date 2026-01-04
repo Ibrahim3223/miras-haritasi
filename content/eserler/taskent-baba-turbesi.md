@@ -5,10 +5,10 @@ slug: "taskent-baba-turbesi"
 description: "### Taşkent Baba Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.559117,41.673649"
 draft: "false"
 weight: "999"

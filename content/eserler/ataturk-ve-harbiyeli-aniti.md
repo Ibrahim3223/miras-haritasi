@@ -5,10 +5,10 @@ slug: "ataturk-ve-harbiyeli-aniti"
 description: "## Atatürk ve Harbiyeli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8401718,39.9053917"
 draft: "false"
 weight: "999"

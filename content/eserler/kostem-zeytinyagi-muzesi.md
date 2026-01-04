@@ -5,10 +5,10 @@ slug: "kostem-zeytinyagi-muzesi"
 description: "## Köstem Zeytinyağı Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5560818,38.2897301"
 draft: "false"
 weight: "999"

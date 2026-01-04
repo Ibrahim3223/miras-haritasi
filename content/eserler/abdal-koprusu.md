@@ -5,10 +5,10 @@ slug: "abdal-koprusu"
 description: "### Abdal Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Abdal_Köprüsü.jpg/1200px-Abdal_Köprüsü.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.01284,40.21616"
 draft: "false"
 weight: "10"

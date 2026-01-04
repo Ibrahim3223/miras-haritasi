@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-silahhane"
 description: "## Yıldız Sarayı Silahhane..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0111504,41.0492401"
 draft: "false"
 weight: "999"

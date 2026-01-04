@@ -5,10 +5,10 @@ slug: "fransiz-sarayi"
 description: "### Fransız Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Palais_de_France,_Istanbul.jpg/1200px-Palais_de_France,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.977222222,41.030833333"
 draft: "false"
 weight: "10"

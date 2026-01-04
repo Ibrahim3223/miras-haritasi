@@ -5,10 +5,10 @@ slug: "degirmen-bogazi-koprusu"
 description: "## Değirmen Boğazı Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.966032399,39.69724454"
 draft: "false"
 weight: "999"

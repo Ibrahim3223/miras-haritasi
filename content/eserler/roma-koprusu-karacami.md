@@ -5,10 +5,10 @@ slug: "roma-koprusu-karacami"
 description: "## Roma Köprüsü, Karacami..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Payas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.203979,36.752819"
 draft: "false"
 weight: "999"

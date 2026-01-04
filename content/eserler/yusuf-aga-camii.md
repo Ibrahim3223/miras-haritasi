@@ -5,10 +5,10 @@ slug: "yusuf-aga-camii"
 description: "## Yusuf Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0721741,41.1836662"
 draft: "false"
 weight: "999"

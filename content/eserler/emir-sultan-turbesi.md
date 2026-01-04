@@ -5,10 +5,10 @@ slug: "emir-sultan-turbesi"
 description: "# Emir Sultan Türbesi: İzmir'in Gizli Çehresini İyileştiren Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bursa_Emir_Sultan_Türbesi_7095.jpg/1200px-Bursa_Emir_Sultan_Türbesi_7095.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1431675,38.4189682"
 draft: "false"
 weight: "999"

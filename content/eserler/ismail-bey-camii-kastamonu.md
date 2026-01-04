@@ -5,10 +5,10 @@ slug: "ismail-bey-camii-kastamonu"
 description: "### İsmail Bey Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7775917,41.3837433"
 draft: "false"
 weight: "999"

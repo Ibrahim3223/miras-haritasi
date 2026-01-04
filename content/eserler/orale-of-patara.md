@@ -5,10 +5,10 @@ slug: "orale-of-patara"
 description: "## Orales of Patara: Antik Bir Kentin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

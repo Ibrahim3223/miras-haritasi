@@ -5,10 +5,10 @@ slug: "bosnevi-daruhadis-medresesi"
 description: "## Bosnevi Darühadis Medresesi: İstanbul'un Gizli Çandırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.953144,41.012723"
 draft: "false"
 weight: "999"

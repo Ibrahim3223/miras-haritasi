@@ -5,10 +5,10 @@ slug: "canbaz-mustafa-kabri"
 description: "## Canbaz Mustafa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.928048231,41.005203614"
 draft: "false"
 weight: "999"

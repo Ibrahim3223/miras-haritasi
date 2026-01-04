@@ -5,10 +5,10 @@ slug: "hacibayram-hoyuk"
 description: "## Hacıbayram Höyük: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7088227,38.92689"
 draft: "false"
 weight: "999"

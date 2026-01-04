@@ -5,10 +5,10 @@ slug: "basdurak-camii"
 description: "## Başdurak Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TR_Izmir_asv2020-02_img59_Başdurak_Mosque.jpg/1200px-TR_Izmir_asv2020-02_img59_Başdurak_Mosque.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.133472222,38.418472222"
 draft: "false"
 weight: "10"

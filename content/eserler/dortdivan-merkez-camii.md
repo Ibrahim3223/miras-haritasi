@@ -5,10 +5,10 @@ slug: "dortdivan-merkez-camii"
 description: "## Dörtdivan Merkez Camii: Bolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.0629921,40.7214584"
 draft: "false"
 weight: "999"

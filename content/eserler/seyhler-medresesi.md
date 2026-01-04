@@ -5,10 +5,10 @@ slug: "seyhler-medresesi"
 description: "# Şeyhler Medresesi: Erzurum'un Gizli Çarıklarına Yolculuk..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "41.2726936,39.9031448"
 draft: "false"
 weight: "999"

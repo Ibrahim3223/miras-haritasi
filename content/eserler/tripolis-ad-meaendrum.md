@@ -5,10 +5,10 @@ slug: "tripolis-ad-meaendrum"
 description: "## Tripolis ad Meaendrum: Denizli'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Tripolis_in_Phrygia_Buldan_Denizli2.jpg/1200px-Tripolis_in_Phrygia_Buldan_Denizli2.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9510345,38.0388981"
 draft: "false"
 weight: "10"

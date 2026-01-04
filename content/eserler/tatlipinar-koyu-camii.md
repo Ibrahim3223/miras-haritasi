@@ -5,10 +5,10 @@ slug: "tatlipinar-koyu-camii"
 description: "## Tatlıpınar Köyü Camii: Çankırı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Yapraklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.8761177,40.7213249"
 draft: "false"
 weight: "999"

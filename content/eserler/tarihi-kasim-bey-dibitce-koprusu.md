@@ -5,10 +5,10 @@ slug: "tarihi-kasim-bey-dibitce-koprusu"
 description: "## Tarihi Kasım Bey (Dibitçe) Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Yayladağı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.056206,35.908386"
 draft: "false"
 weight: "999"

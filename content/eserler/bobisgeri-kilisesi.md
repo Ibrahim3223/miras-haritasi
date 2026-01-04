@@ -5,10 +5,10 @@ slug: "bobisgeri-kilisesi"
 description: "## Bobisgeri Kilisesi: Erzurum'un Gizemli Tarihi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Şenkaya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.237111111,40.567305555"
 draft: "false"
 weight: "999"

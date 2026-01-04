@@ -5,10 +5,10 @@ slug: "yolcuzade-haci-omer-efendi-turbesi"
 description: "### Yolcuzade Hacı Ömer Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9696484,41.0264053"
 draft: "false"
 weight: "999"

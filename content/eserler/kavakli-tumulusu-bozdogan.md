@@ -5,10 +5,10 @@ slug: "kavakli-tumulusu-bozdogan"
 description: "### Kavaklı Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3036995,37.7514992"
 draft: "false"
 weight: "999"

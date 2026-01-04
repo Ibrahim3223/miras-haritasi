@@ -5,10 +5,10 @@ slug: "tomisa-kalesi"
 description: "## Tomisa Kalesi: Baskil'in Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Baskil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.8161964,38.452137"
 draft: "false"
 weight: "999"

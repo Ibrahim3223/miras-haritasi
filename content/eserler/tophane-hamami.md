@@ -5,10 +5,10 @@ slug: "tophane-hamami"
 description: "## Tophane Hamamı: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.7205734,41.0086555"
 draft: "false"
 weight: "999"

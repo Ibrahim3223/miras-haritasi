@@ -5,10 +5,10 @@ slug: "altinkoy-acik-hava-muzesi"
 description: "## Altınköy Açık Hava Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Altınköy_Açık_Hava_Müzesi_03.jpg/1200px-Altınköy_Açık_Hava_Müzesi_03.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.956444444,39.977138888"
 draft: "false"
 weight: "10"

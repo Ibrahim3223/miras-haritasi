@@ -5,10 +5,10 @@ slug: "kanlidere-koprusu"
 description: "**Kanlıdere Köprüsü: İzmirlinin Klasik Bir Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6452084,38.2267685"
 draft: "false"
 weight: "999"

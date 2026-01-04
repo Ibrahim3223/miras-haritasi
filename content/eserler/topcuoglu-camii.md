@@ -5,10 +5,10 @@ slug: "topcuoglu-camii"
 description: "## Topçuoğlu Camii: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/049_Kastamonu_Topçuoğlu_Cami.jpg/1200px-049_Kastamonu_Topçuoğlu_Cami.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7741203,41.3789024"
 draft: "false"
 weight: "10"

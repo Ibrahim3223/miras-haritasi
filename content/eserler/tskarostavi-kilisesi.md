@@ -5,10 +5,10 @@ slug: "tskarostavi-kilisesi"
 description: "## Tskarostavi Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Öncül"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.164527777,41.239138888"
 draft: "false"
 weight: "999"

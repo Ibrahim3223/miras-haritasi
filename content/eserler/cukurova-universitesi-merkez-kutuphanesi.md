@@ -5,10 +5,10 @@ slug: "cukurova-universitesi-merkez-kutuphanesi"
 description: "## Çukurova Üniversitesi Merkez Kütüphanesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Çukurova"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.355166666,37.059888888"
 draft: "false"
 weight: "999"

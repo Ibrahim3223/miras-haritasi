@@ -5,10 +5,10 @@ slug: "maksut-efendi-turbesi"
 description: "## Maksut Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.3303642,39.8968544"
 draft: "false"
 weight: "999"

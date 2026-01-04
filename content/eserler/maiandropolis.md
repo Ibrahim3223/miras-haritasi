@@ -5,10 +5,10 @@ slug: "maiandropolis"
 description: "## Maiandropolis: Aydın'ın Eski Kenti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.410275,37.751855"
 draft: "false"
 weight: "999"

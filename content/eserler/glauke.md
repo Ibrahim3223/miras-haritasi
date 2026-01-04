@@ -5,10 +5,10 @@ slug: "glauke"
 description: "### Glauke: Kuşadası'nın Antik Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0096,37.661"
 draft: "false"
 weight: "999"

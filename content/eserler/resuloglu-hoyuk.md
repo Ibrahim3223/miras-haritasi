@@ -5,10 +5,10 @@ slug: "resuloglu-hoyuk"
 description: "### Resuloğlu Höyük: Bir Tarih Öncesi Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.175602,40.429882"
 draft: "false"
 weight: "999"

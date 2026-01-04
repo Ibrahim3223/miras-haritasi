@@ -5,10 +5,10 @@ slug: "araplar-koyu-eski-camii"
 description: "## Araplar Köyü Eski Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.943596326,39.924104542"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kireli-maltepe-tumulusu"
 description: "## Kireli Maltepe Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8190994,38.137001"
 draft: "false"
 weight: "999"

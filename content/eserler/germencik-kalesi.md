@@ -5,10 +5,10 @@ slug: "germencik-kalesi"
 description: "## Germencik Kalesi..."
 featured_image: ""
 province: "Kars Eyaleti"
-iller: '["Kars Eyaleti"]'
+iller: ["Kars Eyaleti"]
 district: "Ardanuç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.359562,40.945889"
 draft: "false"
 weight: "999"

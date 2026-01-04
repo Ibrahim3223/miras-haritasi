@@ -5,10 +5,10 @@ slug: "kale-camii"
 description: "## Kale Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.5104485,41.0271797"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "canakkale-arkeoloji-muzesi"
 description: "## Çanakkale Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/MuseumCanakkaleEingang.JPG/1200px-MuseumCanakkaleEingang.JPG"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.41,40.13333333"
 draft: "false"
 weight: "10"

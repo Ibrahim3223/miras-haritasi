@@ -5,10 +5,10 @@ slug: "bolvadin-rustem-pasa-hamami"
 description: "## Bolvadin Rüstem Paşa Hamamı: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.0485191,38.7105293"
 draft: "false"
 weight: "999"

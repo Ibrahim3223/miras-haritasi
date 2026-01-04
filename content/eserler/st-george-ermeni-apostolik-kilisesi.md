@@ -5,10 +5,10 @@ slug: "st-george-ermeni-apostolik-kilisesi"
 description: "## St. George Ermeni Apostolik Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.4032898,40.1454086"
 draft: "false"
 weight: "999"

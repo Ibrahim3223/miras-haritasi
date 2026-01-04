@@ -5,10 +5,10 @@ slug: "bogazici-koyu-koprusu"
 description: "### Boğaziçi Köyü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.958867,41.057067"
 draft: "false"
 weight: "999"

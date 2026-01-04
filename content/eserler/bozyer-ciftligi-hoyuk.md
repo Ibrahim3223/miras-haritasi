@@ -5,10 +5,10 @@ slug: "bozyer-ciftligi-hoyuk"
 description: "## Bozyer Çiftliği Höyük: Demirci, Manisa'da Bir Arkeolojik Dev..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.77428,38.899486"
 draft: "false"
 weight: "999"

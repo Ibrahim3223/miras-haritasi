@@ -5,10 +5,10 @@ slug: "bogoroditsa-kilisesi-gecitagzi"
 description: "**Geçitağzı'daki Bogoroditsa Kilisesi: Kırklareli'nin Kıymetli Kilisesi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3170948,41.9385262"
 draft: "false"
 weight: "999"

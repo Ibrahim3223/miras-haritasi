@@ -5,10 +5,10 @@ slug: "roma-koprusu-ahmet-yesevi"
 description: "## Roma Köprüsü, Ahmet Yesevi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Tercan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.487427,39.80806"
 draft: "false"
 weight: "999"

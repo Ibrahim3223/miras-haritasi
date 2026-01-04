@@ -5,10 +5,10 @@ slug: "kazak-abdal-turbesi"
 description: "## Kazak Abdal Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.159174,37.6933403"
 draft: "false"
 weight: "999"

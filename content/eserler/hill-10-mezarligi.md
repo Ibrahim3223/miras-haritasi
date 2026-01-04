@@ -5,10 +5,10 @@ slug: "hill-10-mezarligi"
 description: "## Hill 10 Mezarlığı: Eceabat'ta Bir Anıtın Hikayesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Visit_to_Hill_60_and_Hill_10_Cemeteries_(2).jpg/1200px-Visit_to_Hill_60_and_Hill_10_Cemeteries_(2).jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Küçükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.25238,40.31256"
 draft: "false"
 weight: "10"

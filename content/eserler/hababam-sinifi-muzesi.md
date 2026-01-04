@@ -5,10 +5,10 @@ slug: "hababam-sinifi-muzesi"
 description: "## Hababam Sınıfı Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.04195739,41.013815497"
 draft: "false"
 weight: "999"

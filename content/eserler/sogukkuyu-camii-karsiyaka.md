@@ -5,10 +5,10 @@ slug: "sogukkuyu-camii-karsiyaka"
 description: "## Soğukkuyu Camii: İzmir'in Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1159477,38.4669876"
 draft: "false"
 weight: "999"

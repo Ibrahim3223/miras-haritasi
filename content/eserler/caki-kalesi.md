@@ -5,10 +5,10 @@ slug: "caki-kalesi"
 description: "## Caki Kalesi: Posof'un Efsanevi Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Jak-su_fort_(Devitsky,_1905).jpg/1200px-Jak-su_fort_(Devitsky,_1905).jpg"
 province: "Posof"
-iller: '["Posof"]'
+iller: ["Posof"]
 district: "Çambeli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.802027777,41.507333333"
 draft: "false"
 weight: "10"

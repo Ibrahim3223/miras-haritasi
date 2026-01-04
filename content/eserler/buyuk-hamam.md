@@ -5,10 +5,10 @@ slug: "buyuk-hamam"
 description: "## Büyük Hamam: Altınordu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.8925896,40.9448738"
 draft: "false"
 weight: "999"

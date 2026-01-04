@@ -5,10 +5,10 @@ slug: "roma-koprusu-guney"
 description: "## Roma Köprüsü, Güney..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Güney"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0564499,38.119915"
 draft: "false"
 weight: "999"

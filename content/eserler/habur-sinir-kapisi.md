@@ -5,10 +5,10 @@ slug: "habur-sinir-kapisi"
 description: "## Habur Sınır Kapısı: Geçmişi ve Mimari Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Habur_Sınır_Kapısı.jpg/1200px-Habur_Sınır_Kapısı.jpg"
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Silopi"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "42.566977,37.147749"
 draft: "false"
 weight: "10"

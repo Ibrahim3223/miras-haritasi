@@ -5,10 +5,10 @@ slug: "manisa-il-halk-kutuphanesi"
 description: "### Manisa İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.4319057,38.6160164"
 draft: "false"
 weight: "999"

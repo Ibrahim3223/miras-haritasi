@@ -5,10 +5,10 @@ slug: "cesme-mescidi"
 description: "## Çeşme Mescidi: Altındağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8709183,39.9375725"
 draft: "false"
 weight: "999"

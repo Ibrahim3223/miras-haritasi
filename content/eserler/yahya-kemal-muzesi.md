@@ -5,10 +5,10 @@ slug: "yahya-kemal-muzesi"
 description: "## Yahya Kemal Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.967687285,41.008736381"
 draft: "false"
 weight: "999"

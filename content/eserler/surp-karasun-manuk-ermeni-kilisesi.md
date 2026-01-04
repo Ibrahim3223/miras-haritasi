@@ -5,10 +5,10 @@ slug: "surp-karasun-manuk-ermeni-kilisesi"
 description: "### Surp Karasun Manuk Ermeni Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "İskenderun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.170318,36.589335"
 draft: "false"
 weight: "999"

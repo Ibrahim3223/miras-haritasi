@@ -5,10 +5,10 @@ slug: "st-antuan-katolik-kilisesi"
 description: "## St. Antuan Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Istanbul_asv2021-11_img71_StAnthony_of_Padua_Church.jpg/1200px-Istanbul_asv2021-11_img71_StAnthony_of_Padua_Church.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.977234,41.032317"
 draft: "false"
 weight: "10"

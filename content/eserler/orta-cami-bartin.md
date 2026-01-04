@@ -5,10 +5,10 @@ slug: "orta-cami-bartin"
 description: "## Orta Cami (Bartın)..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3376846,41.6335144"
 draft: "false"
 weight: "999"

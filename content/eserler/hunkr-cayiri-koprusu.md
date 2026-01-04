@@ -5,10 +5,10 @@ slug: "hunkr-cayiri-koprusu"
 description: "## Hünkâr Çayırı Köprüsü: Kocaeli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.343302,40.814183"
 draft: "false"
 weight: "999"

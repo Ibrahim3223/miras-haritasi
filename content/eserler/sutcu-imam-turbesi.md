@@ -5,10 +5,10 @@ slug: "sutcu-imam-turbesi"
 description: "## Sütçü İmam Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9276581,37.587986"
 draft: "false"
 weight: "999"

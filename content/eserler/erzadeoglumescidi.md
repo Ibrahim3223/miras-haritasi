@@ -5,10 +5,10 @@ slug: "erzadeoglumescidi"
 description: "## Erzadeoğlu Mescidi: Kayseri'nin Gizemli Camisi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.444537227,38.823332937"
 draft: "false"
 weight: "999"

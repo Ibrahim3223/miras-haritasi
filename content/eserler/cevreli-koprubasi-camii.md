@@ -5,10 +5,10 @@ slug: "cevreli-koprubasi-camii"
 description: "## Çevreli Köprübaşı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.46349,40.766723"
 draft: "false"
 weight: "999"

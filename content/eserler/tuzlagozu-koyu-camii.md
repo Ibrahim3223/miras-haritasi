@@ -5,10 +5,10 @@ slug: "tuzlagozu-koyu-camii"
 description: "## Tuzlagözü Köyü Camii: Sivas'ın Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.6756248,39.7144928"
 draft: "false"
 weight: "999"

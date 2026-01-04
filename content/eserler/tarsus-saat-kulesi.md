@@ -5,10 +5,10 @@ slug: "tarsus-saat-kulesi"
 description: "## Tarsus Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tarsus_Clock_Tower_(16034876117).jpg/1200px-Tarsus_Clock_Tower_(16034876117).jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.897666666,36.915805555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "veli-kalesi-kilisesi"
 description: "## Veli Kalesi Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Hanak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.978244444,41.155869444"
 draft: "false"
 weight: "999"

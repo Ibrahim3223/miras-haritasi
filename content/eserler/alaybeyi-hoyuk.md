@@ -5,10 +5,10 @@ slug: "alaybeyi-hoyuk"
 description: "## Alaybeyi Höyük: Erzurum'un Gizli İncisi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aziziye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.046082,40.010723"
 draft: "false"
 weight: "999"

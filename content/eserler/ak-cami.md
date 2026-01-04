@@ -5,10 +5,10 @@ slug: "ak-cami"
 description: "### Ak Cami Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/ŞAZİBEY_CAMİ_(akcami)_-_panoramio.jpg/1200px-ŞAZİBEY_CAMİ_(akcami)_-_panoramio.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4912033,37.8743782"
 draft: "false"
 weight: "10"

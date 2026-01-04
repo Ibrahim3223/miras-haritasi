@@ -5,10 +5,10 @@ slug: "segmen-aniti-cankaya"
 description: "## Seğmen Anıtı: Çankaya'daki Tarihi Bir Anıt..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8637619,39.8942413"
 draft: "false"
 weight: "999"

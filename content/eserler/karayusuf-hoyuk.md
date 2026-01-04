@@ -5,10 +5,10 @@ slug: "karayusuf-hoyuk"
 description: "### Karayusuf Höyük: Avanos'un Gizli Tarihi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0034607,38.9654246"
 draft: "false"
 weight: "999"

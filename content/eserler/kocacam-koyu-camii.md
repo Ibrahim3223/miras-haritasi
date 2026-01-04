@@ -5,10 +5,10 @@ slug: "kocacam-koyu-camii"
 description: "## Kocaçam Köyü Camii: Bozkurt, Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Bozkurt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.97296186,41.92003501"
 draft: "false"
 weight: "999"

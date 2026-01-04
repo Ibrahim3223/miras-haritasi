@@ -5,10 +5,10 @@ slug: "fethiye-hoyuk"
 description: "## Fethiye Höyük..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yazıhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1330109,38.625309"
 draft: "false"
 weight: "999"

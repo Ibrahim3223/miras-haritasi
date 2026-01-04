@@ -5,10 +5,10 @@ slug: "aya-anastasia-kilisesi"
 description: "### Aya Anastasia Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4032173,38.6305504"
 draft: "false"
 weight: "999"

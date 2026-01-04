@@ -5,10 +5,10 @@ slug: "cavusbasi-camii"
 description: "### Çavuşbaşı Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Çavuşbaşı_Camii_IMG_1028.jpg/1200px-Çavuşbaşı_Camii_IMG_1028.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9415,41.049027777"
 draft: "false"
 weight: "10"

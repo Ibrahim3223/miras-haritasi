@@ -5,10 +5,10 @@ slug: "mehmet-sah-dede-turbesi"
 description: "### Mehmet Şah Dede Türbesi: Kurşunlu, Çankırı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.28646,40.779855"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocgazi-turbesi"
 description: "## Koçgazi Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1205,38.4002"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "curukin-hoyuk"
 description: "## Çürükin Höyük: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.2954006,37.1367989"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "panionion-antik-tiyatrosu"
 description: "## Panionion Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "27.234974,37.712878"
 draft: "false"
 weight: "999"

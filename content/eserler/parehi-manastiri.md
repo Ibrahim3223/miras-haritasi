@@ -5,10 +5,10 @@ slug: "parehi-manastiri"
 description: "## Parehi Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Parekhi2.jpg/1200px-Parekhi2.jpg"
 province: "Artvin İlçesi"
-iller: '["Artvin İlçesi"]'
+iller: ["Artvin İlçesi"]
 district: "Orta"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.99,41.25194444"
 draft: "false"
 weight: "10"

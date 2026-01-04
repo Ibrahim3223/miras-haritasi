@@ -5,10 +5,10 @@ slug: "huseyin-bey-hamami"
 description: "## Hüseyin Bey Hamamı: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.4865646,38.7233505"
 draft: "false"
 weight: "999"

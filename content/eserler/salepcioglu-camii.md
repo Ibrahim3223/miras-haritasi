@@ -5,10 +5,10 @@ slug: "salepcioglu-camii"
 description: "## Salepçioğlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/TR_Izmir_asv2020-02_img56_Salepçioğlu_Mosque.jpg/1200px-TR_Izmir_asv2020-02_img56_Salepçioğlu_Mosque.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1325,38.416944444"
 draft: "false"
 weight: "10"

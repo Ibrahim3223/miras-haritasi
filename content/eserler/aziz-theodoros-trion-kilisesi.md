@@ -5,10 +5,10 @@ slug: "aziz-theodoros-trion-kilisesi"
 description: "## Aziz Theodoros Trion Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Catholic_Church_Derinkuyu_Turkey_-_panoramio_-_Chanilim714_(1).jpg/1200px-Catholic_Church_Derinkuyu_Turkey_-_panoramio_-_Chanilim714_(1).jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Derinkuyu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.73375,38.372194444"
 draft: "false"
 weight: "10"

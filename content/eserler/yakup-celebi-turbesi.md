@@ -5,10 +5,10 @@ slug: "yakup-celebi-turbesi"
 description: "# Yakup Çelebi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7229633,40.4258804"
 draft: "false"
 weight: "999"

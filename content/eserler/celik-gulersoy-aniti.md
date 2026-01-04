@@ -5,10 +5,10 @@ slug: "celik-gulersoy-aniti"
 description: "## Çelik Gülersoy Anıtı: Kadıköy'ün Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0343113,40.9667625"
 draft: "false"
 weight: "999"

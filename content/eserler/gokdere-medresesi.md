@@ -5,10 +5,10 @@ slug: "gokdere-medresesi"
 description: "### Gökdere Medresesi: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.071574,40.18386"
 draft: "false"
 weight: "999"

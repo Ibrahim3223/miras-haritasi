@@ -5,10 +5,10 @@ slug: "kusadasi-ozer-arabul-kultur-merkezi-ve-kent-muzesi"
 description: "## Kuşadası Özer Arabul Kültür Merkezi ve Kent Müzesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2567501,37.8567886"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-yuva"
 description: "## Roma Köprüsü, Yuva: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.504868,39.247608"
 draft: "false"
 weight: "999"

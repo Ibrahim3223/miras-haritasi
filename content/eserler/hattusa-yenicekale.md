@@ -5,10 +5,10 @@ slug: "hattusa-yenicekale"
 description: "# Hattuşa Yenicekale: Boğazkale'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Boğazkale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.612526,40.010551"
 draft: "false"
 weight: "999"

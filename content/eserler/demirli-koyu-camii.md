@@ -5,10 +5,10 @@ slug: "demirli-koyu-camii"
 description: "## Demirli Köyü Camii: Eflani'de Bir Geçmişi Yaşatan Mimari Harika..."
 featured_image: ""
 province: "Eflani"
-iller: '["Eflani"]'
+iller: ["Eflani"]
 district: "Demirli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.0575485,41.3516884"
 draft: "false"
 weight: "999"

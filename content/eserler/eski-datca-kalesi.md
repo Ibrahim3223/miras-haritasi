@@ -5,10 +5,10 @@ slug: "eski-datca-kalesi"
 description: "## Eski Datça Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6607456,36.7321358"
 draft: "false"
 weight: "999"

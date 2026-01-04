@@ -5,10 +5,10 @@ slug: "gurcu-mehmet-pasa-camii"
 description: "## Gürcü Mehmet Paşa Camii: Erzurum'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2790031,39.9045219"
 draft: "false"
 weight: "999"

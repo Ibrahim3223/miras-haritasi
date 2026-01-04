@@ -5,10 +5,10 @@ slug: "sarkikaraagac-ulu-camii"
 description: "## Şarkikaraağaç Ulu Camii..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Şarkikaraağaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.365694444,38.080611111"
 draft: "false"
 weight: "999"

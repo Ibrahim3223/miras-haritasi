@@ -5,10 +5,10 @@ slug: "sahinler-koyu-koprusu"
 description: "## Şahinler Köyü Köprüsü..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.95554,39.436068"
 draft: "false"
 weight: "999"

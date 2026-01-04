@@ -5,10 +5,10 @@ slug: "valide-sultan-camii"
 description: "## Valide Sultan Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.439455879,40.20401063"
 draft: "false"
 weight: "999"

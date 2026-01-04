@@ -5,10 +5,10 @@ slug: "lukuyanus-aniti"
 description: "## Lukuyanus Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.8966579,37.6590691"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-panayia-manastiri"
 description: "# Aya Panayia Manastırı: Gökçeada'nın Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8203602,40.2076836"
 draft: "false"
 weight: "999"

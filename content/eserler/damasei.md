@@ -5,10 +5,10 @@ slug: "damasei"
 description: "**Damasei Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.983386,36.29873"
 draft: "false"
 weight: "999"

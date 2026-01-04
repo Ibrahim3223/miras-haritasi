@@ -5,10 +5,10 @@ slug: "astim-magarasi"
 description: "## Astım Mağarası: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Ast%C4%B1m_Ma%C4%9Faras%C4%B1_Foto%C4%9Fraf%C4%B1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

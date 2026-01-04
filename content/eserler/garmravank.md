@@ -5,10 +5,10 @@ slug: "garmravank"
 description: "## Garmravank Manastırı: Van'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Karmravank_Armenian_monastery_(Lake_Van)_-_another_view.JPG/1200px-Karmravank_Armenian_monastery_(Lake_Van)_-_another_view.JPG"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.904281,38.372315"
 draft: "false"
 weight: "10"

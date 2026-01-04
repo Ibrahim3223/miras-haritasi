@@ -5,10 +5,10 @@ slug: "deniz-abdal-kabri"
 description: "## Deniz Abdal Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9334869,41.0156136"
 draft: "false"
 weight: "999"

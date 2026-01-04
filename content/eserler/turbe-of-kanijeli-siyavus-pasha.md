@@ -5,10 +5,10 @@ slug: "turbe-of-kanijeli-siyavus-pasha"
 description: "**Türbe of Kanijeli Siyavuş Pasha: Eyüp Sultan'daki Bir Anıt**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Kanijeli_Siyavuş_Paşa_Türbesi.jpg/1200px-Kanijeli_Siyavuş_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "balik-pazari-hamami"
 description: "## Balık Pazarı Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.7056923,36.8844032"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "chalcaea"
 description: "## Chalcaea: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.079825,41.188254"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tabak-sultan-turbesi"
 description: "## Tabak Sultan Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.545239,41.672566"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasan-dede-turbesi-kadirli"
 description: "## Hasan Dede Türbesi, Kadirli..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Kadirli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.112434826,37.426857516"
 draft: "false"
 weight: "999"

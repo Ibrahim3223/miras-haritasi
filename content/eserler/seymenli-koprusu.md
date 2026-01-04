@@ -5,10 +5,10 @@ slug: "seymenli-koprusu"
 description: "## Seymenli Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.952099,40.58945"
 draft: "false"
 weight: "999"

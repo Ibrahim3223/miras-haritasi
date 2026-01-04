@@ -5,10 +5,10 @@ slug: "koca-musa-efendi-dede-turbesi"
 description: "## Koca Musa Efendi Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3744068,37.8526955"
 draft: "false"
 weight: "999"

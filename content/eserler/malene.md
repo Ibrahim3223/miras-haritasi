@@ -5,10 +5,10 @@ slug: "malene"
 description: "# Malene Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.804206,39.200303"
 draft: "false"
 weight: "999"

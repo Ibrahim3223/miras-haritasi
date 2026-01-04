@@ -5,10 +5,10 @@ slug: "soganli-hayvanat-bahcesi"
 description: "**Soğanlı Hayvanat Bahçesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.047089,40.218525"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balkan-sehitligi-mezarligi"
 description: "## Balkan Şehitliği Mezarlığı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5572205,41.6905861"
 draft: "false"
 weight: "999"

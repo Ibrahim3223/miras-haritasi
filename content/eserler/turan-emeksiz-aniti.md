@@ -5,10 +5,10 @@ slug: "turan-emeksiz-aniti"
 description: "## Turan Emeksiz Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.963138888,41.009638888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kursunlu-hamami"
 description: "## Kurşunlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.0208025,39.7467959"
 draft: "false"
 weight: "999"

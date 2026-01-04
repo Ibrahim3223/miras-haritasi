@@ -5,10 +5,10 @@ slug: "sinagog-kalintisi"
 description: "### Sinagog Kalıntısı: Beyoğlu'ndaki Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.952633105,41.041863251"
 draft: "false"
 weight: "999"

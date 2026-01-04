@@ -5,10 +5,10 @@ slug: "asmali-hatip-sultan-camii"
 description: "## Asmalı Hatip Sultan Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5056,37.8719902"
 draft: "false"
 weight: "999"

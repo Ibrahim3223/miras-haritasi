@@ -5,10 +5,10 @@ slug: "eskisehir-ataturk-ve-kultur-muzesi"
 description: "# Eskişehir Atatürk ve Kültür Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.500073,39.790627"
 draft: "false"
 weight: "999"

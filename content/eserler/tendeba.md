@@ -5,10 +5,10 @@ slug: "tendeba"
 description: "## Tendeba: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.221031,37.277111"
 draft: "false"
 weight: "999"

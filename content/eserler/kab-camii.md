@@ -5,10 +5,10 @@ slug: "kab-camii"
 description: "### Kab Camii: Adıyaman'ın Zengini..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.2791367,37.759594"
 draft: "false"
 weight: "999"

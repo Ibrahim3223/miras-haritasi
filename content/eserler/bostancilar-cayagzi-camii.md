@@ -5,10 +5,10 @@ slug: "bostancilar-cayagzi-camii"
 description: "## Bostancılar Çayağzı Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5270654,40.8106038"
 draft: "false"
 weight: "999"

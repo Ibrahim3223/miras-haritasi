@@ -5,10 +5,10 @@ slug: "misis-mozaik-muzesi"
 description: "## Misis Mozaik Müzesi: Antik Çağın Gizemli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/MisisMosaik.jpg/1200px-MisisMosaik.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.61944444,36.9575"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mehmet-bey-turbesi"
 description: "## Mehmet Bey Türbesi: Karatay, Konya'da Bir Anıtın Tarihi ve Eğlenceli Hikayesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5053215,37.8705254"
 draft: "false"
 weight: "999"

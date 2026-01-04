@@ -5,10 +5,10 @@ slug: "kara-ahmet-bey-turbesi"
 description: "## Kara Ahmet Bey Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9880924,39.4158516"
 draft: "false"
 weight: "999"

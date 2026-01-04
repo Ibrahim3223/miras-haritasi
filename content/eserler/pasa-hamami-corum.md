@@ -5,10 +5,10 @@ slug: "pasa-hamami-corum"
 description: "## Paşa Hamamı: Çorum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.9516536,40.5505642"
 draft: "false"
 weight: "999"

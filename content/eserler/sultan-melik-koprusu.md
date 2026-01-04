@@ -5,10 +5,10 @@ slug: "sultan-melik-koprusu"
 description: "## Sultan Melik Köprüsü..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.033855,39.608883"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ermenek-meydan-camii"
 description: "## Ermenek Meydan Camii: Karaman'ın Tarihî Bir Mimarî Harikası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.885006,36.6403389"
 draft: "false"
 weight: "999"

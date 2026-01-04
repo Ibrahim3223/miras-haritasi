@@ -5,10 +5,10 @@ slug: "seyh-ahmed-turbesi"
 description: "## Şeyh Ahmed Türbesi: Eyüpsultan'ın Gizli Azizleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9361134,41.0534172"
 draft: "false"
 weight: "999"

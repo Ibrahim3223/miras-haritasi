@@ -5,10 +5,10 @@ slug: "midaion"
 description: "## Midaion Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.854833,39.792833"
 draft: "false"
 weight: "999"

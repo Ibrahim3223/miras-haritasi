@@ -5,10 +5,10 @@ slug: "laodikeia-guney-hamam-gymnasium-kompleksi"
 description: "## Laodikeia Güney Hamam-Gymnasium Kompleksi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1059914,37.8317604"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "demirciler-koprusu-borcka"
 description: "# Demirciler Köprüsü: Artvin'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.623764,41.375859"
 draft: "false"
 weight: "999"

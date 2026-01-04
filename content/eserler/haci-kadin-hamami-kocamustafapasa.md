@@ -5,10 +5,10 @@ slug: "haci-kadin-hamami-kocamustafapasa"
 description: "## Hacı Kadın Hamamı, Kocamustafapaşa: İstanbullu Kadınların İhtişamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.927477,40.999796"
 draft: "false"
 weight: "999"

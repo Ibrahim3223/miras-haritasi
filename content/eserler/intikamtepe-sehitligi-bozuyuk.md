@@ -5,10 +5,10 @@ slug: "intikamtepe-sehitligi-bozuyuk"
 description: "## İntikamtepe Şehitliği: Bozüyük'teki Anıtsal Anlamı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0090809,39.8488388"
 draft: "false"
 weight: "999"

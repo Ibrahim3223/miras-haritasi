@@ -5,10 +5,10 @@ slug: "tis-nisopoulas-sapeli"
 description: "## Tis Nisopoulas Şapeli: Ayvalık'taki Bir Kıbrıs Rum Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.6358223,39.299633"
 draft: "false"
 weight: "999"

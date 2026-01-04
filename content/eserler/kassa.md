@@ -5,10 +5,10 @@ slug: "kassa"
 description: "## Kassa Arkeolojik Sit..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Sapanca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.263486,40.690513"
 draft: "false"
 weight: "999"

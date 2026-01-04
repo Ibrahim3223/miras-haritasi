@@ -5,10 +5,10 @@ slug: "ilyasbey-koy-hamami"
 description: "## İlyasbey Köy Hamamı: Bilecik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.8683434,40.2180824"
 draft: "false"
 weight: "999"

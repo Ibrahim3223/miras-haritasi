@@ -5,10 +5,10 @@ slug: "bakire-meryem-kilisesi"
 description: "## Bakire Meryem Kilisesi: Bozcaada'da Bir Kıbrıs Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.0689564,39.8352966"
 draft: "false"
 weight: "999"

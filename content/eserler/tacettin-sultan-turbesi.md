@@ -5,10 +5,10 @@ slug: "tacettin-sultan-turbesi"
 description: "### Tacettin Sultan Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8650932,39.9327049"
 draft: "false"
 weight: "999"

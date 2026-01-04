@@ -5,10 +5,10 @@ slug: "nerola"
 description: "## Nerola Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.850723,40.906068"
 draft: "false"
 weight: "999"

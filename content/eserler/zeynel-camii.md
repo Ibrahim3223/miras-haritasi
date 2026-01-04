@@ -5,10 +5,10 @@ slug: "zeynel-camii"
 description: "## Zeynel Camii: Erzurum'un Gizli Çehresini Açılan Bir Harikası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2747765,39.9099998"
 draft: "false"
 weight: "999"

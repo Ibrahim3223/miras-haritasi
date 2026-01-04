@@ -5,10 +5,10 @@ slug: "asikli-hoyuk"
 description: "**Aşıklı Höyük: Türkiye'nin Eski Yerleşim Alanı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Asikli-hoyuk.jpg/1200px-Asikli-hoyuk.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.23,38.349"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bazbent-koprusu"
 description: "## Bazbent Köprüsü: Tarihi Bir Örnek..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.4872665,40.5512505"
 draft: "false"
 weight: "999"

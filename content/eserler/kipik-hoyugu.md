@@ -5,10 +5,10 @@ slug: "kipik-hoyugu"
 description: "## Kipik Höyüğü: Yozgat'ın Gizli Harikası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.2148495,39.4805331"
 draft: "false"
 weight: "999"

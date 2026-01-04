@@ -5,10 +5,10 @@ slug: "anemurium-merkez-kilisesi"
 description: "### Anemurium Merkez Kilisesi: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.8036652,36.0237503"
 draft: "false"
 weight: "999"

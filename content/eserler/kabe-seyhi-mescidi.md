@@ -5,10 +5,10 @@ slug: "kabe-seyhi-mescidi"
 description: "### Kabe Şeyhi Mescidi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2737808,39.9102554"
 draft: "false"
 weight: "999"

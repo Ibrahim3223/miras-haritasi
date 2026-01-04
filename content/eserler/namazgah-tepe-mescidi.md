@@ -5,10 +5,10 @@ slug: "namazgah-tepe-mescidi"
 description: "## Namazgah Tepe Mescidi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.855425543,39.932882122"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tokat-muzesi"
 description: "### Tokat Müzesi: Türkiye'nin Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tokat_Müzesi_binasının_dış_görünümü.jpg/1200px-Tokat_Müzesi_binasının_dış_görünümü.jpg"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.54675,40.316083333"
 draft: "false"
 weight: "10"

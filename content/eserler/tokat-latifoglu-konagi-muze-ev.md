@@ -5,10 +5,10 @@ slug: "tokat-latifoglu-konagi-muze-ev"
 description: "## Tokat Latifoğlu Konağı Müze Ev: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.55211,40.311948"
 draft: "false"
 weight: "999"

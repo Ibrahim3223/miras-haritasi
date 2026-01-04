@@ -5,10 +5,10 @@ slug: "uskuplu-bostan-hamami"
 description: "# Üsküplü Bostan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9587555,41.023819"
 draft: "false"
 weight: "999"

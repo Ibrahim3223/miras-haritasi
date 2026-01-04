@@ -5,10 +5,10 @@ slug: "cami-harik-mahallesi"
 description: "## Cami, Harik Mahallesi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.860770793,39.940500678"
 draft: "false"
 weight: "999"

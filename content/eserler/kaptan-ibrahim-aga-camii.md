@@ -5,10 +5,10 @@ slug: "kaptan-ibrahim-aga-camii"
 description: "## Kaptan İbrahim Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kaptan-ibrahim-aga-camii.jpg/1200px-Kaptan-ibrahim-aga-camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.003,41.042888888"
 draft: "false"
 weight: "10"

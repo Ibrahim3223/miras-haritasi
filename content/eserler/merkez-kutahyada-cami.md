@@ -5,10 +5,10 @@ slug: "merkez-kutahyada-cami"
 description: "## Merkez Camii: Kütahya'nın Zümrütü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Kütahya_ulu_cami.JPG/1200px-Kütahya_ulu_cami.JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9756603,39.4172401"
 draft: "false"
 weight: "10"

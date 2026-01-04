@@ -5,10 +5,10 @@ slug: "uskupdere-koyu-camii"
 description: "### Üsküpdere Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3639374,41.6874771"
 draft: "false"
 weight: "999"

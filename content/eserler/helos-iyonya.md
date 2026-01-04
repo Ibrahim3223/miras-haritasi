@@ -5,10 +5,10 @@ slug: "helos-iyonya"
 description: "# Helos (İyonya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.361312,38.574035"
 draft: "false"
 weight: "999"

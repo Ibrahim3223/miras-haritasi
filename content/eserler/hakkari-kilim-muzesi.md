@@ -5,10 +5,10 @@ slug: "hakkari-kilim-muzesi"
 description: "### Hakkâri Kilim Müzesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "43.7366905,37.5777092"
 draft: "false"
 weight: "999"

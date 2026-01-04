@@ -5,10 +5,10 @@ slug: "kenan-yavuz-etnografya-muzesi"
 description: "## Kenan Yavuz Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Ev_dış_13.jpg/1200px-Ev_dış_13.jpg"
 province: "Demirözü"
-iller: '["Demirözü"]'
+iller: ["Demirözü"]
 district: "Beşpınar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.855437,40.030804"
 draft: "false"
 weight: "10"

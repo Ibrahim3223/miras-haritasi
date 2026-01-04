@@ -5,10 +5,10 @@ slug: "uzunkopru"
 description: "## Uzunköprü: Edirne'nin İhtişamlı Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Uzun_köprü_(6).jpg/1200px-Uzun_köprü_(6).jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.67669,41.27608"
 draft: "false"
 weight: "10"

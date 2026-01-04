@@ -5,10 +5,10 @@ slug: "mustafa-rifat-eczanesi"
 description: "## Mustafa Rıfat Eczanesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.331234,36.985981"
 draft: "false"
 weight: "999"

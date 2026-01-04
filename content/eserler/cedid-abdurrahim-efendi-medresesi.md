@@ -5,10 +5,10 @@ slug: "cedid-abdurrahim-efendi-medresesi"
 description: "**Cedid Abdürrahim Efendi Medresesi: İstanbul'un Tarihi bir Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.949023,41.022176"
 draft: "false"
 weight: "999"

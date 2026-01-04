@@ -5,10 +5,10 @@ slug: "veliyyuddin-efendi-kutuphanesi"
 description: "## Veliyyüddin Efendi Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

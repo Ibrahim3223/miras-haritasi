@@ -5,10 +5,10 @@ slug: "syllanta"
 description: "## Syllanta Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.321874,40.317895"
 draft: "false"
 weight: "999"

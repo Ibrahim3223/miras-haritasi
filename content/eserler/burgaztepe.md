@@ -5,10 +5,10 @@ slug: "burgaztepe"
 description: "## Burgaztepe: Milas'ın Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.536268929,37.469258273"
 draft: "false"
 weight: "999"

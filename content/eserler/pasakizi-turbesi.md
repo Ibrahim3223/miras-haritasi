@@ -5,10 +5,10 @@ slug: "pasakizi-turbesi"
 description: "## Paşakızı Türbesi: Bir İmparatorun Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4373779,38.6151276"
 draft: "false"
 weight: "999"

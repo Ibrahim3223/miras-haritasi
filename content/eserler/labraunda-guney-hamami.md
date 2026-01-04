@@ -5,10 +5,10 @@ slug: "labraunda-guney-hamami"
 description: "### Labraunda Güney Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8195076,37.4185219"
 draft: "false"
 weight: "999"

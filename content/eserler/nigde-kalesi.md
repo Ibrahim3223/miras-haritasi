@@ -5,10 +5,10 @@ slug: "nigde-kalesi"
 description: "## Niğde Kalesi: Tarihî ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/NigdeKale1.jpg/1200px-NigdeKale1.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.679611111,37.968166666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gumusozu-camii"
 description: "### Gümüşözü Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7683,40.6775"
 draft: "false"
 weight: "999"

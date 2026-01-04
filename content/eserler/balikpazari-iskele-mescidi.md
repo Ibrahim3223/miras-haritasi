@@ -5,10 +5,10 @@ slug: "balikpazari-iskele-mescidi"
 description: "## Balıkpazarı İskele Mescidi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.971611,41.01802"
 draft: "false"
 weight: "999"

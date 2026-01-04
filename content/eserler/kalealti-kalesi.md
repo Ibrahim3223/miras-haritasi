@@ -5,10 +5,10 @@ slug: "kalealti-kalesi"
 description: "### Kalealtı Kalesi: Çanakkale'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.8002262,40.6931992"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurtun-kalesi"
 description: "**Kürtün Kalesi: Gümüşhane'nin Gizli Cenneti**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.1194458,40.7008324"
 draft: "false"
 weight: "999"

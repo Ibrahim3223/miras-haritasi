@@ -5,10 +5,10 @@ slug: "hierapolis-guney-bizans-kapisi"
 description: "# Hierapolis Güney Bizans Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hierapolis_Southern_Byzantine_gate_from_outside_4834.jpg/1200px-Hierapolis_Southern_Byzantine_gate_from_outside_4834.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1288643,37.922348"
 draft: "false"
 weight: "10"

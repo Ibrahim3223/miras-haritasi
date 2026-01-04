@@ -5,10 +5,10 @@ slug: "kunbet-hatun-turbesi"
 description: "## Künbet Hatun Türbesi: Merzifon'un Gizli Cenneti..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4680176,40.8663025"
 draft: "false"
 weight: "999"

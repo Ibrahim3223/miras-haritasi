@@ -5,10 +5,10 @@ slug: "kelkit-ulu-cami"
 description: "### Kelkit Ulu Cami..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.437733,40.128678"
 draft: "false"
 weight: "999"

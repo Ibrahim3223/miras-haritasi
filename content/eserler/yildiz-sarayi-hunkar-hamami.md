@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-hunkar-hamami"
 description: "### Yıldız Sarayı Hünkar Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.011808663,41.050357755"
 draft: "false"
 weight: "999"

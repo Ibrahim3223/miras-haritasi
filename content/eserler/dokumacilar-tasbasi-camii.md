@@ -5,10 +5,10 @@ slug: "dokumacilar-tasbasi-camii"
 description: "### Dokumacılar Taşbaşı Camii: Artvin'in Gizli Çehresine Bir Yolculuk..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3539104,40.7491207"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "palu-roma-koprusu"
 description: "## Palu Roma Köprüsü..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9604972,38.6978734"
 draft: "false"
 weight: "999"

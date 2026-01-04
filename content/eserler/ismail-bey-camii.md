@@ -5,10 +5,10 @@ slug: "ismail-bey-camii"
 description: "## İsmail Bey Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8912487,39.068325"
 draft: "false"
 weight: "999"

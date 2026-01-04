@@ -5,10 +5,10 @@ slug: "yavuzkemal-kilisesi"
 description: "## Yavuzkemal Kilisesi: Dereli, Giresun'da Bir Tarihi Çanakkale Kahramanının İşareti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.299931,40.670376"
 draft: "false"
 weight: "999"

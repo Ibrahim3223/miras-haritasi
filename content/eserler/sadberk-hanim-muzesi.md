@@ -5,10 +5,10 @@ slug: "sadberk-hanim-muzesi"
 description: "## Sadberk Hanım Müzesi: İstanbulluların En Büyük Değerleri Arasındaki Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Sadberkhanımmüzesi1.jpg/1200px-Sadberkhanımmüzesi1.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.04777,41.16308"
 draft: "false"
 weight: "10"

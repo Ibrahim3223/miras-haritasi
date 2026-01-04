@@ -5,10 +5,10 @@ slug: "korteke-kalesi"
 description: "## Körteke Kalesi: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.5491753,37.4938622"
 draft: "false"
 weight: "999"

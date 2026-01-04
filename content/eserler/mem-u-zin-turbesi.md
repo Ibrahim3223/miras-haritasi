@@ -5,10 +5,10 @@ slug: "mem-u-zin-turbesi"
 description: "**Mem-u Zin Türbesi**..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.186498,37.3219253"
 draft: "false"
 weight: "999"

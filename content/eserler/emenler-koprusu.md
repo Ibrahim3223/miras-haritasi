@@ -5,10 +5,10 @@ slug: "emenler-koprusu"
 description: "## Emenler Köprüsü: Ödemiş'in Tarihi Bir Çaprazı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9288006,38.293499"
 draft: "false"
 weight: "999"

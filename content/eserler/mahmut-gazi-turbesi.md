@@ -5,10 +5,10 @@ slug: "mahmut-gazi-turbesi"
 description: "# Mahmut Gazi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4263668,38.0261002"
 draft: "false"
 weight: "999"

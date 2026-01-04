@@ -5,10 +5,10 @@ slug: "tumulus-esenler"
 description: "### Tümülüs, Esenler: Ergene, Tekirdağ'daki Gizemli Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Ergene"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6511459,41.2102356"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yildirim-bayezid-hamami"
 description: "## Yıldırım Bayezid Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0814209,40.1869202"
 draft: "false"
 weight: "999"

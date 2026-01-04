@@ -5,10 +5,10 @@ slug: "esendal-koyu-yeni-camii"
 description: "## Esendal Köyü Yeni Camii: Artvin'in Tarihi Çağıntılarından Birini Tanıyalım..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5750644,40.9320851"
 draft: "false"
 weight: "999"

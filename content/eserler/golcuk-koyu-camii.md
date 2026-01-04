@@ -5,10 +5,10 @@ slug: "golcuk-koyu-camii"
 description: "## Gölcük Köyü Camii: Balıkesir'in Tarihî Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9833565,39.3142738"
 draft: "false"
 weight: "999"

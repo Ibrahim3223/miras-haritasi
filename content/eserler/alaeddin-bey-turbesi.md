@@ -5,10 +5,10 @@ slug: "alaeddin-bey-turbesi"
 description: "## Alaeddin Bey Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Karaman_4849.jpg/1200px-Karaman_4849.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.208138888,37.181"
 draft: "false"
 weight: "10"

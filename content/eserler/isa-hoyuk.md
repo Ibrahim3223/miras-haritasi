@@ -5,10 +5,10 @@ slug: "isa-hoyuk"
 description: "## İsa Höyük: Tarihî bir Kaya Mezarı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3232727,38.724575"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tokat-kultur-evi"
 description: "## Tokat Kültür Evi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.548617,40.315532"
 draft: "false"
 weight: "999"

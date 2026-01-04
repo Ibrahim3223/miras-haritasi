@@ -5,10 +5,10 @@ slug: "kandil-kalesi-kozluk"
 description: "### Kandil Kalesi: Batman'ın Efsanevi Kaleleri Arasındaki Bir Örnek..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.4194221,38.2189445"
 draft: "false"
 weight: "999"

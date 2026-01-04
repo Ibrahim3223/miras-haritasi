@@ -5,10 +5,10 @@ slug: "karagoz-muzesi"
 description: "## Karagöz Müzesi: Bursa'nın Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Karagöz_Müzesi.jpg/1200px-Karagöz_Müzesi.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.02714,40.202029"
 draft: "false"
 weight: "10"

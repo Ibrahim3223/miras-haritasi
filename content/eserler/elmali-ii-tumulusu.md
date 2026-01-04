@@ -5,10 +5,10 @@ slug: "elmali-ii-tumulusu"
 description: "## Elmalı II Tümülüsü: Uzunköprü'nün Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.899415208,41.187836895"
 draft: "false"
 weight: "999"

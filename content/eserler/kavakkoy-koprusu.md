@@ -5,10 +5,10 @@ slug: "kavakkoy-koprusu"
 description: "## Kavakköy Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.8857861,40.6232796"
 draft: "false"
 weight: "999"

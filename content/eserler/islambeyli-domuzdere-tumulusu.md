@@ -5,10 +5,10 @@ slug: "islambeyli-domuzdere-tumulusu"
 description: "## İslambeyli Domuzdere Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6141052,41.6826706"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yeni-cami-darulkurra-ve-darulhadisi"
 description: "## Yeni Cami Darülkurra ve Darülhadisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9717579,41.0160866"
 draft: "false"
 weight: "999"

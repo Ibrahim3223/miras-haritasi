@@ -5,10 +5,10 @@ slug: "haseki-hurrem-sultan-hamami-eminonu"
 description: "### Haseki Hürrem Sultan Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.972032,41.015651"
 draft: "false"
 weight: "999"

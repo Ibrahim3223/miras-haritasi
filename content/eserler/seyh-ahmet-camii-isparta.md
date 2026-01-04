@@ -5,10 +5,10 @@ slug: "seyh-ahmet-camii-isparta"
 description: "## Şeyh Ahmet Camii: Isparta'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Senirkent"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5464764,38.1053314"
 draft: "false"
 weight: "999"

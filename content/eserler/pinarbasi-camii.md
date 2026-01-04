@@ -5,10 +5,10 @@ slug: "pinarbasi-camii"
 description: "## Pınarbaşı Camii: Mardin'in Tarihi Bir Güzelliği..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.745921,37.315009"
 draft: "false"
 weight: "999"

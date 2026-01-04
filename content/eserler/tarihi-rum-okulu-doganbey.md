@@ -5,10 +5,10 @@ slug: "tarihi-rum-okulu-doganbey"
 description: "### Tarihi Rum Okulu, Doğanbey..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.1781158,37.6319313"
 draft: "false"
 weight: "999"

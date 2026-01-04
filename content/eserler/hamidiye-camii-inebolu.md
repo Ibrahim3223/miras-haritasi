@@ -5,10 +5,10 @@ slug: "hamidiye-camii-inebolu"
 description: "## Hamidiye Camii, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7610779,41.9786949"
 draft: "false"
 weight: "999"

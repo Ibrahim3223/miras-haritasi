@@ -5,10 +5,10 @@ slug: "alisar-hoyugu"
 description: "### Alişar Höyüğü: Yozgat'ın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Alişar_Höyük_02.jpg/1200px-Alişar_Höyük_02.jpg"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.26138889,39.60611111"
 draft: "false"
 weight: "10"

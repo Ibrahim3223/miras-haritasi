@@ -5,10 +5,10 @@ slug: "fatih-camii-canakkale"
 description: "### Fatih Camii, Çanakkale: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.4012203,40.146553"
 draft: "false"
 weight: "999"

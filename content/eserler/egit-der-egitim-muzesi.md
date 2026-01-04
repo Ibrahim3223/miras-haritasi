@@ -5,10 +5,10 @@ slug: "egit-der-egitim-muzesi"
 description: "## Eğit-Der Eğitim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.837082,39.885212"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hanefi-sultan-turbesi"
 description: "## Hanefi Sultan Türbesi: Gölmarmara'da Bir Önemli Anıt..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.918169,38.703967"
 draft: "false"
 weight: "999"

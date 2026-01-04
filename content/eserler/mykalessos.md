@@ -5,10 +5,10 @@ slug: "mykalessos"
 description: "### Mykalessos: Aydın'ın Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3284,37.7015"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-dede-kabri-eyup"
 description: "## Ahmet Dede Kabri, Eyüp..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.923821,41.046608"
 draft: "false"
 weight: "999"

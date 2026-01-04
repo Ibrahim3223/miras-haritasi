@@ -5,10 +5,10 @@ slug: "cevizli-mahallesi-kaya-mezari-salipazari"
 description: "### Cevizli Mahallesi Kaya Mezarı Salıpazarı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Salıpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.915446,41.042502"
 draft: "false"
 weight: "999"

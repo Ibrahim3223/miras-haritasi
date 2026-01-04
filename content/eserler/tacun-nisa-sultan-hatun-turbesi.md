@@ -5,10 +5,10 @@ slug: "tacun-nisa-sultan-hatun-turbesi"
 description: "## Tacü'n-Nisa Sultan Hatun Türbesi: Bursa'nın Gizli Çehresini Yeniden Keşfeden Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.5119114,40.0783081"
 draft: "false"
 weight: "999"

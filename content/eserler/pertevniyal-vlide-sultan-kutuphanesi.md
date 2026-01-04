@@ -5,10 +5,10 @@ slug: "pertevniyal-vlide-sultan-kutuphanesi"
 description: "### Pertevniyal Vâlide Sultan Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.953090113,41.010155885"
 draft: "false"
 weight: "999"

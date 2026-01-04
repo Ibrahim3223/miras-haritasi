@@ -5,10 +5,10 @@ slug: "balkan-harbi-sehitligi"
 description: "## Balkan Harbi Şehitliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4551678,41.4894791"
 draft: "false"
 weight: "999"

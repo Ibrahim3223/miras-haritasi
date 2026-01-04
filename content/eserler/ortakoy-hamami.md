@@ -5,10 +5,10 @@ slug: "ortakoy-hamami"
 description: "## Ortaköy Hamamı: Beşiktaş'taki Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ortakoy_husrev_kethuda_hamamı.jpg/1200px-Ortakoy_husrev_kethuda_hamamı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.026885,41.04878"
 draft: "false"
 weight: "10"

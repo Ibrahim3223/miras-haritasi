@@ -5,10 +5,10 @@ slug: "egil-kalesi"
 description: "## Eğil Kalesi: Tarihçesi ve Ziyaret Bilgileri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Eğil_Asur_Kalesi.jpg/1200px-Eğil_Asur_Kalesi.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.0929298,38.2553101"
 draft: "false"
 weight: "10"

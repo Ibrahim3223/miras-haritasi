@@ -5,10 +5,10 @@ slug: "tuvagin-tomegi-hoyuk-2"
 description: "### Tuvağın Tömeği Höyük 2: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9099321,38.3946475"
 draft: "false"
 weight: "999"

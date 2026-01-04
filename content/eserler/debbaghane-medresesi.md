@@ -5,10 +5,10 @@ slug: "debbaghane-medresesi"
 description: "**Debbağhane Medresesi: Ankara'nın Tarihi Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.8601723,39.9423828"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kuplu-hamam"
 description: "## Küplü Hamam: Bergama'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Küplü_Hamam_Wiki.jpg/1200px-Küplü_Hamam_Wiki.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1783943,39.1201477"
 draft: "false"
 weight: "10"

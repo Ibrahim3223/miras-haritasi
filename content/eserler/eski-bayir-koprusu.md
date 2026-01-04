@@ -5,10 +5,10 @@ slug: "eski-bayir-koprusu"
 description: "## Eski Bayır Köprüsü: Muğla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2631874,37.2695732"
 draft: "false"
 weight: "999"

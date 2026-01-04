@@ -5,10 +5,10 @@ slug: "celal-karakas-camii"
 description: "## Celal Karakaş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/20250819_Celal_Karakaş_Camii_03.jpg/1200px-20250819_Celal_Karakaş_Camii_03.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.98484011,40.257206299"
 draft: "false"
 weight: "10"

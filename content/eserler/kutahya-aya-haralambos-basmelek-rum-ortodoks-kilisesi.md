@@ -5,10 +5,10 @@ slug: "kutahya-aya-haralambos-basmelek-rum-ortodoks-kilisesi"
 description: "## Kütahya Aya Haralambos Başmelek Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.969555555,39.42275"
 draft: "false"
 weight: "999"

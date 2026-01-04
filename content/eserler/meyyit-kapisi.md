@@ -5,10 +5,10 @@ slug: "meyyit-kapisi"
 description: "### Meyyit Kapısı: Fatih'ten Bir Örnek Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.982369137,41.011642889"
 draft: "false"
 weight: "999"

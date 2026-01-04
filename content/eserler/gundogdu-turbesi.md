@@ -5,10 +5,10 @@ slug: "gundogdu-turbesi"
 description: "## Gündoğdu Türbesi: Niğde'nin Gizli Şehri..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6757431,37.9720459"
 draft: "false"
 weight: "999"

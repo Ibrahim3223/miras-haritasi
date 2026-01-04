@@ -5,10 +5,10 @@ slug: "sevdigin-hoyugu"
 description: "## Sevdiğin Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0361061,39.1173019"
 draft: "false"
 weight: "999"

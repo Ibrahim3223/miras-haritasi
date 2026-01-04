@@ -5,10 +5,10 @@ slug: "ploketta"
 description: "### Ploketta Tarihi Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.77988,40.422294"
 draft: "false"
 weight: "999"

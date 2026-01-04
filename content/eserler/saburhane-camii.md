@@ -5,10 +5,10 @@ slug: "saburhane-camii"
 description: "## Saburhane Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.370916666,37.219666666"
 draft: "false"
 weight: "999"

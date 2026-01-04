@@ -5,10 +5,10 @@ slug: "evliya-tepesi-hoyuk"
 description: "### Evliya Tepesi Höyük..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0894199,39.5739414"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ataturk-annesi-ve-kadin-haklari-aniti"
 description: "## Atatürk, Annesi ve Kadın Hakları Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TR_Izmir_asv2020-02_img37_Karşıyaka_monument_(cropped).jpg/1200px-TR_Izmir_asv2020-02_img37_Karşıyaka_monument_(cropped).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.124166666,38.455555555"
 draft: "false"
 weight: "10"

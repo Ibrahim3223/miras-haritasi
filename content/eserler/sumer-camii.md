@@ -5,10 +5,10 @@ slug: "sumer-camii"
 description: "## Sümer Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6156044,40.7836952"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hizmali-kopru"
 description: "# Hızmalı Köprü: Şanlıurfa'nın Klasik Bir Köprüsü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.7840538,37.1576576"
 draft: "false"
 weight: "999"

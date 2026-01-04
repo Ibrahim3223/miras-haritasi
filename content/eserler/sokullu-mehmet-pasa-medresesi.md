@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-medresesi"
 description: "## Sokullu Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9343987,41.0471191"
 draft: "false"
 weight: "999"

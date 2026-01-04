@@ -5,10 +5,10 @@ slug: "gorgec-kalesi"
 description: "## Görgeç Kalesi: Bingöl'un Gizemli Kaleleri Arasındaki Birincisi..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Kiğı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.3755302,39.3261604"
 draft: "false"
 weight: "999"

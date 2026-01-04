@@ -5,10 +5,10 @@ slug: "muhurlu-sultan-turbesi"
 description: "## Mühürlü Sultan Türbesi: Menemen, İzmir'de Eine Geçmişin Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.066637,38.6094666"
 draft: "false"
 weight: "999"

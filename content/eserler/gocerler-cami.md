@@ -5,10 +5,10 @@ slug: "gocerler-cami"
 description: "## Göçerler Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7365894,41.3365402"
 draft: "false"
 weight: "999"

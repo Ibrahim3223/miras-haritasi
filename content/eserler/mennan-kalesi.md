@@ -5,10 +5,10 @@ slug: "mennan-kalesi"
 description: "## Mennan Kalesi: Ermenek'in Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.0457458,36.5493393"
 draft: "false"
 weight: "999"

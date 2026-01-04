@@ -5,10 +5,10 @@ slug: "antik-mezar-kalintisi-akcakecili"
 description: "## Antik Mezar Kalıntısı, Akçakeçili..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.165434435,39.697977727"
 draft: "false"
 weight: "999"

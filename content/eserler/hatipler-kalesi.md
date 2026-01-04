@@ -5,10 +5,10 @@ slug: "hatipler-kalesi"
 description: "## Hatipler Kalesi: Dikili'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.895052777,39.014263888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "candir-buyuk-hoyuk"
 description: "**Çandır Büyük Höyük: Denizli'nin Gizli Öreni**..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.985067,38.182967"
 draft: "false"
 weight: "999"

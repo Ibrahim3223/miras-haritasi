@@ -5,10 +5,10 @@ slug: "laodikeia-dogu-hamami"
 description: "### Laodikeia Doğu Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1133842,37.8345642"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gevher-nesibe-sifaiyesi"
 description: "## Gevher Nesibe Şifaiyesi: Kayseri'nin Gizli Çandırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gevher_Nesibe_Medrese_(Cifte_Medrese)_DSCF0761.jpg/1200px-Gevher_Nesibe_Medrese_(Cifte_Medrese)_DSCF0761.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.4839935,38.7240829"
 draft: "false"
 weight: "10"

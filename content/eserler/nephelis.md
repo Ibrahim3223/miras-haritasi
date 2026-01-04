@@ -5,10 +5,10 @@ slug: "nephelis"
 description: "## Nephelis Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.382744,36.175454"
 draft: "false"
 weight: "999"

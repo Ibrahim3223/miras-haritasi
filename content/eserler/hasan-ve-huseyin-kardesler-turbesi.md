@@ -5,10 +5,10 @@ slug: "hasan-ve-huseyin-kardesler-turbesi"
 description: "## Hasan ve Hüseyin Kardeşler Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941733,41.032023"
 draft: "false"
 weight: "999"

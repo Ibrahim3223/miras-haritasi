@@ -5,10 +5,10 @@ slug: "krom-vadisi-sarioglu-kilisesi"
 description: "## Krom Vadisi Sarıoğlu Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.585606,40.550073"
 draft: "false"
 weight: "999"

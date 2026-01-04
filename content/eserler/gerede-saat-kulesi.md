@@ -5,10 +5,10 @@ slug: "gerede-saat-kulesi"
 description: "# Gerede Saat Kulesi: Bolu'nun Yüzyıllık Mirası..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Gerede"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "32.196694444,40.801583333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hersekzade-ahmet-pasa-camii-hamami"
 description: "## Hersekzade Ahmet Paşa Hamamı: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.628027,40.8545036"
 draft: "false"
 weight: "999"

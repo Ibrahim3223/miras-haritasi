@@ -5,10 +5,10 @@ slug: "besparmak-turbesi"
 description: "## Beşparmak Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.47437141,38.745639592"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "semerkandi-baba-turbesi"
 description: "## Semerkandi Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4326496,37.5706978"
 draft: "false"
 weight: "999"

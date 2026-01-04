@@ -5,10 +5,10 @@ slug: "mayor-sinagogu-bursa"
 description: "### Mayor Sinagogu: Bursa'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Synagogue_Mejor,_late_16th_Century,_Bursa_(3439235826).jpg/1200px-Synagogue_Mejor,_late_16th_Century,_Bursa_(3439235826).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.091796,40.229218"
 draft: "false"
 weight: "10"

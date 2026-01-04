@@ -5,10 +5,10 @@ slug: "andil-kalesi"
 description: "### Andıl Kalesi: Kozan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.7999992,37.5841827"
 draft: "false"
 weight: "999"

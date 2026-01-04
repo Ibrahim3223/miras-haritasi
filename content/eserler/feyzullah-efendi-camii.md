@@ -5,10 +5,10 @@ slug: "feyzullah-efendi-camii"
 description: "## Feyzullah Efendi Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1298228,40.9201704"
 draft: "false"
 weight: "999"

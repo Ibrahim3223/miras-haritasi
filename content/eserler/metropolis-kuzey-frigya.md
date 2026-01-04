@@ -5,10 +5,10 @@ slug: "metropolis-kuzey-frigya"
 description: "# Metropolis (Kuzey Frigya)..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.628155,39.171334"
 draft: "false"
 weight: "999"

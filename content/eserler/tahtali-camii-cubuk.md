@@ -5,10 +5,10 @@ slug: "tahtali-camii-cubuk"
 description: "## Tahtalı Camii, Çubuk: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.0253245,40.2387637"
 draft: "false"
 weight: "999"

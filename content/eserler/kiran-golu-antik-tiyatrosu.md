@@ -5,10 +5,10 @@ slug: "kiran-golu-antik-tiyatrosu"
 description: "# Kıran Gölü Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0032158,36.5922585"
 draft: "false"
 weight: "999"

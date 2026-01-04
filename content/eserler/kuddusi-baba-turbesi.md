@@ -5,10 +5,10 @@ slug: "kuddusi-baba-turbesi"
 description: "**Kuddusi Baba Türbesi: Bor'un Gizli Çehresini Açan Anıt**..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.5627,37.8965"
 draft: "false"
 weight: "999"

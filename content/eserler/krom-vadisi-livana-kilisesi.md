@@ -5,10 +5,10 @@ slug: "krom-vadisi-livana-kilisesi"
 description: "### Krom Vadisi Livana Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.58272,40.561553"
 draft: "false"
 weight: "999"

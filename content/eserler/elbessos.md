@@ -5,10 +5,10 @@ slug: "elbessos"
 description: "### Elbessos: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.641536,36.689489"
 draft: "false"
 weight: "999"

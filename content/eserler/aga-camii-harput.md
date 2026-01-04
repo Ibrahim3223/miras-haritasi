@@ -5,10 +5,10 @@ slug: "aga-camii-harput"
 description: "## Ağa Camii, Harput..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.2498474,38.7036095"
 draft: "false"
 weight: "999"

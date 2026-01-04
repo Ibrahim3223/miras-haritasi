@@ -5,10 +5,10 @@ slug: "gaziantep-kultur-tarihi-muzesi"
 description: "**Gaziantep Kültür Tarihi Müzesi**..."
 featured_image: ""
 province: "Gaziantep alt bölgesi"
-iller: '["Gaziantep alt bölgesi"]'
+iller: ["Gaziantep alt bölgesi"]
 district: "Şehitkâmil"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.313586,37.038202"
 draft: "false"
 weight: "999"

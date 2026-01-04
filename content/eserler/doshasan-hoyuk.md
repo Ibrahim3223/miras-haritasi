@@ -5,10 +5,10 @@ slug: "doshasan-hoyuk"
 description: "## Döşhasan Höyük: Hatay'ın Gizli Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.479004,36.468971"
 draft: "false"
 weight: "999"

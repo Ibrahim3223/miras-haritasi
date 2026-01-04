@@ -5,10 +5,10 @@ slug: "st-paul-kuyusu"
 description: "# St. Paul Kuyusu: Tarsus'un Gizli Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

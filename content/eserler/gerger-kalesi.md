@@ -5,10 +5,10 @@ slug: "gerger-kalesi"
 description: "## Gerger Kalesi: Güneydoğu Anadolu Bölgesi'nin Gizli Çehresi..."
 featured_image: ""
 province: "Güneydoğu Anadolu Bölgesi"
-iller: '["Güneydoğu Anadolu Bölgesi"]'
+iller: ["Güneydoğu Anadolu Bölgesi"]
 district: "Gerger"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.016335,37.957209"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "huseyin-pasa-camii"
 description: "### Hüseyin Paşa Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9309578,40.7666969"
 draft: "false"
 weight: "999"

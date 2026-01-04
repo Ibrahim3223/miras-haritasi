@@ -5,10 +5,10 @@ slug: "iznik-cini-muzesi"
 description: "## İznik Çini Müzesi: İznik'in Yüzyıllarca Devam Eden Çini Geleneğinin Merkezi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.7204247,40.4317207"
 draft: "false"
 weight: "999"

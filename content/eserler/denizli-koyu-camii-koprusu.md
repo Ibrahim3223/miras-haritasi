@@ -5,10 +5,10 @@ slug: "denizli-koyu-camii-koprusu"
 description: "# Denizli Köyü Camii Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.7396545,38.3793983"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocagentepe-hoyuk"
 description: "### Kocagentepe Höyük: Manisa'nın Gizli Kıvılcımlarını Açığa Çıkaran Tarihi Bir Miras..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.839689,39.108146"
 draft: "false"
 weight: "999"

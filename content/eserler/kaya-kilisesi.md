@@ -5,10 +5,10 @@ slug: "kaya-kilisesi"
 description: "## Kaya Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Vakfıkebir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.248228,41.03255"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balci-baba-turbesi"
 description: "## Balcı Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0210724,41.0170746"
 draft: "false"
 weight: "999"

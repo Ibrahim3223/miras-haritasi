@@ -5,10 +5,10 @@ slug: "kiziltas-koyu-koprusu"
 description: "### Kızıltaş Köyü Köprüsü ..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.30166,40.567841"
 draft: "false"
 weight: "999"

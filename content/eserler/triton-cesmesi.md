@@ -5,10 +5,10 @@ slug: "triton-cesmesi"
 description: "**Triton Çeşmesi: Denizli'nin Gizli Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/The_Nymphaeum_of_the_Tritons,_a_monumental_fountain_built_during_the_reign_of_Alexander_Severus_(222-235_AD)_as_the_inscription_on_the_architrave_block_attests,_Hierapolis,_Phrygia,_Turkey_(31528743704).jpg/1200px-The_Nymphaeum_of_the_Tritons,_a_monumental_fountain_built_during_the_reign_of_Alexander_Severus_(222-235_AD)_as_the_inscription_on_the_architrave_block_attests,_Hierapolis,_Phrygia,_Turkey_(31528743704).jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "10"

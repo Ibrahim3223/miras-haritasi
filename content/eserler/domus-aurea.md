@@ -5,10 +5,10 @@ slug: "domus-aurea"
 description: "## Domus Aurea: Antakya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

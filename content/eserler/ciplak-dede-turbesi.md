@@ -5,10 +5,10 @@ slug: "ciplak-dede-turbesi"
 description: "## Çıplak Dede Türbesi: Çanakkale'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.261765515,39.951249701"
 draft: "false"
 weight: "999"

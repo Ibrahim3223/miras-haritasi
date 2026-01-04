@@ -5,10 +5,10 @@ slug: "kelami-tekkesi-mezari"
 description: "**Kelami Tekkesi Mezarı: İstanbul'un Gizli Tarihi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.930048,41.0115547"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kadi-sadi-mescidi"
 description: "## Kadı Sadi Mescidi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9441795,41.031044"
 draft: "false"
 weight: "999"

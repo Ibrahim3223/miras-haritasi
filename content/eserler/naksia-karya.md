@@ -5,10 +5,10 @@ slug: "naksia-karya"
 description: "## Naksia (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.659145,37.552756"
 draft: "false"
 weight: "999"

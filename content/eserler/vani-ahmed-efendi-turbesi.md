@@ -5,10 +5,10 @@ slug: "vani-ahmed-efendi-turbesi"
 description: "## Vani Ahmed Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.928706,41.00825"
 draft: "false"
 weight: "999"

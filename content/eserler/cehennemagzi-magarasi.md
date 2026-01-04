@@ -5,10 +5,10 @@ slug: "cehennemagzi-magarasi"
 description: "### Cehennemağzı Mağarası: Tarihî ve Kültürel Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Zonguldak_Cehennem_Ağzı_Mağaraları.jpg/1200px-Zonguldak_Cehennem_Ağzı_Mağaraları.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.41024,41.29131"
 draft: "false"
 weight: "10"

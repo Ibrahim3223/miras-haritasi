@@ -5,10 +5,10 @@ slug: "dede-korkut-turbesi"
 description: "### Dede Korkut Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.569767,40.1974716"
 draft: "false"
 weight: "999"

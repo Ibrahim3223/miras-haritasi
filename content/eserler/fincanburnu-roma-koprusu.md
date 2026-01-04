@@ -5,10 +5,10 @@ slug: "fincanburnu-roma-koprusu"
 description: "## Fincanburnu Roma Köprüsü: Tarih ve Güzellik..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.3605042,39.1615257"
 draft: "false"
 weight: "999"

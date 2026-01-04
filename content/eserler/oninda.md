@@ -5,10 +5,10 @@ slug: "oninda"
 description: "## Kaş'ın Oninda Arkeolojik Sit'i: Geçmişteki Gizemini Keşfedin..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.795866,36.216995"
 draft: "false"
 weight: "999"

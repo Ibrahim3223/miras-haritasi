@@ -5,10 +5,10 @@ slug: "ugurlu-hoyuk"
 description: "## Uğurlu Höyük: Gökçeada'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.480205596,37.306359503"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "albayrak-sehitligi"
 description: "## Albayrak Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2855854,40.2173767"
 draft: "false"
 weight: "999"

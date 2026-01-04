@@ -5,10 +5,10 @@ slug: "dengere-camii"
 description: "### Dengere Camii: Burdur'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Çavdır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.776474,37.1102829"
 draft: "false"
 weight: "999"

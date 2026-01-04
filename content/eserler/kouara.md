@@ -5,10 +5,10 @@ slug: "kouara"
 description: "### Kouara Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.693248,38.581202"
 draft: "false"
 weight: "999"

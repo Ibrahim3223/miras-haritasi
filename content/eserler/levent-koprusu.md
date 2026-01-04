@@ -5,10 +5,10 @@ slug: "levent-koprusu"
 description: "### Levent Köprüsü: Hemşin'in Gizli Mimari Çeşidi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.8868834,41.0716535"
 draft: "false"
 weight: "999"

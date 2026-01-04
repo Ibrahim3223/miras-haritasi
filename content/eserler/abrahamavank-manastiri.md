@@ -5,10 +5,10 @@ slug: "abrahamavank-manastiri"
 description: "## Abrahamavank Manastırı: Van'ın Gizemli Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.488841666,38.34612"
 draft: "false"
 weight: "999"

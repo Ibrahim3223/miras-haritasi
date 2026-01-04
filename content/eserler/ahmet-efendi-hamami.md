@@ -5,10 +5,10 @@ slug: "ahmet-efendi-hamami"
 description: "## Ahmet Efendi Hamamı: Konya'nın Tarihi Bir Güzelliği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.501255,37.8694725"
 draft: "false"
 weight: "999"

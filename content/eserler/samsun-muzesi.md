@@ -5,10 +5,10 @@ slug: "samsun-muzesi"
 description: "# Samsun Müzesi: Tarihin ve Kültür Mirasının Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Samsun_Müzesi.jpg/1200px-Samsun_Müzesi.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.333823,41.289739"
 draft: "false"
 weight: "10"

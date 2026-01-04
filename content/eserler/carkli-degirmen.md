@@ -5,10 +5,10 @@ slug: "carkli-degirmen"
 description: "### Çarklı Değirmen: Bursa'nın Gizli Kilise Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.050024,40.1898079"
 draft: "false"
 weight: "999"

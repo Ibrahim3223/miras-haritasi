@@ -5,10 +5,10 @@ slug: "hayaz-hoyuk"
 description: "## Hayaz Höyük: Adıyaman'ın Gizli Öztürkleri..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Samsat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.494377136,37.519529466"
 draft: "false"
 weight: "999"

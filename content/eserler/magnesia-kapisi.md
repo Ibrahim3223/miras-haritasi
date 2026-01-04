@@ -5,10 +5,10 @@ slug: "magnesia-kapisi"
 description: "## Magnesia Kapısı: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.350560002,37.934548246"
 draft: "false"
 weight: "999"

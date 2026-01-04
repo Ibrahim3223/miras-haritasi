@@ -5,10 +5,10 @@ slug: "arakiyeci-ahmet-celebi-camii"
 description: "## Arakiyeci Ahmet Çelebi Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.925191,41.005938"
 draft: "false"
 weight: "999"

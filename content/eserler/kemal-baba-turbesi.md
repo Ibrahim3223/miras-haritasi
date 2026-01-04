@@ -5,10 +5,10 @@ slug: "kemal-baba-turbesi"
 description: "## Kemal Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.030863,38.372437"
 draft: "false"
 weight: "999"

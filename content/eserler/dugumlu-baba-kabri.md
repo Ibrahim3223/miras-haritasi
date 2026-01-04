@@ -5,10 +5,10 @@ slug: "dugumlu-baba-kabri"
 description: "## Düğümlü Baba Kabri: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.976955261,41.006928164"
 draft: "false"
 weight: "999"

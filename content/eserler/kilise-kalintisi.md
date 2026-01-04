@@ -5,10 +5,10 @@ slug: "kilise-kalintisi"
 description: "### Kilise Kalıntısı: Ayvalık'taki Bir Tarihi Eser..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.658744,39.380132"
 draft: "false"
 weight: "999"

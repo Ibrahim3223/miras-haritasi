@@ -5,10 +5,10 @@ slug: "sehit-ali-pasa-kutuphanesi"
 description: "## Şehit Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.958258,41.014441"
 draft: "false"
 weight: "999"

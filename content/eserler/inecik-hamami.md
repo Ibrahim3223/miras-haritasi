@@ -5,10 +5,10 @@ slug: "inecik-hamami"
 description: "## İnecik Hamamı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.280538,40.9370387"
 draft: "false"
 weight: "999"

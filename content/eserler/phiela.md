@@ -5,10 +5,10 @@ slug: "phiela"
 description: "## Phiela: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.067372,41.091332"
 draft: "false"
 weight: "999"

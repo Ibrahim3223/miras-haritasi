@@ -5,10 +5,10 @@ slug: "arap-baba-mescidi-ve-turbesi"
 description: "## Arap Baba Mescidi ve Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Harput_88.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.252334,38.703781"
 draft: "false"
 weight: "999"

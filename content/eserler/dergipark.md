@@ -5,10 +5,10 @@ slug: "dergipark"
 description: "## DergiPark Kütüphanesi: Türkiye'nin Kaynaşan Bilgi Merkezleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

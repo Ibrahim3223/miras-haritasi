@@ -5,10 +5,10 @@ slug: "ahi-tura-camii"
 description: "## Ahi Evran Camii (Ahi Tura Camii)..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8581886,39.9431"
 draft: "false"
 weight: "999"

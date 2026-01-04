@@ -5,10 +5,10 @@ slug: "seloz-koyu-hamami"
 description: "### Selöz Köyü Hamamı: Bilecik'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9248466,40.1319313"
 draft: "false"
 weight: "999"

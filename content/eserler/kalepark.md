@@ -5,10 +5,10 @@ slug: "kalepark"
 description: "### Kalepark: Ortahisar, Trabzon'un Tarihî Zirvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Leonkastron_fortress.jpg/1200px-Leonkastron_fortress.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.7344513,41.0075989"
 draft: "false"
 weight: "10"

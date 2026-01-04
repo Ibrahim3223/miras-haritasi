@@ -5,10 +5,10 @@ slug: "ahmetli-koprusu"
 description: "## Ahmetli Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Sarayköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9745636,37.9858742"
 draft: "false"
 weight: "999"

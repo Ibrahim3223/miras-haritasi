@@ -5,10 +5,10 @@ slug: "asagidemirci-koyu-camii"
 description: "## Aşağıdemirci Köyü Camii: Biga'nın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3718719,40.2446327"
 draft: "false"
 weight: "999"

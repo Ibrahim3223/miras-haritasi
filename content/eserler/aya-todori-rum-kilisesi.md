@@ -5,10 +5,10 @@ slug: "aya-todori-rum-kilisesi"
 description: "## Aya Todori Rum Kilisesi: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.564177,38.738516"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ferhatlar-camii"
 description: "## Ferhatlar Camii: Safranbolu'nun Tarihi bir Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.779534118,41.230993776"
 draft: "false"
 weight: "999"

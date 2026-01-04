@@ -5,10 +5,10 @@ slug: "kerebi-gazi-turbesi"
 description: "## Kerebi Gazi Türbesi: Çorum'un Tarihî Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9418259,40.5475629"
 draft: "false"
 weight: "999"

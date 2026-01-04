@@ -5,10 +5,10 @@ slug: "guroluk-koprusu-2"
 description: "# Güroluk Köprüsü 2..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.050221,41.022416"
 draft: "false"
 weight: "999"

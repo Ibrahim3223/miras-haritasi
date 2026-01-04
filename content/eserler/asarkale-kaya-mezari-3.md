@@ -5,10 +5,10 @@ slug: "asarkale-kaya-mezari-3"
 description: "## Asarkale Kaya Mezarı -3: Trabzon'un Gizli Anıtı..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.7651863,41.3733978"
 draft: "false"
 weight: "999"

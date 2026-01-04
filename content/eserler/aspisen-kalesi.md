@@ -5,10 +5,10 @@ slug: "aspisen-kalesi"
 description: "## Aşpişen Kalesi: Artvin'in Tarihi Bir Güzeli..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.681477777,40.763594444"
 draft: "false"
 weight: "999"

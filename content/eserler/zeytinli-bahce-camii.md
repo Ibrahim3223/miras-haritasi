@@ -5,10 +5,10 @@ slug: "zeytinli-bahce-camii"
 description: "## Zeytinli Bahçe Camii: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9240856,40.7691727"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gunebakan-camii"
 description: "### Günebakan Camii: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.198005,40.783486"
 draft: "false"
 weight: "999"

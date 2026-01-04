@@ -5,10 +5,10 @@ slug: "bali-baba-turbesi"
 description: "### Bali Baba Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.976963472,37.026722702"
 draft: "false"
 weight: "999"

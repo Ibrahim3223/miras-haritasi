@@ -5,10 +5,10 @@ slug: "takmak-sehitligi"
 description: "## Takmak Şehitliği..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Eşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9730339,38.4489822"
 draft: "false"
 weight: "999"

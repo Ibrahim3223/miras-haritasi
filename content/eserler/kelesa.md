@@ -5,10 +5,10 @@ slug: "kelesa"
 description: "# Kelesa: Eski Çağ'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.215037,41.099999"
 draft: "false"
 weight: "999"

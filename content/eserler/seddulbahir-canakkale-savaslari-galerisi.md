@@ -5,10 +5,10 @@ slug: "seddulbahir-canakkale-savaslari-galerisi"
 description: "## Seddülbahir Çanakkale Savaşları Galerisi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.407421,40.146442"
 draft: "false"
 weight: "999"

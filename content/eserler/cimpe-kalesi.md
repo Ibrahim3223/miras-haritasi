@@ -5,10 +5,10 @@ slug: "cimpe-kalesi"
 description: "## Çimpe Kalesi: Çanakkale'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.0113297,40.6444473"
 draft: "false"
 weight: "999"

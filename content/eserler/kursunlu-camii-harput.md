@@ -5,10 +5,10 @@ slug: "kursunlu-camii-harput"
 description: "### Kurşunlu Camii: Elazığ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.2514381,38.7040367"
 draft: "false"
 weight: "999"

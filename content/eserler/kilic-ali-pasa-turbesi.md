@@ -5,10 +5,10 @@ slug: "kilic-ali-pasa-turbesi"
 description: "### Kılıç Ali Paşa Türbesi: İstanbul'un Güzellerinden..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9812845,41.0262683"
 draft: "false"
 weight: "999"

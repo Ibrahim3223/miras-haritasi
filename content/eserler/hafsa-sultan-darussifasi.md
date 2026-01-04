@@ -5,10 +5,10 @@ slug: "hafsa-sultan-darussifasi"
 description: "## Hafsa Sultan Darüşşifası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.4262886,38.6111259"
 draft: "false"
 weight: "999"

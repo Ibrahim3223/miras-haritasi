@@ -5,10 +5,10 @@ slug: "cengilli-kilisesi"
 description: "### Çengilli Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eghegnamor_vank1.jpg/1200px-Eghegnamor_vank1.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kağızman"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.913334,40.1234826"
 draft: "false"
 weight: "10"

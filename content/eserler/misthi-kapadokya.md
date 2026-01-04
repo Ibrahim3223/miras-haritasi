@@ -5,10 +5,10 @@ slug: "misthi-kapadokya"
 description: "## Misthi, Kapadokya..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.848959,38.171594"
 draft: "false"
 weight: "1"

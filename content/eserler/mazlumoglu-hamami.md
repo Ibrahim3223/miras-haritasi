@@ -5,10 +5,10 @@ slug: "mazlumoglu-hamami"
 description: "**Mazlumoğlu Hamamı**..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "43.0879197,40.6114798"
 draft: "false"
 weight: "999"

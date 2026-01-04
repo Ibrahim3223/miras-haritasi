@@ -5,10 +5,10 @@ slug: "pontanena"
 description: "## Pontanena: Antik Çağın Gizemli Kalesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.526799,39.352264"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "autokane"
 description: "## Balıkesir'in Gizli Cenneti: Autokane Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.75,39.25"
 draft: "false"
 weight: "999"

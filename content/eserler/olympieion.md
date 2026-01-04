@@ -5,10 +5,10 @@ slug: "olympieion"
 description: "## Olympieion: İzmir'in Antik Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.340393002,37.946618835"
 draft: "false"
 weight: "999"

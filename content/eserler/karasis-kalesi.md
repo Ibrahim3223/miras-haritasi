@@ -5,10 +5,10 @@ slug: "karasis-kalesi"
 description: "## Karasis Kalesi: Adana'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.8655128,37.5532303"
 draft: "false"
 weight: "999"

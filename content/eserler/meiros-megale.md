@@ -5,10 +5,10 @@ slug: "meiros-megale"
 description: "## Meiros Megale: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.309537,39.291972"
 draft: "false"
 weight: "999"

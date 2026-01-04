@@ -5,10 +5,10 @@ slug: "seyh-erzurumi-turbesi"
 description: "## Şeyh Erzurumi Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0220566,39.7351532"
 draft: "false"
 weight: "999"

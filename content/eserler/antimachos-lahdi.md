@@ -5,10 +5,10 @@ slug: "antimachos-lahdi"
 description: "### Antimachos Lahdi: Antalya'nın Gizli Zirvesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4745617,36.3972473"
 draft: "false"
 weight: "999"

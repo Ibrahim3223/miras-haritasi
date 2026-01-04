@@ -5,10 +5,10 @@ slug: "oluklu-hoyuk"
 description: "## Oluklu Höyük: Sakarya'daki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.224483,39.889917"
 draft: "false"
 weight: "999"

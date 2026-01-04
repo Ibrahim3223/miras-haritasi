@@ -5,10 +5,10 @@ slug: "ummi-kemal-turbesi"
 description: "### Ümmi Kemal Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9193,40.6745"
 draft: "false"
 weight: "999"

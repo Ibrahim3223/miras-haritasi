@@ -5,10 +5,10 @@ slug: "tashelvasi-iii-koprusu"
 description: "## Taşhelvası III Köprüsü - Diyarbakır'ın Tarihi Bir Çığır..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3060875,37.7656708"
 draft: "false"
 weight: "999"

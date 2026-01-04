@@ -5,10 +5,10 @@ slug: "kadi-bedreddin-camii"
 description: "## Kadı Bedreddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Kadı_Bedreddin_Camii_33.JPG/1200px-Kadı_Bedreddin_Camii_33.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5653381,41.6701469"
 draft: "false"
 weight: "10"

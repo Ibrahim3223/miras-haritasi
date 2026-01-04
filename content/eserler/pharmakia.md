@@ -5,10 +5,10 @@ slug: "pharmakia"
 description: "## Pharmakia: Antik İyonya'nın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.049999,41.133339"
 draft: "false"
 weight: "999"

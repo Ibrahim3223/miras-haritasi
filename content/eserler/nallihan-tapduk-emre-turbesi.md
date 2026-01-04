@@ -5,10 +5,10 @@ slug: "nallihan-tapduk-emre-turbesi"
 description: "## Nallıhan Tapduk Emre Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Nallıhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.399,40.0757"
 draft: "false"
 weight: "999"

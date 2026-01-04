@@ -5,10 +5,10 @@ slug: "brunca-bitinya"
 description: "## Brunca (Bitinya): Tarihî bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.701046,40.777757"
 draft: "false"
 weight: "999"

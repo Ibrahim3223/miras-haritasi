@@ -5,10 +5,10 @@ slug: "sebasteion-tapinagi"
 description: "## Sebasteion Tapınağı: Aydın'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Aphrodisias_-_Sebasteion.jpg/1200px-Aphrodisias_-_Sebasteion.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.72578364,37.708504692"
 draft: "false"
 weight: "10"

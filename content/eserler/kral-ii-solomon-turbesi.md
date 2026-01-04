@@ -5,10 +5,10 @@ slug: "kral-ii-solomon-turbesi"
 description: "## Kral II. Solomon Türbesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.729692,41.0079292"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arapkapisi-mescidi"
 description: "## Arapkapısı Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931146,40.997095"
 draft: "false"
 weight: "999"

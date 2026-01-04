@@ -5,10 +5,10 @@ slug: "laodikeia-efes-kapisi"
 description: "## Laodikeia Efes Kapısı: Tarih ve Mimarisi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1018276,37.8378601"
 draft: "false"
 weight: "999"

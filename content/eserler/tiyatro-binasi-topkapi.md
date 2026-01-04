@@ -5,10 +5,10 @@ slug: "tiyatro-binasi-topkapi"
 description: "## Tiyatro Binası, Topkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.9314041,41.0224838"
 draft: "false"
 weight: "1"

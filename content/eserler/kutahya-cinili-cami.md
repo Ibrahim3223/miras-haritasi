@@ -5,10 +5,10 @@ slug: "kutahya-cinili-cami"
 description: "## Kütahya Çinili Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Kütahya_çinili_cami.JPG/1200px-Kütahya_çinili_cami.JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9902973,39.4117775"
 draft: "false"
 weight: "10"

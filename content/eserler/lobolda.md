@@ -5,10 +5,10 @@ slug: "lobolda"
 description: "## Lobolda: Tarihçe ve Kültür Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.993909,37.293237"
 draft: "false"
 weight: "999"

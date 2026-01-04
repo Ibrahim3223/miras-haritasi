@@ -5,10 +5,10 @@ slug: "emlak-kredi-bankasi-binasi"
 description: "### Emlak Kredi Bankası Binası: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8545761,39.9382057"
 draft: "false"
 weight: "999"

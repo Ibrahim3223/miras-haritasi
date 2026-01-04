@@ -5,10 +5,10 @@ slug: "tatlar-mahallesi-camii"
 description: "## Tatlar Mahallesi Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.994450223,39.993746765"
 draft: "false"
 weight: "999"

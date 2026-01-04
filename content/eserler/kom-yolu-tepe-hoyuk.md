@@ -5,10 +5,10 @@ slug: "kom-yolu-tepe-hoyuk"
 description: "# Köm Yolu Tepe Höyük..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0651054,40.5331841"
 draft: "false"
 weight: "999"

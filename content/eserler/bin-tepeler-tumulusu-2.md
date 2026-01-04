@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-2"
 description: "## Bin Tepeler Tümülüsü 2: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.042919,38.566288"
 draft: "false"
 weight: "999"

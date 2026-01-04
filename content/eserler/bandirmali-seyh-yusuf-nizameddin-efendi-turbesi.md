@@ -5,10 +5,10 @@ slug: "bandirmali-seyh-yusuf-nizameddin-efendi-turbesi"
 description: "**Bandırmalı Şeyh Yusuf Nizameddin Efendi Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.017898274,41.017156566"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahruh-bey-mescidi"
 description: "## Şahruh Bey Mescidi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Çandır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5164185,39.24403"
 draft: "false"
 weight: "999"

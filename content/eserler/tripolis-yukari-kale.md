@@ -5,10 +5,10 @@ slug: "tripolis-yukari-kale"
 description: "## Tripolis Yukarı Kale: Denizli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.952795,38.0490952"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-seref-camii"
 description: "## Hacı Şeref Camii..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4891241,38.7299241"
 draft: "false"
 weight: "999"

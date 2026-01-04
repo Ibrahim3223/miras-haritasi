@@ -5,10 +5,10 @@ slug: "alabayir-koprusu"
 description: "## Alabayır Köprüsü: Aydın'ın Tarihi bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.161575404,37.546817219"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehit-onur-ensar-ayanoglu-camii"
 description: "## Şehit Onur Ensar Ayanoğlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Nurbaba_Cami_-_panoramio.jpg/1200px-Nurbaba_Cami_-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.062384738,41.027314239"
 draft: "false"
 weight: "10"

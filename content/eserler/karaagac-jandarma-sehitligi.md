@@ -5,10 +5,10 @@ slug: "karaagac-jandarma-sehitligi"
 description: "## Karaağaç Jandarma Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Karaağaç_Jandarma_Şehitliğii,_23.JPG/1200px-Karaağaç_Jandarma_Şehitliğii,_23.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5377197,41.65905"
 draft: "false"
 weight: "10"

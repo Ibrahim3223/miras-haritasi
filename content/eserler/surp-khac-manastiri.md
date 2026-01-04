@@ -5,10 +5,10 @@ slug: "surp-khac-manastiri"
 description: "## Surp Khaç Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Bahçesaray"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.7745094,38.1122704"
 draft: "false"
 weight: "999"

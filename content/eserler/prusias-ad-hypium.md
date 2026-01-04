@@ -5,10 +5,10 @@ slug: "prusias-ad-hypium"
 description: "## Prusias ad Hypium: Tarihî Bir Kentin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Prusias_ad_Hypium_10.jpg/1200px-Prusias_ad_Hypium_10.jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.148055555,40.906111111"
 draft: "false"
 weight: "10"

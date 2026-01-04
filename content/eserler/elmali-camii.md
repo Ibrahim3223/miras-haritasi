@@ -5,10 +5,10 @@ slug: "elmali-camii"
 description: "**Eskişehir'in Şirin Köyü'nde Bulunan Elmalı Camii: Tarih, Mimarisi ve Ziyaret Guide**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5331402,39.4497337"
 draft: "false"
 weight: "999"

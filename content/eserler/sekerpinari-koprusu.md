@@ -5,10 +5,10 @@ slug: "sekerpinari-koprusu"
 description: "## Şekerpınarı Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Pozantı_Ak_Köprü,_old_stone_bridge_restored_in_various_periods,_Cappadocia,_Turkey_(37552274866).jpg/1200px-Pozantı_Ak_Köprü,_old_stone_bridge_restored_in_various_periods,_Cappadocia,_Turkey_(37552274866).jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Pozantı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.86194,37.47111"
 draft: "false"
 weight: "10"

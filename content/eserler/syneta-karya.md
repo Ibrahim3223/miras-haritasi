@@ -5,10 +5,10 @@ slug: "syneta-karya"
 description: "# Syneta (Karya): Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.73706,37.907299"
 draft: "false"
 weight: "999"

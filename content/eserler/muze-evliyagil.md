@@ -5,10 +5,10 @@ slug: "muze-evliyagil"
 description: "## Müze Evliyagil..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.697861111,39.792527777"
 draft: "false"
 weight: "999"

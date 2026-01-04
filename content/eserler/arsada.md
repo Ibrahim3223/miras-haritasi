@@ -5,10 +5,10 @@ slug: "arsada"
 description: "## Arsada Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Arsada%2C_Turkey.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4288148,36.4914729"
 draft: "false"
 weight: "999"

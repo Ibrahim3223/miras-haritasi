@@ -5,10 +5,10 @@ slug: "ahmediye-kutuphanesi"
 description: "**Ahmediye Kütüphanesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Ahmediye_Complex_Uskudar.jpg/1200px-Ahmediye_Complex_Uskudar.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0162888,41.0204391"
 draft: "false"
 weight: "10"

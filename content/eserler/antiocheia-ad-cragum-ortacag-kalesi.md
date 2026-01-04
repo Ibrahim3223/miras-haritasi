@@ -5,10 +5,10 @@ slug: "antiocheia-ad-cragum-ortacag-kalesi"
 description: "## Antiocheia Ad Cragum Ortaçağ Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Walls_of_antiocha.jpg/1200px-Walls_of_antiocha.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.4149017,36.1569176"
 draft: "false"
 weight: "10"

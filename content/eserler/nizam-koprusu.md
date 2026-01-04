@@ -5,10 +5,10 @@ slug: "nizam-koprusu"
 description: "## Nizam Köprüsü: İstanbul'un Eski Köprüleri Arasındaki Bir Kıymetli Eser..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.1163273,40.8638573"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "suleyman-pasa-sarayi"
 description: "## Süleyman Paşa Sarayı..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "37.285861111,41.131833333"
 draft: "false"
 weight: "999"

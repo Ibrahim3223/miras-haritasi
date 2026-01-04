@@ -5,10 +5,10 @@ slug: "ibrahim-bey-mescidi-edirne"
 description: "## İbrahim Bey Mescidi: Edirne'nin Tarihi Bir Camisi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5531368,41.6773224"
 draft: "false"
 weight: "999"

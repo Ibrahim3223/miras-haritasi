@@ -5,10 +5,10 @@ slug: "yoncaalti-camii"
 description: "## Yoncaaltı Camii: Afyonkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5388279,38.7544632"
 draft: "false"
 weight: "999"

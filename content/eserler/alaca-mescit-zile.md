@@ -5,10 +5,10 @@ slug: "alaca-mescit-zile"
 description: "## Alaca Mescit, Zile: Tokat'ın Tarihi Bir Şehri Arayanlara Örnek Bir Cami..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8889809,40.3050003"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ekmek-muzesi"
 description: "# Ekmek Müzesi: Türkiye'nin Unutulmaz Ekmek Kültürü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.770107,39.956724"
 draft: "false"
 weight: "999"

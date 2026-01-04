@@ -5,10 +5,10 @@ slug: "karanlik-kapi-kurtpinar"
 description: "## Karanlık Kapı, Kurtpınar..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.9663925,36.9209633"
 draft: "false"
 weight: "999"

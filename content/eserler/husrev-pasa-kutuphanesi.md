@@ -5,10 +5,10 @@ slug: "husrev-pasa-kutuphanesi"
 description: "### Hüsrev Paşa Kütüphanesi: Eyüpsultan, İstanbul'da Bir Öncü Kütüphane..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9355125,41.0484962"
 draft: "false"
 weight: "999"

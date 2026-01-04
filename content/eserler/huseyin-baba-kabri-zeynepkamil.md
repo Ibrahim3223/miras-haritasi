@@ -5,10 +5,10 @@ slug: "huseyin-baba-kabri-zeynepkamil"
 description: "## Hüseyin Baba Kabri, Zeynepkamil: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.021183,41.0172768"
 draft: "false"
 weight: "999"

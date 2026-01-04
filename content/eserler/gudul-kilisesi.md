@@ -5,10 +5,10 @@ slug: "gudul-kilisesi"
 description: "### Güdül Kilisesi: Dereli'nin Gizli Cehennemi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.4589691,40.6699524"
 draft: "false"
 weight: "999"

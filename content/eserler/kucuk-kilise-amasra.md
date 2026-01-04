@@ -5,10 +5,10 @@ slug: "kucuk-kilise-amasra"
 description: "## Küçük Kilise, Amasra..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Amasra-church-mosque.JPG/1200px-Amasra-church-mosque.JPG"
 province: "Amasra İlçesi"
-iller: '["Amasra İlçesi"]'
+iller: ["Amasra İlçesi"]
 district: "Amasra"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3882866,41.7493553"
 draft: "false"
 weight: "999"

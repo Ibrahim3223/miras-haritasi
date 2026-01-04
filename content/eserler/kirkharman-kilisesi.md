@@ -5,10 +5,10 @@ slug: "kirkharman-kilisesi"
 description: "### Kırkharman Kilisesi: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.5354368,40.5426873"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayios-kostantinos-ve-ayia-eleni-rum-ortodoks-kilisesi"
 description: "## Ayios Kostantinos ve Ayia Eleni Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ayios_Kostantinos_and_Ayia_Eleni_Greek_Orthodox_Church2,_Paşabahçe,_İstanbul_2024.jpg/1200px-Ayios_Kostantinos_and_Ayia_Eleni_Greek_Orthodox_Church2,_Paşabahçe,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0970211,41.1152573"
 draft: "false"
 weight: "10"

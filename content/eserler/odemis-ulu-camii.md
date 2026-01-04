@@ -5,10 +5,10 @@ slug: "odemis-ulu-camii"
 description: "### Ödemiş Ulu Camii: İzmir'in Değerli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.969666666,38.228"
 draft: "false"
 weight: "999"

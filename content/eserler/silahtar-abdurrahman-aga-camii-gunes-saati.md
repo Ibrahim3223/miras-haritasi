@@ -5,10 +5,10 @@ slug: "silahtar-abdurrahman-aga-camii-gunes-saati"
 description: "## Silahtar Abdurrahman Ağa Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0222397,41.0315323"
 draft: "false"
 weight: "999"

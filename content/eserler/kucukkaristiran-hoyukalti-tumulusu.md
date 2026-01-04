@@ -5,10 +5,10 @@ slug: "kucukkaristiran-hoyukalti-tumulusu"
 description: "# Küçükkarıştıran Höyükaltı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.538353,41.326828"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "marnuk-kalesi"
 description: "## Marnuk Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.0009193,38.9071579"
 draft: "false"
 weight: "999"

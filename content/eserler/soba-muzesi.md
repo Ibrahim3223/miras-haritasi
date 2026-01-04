@@ -5,10 +5,10 @@ slug: "soba-muzesi"
 description: "## Soba Müzesi: Çamlıdere'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4693451,40.4895897"
 draft: "false"
 weight: "999"

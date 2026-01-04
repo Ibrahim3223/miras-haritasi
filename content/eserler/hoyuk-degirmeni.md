@@ -5,10 +5,10 @@ slug: "hoyuk-degirmeni"
 description: "## Höyük Değirmeni: Kangal'ın Eski Zirvesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.5036365,39.2769121"
 draft: "false"
 weight: "999"

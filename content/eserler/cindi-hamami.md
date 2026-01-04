@@ -5,10 +5,10 @@ slug: "cindi-hamami"
 description: "## Cindi Hamamı: Antakya'nın Tarihi ve Kültür Mirasının Bir Parçası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1616665,36.201518"
 draft: "false"
 weight: "999"

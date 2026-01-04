@@ -5,10 +5,10 @@ slug: "kumkale-kalesi-sehitligi"
 description: "## Kumkale Kalesi Şehitliği..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.1977596,40.0028381"
 draft: "false"
 weight: "999"

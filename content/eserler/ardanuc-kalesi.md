@@ -5,10 +5,10 @@ slug: "ardanuc-kalesi"
 description: "### Ardanuç Kalesi: Artvin'in Gizli İhtişamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Castle_of_Ardanuç,_Province_of_Artvin,_Turkey.jpg/1200px-Castle_of_Ardanuç,_Province_of_Artvin,_Turkey.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.0546,41.1267"
 draft: "false"
 weight: "10"

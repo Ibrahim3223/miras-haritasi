@@ -5,10 +5,10 @@ slug: "hafiz-ahmet-pasa-turbesi"
 description: "**Hafız Ahmet Paşa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.947667,41.0217"
 draft: "false"
 weight: "999"

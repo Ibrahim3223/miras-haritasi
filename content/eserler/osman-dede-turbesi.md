@@ -5,10 +5,10 @@ slug: "osman-dede-turbesi"
 description: "## Osman Dede Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9747372,39.4199905"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kanatli-kopru-edirne"
 description: "## Kanatlı Köprü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.561290764,41.671597594"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kovaci-dede-kabri"
 description: "## Kovacı Dede Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.948247,41.025536"
 draft: "false"
 weight: "999"

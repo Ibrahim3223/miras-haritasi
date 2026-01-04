@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii-yalova"
 description: "## Rüstem Paşa Camii (Yalova)..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2682152,40.6574097"
 draft: "false"
 weight: "999"

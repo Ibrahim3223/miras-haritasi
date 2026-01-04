@@ -5,10 +5,10 @@ slug: "kizil-minare-camii"
 description: "### Kızıl Minare Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.029432,38.376892"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ismailli-camii"
 description: "## İsmailli Camii: İzmir'in Tarihi Bir Çağı Gerçekleştiren Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2141991,38.9313011"
 draft: "false"
 weight: "999"

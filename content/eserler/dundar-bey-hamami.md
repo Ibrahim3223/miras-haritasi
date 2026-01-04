@@ -5,10 +5,10 @@ slug: "dundar-bey-hamami"
 description: "### Dündar Bey Hamamı..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.8493729,37.875145"
 draft: "false"
 weight: "999"

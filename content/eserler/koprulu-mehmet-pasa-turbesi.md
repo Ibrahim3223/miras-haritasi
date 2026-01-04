@@ -5,10 +5,10 @@ slug: "koprulu-mehmet-pasa-turbesi"
 description: "## Köprülü Mehmet Paşa Türbesi: Fatih'in Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Köprülü_Mehmet_Paşa_Türbesi.jpg/1200px-Köprülü_Mehmet_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9718862,41.0082595"
 draft: "false"
 weight: "10"

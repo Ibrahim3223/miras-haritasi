@@ -5,10 +5,10 @@ slug: "disari-camii"
 description: "### Dışarı Camii..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.674118,37.9676323"
 draft: "false"
 weight: "999"

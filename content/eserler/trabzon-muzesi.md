@@ -5,10 +5,10 @@ slug: "trabzon-muzesi"
 description: "# Trabzon Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Trabzon_museum.jpg/1200px-Trabzon_museum.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.72657,41.00505"
 draft: "false"
 weight: "10"

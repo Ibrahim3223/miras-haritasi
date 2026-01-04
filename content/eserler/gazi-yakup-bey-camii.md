@@ -5,10 +5,10 @@ slug: "gazi-yakup-bey-camii"
 description: "**Gazi Yakup Bey Camii**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7158375,40.3749504"
 draft: "false"
 weight: "999"

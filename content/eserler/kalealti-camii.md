@@ -5,10 +5,10 @@ slug: "kalealti-camii"
 description: "## Kalealtı Camii Tanıtımı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1063156,38.4004097"
 draft: "false"
 weight: "999"

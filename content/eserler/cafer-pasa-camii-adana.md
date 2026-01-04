@@ -5,10 +5,10 @@ slug: "cafer-pasa-camii-adana"
 description: "## Cafer Paşa Camii..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3331032,36.9857712"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-hamami"
 description: "### Çoban Mustafa Paşa Hamamı: Gebze'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hamam_-_panoramio.jpg/1200px-Hamam_-_panoramio.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4341888,40.7985725"
 draft: "false"
 weight: "10"

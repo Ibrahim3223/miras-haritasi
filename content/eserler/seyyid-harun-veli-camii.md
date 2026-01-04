@@ -5,10 +5,10 @@ slug: "seyyid-harun-veli-camii"
 description: "## Seyyid Harun Veli Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.8464355,37.4168587"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehit-tegmen-adem-buran-camii"
 description: "### Şehit Teğmen Adem Buran Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.417154,37.828811"
 draft: "false"
 weight: "999"

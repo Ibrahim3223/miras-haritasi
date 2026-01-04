@@ -5,10 +5,10 @@ slug: "akbaba-sultan"
 description: "## Akbaba Sultan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/AkbabaSultan02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.116367,41.157016"
 draft: "false"
 weight: "999"

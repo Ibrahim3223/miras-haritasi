@@ -5,10 +5,10 @@ slug: "yildirim-beyazit-hamami"
 description: "## Yıldırım Beyazıt Hamamı: Mudurnu'nun Tarihi Bir Anıtını Keşfedin..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.2113078,40.4648693"
 draft: "false"
 weight: "999"

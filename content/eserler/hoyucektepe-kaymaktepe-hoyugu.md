@@ -5,10 +5,10 @@ slug: "hoyucektepe-kaymaktepe-hoyugu"
 description: "## Höyücektepe / Kaymaktepe Höyüğü: Balıkesir'in Eski İnsanının Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

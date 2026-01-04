@@ -5,10 +5,10 @@ slug: "koprulu-mehmet-pasa-medresesi"
 description: "## Köprülü Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.972023,41.0081253"
 draft: "false"
 weight: "999"

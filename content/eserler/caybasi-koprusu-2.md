@@ -5,10 +5,10 @@ slug: "caybasi-koprusu-2"
 description: "### Çaybaşı Köprüsü-2: Manisa'nın Tarihi bir Öreni..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4237156,38.6043549"
 draft: "false"
 weight: "999"

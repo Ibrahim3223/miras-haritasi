@@ -5,10 +5,10 @@ slug: "serif-pasa-hamami"
 description: "**Şerif Paşa Hamamı**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.1747456,39.2367401"
 draft: "false"
 weight: "999"

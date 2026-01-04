@@ -5,10 +5,10 @@ slug: "seyyid-necmettin-yahya-rifai-turbesi"
 description: "## Seyyid Necmettin Yahya Rifai Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Suluova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.752233889,40.759836252"
 draft: "false"
 weight: "999"

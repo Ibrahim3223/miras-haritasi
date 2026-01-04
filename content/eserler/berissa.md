@@ -5,10 +5,10 @@ slug: "berissa"
 description: "## Berissa: Akdeniz'in Gizli Öreni..."
 featured_image: ""
 province: "Çamlıbel"
-iller: '["Çamlıbel"]'
+iller: ["Çamlıbel"]
 district: "Aktepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5072,40.0836"
 draft: "false"
 weight: "999"

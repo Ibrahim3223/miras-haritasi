@@ -5,10 +5,10 @@ slug: "turkmen-camii"
 description: "# Türkmen Camii: Kuşadası'nın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2628994,37.8622017"
 draft: "false"
 weight: "999"

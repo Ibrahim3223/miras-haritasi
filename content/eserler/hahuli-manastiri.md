@@ -5,10 +5,10 @@ slug: "hahuli-manastiri"
 description: "## Hahuli Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/77._xaxuli.JPG/1200px-77._xaxuli.JPG"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Tortum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4551,40.5125"
 draft: "false"
 weight: "10"

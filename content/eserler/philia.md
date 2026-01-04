@@ -5,10 +5,10 @@ slug: "philia"
 description: "## Philia: Geçmişin Işığında Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6766806,41.3381803"
 draft: "false"
 weight: "999"

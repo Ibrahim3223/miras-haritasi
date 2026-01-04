@@ -5,10 +5,10 @@ slug: "cafergazi-camii"
 description: "## Cafergazi Camii Tanıtımı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4657249,40.7382431"
 draft: "false"
 weight: "999"

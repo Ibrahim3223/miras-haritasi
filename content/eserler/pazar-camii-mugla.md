@@ -5,10 +5,10 @@ slug: "pazar-camii-mugla"
 description: "## Pazar Camii, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3642998,37.218399"
 draft: "false"
 weight: "999"

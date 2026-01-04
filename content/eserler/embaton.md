@@ -5,10 +5,10 @@ slug: "embaton"
 description: "## Embaton: Antik Bir Şehirin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.376435,38.253756"
 draft: "false"
 weight: "999"

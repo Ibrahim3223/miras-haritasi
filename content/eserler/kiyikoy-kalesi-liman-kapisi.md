@@ -5,10 +5,10 @@ slug: "kiyikoy-kalesi-liman-kapisi"
 description: "**Kıyıköy Kalesi Liman Kapısı: Bir Altın Çağın Kalıntısı**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0983181,41.6331749"
 draft: "false"
 weight: "999"

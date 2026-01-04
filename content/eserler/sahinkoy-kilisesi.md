@@ -5,10 +5,10 @@ slug: "sahinkoy-kilisesi"
 description: "### Şahinköy Kilisesi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.8419991,41.0220985"
 draft: "false"
 weight: "999"

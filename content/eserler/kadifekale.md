@@ -5,10 +5,10 @@ slug: "kadifekale"
 description: "# Kadifekale: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Kadifekale_IzmirTurkey_EUnluBlogspot.jpg/1200px-Kadifekale_IzmirTurkey_EUnluBlogspot.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.145833333,38.413888888"
 draft: "false"
 weight: "10"

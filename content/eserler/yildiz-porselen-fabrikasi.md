@@ -5,10 +5,10 @@ slug: "yildiz-porselen-fabrikasi"
 description: "### Yıldız Porselen Fabrikası: İstanbul'un Şık ve Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Yildiz_Porcelain_Factory_01.jpg/1200px-Yildiz_Porcelain_Factory_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.01852778,41.04805556"
 draft: "false"
 weight: "10"

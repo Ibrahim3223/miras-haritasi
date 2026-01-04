@@ -5,10 +5,10 @@ slug: "iskenderun-suryani-katolik-kilisesi"
 description: "## İskenderun Süryani Katolik Kilisesi: Tarih ve Şöhret..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.1689873,36.5896454"
 draft: "false"
 weight: "999"

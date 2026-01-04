@@ -5,10 +5,10 @@ slug: "ishak-pasa-medresesi"
 description: "## İshak Paşa Medresesi: İnegöl'de Bir Tarihî Ören..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.5119781,40.0788307"
 draft: "false"
 weight: "999"

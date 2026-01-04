@@ -5,10 +5,10 @@ slug: "somuncu-baba-mescit-ve-zaviyesi"
 description: "## Somuncu Baba Mescit ve Zaviyesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0401878,38.3746986"
 draft: "false"
 weight: "999"

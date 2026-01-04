@@ -5,10 +5,10 @@ slug: "ali-riza-efendi-turbesi"
 description: "### Ali Rıza Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ali_Rıza_Efendi_Türbesi.jpg/1200px-Ali_Rıza_Efendi_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.024341,41.028621"
 draft: "false"
 weight: "10"

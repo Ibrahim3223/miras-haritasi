@@ -5,10 +5,10 @@ slug: "buhur-baba-turbesi"
 description: "### Buhur Baba Türbesi: Kadıköy'ün Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0789013,40.989254"
 draft: "false"
 weight: "999"

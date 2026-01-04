@@ -5,10 +5,10 @@ slug: "uzuntarla-mahallesi-karacam-camii"
 description: "### Uzuntarla Mahallesi Karaçam Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.179716199,40.599953245"
 draft: "false"
 weight: "999"

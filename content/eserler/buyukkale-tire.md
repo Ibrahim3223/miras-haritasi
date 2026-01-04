@@ -5,10 +5,10 @@ slug: "buyukkale-tire"
 description: "## Büyükkale, Tire: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.555149,38.032087"
 draft: "false"
 weight: "999"

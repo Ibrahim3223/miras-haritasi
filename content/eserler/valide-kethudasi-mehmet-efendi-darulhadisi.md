@@ -5,10 +5,10 @@ slug: "valide-kethudasi-mehmet-efendi-darulhadisi"
 description: "## Valide Kethüdası Mehmet Efendi Darülhadisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.97376,41.023205"
 draft: "false"
 weight: "999"

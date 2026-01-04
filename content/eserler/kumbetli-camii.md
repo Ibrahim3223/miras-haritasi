@@ -5,10 +5,10 @@ slug: "kumbetli-camii"
 description: "## Kümbetli Camii: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3633289,40.2203255"
 draft: "false"
 weight: "999"

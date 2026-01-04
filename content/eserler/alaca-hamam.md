@@ -5,10 +5,10 @@ slug: "alaca-hamam"
 description: "## Alaca Hamam: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4320115,38.610559"
 draft: "false"
 weight: "999"

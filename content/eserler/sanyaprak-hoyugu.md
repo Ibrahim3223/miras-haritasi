@@ -5,10 +5,10 @@ slug: "sanyaprak-hoyugu"
 description: "## Sanyaprak Höyüğü: Yozgat'ın Eski Uygarlığının İzleri..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6329403,39.6467912"
 draft: "false"
 weight: "999"

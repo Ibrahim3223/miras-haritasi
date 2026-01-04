@@ -5,10 +5,10 @@ slug: "dede-korkut-anit-duvari"
 description: "## Dede Korkut Anıt Duvarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4960632,39.765255"
 draft: "false"
 weight: "999"

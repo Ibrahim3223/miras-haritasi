@@ -5,10 +5,10 @@ slug: "atik-valide-sultan-hamami-toptasi"
 description: "## Atik Valide Sultan Hamamı, Toptaşı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.021711,41.017995"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-hasan-nurani-turbesi"
 description: "### Şeyh Hasan Nurani Türbesi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.5664902,37.7230988"
 draft: "false"
 weight: "999"

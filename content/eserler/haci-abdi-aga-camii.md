@@ -5,10 +5,10 @@ slug: "haci-abdi-aga-camii"
 description: "## Hacı Abdi Ağa Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9685593,38.228054"
 draft: "false"
 weight: "999"

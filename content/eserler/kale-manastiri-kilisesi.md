@@ -5,10 +5,10 @@ slug: "kale-manastiri-kilisesi"
 description: "## Kale Manastırı Kilisesi: Tarih, Mimari ve Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

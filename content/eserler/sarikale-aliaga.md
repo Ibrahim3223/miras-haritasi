@@ -5,10 +5,10 @@ slug: "sarikale-aliaga"
 description: "## Sarıkale, Aliağa: Tarihî Bir Kaleyi Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.0721779,38.7840919"
 draft: "false"
 weight: "999"

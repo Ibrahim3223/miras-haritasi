@@ -5,10 +5,10 @@ slug: "van-muzesi"
 description: "## Van Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Van_Museum_building.jpg/1200px-Van_Museum_building.jpg"
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "İpekyolu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "43.341111111,38.504722222"
 draft: "false"
 weight: "10"

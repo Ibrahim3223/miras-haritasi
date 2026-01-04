@@ -5,10 +5,10 @@ slug: "cincikli-mescit"
 description: "## Cıncıklı Mescit: Aksaray'da Bir Tarihî Cami..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0240135,38.3703842"
 draft: "false"
 weight: "999"

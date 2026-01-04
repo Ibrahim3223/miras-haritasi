@@ -5,10 +5,10 @@ slug: "huseyin-aga-camii"
 description: "## Hüseyin Ağa Camii: Beyoğlu'ndaki Bir Ünlü Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hüseyin_Ağa_Cami.jpg/1200px-Hüseyin_Ağa_Cami.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.980694444,41.035111111"
 draft: "false"
 weight: "10"

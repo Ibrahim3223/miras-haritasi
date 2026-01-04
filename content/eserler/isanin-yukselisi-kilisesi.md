@@ -5,10 +5,10 @@ slug: "isanin-yukselisi-kilisesi"
 description: "### İsa’nın Yükselişi Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.0661602,41.6773949"
 draft: "false"
 weight: "999"

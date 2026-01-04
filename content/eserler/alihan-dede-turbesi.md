@@ -5,10 +5,10 @@ slug: "alihan-dede-turbesi"
 description: "## Alihan Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Alihan_Dede_Türbesi.jpg/1200px-Alihan_Dede_Türbesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.736958,38.084895"
 draft: "false"
 weight: "10"

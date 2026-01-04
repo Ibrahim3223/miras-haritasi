@@ -5,10 +5,10 @@ slug: "tarik-dursun-k-yazar-evi"
 description: "**Tarık Dursun K. Yazar Evi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.1140213,38.4088898"
 draft: "false"
 weight: "999"

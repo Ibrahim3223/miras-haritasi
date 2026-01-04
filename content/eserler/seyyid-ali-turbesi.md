@@ -5,10 +5,10 @@ slug: "seyyid-ali-turbesi"
 description: "## Seyyid Ali Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8670807,39.9367676"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cenabi-ahmet-pasa-turbesi"
 description: "### Cenabi Ahmet Paşa Türbesi: Altındağ'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cenabi_Ahmet_Paşa_Türbesi.jpg/1200px-Cenabi_Ahmet_Paşa_Türbesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8707123,39.9369812"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ballica-yildiz-camii"
 description: "## Ballıca Yıldız Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.289556923,40.886804438"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "corekci-kapisi-fatih-kulliyesi"
 description: "## Çörekçi Kapısı, Fatih Külliyesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9486809,41.0202827"
 draft: "false"
 weight: "999"

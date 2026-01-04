@@ -5,10 +5,10 @@ slug: "turkiye-gazeteciler-cemiyeti-basin-muzesi"
 description: "## Türkiye Gazeteciler Cemiyeti Basın Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/TGCPressMediaMuseum.JPG/1200px-TGCPressMediaMuseum.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97211,41.00844"
 draft: "false"
 weight: "10"

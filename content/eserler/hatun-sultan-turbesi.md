@@ -5,10 +5,10 @@ slug: "hatun-sultan-turbesi"
 description: "### Hatun Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7814255,41.3780632"
 draft: "false"
 weight: "999"

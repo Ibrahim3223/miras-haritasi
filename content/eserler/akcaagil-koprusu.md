@@ -5,10 +5,10 @@ slug: "akcaagil-koprusu"
 description: "### Akçaağıl Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.0521774,40.2270813"
 draft: "false"
 weight: "999"

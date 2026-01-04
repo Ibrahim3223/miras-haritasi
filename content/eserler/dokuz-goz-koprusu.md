@@ -5,10 +5,10 @@ slug: "dokuz-goz-koprusu"
 description: "## Dokuz Göz Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9707489,39.1220093"
 draft: "false"
 weight: "999"

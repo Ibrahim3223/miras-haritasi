@@ -5,10 +5,10 @@ slug: "yarikkaya-kalesi"
 description: "**Yarıkkaya Kalesi: Adana'nın Gizli Kalesi**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.908165,37.526783"
 draft: "false"
 weight: "999"

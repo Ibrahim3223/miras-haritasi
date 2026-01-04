@@ -5,10 +5,10 @@ slug: "iskender-baba-turbesi"
 description: "### İskender Baba Türbesi: Üsküdar'ın Tarihsel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.017153,41.018759"
 draft: "false"
 weight: "999"

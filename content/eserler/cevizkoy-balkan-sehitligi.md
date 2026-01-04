@@ -5,10 +5,10 @@ slug: "cevizkoy-balkan-sehitligi"
 description: "## Cevizköy Balkan Şehitliği: Kırklareli'nin Yıllarca Unutulmayan Yarasını Durduran Anıt..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5868568,41.5578461"
 draft: "false"
 weight: "999"

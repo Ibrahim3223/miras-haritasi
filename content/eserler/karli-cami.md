@@ -5,10 +5,10 @@ slug: "karli-cami"
 description: "# Karlı Cami: Tekirdağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Kapaklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8639145,41.3709183"
 draft: "false"
 weight: "999"

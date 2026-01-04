@@ -5,10 +5,10 @@ slug: "haci-balta-koprusu"
 description: "## Hacı Balta Köprüsü: Hemşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.893617,41.0612"
 draft: "false"
 weight: "999"

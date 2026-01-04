@@ -5,10 +5,10 @@ slug: "samtzubi-kilisesi"
 description: "### Samtzubi Kilisesi: Tarihi ve Kültürel Mirasın Evinde..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Sabaholdu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.137083333,41.297416666"
 draft: "false"
 weight: "999"

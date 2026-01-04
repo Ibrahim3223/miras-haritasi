@@ -5,10 +5,10 @@ slug: "roma-koprusu-seydikemer"
 description: "## Roma Köprüsü, Seydikemer..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.315578,36.354683"
 draft: "false"
 weight: "999"

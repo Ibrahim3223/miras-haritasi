@@ -5,10 +5,10 @@ slug: "germir-yukari-camii"
 description: "### Germir Yukarı Camii..."
 featured_image: ""
 province: "Melikgazi"
-iller: '["Melikgazi"]'
+iller: ["Melikgazi"]
 district: "Germir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5654068,38.7365646"
 draft: "false"
 weight: "999"

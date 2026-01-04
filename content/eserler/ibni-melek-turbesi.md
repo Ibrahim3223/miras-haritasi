@@ -5,10 +5,10 @@ slug: "ibni-melek-turbesi"
 description: "## İbni Melek Türbesi: Tarihî ve Kültürel Mirasın Değerli Armağanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7317286,38.0861771"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "malkara"
 description: "### Malkara: Tekirdağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.904166666,40.893333333"
 draft: "false"
 weight: "999"

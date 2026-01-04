@@ -5,10 +5,10 @@ slug: "seyh-dervis-turbesi"
 description: "## Şeyh Derviş Türbesi: Yüreğir'in Tarihî Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yüreğir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3340149,36.9598732"
 draft: "false"
 weight: "999"

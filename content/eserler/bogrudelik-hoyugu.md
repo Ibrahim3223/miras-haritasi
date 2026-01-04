@@ -5,10 +5,10 @@ slug: "bogrudelik-hoyugu"
 description: "### Böğrüdelik Höyüğü: Tarihî ve Kültürel Mirasın İmzaları..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3608638,39.233795"
 draft: "false"
 weight: "999"

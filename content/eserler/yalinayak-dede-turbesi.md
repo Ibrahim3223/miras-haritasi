@@ -5,10 +5,10 @@ slug: "yalinayak-dede-turbesi"
 description: "## Yalınayak Dede Türbesi: Dikili'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.957816,38.968504"
 draft: "false"
 weight: "999"

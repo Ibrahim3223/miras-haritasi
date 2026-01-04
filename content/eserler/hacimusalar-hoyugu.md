@@ -5,10 +5,10 @@ slug: "hacimusalar-hoyugu"
 description: "**Hacımusalar Höyüğü: Elmalı, Antalya'da Bir Arkeolojik Sit**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.83611111,36.64222222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "demirdogen-pisnar-camii"
 description: "## Demirdöğen Pişnar Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3767624,40.9207382"
 draft: "false"
 weight: "999"

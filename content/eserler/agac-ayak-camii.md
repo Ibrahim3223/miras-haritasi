@@ -5,10 +5,10 @@ slug: "agac-ayak-camii"
 description: "## Ağaç Ayak Camii: Ankara'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.866361111,39.935694444"
 draft: "false"
 weight: "999"

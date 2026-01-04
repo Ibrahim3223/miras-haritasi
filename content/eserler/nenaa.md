@@ -5,10 +5,10 @@ slug: "nenaa"
 description: "## Nenašša: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.712222,38.625"
 draft: "false"
 weight: "999"

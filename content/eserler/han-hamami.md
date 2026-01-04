@@ -5,10 +5,10 @@ slug: "han-hamami"
 description: "## Bitlis'in Tarihi Bir Eseri: Han Hamamı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "42.107947,38.399112"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mezarlik-koprusu"
 description: "## Mezarlık Köprüsü: Akhisar'ın Eski Çağlardan Kalan Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.044724,38.895042"
 draft: "false"
 weight: "999"

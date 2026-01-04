@@ -5,10 +5,10 @@ slug: "akmescit-camii-boyabat"
 description: "### Akmescit Camii, Boyabat: Tarihçesi ve Mimarı Özellikleri..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Boyabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7713966,41.4676895"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "davud-pasa-sarayi"
 description: "### Davud Paşa Sarayı Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: ""
 draft: "false"
 weight: "999"

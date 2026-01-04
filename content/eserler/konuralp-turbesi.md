@@ -5,10 +5,10 @@ slug: "konuralp-turbesi"
 description: "## Konuralp Türbesi: Düzce'nin Gizli Anıtı..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1476803,40.9051476"
 draft: "false"
 weight: "999"

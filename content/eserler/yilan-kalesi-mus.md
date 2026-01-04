@@ -5,10 +5,10 @@ slug: "yilan-kalesi-mus"
 description: "### Yılan Kalesi, Muş..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.6198196,38.9592438"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dogan-aga-kabri"
 description: "## Doğan Ağa Kabri: Fatih'in Gizli Çeşmesiyle Birlikte Geçmişe Yolculuk..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9315033,41.0069313"
 draft: "false"
 weight: "999"

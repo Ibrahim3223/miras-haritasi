@@ -5,10 +5,10 @@ slug: "domino-koprusu"
 description: "## Domino Köprüsü: Tekirdağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8197041,41.4727364"
 draft: "false"
 weight: "999"

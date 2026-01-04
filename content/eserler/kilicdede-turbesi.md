@@ -5,10 +5,10 @@ slug: "kilicdede-turbesi"
 description: "### Giriş..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.3488045,41.2797318"
 draft: "false"
 weight: "999"

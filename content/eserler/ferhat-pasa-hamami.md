@@ -5,10 +5,10 @@ slug: "ferhat-pasa-hamami"
 description: "# Ferhat Paşa Hamamı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7807083,41.3795967"
 draft: "false"
 weight: "999"

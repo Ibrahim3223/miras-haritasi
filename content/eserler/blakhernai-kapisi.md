@@ -5,10 +5,10 @@ slug: "blakhernai-kapisi"
 description: "## Blakhernai Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9411144,41.0392189"
 draft: "false"
 weight: "999"

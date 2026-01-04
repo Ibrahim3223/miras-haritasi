@@ -5,10 +5,10 @@ slug: "tavukcu-koprusu"
 description: "### Tavukçu Köprüsü: Tokat'ın Tarihî Bir Çanak Çömleği..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.307716,40.287441"
 draft: "false"
 weight: "999"

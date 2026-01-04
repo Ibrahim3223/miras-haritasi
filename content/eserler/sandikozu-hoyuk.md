@@ -5,10 +5,10 @@ slug: "sandikozu-hoyuk"
 description: "## Sandıközü Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.35785,39.390133"
 draft: "false"
 weight: "999"

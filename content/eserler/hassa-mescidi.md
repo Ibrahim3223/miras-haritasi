@@ -5,10 +5,10 @@ slug: "hassa-mescidi"
 description: "## Hassa Mescidi..."
 featured_image: ""
 province: "Konak (ilçe)"
-iller: '["Konak (ilçe)"]'
+iller: ["Konak (ilçe)"]
 district: "Tuzcu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1357346,38.4141426"
 draft: "false"
 weight: "999"

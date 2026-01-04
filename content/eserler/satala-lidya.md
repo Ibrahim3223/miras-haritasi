@@ -5,10 +5,10 @@ slug: "satala-lidya"
 description: "### Satala: Lidya Uygarlığının Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.26861111,38.57944444"
 draft: "false"
 weight: "999"

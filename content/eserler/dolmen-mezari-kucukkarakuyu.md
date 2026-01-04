@@ -5,10 +5,10 @@ slug: "dolmen-mezari-kucukkarakuyu"
 description: "## Dolmen Mezarı, Küçükkarakuyu..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Yavuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.5658989,37.3465996"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "igneli-belkis-camii"
 description: "## İğneli Belkıs Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8548546,39.9440269"
 draft: "false"
 weight: "999"

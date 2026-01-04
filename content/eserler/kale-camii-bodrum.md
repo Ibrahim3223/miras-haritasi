@@ -5,10 +5,10 @@ slug: "kale-camii-bodrum"
 description: "### Kale Camii, Bodrum..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4288177,37.0314026"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saraylar-acik-hava-muzesi"
 description: "## Saraylar Açık Hava Müzesi: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.653511,40.6531334"
 draft: "false"
 weight: "999"

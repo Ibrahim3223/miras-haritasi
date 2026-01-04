@@ -5,10 +5,10 @@ slug: "fuad-pasa-turbesi"
 description: "## Fuad Paşa Türbesi: İstanbul'un Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Istanbul_Fuad_Paşa_Camii_Ve_Türbesi_2009_7298.jpg/1200px-Istanbul_Fuad_Paşa_Camii_Ve_Türbesi_2009_7298.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.972816,41.006563"
 draft: "false"
 weight: "10"

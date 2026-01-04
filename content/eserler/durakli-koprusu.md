@@ -5,10 +5,10 @@ slug: "durakli-koprusu"
 description: "## Duraklı Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Karahallı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.5305214,38.4074707"
 draft: "false"
 weight: "999"

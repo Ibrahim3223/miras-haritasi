@@ -5,10 +5,10 @@ slug: "samsun-kalesi"
 description: "## Samsun Kalesi: Tarih, Mimarî ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Samsun_Kalesi.PNG/1200px-Samsun_Kalesi.PNG"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Trabzon Vilayeti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.3325,41.29416667"
 draft: "false"
 weight: "10"

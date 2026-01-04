@@ -5,10 +5,10 @@ slug: "bayburt-ulu-camii"
 description: "# Bayburt Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bayburt_Ulu_Camii_İçi_2.jpg/1200px-Bayburt_Ulu_Camii_İçi_2.jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.22525,40.261027777"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "baki-hamami"
 description: "### Baki Hamamı: Bilecik'te Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9838734,40.1428757"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "beodizo"
 description: "## Beodizo Arkeolojik Sit..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.824805,41.087065"
 draft: "false"
 weight: "999"

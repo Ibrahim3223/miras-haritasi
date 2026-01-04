@@ -5,10 +5,10 @@ slug: "seddulbahir-koprusu"
 description: "## Seddülbahir Köprüsü..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.196873034,40.054790007"
 draft: "false"
 weight: "999"

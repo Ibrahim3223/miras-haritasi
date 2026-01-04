@@ -5,10 +5,10 @@ slug: "akgun-tepe-hoyuk"
 description: "**Akgün Tepe Höyük: Afyonkarahisar'da Bir Ören Yeri**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.212767,38.118017"
 draft: "false"
 weight: "999"

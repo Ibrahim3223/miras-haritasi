@@ -5,10 +5,10 @@ slug: "belce-hoyuk"
 description: "**Belce Höyük: Tarihî Mirasının Gizli Anıtı**..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.556467,38.588783"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emir-buhari-camii"
 description: "## Emir Buhari Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Istanbul_Ahmed_Emir_Buhari_Mescidi_in_2015_8686.jpg/1200px-Istanbul_Ahmed_Emir_Buhari_Mescidi_in_2015_8686.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.946361111,41.020083333"
 draft: "false"
 weight: "10"

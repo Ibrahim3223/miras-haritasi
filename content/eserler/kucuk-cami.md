@@ -5,10 +5,10 @@ slug: "kucuk-cami"
 description: "**Küçük Cami: Kozan'ın Tarihî Bir Öreni**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8182297,37.4433861"
 draft: "false"
 weight: "999"

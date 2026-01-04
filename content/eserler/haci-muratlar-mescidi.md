@@ -5,10 +5,10 @@ slug: "haci-muratlar-mescidi"
 description: "### Hacı Muratlar Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Hacı_Muratlar_Mescidi_2025-09-14_13-46-41.jpg/1200px-Hacı_Muratlar_Mescidi_2025-09-14_13-46-41.jpg"
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4633141,40.6044769"
 draft: "false"
 weight: "10"

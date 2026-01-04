@@ -5,10 +5,10 @@ slug: "aydin-bey-turbesi-karacasu"
 description: "### Aydın Bey Türbesi, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.5757504,37.7854004"
 draft: "false"
 weight: "999"

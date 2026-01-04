@@ -5,10 +5,10 @@ slug: "semerciler-camii"
 description: "# Semerciler Camii..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1631851,36.2031136"
 draft: "false"
 weight: "999"

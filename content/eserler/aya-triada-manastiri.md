@@ -5,10 +5,10 @@ slug: "aya-triada-manastiri"
 description: "### Aya Triada Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Agia_Triada_-_Klosterhof_-_Kapelle_1.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8290997,40.1735992"
 draft: "false"
 weight: "999"

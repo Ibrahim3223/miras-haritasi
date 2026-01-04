@@ -5,10 +5,10 @@ slug: "cukurhisar-hoyugu"
 description: "# Çukurhisar Höyüğü: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3203501,39.8308442"
 draft: "false"
 weight: "999"

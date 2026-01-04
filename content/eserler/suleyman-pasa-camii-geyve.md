@@ -5,10 +5,10 @@ slug: "suleyman-pasa-camii-geyve"
 description: "## Süleyman Paşa Camii, Geyve..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Geyve"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2917213,40.5072441"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cigdeli-hoyuk"
 description: "# Çiğdeli Höyük: Bir Tarihî Mirasın Öyküsü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4848555,39.3643496"
 draft: "false"
 weight: "999"

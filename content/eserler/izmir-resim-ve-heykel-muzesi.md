@@ -5,10 +5,10 @@ slug: "izmir-resim-ve-heykel-muzesi"
 description: "### İzmir Resim ve Heykel Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/İzmir_Art_and_Sculpture_Museum.JPG/1200px-İzmir_Art_and_Sculpture_Museum.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.148086564,38.436056074"
 draft: "false"
 weight: "10"

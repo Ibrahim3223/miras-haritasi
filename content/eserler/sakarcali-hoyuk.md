@@ -5,10 +5,10 @@ slug: "sakarcali-hoyuk"
 description: "## Sakarcalı Höyük: Eski Uygarlığın İzleri Manisa'da..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.77085,39.118767"
 draft: "false"
 weight: "999"

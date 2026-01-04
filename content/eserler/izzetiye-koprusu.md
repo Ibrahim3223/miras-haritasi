@@ -5,10 +5,10 @@ slug: "izzetiye-koprusu"
 description: "## İzzetiye Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6467037,40.8094673"
 draft: "false"
 weight: "999"

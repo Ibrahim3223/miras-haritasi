@@ -5,10 +5,10 @@ slug: "mihli-cayi-tas-kopru"
 description: "## Mıhlı Çayı Taş Köprü: Edremit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6526846,39.5808196"
 draft: "false"
 weight: "999"

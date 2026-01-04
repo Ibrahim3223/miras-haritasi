@@ -5,10 +5,10 @@ slug: "cagaloglu-rustem-pasa-camii"
 description: "## Cağaloğlu Rüstem Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kırklareli_Province_-_Cağaloğlu_Rüstem_Pasha_Mosque_-_20250531124833.jpg/1200px-Kırklareli_Province_-_Cağaloğlu_Rüstem_Pasha_Mosque_-_20250531124833.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5425892,41.2996902"
 draft: "false"
 weight: "10"

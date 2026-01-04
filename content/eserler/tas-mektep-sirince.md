@@ -5,10 +5,10 @@ slug: "tas-mektep-sirince"
 description: "### Taş Mektep, Şirince - İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4327774,37.9445686"
 draft: "false"
 weight: "999"

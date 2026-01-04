@@ -5,10 +5,10 @@ slug: "bandirma-vapuru"
 description: "## Bandırma Vapuru: Tarihinin ve Eğlencenin Bir Kombinasyonu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Bandirma-edited.jpg/1200px-Bandirma-edited.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.3672,41.2733"
 draft: "false"
 weight: "10"

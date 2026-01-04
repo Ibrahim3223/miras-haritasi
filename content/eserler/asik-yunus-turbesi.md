@@ -5,10 +5,10 @@ slug: "asik-yunus-turbesi"
 description: "## Aşık Yunus Türbesi: Bursa'nın Gizli Mabeti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/AŞIK_YUNUS_K.S_TÜRBESİ_KARAMAZAK_BURSA_-_panoramio_(3).jpg/1200px-AŞIK_YUNUS_K.S_TÜRBESİ_KARAMAZAK_BURSA_-_panoramio_(3).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0781841,40.1796112"
 draft: "false"
 weight: "10"

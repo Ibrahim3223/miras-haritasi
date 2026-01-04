@@ -5,10 +5,10 @@ slug: "guranli-mescidi-ve-turbesi"
 description: "## Güranlı Mescidi ve Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0540104,40.1830826"
 draft: "false"
 weight: "999"

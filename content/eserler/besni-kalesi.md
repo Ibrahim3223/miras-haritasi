@@ -5,10 +5,10 @@ slug: "besni-kalesi"
 description: "### Besni Kalesi: Tarihin ve Mirasın Semtinde..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Eski_Besni_16_04_2004_Ulu_Cami-Minarett_mit_Burgberg.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.8638344,37.6729736"
 draft: "false"
 weight: "999"

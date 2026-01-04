@@ -5,10 +5,10 @@ slug: "pisili-hoca-camii"
 description: "## Pisili Hoca Camii: Menteşe'nin tarihi bir güzelliği..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.2776566,37.190506"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eribolum"
 description: "**Eribolum Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8944,40.6939"
 draft: "false"
 weight: "999"

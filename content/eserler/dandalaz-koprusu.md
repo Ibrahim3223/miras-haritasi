@@ -5,10 +5,10 @@ slug: "dandalaz-koprusu"
 description: "## Dandalaz Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.6350708,37.7346115"
 draft: "false"
 weight: "999"

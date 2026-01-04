@@ -5,10 +5,10 @@ slug: "burdur-doga-tarihi-muzesi"
 description: "## Burdur Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.2811127,37.7140274"
 draft: "false"
 weight: "999"

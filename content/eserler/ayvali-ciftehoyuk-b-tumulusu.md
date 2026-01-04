@@ -5,10 +5,10 @@ slug: "ayvali-ciftehoyuk-b-tumulusu"
 description: "## Ayvalı Çiftehöyük B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2932892,41.4383621"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gorumlu-koprusu"
 description: "## Görümlü Köprüsü: Silopi'nin Tarihî Mirası..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Silopi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.5689011,37.3402061"
 draft: "false"
 weight: "999"

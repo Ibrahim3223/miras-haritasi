@@ -5,10 +5,10 @@ slug: "kimisis-kilisesi"
 description: "**Kimisis Kilisesi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.9073009,40.2220001"
 draft: "false"
 weight: "999"

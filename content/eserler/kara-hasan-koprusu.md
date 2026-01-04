@@ -5,10 +5,10 @@ slug: "kara-hasan-koprusu"
 description: "## Kara Hasan Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5506897,38.7220459"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasbek-kumbet-camii"
 description: "## Hasbek Kümbet Camii: Kayseri'nin Tarihi Bir Anıt..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4814644,38.7225838"
 draft: "false"
 weight: "999"

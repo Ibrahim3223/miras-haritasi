@@ -5,10 +5,10 @@ slug: "alanya-tophane-burcu"
 description: "## Alanya Tophane Burcu: Alanya'nın Tarihî Bir Göze Kattığı Kale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Kale_burcu.jpg/1200px-Kale_burcu.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "31.9975147,36.5346031"
 draft: "false"
 weight: "10"

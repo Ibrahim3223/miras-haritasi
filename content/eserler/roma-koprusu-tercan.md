@@ -5,10 +5,10 @@ slug: "roma-koprusu-tercan"
 description: "## Roma Köprüsü, Tercan..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Tercan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.4202093,39.7799299"
 draft: "false"
 weight: "999"

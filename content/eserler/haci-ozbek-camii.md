@@ -5,10 +5,10 @@ slug: "haci-ozbek-camii"
 description: "### Hacı Özbek Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Hacı_Özbek_Camii.jpg/1200px-Hacı_Özbek_Camii.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.08083333,40.18111111"
 draft: "false"
 weight: "10"

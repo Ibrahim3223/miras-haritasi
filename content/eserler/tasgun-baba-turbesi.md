@@ -5,10 +5,10 @@ slug: "tasgun-baba-turbesi"
 description: "## Taşgun Baba Türbesi: Altınekin'in Gizli Çağı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Altınekin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.7124901,38.331234"
 draft: "false"
 weight: "999"

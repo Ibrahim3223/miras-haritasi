@@ -5,10 +5,10 @@ slug: "cucusos"
 description: "### Cucusos: Göksun'un Gizemi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Göksun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.49834,38.0315"
 draft: "false"
 weight: "999"

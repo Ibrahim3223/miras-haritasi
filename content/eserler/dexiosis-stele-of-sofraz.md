@@ -5,10 +5,10 @@ slug: "dexiosis-stele-of-sofraz"
 description: "## Dexiosis Stelesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZeugmaMuseum2.jpg/1200px-ZeugmaMuseum2.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

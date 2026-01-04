@@ -5,10 +5,10 @@ slug: "cana-sinagogu"
 description: "### Çana Sinagogu Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.947194444,41.032777777"
 draft: "false"
 weight: "999"

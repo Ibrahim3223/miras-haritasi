@@ -5,10 +5,10 @@ slug: "iskome"
 description: "## İskome: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.027724,39.057144"
 draft: "false"
 weight: "999"

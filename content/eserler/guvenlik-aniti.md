@@ -5,10 +5,10 @@ slug: "guvenlik-aniti"
 description: "## Güvenlik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Güven_Park_and_Güven_Monument_(The_Monument_of_Safety),_1940s_(17060228996).jpg/1200px-Güven_Park_and_Güven_Monument_(The_Monument_of_Safety),_1940s_(17060228996).jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.85336944,39.91998889"
 draft: "false"
 weight: "10"

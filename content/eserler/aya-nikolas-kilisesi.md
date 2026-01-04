@@ -5,10 +5,10 @@ slug: "aya-nikolas-kilisesi"
 description: "## Aya Nikolas Kilisesi..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.3312988,41.6362"
 draft: "false"
 weight: "999"

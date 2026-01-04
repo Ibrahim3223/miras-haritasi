@@ -5,10 +5,10 @@ slug: "odabasi-behruz-aga-hamami"
 description: "### Odabaşı Behruz Ağa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9319611,41.0120087"
 draft: "false"
 weight: "999"

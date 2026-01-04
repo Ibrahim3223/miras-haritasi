@@ -5,10 +5,10 @@ slug: "alpaslan-mescidi"
 description: "### Alpaslan Mescidi: İzmir'in Tarihî Bir Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Alpaslan_Camii%2C_2019_01.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.367918,37.9511375"
 draft: "false"
 weight: "999"

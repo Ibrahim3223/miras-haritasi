@@ -5,10 +5,10 @@ slug: "sehabeddin-suhreverdi-camii"
 description: "## Şehabeddin Sühreverdi Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

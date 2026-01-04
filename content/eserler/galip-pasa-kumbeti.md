@@ -5,10 +5,10 @@ slug: "galip-pasa-kumbeti"
 description: "**Galip Paşa Kümbeti**..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.3446312,38.5022659"
 draft: "false"
 weight: "999"

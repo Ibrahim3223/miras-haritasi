@@ -5,10 +5,10 @@ slug: "ahi-evren-camii-ortahisar"
 description: "## Ahi Evren Camii, Ortahisar..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.735114,40.996853"
 draft: "false"
 weight: "999"

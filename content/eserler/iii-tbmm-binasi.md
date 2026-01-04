@@ -5,10 +5,10 @@ slug: "iii-tbmm-binasi"
 description: "## III. TBMM Binası: Ankara'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Süleyman_Demirel_Funeral_1.jpg/1200px-Süleyman_Demirel_Funeral_1.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "32.851111111,39.911666666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "elmadag-koprusu"
 description: "**Elmadağ Köprüsü: Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.4153247,39.869811"
 draft: "false"
 weight: "999"

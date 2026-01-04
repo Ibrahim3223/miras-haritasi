@@ -5,10 +5,10 @@ slug: "mehmet-bey-camii-tire"
 description: "## Mehmet Bey Camii: Tire'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7393303,38.0843277"
 draft: "false"
 weight: "999"

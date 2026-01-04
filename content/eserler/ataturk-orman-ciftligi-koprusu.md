@@ -5,10 +5,10 @@ slug: "ataturk-orman-ciftligi-koprusu"
 description: "## Atatürk Orman Çiftliği Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.7920227,39.949337"
 draft: "false"
 weight: "999"

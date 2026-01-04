@@ -5,10 +5,10 @@ slug: "canakkale-kent-muzesi"
 description: "## Çanakkale Kent Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Çanakkale_Kent_Müzesi_(30072023)_-_53080692996.jpg/1200px-Çanakkale_Kent_Müzesi_(30072023)_-_53080692996.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.400813,40.148547"
 draft: "false"
 weight: "10"

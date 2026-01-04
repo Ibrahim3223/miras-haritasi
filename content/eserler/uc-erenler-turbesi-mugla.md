@@ -5,10 +5,10 @@ slug: "uc-erenler-turbesi-mugla"
 description: "### Üç Erenler Türbesi, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3614845,37.2180099"
 draft: "false"
 weight: "999"

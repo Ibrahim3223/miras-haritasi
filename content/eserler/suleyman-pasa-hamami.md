@@ -5,10 +5,10 @@ slug: "suleyman-pasa-hamami"
 description: "### Süleyman Paşa Hamamı: Kocaeli'nin Tarihi bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.92068,40.766978"
 draft: "false"
 weight: "999"

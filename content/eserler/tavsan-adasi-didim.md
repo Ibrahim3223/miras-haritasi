@@ -5,10 +5,10 @@ slug: "tavsan-adasi-didim"
 description: "## Tavşan Adası, Didim: Bir Arkeolojik Mirasın Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.216217,37.41975"
 draft: "false"
 weight: "999"

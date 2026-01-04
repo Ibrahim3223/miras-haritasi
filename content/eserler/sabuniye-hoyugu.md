@@ -5,10 +5,10 @@ slug: "sabuniye-hoyugu"
 description: "**Sabuniye Höyüğü: Hatay'ın Gizli Kutsal Yerleri Arasındaki Bir Kahraman**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

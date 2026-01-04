@@ -5,10 +5,10 @@ slug: "myonnesus"
 description: "### Myonnesus Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.855,38.04583333"
 draft: "false"
 weight: "999"

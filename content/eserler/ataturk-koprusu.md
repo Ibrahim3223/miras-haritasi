@@ -5,10 +5,10 @@ slug: "ataturk-koprusu"
 description: "### Atatürk Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Isstamboul_-_Pont_Unkapani.jpg/1200px-Isstamboul_-_Pont_Unkapani.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.96531,41.02424"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "musalla-mescidi-urla"
 description: "## Musalla Mescidi, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.768528,38.3179436"
 draft: "false"
 weight: "999"

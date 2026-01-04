@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-kulliyesi-kutuphanesi"
 description: "**Çoban Mustafa Paşa Külliyesi Kütüphanesi**..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.4311447,40.799572"
 draft: "false"
 weight: "999"

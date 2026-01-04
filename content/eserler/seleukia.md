@@ -5,10 +5,10 @@ slug: "seleukia"
 description: "## Seleukia: Antik Çağın Efsanevi Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Seleukia(Turkey)2012.jpg/1200px-Seleukia(Turkey)2012.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.47555278,36.873725"
 draft: "false"
 weight: "10"

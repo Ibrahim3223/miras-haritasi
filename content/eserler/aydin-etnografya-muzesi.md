@@ -5,10 +5,10 @@ slug: "aydin-etnografya-muzesi"
 description: "## Aydın Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Karacasu_Etnografya_Muzesi-2008-09-27.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.608553238,37.729734769"
 draft: "false"
 weight: "999"

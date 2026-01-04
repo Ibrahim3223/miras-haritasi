@@ -5,10 +5,10 @@ slug: "hinis-ulu-camii"
 description: "## Hınıs Ulu Camii..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: '["Erzurum Vilayeti"]'
+iller: ["Erzurum Vilayeti"]
 district: "Hınıs"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.695444444,39.358777777"
 draft: "false"
 weight: "999"

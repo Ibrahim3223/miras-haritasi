@@ -5,10 +5,10 @@ slug: "magazberd-kalesi"
 description: "### Mağazberd Kalesi: Kars'ın Göçer Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Digor"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.5413437,40.4752159"
 draft: "false"
 weight: "999"

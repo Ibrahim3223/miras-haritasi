@@ -5,10 +5,10 @@ slug: "karahoyuk-acipayam"
 description: "## Karahöyük Arkeolojik Sit, Acıpayam..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4053364,37.507103"
 draft: "false"
 weight: "999"

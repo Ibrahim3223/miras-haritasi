@@ -5,10 +5,10 @@ slug: "seyh-seref-turbesi"
 description: "### Şeyh Şeref Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.408226,37.711483"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zaganos-pasa-turbesi"
 description: "### Zağanos Paşa Türbesi: Karesi'nin Değerli Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8801155,39.6485939"
 draft: "false"
 weight: "999"

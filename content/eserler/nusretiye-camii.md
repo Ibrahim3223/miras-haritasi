@@ -5,10 +5,10 @@ slug: "nusretiye-camii"
 description: "## Nusretiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Nusretiye_Mosque_-_March_2022.jpg/1200px-Nusretiye_Mosque_-_March_2022.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.98316111,41.02732778"
 draft: "false"
 weight: "10"

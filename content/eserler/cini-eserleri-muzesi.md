@@ -5,10 +5,10 @@ slug: "cini-eserleri-muzesi"
 description: "### Çini Eserleri Müzesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

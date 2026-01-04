@@ -5,10 +5,10 @@ slug: "kleimaks"
 description: "# Kleimaks Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.893729,38.050575"
 draft: "false"
 weight: "999"

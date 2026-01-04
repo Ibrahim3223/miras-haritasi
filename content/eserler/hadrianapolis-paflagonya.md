@@ -5,10 +5,10 @@ slug: "hadrianapolis-paflagonya"
 description: "# Hadrianapolis (Paflagonya)..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Eskipazar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.49133333,40.92577778"
 draft: "false"
 weight: "999"

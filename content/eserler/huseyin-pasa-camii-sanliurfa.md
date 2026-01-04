@@ -5,10 +5,10 @@ slug: "huseyin-pasa-camii-sanliurfa"
 description: "## Hüseyin Paşa Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7906113,37.1526299"
 draft: "false"
 weight: "999"

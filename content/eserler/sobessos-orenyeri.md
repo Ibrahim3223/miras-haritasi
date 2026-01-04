@@ -5,10 +5,10 @@ slug: "sobessos-orenyeri"
 description: "### Sobessos Örenyeri: Ürgüp'ün Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

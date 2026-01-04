@@ -5,10 +5,10 @@ slug: "aptera"
 description: "## Aptera: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Aptera_Bath_and_cisterns.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

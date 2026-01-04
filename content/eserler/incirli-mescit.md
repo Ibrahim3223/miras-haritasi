@@ -5,10 +5,10 @@ slug: "incirli-mescit"
 description: "## İncirli Mescit: İzmir'in Tarihi Bir Camisi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1784,39.1203003"
 draft: "false"
 weight: "999"

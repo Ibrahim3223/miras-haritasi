@@ -5,10 +5,10 @@ slug: "domurcali-kizilhoyuk-tumulusu"
 description: "## Domurcalı Kızılhöyük Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7996616,41.824707"
 draft: "false"
 weight: "999"

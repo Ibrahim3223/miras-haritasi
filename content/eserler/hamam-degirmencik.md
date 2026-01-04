@@ -5,10 +5,10 @@ slug: "hamam-degirmencik"
 description: "## Değirmencik Hamamı: Kırklareli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2083321,41.6029587"
 draft: "false"
 weight: "999"

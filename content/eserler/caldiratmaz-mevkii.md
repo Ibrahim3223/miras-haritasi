@@ -5,10 +5,10 @@ slug: "caldiratmaz-mevkii"
 description: "## Çaldıratmaz Mevkii: Afyonkarahisar'ın Gizli Zenginliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.081349,38.722353"
 draft: "false"
 weight: "999"

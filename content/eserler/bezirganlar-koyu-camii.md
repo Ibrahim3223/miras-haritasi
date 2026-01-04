@@ -5,10 +5,10 @@ slug: "bezirganlar-koyu-camii"
 description: "# Bezirganlar Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7213993,39.909626"
 draft: "false"
 weight: "999"

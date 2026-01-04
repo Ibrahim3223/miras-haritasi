@@ -5,10 +5,10 @@ slug: "altinyayla-stele"
 description: "## Altınyayla Stelesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Stele_Altınyayla_02.jpg/1200px-Stele_Altınyayla_02.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

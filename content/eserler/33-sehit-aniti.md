@@ -5,10 +5,10 @@ slug: "33-sehit-aniti"
 description: "## 33 Şehit Anıtı: Kıbrıs Savaşı'nın Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/33_Şehit_Anıtı_Bingöl_1.jpg/1200px-33_Şehit_Anıtı_Bingöl_1.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.361506,38.928971"
 draft: "false"
 weight: "10"

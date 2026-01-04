@@ -5,10 +5,10 @@ slug: "pisyar-koprusu"
 description: "**Pisyar Köprüsü**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.520695,38.193405"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-izzettin-turbesi-altindag"
 description: "## Şeyh İzzettin Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8601608,39.9441071"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yenikoy-surp-asdvadzadzin-kilisesi"
 description: "## Yeniköy Surp Asdvadzadzin Kilisesi: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.062207,41.117167"
 draft: "false"
 weight: "999"

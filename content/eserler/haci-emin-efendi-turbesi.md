@@ -5,10 +5,10 @@ slug: "haci-emin-efendi-turbesi"
 description: "## Hacı Emin Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hacı_Emin_Efendi_Türbesi.jpg/1200px-Hacı_Emin_Efendi_Türbesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.691804,41.247046"
 draft: "false"
 weight: "10"

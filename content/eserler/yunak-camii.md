@@ -5,10 +5,10 @@ slug: "yunak-camii"
 description: "## Yunak Camii: Geçmişten Geleceğe Yönelik Bir Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.9056473,38.6335564"
 draft: "false"
 weight: "999"

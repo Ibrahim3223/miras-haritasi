@@ -5,10 +5,10 @@ slug: "seyh-ali-sebdi-turbesi"
 description: "### Şeyh Ali Sebdi Türbesi: Palu'nun Gözdeleri..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.9674492,38.697525"
 draft: "false"
 weight: "999"

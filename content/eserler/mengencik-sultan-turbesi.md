@@ -5,10 +5,10 @@ slug: "mengencik-sultan-turbesi"
 description: "## Mengencik Sultan Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Kaynaşlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.241693,40.779078"
 draft: "false"
 weight: "999"

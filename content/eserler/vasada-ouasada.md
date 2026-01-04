@@ -5,10 +5,10 @@ slug: "vasada-ouasada"
 description: "## Vasada / Ouasada: Seydişehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.914438,37.504859"
 draft: "false"
 weight: "999"

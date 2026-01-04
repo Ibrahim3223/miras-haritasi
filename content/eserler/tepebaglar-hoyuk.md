@@ -5,10 +5,10 @@ slug: "tepebaglar-hoyuk"
 description: "## Tepebağlar Höyük: Manisa'nın Gizli Ödülleri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.694683,38.8569"
 draft: "false"
 weight: "999"

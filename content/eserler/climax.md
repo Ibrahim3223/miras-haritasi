@@ -5,10 +5,10 @@ slug: "climax"
 description: "## Climax: Geçmişin Gizemli Kalıntıları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0439567,41.9310816"
 draft: "false"
 weight: "999"

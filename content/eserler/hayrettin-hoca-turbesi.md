@@ -5,10 +5,10 @@ slug: "hayrettin-hoca-turbesi"
 description: "## Hayrettin Hoca Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8790531,39.6529694"
 draft: "false"
 weight: "999"

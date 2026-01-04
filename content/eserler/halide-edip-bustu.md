@@ -5,10 +5,10 @@ slug: "halide-edip-bustu"
 description: "## Halide Edip Büstü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.977618,41.008108"
 draft: "false"
 weight: "999"

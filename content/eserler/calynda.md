@@ -5,10 +5,10 @@ slug: "calynda"
 description: "## Calynda Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.835859,36.750652"
 draft: "false"
 weight: "999"

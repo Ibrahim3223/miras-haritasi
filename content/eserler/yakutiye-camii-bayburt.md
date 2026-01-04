@@ -5,10 +5,10 @@ slug: "yakutiye-camii-bayburt"
 description: "## Yakutiye Camii: Bayburt'un Tarihi Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Yakutiye_Camii_(Bayburt).jpg/1200px-Yakutiye_Camii_(Bayburt).jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2267723,40.2599602"
 draft: "false"
 weight: "10"

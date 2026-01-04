@@ -5,10 +5,10 @@ slug: "guzelce-koprusu"
 description: "### Güzelce Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.052820009,40.261733818"
 draft: "false"
 weight: "999"

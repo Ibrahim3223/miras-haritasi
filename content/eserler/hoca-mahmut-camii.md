@@ -5,10 +5,10 @@ slug: "hoca-mahmut-camii"
 description: "### Karaman'da Tarih ve Güzellik: Hoca Mahmut Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2238159,37.1797333"
 draft: "false"
 weight: "999"

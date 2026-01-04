@@ -5,10 +5,10 @@ slug: "cifte-kumbet"
 description: "### Çifte Kümbet: Bir Anıtın Tarihî Özellikleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.5304645,38.7338568"
 draft: "false"
 weight: "999"

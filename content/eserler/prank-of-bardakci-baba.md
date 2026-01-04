@@ -5,10 +5,10 @@ slug: "prank-of-bardakci-baba"
 description: "## Prank of Bardakçı Baba Anıtını Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Location_of_Bardakçı_Baba_Tomb_01.jpg/1200px-Location_of_Bardakçı_Baba_Tomb_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.998,41.0584"
 draft: "false"
 weight: "10"

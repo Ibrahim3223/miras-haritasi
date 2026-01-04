@@ -5,10 +5,10 @@ slug: "pedesa-t29-tumulusu"
 description: "## Pedesa T29 Tümülüsü: Bodrum'un Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.425067386,37.060270331"
 draft: "false"
 weight: "999"

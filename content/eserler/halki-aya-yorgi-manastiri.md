@@ -5,10 +5,10 @@ slug: "halki-aya-yorgi-manastiri"
 description: "## Halkı Aya Yorgi Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.098556004,40.871688121"
 draft: "false"
 weight: "999"

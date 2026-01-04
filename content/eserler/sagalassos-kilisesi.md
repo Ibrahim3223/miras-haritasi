@@ -5,10 +5,10 @@ slug: "sagalassos-kilisesi"
 description: "**Sagalassos Kilisesi**..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.517639,37.675694"
 draft: "false"
 weight: "999"

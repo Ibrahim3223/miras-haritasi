@@ -5,10 +5,10 @@ slug: "ahmet-semseddin-i-marmaravi-turbesi"
 description: "## Ahmet Şemseddin-i Marmaravi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4279,38.6085"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kultepe-hoyugu-congar"
 description: "## Kültepe Höyüğü, Çongar: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Delice"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9117189,39.8629666"
 draft: "false"
 weight: "999"

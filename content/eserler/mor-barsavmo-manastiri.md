@@ -5,10 +5,10 @@ slug: "mor-barsavmo-manastiri"
 description: "### Mor Barsavmo Manastırı..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.6285515,37.305542"
 draft: "false"
 weight: "999"

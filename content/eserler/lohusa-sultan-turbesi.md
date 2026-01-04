@@ -5,10 +5,10 @@ slug: "lohusa-sultan-turbesi"
 description: "## Lohusa Sultan Türbesi: Beyoğlu'ndaki Bir Hazine..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lohusa_Sultan_Türbesi_08.jpg/1200px-Lohusa_Sultan_Türbesi_08.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.970634,41.028377"
 draft: "false"
 weight: "10"

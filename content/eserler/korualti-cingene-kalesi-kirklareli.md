@@ -5,10 +5,10 @@ slug: "korualti-cingene-kalesi-kirklareli"
 description: "## Korualtı Çingene Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8262577,41.7069511"
 draft: "false"
 weight: "999"

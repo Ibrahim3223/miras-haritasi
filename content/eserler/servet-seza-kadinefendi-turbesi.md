@@ -5,10 +5,10 @@ slug: "servet-seza-kadinefendi-turbesi"
 description: "## Servet Seza Kadınefendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9519691,41.0264282"
 draft: "false"
 weight: "999"

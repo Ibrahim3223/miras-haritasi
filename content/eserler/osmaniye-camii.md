@@ -5,10 +5,10 @@ slug: "osmaniye-camii"
 description: "**Osmaniye Camii**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1707306,36.2021294"
 draft: "false"
 weight: "999"

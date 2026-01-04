@@ -5,10 +5,10 @@ slug: "yenikoy-hoyugu"
 description: "## Yeniköy Höyüğü: Tokat'ta Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0768404,40.2480575"
 draft: "false"
 weight: "999"

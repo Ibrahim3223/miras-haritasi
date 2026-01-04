@@ -5,10 +5,10 @@ slug: "karakaya-hamami"
 description: "## Karakaya Hamamı: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.3322182,40.0203781"
 draft: "false"
 weight: "999"

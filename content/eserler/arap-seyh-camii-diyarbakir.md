@@ -5,10 +5,10 @@ slug: "arap-seyh-camii-diyarbakir"
 description: "## Arap Şeyh Camii, Diyarbakır..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2434006,37.9093971"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-taarruz-sehitligi"
 description: "### Büyük Taarruz Şehitliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.38575,38.79089"
 draft: "false"
 weight: "999"

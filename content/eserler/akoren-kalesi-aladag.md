@@ -5,10 +5,10 @@ slug: "akoren-kalesi-aladag"
 description: "**Akören Kalesi: Aladağ'ın Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: '["Akdeniz Bölgesi"]'
+iller: ["Akdeniz Bölgesi"]
 district: "Aladağ"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.4596329,37.4483566"
 draft: "false"
 weight: "999"

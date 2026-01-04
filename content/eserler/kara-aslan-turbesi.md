@@ -5,10 +5,10 @@ slug: "kara-aslan-turbesi"
 description: "### Kara Aslan Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.224211,40.469253"
 draft: "false"
 weight: "999"

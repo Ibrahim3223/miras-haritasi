@@ -5,10 +5,10 @@ slug: "sehir-hamami"
 description: "## Şehir Hamamı: Kırşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.1541908,39.1459962"
 draft: "false"
 weight: "999"

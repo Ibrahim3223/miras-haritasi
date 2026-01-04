@@ -5,10 +5,10 @@ slug: "perinthos-antik-tiyatrosu"
 description: "### Perinthos Antik Tiyatrosu: Marmara Bölgesi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9616,40.966122"
 draft: "false"
 weight: "999"

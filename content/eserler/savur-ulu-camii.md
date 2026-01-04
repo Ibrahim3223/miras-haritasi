@@ -5,10 +5,10 @@ slug: "savur-ulu-camii"
 description: "## Savur Ulu Camii: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.887472222,37.538666666"
 draft: "false"
 weight: "999"

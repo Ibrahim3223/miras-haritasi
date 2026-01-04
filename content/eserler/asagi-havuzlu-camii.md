@@ -5,10 +5,10 @@ slug: "asagi-havuzlu-camii"
 description: "### Aşağı Havuzlu Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7121,40.889"
 draft: "false"
 weight: "999"

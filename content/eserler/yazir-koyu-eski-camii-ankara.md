@@ -5,10 +5,10 @@ slug: "yazir-koyu-eski-camii-ankara"
 description: "### Yazır Köyü Eski Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.975111429,40.185289169"
 draft: "false"
 weight: "999"

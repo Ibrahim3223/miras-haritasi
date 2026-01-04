@@ -5,10 +5,10 @@ slug: "kaleici-muzesi"
 description: "## Kaleiçi Müzesi: Kıbrıs'ın Tarihsel ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.7073,36.8842"
 draft: "false"
 weight: "999"

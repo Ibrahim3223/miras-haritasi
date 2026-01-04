@@ -5,10 +5,10 @@ slug: "hassek-hoyuk"
 description: "## Hassek Höyük: Şanlıurfa'da Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

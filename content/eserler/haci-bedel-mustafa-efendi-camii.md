@@ -5,10 +5,10 @@ slug: "haci-bedel-mustafa-efendi-camii"
 description: "## Hacı Bedel Mustafa Efendi Camii: Üsküdar'da Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.018833333,41.019833333"
 draft: "false"
 weight: "999"

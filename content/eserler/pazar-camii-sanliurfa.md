@@ -5,10 +5,10 @@ slug: "pazar-camii-sanliurfa"
 description: "## Pazar Camii: Şanlıurfa'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.790451,37.1487999"
 draft: "false"
 weight: "999"

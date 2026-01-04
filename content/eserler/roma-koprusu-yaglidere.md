@@ -5,10 +5,10 @@ slug: "roma-koprusu-yaglidere"
 description: "## Roma Köprüsü, Yağlıdere..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.519032,40.506016"
 draft: "false"
 weight: "999"

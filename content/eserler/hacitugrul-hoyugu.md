@@ -5,10 +5,10 @@ slug: "hacitugrul-hoyugu"
 description: "**Hacıtuğrul Höyüğü: Polatlı'da Eski Çağın Gizemi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.221096,39.7077942"
 draft: "false"
 weight: "999"

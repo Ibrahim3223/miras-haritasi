@@ -5,10 +5,10 @@ slug: "choria"
 description: "## Choria: Geçmişin Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.87828,38.77591"
 draft: "false"
 weight: "999"

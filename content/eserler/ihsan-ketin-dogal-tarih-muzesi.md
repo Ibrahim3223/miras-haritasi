@@ -5,10 +5,10 @@ slug: "ihsan-ketin-dogal-tarih-muzesi"
 description: "## İhsan Ketin Doğal Tarih Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.026111111,41.104722222"
 draft: "false"
 weight: "999"

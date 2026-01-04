@@ -5,10 +5,10 @@ slug: "pervizoglu-medresesi"
 description: "### Pervizoğlu Medresesi: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "41.2745171,39.9093819"
 draft: "false"
 weight: "999"

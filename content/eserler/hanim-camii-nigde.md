@@ -5,10 +5,10 @@ slug: "hanim-camii-nigde"
 description: "## Hanım Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6805229,37.9653473"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kuva-i-milliye-muzesi"
 description: "### Kuva-i Milliye Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

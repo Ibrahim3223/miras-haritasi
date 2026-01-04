@@ -5,10 +5,10 @@ slug: "soka"
 description: "# Soka Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.870564,40.878091"
 draft: "false"
 weight: "999"

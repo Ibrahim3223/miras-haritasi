@@ -5,10 +5,10 @@ slug: "halvet-baba-turbesi"
 description: "## Halvet Baba Türbesi: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2416763,37.9143257"
 draft: "false"
 weight: "999"

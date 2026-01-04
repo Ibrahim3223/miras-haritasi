@@ -5,10 +5,10 @@ slug: "dantel-muzesi"
 description: "## Dantel Müzesi: Kastamonu'nun Gizli Özerklik Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7645111,41.3662758"
 draft: "false"
 weight: "999"

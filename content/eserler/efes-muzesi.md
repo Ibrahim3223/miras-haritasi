@@ -5,10 +5,10 @@ slug: "efes-muzesi"
 description: "## Efes Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/EfesMuseumEingang.jpg/1200px-EfesMuseumEingang.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.367854,37.948994"
 draft: "false"
 weight: "10"

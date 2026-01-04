@@ -5,10 +5,10 @@ slug: "ataturk-aniti-bafra"
 description: "## Atatürk Anıtı, Bafra..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.903134,41.568097"
 draft: "false"
 weight: "999"

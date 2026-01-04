@@ -5,10 +5,10 @@ slug: "surgutus-zivin-kalesi"
 description: "## Sürgütüs Zivin Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Sarıkamış"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.275434,40.234624"
 draft: "false"
 weight: "999"

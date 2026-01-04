@@ -5,10 +5,10 @@ slug: "sehit-muftu-mustafa-bey-kabri"
 description: "## Şehit Müftü Mustafa Bey Kabri..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4560127,41.1424637"
 draft: "false"
 weight: "999"

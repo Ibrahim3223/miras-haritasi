@@ -5,10 +5,10 @@ slug: "karakopru-yenisehir"
 description: "# Karaköprü, Yenişehir: Tarihi ve Kültürel Önemleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Yenişehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.141471,38.067032"
 draft: "false"
 weight: "999"

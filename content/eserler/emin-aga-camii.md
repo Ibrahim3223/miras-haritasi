@@ -5,10 +5,10 @@ slug: "emin-aga-camii"
 description: "**Emin Ağa Camii**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8781776,39.6509781"
 draft: "false"
 weight: "999"

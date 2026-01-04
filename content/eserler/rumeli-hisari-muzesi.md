@@ -5,10 +5,10 @@ slug: "rumeli-hisari-muzesi"
 description: "## Rumeli Hisarı Müzesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0566616,41.085125"
 draft: "false"
 weight: "999"

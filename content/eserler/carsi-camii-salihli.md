@@ -5,10 +5,10 @@ slug: "carsi-camii-salihli"
 description: "## Çarşı Camii, Salihli..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1413822,38.4867172"
 draft: "false"
 weight: "999"

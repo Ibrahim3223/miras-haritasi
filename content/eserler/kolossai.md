@@ -5,10 +5,10 @@ slug: "kolossai"
 description: "## Kolossai Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/TR_Colossae_site_asv2020-02_img08.jpg/1200px-TR_Colossae_site_asv2020-02_img08.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1075,37.835833333"
 draft: "false"
 weight: "10"

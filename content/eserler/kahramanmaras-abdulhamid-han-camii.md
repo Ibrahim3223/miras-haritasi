@@ -5,10 +5,10 @@ slug: "kahramanmaras-abdulhamid-han-camii"
 description: "## Kahramanmaraş Abdülhamid Han Camii..."
 featured_image: ""
 province: "Onikişubat"
-iller: '["Onikişubat"]'
+iller: ["Onikişubat"]
 district: "Abdülhamid Han"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.909666666,37.581027777"
 draft: "false"
 weight: "999"

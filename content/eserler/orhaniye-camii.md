@@ -5,10 +5,10 @@ slug: "orhaniye-camii"
 description: "### Orhaniye Camii..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1693192,36.2038612"
 draft: "false"
 weight: "999"

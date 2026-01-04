@@ -5,10 +5,10 @@ slug: "koca-mehmed-pasa-camii"
 description: "## Koca Mehmed Paşa Camii: Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucukcekmece-koprusu"
 description: "### Küçükçekmece Köprüsü: Tarihî ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/KüçükçekmeceBridge_(2).jpg/1200px-KüçükçekmeceBridge_(2).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.77006,40.98917"
 draft: "false"
 weight: "10"

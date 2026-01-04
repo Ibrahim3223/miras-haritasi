@@ -5,10 +5,10 @@ slug: "aziziye-camlik-ortaklar-eski-demiryolu-koprusu"
 description: "## Aziziye (Çamlık) – Ortaklar Eski Demiryolu Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4346848,37.8812485"
 draft: "false"
 weight: "999"

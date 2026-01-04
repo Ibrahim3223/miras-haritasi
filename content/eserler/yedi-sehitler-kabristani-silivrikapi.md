@@ -5,10 +5,10 @@ slug: "yedi-sehitler-kabristani-silivrikapi"
 description: "### Yedi Şehitler Kabristanı, Silivrikapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9254551,41.0038414"
 draft: "false"
 weight: "999"

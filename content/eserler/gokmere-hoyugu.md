@@ -5,10 +5,10 @@ slug: "gokmere-hoyugu"
 description: "## Gökmere Höyüğü: Konya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0242318,39.0707144"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akaretler-mustafa-kemal-muzesi"
 description: "**Akaretler Mustafa Kemal Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0022907,41.0423012"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sazak-koprusu"
 description: "## Sazak Köprüsü: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Taşkent"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5329437,36.9502869"
 draft: "false"
 weight: "999"

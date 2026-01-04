@@ -5,10 +5,10 @@ slug: "mezar-alti-hoyuk"
 description: "**Mezar Altı Höyük: Bir Arkeolojik Harika**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2936891,39.6440774"
 draft: "false"
 weight: "999"

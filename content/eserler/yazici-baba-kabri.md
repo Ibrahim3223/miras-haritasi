@@ -5,10 +5,10 @@ slug: "yazici-baba-kabri"
 description: "## Yazıcı Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.94569,41.030477"
 draft: "false"
 weight: "999"

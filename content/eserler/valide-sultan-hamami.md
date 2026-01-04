@@ -5,10 +5,10 @@ slug: "valide-sultan-hamami"
 description: "### Valide Sultan Hamamı: İstanbul'un Tarihi ve Kültürel Miraslarından biri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9835072,41.0131569"
 draft: "false"
 weight: "999"

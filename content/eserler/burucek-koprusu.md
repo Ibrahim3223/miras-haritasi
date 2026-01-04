@@ -5,10 +5,10 @@ slug: "burucek-koprusu"
 description: "## Bürücek Köprüsü: Şırnak'ta Bir Tarihî Köprü..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Şırnak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1795998,37.3845825"
 draft: "false"
 weight: "999"

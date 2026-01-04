@@ -5,10 +5,10 @@ slug: "aya-yorgi-karibi-manastiri"
 description: "### Aya Yorgi Karibi Manastırı: Adalar'ın Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0640411,40.884491"
 draft: "false"
 weight: "999"

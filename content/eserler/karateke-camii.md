@@ -5,10 +5,10 @@ slug: "karateke-camii"
 description: "### Karateke Camii: Honaz'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.218972,37.758897"
 draft: "false"
 weight: "999"

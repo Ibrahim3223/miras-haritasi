@@ -5,10 +5,10 @@ slug: "kula-bayiri-tumulusu"
 description: "## Kula Bayırı Tümülüsü: Bergama'nın Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2035351,39.1203804"
 draft: "false"
 weight: "999"

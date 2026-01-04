@@ -5,10 +5,10 @@ slug: "unye-kalesi-kaya-mezari"
 description: "## Ünye Kalesi Kaya Mezarı: Ünye'nin Gizli Mirası..."
 featured_image: ""
 province: "Ünye"
-iller: '["Ünye"]'
+iller: ["Ünye"]
 district: "Güzelkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.239583333,41.0965"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-otogar-camii"
 description: "### Eski Otogar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Eski_otogar_camii.jpg/1200px-Eski_otogar_camii.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.16958631,38.433887612"
 draft: "false"
 weight: "10"

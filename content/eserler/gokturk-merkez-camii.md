@@ -5,10 +5,10 @@ slug: "gokturk-merkez-camii"
 description: "## Göktürk Merkez Camii: Eyüp Sultan'da Bir Altın Çağın Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8899326,41.178688"
 draft: "false"
 weight: "999"

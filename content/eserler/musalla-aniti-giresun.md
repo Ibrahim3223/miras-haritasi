@@ -5,10 +5,10 @@ slug: "musalla-aniti-giresun"
 description: "### Musalla Anıtı: Giresun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.396141,40.916889"
 draft: "false"
 weight: "999"

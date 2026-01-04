@@ -5,10 +5,10 @@ slug: "uctepeler-b-tumulusu"
 description: "### Üçtepeler B Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.733448,41.5022659"
 draft: "false"
 weight: "999"

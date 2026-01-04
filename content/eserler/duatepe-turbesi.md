@@ -5,10 +5,10 @@ slug: "duatepe-turbesi"
 description: "# Duatepe Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.8940507,36.9127677"
 draft: "false"
 weight: "999"

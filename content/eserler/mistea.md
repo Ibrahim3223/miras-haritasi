@@ -5,10 +5,10 @@ slug: "mistea"
 description: "### Mistea Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.7261111,37.6763889"
 draft: "false"
 weight: "999"

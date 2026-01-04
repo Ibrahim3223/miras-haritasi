@@ -5,10 +5,10 @@ slug: "merdivenli-medrese"
 description: "## Merdivenli Medrese: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.1422997,38.4192009"
 draft: "false"
 weight: "999"

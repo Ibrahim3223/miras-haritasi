@@ -5,10 +5,10 @@ slug: "sogut-tarlasi-1"
 description: "### Söğüt Tarlası 1: Türkiye'nin Tarihî Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

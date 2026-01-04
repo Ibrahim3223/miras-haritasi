@@ -5,10 +5,10 @@ slug: "sinda-pisidya"
 description: "## Sinda (Pisidya): Tarihinin Gizemi ve Mimarisinin Büyüklüğü..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6045,37.120499"
 draft: "false"
 weight: "999"

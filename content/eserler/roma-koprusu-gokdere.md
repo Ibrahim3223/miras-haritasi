@@ -5,10 +5,10 @@ slug: "roma-koprusu-gokdere"
 description: "# Roma Köprüsü, Gökdere..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Boyabat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.7627577,41.4680385"
 draft: "false"
 weight: "999"

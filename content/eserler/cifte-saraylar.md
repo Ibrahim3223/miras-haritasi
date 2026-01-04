@@ -5,10 +5,10 @@ slug: "cifte-saraylar"
 description: "### Çifte Saraylar: Beyoğlu'ndaki Tarihî Bir Ören..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Twin_Palaces_-_Mimar_Sinan_Fine_Arts_University,_İstanbul_(13080310124).jpg/1200px-Twin_Palaces_-_Mimar_Sinan_Fine_Arts_University,_İstanbul_(13080310124).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.988863888,41.029661111"
 draft: "false"
 weight: "10"

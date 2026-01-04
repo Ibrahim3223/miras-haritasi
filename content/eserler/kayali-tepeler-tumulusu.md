@@ -5,10 +5,10 @@ slug: "kayali-tepeler-tumulusu"
 description: "### Kayalı Tepeler Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0734539,41.7719307"
 draft: "false"
 weight: "999"

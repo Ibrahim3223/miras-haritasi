@@ -5,10 +5,10 @@ slug: "tynna"
 description: "## Tynna Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.564162,37.520926"
 draft: "false"
 weight: "999"

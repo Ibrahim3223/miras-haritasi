@@ -5,10 +5,10 @@ slug: "meydan-aniti-kemalpasa"
 description: "## Meydan Anıtı, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4164772,38.4275627"
 draft: "false"
 weight: "999"

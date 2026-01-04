@@ -5,10 +5,10 @@ slug: "gorele-kemence-muzesi"
 description: "## Görele Kemençe Müzesi: Görele'nin Kültür İçi Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.9996109,41.0367661"
 draft: "false"
 weight: "999"

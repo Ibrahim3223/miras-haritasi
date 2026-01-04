@@ -5,10 +5,10 @@ slug: "mimar-acem-camii"
 description: "## Mimar Sinan'ın Yaratıcılığını Tanıklık Eden Mimar Acem Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9265,41.013611111"
 draft: "false"
 weight: "999"

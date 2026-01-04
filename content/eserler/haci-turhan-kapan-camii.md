@@ -5,10 +5,10 @@ slug: "haci-turhan-kapan-camii"
 description: "### Hacı Turhan Kapan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Hacı_Turhan_Kapan_Cami_-_panoramio_(4).jpg/1200px-Hacı_Turhan_Kapan_Cami_-_panoramio_(4).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.768861111,38.321555555"
 draft: "false"
 weight: "10"

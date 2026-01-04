@@ -5,10 +5,10 @@ slug: "malatya-yeni-camii"
 description: "# Malatya Yeni Camii: Türkiye'nin Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Malatya_Yeni_Camii_2008.jpg/1200px-Malatya_Yeni_Camii_2008.jpg"
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Malatya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3181,38.3495"
 draft: "false"
 weight: "10"

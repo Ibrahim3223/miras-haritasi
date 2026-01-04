@@ -5,10 +5,10 @@ slug: "kalkandere-koprusu"
 description: "## Kalkandere Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.441183,40.928167"
 draft: "false"
 weight: "999"

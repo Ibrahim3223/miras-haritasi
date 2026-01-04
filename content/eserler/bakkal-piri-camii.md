@@ -5,10 +5,10 @@ slug: "bakkal-piri-camii"
 description: "**Bakkal Piri Camii**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0881996,40.5021019"
 draft: "false"
 weight: "999"

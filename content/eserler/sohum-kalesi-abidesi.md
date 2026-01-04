@@ -5,10 +5,10 @@ slug: "sohum-kalesi-abidesi"
 description: "## Sohum Kalesi Abidesi: Fatih'te Bir Tarihi Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.984028,41.012348"
 draft: "false"
 weight: "999"

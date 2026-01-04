@@ -5,10 +5,10 @@ slug: "esad-efendi-kutuphanesi"
 description: "### Esad Efendi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9767456,41.0094337"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sizma-hoyuk"
 description: "### Sızma Höyük: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.4049824,38.0907282"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "goztepe-yalova-duz-yerlesmesi"
 description: "## Göztepe / Yalova Düz Yerleşmesi: Tarihinin Ortası ve İnsanların Yeri..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

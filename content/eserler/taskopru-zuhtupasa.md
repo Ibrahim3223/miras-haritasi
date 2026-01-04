@@ -5,10 +5,10 @@ slug: "taskopru-zuhtupasa"
 description: "## Taşköprü, Zühtüpaşa: Kadıköy'ün Tarihi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0363255,40.990509"
 draft: "false"
 weight: "999"

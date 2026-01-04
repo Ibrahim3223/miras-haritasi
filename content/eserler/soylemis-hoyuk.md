@@ -5,10 +5,10 @@ slug: "soylemis-hoyuk"
 description: "**Söylemiş Höyük: Bursa'nın Gizli Mirası**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.61195,40.232783"
 draft: "false"
 weight: "999"

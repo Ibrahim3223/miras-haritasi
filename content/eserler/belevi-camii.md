@@ -5,10 +5,10 @@ slug: "belevi-camii"
 description: "## Belevi Camii: Denizli'nin Tarihi Bir Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/73/Belevi1.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4036999,37.9165001"
 draft: "false"
 weight: "999"

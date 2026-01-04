@@ -5,10 +5,10 @@ slug: "corumi-mustafa-bey-camii"
 description: "## Çorumi Mustafa Bey Camii: Tekirdağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1066704,41.2129745"
 draft: "false"
 weight: "999"

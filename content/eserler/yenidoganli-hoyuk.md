@@ -5,10 +5,10 @@ slug: "yenidoganli-hoyuk"
 description: "### Yenidoğanlı Höyük: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3645251,39.3040882"
 draft: "false"
 weight: "999"

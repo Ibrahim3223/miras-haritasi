@@ -5,10 +5,10 @@ slug: "hamza-i-kebir-camii"
 description: "# Hamza-i Kebir Camii: Tarihi ve Kültürel Mirasın Ihtişamı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7509537,37.3163948"
 draft: "false"
 weight: "999"

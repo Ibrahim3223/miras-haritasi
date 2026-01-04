@@ -5,10 +5,10 @@ slug: "mengenlizade-ibrahim-aga-camii"
 description: "## Mengenlizade İbrahim Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Mengenlizade_İbrahim_Ağa_Mosque,_Marmaris,_Muğla.jpg/1200px-Mengenlizade_İbrahim_Ağa_Mosque,_Marmaris,_Muğla.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.274576197,36.851986328"
 draft: "false"
 weight: "10"

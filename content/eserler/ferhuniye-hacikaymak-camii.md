@@ -5,10 +5,10 @@ slug: "ferhuniye-hacikaymak-camii"
 description: "### Ferhuniye Hacıkaymak Camii: Konya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ferhuniye_Hacı_Kaymak_Cami_1.jpg/1200px-Ferhuniye_Hacı_Kaymak_Cami_1.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.490277777,37.877416666"
 draft: "false"
 weight: "10"

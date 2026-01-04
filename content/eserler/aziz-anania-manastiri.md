@@ -5,10 +5,10 @@ slug: "aziz-anania-manastiri"
 description: "## Aziz Anania Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/St_Anania_Monastery_Por_(Değirmenaltı)_DSCF7892.jpg/1200px-St_Anania_Monastery_Por_(Değirmenaltı)_DSCF7892.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Değirmenaltı"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.175,38.43"
 draft: "false"
 weight: "10"

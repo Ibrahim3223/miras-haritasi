@@ -5,10 +5,10 @@ slug: "ahi-serafeddin-turbesi"
 description: "# Ahi Şerafeddin Türbesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

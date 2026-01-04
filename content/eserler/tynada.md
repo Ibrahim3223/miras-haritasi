@@ -5,10 +5,10 @@ slug: "tynada"
 description: "### Tynada: Aksu, Isparta'daki Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.1607155,37.7554975"
 draft: "false"
 weight: "999"

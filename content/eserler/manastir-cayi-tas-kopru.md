@@ -5,10 +5,10 @@ slug: "manastir-cayi-tas-kopru"
 description: "### Manastır Çayı Taş Köprü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.8356514,39.5741234"
 draft: "false"
 weight: "999"

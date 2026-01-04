@@ -5,10 +5,10 @@ slug: "ahi-kerim-sultan-turbesi"
 description: "# Ahi Kerim Sultan Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4660568,40.8713417"
 draft: "false"
 weight: "999"

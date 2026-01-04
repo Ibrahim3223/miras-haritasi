@@ -5,10 +5,10 @@ slug: "karadere-kalesi-kirklareli"
 description: "## Karadere Kalesi: Türkiye'nin Gizli Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4268532,41.9061699"
 draft: "false"
 weight: "999"

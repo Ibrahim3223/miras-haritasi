@@ -5,10 +5,10 @@ slug: "margap-manastiri"
 description: "# Margap Manastırı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "38.3894691,38.3900337"
 draft: "false"
 weight: "999"

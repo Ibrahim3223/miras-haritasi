@@ -5,10 +5,10 @@ slug: "cesme-muzesi"
 description: "## Çeşme Müzesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Çeşme_Museum.jpg/1200px-Çeşme_Museum.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.303055555,38.323611111"
 draft: "false"
 weight: "10"

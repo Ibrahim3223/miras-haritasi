@@ -5,10 +5,10 @@ slug: "latmos"
 description: "### Latmos: Kapıkırı'daki Antik Miras..."
 featured_image: ""
 province: "Milas"
-iller: '["Milas"]'
+iller: ["Milas"]
 district: "Kapıkırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5386,37.5023"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kilise-2"
 description: "### Kilise 2: Enez'in Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.0813313,40.725975"
 draft: "false"
 weight: "999"

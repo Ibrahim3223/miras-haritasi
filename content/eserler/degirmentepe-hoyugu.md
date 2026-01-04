@@ -5,10 +5,10 @@ slug: "degirmentepe-hoyugu"
 description: "### Değirmentepe Höyüğü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0087166,39.5840569"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-semseddin-ahmet-kabri"
 description: "## Hoca Şemseddin Ahmet Kabri: İstanbul'un Fatih bölgesindeki bir kültürel miras anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9515839,41.0159225"
 draft: "false"
 weight: "999"

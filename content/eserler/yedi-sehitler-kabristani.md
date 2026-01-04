@@ -5,10 +5,10 @@ slug: "yedi-sehitler-kabristani"
 description: "## Yedi Şehitler Kabristanı: Zeytinburnu'da Bir Tarihsel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Yedi_Şehitler_Kabristanı_03.jpg/1200px-Yedi_Şehitler_Kabristanı_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.91757,40.99175"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mevlana-kulliyesi-dhil-i-ussk-bolumu"
 description: "# Mevlana Külliyesi Dâhil-i Uşşâk Bölümü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.5049095,37.8706398"
 draft: "false"
 weight: "999"

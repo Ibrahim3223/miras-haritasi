@@ -5,10 +5,10 @@ slug: "kumluca-rum-kilisesi"
 description: "## Kumluca Rum Kilisesi: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.6515236,37.9768982"
 draft: "false"
 weight: "999"

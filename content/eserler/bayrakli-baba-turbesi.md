@@ -5,10 +5,10 @@ slug: "bayrakli-baba-turbesi"
 description: "## Bayraklı Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Bayrakl%C4%B1_Baba_T%C3%BCrbesi_yukar%C4%B1dan_giri%C5%9F.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6799,40.41"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surb-zoravor-church-ahavank"
 description: "# Surb Zoravor Church (Ahavank): Van'da Bir Aziz Kilisesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Q16367039"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

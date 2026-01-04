@@ -5,10 +5,10 @@ slug: "baglar-mevki-manastiri"
 description: "## Bağlar Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9106998,40.2232018"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-ahmet-trn-kabri"
 description: "## Hoca Ahmet Tûrânî Kabri: Beşiktaş'taki Bir Tarihsel Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0004902,41.0396729"
 draft: "false"
 weight: "999"

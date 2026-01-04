@@ -5,10 +5,10 @@ slug: "mettius-modestus-taki"
 description: "## Mettius Modestus Takı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/MettiusModestusArch.jpg/1200px-MettiusModestusArch.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.318528,36.265578"
 draft: "false"
 weight: "10"

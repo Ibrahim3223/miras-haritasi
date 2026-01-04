@@ -5,10 +5,10 @@ slug: "akseki-kemaleddin-efendi-kabri"
 description: "## Akseki Kemaleddin Efendi Kabri: Fatih, İstanbul'da Yüzyılların İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Akseki_Kemaleddin_Efendi_Kabri.jpg/1200px-Akseki_Kemaleddin_Efendi_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941343,41.022214"
 draft: "false"
 weight: "10"

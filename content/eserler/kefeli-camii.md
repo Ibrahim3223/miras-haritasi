@@ -5,10 +5,10 @@ slug: "kefeli-camii"
 description: "## Kefeli Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/KefeliMescidi20070603_1.jpg/1200px-KefeliMescidi20070603_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94166667,41.02944444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "rustem-pasa-medresesi"
 description: "# Rüstem Paşa Medresesi: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Rüstem_paşa_medresesi.jpg/1200px-Rüstem_paşa_medresesi.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.980194444,39.41925"
 draft: "false"
 weight: "10"

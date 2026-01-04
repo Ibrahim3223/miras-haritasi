@@ -5,10 +5,10 @@ slug: "suleyman-pasa-hamami-bilecik"
 description: "## Süleyman Paşa Hamamı, Bilecik: Tarihi ve Kültürel Mirasının Gizli Çeşmesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9874191,40.142601"
 draft: "false"
 weight: "999"

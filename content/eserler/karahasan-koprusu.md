@@ -5,10 +5,10 @@ slug: "karahasan-koprusu"
 description: "## Karahasan Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.3916798,38.5658951"
 draft: "false"
 weight: "999"

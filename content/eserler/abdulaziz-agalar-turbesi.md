@@ -5,10 +5,10 @@ slug: "abdulaziz-agalar-turbesi"
 description: "# Abdülaziz Ağalar Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7837486,37.3155174"
 draft: "false"
 weight: "999"

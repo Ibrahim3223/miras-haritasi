@@ -5,10 +5,10 @@ slug: "milet-delphinion"
 description: "## Milet Delphinion: Didim'in Gizli Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2807007,37.5298538"
 draft: "false"
 weight: "999"

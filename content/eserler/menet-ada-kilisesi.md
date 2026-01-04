@@ -5,10 +5,10 @@ slug: "menet-ada-kilisesi"
 description: "## Menet Ada Kilisesi: Aydın'ın Gizli Çehresini Aydınlatacak Bir Anıtsal Kilise..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4652405,37.509285"
 draft: "false"
 weight: "999"

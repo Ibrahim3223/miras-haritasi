@@ -5,10 +5,10 @@ slug: "cuneyne-camii"
 description: "## Cüneyne Camii..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1187515,36.7143211"
 draft: "false"
 weight: "999"

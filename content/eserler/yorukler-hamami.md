@@ -5,10 +5,10 @@ slug: "yorukler-hamami"
 description: "### Yörükler Hamamı Tanıtımı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "19 Mayıs"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.080195,41.526776"
 draft: "false"
 weight: "999"

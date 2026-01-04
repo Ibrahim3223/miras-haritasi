@@ -5,10 +5,10 @@ slug: "senlik-dede-turbesi"
 description: "## Şenlik Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9990463,41.0447159"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "poyrali-koyu-camii"
 description: "# Poyralı Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5941372,41.6249733"
 draft: "false"
 weight: "999"

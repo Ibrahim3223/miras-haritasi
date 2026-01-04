@@ -5,10 +5,10 @@ slug: "saraykoy-camii"
 description: "### Sarayköy Camii: Rize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.383816054,41.021365807"
 draft: "false"
 weight: "999"

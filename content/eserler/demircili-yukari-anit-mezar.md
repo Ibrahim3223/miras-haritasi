@@ -5,10 +5,10 @@ slug: "demircili-yukari-anit-mezar"
 description: "## Demircili Yukarı Anıt Mezar..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9592133,36.4470406"
 draft: "false"
 weight: "999"

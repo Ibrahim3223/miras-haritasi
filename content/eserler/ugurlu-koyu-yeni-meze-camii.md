@@ -5,10 +5,10 @@ slug: "ugurlu-koyu-yeni-meze-camii"
 description: "### Uğurlu Köyü Yeni Meze Camii..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.988615,41.0225372"
 draft: "false"
 weight: "999"

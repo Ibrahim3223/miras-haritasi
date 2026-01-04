@@ -5,10 +5,10 @@ slug: "sultan-sarnici"
 description: "**Sultan Sarnıcı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Interior_of_the_Cistern_of_Pulcheria_November_2013.jpg/1200px-Interior_of_the_Cistern_of_Pulcheria_November_2013.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.95,41.025"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kayali-bogaz"
 description: "## Kayalı Boğaz: Boğazkale'nin Gizemli Arkeolojik Sit'i..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Boğazkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.63722,40.00322"
 draft: "false"
 weight: "999"

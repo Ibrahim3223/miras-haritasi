@@ -5,10 +5,10 @@ slug: "cayyuzu-sehitligi"
 description: "## Çayyüzü Şehitliği..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9756603,37.8865356"
 draft: "false"
 weight: "999"

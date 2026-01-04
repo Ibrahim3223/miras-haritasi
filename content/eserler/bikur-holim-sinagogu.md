@@ -5,10 +5,10 @@ slug: "bikur-holim-sinagogu"
 description: "**Bikur Holim Sinagogu: İzmir'in İlahi Mirasının Gizli Çehresini Açığa Çıkaran Bir Çıkış Noktası**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.136583333,38.419055555"
 draft: "false"
 weight: "999"

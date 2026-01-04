@@ -5,10 +5,10 @@ slug: "mehmet-arsay-klasik-otomobil-muzesi"
 description: "## Mehmet Arsay Klasik Otomobil Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.793138,41.056023"
 draft: "false"
 weight: "999"

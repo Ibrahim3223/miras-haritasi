@@ -5,10 +5,10 @@ slug: "kircaoglu-hoyugu"
 description: "### Kırcaoğlu Höyüğü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Kumlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.529969,36.378504"
 draft: "false"
 weight: "999"

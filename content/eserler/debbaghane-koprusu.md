@@ -5,10 +5,10 @@ slug: "debbaghane-koprusu"
 description: "### Debbağhane Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.455143,40.451156"
 draft: "false"
 weight: "999"

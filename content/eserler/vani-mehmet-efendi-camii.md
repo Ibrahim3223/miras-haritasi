@@ -5,10 +5,10 @@ slug: "vani-mehmet-efendi-camii"
 description: "## Vani Mehmet Efendi Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2131348,40.2004814"
 draft: "false"
 weight: "999"

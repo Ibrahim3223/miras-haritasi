@@ -5,10 +5,10 @@ slug: "toygar-tumulusu-nazilli"
 description: "## Toygar Tümülüsü, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3528137,37.8357468"
 draft: "false"
 weight: "999"

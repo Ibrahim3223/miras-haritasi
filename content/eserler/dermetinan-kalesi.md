@@ -5,10 +5,10 @@ slug: "dermetinan-kalesi"
 description: "## Dermetinan Kalesi: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Mazıdağı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.202,37.478954"
 draft: "false"
 weight: "999"

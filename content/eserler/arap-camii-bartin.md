@@ -5,10 +5,10 @@ slug: "arap-camii-bartin"
 description: "## Arap Camii, Bartın..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3373566,41.6328049"
 draft: "false"
 weight: "999"

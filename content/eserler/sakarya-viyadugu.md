@@ -5,10 +5,10 @@ slug: "sakarya-viyadugu"
 description: "## Sakarya Viyadüğü: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.5807,39.3615"
 draft: "false"
 weight: "999"

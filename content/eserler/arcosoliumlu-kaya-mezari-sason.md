@@ -5,10 +5,10 @@ slug: "arcosoliumlu-kaya-mezari-sason"
 description: "# Arcosoliumlu Kaya Mezarı, Sason..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.3127098,38.3161392"
 draft: "false"
 weight: "999"

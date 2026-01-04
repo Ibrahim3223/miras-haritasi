@@ -5,10 +5,10 @@ slug: "deliklitas-camii"
 description: "## Deliklitaş Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4917297,38.7132492"
 draft: "false"
 weight: "999"

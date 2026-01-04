@@ -5,10 +5,10 @@ slug: "andriake-dogu-hamami"
 description: "## Andriake Doğu Hamamı: Demre'nin Tarihi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9582272,36.2271957"
 draft: "false"
 weight: "999"

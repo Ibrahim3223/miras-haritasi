@@ -5,10 +5,10 @@ slug: "hammal-dede-kabristani"
 description: "**Hammal Dede Kabristanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.94815,41.01218"
 draft: "false"
 weight: "999"

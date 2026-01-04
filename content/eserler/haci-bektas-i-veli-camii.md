@@ -5,10 +5,10 @@ slug: "haci-bektas-i-veli-camii"
 description: "### Hacı Bektaş-ı Veli Camii: Tarihî ve Kültürel Özellikleri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5624199,38.9426651"
 draft: "false"
 weight: "999"

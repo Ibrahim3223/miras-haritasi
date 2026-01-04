@@ -5,10 +5,10 @@ slug: "tabaklar-koyu-camii"
 description: "## Tabaklar Köyü Camii: Ayvacık'ta Bir Tarihî Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2304592,39.5455971"
 draft: "false"
 weight: "999"

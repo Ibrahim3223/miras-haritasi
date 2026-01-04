@@ -5,10 +5,10 @@ slug: "akcakoyun-sehitligi"
 description: "**Akçakoyun Şehitliği**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.151514994,39.800397889"
 draft: "false"
 weight: "999"

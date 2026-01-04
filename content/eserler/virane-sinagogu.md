@@ -5,10 +5,10 @@ slug: "virane-sinagogu"
 description: "## Virane Sinagogu: Üsküdar'daki Bir Önemli Sinagog..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.03146,41.032986"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-kayganli"
 description: "# Roma Köprüsü, Kayganlı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0001847,39.1207279"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarimsakli-hoyuk"
 description: "## Sarımsaklı Höyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sultandağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.2860208,38.669709"
 draft: "false"
 weight: "999"

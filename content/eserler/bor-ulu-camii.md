@@ -5,10 +5,10 @@ slug: "bor-ulu-camii"
 description: "## Bor Ulu Camii: Tarihi ve Kültürel Mirasının Bir Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bor_Sultan_Alaaddin_mosque_1085.jpg/1200px-Bor_Sultan_Alaaddin_mosque_1085.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.563583333,37.894472222"
 draft: "false"
 weight: "10"

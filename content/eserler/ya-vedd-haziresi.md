@@ -5,10 +5,10 @@ slug: "ya-vedd-haziresi"
 description: "### Ya Vedûd Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9402351,41.0404816"
 draft: "false"
 weight: "999"

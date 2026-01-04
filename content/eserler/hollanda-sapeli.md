@@ -5,10 +5,10 @@ slug: "hollanda-sapeli"
 description: "## Hollanda Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9763412,41.0304642"
 draft: "false"
 weight: "999"

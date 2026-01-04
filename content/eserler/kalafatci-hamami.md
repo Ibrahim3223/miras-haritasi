@@ -5,10 +5,10 @@ slug: "kalafatci-hamami"
 description: "## Kalafatçı Hamamı: Beyoğlu'ndaki Tarihi Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9508743,41.0407867"
 draft: "false"
 weight: "999"

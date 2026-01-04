@@ -5,10 +5,10 @@ slug: "sogut-cayi-hoyuk"
 description: "### Söğüt Çayı Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.708217,38.533233"
 draft: "false"
 weight: "999"

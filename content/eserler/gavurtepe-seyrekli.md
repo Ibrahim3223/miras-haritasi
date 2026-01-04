@@ -5,10 +5,10 @@ slug: "gavurtepe-seyrekli"
 description: "**Gavurtepe: Ödemiş'in Eski Kenti**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.912483,38.194833"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-aydin-mugla-karayolu-koprusu"
 description: "## Eski Aydın Muğla Karayolu Köprüsü: Aydın'ın Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1507759,37.4549255"
 draft: "false"
 weight: "999"

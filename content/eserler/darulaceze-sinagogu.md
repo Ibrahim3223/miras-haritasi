@@ -5,10 +5,10 @@ slug: "darulaceze-sinagogu"
 description: "### Darülaceze Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.967555555,41.059638888"
 draft: "false"
 weight: "999"

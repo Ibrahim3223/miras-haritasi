@@ -5,10 +5,10 @@ slug: "pir-i-san-cerkesli-haci-mustafa-efendi-turbesi"
 description: "## Pir-i Sanî Çerkeşli Hacı Mustafa Efendi Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8942108,40.813942"
 draft: "false"
 weight: "999"

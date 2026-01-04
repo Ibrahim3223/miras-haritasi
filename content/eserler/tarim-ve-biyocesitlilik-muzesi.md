@@ -5,10 +5,10 @@ slug: "tarim-ve-biyocesitlilik-muzesi"
 description: "## Tarım ve Biyoçeşitlilik Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.745440065,39.89934514"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selcuk-hamami"
 description: "**Selçuk Hamamı: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.371457,37.95151"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-muslugume"
 description: "## Roma Köprüsü, Muslugüme..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Kale"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.6293716,37.458374"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesme-hamami"
 description: "**Çeşme Hamamı: İstanbul'un Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.972471,41.023787"
 draft: "false"
 weight: "999"

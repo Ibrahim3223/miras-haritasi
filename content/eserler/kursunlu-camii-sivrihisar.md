@@ -5,10 +5,10 @@ slug: "kursunlu-camii-sivrihisar"
 description: "### Kurşunlu Camii: Sivrihisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5405788,39.446701"
 draft: "false"
 weight: "999"

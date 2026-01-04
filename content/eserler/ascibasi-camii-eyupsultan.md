@@ -5,10 +5,10 @@ slug: "ascibasi-camii-eyupsultan"
 description: "## Aşçıbaşı Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aşçıbaşı_Camii_IMG_4950.jpg/1200px-Aşçıbaşı_Camii_IMG_4950.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.934112,41.039803"
 draft: "false"
 weight: "10"

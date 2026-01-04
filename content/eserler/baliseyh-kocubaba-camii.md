@@ -5,10 +5,10 @@ slug: "baliseyh-kocubaba-camii"
 description: "**Balişeyh Koçubaba Camii**..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Balışeyh"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.880159507,40.06971999"
 draft: "false"
 weight: "999"

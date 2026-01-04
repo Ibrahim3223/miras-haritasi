@@ -5,10 +5,10 @@ slug: "gordion-tumulus-r"
 description: "## Gordion Tümülüs R..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.996765,39.651836"
 draft: "false"
 weight: "999"

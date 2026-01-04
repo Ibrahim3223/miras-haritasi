@@ -5,10 +5,10 @@ slug: "karacasu-hamami"
 description: "## Karacasu Hamamı: Aydın'ın Ölümsüz Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.6075993,37.7294998"
 draft: "false"
 weight: "999"

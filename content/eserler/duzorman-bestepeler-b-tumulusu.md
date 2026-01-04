@@ -5,10 +5,10 @@ slug: "duzorman-bestepeler-b-tumulusu"
 description: "## Düzorman Beştepeler B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3664989,41.8701668"
 draft: "false"
 weight: "999"

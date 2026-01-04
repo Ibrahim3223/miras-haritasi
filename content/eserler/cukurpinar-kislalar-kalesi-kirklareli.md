@@ -5,10 +5,10 @@ slug: "cukurpinar-kislalar-kalesi-kirklareli"
 description: "## Çukurpınar Kışlalar Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3992119,41.8317795"
 draft: "false"
 weight: "999"

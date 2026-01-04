@@ -5,10 +5,10 @@ slug: "sahkulu-medresesi"
 description: "## Şahkulu Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9665813,41.0087891"
 draft: "false"
 weight: "999"

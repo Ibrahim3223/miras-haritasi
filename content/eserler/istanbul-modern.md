@@ -5,10 +5,10 @@ slug: "istanbul-modern"
 description: "## İstanbul Modern..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Outside_view_of_the_Istanbul_Modern,_2022.jpg/1200px-Outside_view_of_the_Istanbul_Modern,_2022.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.982944,41.026"
 draft: "false"
 weight: "10"

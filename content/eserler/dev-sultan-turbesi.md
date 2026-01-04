@@ -5,10 +5,10 @@ slug: "dev-sultan-turbesi"
 description: "## Dev Sultan Türbesi: Polatlı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.1347,39.5798"
 draft: "false"
 weight: "999"

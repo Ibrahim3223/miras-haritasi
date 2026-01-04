@@ -5,10 +5,10 @@ slug: "ada-koprusu-cal"
 description: "## Ada Köprüsü: Çal'ın Tarihî Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.3912354,38.1844864"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "erythrai-antik-tiyatrosu"
 description: "## Erythrai Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.480665,38.382669"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ii-bayezid-hamami"
 description: "### II. Bayezid Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5428066,41.6860847"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "diyadin-kalesi"
 description: "### Diyadin Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Diyadin"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.673315,39.529549"
 draft: "false"
 weight: "999"

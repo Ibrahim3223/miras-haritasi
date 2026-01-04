@@ -5,10 +5,10 @@ slug: "kecivan-kalesi-kagizman"
 description: "## Keçivan Kalesi: Kağızman'daki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: '["Kars Oblastı"]'
+iller: ["Kars Oblastı"]
 district: "Kağızman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.8642921,40.2758942"
 draft: "false"
 weight: "999"

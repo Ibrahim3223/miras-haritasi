@@ -5,10 +5,10 @@ slug: "isimsiz-turbe"
 description: "## İsimsiz Türbe: Ayvalık'ta Gizemli Bir Anıt..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.859363,39.289458"
 draft: "false"
 weight: "999"

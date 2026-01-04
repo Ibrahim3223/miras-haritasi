@@ -5,10 +5,10 @@ slug: "cantakoy-tumulusu-4"
 description: "## Çantaköy Tümülüsü 4 Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0649605,41.1388168"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akarcay-hoyuk"
 description: "## Akarçay Höyük: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0172393,36.9173301"
 draft: "false"
 weight: "999"

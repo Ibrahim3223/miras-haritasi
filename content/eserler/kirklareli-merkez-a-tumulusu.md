@@ -5,10 +5,10 @@ slug: "kirklareli-merkez-a-tumulusu"
 description: "## Kırklareli Merkez A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2190323,41.7124825"
 draft: "false"
 weight: "999"

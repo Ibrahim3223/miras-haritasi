@@ -5,10 +5,10 @@ slug: "imam-akl-turbesi"
 description: "### İmam Akîl Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bağlar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2174721,37.8186073"
 draft: "false"
 weight: "999"

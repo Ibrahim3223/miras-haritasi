@@ -5,10 +5,10 @@ slug: "peygamber-camii-isparta"
 description: "### Peygamber Camii, Isparta: Isparta'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5541058,37.7624626"
 draft: "false"
 weight: "999"

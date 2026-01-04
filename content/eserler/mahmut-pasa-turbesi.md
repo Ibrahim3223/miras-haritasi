@@ -5,10 +5,10 @@ slug: "mahmut-pasa-turbesi"
 description: "### Mahmut Paşa Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2852424,39.9052787"
 draft: "false"
 weight: "999"

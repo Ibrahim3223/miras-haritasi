@@ -5,10 +5,10 @@ slug: "cendere-koyu-camii"
 description: "### Cendere Köyü Camii: Çankırı'nin Gizli Bir Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6526031,40.9220428"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mara-camii"
 description: "## Mara Camii..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.8687782,36.7221909"
 draft: "false"
 weight: "999"

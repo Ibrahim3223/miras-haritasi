@@ -5,10 +5,10 @@ slug: "sivrice-hoyuk"
 description: "### Sivrice Höyük: Kahramanmaraş'ın Eski Kenti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.001816,37.427898"
 draft: "false"
 weight: "999"

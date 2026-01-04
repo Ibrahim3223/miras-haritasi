@@ -5,10 +5,10 @@ slug: "hizir-bey-haziresi"
 description: "### Hızır Bey Haziresi: Fatih'teki bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9585361,41.0184708"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-rahmi-sultan-turbesi"
 description: "### Hacı Rahmi Sultan Türbesi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.282166,37.712907"
 draft: "false"
 weight: "999"

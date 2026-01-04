@@ -5,10 +5,10 @@ slug: "corum-ulu-camii"
 description: "### Çorum Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ulucami-Çorum_-_panoramio.jpg/1200px-Ulucami-Çorum_-_panoramio.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Çorum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.952472222,40.551222222"
 draft: "false"
 weight: "10"

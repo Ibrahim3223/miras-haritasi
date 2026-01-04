@@ -5,10 +5,10 @@ slug: "tascilar-medresesi"
 description: "## Taşçılar Medresesi: Trabzon'un Gizli Çehresi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "40.211246,40.771898"
 draft: "false"
 weight: "999"

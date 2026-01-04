@@ -5,10 +5,10 @@ slug: "saridanisment-f-tumulusu"
 description: "## Sarıdanişment F Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8243351,41.8698654"
 draft: "false"
 weight: "999"

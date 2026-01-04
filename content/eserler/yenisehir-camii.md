@@ -5,10 +5,10 @@ slug: "yenisehir-camii"
 description: "## Yenişehir Camii: Hatay'ın Tarihî Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5664864,36.2418137"
 draft: "false"
 weight: "999"

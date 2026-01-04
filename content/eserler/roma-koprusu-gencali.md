@@ -5,10 +5,10 @@ slug: "roma-koprusu-gencali"
 description: "## Roma Köprüsü, Gençali..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.433662,36.704121"
 draft: "false"
 weight: "999"

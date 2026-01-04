@@ -5,10 +5,10 @@ slug: "koca-camii-burhaniye"
 description: "## Koca Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9817619,39.5035591"
 draft: "false"
 weight: "999"

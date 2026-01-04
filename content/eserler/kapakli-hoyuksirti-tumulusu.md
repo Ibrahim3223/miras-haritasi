@@ -5,10 +5,10 @@ slug: "kapakli-hoyuksirti-tumulusu"
 description: "## Kapaklı Höyüksırtı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.353138,41.8955917"
 draft: "false"
 weight: "999"

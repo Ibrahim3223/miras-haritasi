@@ -5,10 +5,10 @@ slug: "sogukcesme-kapisi"
 description: "### Soğukçeşme Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.978849,41.010586"
 draft: "false"
 weight: "999"

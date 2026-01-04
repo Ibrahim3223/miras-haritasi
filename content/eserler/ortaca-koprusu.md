@@ -5,10 +5,10 @@ slug: "ortaca-koprusu"
 description: "## Ortaca Köprüsü: Bir Geçit Olarak Tarih..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6232567,40.0517845"
 draft: "false"
 weight: "999"

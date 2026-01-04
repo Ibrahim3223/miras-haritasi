@@ -5,10 +5,10 @@ slug: "taskale-hoyugu"
 description: "## Taşkale Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ağaçören ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.882904876,38.833534253"
 draft: "false"
 weight: "999"

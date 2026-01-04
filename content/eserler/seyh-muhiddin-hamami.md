@@ -5,10 +5,10 @@ slug: "seyh-muhiddin-hamami"
 description: "# Şeyh Muhiddin Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.0654659,38.2542572"
 draft: "false"
 weight: "999"

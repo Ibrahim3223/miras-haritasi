@@ -5,10 +5,10 @@ slug: "kervan-koprusu"
 description: "## Kervan Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pont_des_Caravanes,_a_Smyrne_-_Asie_Mineure_-_estampe_-_Girault_de_Prangey_pinx.t_;_E._Deshayes_lith._-_btv1b53185172v.jpg/1200px-Pont_des_Caravanes,_a_Smyrne_-_Asie_Mineure_-_estampe_-_Girault_de_Prangey_pinx.t_;_E._Deshayes_lith._-_btv1b53185172v.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.152058333,38.422058333"
 draft: "false"
 weight: "10"

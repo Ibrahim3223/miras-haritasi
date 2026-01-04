@@ -5,10 +5,10 @@ slug: "ayios-fanurios-ayazmasi"
 description: "### Ayios Fanurios Ayazması: Beyoğlu'ndaki Bir Tarihî Kilise..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9768486,41.0408936"
 draft: "false"
 weight: "999"

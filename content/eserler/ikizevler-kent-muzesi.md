@@ -5,10 +5,10 @@ slug: "ikizevler-kent-muzesi"
 description: "## İkizevler Kent Müzesi: Gümüşhane'nin Gizli Çehresi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.464981,40.464782"
 draft: "false"
 weight: "999"

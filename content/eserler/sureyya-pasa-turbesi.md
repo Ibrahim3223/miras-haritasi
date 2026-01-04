@@ -5,10 +5,10 @@ slug: "sureyya-pasa-turbesi"
 description: "## Süreyya Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1473484,40.9516449"
 draft: "false"
 weight: "999"

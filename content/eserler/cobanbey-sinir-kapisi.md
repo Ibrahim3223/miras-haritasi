@@ -5,10 +5,10 @@ slug: "cobanbey-sinir-kapisi"
 description: "### Çobanbey Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "37.469999806,36.633973788"
 draft: "false"
 weight: "999"

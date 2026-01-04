@@ -5,10 +5,10 @@ slug: "ginolu-kalesi"
 description: "## Ginolu Kalesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Çatalzeytin"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.165592,41.965573"
 draft: "false"
 weight: "999"

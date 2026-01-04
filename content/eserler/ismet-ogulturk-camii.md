@@ -5,10 +5,10 @@ slug: "ismet-ogulturk-camii"
 description: "### İsmet Oğultürk Camii: Ankara'nın Altın Değerleri Arasında..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mosque_in_Cebeci_Asri_Mezarligi_Ankara_-_Modern_Cebeci_Cementery_Ankara_camisi.JPG/1200px-Mosque_in_Cebeci_Asri_Mezarligi_Ankara_-_Modern_Cebeci_Cementery_Ankara_camisi.JPG"
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Gültepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.888186856,39.943585711"
 draft: "false"
 weight: "10"

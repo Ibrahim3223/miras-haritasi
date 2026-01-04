@@ -5,10 +5,10 @@ slug: "sinuri"
 description: "### Sinuri Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.90138095,37.253817154"
 draft: "false"
 weight: "999"

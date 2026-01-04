@@ -5,10 +5,10 @@ slug: "briula"
 description: "**Briula: Aydın'ın Gizli Şehri**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.649583,37.961027"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cankiri-kalesi"
 description: "### Çankırı Kalesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.614908,40.608479"
 draft: "false"
 weight: "999"

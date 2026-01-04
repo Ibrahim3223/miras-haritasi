@@ -5,10 +5,10 @@ slug: "st-helen-kilisesi"
 description: "### St. Helen Kilisesi: Karşıyaka'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Sthelen_1.jpg/1200px-Sthelen_1.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1145,38.45475"
 draft: "false"
 weight: "10"

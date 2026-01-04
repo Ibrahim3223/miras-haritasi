@@ -5,10 +5,10 @@ slug: "tekke-arap-dede-camii"
 description: "## Tekke Arap Dede Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8066177,39.817337"
 draft: "false"
 weight: "999"

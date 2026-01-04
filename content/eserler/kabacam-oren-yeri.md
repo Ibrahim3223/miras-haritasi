@@ -5,10 +5,10 @@ slug: "kabacam-oren-yeri"
 description: "## Kabaçam Ören Yeri: Erdemli'nin Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kabaçam.jpg/1200px-Kabaçam.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.153333333,36.514444444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mechul-futbolcu-heykeli"
 description: "## Meçhul Futbolcu Heykeli: Kadıköy, İstanbul'un Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Meçhul_Futbolcu_Heykeli.jpg/1200px-Meçhul_Futbolcu_Heykeli.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0376263,40.9694405"
 draft: "false"
 weight: "10"

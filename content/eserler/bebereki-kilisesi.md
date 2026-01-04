@@ -5,10 +5,10 @@ slug: "bebereki-kilisesi"
 description: "## Bebereki Kilisesi: Ardahan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çetinsu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.522638888,41.140111111"
 draft: "false"
 weight: "999"

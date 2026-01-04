@@ -5,10 +5,10 @@ slug: "adana-arkeoloji-muzesi"
 description: "## Adana Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Adana_Archaeology_Museum_(34243633532)_(2).jpg/1200px-Adana_Archaeology_Museum_(34243633532)_(2).jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.313741,36.995135"
 draft: "false"
 weight: "10"

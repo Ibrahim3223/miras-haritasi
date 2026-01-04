@@ -5,10 +5,10 @@ slug: "odabasi-behruz-aga-kabri"
 description: "## Odabaşı Behruz Ağa Kabri: Fatih'in Gizli Değerleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9312954,41.012207"
 draft: "false"
 weight: "999"

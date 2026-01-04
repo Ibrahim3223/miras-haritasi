@@ -5,10 +5,10 @@ slug: "koyun-dede-turbesi"
 description: "## Koyun Dede Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.697073,37.081087"
 draft: "false"
 weight: "999"

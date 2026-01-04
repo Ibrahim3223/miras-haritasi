@@ -5,10 +5,10 @@ slug: "meria-kilisesi"
 description: "## Meria Kilisesi: Şavşat'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Veliköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.448119444,41.298938888"
 draft: "false"
 weight: "999"

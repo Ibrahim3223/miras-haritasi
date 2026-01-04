@@ -5,10 +5,10 @@ slug: "aegospotami"
 description: "## Aegospotami: Gelibolu'nun Gizemli Eski Kenti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.630833333,40.364072222"
 draft: "false"
 weight: "999"

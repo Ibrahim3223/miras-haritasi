@@ -5,10 +5,10 @@ slug: "mke-sanayi-ve-teknoloji-muzesi"
 description: "## MKE Sanayi ve Teknoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/MKE_Sanayi_ve_Teknoloji_Müzesi.jpg/1200px-MKE_Sanayi_ve_Teknoloji_Müzesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.837801,39.938582"
 draft: "false"
 weight: "10"

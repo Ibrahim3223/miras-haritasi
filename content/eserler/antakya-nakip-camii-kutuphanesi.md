@@ -5,10 +5,10 @@ slug: "antakya-nakip-camii-kutuphanesi"
 description: "## Antakya Nakip Camii Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "36.1630135,36.2007713"
 draft: "false"
 weight: "999"

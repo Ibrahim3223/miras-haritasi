@@ -5,10 +5,10 @@ slug: "kallipolis-karya"
 description: "## Kallipolis (Karya): Ege Denizi'nin Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.272289,36.991329"
 draft: "false"
 weight: "999"

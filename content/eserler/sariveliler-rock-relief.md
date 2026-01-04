@@ -5,10 +5,10 @@ slug: "sariveliler-rock-relief"
 description: "## Sarıveliler Rock Relief: Mersin'in Gizli Bir Çağı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

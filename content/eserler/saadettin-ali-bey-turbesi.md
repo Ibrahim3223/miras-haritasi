@@ -5,10 +5,10 @@ slug: "saadettin-ali-bey-turbesi"
 description: "## Saadettin Ali Bey Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2109488,37.1830842"
 draft: "false"
 weight: "999"

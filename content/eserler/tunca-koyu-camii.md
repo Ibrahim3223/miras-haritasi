@@ -5,10 +5,10 @@ slug: "tunca-koyu-camii"
 description: "## Tunca Köyü Camii: Ardeşen'in Tarihi Bir Ruhani Evi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.121593101,41.125413734"
 draft: "false"
 weight: "999"

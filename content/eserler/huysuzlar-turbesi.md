@@ -5,10 +5,10 @@ slug: "huysuzlar-turbesi"
 description: "## Huysuzlar Türbesi: İznik'in Gizli Çarşısı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.720089,40.4329033"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bafra-asarkale-ve-kaya-mezarlari"
 description: "## Bafra Asarkale ve Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Asarkale.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.7636871,41.3707275"
 draft: "false"
 weight: "999"

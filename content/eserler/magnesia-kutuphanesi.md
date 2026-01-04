@@ -5,10 +5,10 @@ slug: "magnesia-kutuphanesi"
 description: "## Magnesia Kütüphanesi: Aydın'in Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.5260601,37.8535576"
 draft: "false"
 weight: "999"

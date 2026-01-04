@@ -5,10 +5,10 @@ slug: "piri-pasa-hamami"
 description: "### Piri Paşa Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.948696,41.043407"
 draft: "false"
 weight: "999"

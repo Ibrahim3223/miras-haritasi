@@ -5,10 +5,10 @@ slug: "ambarseki-camii"
 description: "# Ambarseki Camii: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/35960_Ambarseki-Karaburun-%C4%B0zmir%2C_Turkey_-_panoramio_%285%29.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5235596,38.6139069"
 draft: "false"
 weight: "999"

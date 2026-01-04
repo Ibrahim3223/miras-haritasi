@@ -5,10 +5,10 @@ slug: "acemhoyuk"
 description: "## Acemhöyük: Türkiye'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Sites_hittites.svg/1200px-Sites_hittites.svg.png"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.83548333,38.41158889"
 draft: "false"
 weight: "10"

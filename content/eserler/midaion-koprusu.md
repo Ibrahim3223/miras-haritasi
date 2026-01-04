@@ -5,10 +5,10 @@ slug: "midaion-koprusu"
 description: "## Midaion Köprüsü: Eskişehir'in Tarihi Görseli..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.843901,39.799469"
 draft: "false"
 weight: "999"

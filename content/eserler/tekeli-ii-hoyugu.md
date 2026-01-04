@@ -5,10 +5,10 @@ slug: "tekeli-ii-hoyugu"
 description: "## Tekeli II Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2298231,38.919238"
 draft: "false"
 weight: "999"

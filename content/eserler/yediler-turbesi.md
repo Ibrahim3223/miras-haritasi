@@ -5,10 +5,10 @@ slug: "yediler-turbesi"
 description: "## Yediler Türbesi: Ankara'nın Gizli Çarpıcı Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9118862,40.1893349"
 draft: "false"
 weight: "999"

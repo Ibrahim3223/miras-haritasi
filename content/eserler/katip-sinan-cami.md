@@ -5,10 +5,10 @@ slug: "katip-sinan-cami"
 description: "## Katip Sinan Cami: Fatih'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Katip_Sinan_Cami1.jpg/1200px-Katip_Sinan_Cami1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.960705876,41.007856038"
 draft: "false"
 weight: "10"

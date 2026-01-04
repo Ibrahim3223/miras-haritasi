@@ -5,10 +5,10 @@ slug: "daskyleion-tumulusu-1"
 description: "## Daskyleion Tümülüsü 1: Bandırma'da Bir Antik Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0514717,40.1116219"
 draft: "false"
 weight: "999"

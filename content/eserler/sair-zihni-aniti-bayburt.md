@@ -5,10 +5,10 @@ slug: "sair-zihni-aniti-bayburt"
 description: "### Şair Zihni Anıtı Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.225021,40.254366"
 draft: "false"
 weight: "999"

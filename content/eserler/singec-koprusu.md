@@ -5,10 +5,10 @@ slug: "singec-koprusu"
 description: "## Singeç Köprüsü: Tunceli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.249969,38.912883"
 draft: "false"
 weight: "999"

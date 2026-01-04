@@ -5,10 +5,10 @@ slug: "diyarbakir-cermik-ilce-halk-kutuphanesi"
 description: "# Diyarbakır Çermik İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "39.461533728,38.135994141"
 draft: "false"
 weight: "999"

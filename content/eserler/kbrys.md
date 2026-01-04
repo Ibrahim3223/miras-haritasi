@@ -5,10 +5,10 @@ slug: "kbrys"
 description: "## Kóbrys Arkeolojik Sit: Gelibolu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.848989,40.589514"
 draft: "false"
 weight: "999"

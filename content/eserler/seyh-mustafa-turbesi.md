@@ -5,10 +5,10 @@ slug: "seyh-mustafa-turbesi"
 description: "## Şeyh Mustafa Türbesi: Turhal'ın Öncü Değerleri..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.0887,40.3853"
 draft: "false"
 weight: "999"

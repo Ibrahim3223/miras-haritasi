@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-7-emniyet"
 description: "## Ankara Frig Tümülüsü 7, Emniyet..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.814991,39.9350853"
 draft: "false"
 weight: "999"

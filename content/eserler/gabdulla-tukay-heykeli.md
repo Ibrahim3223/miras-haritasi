@@ -5,10 +5,10 @@ slug: "gabdulla-tukay-heykeli"
 description: "### Gabdulla Tukay Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9431057,41.0639191"
 draft: "false"
 weight: "999"

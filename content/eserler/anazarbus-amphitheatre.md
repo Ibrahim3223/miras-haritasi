@@ -5,10 +5,10 @@ slug: "anazarbus-amphitheatre"
 description: "**Anazarbus Amphitheatersi: Tarihî Bir Mirasın Gizemi**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.895,37.244"
 draft: "false"
 weight: "999"

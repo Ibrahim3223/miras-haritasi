@@ -5,10 +5,10 @@ slug: "sinankoy-koprusu"
 description: "## Sinanköy Köprüsü: Ardeşen'in Ölümsüz Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0925,41.104633"
 draft: "false"
 weight: "999"

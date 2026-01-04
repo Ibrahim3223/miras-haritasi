@@ -5,10 +5,10 @@ slug: "cataltepe-koprusu"
 description: "## Çataltepe Köprüsü: Uşak'ta Bir Tarihî Köprü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9499681,38.6324711"
 draft: "false"
 weight: "999"

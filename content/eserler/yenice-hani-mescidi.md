@@ -5,10 +5,10 @@ slug: "yenice-hani-mescidi"
 description: "## Yenice Hanı Mescidi: Kütahya'nın Tarihi Bir Çatısı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0851784,39.2756844"
 draft: "false"
 weight: "999"

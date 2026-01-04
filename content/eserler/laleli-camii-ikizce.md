@@ -5,10 +5,10 @@ slug: "laleli-camii-ikizce"
 description: "# Laleli Camii, İkizce: Ordu'nun İhtişamlı Camii..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "İkizce"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.083742,41.058891"
 draft: "false"
 weight: "999"

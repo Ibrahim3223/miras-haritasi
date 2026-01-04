@@ -5,10 +5,10 @@ slug: "piginda-antik-tiyatrosu"
 description: "### Piginda Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.413626,37.620384"
 draft: "false"
 weight: "999"

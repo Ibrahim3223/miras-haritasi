@@ -5,10 +5,10 @@ slug: "sitte-melik-kumbeti-divrigi"
 description: "## Sitte Melik Kümbeti, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1191177,39.3736687"
 draft: "false"
 weight: "999"

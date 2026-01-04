@@ -5,10 +5,10 @@ slug: "ibrahim-dede-turbesi-altinova-mahallesi"
 description: "## İbrahim Dede Türbesi: Ayvalık'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.774125,39.222419"
 draft: "false"
 weight: "999"

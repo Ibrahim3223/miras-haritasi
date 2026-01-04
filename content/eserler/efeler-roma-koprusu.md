@@ -5,10 +5,10 @@ slug: "efeler-roma-koprusu"
 description: "# Efeler Roma Köprüsü: Borçka'nın Tarihi Harikası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.9263992,41.4385986"
 draft: "false"
 weight: "999"

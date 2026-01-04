@@ -5,10 +5,10 @@ slug: "aydin-aniti"
 description: "## Aydın Anıtı: Aydın'ın Ölümsüz Ruhuna Adanmış Bir Anıt..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8456154,37.8380089"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gursu-orta-cami"
 description: "## Gürsu Orta Cami..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gürsu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.194519,40.2160378"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kemerkoy-koprusu"
 description: "## Kemerköy Köprüsü: Rize'nin Eski Yollarının Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7667,41.1219"
 draft: "false"
 weight: "999"

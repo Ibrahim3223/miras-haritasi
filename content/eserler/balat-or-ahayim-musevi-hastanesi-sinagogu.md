@@ -5,10 +5,10 @@ slug: "balat-or-ahayim-musevi-hastanesi-sinagogu"
 description: "## Balat Or-Ahayim Musevi Hastanesi Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.9457455,41.0385361"
 draft: "false"
 weight: "999"

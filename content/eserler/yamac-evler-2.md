@@ -5,10 +5,10 @@ slug: "yamac-evler-2"
 description: "## Yamaç Evler 2: Selçuk, İzmir'deki Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/13.9_Terrace_Houses_in_Ephesus.JPG/1200px-13.9_Terrace_Houses_in_Ephesus.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.341347376,37.938381738"
 draft: "false"
 weight: "10"

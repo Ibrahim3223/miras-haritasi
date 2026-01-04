@@ -5,10 +5,10 @@ slug: "saloglu-camii"
 description: "**Şaloğlu Camii: Sandıklı'nın Tarihî Bir Anıtı**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2695274,38.4621582"
 draft: "false"
 weight: "999"

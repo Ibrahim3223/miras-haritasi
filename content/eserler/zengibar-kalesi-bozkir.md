@@ -5,10 +5,10 @@ slug: "zengibar-kalesi-bozkir"
 description: "## Zengibar Kalesi: Bozkır'ın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Bozkır"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.3439751,37.1844711"
 draft: "false"
 weight: "999"

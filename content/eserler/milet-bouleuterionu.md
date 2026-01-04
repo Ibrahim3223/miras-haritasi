@@ -5,10 +5,10 @@ slug: "milet-bouleuterionu"
 description: "## Milet Bouleuterionu: Aydın'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bouleuterium_Milet.JPG/1200px-Bouleuterium_Milet.JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "27.278611111,37.529166666"
 draft: "false"
 weight: "10"

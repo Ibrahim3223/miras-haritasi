@@ -5,10 +5,10 @@ slug: "hamza-aga-camii"
 description: "# Hamza Ağa Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7683144,41.3771324"
 draft: "false"
 weight: "999"

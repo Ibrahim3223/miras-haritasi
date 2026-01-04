@@ -5,10 +5,10 @@ slug: "andaval-orenyeri"
 description: "## Andaval Örenyeri: Niğde'nin Tarihî Mirasının Bir Parçası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

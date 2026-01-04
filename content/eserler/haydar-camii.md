@@ -5,10 +5,10 @@ slug: "haydar-camii"
 description: "## Haydar Camii: Cibali'nin Değerli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.956369,41.022381"
 draft: "false"
 weight: "999"

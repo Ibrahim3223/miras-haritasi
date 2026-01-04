@@ -5,10 +5,10 @@ slug: "akkopru-dalaman"
 description: "### Akköprü, Dalaman: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.939705,36.91954"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cayhatap-hoyuk"
 description: "### Çayhatap Höyük: Türkiye'nin Eski Kente Sahip Arkeolojik Sitleri..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8198395,40.4283257"
 draft: "false"
 weight: "999"

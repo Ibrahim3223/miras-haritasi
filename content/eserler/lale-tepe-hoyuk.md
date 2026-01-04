@@ -5,10 +5,10 @@ slug: "lale-tepe-hoyuk"
 description: "**Lale Tepe Höyük: Manisa'nın Gizli Tarihî Mirası**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9246483,38.5159073"
 draft: "false"
 weight: "999"

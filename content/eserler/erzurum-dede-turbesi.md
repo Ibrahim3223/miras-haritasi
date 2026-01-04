@@ -5,10 +5,10 @@ slug: "erzurum-dede-turbesi"
 description: "## Eskişehir Erzurum Dede Türbesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9330063,40.5328636"
 draft: "false"
 weight: "999"

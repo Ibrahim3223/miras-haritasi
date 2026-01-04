@@ -5,10 +5,10 @@ slug: "kurtulus-savasi-muzesi"
 description: "## Kurtuluş Savaşı Müzesi: Tarih ve Kültür Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Ankara_asv2021-10_img45_Cumhuriyet_Street_on_29Oct.jpg/1200px-Ankara_asv2021-10_img45_Cumhuriyet_Street_on_29Oct.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.854002,39.941956"
 draft: "false"
 weight: "10"

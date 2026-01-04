@@ -5,10 +5,10 @@ slug: "camur-ilicasi"
 description: "## Çamur Ilıcası: Dikili'nin Tarihi Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.922079,39.059219"
 draft: "false"
 weight: "999"

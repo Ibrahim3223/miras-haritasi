@@ -5,10 +5,10 @@ slug: "haci-arif-hamami"
 description: "**Hacı Arif Hamamı: Ortahisar'ın Tarihi Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hacı_Arif_Hamamı_Kubbeleri.jpg/1200px-Hacı_Arif_Hamamı_Kubbeleri.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.7206726,41.0076561"
 draft: "false"
 weight: "10"

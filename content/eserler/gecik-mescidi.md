@@ -5,10 +5,10 @@ slug: "gecik-mescidi"
 description: "### Gecik Mescidi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8688774,39.9370918"
 draft: "false"
 weight: "999"

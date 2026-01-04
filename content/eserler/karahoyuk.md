@@ -5,10 +5,10 @@ slug: "karahoyuk"
 description: "## Karahöyük: Mucur'un Gizli Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4830048,39.0545762"
 draft: "false"
 weight: "999"

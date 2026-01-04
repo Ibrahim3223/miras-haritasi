@@ -5,10 +5,10 @@ slug: "kusadasi-oleatriumu"
 description: "### Kuşadası Oleatrium'u..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kuşadası_2013-03-28a.jpg/1200px-Kuşadası_2013-03-28a.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.289523,37.759428"
 draft: "false"
 weight: "10"

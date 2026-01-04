@@ -5,10 +5,10 @@ slug: "caglayan-koyu-koprusu"
 description: "## Çağlayan Köyü Köprüsü..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.46385,40.926583"
 draft: "false"
 weight: "999"

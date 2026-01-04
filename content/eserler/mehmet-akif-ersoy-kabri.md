@@ -5,10 +5,10 @@ slug: "mehmet-akif-ersoy-kabri"
 description: "## Mehmet Akif Ersoy Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9291744,41.0322876"
 draft: "false"
 weight: "999"

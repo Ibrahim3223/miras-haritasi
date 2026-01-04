@@ -5,10 +5,10 @@ slug: "katarli-camii"
 description: "### Katarlı Camii: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.41946165,37.153951871"
 draft: "false"
 weight: "999"

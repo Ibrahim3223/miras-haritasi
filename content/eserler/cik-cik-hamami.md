@@ -5,10 +5,10 @@ slug: "cik-cik-hamami"
 description: "## Cık Cık Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0215721,40.2025414"
 draft: "false"
 weight: "999"

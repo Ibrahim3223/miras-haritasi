@@ -5,10 +5,10 @@ slug: "manastir-medresesi"
 description: "## Manastır Medresesi: Bursa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0577335,40.1866646"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nekropol-besiktas-metro-kazisi"
 description: "# Nekropol, Beşiktaş Metro Kazısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0074387,41.043354"
 draft: "false"
 weight: "999"

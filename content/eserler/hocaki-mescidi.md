@@ -5,10 +5,10 @@ slug: "hocaki-mescidi"
 description: "### Hocaki Mescidi: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5554638,41.6786385"
 draft: "false"
 weight: "999"

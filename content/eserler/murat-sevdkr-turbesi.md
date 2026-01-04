@@ -5,10 +5,10 @@ slug: "murat-sevdkr-turbesi"
 description: "# Murat Sevdâkâr Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.5570488,40.3144569"
 draft: "false"
 weight: "999"

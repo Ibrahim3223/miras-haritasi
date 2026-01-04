@@ -5,10 +5,10 @@ slug: "zendi-ada-mahallesi-koprusu"
 description: "## Zendi (Ada Mahallesi) Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.142217,41.129383"
 draft: "false"
 weight: "999"

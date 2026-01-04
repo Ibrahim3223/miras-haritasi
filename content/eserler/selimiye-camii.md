@@ -5,10 +5,10 @@ slug: "selimiye-camii"
 description: "## Selimiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Selimiye_Mosque_-_Selimiye_Camii,_Konya.jpg/1200px-Selimiye_Mosque_-_Selimiye_Camii,_Konya.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.504111111,37.870416666"
 draft: "false"
 weight: "1"

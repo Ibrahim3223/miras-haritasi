@@ -5,10 +5,10 @@ slug: "melike-hatun-camii"
 description: "## Melike Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Ankara_asv2021-10_img47_Melike_Hatun_Mosque.jpg/1200px-Ankara_asv2021-10_img47_Melike_Hatun_Mosque.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.855555555,39.936388888"
 draft: "false"
 weight: "10"

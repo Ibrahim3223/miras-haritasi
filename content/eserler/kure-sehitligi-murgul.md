@@ -5,10 +5,10 @@ slug: "kure-sehitligi-murgul"
 description: "### Küre Şehitliği: Murgul'un Anıtı..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Murgul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.570591,41.292516"
 draft: "false"
 weight: "999"

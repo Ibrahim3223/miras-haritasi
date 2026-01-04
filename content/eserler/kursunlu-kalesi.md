@@ -5,10 +5,10 @@ slug: "kursunlu-kalesi"
 description: "**Kurşunlu Kalesi**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.4340324,38.1538124"
 draft: "false"
 weight: "999"

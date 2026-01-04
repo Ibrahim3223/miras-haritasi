@@ -5,10 +5,10 @@ slug: "ozdemir-hoyuk"
 description: "## Özdemir Höyük: Antalya'nın Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.059509698,36.871399702"
 draft: "false"
 weight: "999"

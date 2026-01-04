@@ -5,10 +5,10 @@ slug: "haskoy-c-tumulusu"
 description: "## Hasköy C Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8506336,41.6400299"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arappinari-koprusu"
 description: "### Arappınarı Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2334385,38.4244347"
 draft: "false"
 weight: "999"

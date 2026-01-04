@@ -5,10 +5,10 @@ slug: "iii-mustafa-turbesi"
 description: "## III. Mustafa Türbesi: Fatih'in Ölümsüz Hatırası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Laleli_III_Mustafa_Turbesi.jpg/1200px-Laleli_III_Mustafa_Turbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9559644,41.0097344"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "belkavak-tumulusu"
 description: "#### Belkavak Tümülüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.8905125,39.8186493"
 draft: "false"
 weight: "999"

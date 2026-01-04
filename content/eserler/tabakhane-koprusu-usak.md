@@ -5,10 +5,10 @@ slug: "tabakhane-koprusu-usak"
 description: "## Tabakhane Köprüsü, Uşak: Bir Köprünin Efsanesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4031925,38.6822433"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-karatay-medresesi"
 description: "### Küçük Karatay Medresesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.493515,37.8750229"
 draft: "false"
 weight: "999"

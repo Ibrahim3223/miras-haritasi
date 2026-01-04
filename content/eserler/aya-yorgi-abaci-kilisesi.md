@@ -5,10 +5,10 @@ slug: "aya-yorgi-abaci-kilisesi"
 description: "**Aya Yorgi Abacı Kilisesi: Bir Azizin Adına İnşa Edilen Tarihî Bir Çan Kulesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ayval%C4%B1k_a_former_monastery_-_panoramio.jpg"
 province: "Ayvalık (ilçe)"
-iller: '["Ayvalık (ilçe)"]'
+iller: ["Ayvalık (ilçe)"]
 district: "Küçükköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.709416666,39.301805555"
 draft: "false"
 weight: "999"

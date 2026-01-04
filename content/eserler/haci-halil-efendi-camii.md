@@ -5,10 +5,10 @@ slug: "haci-halil-efendi-camii"
 description: "**Hacı Halil Efendi Camii**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.133688,38.4133873"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyukmandira-hurriyet-tumulusu"
 description: "## Büyükmandıra Hürriyet Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1073647,41.355587"
 draft: "false"
 weight: "999"

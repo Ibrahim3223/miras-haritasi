@@ -5,10 +5,10 @@ slug: "ortaca-koyu-asarlik-yerlesimi"
 description: "## Ortaca Köyü Asarlık Yerleşimi: Çanakkale'nin Gizli Kıvılcımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6256962,40.0719032"
 draft: "false"
 weight: "999"

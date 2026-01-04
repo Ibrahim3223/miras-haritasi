@@ -5,10 +5,10 @@ slug: "ataturk-kosku"
 description: "## Atatürk Köşkü: Trabzon'un Gizli Gözdeleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Atatiurko_namas.jpg/1200px-Atatiurko_namas.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.697472222,40.979777777"
 draft: "false"
 weight: "10"

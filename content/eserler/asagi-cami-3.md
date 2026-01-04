@@ -5,10 +5,10 @@ slug: "asagi-cami-3"
 description: "## Aşağı Cami 3: Muğla'nın Tarihi Bir Anıt..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7626762,37.1641426"
 draft: "false"
 weight: "999"

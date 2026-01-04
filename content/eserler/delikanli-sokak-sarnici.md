@@ -5,10 +5,10 @@ slug: "delikanli-sokak-sarnici"
 description: "## Delikanlı Sokak Sarnıcı: İstanbul'un Gizli Kuytu Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.958948786,41.013810121"
 draft: "false"
 weight: "999"

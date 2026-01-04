@@ -5,10 +5,10 @@ slug: "roma-koprusu-cakalli"
 description: "## Roma Köprüsü, Çakallı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karaisalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.1099434,37.1938629"
 draft: "false"
 weight: "999"

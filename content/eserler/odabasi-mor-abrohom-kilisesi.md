@@ -5,10 +5,10 @@ slug: "odabasi-mor-abrohom-kilisesi"
 description: "**Odabaşı Mor Abrohom Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4620438,37.1053772"
 draft: "false"
 weight: "999"

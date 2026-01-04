@@ -5,10 +5,10 @@ slug: "germanicia-antik-kenti-ve-taban-mozaikleri"
 description: "## Germanicia Antik Kenti ve Taban Mozaikleri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.9455986,37.5760994"
 draft: "false"
 weight: "999"

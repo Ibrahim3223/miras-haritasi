@@ -5,10 +5,10 @@ slug: "manastir-pendik"
 description: "## Pendik Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.239572912,40.890882989"
 draft: "false"
 weight: "999"

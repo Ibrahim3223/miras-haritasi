@@ -5,10 +5,10 @@ slug: "uskup-kelesin-tepe-guney-tumulusu"
 description: "### Üsküp Keleşin Tepe Güney Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3891792,41.7679176"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "st-etienne-latin-katolik-kilisesi"
 description: "### St. Etienne Latin Katolik Kilisesi: Bakırköy'de Bir Tarihi Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8219128,40.9577141"
 draft: "false"
 weight: "999"

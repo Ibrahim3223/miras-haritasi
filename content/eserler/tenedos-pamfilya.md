@@ -5,10 +5,10 @@ slug: "tenedos-pamfilya"
 description: "## Tenedos (Pamfilya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.6475,36.883888888"
 draft: "false"
 weight: "999"

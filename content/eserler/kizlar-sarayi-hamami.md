@@ -5,10 +5,10 @@ slug: "kizlar-sarayi-hamami"
 description: "### Kızlar Sarayı Hamamı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.8308372,40.6528511"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahib-ata-vakif-hamami"
 description: "## Sahib Ata Vakıf Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.8881207,38.2780571"
 draft: "false"
 weight: "999"

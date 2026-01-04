@@ -5,10 +5,10 @@ slug: "acemoglu-hamami"
 description: "## Acemoğlu Hamamı: Fatih'te Bir İhtişamlı Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.958782,41.012141"
 draft: "false"
 weight: "999"

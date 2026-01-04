@@ -5,10 +5,10 @@ slug: "haci-osmanlar-camii"
 description: "Hacı Osmanlar Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.943505,37.158514"
 draft: "false"
 weight: "999"

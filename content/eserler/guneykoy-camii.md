@@ -5,10 +5,10 @@ slug: "guneykoy-camii"
 description: "## Güneyköy Camii: Giresun'un Gizli Çehresi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.469896,40.891465"
 draft: "false"
 weight: "999"

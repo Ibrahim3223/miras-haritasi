@@ -5,10 +5,10 @@ slug: "vasada-antik-tiyatrosu"
 description: "## Vasada Antik Tiyatrosu..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "31.914619,37.504445"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mylae"
 description: "## Mylae Arkeolojik Sit..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.85187,36.30492"
 draft: "false"
 weight: "999"

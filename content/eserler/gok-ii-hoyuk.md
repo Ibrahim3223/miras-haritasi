@@ -5,10 +5,10 @@ slug: "gok-ii-hoyuk"
 description: "## Gök II Höyük: Çiçekdağı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1574651,39.790917"
 draft: "false"
 weight: "999"

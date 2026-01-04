@@ -5,10 +5,10 @@ slug: "aydin-kethuda-camii"
 description: "# Aydın Kethüda Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9278049,41.0119095"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sunullah-gaybi-turbesi"
 description: "## Sunullah Gaybi Türbesi: Kütahya'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.985859,39.426501"
 draft: "false"
 weight: "999"

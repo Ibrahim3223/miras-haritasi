@@ -5,10 +5,10 @@ slug: "gereli-mustafa-efendi-medresesi"
 description: "## Gereli Mustafa Efendi Medresesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0860615,37.7748795"
 draft: "false"
 weight: "999"

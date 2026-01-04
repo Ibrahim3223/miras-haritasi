@@ -5,10 +5,10 @@ slug: "septimius-severus-nymphaeum"
 description: "## Septimius Severus Nymphaeum: Denizli'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Laodicea_on_the_Lycus,_Phrygia,_Turkey_(21625691045).jpg/1200px-Laodicea_on_the_Lycus,_Phrygia,_Turkey_(21625691045).jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1090848,37.836262"
 draft: "false"
 weight: "10"

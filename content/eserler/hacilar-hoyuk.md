@@ -5,10 +5,10 @@ slug: "hacilar-hoyuk"
 description: "**Hacılar Höyük: Türkiye'nin Eski Uygarlığının Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Frauenstatuetten_Hacilar.jpg/1200px-Frauenstatuetten_Hacilar.jpg"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0845,37.5843"
 draft: "false"
 weight: "10"

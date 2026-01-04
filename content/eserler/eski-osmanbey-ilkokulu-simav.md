@@ -5,10 +5,10 @@ slug: "eski-osmanbey-ilkokulu-simav"
 description: "## Eski Osmanbey İlkokulu, Simav: Bir Tarihi Edebiyat Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9752712,39.0890846"
 draft: "false"
 weight: "999"

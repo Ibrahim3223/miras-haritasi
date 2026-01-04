@@ -5,10 +5,10 @@ slug: "cinili-camii"
 description: "## Çinili Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Çinili_Mosque_main_entrance_courtyard.jpg/1200px-Çinili_Mosque_main_entrance_courtyard.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0292,41.0199"
 draft: "false"
 weight: "10"

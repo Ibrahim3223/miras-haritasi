@@ -5,10 +5,10 @@ slug: "albayrak-kilisesi"
 description: "### Albayrak Kilisesi: Van'ın Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/VAN_BA%C5%9EKALE_ALBAYRAK_K%C4%B0L%C4%B0SES%C4%B0_KURDISTAN_-_panoramio.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Başkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "44.2102718,38.1449948"
 draft: "false"
 weight: "999"

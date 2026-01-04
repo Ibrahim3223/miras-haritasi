@@ -5,10 +5,10 @@ slug: "suberde-gorukluk-tepe-hoyugu"
 description: "**Görüklük Tepe Höyüğü: Bir Geçmişin İzleri**..."
 featured_image: ""
 province: "Seydişehir"
-iller: '["Seydişehir"]'
+iller: ["Seydişehir"]
 district: "Gölyüzü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.9452782,37.3497238"
 draft: "false"
 weight: "999"

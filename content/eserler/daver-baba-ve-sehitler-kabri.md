@@ -5,10 +5,10 @@ slug: "daver-baba-ve-sehitler-kabri"
 description: "## Daver Baba ve Şehitler Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1453285,40.96241"
 draft: "false"
 weight: "999"

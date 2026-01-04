@@ -5,10 +5,10 @@ slug: "ciceklikoy-camii"
 description: "## Çiçekliköy Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2839775,38.4992943"
 draft: "false"
 weight: "999"

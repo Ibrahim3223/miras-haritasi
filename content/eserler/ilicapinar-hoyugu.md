@@ -5,10 +5,10 @@ slug: "ilicapinar-hoyugu"
 description: "### Ilıcapınar Höyüğü: Konya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Cihanbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.936153411,38.552864149"
 draft: "false"
 weight: "999"

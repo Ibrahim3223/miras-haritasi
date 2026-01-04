@@ -5,10 +5,10 @@ slug: "panda"
 description: "## Yunusemre Panda Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3789,38.7106"
 draft: "false"
 weight: "999"

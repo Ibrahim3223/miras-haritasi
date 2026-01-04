@@ -5,10 +5,10 @@ slug: "iskenderpasa-camii"
 description: "## İskenderpaşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Iskender_Pasha_Mosque_9064.jpg/1200px-Iskender_Pasha_Mosque_9064.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94788,41.01667"
 draft: "false"
 weight: "10"

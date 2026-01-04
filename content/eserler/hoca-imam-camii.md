@@ -5,10 +5,10 @@ slug: "hoca-imam-camii"
 description: "### Hoca İmam Camii: Sivas'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0180359,39.748764"
 draft: "false"
 weight: "999"

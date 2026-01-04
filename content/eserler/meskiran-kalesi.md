@@ -5,10 +5,10 @@ slug: "meskiran-kalesi"
 description: "## Meşkıran Kalesi: Kayseri'nin Gizli Çağı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.8349991,38.6180153"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmetce-aykaya-tumulus"
 description: "### Ahmetçe Aykaya Tümülüs: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2425117,41.8168411"
 draft: "false"
 weight: "999"

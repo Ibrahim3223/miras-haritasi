@@ -5,10 +5,10 @@ slug: "mustafa-efendi-turbesi"
 description: "## Mustafa Efendi Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.7800655,38.1947594"
 draft: "false"
 weight: "999"

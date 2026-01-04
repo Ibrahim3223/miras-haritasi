@@ -5,10 +5,10 @@ slug: "bati-cephesi-karargahi-muzesi"
 description: "## Batı Cephesi Karargahı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Müze_03.jpg/1200px-Müze_03.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.41509474,38.358131996"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cankiri-muzesi"
 description: "## Çankırı Müzesi: Kültür Mirası ve Tarih Öncesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Çankırı_Müzesi.jpg/1200px-Çankırı_Müzesi.jpg"
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.616662,40.600208"
 draft: "false"
 weight: "10"

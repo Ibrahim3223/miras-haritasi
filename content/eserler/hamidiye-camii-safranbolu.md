@@ -5,10 +5,10 @@ slug: "hamidiye-camii-safranbolu"
 description: "**Hamidiye Camii, Safranbolu**..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.69176627,41.247124829"
 draft: "false"
 weight: "999"

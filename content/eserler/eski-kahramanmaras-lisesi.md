@@ -5,10 +5,10 @@ slug: "eski-kahramanmaras-lisesi"
 description: "## Eski Kahramanmaraş Lisesi: Kahramanmaraş'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.9298859,37.5936432"
 draft: "false"
 weight: "999"

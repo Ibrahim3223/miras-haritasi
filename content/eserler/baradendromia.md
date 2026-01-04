@@ -5,10 +5,10 @@ slug: "baradendromia"
 description: "### Baradendromia: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.026045,40.98169"
 draft: "false"
 weight: "999"

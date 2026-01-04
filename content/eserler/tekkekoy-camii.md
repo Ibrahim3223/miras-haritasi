@@ -5,10 +5,10 @@ slug: "tekkekoy-camii"
 description: "## Tekkeköy Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.588202,40.420536"
 draft: "false"
 weight: "999"

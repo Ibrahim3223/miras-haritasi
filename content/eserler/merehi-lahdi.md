@@ -5,10 +5,10 @@ slug: "merehi-lahdi"
 description: "## Merehi Lahdi: Kaş'ın Zengin Tarihçesinde Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Merehi_by_schopar.jpg/1200px-Merehi_by_schopar.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.321663,36.359737"
 draft: "false"
 weight: "10"

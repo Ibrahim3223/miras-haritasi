@@ -5,10 +5,10 @@ slug: "gordion-tumulus-s-2"
 description: "## Gordion Tümülüs S-2: Polatlı'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.990137,39.636902"
 draft: "false"
 weight: "999"

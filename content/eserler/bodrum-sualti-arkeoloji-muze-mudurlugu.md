@@ -5,10 +5,10 @@ slug: "bodrum-sualti-arkeoloji-muze-mudurlugu"
 description: "## Bodrum Sualtı Arkeoloji Müze Müdürlüğü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.42863,37.03244"
 draft: "false"
 weight: "999"

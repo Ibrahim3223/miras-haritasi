@@ -5,10 +5,10 @@ slug: "cedid-ibrahim-pasa-hamami"
 description: "## Cedid İbrahim Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.994532,41.03752"
 draft: "false"
 weight: "999"

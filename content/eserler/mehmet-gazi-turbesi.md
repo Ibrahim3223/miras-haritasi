@@ -5,10 +5,10 @@ slug: "mehmet-gazi-turbesi"
 description: "## Mehmet Gazi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.077795,37.7898483"
 draft: "false"
 weight: "999"

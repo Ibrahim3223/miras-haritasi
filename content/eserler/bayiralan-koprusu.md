@@ -5,10 +5,10 @@ slug: "bayiralan-koprusu"
 description: "## Bayıralan Köprüsü: Tarihi bir Köprü Denizli'nin Çal ilçesinde..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.376455,37.974503"
 draft: "false"
 weight: "999"

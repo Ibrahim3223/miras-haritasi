@@ -5,10 +5,10 @@ slug: "lokman-zaviyesi-becin"
 description: "# Lokman Zaviyesi, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7812004,37.2748146"
 draft: "false"
 weight: "999"

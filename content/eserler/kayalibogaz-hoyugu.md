@@ -5,10 +5,10 @@ slug: "kayalibogaz-hoyugu"
 description: "## Kayalıboğaz Höyüğü: Türk Tarihine Yarınlarda Karşılaşılan Bir Anıt..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yenifakılı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9286699,39.3310465"
 draft: "false"
 weight: "999"

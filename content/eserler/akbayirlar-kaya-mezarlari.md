@@ -5,10 +5,10 @@ slug: "akbayirlar-kaya-mezarlari"
 description: "### Akbayırlar Kaya Mezarları..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9569206,40.2035789"
 draft: "false"
 weight: "999"

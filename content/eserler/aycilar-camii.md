@@ -5,10 +5,10 @@ slug: "aycilar-camii"
 description: "## Aycılar Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7821236,41.3809128"
 draft: "false"
 weight: "999"

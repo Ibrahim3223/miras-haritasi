@@ -5,10 +5,10 @@ slug: "mocasura"
 description: "# Mocasura..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6654854,41.0388715"
 draft: "false"
 weight: "999"

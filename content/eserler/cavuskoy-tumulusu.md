@@ -5,10 +5,10 @@ slug: "cavuskoy-tumulusu"
 description: "**Çavuşköy Tümülüsü**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1651535,40.6932373"
 draft: "false"
 weight: "999"

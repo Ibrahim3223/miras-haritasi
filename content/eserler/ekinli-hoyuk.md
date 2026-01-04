@@ -5,10 +5,10 @@ slug: "ekinli-hoyuk"
 description: "# Ekinli Höyük: Gaziantep'in Gizli Kutsalı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.3670255,36.8204812"
 draft: "false"
 weight: "999"

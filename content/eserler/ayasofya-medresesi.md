@@ -5,10 +5,10 @@ slug: "ayasofya-medresesi"
 description: "## Ayasofya Medresesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ayasofya_Medresesi.jpg/1200px-Ayasofya_Medresesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.979864,41.009317"
 draft: "false"
 weight: "1"

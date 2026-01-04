@@ -5,10 +5,10 @@ slug: "sivasa-yaziti"
 description: "## Sivasa Yazıtı: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Gülşehir"
-iller: '["Gülşehir"]'
+iller: ["Gülşehir"]
 district: "Gökçetoprak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.29027778,38.64944444"
 draft: "false"
 weight: "999"

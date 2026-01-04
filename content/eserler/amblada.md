@@ -5,10 +5,10 @@ slug: "amblada"
 description: "## Amblada Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.7386345,37.518578"
 draft: "false"
 weight: "999"

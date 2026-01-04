@@ -5,10 +5,10 @@ slug: "asarkale-soke"
 description: "## Asarkale: Aydın'ın Eski Kale Köyü'nde Gizli Kalan Bir Kahramanlık..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4188995,37.7710991"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-hresdagabet-kilisesi"
 description: "### Surp Hreşdagabet Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9615536,41.0046539"
 draft: "false"
 weight: "999"

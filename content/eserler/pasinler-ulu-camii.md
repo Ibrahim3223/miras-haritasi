@@ -5,10 +5,10 @@ slug: "pasinler-ulu-camii"
 description: "### Pasinler Ulu Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.677833333,39.979277777"
 draft: "false"
 weight: "999"

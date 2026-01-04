@@ -5,10 +5,10 @@ slug: "elgiz-cagdas-sanat-muzesi"
 description: "## Elgiz Çağdaş Sanat Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.020459,41.109613"
 draft: "false"
 weight: "999"

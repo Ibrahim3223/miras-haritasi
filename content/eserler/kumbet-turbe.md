@@ -5,10 +5,10 @@ slug: "kumbet-turbe"
 description: "## Kümbet Türbe: Bozüyük'te Bir Geçiş Döneminin Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0334892,39.9070587"
 draft: "false"
 weight: "999"

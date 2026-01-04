@@ -5,10 +5,10 @@ slug: "oba-camii"
 description: "**Oba Camii: Serik'in Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.9302662,37.0702719"
 draft: "false"
 weight: "999"

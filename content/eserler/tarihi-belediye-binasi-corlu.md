@@ -5,10 +5,10 @@ slug: "tarihi-belediye-binasi-corlu"
 description: "## Tarihi Belediye Binası, Çorlu..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.7990093,41.1626587"
 draft: "false"
 weight: "999"

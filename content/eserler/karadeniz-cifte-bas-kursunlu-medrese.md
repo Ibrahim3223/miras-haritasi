@@ -5,10 +5,10 @@ slug: "karadeniz-cifte-bas-kursunlu-medrese"
 description: "## Karadeniz Çifte Baş Kurşunlu Medrese: İstanbul'un Gizli Bir Cehennemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9509602,41.0202408"
 draft: "false"
 weight: "999"

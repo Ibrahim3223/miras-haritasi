@@ -5,10 +5,10 @@ slug: "yalvacli-medresesi"
 description: "### Yalvaçlı Medresesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0853081,37.7759094"
 draft: "false"
 weight: "999"

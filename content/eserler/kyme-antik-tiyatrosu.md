@@ -5,10 +5,10 @@ slug: "kyme-antik-tiyatrosu"
 description: "## Kyme Antik Tiyatrosu: İzmir'in Tarihî Mirasının Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.937298,38.759502"
 draft: "false"
 weight: "999"

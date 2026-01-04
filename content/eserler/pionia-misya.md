@@ -5,10 +5,10 @@ slug: "pionia-misya"
 description: "### Pionia: Misya'nın Gizli Limanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5796,39.6262"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karamanoglu-ibrahim-bey-turbesi"
 description: "## Karamanoğlu İbrahim Bey Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2125282,37.1803818"
 draft: "false"
 weight: "999"

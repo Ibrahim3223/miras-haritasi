@@ -5,10 +5,10 @@ slug: "lryboton-kome-antik-kenti"
 description: "## Lryboton Kome Antik Kenti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kepez"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.725,36.9981"
 draft: "false"
 weight: "999"

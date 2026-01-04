@@ -5,10 +5,10 @@ slug: "ertugrul-bey-camii"
 description: "## Ertuğrul Bey Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0628262,40.1856918"
 draft: "false"
 weight: "999"

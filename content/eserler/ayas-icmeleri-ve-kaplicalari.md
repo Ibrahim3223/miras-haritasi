@@ -5,10 +5,10 @@ slug: "ayas-icmeleri-ve-kaplicalari"
 description: "# Ayaş İçmeleri ve Kaplıcaları: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.1160911,40.0604585"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "asagi-kizilyer-camii"
 description: "### Aşağı Kızılyer Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.329389,37.784886"
 draft: "false"
 weight: "999"

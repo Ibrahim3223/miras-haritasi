@@ -5,10 +5,10 @@ slug: "fistikli-mescit-ve-namazgahi"
 description: "### Fıstıklı Mescit ve Namazgahı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0482635,41.0338211"
 draft: "false"
 weight: "999"

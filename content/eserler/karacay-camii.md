@@ -5,10 +5,10 @@ slug: "karacay-camii"
 description: "### Karaçay Camii: Honaz'daki Gizemli Bir Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.052847,37.809243"
 draft: "false"
 weight: "999"

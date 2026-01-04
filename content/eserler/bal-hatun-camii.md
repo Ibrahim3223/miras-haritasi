@@ -5,10 +5,10 @@ slug: "bal-hatun-camii"
 description: "## Bal Hatun Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.0921097,40.1621475"
 draft: "false"
 weight: "999"

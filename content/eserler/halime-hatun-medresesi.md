@@ -5,10 +5,10 @@ slug: "halime-hatun-medresesi"
 description: "### Halime Hatun Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.9142952,38.7107849"
 draft: "false"
 weight: "999"

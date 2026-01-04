@@ -5,10 +5,10 @@ slug: "hudra-manastiri"
 description: "# Hudra Manastırı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.479229,40.4395218"
 draft: "false"
 weight: "999"

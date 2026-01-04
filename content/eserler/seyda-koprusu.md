@@ -5,10 +5,10 @@ slug: "seyda-koprusu"
 description: "## Seyda Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.0374985,39.1226006"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dereici-camii"
 description: "## Dereiçi Camii: Artvin'in Yüzyıllarca Eski Dinî Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.526438,40.8717506"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "da-vinci-cocuk-muzesi"
 description: "## Da Vinci Çocuk Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.907384728,39.928529772"
 draft: "false"
 weight: "999"

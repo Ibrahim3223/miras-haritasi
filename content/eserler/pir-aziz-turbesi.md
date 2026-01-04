@@ -5,10 +5,10 @@ slug: "pir-aziz-turbesi"
 description: "**Pir Aziz Türbesi**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Piraziz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1205559,40.9211311"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "izzetpasa-camii"
 description: "## İzzetpaşa Camii: Şişli'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Entrance_of_İzzetpaşa_Mosque,_Şişli.jpg/1200px-Entrance_of_İzzetpaşa_Mosque,_Şişli.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.987397156,41.070036969"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yeni-cami-hatay"
 description: "## Yeni Cami, Hatay: Bir Hacamatın Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Antakya_Yeni_Camii_Courtyard_in_2008_01.jpg/1200px-Antakya_Yeni_Camii_Courtyard_in_2008_01.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1650734,36.2028313"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "namik-kemal-aniti"
 description: "### Namık Kemal Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5163326,40.9787254"
 draft: "false"
 weight: "999"

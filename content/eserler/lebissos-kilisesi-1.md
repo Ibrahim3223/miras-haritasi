@@ -5,10 +5,10 @@ slug: "lebissos-kilisesi-1"
 description: "## Lebissos Kilisesi 1: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0659962,36.5544472"
 draft: "false"
 weight: "999"

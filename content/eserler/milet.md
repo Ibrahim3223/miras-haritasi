@@ -5,10 +5,10 @@ slug: "milet"
 description: "# Milet: İyonya'nın Şerefli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/The_Theater_of_Miletus.jpg/1200px-The_Theater_of_Miletus.jpg"
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.275556,37.531111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "elazig-arkeoloji-ve-etnografya-muzesi"
 description: "### Elazığ Arkeoloji Ve Etnografya Müzesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.19011,38.67301"
 draft: "false"
 weight: "999"

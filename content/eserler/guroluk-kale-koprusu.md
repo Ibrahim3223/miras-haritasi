@@ -5,10 +5,10 @@ slug: "guroluk-kale-koprusu"
 description: "## Güroluk Kale Köprüsü: Rize'nin Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0496,41.02095"
 draft: "false"
 weight: "999"

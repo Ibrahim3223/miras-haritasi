@@ -5,10 +5,10 @@ slug: "ahlat-buyuk-hamam"
 description: "**Ahlat Büyük Hamam**..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "42.499054,38.7537575"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ulukisla-okuz-mehmet-pasa-camii"
 description: "## Ulukışla Öküz Mehmet Paşa Camii..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Ulukışla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4823341,37.5467072"
 draft: "false"
 weight: "999"

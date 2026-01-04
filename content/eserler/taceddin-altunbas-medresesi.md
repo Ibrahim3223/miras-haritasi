@@ -5,10 +5,10 @@ slug: "taceddin-altunbas-medresesi"
 description: "## Taceddin Altunbaş Medresesi: Amasya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.8332329,40.6508942"
 draft: "false"
 weight: "999"

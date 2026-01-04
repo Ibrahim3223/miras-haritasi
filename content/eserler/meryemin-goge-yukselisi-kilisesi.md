@@ -5,10 +5,10 @@ slug: "meryemin-goge-yukselisi-kilisesi"
 description: "### Meryem’in Göğe Yükselişi Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Manyas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.8432236,40.1544342"
 draft: "false"
 weight: "999"

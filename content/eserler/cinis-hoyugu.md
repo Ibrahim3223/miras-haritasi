@@ -5,10 +5,10 @@ slug: "cinis-hoyugu"
 description: "### Cinis Höyüğü: Aşkale'nin Gizemi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aşkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.8543549,39.8845978"
 draft: "false"
 weight: "999"

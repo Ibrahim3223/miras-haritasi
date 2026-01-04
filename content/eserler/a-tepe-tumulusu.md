@@ -5,10 +5,10 @@ slug: "a-tepe-tumulusu"
 description: "## A Tepe Tümülüsü: İzmir'in Gizli Öreni..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.19285,39.11677"
 draft: "false"
 weight: "999"

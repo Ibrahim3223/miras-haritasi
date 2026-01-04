@@ -5,10 +5,10 @@ slug: "imamoglu-hoyugu"
 description: "### İmamoğlu Höyüğü: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.4543381,38.4752121"
 draft: "false"
 weight: "999"

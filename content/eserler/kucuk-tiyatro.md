@@ -5,10 +5,10 @@ slug: "kucuk-tiyatro"
 description: "### Küçük Tiyatro: Ankara'nın Antik Tarihçesine Bir Katkı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Küçük_Tiyatro.jpg/1200px-Küçük_Tiyatro.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "32.853252777,39.938463888"
 draft: "false"
 weight: "10"

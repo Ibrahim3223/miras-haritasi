@@ -5,10 +5,10 @@ slug: "azmak-deresi-uzerindeki-kopru"
 description: "## Azmak Deresi Üzerindeki Köprü: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Azmak_Çayı_III.jpg/1200px-Azmak_Çayı_III.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.327595,37.050117"
 draft: "false"
 weight: "10"

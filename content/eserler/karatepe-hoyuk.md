@@ -5,10 +5,10 @@ slug: "karatepe-hoyuk"
 description: "# Karatepe Höyük: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.3587232,36.3466378"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pazarli-hoyuk"
 description: "# Pazarlı Höyük: Çorum'un Gizli Kahramanı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9516,40.3253"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bekse-kalesi-sason"
 description: "## Bekse Kalesi: Batman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.35238,38.367131"
 draft: "false"
 weight: "999"

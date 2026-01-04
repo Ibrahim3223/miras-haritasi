@@ -5,10 +5,10 @@ slug: "hisar-tepesi"
 description: "# Hisar Tepesi: Sandıklı'nın Tarihi Bir Öreni..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.105967,38.479567"
 draft: "false"
 weight: "999"

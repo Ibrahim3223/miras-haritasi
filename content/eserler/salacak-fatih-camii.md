@@ -5,10 +5,10 @@ slug: "salacak-fatih-camii"
 description: "## Salacak Fatih Camii: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Salacak_Fatih_Mosque.jpg/1200px-Salacak_Fatih_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.007969444,41.020977777"
 draft: "false"
 weight: "10"

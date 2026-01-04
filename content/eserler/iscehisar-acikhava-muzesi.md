@@ -5,10 +5,10 @@ slug: "iscehisar-acikhava-muzesi"
 description: "## İscehisar Açıkhava Müzesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İscehisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.750738,38.860661"
 draft: "false"
 weight: "999"

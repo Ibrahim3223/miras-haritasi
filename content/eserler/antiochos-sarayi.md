@@ -5,10 +5,10 @@ slug: "antiochos-sarayi"
 description: "## Antiochos Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Sultanahmet_Meydanı.jpg/1200px-Sultanahmet_Meydanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9751,41.0074"
 draft: "false"
 weight: "10"

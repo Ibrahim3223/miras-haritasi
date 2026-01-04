@@ -5,10 +5,10 @@ slug: "ardesen-kilisesi"
 description: "## Ardeşen Kilisesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ruins_of_Georgian_church_in_Ardeşen,_Rize,_Lazistan.jpg/1200px-Ruins_of_Georgian_church_in_Ardeşen,_Rize,_Lazistan.jpg"
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.001527777,41.195833333"
 draft: "false"
 weight: "10"

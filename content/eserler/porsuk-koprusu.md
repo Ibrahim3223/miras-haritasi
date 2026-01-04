@@ -5,10 +5,10 @@ slug: "porsuk-koprusu"
 description: "## Porsuk Köprüsü: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.904778,40.969862"
 draft: "false"
 weight: "999"

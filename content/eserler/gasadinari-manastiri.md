@@ -5,10 +5,10 @@ slug: "gasadinari-manastiri"
 description: "## Gasadinari Manastırı: Şavşat'ta Bir Tarihî Şans..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Kirazlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.509416666,41.251638888"
 draft: "false"
 weight: "999"

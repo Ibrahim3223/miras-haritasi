@@ -5,10 +5,10 @@ slug: "bostanci-camii-gaziantep"
 description: "### Bostancı Camii: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3869591,37.0676079"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "herakleia-hamam-ve-gymnasion-kompleksi"
 description: "## Herakleia Hamam ve Gymnasion Kompleksi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.527586,37.5028"
 draft: "false"
 weight: "999"

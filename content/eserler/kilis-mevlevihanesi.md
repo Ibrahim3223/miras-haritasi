@@ -5,10 +5,10 @@ slug: "kilis-mevlevihanesi"
 description: "# Kilis Mevlevihanesi: Tarihi ve Kültürel Mirasının Parçası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1143875,36.7155495"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istanbul-havacilik-muzesi"
 description: "## İstanbul Havacılık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/İstanbul_5372.jpg/1200px-İstanbul_5372.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.825765,40.963862"
 draft: "false"
 weight: "10"

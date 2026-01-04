@@ -5,10 +5,10 @@ slug: "servetiye-muzesi"
 description: "## Servetiye Müzesi: Başiskele'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Servetiye_müzesi_(1)_01.jpg/1200px-Servetiye_müzesi_(1)_01.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Başiskele"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9376378,40.6272594"
 draft: "false"
 weight: "10"

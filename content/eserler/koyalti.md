@@ -5,10 +5,10 @@ slug: "koyalti"
 description: "## Köyaltı Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.078367,38.511883"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tavasi-hasan-aga-camii"
 description: "### Tavaşi Hasan Ağa Camii: Üsküdar'ın Gizli İncisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.017527777,41.017916666"
 draft: "false"
 weight: "999"

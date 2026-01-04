@@ -5,10 +5,10 @@ slug: "odtu-ataturk-aniti"
 description: "### ODTÜ Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/10_Kasım'da_Atatürk_Anıtı,_ODTÜ.jpg/1200px-10_Kasım'da_Atatürk_Anıtı,_ODTÜ.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.78335556,39.89475833"
 draft: "false"
 weight: "10"

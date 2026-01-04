@@ -5,10 +5,10 @@ slug: "manisa-garnizon-sehitligi"
 description: "## Manisa Garnizon Şehitliği..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4440079,38.6147423"
 draft: "false"
 weight: "999"

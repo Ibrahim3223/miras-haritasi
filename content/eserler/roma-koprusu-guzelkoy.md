@@ -5,10 +5,10 @@ slug: "roma-koprusu-guzelkoy"
 description: "## Roma Köprüsü, Güzelköy..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.670231,38.770798"
 draft: "false"
 weight: "999"

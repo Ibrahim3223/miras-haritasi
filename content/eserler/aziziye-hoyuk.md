@@ -5,10 +5,10 @@ slug: "aziziye-hoyuk"
 description: "# Aziziye Höyük: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

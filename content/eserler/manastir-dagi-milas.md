@@ -5,10 +5,10 @@ slug: "manastir-dagi-milas"
 description: "## Manastır Dağı: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.7608795,37.1787338"
 draft: "false"
 weight: "999"

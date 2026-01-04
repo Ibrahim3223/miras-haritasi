@@ -5,10 +5,10 @@ slug: "ismetiye-tumulusu"
 description: "## İsmetiye Tümülüsü: Alaşehir'in Gizli Öyküsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.402478025,38.461887591"
 draft: "false"
 weight: "999"

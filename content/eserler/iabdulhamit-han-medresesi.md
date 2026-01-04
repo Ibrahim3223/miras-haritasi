@@ -5,10 +5,10 @@ slug: "iabdulhamit-han-medresesi"
 description: "## I.Abdülhamit Han Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.950886,41.027344"
 draft: "false"
 weight: "999"

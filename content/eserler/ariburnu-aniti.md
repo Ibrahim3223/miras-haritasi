@@ -5,10 +5,10 @@ slug: "ariburnu-aniti"
 description: "## Arıburnu Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Turkey-2967_(2217220780)_(2).jpg/1200px-Turkey-2967_(2217220780)_(2).jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Büyükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.277264876,40.238577261"
 draft: "false"
 weight: "10"

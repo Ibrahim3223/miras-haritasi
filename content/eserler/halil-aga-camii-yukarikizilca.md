@@ -5,10 +5,10 @@ slug: "halil-aga-camii-yukarikizilca"
 description: "## Halil Ağa Camii, Yukarıkızılca..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4984493,38.3853264"
 draft: "false"
 weight: "999"

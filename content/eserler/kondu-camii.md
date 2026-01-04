@@ -5,10 +5,10 @@ slug: "kondu-camii"
 description: "## Kondu Camii: Trabzon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.231321981,40.801036235"
 draft: "false"
 weight: "999"

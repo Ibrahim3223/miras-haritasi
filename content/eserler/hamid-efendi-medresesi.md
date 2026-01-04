@@ -5,10 +5,10 @@ slug: "hamid-efendi-medresesi"
 description: "## Hamid Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9590149,41.0210533"
 draft: "false"
 weight: "999"

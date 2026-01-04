@@ -5,10 +5,10 @@ slug: "yunus-emre-camii-ve-turbesi"
 description: "## Yunus Emre Camii ve Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2204285,37.1823807"
 draft: "false"
 weight: "999"

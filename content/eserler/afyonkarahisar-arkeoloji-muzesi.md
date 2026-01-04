@@ -5,10 +5,10 @@ slug: "afyonkarahisar-arkeoloji-muzesi"
 description: "## Afyonkarahisar Arkeoloji Müzesi: Bir Tarihî Mirasın Güncel Yüzü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Museum_Afyonkarahisar_01.jpg/1200px-Museum_Afyonkarahisar_01.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.472896051,38.785889841"
 draft: "false"
 weight: "10"

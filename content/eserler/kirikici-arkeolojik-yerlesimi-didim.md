@@ -5,10 +5,10 @@ slug: "kirikici-arkeolojik-yerlesimi-didim"
 description: "## Kırıkiçi Arkeolojik Yerleşimi: Didim'in Gizli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3348999,37.4609985"
 draft: "false"
 weight: "999"

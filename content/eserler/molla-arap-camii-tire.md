@@ -5,10 +5,10 @@ slug: "molla-arap-camii-tire"
 description: "### Molla Arap Camii: Tire'de Bir Tarihi Övgü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7134628,38.095829"
 draft: "false"
 weight: "999"

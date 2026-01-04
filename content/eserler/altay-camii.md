@@ -5,10 +5,10 @@ slug: "altay-camii"
 description: "## Altay Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Altay-izmir-1997-10-08.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9430847,41.023159"
 draft: "false"
 weight: "999"

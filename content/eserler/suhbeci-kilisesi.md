@@ -5,10 +5,10 @@ slug: "suhbeci-kilisesi"
 description: "## Suhbeçi Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "İşhan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.757888888,40.824805555"
 draft: "false"
 weight: "999"

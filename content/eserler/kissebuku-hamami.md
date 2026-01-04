@@ -5,10 +5,10 @@ slug: "kissebuku-hamami"
 description: "### Kissebükü Hamamı: Bodrum'un Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.646719601,36.997940461"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kizilin-koprusu"
 description: "## Kızılin Köprüsü: Adıyaman'ın Eski ve Gizemli Köprüsü..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.16325,37.44608"
 draft: "false"
 weight: "999"

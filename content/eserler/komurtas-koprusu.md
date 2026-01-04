@@ -5,10 +5,10 @@ slug: "komurtas-koprusu"
 description: "### Kömürtaş Köprüsü: Ergani'nin Efsanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Ergani"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.7949753,38.2325363"
 draft: "false"
 weight: "999"

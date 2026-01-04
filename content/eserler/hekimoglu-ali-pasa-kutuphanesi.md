@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-kutuphanesi"
 description: "## Hekimoğlu Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9330995,41.0066452"
 draft: "false"
 weight: "999"

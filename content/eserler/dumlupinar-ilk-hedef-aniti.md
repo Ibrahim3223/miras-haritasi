@@ -5,10 +5,10 @@ slug: "dumlupinar-ilk-hedef-aniti"
 description: "## Dumlupınar İlk Hedef Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9789696,38.8542023"
 draft: "false"
 weight: "999"

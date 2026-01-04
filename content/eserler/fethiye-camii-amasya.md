@@ -5,10 +5,10 @@ slug: "fethiye-camii-amasya"
 description: "## Fethiye Camii, Amasya: Tarihî Bir Yapı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8345337,40.6474571"
 draft: "false"
 weight: "999"

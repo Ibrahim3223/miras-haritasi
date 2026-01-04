@@ -5,10 +5,10 @@ slug: "karaatli-turbesi-soke"
 description: "## Karaatlı Türbesi: Aydın'ın Yüce Örnekleri arasında Bir Anıt..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5170994,37.7426987"
 draft: "false"
 weight: "999"

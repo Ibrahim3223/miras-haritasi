@@ -5,10 +5,10 @@ slug: "sultanbey-turbesi"
 description: "## Sultanbey Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.576114,40.70491"
 draft: "false"
 weight: "999"

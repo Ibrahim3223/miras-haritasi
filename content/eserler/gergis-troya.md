@@ -5,10 +5,10 @@ slug: "gergis-troya"
 description: "## Gergis: Troya'nın Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.609255,39.898491"
 draft: "false"
 weight: "999"

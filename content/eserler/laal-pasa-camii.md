@@ -5,10 +5,10 @@ slug: "laal-pasa-camii"
 description: "## Laal Paşa Camii: Mut, Mersin'de Tarih ve Görsellik Birleştiriyor..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Laal_Pasha_Mosque.jpg/1200px-Laal_Pasha_Mosque.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.43611111,36.64444444"
 draft: "false"
 weight: "10"

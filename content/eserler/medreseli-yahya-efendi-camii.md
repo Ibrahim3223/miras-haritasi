@@ -5,10 +5,10 @@ slug: "medreseli-yahya-efendi-camii"
 description: "## Medreseli Yahya Efendi Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.9091606,38.6316681"
 draft: "false"
 weight: "999"

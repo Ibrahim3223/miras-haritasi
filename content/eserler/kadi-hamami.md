@@ -5,10 +5,10 @@ slug: "kadi-hamami"
 description: "## Kadı Hamamı: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Kayseri%20Kad%C4%B1%20hamam%20in%202024%208381.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.2328231,37.911596"
 draft: "false"
 weight: "999"

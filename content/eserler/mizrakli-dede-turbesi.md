@@ -5,10 +5,10 @@ slug: "mizrakli-dede-turbesi"
 description: "## Mızraklı Dede Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karabağlar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1086025,38.390564"
 draft: "false"
 weight: "999"

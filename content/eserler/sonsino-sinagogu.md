@@ -5,10 +5,10 @@ slug: "sonsino-sinagogu"
 description: "## Sonsino Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.136777777,38.416944444"
 draft: "false"
 weight: "999"

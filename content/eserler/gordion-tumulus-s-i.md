@@ -5,10 +5,10 @@ slug: "gordion-tumulus-s-i"
 description: "# Gordion Tümülüs S-I: Türkiye'nin Efsanevi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.990004,39.642651"
 draft: "false"
 weight: "999"

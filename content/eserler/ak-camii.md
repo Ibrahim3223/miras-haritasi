@@ -5,10 +5,10 @@ slug: "ak-camii"
 description: "## Ak Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d1/Urfa_Nimetullah_Camii_Probably_one_of_three_graves_3082.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8276329,36.0751801"
 draft: "false"
 weight: "999"

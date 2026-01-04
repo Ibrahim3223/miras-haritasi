@@ -5,10 +5,10 @@ slug: "babik-bey-hamami"
 description: "## Babik Bey Hamamı: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9773006,39.0857277"
 draft: "false"
 weight: "999"

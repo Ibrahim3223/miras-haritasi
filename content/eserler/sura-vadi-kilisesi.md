@@ -5,10 +5,10 @@ slug: "sura-vadi-kilisesi"
 description: "## Sura Vadi Kilisesi: Demre'nin Gizli Gözdeleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9402714,36.2418289"
 draft: "false"
 weight: "999"

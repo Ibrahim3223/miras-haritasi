@@ -5,10 +5,10 @@ slug: "roma-koprusu-eskigediz"
 description: "## Roma Köprüsü, Eskigediz..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Gediz"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4139768,39.0387672"
 draft: "false"
 weight: "999"

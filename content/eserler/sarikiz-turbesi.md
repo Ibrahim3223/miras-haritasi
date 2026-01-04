@@ -5,10 +5,10 @@ slug: "sarikiz-turbesi"
 description: "## Sarıkız Türbesi: Taraklı'nın Gizli Çehresi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Taraklı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4959545,40.3929253"
 draft: "false"
 weight: "999"

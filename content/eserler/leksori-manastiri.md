@@ -5,10 +5,10 @@ slug: "leksori-manastiri"
 description: "### Leksori Manastırı: Birkaç Yüzyıllık Geçmişi ve Etkileyici Mimarisine Sahip Bir Manastır..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Sındıran"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.326297222,40.618013888"
 draft: "false"
 weight: "999"

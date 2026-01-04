@@ -5,10 +5,10 @@ slug: "osmanli-turbesi-beysehir"
 description: "# Osmanlı Türbesi, Beyşehir..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.718837213,37.683588032"
 draft: "false"
 weight: "999"

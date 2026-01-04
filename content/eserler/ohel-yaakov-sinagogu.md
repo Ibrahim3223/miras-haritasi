@@ -5,10 +5,10 @@ slug: "ohel-yaakov-sinagogu"
 description: "### Ohel Yaakov Sinagogu: İstanbul'un Eski Adaları'nda Eski Bir Sinagogun Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0691319,40.8806648"
 draft: "false"
 weight: "999"

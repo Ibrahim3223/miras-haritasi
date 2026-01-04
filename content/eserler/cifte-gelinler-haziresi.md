@@ -5,10 +5,10 @@ slug: "cifte-gelinler-haziresi"
 description: "## Çifte Gelinler Haziresi: İstanbulluğun Güzelliğini Yansıtan Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9641334,41.0051182"
 draft: "false"
 weight: "999"

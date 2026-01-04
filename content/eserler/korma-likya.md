@@ -5,10 +5,10 @@ slug: "korma-likya"
 description: "## Korma (Likya) Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3003095,36.553099"
 draft: "false"
 weight: "999"

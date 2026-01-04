@@ -5,10 +5,10 @@ slug: "nedime-hanim-turbesi"
 description: "## Nedime Hanım Türbesi: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4047661,40.142765"
 draft: "false"
 weight: "999"

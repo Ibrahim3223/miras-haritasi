@@ -5,10 +5,10 @@ slug: "sarnic-kilise"
 description: "### Sarnıç Kilisesi: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.817368984,38.618094347"
 draft: "false"
 weight: "999"

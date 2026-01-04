@@ -5,10 +5,10 @@ slug: "kabe-mescidi"
 description: "## Kabe Mescidi: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5277863,38.757122"
 draft: "false"
 weight: "999"

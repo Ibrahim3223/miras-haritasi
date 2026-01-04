@@ -5,10 +5,10 @@ slug: "ahi-yusuf-camii-ve-turbesi"
 description: "## Ahi Yusuf Camii ve Türbesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.704,36.8835"
 draft: "false"
 weight: "999"

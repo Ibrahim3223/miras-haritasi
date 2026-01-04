@@ -5,10 +5,10 @@ slug: "ciftlik-cine-cayi-roma-koprusu"
 description: "## Çiftlik Çine Çayı Roma Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8363514,37.762394"
 draft: "false"
 weight: "999"

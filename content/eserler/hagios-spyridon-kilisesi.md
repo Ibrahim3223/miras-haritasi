@@ -5,10 +5,10 @@ slug: "hagios-spyridon-kilisesi"
 description: "### Hagios Spyridon Kilisesi: Silivri'nin Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2459431,41.0728035"
 draft: "false"
 weight: "999"

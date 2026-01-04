@@ -5,10 +5,10 @@ slug: "caenophrurium"
 description: "### Caenophrurium..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.21666667,41.23333333"
 draft: "false"
 weight: "999"

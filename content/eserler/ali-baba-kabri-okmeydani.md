@@ -5,10 +5,10 @@ slug: "ali-baba-kabri-okmeydani"
 description: "## Ali Baba Kabri, Okmeydanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9605732,41.0416069"
 draft: "false"
 weight: "999"

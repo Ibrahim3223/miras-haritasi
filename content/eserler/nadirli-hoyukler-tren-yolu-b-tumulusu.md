@@ -5,10 +5,10 @@ slug: "nadirli-hoyukler-tren-yolu-b-tumulusu"
 description: "### Nadırlı Höyükler Tren Yolu B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0882645,41.3648834"
 draft: "false"
 weight: "999"

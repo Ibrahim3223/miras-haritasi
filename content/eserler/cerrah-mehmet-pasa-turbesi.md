@@ -5,10 +5,10 @@ slug: "cerrah-mehmet-pasa-turbesi"
 description: "## Cerrah Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9446455,41.0078136"
 draft: "false"
 weight: "999"

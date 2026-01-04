@@ -5,10 +5,10 @@ slug: "mugla-ulu-camii"
 description: "### Muğla Ulu Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Muğla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3652532,37.2191076"
 draft: "false"
 weight: "999"

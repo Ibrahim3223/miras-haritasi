@@ -5,10 +5,10 @@ slug: "agia-anastasia-farmakolytria"
 description: "## Agia Anastasia Farmakolytria: İstanbullu Mütevazı Bir Kilise..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

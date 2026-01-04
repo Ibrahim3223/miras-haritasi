@@ -5,10 +5,10 @@ slug: "hristos-manastiri-kilisesi"
 description: "### Hristos Manastırı Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.1235161,40.8644257"
 draft: "false"
 weight: "999"

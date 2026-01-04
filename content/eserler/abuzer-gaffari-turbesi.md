@@ -5,10 +5,10 @@ slug: "abuzer-gaffari-turbesi"
 description: "## Abuzer Gaffari Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.1631203,37.7575798"
 draft: "false"
 weight: "999"

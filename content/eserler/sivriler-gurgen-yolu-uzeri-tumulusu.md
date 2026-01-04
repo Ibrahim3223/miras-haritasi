@@ -5,10 +5,10 @@ slug: "sivriler-gurgen-yolu-uzeri-tumulusu"
 description: "## Sivriler Gürgen Yolu Üzeri Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9548473,41.8085022"
 draft: "false"
 weight: "999"

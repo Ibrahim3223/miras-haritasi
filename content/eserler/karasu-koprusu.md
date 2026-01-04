@@ -5,10 +5,10 @@ slug: "karasu-koprusu"
 description: "## Karasu Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

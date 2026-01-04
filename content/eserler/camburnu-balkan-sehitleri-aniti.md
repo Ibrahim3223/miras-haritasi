@@ -5,10 +5,10 @@ slug: "camburnu-balkan-sehitleri-aniti"
 description: "## Çamburnu Balkan Şehitleri Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3718166,40.1669579"
 draft: "false"
 weight: "999"

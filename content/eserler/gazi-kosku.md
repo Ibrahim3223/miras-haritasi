@@ -5,10 +5,10 @@ slug: "gazi-kosku"
 description: "## Gazi Köşkü: Diyarbakır'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Gazi_Pavillion.jpg/1200px-Gazi_Pavillion.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.229198,37.895626"
 draft: "false"
 weight: "10"

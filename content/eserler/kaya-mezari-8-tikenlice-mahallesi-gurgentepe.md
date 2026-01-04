@@ -5,10 +5,10 @@ slug: "kaya-mezari-8-tikenlice-mahallesi-gurgentepe"
 description: "## Kaya Mezarı 8 (Tikenlice Mahallesi) Gürgentepe: Bir Geçmişin Anıtları..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gürgentepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.664227,40.776393"
 draft: "false"
 weight: "999"

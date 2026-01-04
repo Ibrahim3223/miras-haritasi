@@ -5,10 +5,10 @@ slug: "demirci-mehmet-efe-anit-mezari"
 description: "## Demirci Mehmet Efe Anıt Mezarı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3324833,37.9253807"
 draft: "false"
 weight: "999"

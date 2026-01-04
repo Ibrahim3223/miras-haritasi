@@ -5,10 +5,10 @@ slug: "rahmanlar-koprusu-2"
 description: "## Rahmanlar Köprüsü 2: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3743992,38.0481987"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "oncupinar-sinir-kapisi"
 description: "## Öncüpınar Sınır Kapısı: Tarihî Bir Kervansarayın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "37.08498,36.63353"
 draft: "false"
 weight: "999"

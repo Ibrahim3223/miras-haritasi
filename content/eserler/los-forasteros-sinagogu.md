@@ -5,10 +5,10 @@ slug: "los-forasteros-sinagogu"
 description: "## Los Forasteros Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.135777777,38.420138888"
 draft: "false"
 weight: "999"

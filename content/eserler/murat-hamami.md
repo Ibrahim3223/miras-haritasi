@@ -5,10 +5,10 @@ slug: "murat-hamami"
 description: "## Murat Hamamı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8931236,40.8119774"
 draft: "false"
 weight: "999"

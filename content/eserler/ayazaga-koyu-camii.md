@@ -5,10 +5,10 @@ slug: "ayazaga-koyu-camii"
 description: "### Ayazağa Köyü Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9985065,41.1160126"
 draft: "false"
 weight: "999"

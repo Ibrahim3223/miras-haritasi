@@ -5,10 +5,10 @@ slug: "germa"
 description: "## Germa Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Günyüzü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.8333,39.3333"
 draft: "false"
 weight: "999"

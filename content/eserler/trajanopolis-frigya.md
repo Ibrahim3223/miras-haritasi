@@ -5,10 +5,10 @@ slug: "trajanopolis-frigya"
 description: "## Trajanopolis (Frigya): Tarihî Bir Mirasın Büyüklüğü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.5470197,38.6859865"
 draft: "false"
 weight: "999"

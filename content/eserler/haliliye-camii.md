@@ -5,10 +5,10 @@ slug: "haliliye-camii"
 description: "## Haliliye Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3168907,37.7564735"
 draft: "false"
 weight: "999"

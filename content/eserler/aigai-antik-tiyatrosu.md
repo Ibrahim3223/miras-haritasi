@@ -5,10 +5,10 @@ slug: "aigai-antik-tiyatrosu"
 description: "**Aigai Antik Tiyatrosu**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.1866245,38.8306732"
 draft: "false"
 weight: "999"

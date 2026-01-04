@@ -5,10 +5,10 @@ slug: "ebussuud-efendi-mezari"
 description: "## Ebussuud Efendi Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Şeyhülislam_Ebussuud_Efendi_Mezar_Taşı.jpg/1200px-Şeyhülislam_Ebussuud_Efendi_Mezar_Taşı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934038769,41.047340787"
 draft: "false"
 weight: "10"

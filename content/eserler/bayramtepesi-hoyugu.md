@@ -5,10 +5,10 @@ slug: "bayramtepesi-hoyugu"
 description: "### Bayramtepesi Höyüğü: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.166729,38.4692345"
 draft: "false"
 weight: "999"

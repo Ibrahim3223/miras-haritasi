@@ -5,10 +5,10 @@ slug: "hagia-martires-kilisesi"
 description: "## Hagia Martires Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2280884,41.7374077"
 draft: "false"
 weight: "999"

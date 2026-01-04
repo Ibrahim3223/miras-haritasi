@@ -5,10 +5,10 @@ slug: "nysa-antik-tiyatrosu"
 description: "### Nysa Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.145333,37.903569"
 draft: "false"
 weight: "999"

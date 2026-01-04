@@ -5,10 +5,10 @@ slug: "baris-pisidya"
 description: "## Baris (Pisidya)..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Keçiborlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.33953,37.85745"
 draft: "false"
 weight: "999"

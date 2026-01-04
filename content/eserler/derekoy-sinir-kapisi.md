@@ -5,10 +5,10 @@ slug: "derekoy-sinir-kapisi"
 description: "## Dereköy Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "27.45898,41.96773"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mersin-deniz-muzesi"
 description: "### Mersin Deniz Müzesi: Türkiye'nin Deniziyle Tanışıyor..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Mersin_Naval_Museum,_Turkey.jpg/1200px-Mersin_Naval_Museum,_Turkey.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.6201,36.8063"
 draft: "false"
 weight: "10"

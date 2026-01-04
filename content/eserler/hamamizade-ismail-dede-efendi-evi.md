@@ -5,10 +5,10 @@ slug: "hamamizade-ismail-dede-efendi-evi"
 description: "### Hamamizade İsmail Dede Efendi Evi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9797935,41.0031433"
 draft: "false"
 weight: "999"

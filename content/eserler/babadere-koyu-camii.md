@@ -5,10 +5,10 @@ slug: "babadere-koyu-camii"
 description: "### Babadere Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.1900959,39.6083641"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cakalli-mahallesi-koprusu-2"
 description: "# Çakallı Mahallesi Köprüsü 2..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.116436,41.139866"
 draft: "false"
 weight: "999"

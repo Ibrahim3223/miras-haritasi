@@ -5,10 +5,10 @@ slug: "cifte-hamam-soma"
 description: "## Çifte Hamam, Soma: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6053123,39.1798096"
 draft: "false"
 weight: "999"

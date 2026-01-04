@@ -5,10 +5,10 @@ slug: "yikik-minare-menderes"
 description: "## Yıkık Minare, Menderes: Bir Tarihi Anıtın Hikayesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1296883,38.238781"
 draft: "false"
 weight: "999"

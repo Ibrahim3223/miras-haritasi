@@ -5,10 +5,10 @@ slug: "muratli-hoyuk"
 description: "# Muratlı Höyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0511343,38.8879493"
 draft: "false"
 weight: "999"

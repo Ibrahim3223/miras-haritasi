@@ -5,10 +5,10 @@ slug: "halici-ahmet-urkay-etnografya-ve-arkeoloji-muzesi"
 description: "## Halıcı Ahmet Urkay Etnografya ve Arkeoloji Müzesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.1067848,37.9551849"
 draft: "false"
 weight: "999"

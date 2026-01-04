@@ -5,10 +5,10 @@ slug: "koziri-kilisesi"
 description: "**Koziri Kilisesi**..."
 featured_image: ""
 province: "Borçka"
-iller: '["Borçka"]'
+iller: ["Borçka"]
 district: "Aralık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.693355555,41.405055555"
 draft: "false"
 weight: "999"

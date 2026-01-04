@@ -5,10 +5,10 @@ slug: "kabatas-camii"
 description: "# Kabataş Camii: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2645988,40.7619019"
 draft: "false"
 weight: "999"

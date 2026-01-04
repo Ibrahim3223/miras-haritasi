@@ -5,10 +5,10 @@ slug: "adana-yeni-camii"
 description: "# Adana Yeni Camii: Seyhan'ın Semâlı Çatısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Adana_Yeni_Camii_2213.jpg/1200px-Adana_Yeni_Camii_2213.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.323777777,36.988388888"
 draft: "false"
 weight: "10"

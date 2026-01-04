@@ -5,10 +5,10 @@ slug: "cakirci-hasan-pasa-camii"
 description: "## Çakırcı Hasan Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Çakırcıbaşı_Hasan_Paşa_mosque_2018_7486.jpg/1200px-Çakırcıbaşı_Hasan_Paşa_mosque_2018_7486.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.012054,41.019186"
 draft: "false"
 weight: "10"

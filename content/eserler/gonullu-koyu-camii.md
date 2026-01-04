@@ -5,10 +5,10 @@ slug: "gonullu-koyu-camii"
 description: "## Gönüllü Köyü Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.594544,40.919969"
 draft: "false"
 weight: "999"

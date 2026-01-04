@@ -5,10 +5,10 @@ slug: "karsi-kilise"
 description: "## Karşı Kilise: Nevşehir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/JohannesAlteFresken.jpg/1200px-JohannesAlteFresken.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.634764,38.740699"
 draft: "false"
 weight: "10"

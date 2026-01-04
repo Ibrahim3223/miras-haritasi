@@ -5,10 +5,10 @@ slug: "ayios-yeoryios-manastiri"
 description: "## Ayios Yeoryios Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.09879,40.871778"
 draft: "false"
 weight: "999"

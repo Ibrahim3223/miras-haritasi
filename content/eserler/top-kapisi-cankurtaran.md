@@ -5,10 +5,10 @@ slug: "top-kapisi-cankurtaran"
 description: "## Top Kapısı, Cankurtaran: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9865456,41.0165176"
 draft: "false"
 weight: "999"

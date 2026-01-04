@@ -5,10 +5,10 @@ slug: "kiziltoprak-tepe-tumulusu"
 description: "## Kızıltoprak Tepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5315361,40.9990311"
 draft: "false"
 weight: "999"

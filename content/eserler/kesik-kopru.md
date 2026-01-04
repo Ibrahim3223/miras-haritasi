@@ -5,10 +5,10 @@ slug: "kesik-kopru"
 description: "## Kesik Köprü: Sivas'ın Eski Yolları Üzerindeki Bir Tarihi Köprü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.9626,39.7221"
 draft: "false"
 weight: "999"

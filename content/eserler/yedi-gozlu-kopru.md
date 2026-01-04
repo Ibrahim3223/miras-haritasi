@@ -5,10 +5,10 @@ slug: "yedi-gozlu-kopru"
 description: "### Yedi Gözlü Köprü: İzmirlinin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.5231513,38.4494489"
 draft: "false"
 weight: "999"

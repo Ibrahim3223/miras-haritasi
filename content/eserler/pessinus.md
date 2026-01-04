@@ -5,10 +5,10 @@ slug: "pessinus"
 description: "## Pessinus: Eskişehir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Pessinus_Ancient_City_-_2.jpg/1200px-Pessinus_Ancient_City_-_2.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.5809,39.3317"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "balcik-tekkesi-mescidi"
 description: "## Balçık Tekkesi Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9368956,41.0431372"
 draft: "false"
 weight: "999"

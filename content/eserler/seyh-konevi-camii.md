@@ -5,10 +5,10 @@ slug: "seyh-konevi-camii"
 description: "# Şeyh Konevi Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0572186,40.1786461"
 draft: "false"
 weight: "999"

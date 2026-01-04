@@ -5,10 +5,10 @@ slug: "karaz-koprusu"
 description: "# Karaz Köprüsü: Aziziye'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aziziye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.14761,39.967991"
 draft: "false"
 weight: "999"

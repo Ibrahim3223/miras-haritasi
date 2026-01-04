@@ -5,10 +5,10 @@ slug: "kecikale-kalesi-kirklareli"
 description: "# Keçikale Kalesi: Kırklareli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.2142258,41.8087273"
 draft: "false"
 weight: "999"

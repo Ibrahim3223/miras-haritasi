@@ -5,10 +5,10 @@ slug: "tasdibi-camii"
 description: "## Taşdibi Camii: Kemaliye'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Taşdibi_camii.jpg/1200px-Taşdibi_camii.jpg"
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4927254,39.2627029"
 draft: "false"
 weight: "10"

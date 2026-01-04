@@ -5,10 +5,10 @@ slug: "taskopru-kars"
 description: "## Taşköprü (Kars)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/20110419_Tas_Kopru_bridge_Kars_Turkey_Panorama.jpg/1200px-20110419_Tas_Kopru_bridge_Kars_Turkey_Panorama.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.08861111,40.61166667"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ciplak-koyu-camii"
 description: "## Çıplak Köyü Camii: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.261981756,39.95179331"
 draft: "false"
 weight: "999"

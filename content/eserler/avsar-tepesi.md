@@ -5,10 +5,10 @@ slug: "avsar-tepesi"
 description: "**Avşar Tepesi Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.7865,36.2306"
 draft: "false"
 weight: "999"

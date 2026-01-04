@@ -5,10 +5,10 @@ slug: "fevziye-kucukefendi-camii"
 description: "## Fevziye Küçükefendi Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9244404,41.0004044"
 draft: "false"
 weight: "999"

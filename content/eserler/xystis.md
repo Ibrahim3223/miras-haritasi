@@ -5,10 +5,10 @@ slug: "xystis"
 description: "## Xystis: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.5489,37.4944"
 draft: "false"
 weight: "999"

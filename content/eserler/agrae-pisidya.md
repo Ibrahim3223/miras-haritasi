@@ -5,10 +5,10 @@ slug: "agrae-pisidya"
 description: "## Agrae (Pisidya): Tarihi ve Kültürel Mirasın Bir Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.642907,37.951412"
 draft: "false"
 weight: "999"

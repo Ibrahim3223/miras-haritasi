@@ -5,10 +5,10 @@ slug: "bademli-koyu-acik-hava-tapinagi"
 description: "## Bademli Köyü Açık Hava Tapınağı: Gökçeada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8830185,40.2144394"
 draft: "false"
 weight: "999"

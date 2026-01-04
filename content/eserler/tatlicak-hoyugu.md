@@ -5,10 +5,10 @@ slug: "tatlicak-hoyugu"
 description: "## Tatlıcak Höyüğü: Sivas'ta Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.83667,39.58988"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-bektas-i-veli-turbesi"
 description: "## Hacı Bektaş-ı Veli Türbesi: Manastırın Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Hacibektas-01-mihalorel.jpg/1200px-Hacibektas-01-mihalorel.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.56222222,38.94277778"
 draft: "false"
 weight: "10"

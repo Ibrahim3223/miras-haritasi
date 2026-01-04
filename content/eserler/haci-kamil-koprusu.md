@@ -5,10 +5,10 @@ slug: "haci-kamil-koprusu"
 description: "## Hacı Kamil Köprüsü: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.7923813,37.157032"
 draft: "false"
 weight: "999"

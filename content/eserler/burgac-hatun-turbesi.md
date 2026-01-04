@@ -5,10 +5,10 @@ slug: "burgac-hatun-turbesi"
 description: "### Burgaç Hatun Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.550638888,40.314527777"
 draft: "false"
 weight: "999"

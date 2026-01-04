@@ -5,10 +5,10 @@ slug: "anadoluhisari-namazghi"
 description: "### Anadoluhisarı Namazgâhı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Namazgah_van_Anadoluhisarı.jpg/1200px-Namazgah_van_Anadoluhisarı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.066431,41.082033"
 draft: "false"
 weight: "10"

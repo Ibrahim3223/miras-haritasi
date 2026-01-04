@@ -5,10 +5,10 @@ slug: "kadikoy-demirkapi-tumulusu"
 description: "## Kadıköy Demirkapı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2381897,41.8350563"
 draft: "false"
 weight: "999"

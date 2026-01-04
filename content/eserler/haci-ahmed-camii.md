@@ -5,10 +5,10 @@ slug: "haci-ahmed-camii"
 description: "## Hacı Ahmed Camii: Beyoğlu'nun Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.973833333,41.040861111"
 draft: "false"
 weight: "999"

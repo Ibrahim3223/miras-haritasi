@@ -5,10 +5,10 @@ slug: "alexandria-troas"
 description: "## Alexandria Troas: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Troas_Therme_2.JPG/1200px-Troas_Therme_2.JPG"
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.15861111,39.75194444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kumkale-kalesi-hamami"
 description: "## Kumkale Kalesi Hamamı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.19981,40.0061417"
 draft: "false"
 weight: "999"

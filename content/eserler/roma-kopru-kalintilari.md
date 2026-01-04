@@ -5,10 +5,10 @@ slug: "roma-kopru-kalintilari"
 description: "### Roma Köprü Kalıntıları: Soma'nın Gizli Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4903687,39.1952102"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultan-suca-turbesi"
 description: "# Sultan Şuca Türbesi: Diyarbakır'ın İhtişamlı Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2353994,37.9067063"
 draft: "false"
 weight: "999"

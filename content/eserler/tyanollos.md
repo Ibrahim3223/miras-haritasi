@@ -5,10 +5,10 @@ slug: "tyanollos"
 description: "## Tyanollos: Manisa'nın Gizli Mabeti..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.72601,38.74342"
 draft: "false"
 weight: "999"

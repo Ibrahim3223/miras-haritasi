@@ -5,10 +5,10 @@ slug: "roma-koprusu-saimbey-deresi"
 description: "### Roma Köprüsü, Saimbey Deresi..."
 featured_image: ""
 province: "Adana Vilayeti"
-iller: '["Adana Vilayeti"]'
+iller: ["Adana Vilayeti"]
 district: "Saimbeyli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.0839386,37.9742203"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hyde"
 description: "## Hyde Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.517464,37.440842"
 draft: "false"
 weight: "999"

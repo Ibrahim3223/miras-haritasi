@@ -5,10 +5,10 @@ slug: "oruc-bey-hamami"
 description: "## Oruç Bey Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0540714,40.1847687"
 draft: "false"
 weight: "999"

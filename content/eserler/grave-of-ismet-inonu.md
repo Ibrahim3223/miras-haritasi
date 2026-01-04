@@ -5,10 +5,10 @@ slug: "grave-of-ismet-inonu"
 description: "## İsmet İnönü'nin Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Inonu_Tomb.JPG/1200px-Inonu_Tomb.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

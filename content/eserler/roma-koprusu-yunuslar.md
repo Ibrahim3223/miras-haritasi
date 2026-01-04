@@ -5,10 +5,10 @@ slug: "roma-koprusu-yunuslar"
 description: "## Roma Köprüsü, Yunuslar: Beyşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.941416,37.911526"
 draft: "false"
 weight: "999"

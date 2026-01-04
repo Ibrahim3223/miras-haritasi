@@ -5,10 +5,10 @@ slug: "demirseyh-turbesi"
 description: "## Demirşeyh Türbesi: Sungurlu'nun Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.5108604,40.2683678"
 draft: "false"
 weight: "999"

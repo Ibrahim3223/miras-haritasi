@@ -5,10 +5,10 @@ slug: "yagmapinari-mescidi"
 description: "## Yağmapınarı Mescidi: Konya'nın Tarihî bir Camisi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7322273,37.8231621"
 draft: "false"
 weight: "999"

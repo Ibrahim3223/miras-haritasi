@@ -5,10 +5,10 @@ slug: "cami-mahmudiye-koyu"
 description: "## Ezine'deki Mahmudiye Köyü Camisi: Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.198352728,39.922225771"
 draft: "false"
 weight: "999"

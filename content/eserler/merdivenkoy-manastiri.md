@@ -5,10 +5,10 @@ slug: "merdivenkoy-manastiri"
 description: "## Merdivenköy Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0778923,40.9886475"
 draft: "false"
 weight: "999"

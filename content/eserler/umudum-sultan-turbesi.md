@@ -5,10 +5,10 @@ slug: "umudum-sultan-turbesi"
 description: "## Umudum Sultan Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.24629,40.027849"
 draft: "false"
 weight: "999"

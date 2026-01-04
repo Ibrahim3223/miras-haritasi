@@ -5,10 +5,10 @@ slug: "findikli-palace"
 description: "## Fındıklı Sarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "meleagrou-charax"
 description: "## Meleagrou Charax: Antik Çağın Gizemli Limanı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

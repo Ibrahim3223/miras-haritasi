@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-turbesi"
 description: "## Hekimoğlu Ali Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935317,41.006579"
 draft: "false"
 weight: "999"

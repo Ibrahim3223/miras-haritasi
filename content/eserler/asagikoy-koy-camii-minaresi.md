@@ -5,10 +5,10 @@ slug: "asagikoy-koy-camii-minaresi"
 description: "### Aşağıköy Köy Camii Minaresi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0058994,40.1155014"
 draft: "false"
 weight: "999"

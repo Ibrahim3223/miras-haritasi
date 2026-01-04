@@ -5,10 +5,10 @@ slug: "seyh-seyfullah-turbesi"
 description: "## Şeyh Seyfullah Türbesi: Kayseri'nin Gizli Çehresini Keşfeden Anıt..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4918709,38.725338"
 draft: "false"
 weight: "999"

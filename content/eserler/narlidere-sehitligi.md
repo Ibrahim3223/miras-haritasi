@@ -5,10 +5,10 @@ slug: "narlidere-sehitligi"
 description: "## Narlıdere Şehitliği: İzmir'in Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Narlıdere_Şehitliği_-_Mart_2025_17.jpg/1200px-Narlıdere_Şehitliği_-_Mart_2025_17.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Narlıdere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.997222222,38.396388888"
 draft: "false"
 weight: "10"

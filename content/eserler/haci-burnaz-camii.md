@@ -5,10 +5,10 @@ slug: "haci-burnaz-camii"
 description: "## Hacı Burnaz Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5447807,41.6754112"
 draft: "false"
 weight: "999"

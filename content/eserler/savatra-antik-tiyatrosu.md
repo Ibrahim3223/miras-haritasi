@@ -5,10 +5,10 @@ slug: "savatra-antik-tiyatrosu"
 description: "## Savatra Antik Tiyatrosu..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "33.1104546,37.9703712"
 draft: "false"
 weight: "999"

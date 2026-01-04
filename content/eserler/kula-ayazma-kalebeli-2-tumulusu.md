@@ -5,10 +5,10 @@ slug: "kula-ayazma-kalebeli-2-tumulusu"
 description: "### Kula Ayazma Kalebeli 2 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3239975,42.0306587"
 draft: "false"
 weight: "999"

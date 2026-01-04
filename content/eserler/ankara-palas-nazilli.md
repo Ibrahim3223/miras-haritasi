@@ -5,10 +5,10 @@ slug: "ankara-palas-nazilli"
 description: "## Ankara Palas (Nazilli): Aydın'ın Tarihçesi ve Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Nazilli_Etno%C4%9Frafya_M%C3%BCzesi_20240405_140043.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.326527777,37.914611111"
 draft: "false"
 weight: "999"

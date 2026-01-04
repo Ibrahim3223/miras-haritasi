@@ -5,10 +5,10 @@ slug: "sacli-kasim-efendi-turbesi"
 description: "# Saçlı Kasım Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Saçlı_Kasım_Efendi_Türbesi,_Fatih,_İstanbul_2025.jpg/1200px-Saçlı_Kasım_Efendi_Türbesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9233817,41.0002793"
 draft: "false"
 weight: "10"

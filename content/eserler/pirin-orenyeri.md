@@ -5,10 +5,10 @@ slug: "pirin-orenyeri"
 description: "### Gölbaşı Pirin Örenyeri..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Gölbaşı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

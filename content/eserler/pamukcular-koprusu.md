@@ -5,10 +5,10 @@ slug: "pamukcular-koprusu"
 description: "## Pamukçular Köprüsü: Bir Geçit Zamanları Köprüsü..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1083488,38.399971"
 draft: "false"
 weight: "999"

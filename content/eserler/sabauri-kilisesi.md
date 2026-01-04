@@ -5,10 +5,10 @@ slug: "sabauri-kilisesi"
 description: "# Sabauri Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka ilçesi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.71775,41.450611111"
 draft: "false"
 weight: "999"

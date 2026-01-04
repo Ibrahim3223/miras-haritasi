@@ -5,10 +5,10 @@ slug: "coban-cavus-camii"
 description: "### Çoban Çavuş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Çoban_Çavuş_Cami,_Fatih,_İstanbul.jpg/1200px-Çoban_Çavuş_Cami,_Fatih,_İstanbul.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9592056,41.0079765"
 draft: "false"
 weight: "10"

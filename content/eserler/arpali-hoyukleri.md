@@ -5,10 +5,10 @@ slug: "arpali-hoyukleri"
 description: "## Arpalı Höyükleri: Manisa'nın Gizli İnsanlık Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.702333,38.7605"
 draft: "false"
 weight: "999"

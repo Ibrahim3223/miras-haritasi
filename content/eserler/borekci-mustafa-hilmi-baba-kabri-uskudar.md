@@ -5,10 +5,10 @@ slug: "borekci-mustafa-hilmi-baba-kabri-uskudar"
 description: "### Börekçi Mustafa Hilmi Baba Kabri: Üsküdar'a Bir Geçit..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0215626,41.026062"
 draft: "false"
 weight: "999"

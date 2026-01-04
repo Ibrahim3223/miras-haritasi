@@ -5,10 +5,10 @@ slug: "sarayli-koyu-camisi"
 description: "## Saraylı Köyü Camisi: Kocaeli'nin Gizli Çağından Kalan Bir Öncü..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7975903,40.6989212"
 draft: "false"
 weight: "999"

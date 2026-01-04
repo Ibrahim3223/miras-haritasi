@@ -5,10 +5,10 @@ slug: "galata-kulesi"
 description: "# Galata Kulesi: İstanbul'un Sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Istanbul_asv2020-02_img48_Galata_Tower.jpg/1200px-Istanbul_asv2020-02_img48_Galata_Tower.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97415319,41.025632324"
 draft: "false"
 weight: "1"

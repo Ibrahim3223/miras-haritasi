@@ -5,10 +5,10 @@ slug: "halae"
 description: "# Halae Arkeolojik Sitesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.87569,36.83353"
 draft: "false"
 weight: "999"

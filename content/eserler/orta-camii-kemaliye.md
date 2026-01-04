@@ -5,10 +5,10 @@ slug: "orta-camii-kemaliye"
 description: "## Orta Camii (Kemaliye)..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemaliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4933472,39.2626724"
 draft: "false"
 weight: "999"

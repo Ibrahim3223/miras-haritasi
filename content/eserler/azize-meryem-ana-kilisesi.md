@@ -5,10 +5,10 @@ slug: "azize-meryem-ana-kilisesi"
 description: "## Azize Meryem Ana Kilisesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Adana_Armenian_Protestant_Church.jpg/1200px-Adana_Armenian_Protestant_Church.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.3275,36.986111111"
 draft: "false"
 weight: "10"

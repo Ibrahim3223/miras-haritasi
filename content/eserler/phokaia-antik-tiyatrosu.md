@@ -5,10 +5,10 @@ slug: "phokaia-antik-tiyatrosu"
 description: "## Phokaia Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.759011,38.669892"
 draft: "false"
 weight: "999"

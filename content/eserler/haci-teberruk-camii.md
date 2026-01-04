@@ -5,10 +5,10 @@ slug: "haci-teberruk-camii"
 description: "## Hacı Teberrük Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9577675,41.0175247"
 draft: "false"
 weight: "999"

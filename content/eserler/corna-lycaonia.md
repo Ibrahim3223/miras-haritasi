@@ -5,10 +5,10 @@ slug: "corna-lycaonia"
 description: "## Lykaonya'da Gizli Bir Şehir: Corna..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.467014,37.489139"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gaysunizade-mehmet-efendi-camii"
 description: "## Gaysunizade Mehmet Efendi Camii: Beyoğlu'nun Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gaysunizade_Mehmet_Efendi_Camii.jpg/1200px-Gaysunizade_Mehmet_Efendi_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.942522,41.048589"
 draft: "false"
 weight: "10"

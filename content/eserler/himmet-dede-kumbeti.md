@@ -5,10 +5,10 @@ slug: "himmet-dede-kumbeti"
 description: "## Himmet Dede Kümbeti: Seyitgazi'nin Efsanevi Ziyaretgahı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.606981,39.211565"
 draft: "false"
 weight: "999"

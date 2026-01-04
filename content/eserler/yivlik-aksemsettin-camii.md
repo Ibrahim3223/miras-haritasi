@@ -5,10 +5,10 @@ slug: "yivlik-aksemsettin-camii"
 description: "### Yivlik Akşemsettin Camii..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4179192,40.9408875"
 draft: "false"
 weight: "999"

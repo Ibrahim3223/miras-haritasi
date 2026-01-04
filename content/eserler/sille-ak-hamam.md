@@ -5,10 +5,10 @@ slug: "sille-ak-hamam"
 description: "## Sille Ak Hamam: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Sille_Ak_Hamam_2025-07-07_1761319524.jpg/1200px-Sille_Ak_Hamam_2025-07-07_1761319524.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.4203148,37.9277153"
 draft: "false"
 weight: "10"

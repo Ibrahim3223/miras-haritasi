@@ -5,10 +5,10 @@ slug: "draman-yunus-camii"
 description: "## Draman Yunus Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_Tercuman_Yunus_Mosque_in_2015_9341.jpg/1200px-Istanbul_Tercuman_Yunus_Mosque_in_2015_9341.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94417283,41.02904183"
 draft: "false"
 weight: "10"

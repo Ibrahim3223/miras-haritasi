@@ -5,10 +5,10 @@ slug: "hocapasa-hamami"
 description: "**Hocapaşa Hamamı: İstanbul'un Tarihî Hamamlarından Bir Örnek**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.975748,41.01405"
 draft: "false"
 weight: "999"

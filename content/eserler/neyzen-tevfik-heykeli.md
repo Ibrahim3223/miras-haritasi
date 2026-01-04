@@ -5,10 +5,10 @@ slug: "neyzen-tevfik-heykeli"
 description: "## Neyzen Tevfik Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.189818,40.889697"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayaspasa-hamami-saray"
 description: "### Ayaspaşa Hamamı: Tekirdağ'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Saray_-_Ayaspaşa_Hamamı,_Saray_-_20250602124216.jpg/1200px-Saray_-_Ayaspaşa_Hamamı,_Saray_-_20250602124216.jpg"
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9202309,41.4429398"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "hoca-ali-camii"
 description: "## Hoca Ali Camii: Ayvansaray'da Gizli Bir Cennet..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Hoca_Ali_Camii_-_3.jpg/1200px-Hoca_Ali_Camii_-_3.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.943173105,41.036022682"
 draft: "false"
 weight: "10"

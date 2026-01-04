@@ -5,10 +5,10 @@ slug: "odtu-kutuphanesi"
 description: "## ODTÜ Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/METU_Library_-_14847345684.jpg/1200px-METU_Library_-_14847345684.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "32.78320833,39.89609722"
 draft: "false"
 weight: "10"

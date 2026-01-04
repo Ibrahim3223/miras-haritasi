@@ -5,10 +5,10 @@ slug: "yokuslu-camii"
 description: "### Yokuşlu Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3331,40.6497"
 draft: "false"
 weight: "999"

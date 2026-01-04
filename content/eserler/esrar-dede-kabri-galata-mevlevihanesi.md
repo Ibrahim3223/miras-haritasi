@@ -5,10 +5,10 @@ slug: "esrar-dede-kabri-galata-mevlevihanesi"
 description: "## Esrar Dede Kabri, Galata Mevlevihanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sofada_En_Sağdaki_Kabir_Esrar_Dede.jpg/1200px-Sofada_En_Sağdaki_Kabir_Esrar_Dede.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9749069,41.0281448"
 draft: "false"
 weight: "10"

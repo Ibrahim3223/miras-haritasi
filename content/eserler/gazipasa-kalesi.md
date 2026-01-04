@@ -5,10 +5,10 @@ slug: "gazipasa-kalesi"
 description: "## Gazipaşa Kalesi: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.2827492,36.2584496"
 draft: "false"
 weight: "999"

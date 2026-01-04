@@ -5,10 +5,10 @@ slug: "thyssanus"
 description: "## Thyssanus: Antik Uygarlığının İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.10694,36.65475"
 draft: "false"
 weight: "999"

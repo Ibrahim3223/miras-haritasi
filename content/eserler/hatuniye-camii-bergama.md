@@ -5,10 +5,10 @@ slug: "hatuniye-camii-bergama"
 description: "## Hatuniye Camii, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1776028,39.1162949"
 draft: "false"
 weight: "999"

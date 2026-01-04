@@ -5,10 +5,10 @@ slug: "abana-eski-hamam"
 description: "## Abana Eski Hamamı: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Abana"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.0085487,41.9780045"
 draft: "false"
 weight: "999"

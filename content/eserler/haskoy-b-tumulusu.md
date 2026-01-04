@@ -5,10 +5,10 @@ slug: "haskoy-b-tumulusu"
 description: "## Hasköy B Tümülüsü: Tarihî Bir Eserin Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8539143,41.6382484"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kaptan-i-derya-kizilhisarli-mustafa-pasa-turbesi"
 description: "## Kaptan-ı Derya Kızılhisarlı Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4223,37.0331"
 draft: "false"
 weight: "999"

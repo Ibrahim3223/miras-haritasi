@@ -5,10 +5,10 @@ slug: "susuz-koyu-camii"
 description: "## Susuz Köyü Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.6542969,40.0202255"
 draft: "false"
 weight: "999"

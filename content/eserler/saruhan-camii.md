@@ -5,10 +5,10 @@ slug: "saruhan-camii"
 description: "## Saruhan Camii: Denizli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9814281,37.7979355"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-bozkir"
 description: "## Roma Köprüsü, Bozkır..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Bozkır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3209934,37.1279449"
 draft: "false"
 weight: "999"

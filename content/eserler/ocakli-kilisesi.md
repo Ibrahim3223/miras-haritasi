@@ -5,10 +5,10 @@ slug: "ocakli-kilisesi"
 description: "## Ocaklı Kilisesi: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.569887,40.806746"
 draft: "false"
 weight: "999"

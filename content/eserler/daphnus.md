@@ -5,10 +5,10 @@ slug: "daphnus"
 description: "# Daphnus Arkeolojik Sit..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.588844,40.171739"
 draft: "false"
 weight: "999"

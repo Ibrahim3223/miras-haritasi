@@ -5,10 +5,10 @@ slug: "hamza-pasa-camii"
 description: "## Hamza Paşa Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.0886612,38.3495789"
 draft: "false"
 weight: "999"

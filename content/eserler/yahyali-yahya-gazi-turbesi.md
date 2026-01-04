@@ -5,10 +5,10 @@ slug: "yahyali-yahya-gazi-turbesi"
 description: "## Yahyalı Yahya Gazi Türbesi: Kayseri'nin Gizli Çehresini İncelemek..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yahyalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.360565174,38.098778175"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "figla-tepe"
 description: "## Fığla Tepe: Ezine'nin Gizli Öyküsü..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.308917,39.895"
 draft: "false"
 weight: "999"

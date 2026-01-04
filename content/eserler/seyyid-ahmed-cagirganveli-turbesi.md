@@ -5,10 +5,10 @@ slug: "seyyid-ahmed-cagirganveli-turbesi"
 description: "## Seyyid Ahmed Cağırgan Veli Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.84721,40.39931"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-gevorg-kilisesi-ktsvak"
 description: "## Surp Gevorg Kilisesi (Ktsvak)..."
 featured_image: ""
 province: "Tatvan"
-iller: '["Tatvan"]'
+iller: ["Tatvan"]
 district: "Kıyıdüzü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.3810586,38.5758919"
 draft: "false"
 weight: "999"

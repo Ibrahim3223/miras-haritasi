@@ -5,10 +5,10 @@ slug: "kulluhoyuk"
 description: "### Küllühöyük: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.678567,39.455717"
 draft: "false"
 weight: "999"

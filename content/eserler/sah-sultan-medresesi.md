@@ -5,10 +5,10 @@ slug: "sah-sultan-medresesi"
 description: "## Şah Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.935964,41.045036"
 draft: "false"
 weight: "999"

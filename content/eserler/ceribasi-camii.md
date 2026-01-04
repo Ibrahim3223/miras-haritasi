@@ -5,10 +5,10 @@ slug: "ceribasi-camii"
 description: "## Çeribaşı Camii: İstanbul'un Gizli Çarpıcılarından Birisi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.93553,41.046822"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-muhammed-bedevi-turbesi"
 description: "## Şeyh Muhammed Bedevi Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.089456,36.711837"
 draft: "false"
 weight: "999"

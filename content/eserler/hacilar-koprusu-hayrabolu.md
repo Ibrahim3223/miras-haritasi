@@ -5,10 +5,10 @@ slug: "hacilar-koprusu-hayrabolu"
 description: "## Hacılar Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.117485,41.2096825"
 draft: "false"
 weight: "999"

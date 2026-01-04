@@ -5,10 +5,10 @@ slug: "roma-koprusu-camlica"
 description: "### Roma Köprüsü, Çamlıca..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.654158555,40.771165589"
 draft: "false"
 weight: "999"

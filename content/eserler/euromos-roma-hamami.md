@@ -5,10 +5,10 @@ slug: "euromos-roma-hamami"
 description: "## Euromos Roma Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6704845,37.3773575"
 draft: "false"
 weight: "999"

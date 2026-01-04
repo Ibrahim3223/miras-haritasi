@@ -5,10 +5,10 @@ slug: "parion-hamam"
 description: "## Parion Hamamı: Bir Roma Dönemi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.069608187,40.425658871"
 draft: "false"
 weight: "999"

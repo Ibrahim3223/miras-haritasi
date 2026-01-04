@@ -5,10 +5,10 @@ slug: "karincali-camii"
 description: "**Karıncalı Camii: Serik'in Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0237791,36.9535319"
 draft: "false"
 weight: "999"

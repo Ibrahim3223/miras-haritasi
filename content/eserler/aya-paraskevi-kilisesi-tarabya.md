@@ -5,10 +5,10 @@ slug: "aya-paraskevi-kilisesi-tarabya"
 description: "## Aya Paraskevi Kilisesi: Tarabya'da Bir İkon..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.056416666,41.136861111"
 draft: "false"
 weight: "999"

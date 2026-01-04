@@ -5,10 +5,10 @@ slug: "boga-heykelleri-buyukada"
 description: "## Boğa Heykelleri, Büyükada..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1323643,40.8734169"
 draft: "false"
 weight: "999"

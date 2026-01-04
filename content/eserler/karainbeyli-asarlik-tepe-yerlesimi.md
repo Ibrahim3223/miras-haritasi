@@ -5,10 +5,10 @@ slug: "karainbeyli-asarlik-tepe-yerlesimi"
 description: "## Karainbeyli Asarlık Tepe Yerleşimi: Gelibolu'nun Gizli Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3930779,40.3514671"
 draft: "false"
 weight: "999"

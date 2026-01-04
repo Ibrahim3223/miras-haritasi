@@ -5,10 +5,10 @@ slug: "sullu-2-koprusu"
 description: "## Süllü 2 Köprüsü: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.347389,40.655369"
 draft: "false"
 weight: "999"

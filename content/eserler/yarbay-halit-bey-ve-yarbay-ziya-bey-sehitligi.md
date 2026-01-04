@@ -5,10 +5,10 @@ slug: "yarbay-halit-bey-ve-yarbay-ziya-bey-sehitligi"
 description: "## Yarbay Halit Bey ve Yarbay Ziya Bey Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3233585,40.2830353"
 draft: "false"
 weight: "999"

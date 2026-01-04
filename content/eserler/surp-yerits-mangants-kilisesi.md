@@ -5,10 +5,10 @@ slug: "surp-yerits-mangants-kilisesi"
 description: "## Surp Yerits Mangants Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0512,41.1023"
 draft: "false"
 weight: "999"

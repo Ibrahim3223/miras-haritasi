@@ -5,10 +5,10 @@ slug: "seyh-muhammed-zilan-turbesi"
 description: "### Şeyh Muhammed Zilan Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2354126,38.1471672"
 draft: "false"
 weight: "999"

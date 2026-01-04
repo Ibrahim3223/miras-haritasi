@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-camii"
 description: "## Nişancı Mehmet Paşa Camii: İstanbul'un Gizli Çehresinde Bir Kıymetli Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nisanci_Mehmed_Pasha_Mosque_DSCF6497.jpg/1200px-Nisanci_Mehmed_Pasha_Mosque_DSCF6497.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.944916666,41.024138888"
 draft: "false"
 weight: "10"

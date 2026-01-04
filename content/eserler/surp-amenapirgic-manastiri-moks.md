@@ -5,10 +5,10 @@ slug: "surp-amenapirgic-manastiri-moks"
 description: "# Surp Amenapırgiç Manastırı (Moks): Van'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Bahçesaray"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.834166666,38.114444444"
 draft: "false"
 weight: "999"

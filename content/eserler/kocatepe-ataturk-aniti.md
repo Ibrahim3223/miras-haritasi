@@ -5,10 +5,10 @@ slug: "kocatepe-ataturk-aniti"
 description: "### Kocatepe Atatürk Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.468409,38.655945"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirazoglu-mescidi-tire"
 description: "## Kirazoğlu Mescidi: Tarihî Bir Cami'nin Görsel İncisi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7361221,38.0844193"
 draft: "false"
 weight: "999"

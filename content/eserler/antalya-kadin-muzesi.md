@@ -5,10 +5,10 @@ slug: "antalya-kadin-muzesi"
 description: "### Antalya Kadın Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

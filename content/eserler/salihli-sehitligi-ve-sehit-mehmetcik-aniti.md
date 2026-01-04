@@ -5,10 +5,10 @@ slug: "salihli-sehitligi-ve-sehit-mehmetcik-aniti"
 description: "## Salihli Şehitliği ve Şehit Mehmetçik Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1279488,38.4832802"
 draft: "false"
 weight: "999"

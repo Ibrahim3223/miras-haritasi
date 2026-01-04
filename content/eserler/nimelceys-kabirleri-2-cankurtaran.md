@@ -5,10 +5,10 @@ slug: "nimelceys-kabirleri-2-cankurtaran"
 description: "## Nimelceyş Kabirleri 2: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9818287,41.0049629"
 draft: "false"
 weight: "999"

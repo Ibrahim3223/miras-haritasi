@@ -5,10 +5,10 @@ slug: "kazan-koprusu"
 description: "## Kazan Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.4756374,41.6861382"
 draft: "false"
 weight: "999"

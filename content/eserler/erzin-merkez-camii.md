@@ -5,10 +5,10 @@ slug: "erzin-merkez-camii"
 description: "## Erzin Merkez Camii..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.198761,36.9556274"
 draft: "false"
 weight: "999"

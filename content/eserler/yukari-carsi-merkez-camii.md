@@ -5,10 +5,10 @@ slug: "yukari-carsi-merkez-camii"
 description: "## Yukarı Çarşı Merkez Camii - İzmir'in Tarihi bir Çaprazı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8878269,38.3569565"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cimcime-hatun-turbesi"
 description: "## Cimcime Hatun Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.27668,39.906333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fatih-turbesi-dehliz"
 description: "## Fatih Türbesi, Dehliz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9502621,41.0192528"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kapukargin-koprusu"
 description: "## Kapukargın Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.8113289,36.7237892"
 draft: "false"
 weight: "999"

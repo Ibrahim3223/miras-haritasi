@@ -5,10 +5,10 @@ slug: "hoca-muslihiddin-camii"
 description: "### Hoca Muslihiddin Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0645943,40.1804466"
 draft: "false"
 weight: "999"

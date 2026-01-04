@@ -5,10 +5,10 @@ slug: "ishak-pasa-camii"
 description: "## İshak Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg/1200px-Istanbul_Province_-_İshak_Paşa_Camii_-_20250413182637.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5120296,40.0784683"
 draft: "false"
 weight: "999"

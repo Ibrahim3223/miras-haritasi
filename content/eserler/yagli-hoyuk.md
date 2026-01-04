@@ -5,10 +5,10 @@ slug: "yagli-hoyuk"
 description: "## Yağlı Höyük: Ağaçören'in Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ağaçören ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9135638,38.8626932"
 draft: "false"
 weight: "999"

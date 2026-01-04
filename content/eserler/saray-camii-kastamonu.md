@@ -5,10 +5,10 @@ slug: "saray-camii-kastamonu"
 description: "## Saray Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7795792,41.3765182"
 draft: "false"
 weight: "999"

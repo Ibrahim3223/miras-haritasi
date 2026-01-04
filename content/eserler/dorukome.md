@@ -5,10 +5,10 @@ slug: "dorukome"
 description: "## Dorukome Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.576944444,38.586666666"
 draft: "false"
 weight: "999"

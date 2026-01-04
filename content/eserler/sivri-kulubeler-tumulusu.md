@@ -5,10 +5,10 @@ slug: "sivri-kulubeler-tumulusu"
 description: "## Sivri Kulübeler Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.929296811,41.828801831"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "odtu-bilim-ve-teknoloji-muzesi"
 description: "## ODTÜ Bilim ve Teknoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/ODTÜ_Bilim_ve_Teknoloji_Müzesi.jpg/1200px-ODTÜ_Bilim_ve_Teknoloji_Müzesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.772,39.902"
 draft: "false"
 weight: "10"

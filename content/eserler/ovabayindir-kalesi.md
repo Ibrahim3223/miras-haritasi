@@ -5,10 +5,10 @@ slug: "ovabayindir-kalesi"
 description: "# Ovabayındır Kalesi: Balıkesir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1036167,39.5572472"
 draft: "false"
 weight: "999"

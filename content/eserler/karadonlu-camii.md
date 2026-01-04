@@ -5,10 +5,10 @@ slug: "karadonlu-camii"
 description: "### Karadonlu Camii: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.977417,39.4212914"
 draft: "false"
 weight: "999"

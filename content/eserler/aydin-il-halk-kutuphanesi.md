@@ -5,10 +5,10 @@ slug: "aydin-il-halk-kutuphanesi"
 description: "## Aydın İl Halk Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Ayd%C4%B1n_%C4%B0l_Halk_K%C3%BCt%C3%BCphanesi.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.8432121,37.8466339"
 draft: "false"
 weight: "999"

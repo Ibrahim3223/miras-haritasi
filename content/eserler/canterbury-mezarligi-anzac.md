@@ -5,10 +5,10 @@ slug: "canterbury-mezarligi-anzac"
 description: "## Canterbury Mezarlığı (ANZAC)..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2831,40.2444"
 draft: "false"
 weight: "999"

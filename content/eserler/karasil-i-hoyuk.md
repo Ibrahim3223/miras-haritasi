@@ -5,10 +5,10 @@ slug: "karasil-i-hoyuk"
 description: "### Karasıl I Höyük: Bursa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.581017,40.22312"
 draft: "false"
 weight: "999"

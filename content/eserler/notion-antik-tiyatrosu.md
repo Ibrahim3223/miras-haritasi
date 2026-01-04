@@ -5,10 +5,10 @@ slug: "notion-antik-tiyatrosu"
 description: "## Notion Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.20102,37.993566"
 draft: "false"
 weight: "999"

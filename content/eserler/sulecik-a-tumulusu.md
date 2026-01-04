@@ -5,10 +5,10 @@ slug: "sulecik-a-tumulusu"
 description: "## Sülecik A Tümülüsü: Edirne'nin Gizli Tarihi Eseri..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.846632,41.803997"
 draft: "false"
 weight: "999"

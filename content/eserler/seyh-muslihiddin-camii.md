@@ -5,10 +5,10 @@ slug: "seyh-muslihiddin-camii"
 description: "## Şeyh Muslihiddin Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Kaynarca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2903671,41.0727043"
 draft: "false"
 weight: "999"

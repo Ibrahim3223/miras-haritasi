@@ -5,10 +5,10 @@ slug: "myriandos"
 description: "## Myriandos: Arsuz'da Bir Antik Kent..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Arsuz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.110833333,36.566111111"
 draft: "false"
 weight: "999"

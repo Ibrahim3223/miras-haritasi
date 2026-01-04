@@ -5,10 +5,10 @@ slug: "ergulu-baba-camii"
 description: "## Ergülü Baba Camii Tanıtımı..."
 featured_image: ""
 province: "Sungurlu"
-iller: '["Sungurlu"]'
+iller: ["Sungurlu"]
 district: "Yörüklü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.263666666,40.314472222"
 draft: "false"
 weight: "999"

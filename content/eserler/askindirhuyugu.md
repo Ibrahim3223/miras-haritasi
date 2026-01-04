@@ -5,10 +5,10 @@ slug: "askindirhuyugu"
 description: "## Aşkındır Hüyüğü: Kırıkhan'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.520923,36.5653792"
 draft: "false"
 weight: "999"

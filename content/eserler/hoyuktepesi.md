@@ -5,10 +5,10 @@ slug: "hoyuktepesi"
 description: "## Höyüktepesi: Afyonkarahisar'ın Eski Köyü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.128064,38.6080412"
 draft: "false"
 weight: "999"

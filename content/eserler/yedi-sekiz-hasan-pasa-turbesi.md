@@ -5,10 +5,10 @@ slug: "yedi-sekiz-hasan-pasa-turbesi"
 description: "## Yedi Sekiz Hasan Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.006966082,41.041989394"
 draft: "false"
 weight: "999"

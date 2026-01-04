@@ -5,10 +5,10 @@ slug: "ciftetepe-b-tumulusu"
 description: "### Çiftetepe B Tümülüsü: Edirne'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6534042,41.3082008"
 draft: "false"
 weight: "999"

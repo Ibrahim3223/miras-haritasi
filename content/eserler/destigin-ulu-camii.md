@@ -5,10 +5,10 @@ slug: "destigin-ulu-camii"
 description: "## Deştiğin Ulu Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Doğanhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.634908673,38.055454987"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "prokonnesos-antik-kent"
 description: "### Prokonnesos Antik Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.55568,40.591686"
 draft: "false"
 weight: "999"

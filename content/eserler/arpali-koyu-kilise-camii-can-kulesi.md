@@ -5,10 +5,10 @@ slug: "arpali-koyu-kilise-camii-can-kulesi"
 description: "### Arpalı Köyü Kilise Camii Çan Kulesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.137434,40.53569"
 draft: "false"
 weight: "999"

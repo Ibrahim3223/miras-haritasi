@@ -5,10 +5,10 @@ slug: "akenji-monastery"
 description: "## Akenji Manastırı: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

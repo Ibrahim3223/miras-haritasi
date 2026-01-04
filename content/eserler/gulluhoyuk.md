@@ -5,10 +5,10 @@ slug: "gulluhoyuk"
 description: "## Güllühöyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.808938,39.612601"
 draft: "false"
 weight: "999"

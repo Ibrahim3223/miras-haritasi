@@ -5,10 +5,10 @@ slug: "kumrulu-mescit-konak"
 description: "## Kumrulu Mescit: İzmir'in Gizli Çatısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.144743,38.4211731"
 draft: "false"
 weight: "999"

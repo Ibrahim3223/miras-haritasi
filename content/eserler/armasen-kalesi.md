@@ -5,10 +5,10 @@ slug: "armasen-kalesi"
 description: "### Armaşen Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dinkciler-eski-camii"
 description: "## Dinkçiler Eski Camii: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8786144,39.6424904"
 draft: "false"
 weight: "999"

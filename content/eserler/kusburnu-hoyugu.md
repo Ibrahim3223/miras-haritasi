@@ -5,10 +5,10 @@ slug: "kusburnu-hoyugu"
 description: "## Kuşburnu Höyüğü: Ege Denizi'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6340103,40.5063744"
 draft: "false"
 weight: "999"

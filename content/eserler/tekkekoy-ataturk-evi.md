@@ -5,10 +5,10 @@ slug: "tekkekoy-ataturk-evi"
 description: "## Tekkeköy Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Trabzon Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.458921,41.212549"
 draft: "false"
 weight: "999"

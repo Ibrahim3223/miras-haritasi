@@ -5,10 +5,10 @@ slug: "peri-camii"
 description: "## Peri Camii: Tunceli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.6774979,38.8494797"
 draft: "false"
 weight: "999"

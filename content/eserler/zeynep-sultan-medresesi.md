@@ -5,10 +5,10 @@ slug: "zeynep-sultan-medresesi"
 description: "## Zeynep Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.978281,41.0099602"
 draft: "false"
 weight: "999"

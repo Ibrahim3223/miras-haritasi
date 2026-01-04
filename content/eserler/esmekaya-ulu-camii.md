@@ -5,10 +5,10 @@ slug: "esmekaya-ulu-camii"
 description: "## Eşmekaya Ulu Camii: Türkiye'nin Gizli Çandırı..."
 featured_image: ""
 province: "Eskil"
-iller: '["Eskil"]'
+iller: ["Eskil"]
 district: "Eşmekaya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.441111111,38.264861111"
 draft: "false"
 weight: "999"

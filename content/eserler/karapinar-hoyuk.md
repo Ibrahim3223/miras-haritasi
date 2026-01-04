@@ -5,10 +5,10 @@ slug: "karapinar-hoyuk"
 description: "## Karapınar Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Sarız"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5900972,38.6113334"
 draft: "false"
 weight: "999"

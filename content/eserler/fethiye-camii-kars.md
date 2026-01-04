@@ -5,10 +5,10 @@ slug: "fethiye-camii-kars"
 description: "## Fethiye Camii: Kars'ın Tarihi bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Fəthiyyə_məscidi_Qars_(2).jpg/1200px-Fəthiyyə_məscidi_Qars_(2).jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.0993964,40.600952"
 draft: "false"
 weight: "10"

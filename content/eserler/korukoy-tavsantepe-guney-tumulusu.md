@@ -5,10 +5,10 @@ slug: "korukoy-tavsantepe-guney-tumulusu"
 description: "### Koruköy Tavşantepe Güney Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3138561,41.8492088"
 draft: "false"
 weight: "999"

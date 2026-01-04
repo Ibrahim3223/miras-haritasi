@@ -5,10 +5,10 @@ slug: "haci-ferhat-aga-camii"
 description: "## Hacı Ferhat Ağa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9729958,41.0342255"
 draft: "false"
 weight: "999"

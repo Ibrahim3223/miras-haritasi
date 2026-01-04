@@ -5,10 +5,10 @@ slug: "lampsakos"
 description: "## Lampsakos Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Stater_Zeus_Lampsacus_CdM.jpg/1200px-Stater_Zeus_Lampsacus_CdM.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.683611,40.343889"
 draft: "false"
 weight: "10"

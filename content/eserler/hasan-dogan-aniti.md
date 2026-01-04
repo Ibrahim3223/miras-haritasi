@@ -5,10 +5,10 @@ slug: "hasan-dogan-aniti"
 description: "## Hasan Doğan Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.016231,41.028494"
 draft: "false"
 weight: "999"

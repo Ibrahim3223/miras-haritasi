@@ -5,10 +5,10 @@ slug: "cavus-bey-camii"
 description: "## Edirne'nin Eski Eserlerinden Birini Keşfedin: Çavuş Bey Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5517673,41.6785316"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selcuk-efes-kent-bellegi"
 description: "## Selçuk Efes Kent Belleği: İzmir'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Selçuk_Efes_Kent_Belleği_Müzesi.jpg/1200px-Selçuk_Efes_Kent_Belleği_Müzesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.3686418,37.9508739"
 draft: "false"
 weight: "10"

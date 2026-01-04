@@ -5,10 +5,10 @@ slug: "murat-baba-turbesi"
 description: "## Murat Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2495956,38.7032051"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "germanya-han"
 description: "## Germanya Han: Fatih'teki Bir Kervansarayın Tarihi ve Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Germanya_Han,_Deutsche_Orientbank_binası.jpg/1200px-Germanya_Han,_Deutsche_Orientbank_binası.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "28.972361111,41.015222222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tur-i-sina-kilisesi"
 description: "## Tur-i Sina Kilisesi: İstanbul'un Gizli Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.94776,41.03341"
 draft: "false"
 weight: "999"

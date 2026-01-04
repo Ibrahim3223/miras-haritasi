@@ -5,10 +5,10 @@ slug: "panagia-paramythia-kilisesi"
 description: "## Panagia Paramythia Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Panagia_Paramythia_Kilisesi_(1).jpg/1200px-Panagia_Paramythia_Kilisesi_(1).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9484234,41.0307083"
 draft: "false"
 weight: "10"

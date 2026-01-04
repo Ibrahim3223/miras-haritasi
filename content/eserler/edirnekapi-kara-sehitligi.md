@@ -5,10 +5,10 @@ slug: "edirnekapi-kara-sehitligi"
 description: "## Edirnekapı Kara Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9280815,41.0336113"
 draft: "false"
 weight: "999"

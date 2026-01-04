@@ -5,10 +5,10 @@ slug: "mimar-sinan-mescidi"
 description: "**Mimar Sinan Mescidi: İstanbul'un İhtişamlı Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Mimar_Sinan_Mescidi_02012025.jpg/1200px-Mimar_Sinan_Mescidi_02012025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.940804,41.019465"
 draft: "false"
 weight: "10"

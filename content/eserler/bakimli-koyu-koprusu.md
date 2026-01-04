@@ -5,10 +5,10 @@ slug: "bakimli-koyu-koprusu"
 description: "## Bakımlı Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çanakçı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.0059471,40.8850098"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bozarmut-koprusu"
 description: "## Bozarmut Köprüsü: Kangal'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.3354607,39.2784729"
 draft: "false"
 weight: "999"

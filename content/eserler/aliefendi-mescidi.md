@@ -5,10 +5,10 @@ slug: "aliefendi-mescidi"
 description: "## Aliefendi Mescidi: Yeşilova'da Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Yeşilova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5561295,37.4980965"
 draft: "false"
 weight: "999"

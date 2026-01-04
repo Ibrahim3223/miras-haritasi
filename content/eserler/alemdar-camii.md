@@ -5,10 +5,10 @@ slug: "alemdar-camii"
 description: "## Alemdar Camii: Bitlis'in Tarihsel ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/15/Bitlis_Alemdar_Camii_3789.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1056824,38.398613"
 draft: "false"
 weight: "999"

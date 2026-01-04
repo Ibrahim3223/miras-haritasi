@@ -5,10 +5,10 @@ slug: "babadan-ogula-aniti"
 description: "## Babadan Oğula Anıtı: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6031284,41.7183495"
 draft: "false"
 weight: "999"

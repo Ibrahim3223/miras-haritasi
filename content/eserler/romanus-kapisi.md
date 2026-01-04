@@ -5,10 +5,10 @@ slug: "romanus-kapisi"
 description: "### Romanus Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rom_kap_splj.jpg/1200px-Rom_kap_splj.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.926297,41.021655"
 draft: "false"
 weight: "10"

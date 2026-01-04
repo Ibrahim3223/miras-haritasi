@@ -5,10 +5,10 @@ slug: "afrodisias"
 description: "### Afrodisias: Antik Kentin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Aphrodisias_turkey.jpg/1200px-Aphrodisias_turkey.jpg"
 province: "Karacasu (ilçe)"
-iller: '["Karacasu (ilçe)"]'
+iller: ["Karacasu (ilçe)"]
 district: "Geyre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.723611111,37.708333333"
 draft: "false"
 weight: "10"

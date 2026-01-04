@@ -5,10 +5,10 @@ slug: "roma-hamami-kalintilari"
 description: "## Roma Hamamı Kalıntıları..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.65396,38.329869"
 draft: "false"
 weight: "999"

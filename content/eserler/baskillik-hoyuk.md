@@ -5,10 +5,10 @@ slug: "baskillik-hoyuk"
 description: "## Başkillik Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9542948,38.2416504"
 draft: "false"
 weight: "999"

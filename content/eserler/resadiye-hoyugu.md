@@ -5,10 +5,10 @@ slug: "resadiye-hoyugu"
 description: "## Reşadiye Höyüğü: Malatya'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Doğanşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0176239,37.9831772"
 draft: "false"
 weight: "999"

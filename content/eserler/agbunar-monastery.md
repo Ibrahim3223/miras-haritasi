@@ -5,10 +5,10 @@ slug: "agbunar-monastery"
 description: "### Agbunar Manastırı: Kars'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

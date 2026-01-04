@@ -5,10 +5,10 @@ slug: "aya-dimitri-kilisesi-istanbul"
 description: "### Aya Dimitri Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Bulgarian_church_St._Dimitar_in_Constantinople.jpg/1200px-Bulgarian_church_St._Dimitar_in_Constantinople.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97379,41.048778"
 draft: "false"
 weight: "10"

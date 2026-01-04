@@ -5,10 +5,10 @@ slug: "hierapolis-aziz-philippus-mezar-kilisesi"
 description: "### Hierapolis Aziz Philippus Mezar Kilisesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1305275,37.9307365"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-mehmet-camii-bilecik"
 description: "## Hacı Mehmet Camii, Bilecik..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0043411,40.0890808"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirim-koyu-koprusu"
 description: "### Kırım Köyü Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Hani"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.4323463,38.3551407"
 draft: "false"
 weight: "999"

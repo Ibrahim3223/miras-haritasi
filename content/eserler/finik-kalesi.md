@@ -5,10 +5,10 @@ slug: "finik-kalesi"
 description: "## Finik Kalesi: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Güçlükonak"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.0745926,37.4084892"
 draft: "false"
 weight: "999"

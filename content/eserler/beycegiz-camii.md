@@ -5,10 +5,10 @@ slug: "beycegiz-camii"
 description: "## Beyceğiz Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9463654,41.0258942"
 draft: "false"
 weight: "999"

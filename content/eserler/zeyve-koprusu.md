@@ -5,10 +5,10 @@ slug: "zeyve-koprusu"
 description: "## Zeyve Köprüsü: Bir Geçit Köprüsüün Öyküsü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4110432,38.1646271"
 draft: "false"
 weight: "999"

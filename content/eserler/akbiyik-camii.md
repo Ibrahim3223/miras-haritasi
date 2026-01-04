@@ -5,10 +5,10 @@ slug: "akbiyik-camii"
 description: "# Akbıyık Camii: Bir Tarihi Mirasın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Istanbul_PB096357raw_%284117815435%29.jpg"
 province: "Orhangazi (ilçe)"
-iller: '["Orhangazi (ilçe)"]'
+iller: ["Orhangazi (ilçe)"]
 district: "Nalbantoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0629749,40.1815529"
 draft: "false"
 weight: "999"

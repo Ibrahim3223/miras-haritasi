@@ -5,10 +5,10 @@ slug: "elbistan-ulu-cami"
 description: "## Elbistan Ulu Cami: Tarihi ve Etkileyici Mimari Özellikleri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Elbistan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.19025,38.199472222"
 draft: "false"
 weight: "999"

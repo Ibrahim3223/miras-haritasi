@@ -5,10 +5,10 @@ slug: "embolos"
 description: "## Embolos: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.1665825,40.7723955"
 draft: "false"
 weight: "999"

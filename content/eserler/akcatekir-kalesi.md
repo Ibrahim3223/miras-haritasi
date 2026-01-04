@@ -5,10 +5,10 @@ slug: "akcatekir-kalesi"
 description: "## Akçatekir Kalesi: Pozantı'nın Gizli Kalesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Pozantı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.817575,37.3267"
 draft: "false"
 weight: "999"

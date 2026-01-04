@@ -5,10 +5,10 @@ slug: "ahavat-salom-sinagogu"
 description: "## Ahavat Şalom Sinagogu: İzmirlinin Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ahavat_Şalom_Sinagogu_(Kaal_Kadoş).jpg/1200px-Ahavat_Şalom_Sinagogu_(Kaal_Kadoş).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.1235,38.4575"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "dolmabahce-sarayi-hanim-sultan-turbeleri"
 description: "## Dolmabahçe Sarayı Hanım Sultan Türbeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9996662,41.0396652"
 draft: "false"
 weight: "1"

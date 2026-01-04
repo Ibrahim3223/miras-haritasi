@@ -5,10 +5,10 @@ slug: "tezveren-dede-turbesi-catalca"
 description: "## Tezveren Dede Türbesi, Çatalca..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.465395082,41.141106236"
 draft: "false"
 weight: "999"

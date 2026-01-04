@@ -5,10 +5,10 @@ slug: "rumkale"
 description: "## Rumkale: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hromkla_Halfeti.jpg/1200px-Hromkla_Halfeti.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nizip"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.837916666,37.270777777"
 draft: "false"
 weight: "10"

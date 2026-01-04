@@ -5,10 +5,10 @@ slug: "seyh-suleyman-i-veli-turbesi"
 description: "## Şeyh Süleyman-ı Veli Türbesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.172853,39.143922"
 draft: "false"
 weight: "999"

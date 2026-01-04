@@ -5,10 +5,10 @@ slug: "yakakayi"
 description: "## Yakakayı Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.778967,39.84595"
 draft: "false"
 weight: "999"

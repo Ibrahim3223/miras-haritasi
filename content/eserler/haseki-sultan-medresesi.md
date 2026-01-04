@@ -5,10 +5,10 @@ slug: "haseki-sultan-medresesi"
 description: "### Haseki Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9419,41.0089"
 draft: "false"
 weight: "999"

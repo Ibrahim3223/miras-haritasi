@@ -5,10 +5,10 @@ slug: "avustralya-lone-pine-aniti"
 description: "## Lone Pine Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Çanakkale56.jpg/1200px-Çanakkale56.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.28794,40.23036"
 draft: "false"
 weight: "10"

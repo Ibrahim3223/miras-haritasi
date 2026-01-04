@@ -5,10 +5,10 @@ slug: "kursunlu-camii-eskisehir"
 description: "## Kurşunlu Camii: Eskişehir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.525826226,39.763049569"
 draft: "false"
 weight: "999"

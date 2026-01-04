@@ -5,10 +5,10 @@ slug: "abdurrahim-tirsi-turbesi"
 description: "# Abdurrahim Tırsi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.211,40.4643"
 draft: "false"
 weight: "999"

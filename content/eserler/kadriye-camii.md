@@ -5,10 +5,10 @@ slug: "kadriye-camii"
 description: "### Kadriye Camii: Serik'in Gölgeli Yöresinde Yükselişe Geçen Tarihsel Bir Zirve..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0111306,36.8845939"
 draft: "false"
 weight: "999"

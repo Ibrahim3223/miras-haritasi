@@ -5,10 +5,10 @@ slug: "vefa-kilise-camii"
 description: "### Vefa Kilise Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Vefa_Kilise_Camii_önden.jpg/1200px-Vefa_Kilise_Camii_önden.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.96030388,41.0162818"
 draft: "false"
 weight: "10"

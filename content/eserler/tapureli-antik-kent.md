@@ -5,10 +5,10 @@ slug: "tapureli-antik-kent"
 description: "# Tapureli (Antik Kent)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Tapureli.jpg/1200px-Tapureli.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.03333333,36.65"
 draft: "false"
 weight: "10"

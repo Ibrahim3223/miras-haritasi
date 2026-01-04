@@ -5,10 +5,10 @@ slug: "hermokapelia"
 description: "## Hermokapelia: Manisa'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.614993,38.921548"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-hamam"
 description: "## Eski Hamam: Üsküdar'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.012162,41.024371"
 draft: "false"
 weight: "999"

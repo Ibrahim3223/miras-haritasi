@@ -5,10 +5,10 @@ slug: "platform-garanti-guncel-sanat-merkezi"
 description: "### Platform Garanti Güncel Sanat Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Platform_Garanti.jpg/1200px-Platform_Garanti.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

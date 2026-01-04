@@ -5,10 +5,10 @@ slug: "orentepe-bucak"
 description: "## Örentepe, Bucak: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.486346403,37.265652994"
 draft: "false"
 weight: "999"

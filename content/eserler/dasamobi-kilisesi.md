@@ -5,10 +5,10 @@ slug: "dasamobi-kilisesi"
 description: "# Dasamobi Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Dereiçi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.235613888,41.326036111"
 draft: "false"
 weight: "999"

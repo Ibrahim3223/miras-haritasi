@@ -5,10 +5,10 @@ slug: "buyukpanayir-hoyugu"
 description: "## Büyükpanayır Höyüğü: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9853001,37.6511993"
 draft: "false"
 weight: "999"

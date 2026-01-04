@@ -5,10 +5,10 @@ slug: "zincirli-camii-usak"
 description: "## Zincirli Camii, Uşak..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4028263,38.6781807"
 draft: "false"
 weight: "999"

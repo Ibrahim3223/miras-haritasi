@@ -5,10 +5,10 @@ slug: "gaziantep-munif-pasa-il-halk-kutuphanesi"
 description: "## Gaziantep Münif Paşa İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "37.370376383,37.061526709"
 draft: "false"
 weight: "999"

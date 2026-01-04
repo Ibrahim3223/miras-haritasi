@@ -5,10 +5,10 @@ slug: "odemis-yildiz-kent-arsivi-ve-muzesi"
 description: "# Ödemiş Yıldız Kent Arşivi ve Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Ödemiş_Yıldız_Kent_Arşivi_ve_Müzesi_(1).jpg/1200px-Ödemiş_Yıldız_Kent_Arşivi_ve_Müzesi_(1).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.969777777,38.227083333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tuz-pazari-hamami"
 description: "# Tuz Pazarı Hamamı..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.4646378,40.8714066"
 draft: "false"
 weight: "999"

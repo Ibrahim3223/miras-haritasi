@@ -5,10 +5,10 @@ slug: "radyo-ve-demokrasi-muzesi"
 description: "### Radyo ve Demokrasi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.143896,38.420366"
 draft: "false"
 weight: "999"

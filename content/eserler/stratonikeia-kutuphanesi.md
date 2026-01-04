@@ -5,10 +5,10 @@ slug: "stratonikeia-kutuphanesi"
 description: "## Stratonikeia Kütüphanesi: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.066778779,37.313816736"
 draft: "false"
 weight: "999"

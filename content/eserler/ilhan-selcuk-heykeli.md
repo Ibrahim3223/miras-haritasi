@@ -5,10 +5,10 @@ slug: "ilhan-selcuk-heykeli"
 description: "## İlhan Selçuk Heykeli: Kadıköy'ün Yürekli Yarası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0537853,40.9792747"
 draft: "false"
 weight: "999"

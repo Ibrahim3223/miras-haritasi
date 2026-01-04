@@ -5,10 +5,10 @@ slug: "cingentarla-kilisesi"
 description: "## Çingentarla Kilisesi: Burhaniye'nin Tarihî Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.9774742,39.4151688"
 draft: "false"
 weight: "999"

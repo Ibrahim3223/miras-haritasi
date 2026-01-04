@@ -5,10 +5,10 @@ slug: "simeon-limani"
 description: "### Simeon Limanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PrincipadodeAntioquía.png/1200px-PrincipadodeAntioquía.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9669,36.0904"
 draft: "false"
 weight: "10"

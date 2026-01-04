@@ -5,10 +5,10 @@ slug: "kazirzade-camii"
 description: "## Kazirzade Camii: Tarihî Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7337189,38.0825539"
 draft: "false"
 weight: "999"

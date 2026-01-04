@@ -5,10 +5,10 @@ slug: "davud-pasa-camii"
 description: "## Davud Paşa Camii: İstanbul'un Tarihî Camileri Arasındaki Bir Öncü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Istanbul_Davut_Paşa_Mosque_front_0968.jpg/1200px-Istanbul_Davut_Paşa_Mosque_front_0968.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.93775,41.006527777"
 draft: "false"
 weight: "10"

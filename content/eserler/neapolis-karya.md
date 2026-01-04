@@ -5,10 +5,10 @@ slug: "neapolis-karya"
 description: "### Neapolis: Bodrum'un Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.378,37.1263"
 draft: "false"
 weight: "999"

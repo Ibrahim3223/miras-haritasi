@@ -5,10 +5,10 @@ slug: "patara-anit-mezar"
 description: "## Patara Anıt Mezarı: Kaş'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3126812,36.2593498"
 draft: "false"
 weight: "999"

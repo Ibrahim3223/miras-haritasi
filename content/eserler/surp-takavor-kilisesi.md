@@ -5,10 +5,10 @@ slug: "surp-takavor-kilisesi"
 description: "## Surp Takavor Kilisesi: Kadıköy'de Bir Aziz Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Surp_Takavor_Kilisesi.jpg/1200px-Surp_Takavor_Kilisesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.024315,40.989913"
 draft: "false"
 weight: "10"

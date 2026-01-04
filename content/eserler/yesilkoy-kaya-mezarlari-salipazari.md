@@ -5,10 +5,10 @@ slug: "yesilkoy-kaya-mezarlari-salipazari"
 description: "# Yeşilköy Kaya Mezarları Salıpazarı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Salıpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.853417,41.064626"
 draft: "false"
 weight: "999"

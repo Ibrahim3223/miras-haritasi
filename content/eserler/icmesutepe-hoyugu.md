@@ -5,10 +5,10 @@ slug: "icmesutepe-hoyugu"
 description: "## İçmesutepe Höyüğü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.5749168,38.3493462"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "incegiz-magaralari"
 description: "**İnceğiz Mağaraları: Çatalca'da Bir Tarihî Kilise**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/CaveMonasteryİnceğiz_(1).jpg/1200px-CaveMonasteryİnceğiz_(1).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.404167,41.181667"
 draft: "false"
 weight: "10"

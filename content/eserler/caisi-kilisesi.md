@@ -5,10 +5,10 @@ slug: "caisi-kilisesi"
 description: "### Çaisi Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.135916666,41.207055555"
 draft: "false"
 weight: "999"

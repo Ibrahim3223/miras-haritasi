@@ -5,10 +5,10 @@ slug: "seyh-mansur-simati-turbesi"
 description: "**Şeyh Mansur Simati Türbesi**..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.125949,36.695579"
 draft: "false"
 weight: "999"

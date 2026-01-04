@@ -5,10 +5,10 @@ slug: "mimar-sinan-camii"
 description: "# Mimar Sinan Camii: İstanbul'un Özgün ve Etkileyici Cami Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Mimar_Sinan_Camii.jpg/1200px-Mimar_Sinan_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.11225,40.995666666"
 draft: "false"
 weight: "10"

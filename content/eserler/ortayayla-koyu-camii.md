@@ -5,10 +5,10 @@ slug: "ortayayla-koyu-camii"
 description: "## Ortayayla Köyü Camii: Çamlıhemşin'in Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.907684082,40.800100758"
 draft: "false"
 weight: "999"

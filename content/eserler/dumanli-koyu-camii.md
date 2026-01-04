@@ -5,10 +5,10 @@ slug: "dumanli-koyu-camii"
 description: "# Dumanlı Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2398987,40.6912956"
 draft: "false"
 weight: "999"

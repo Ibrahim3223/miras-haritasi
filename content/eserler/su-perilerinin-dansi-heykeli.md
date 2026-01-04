@@ -5,10 +5,10 @@ slug: "su-perilerinin-dansi-heykeli"
 description: "## Su Perilerinin Dansı Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8594742,39.9006538"
 draft: "false"
 weight: "999"

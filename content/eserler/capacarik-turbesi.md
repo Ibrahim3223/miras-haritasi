@@ -5,10 +5,10 @@ slug: "capacarik-turbesi"
 description: "## Çapaçarık Türbesi: Manisa'nın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3195534,38.6155167"
 draft: "false"
 weight: "999"

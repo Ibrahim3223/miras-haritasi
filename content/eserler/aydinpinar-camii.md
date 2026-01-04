@@ -5,10 +5,10 @@ slug: "aydinpinar-camii"
 description: "## Aydınpınar Camii: Düzce'nin Tarihi Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/60/20240615_Ayd%C4%B1np%C4%B1nar%2C_Mudanya_3.jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.10882,40.7597961"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gelibolu-rus-aniti"
 description: "## Gelibolu Rus Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Gelibolu_Rus_Anıtı_girişten_görünümü.jpg/1200px-Gelibolu_Rus_Anıtı_girişten_görünümü.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.66268097,40.414681519"
 draft: "false"
 weight: "10"

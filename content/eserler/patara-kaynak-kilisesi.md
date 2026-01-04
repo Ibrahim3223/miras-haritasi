@@ -5,10 +5,10 @@ slug: "patara-kaynak-kilisesi"
 description: "## Patara Kaynak Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.3178177,36.2673988"
 draft: "false"
 weight: "999"

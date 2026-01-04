@@ -5,10 +5,10 @@ slug: "derbent-koprusu"
 description: "## Derbent Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.2445305,41.2861621"
 draft: "false"
 weight: "999"

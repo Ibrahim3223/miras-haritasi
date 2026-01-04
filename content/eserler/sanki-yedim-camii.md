@@ -5,10 +5,10 @@ slug: "sanki-yedim-camii"
 description: "## Sanki Yedim Camii: Zeyrek'teki Bir Gizem..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.953194444,41.018694444"
 draft: "false"
 weight: "999"

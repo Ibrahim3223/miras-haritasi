@@ -5,10 +5,10 @@ slug: "kaunos-apollon-kutsal-alani"
 description: "## Kaunos Apollon Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.619915,36.8257446"
 draft: "false"
 weight: "999"

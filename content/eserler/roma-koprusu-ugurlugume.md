@@ -5,10 +5,10 @@ slug: "roma-koprusu-ugurlugume"
 description: "# Roma Köprüsü, Uğurlugüme..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Şaphane"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.1928,38.9691"
 draft: "false"
 weight: "999"

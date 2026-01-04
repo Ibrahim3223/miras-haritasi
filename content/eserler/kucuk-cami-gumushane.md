@@ -5,10 +5,10 @@ slug: "kucuk-cami-gumushane"
 description: "## Küçük Cami, Gümüşhane..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4529343,40.451931"
 draft: "false"
 weight: "999"

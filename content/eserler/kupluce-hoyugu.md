@@ -5,10 +5,10 @@ slug: "kupluce-hoyugu"
 description: "## Küplüce Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.023809,36.8139907"
 draft: "false"
 weight: "999"

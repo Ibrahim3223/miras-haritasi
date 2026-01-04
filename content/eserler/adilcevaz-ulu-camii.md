@@ -5,10 +5,10 @@ slug: "adilcevaz-ulu-camii"
 description: "### Adilcevaz Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Adilcevaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.730222222,38.799944444"
 draft: "false"
 weight: "999"

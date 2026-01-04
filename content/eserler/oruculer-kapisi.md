@@ -5,10 +5,10 @@ slug: "oruculer-kapisi"
 description: "## Örücüler Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.967479,41.012218"
 draft: "false"
 weight: "999"

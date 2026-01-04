@@ -5,10 +5,10 @@ slug: "sems-i-tebrizi-turbesi"
 description: "## Şems-i Tebrizi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4974937,37.8736801"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "guney-kaya-mezar-odasi"
 description: "### Güney Kaya Mezar Odası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.9025726,38.4620247"
 draft: "false"
 weight: "999"

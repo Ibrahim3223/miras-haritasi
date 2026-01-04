@@ -5,10 +5,10 @@ slug: "rhodiapolis-buyuk-hamam"
 description: "**Rhodiapolis Büyük Hamamı**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.2671795,36.3868828"
 draft: "false"
 weight: "999"

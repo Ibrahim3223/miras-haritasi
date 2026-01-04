@@ -5,10 +5,10 @@ slug: "cincin-kalesi"
 description: "## Cincin Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.756958,37.735019"
 draft: "false"
 weight: "999"

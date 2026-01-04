@@ -5,10 +5,10 @@ slug: "gursu-koprusu"
 description: "### Gürsu Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1964533,41.1938578"
 draft: "false"
 weight: "999"

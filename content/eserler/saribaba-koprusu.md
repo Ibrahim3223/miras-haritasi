@@ -5,10 +5,10 @@ slug: "saribaba-koprusu"
 description: "### Sarıbaba Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.023958,40.543302"
 draft: "false"
 weight: "999"

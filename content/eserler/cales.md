@@ -5,10 +5,10 @@ slug: "cales"
 description: "**Cales: Tarih ve Kültür Mirasının Bir Parçası**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.387409,41.18195"
 draft: "false"
 weight: "999"

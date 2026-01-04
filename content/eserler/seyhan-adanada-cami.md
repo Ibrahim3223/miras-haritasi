@@ -5,10 +5,10 @@ slug: "seyhan-adanada-cami"
 description: "## Seyhan, Adana'da Cami: Geçmişten Günümüze Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Kemeraltı_Cami,_Adana_(34271928011).jpg/1200px-Kemeraltı_Cami,_Adana_(34271928011).jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.325638888,36.986361111"
 draft: "false"
 weight: "10"

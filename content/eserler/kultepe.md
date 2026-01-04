@@ -5,10 +5,10 @@ slug: "kultepe"
 description: "### Kültepe: Türkiye'nin En Eski Yerleşim Merkezlerinden Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/KültepeOberstadtPalast.jpg/1200px-KültepeOberstadtPalast.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.633333333,38.85"
 draft: "false"
 weight: "10"

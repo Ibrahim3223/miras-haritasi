@@ -5,10 +5,10 @@ slug: "ummuhan-hatun-medresesi-ve-turbesi"
 description: "## Ümmühan Hatun Medresesi ve Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.6942711,39.4420395"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rustem-pasa-turbesi"
 description: "## Rüstem Paşa Türbesi: İstanbul'un Gizli Çehresinde Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Rüstem_Paşa_Türbesi.jpg/1200px-Rüstem_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.957555,41.0132257"
 draft: "false"
 weight: "10"

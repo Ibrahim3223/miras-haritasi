@@ -5,10 +5,10 @@ slug: "kanuni-sultan-suleyman-hamami"
 description: "# Kanuni Sultan Süleyman Hamamı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Belen"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1928825,36.492363"
 draft: "false"
 weight: "999"

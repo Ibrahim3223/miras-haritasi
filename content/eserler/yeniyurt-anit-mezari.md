@@ -5,10 +5,10 @@ slug: "yeniyurt-anit-mezari"
 description: "## Yeniyurt Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1281509,36.6294785"
 draft: "false"
 weight: "999"

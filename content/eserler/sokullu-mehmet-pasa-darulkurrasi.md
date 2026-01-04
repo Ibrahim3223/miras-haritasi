@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-darulkurrasi"
 description: "## Sokullu Mehmet Paşa Darülkurrası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Sokullu_Mehmet_Paşa_Daru'l_Kurrası.jpg/1200px-Sokullu_Mehmet_Paşa_Daru'l_Kurrası.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9346027,41.0472412"
 draft: "false"
 weight: "10"

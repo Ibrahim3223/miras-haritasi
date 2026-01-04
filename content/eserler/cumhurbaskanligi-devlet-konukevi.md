@@ -5,10 +5,10 @@ slug: "cumhurbaskanligi-devlet-konukevi"
 description: "# Cumhurbaşkanlığı Devlet Konukevi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "28.168611111,36.9125"
 draft: "false"
 weight: "999"

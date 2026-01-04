@@ -5,10 +5,10 @@ slug: "ataturk-bustu-selcuk"
 description: "## Atatürk Büstü, Selçuk..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3639393,37.94841"
 draft: "false"
 weight: "999"

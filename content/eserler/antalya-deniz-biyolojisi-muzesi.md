@@ -5,10 +5,10 @@ slug: "antalya-deniz-biyolojisi-muzesi"
 description: "## Antalya Deniz Biyolojisi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Antalya_Deniz_Biyolojisi_M%C3%BCzesi_%282%29.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.7024994,36.8853378"
 draft: "false"
 weight: "999"

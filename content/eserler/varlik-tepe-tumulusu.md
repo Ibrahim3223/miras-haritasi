@@ -5,10 +5,10 @@ slug: "varlik-tepe-tumulusu"
 description: "# Varlık Tepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7646961,41.5530167"
 draft: "false"
 weight: "999"

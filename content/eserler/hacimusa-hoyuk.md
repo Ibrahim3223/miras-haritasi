@@ -5,10 +5,10 @@ slug: "hacimusa-hoyuk"
 description: "## Hacımusa Höyük: Kozaklı'nın Gizli Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8220817,39.226286"
 draft: "false"
 weight: "999"

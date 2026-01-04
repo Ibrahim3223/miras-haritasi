@@ -5,10 +5,10 @@ slug: "belkahve-ataturk-heykeli"
 description: "## Belkahve Atatürk Heykeli: İzmir'in Anlaşılır Yüzü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Belkahve_Atatürk_Heykeli.jpg/1200px-Belkahve_Atatürk_Heykeli.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.31725,38.453805555"
 draft: "false"
 weight: "10"

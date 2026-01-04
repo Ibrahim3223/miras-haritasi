@@ -5,10 +5,10 @@ slug: "sadyattes-ii-tumulusu"
 description: "## Sadyattes II Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.02557,38.574032"
 draft: "false"
 weight: "999"

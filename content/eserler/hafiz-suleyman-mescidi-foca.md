@@ -5,10 +5,10 @@ slug: "hafiz-suleyman-mescidi-foca"
 description: "## Hafız Süleyman Mescidi: Foça'da Bir Tarihi Cami..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7538338,38.6672478"
 draft: "false"
 weight: "999"

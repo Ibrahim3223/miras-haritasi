@@ -5,10 +5,10 @@ slug: "erek-hamami"
 description: "## Erek Hamamı: Trabzon'un Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Erbaa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5771446,40.6859589"
 draft: "false"
 weight: "999"

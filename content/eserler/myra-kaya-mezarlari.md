@@ -5,10 +5,10 @@ slug: "myra-kaya-mezarlari"
 description: "## Myra Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Myra_Nekropolisi.jpg/1200px-Myra_Nekropolisi.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9842377,36.2586899"
 draft: "false"
 weight: "10"

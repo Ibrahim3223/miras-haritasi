@@ -5,10 +5,10 @@ slug: "kara-musa-camii-sanliurfa"
 description: "## Kara Musa Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7968597,37.1512489"
 draft: "false"
 weight: "999"

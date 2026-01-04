@@ -5,10 +5,10 @@ slug: "ahaldaba-kilisesi"
 description: "## Ahaldaba Kilisesi: Türkiye'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/YeniRabat,northeast.jpg/1200px-YeniRabat,northeast.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.16611111,41.07444444"
 draft: "false"
 weight: "10"

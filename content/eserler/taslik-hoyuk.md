@@ -5,10 +5,10 @@ slug: "taslik-hoyuk"
 description: "## Taşlık Höyük: Kırşehir'in Gizemli Yitik Evi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.5534558,39.3337394"
 draft: "false"
 weight: "999"

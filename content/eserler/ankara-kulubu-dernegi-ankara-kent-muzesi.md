@@ -5,10 +5,10 @@ slug: "ankara-kulubu-dernegi-ankara-kent-muzesi"
 description: "## Ankara Kent Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.779779108,39.957962043"
 draft: "false"
 weight: "999"

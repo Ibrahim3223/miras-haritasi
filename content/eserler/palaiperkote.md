@@ -5,10 +5,10 @@ slug: "palaiperkote"
 description: "## Palaiperkote Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.686388888,40.236111111"
 draft: "false"
 weight: "999"

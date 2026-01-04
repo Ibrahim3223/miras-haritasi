@@ -5,10 +5,10 @@ slug: "tepeboz-camii"
 description: "## Tepeboz Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.4473972,38.6609344"
 draft: "false"
 weight: "999"

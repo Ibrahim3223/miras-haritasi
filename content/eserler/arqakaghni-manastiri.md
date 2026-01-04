@@ -5,10 +5,10 @@ slug: "arqakaghni-manastiri"
 description: "# Arqakaghni Manastırı: Adana'nın Gizli Çehresinde Bir Tarihî Miras..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "35.6953,36.9112"
 draft: "false"
 weight: "999"

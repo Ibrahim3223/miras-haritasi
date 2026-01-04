@@ -5,10 +5,10 @@ slug: "thasthara"
 description: "## Thasthara Arkeolojik Sit: Muğla'nın Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4,37.35"
 draft: "false"
 weight: "999"

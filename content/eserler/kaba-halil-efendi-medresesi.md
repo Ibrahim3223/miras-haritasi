@@ -5,10 +5,10 @@ slug: "kaba-halil-efendi-medresesi"
 description: "## Kaba Halil Efendi Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Kaba_Halil_Efendi_Medresesi.jpg/1200px-Kaba_Halil_Efendi_Medresesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9426467,41.0249885"
 draft: "false"
 weight: "10"

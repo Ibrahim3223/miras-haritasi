@@ -5,10 +5,10 @@ slug: "egil-taciyan-camisi"
 description: "### Eğil Tacıyan Camisi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.093194444,38.254388888"
 draft: "false"
 weight: "999"

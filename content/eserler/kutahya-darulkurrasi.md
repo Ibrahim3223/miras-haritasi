@@ -5,10 +5,10 @@ slug: "kutahya-darulkurrasi"
 description: "## Kütahya Darülkurrası: Geçmişten Geleceğe Uzanan Bir Medrese..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.979929,39.4198914"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-cavus-camii"
 description: "## Ahmet Çavuş Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.943191,41.025908"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kece-pazari-camii"
 description: "## Keçe Pazarı Camii: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5360336,38.7557526"
 draft: "false"
 weight: "999"

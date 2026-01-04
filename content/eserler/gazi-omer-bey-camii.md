@@ -5,10 +5,10 @@ slug: "gazi-omer-bey-camii"
 description: "## Gazi Ömer Bey Camii..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9038086,40.8926773"
 draft: "false"
 weight: "999"

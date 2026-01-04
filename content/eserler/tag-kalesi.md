@@ -5,10 +5,10 @@ slug: "tag-kalesi"
 description: "## Tağ Kalesi: Hizan'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Hizan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.5924988,38.1239014"
 draft: "false"
 weight: "999"

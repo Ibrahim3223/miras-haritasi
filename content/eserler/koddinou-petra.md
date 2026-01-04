@@ -5,10 +5,10 @@ slug: "koddinou-petra"
 description: "## Koddinou Petra: Kıbrıs'ta Bir Gizli Şehri Keşfetmek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.503594,38.585627"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yahyali-seyyid-ali-turbesi"
 description: "## Yahyalı Seyyid Ali Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yahyalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.357477635,38.09820129"
 draft: "false"
 weight: "999"

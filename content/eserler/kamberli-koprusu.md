@@ -5,10 +5,10 @@ slug: "kamberli-koprusu"
 description: "## Kamberli Köprüsü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.462482,40.482873"
 draft: "false"
 weight: "999"

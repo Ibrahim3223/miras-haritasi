@@ -5,10 +5,10 @@ slug: "sinan-pasa-medresesi"
 description: "## Sinan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0060177,41.0424919"
 draft: "false"
 weight: "999"

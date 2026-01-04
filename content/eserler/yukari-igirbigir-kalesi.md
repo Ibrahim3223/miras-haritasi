@@ -5,10 +5,10 @@ slug: "yukari-igirbigir-kalesi"
 description: "## Yukarı Iğırbığır Kalesi: Horasan'ın Gizli İhtişamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Horasan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.5048256,39.9925537"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-mustafa-efendi-camii"
 description: "# Hacı Mustafa Efendi Camii: Çankırı'nın Gizli Çağı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Yapraklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7769127,40.7577133"
 draft: "false"
 weight: "999"

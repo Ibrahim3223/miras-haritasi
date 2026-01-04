@@ -5,10 +5,10 @@ slug: "dikilitas-bakirkoy"
 description: "## Dikilitaş, Bakırköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.8699436,40.9919052"
 draft: "false"
 weight: "999"

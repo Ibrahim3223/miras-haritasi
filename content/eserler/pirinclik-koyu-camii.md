@@ -5,10 +5,10 @@ slug: "pirinclik-koyu-camii"
 description: "## Pirinçlik Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.001580357,41.164478582"
 draft: "false"
 weight: "999"

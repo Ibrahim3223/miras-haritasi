@@ -5,10 +5,10 @@ slug: "akhilleion-troas"
 description: "### Akhilleion (Troas)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Ilios%3B_the_city_and_country_of_the_Trojans._The_results_of_researches_and_discoveries_on_the_site_of_Troy_and_throughout_the_Troad_in_the_years_1871-72-73-78-79%2C_including_an_autobiography_of_the_%2814774657781%29.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1525,39.915"
 draft: "false"
 weight: "999"

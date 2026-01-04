@@ -5,10 +5,10 @@ slug: "elbegendi-mor-yakup-kilisesi"
 description: "## Elbeğendi Mor Yakup Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4102211,37.2833557"
 draft: "false"
 weight: "999"

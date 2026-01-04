@@ -5,10 +5,10 @@ slug: "kanlidivane"
 description: "### Kanlıdivane Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kanlidivane_sinkhole.JPG/1200px-Kanlidivane_sinkhole.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.17944444,36.52555556"
 draft: "false"
 weight: "10"

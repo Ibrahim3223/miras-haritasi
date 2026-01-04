@@ -5,10 +5,10 @@ slug: "guneykoy-koprusu-2"
 description: "### Güneyköy Köprüsü 2: Görele'nin Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.078259,40.99278"
 draft: "false"
 weight: "999"

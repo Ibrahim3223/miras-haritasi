@@ -5,10 +5,10 @@ slug: "haci-murad-i-veli-turbesi"
 description: "## Hacı Murad-ı Veli Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Eldivan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.468782,40.580834"
 draft: "false"
 weight: "999"

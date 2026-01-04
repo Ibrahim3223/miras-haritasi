@@ -5,10 +5,10 @@ slug: "nuhrut-kilisesi"
 description: "## Nuhrut Kilisesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Halfeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.1131387,37.2899051"
 draft: "false"
 weight: "999"

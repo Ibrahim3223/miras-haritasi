@@ -5,10 +5,10 @@ slug: "filyos-kalesi"
 description: "### Filyos Kalesi: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Çaycuma"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.030017,41.573406"
 draft: "false"
 weight: "999"

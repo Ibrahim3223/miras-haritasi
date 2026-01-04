@@ -5,10 +5,10 @@ slug: "ebe-gulbahar-hatun-turbesi"
 description: "### Ebe Gülbahar Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Ebe_Gülbahar_Hatun_Türbesi_7968.jpg/1200px-Ebe_Gülbahar_Hatun_Türbesi_7968.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0454254,40.1905174"
 draft: "false"
 weight: "10"

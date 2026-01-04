@@ -5,10 +5,10 @@ slug: "balikli-hamami"
 description: "### Balıklı Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Bal%C4%B1kl%C4%B1_hamam%C4%B1_kap%C4%B1.JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9789186,39.4201865"
 draft: "false"
 weight: "999"

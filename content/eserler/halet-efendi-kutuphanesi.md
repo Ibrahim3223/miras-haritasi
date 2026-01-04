@@ -5,10 +5,10 @@ slug: "halet-efendi-kutuphanesi"
 description: "## Halet Efendi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9744854,41.0282516"
 draft: "false"
 weight: "999"

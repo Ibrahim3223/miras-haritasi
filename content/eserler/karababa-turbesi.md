@@ -5,10 +5,10 @@ slug: "karababa-turbesi"
 description: "## Karababa Türbesi: Fatih'te Bir Azınlık Dininin En Önemli Eserleri Arasındaki Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9692127,41.0082902"
 draft: "false"
 weight: "999"

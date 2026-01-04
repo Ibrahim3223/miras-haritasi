@@ -5,10 +5,10 @@ slug: "bugday-dede-turbesi"
 description: "### Buğday Dede Türbesi: Tarih, Kültür ve Edebiyatın Kesiştiği Yer..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.735087,38.080686"
 draft: "false"
 weight: "999"

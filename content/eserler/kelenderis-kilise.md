@@ -5,10 +5,10 @@ slug: "kelenderis-kilise"
 description: "## Kelenderis Kilisesi: Bir Roma-Orta Çağ Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Aydıncık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "33.3231697,36.1440353"
 draft: "false"
 weight: "999"

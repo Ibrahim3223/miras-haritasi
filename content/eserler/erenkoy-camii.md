@@ -5,10 +5,10 @@ slug: "erenkoy-camii"
 description: "### Erenköy Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.844,40.9001"
 draft: "false"
 weight: "999"

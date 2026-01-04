@@ -5,10 +5,10 @@ slug: "rize-muzesi"
 description: "## Rize Müzesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.515874,41.024427"
 draft: "false"
 weight: "999"

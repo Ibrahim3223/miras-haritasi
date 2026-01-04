@@ -5,10 +5,10 @@ slug: "kizilcahamam-sey-hamami"
 description: "### Kızılcahamam Sey Hamamı: Tarih, Mimarî ve Kültürel Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.6442375,40.5996628"
 draft: "false"
 weight: "999"

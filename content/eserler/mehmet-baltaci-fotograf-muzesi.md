@@ -5,10 +5,10 @@ slug: "mehmet-baltaci-fotograf-muzesi"
 description: "## Mehmet Baltacı Fotoğraf Müzesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.332839,36.98206"
 draft: "false"
 weight: "999"

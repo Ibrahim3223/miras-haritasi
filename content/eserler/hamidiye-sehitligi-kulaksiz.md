@@ -5,10 +5,10 @@ slug: "hamidiye-sehitligi-kulaksiz"
 description: "## Hamidiye Şehitliği Kulaksız: İstanbul'un Anıtsal Özellisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9606075,41.0409012"
 draft: "false"
 weight: "999"

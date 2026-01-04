@@ -5,10 +5,10 @@ slug: "tataroglu-hoyugu"
 description: "## Tataroğlu Höyüğü: Tarih ve Kültür Mirasının Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0601277,39.2215817"
 draft: "false"
 weight: "999"

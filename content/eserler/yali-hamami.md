@@ -5,10 +5,10 @@ slug: "yali-hamami"
 description: "### Yalı Hamamı: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.4004368,40.1482348"
 draft: "false"
 weight: "999"

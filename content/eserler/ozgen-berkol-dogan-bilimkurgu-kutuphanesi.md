@@ -5,10 +5,10 @@ slug: "ozgen-berkol-dogan-bilimkurgu-kutuphanesi"
 description: "## Özgen Berkol Doğan Bilimkurgu Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

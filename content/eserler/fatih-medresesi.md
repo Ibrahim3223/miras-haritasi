@@ -5,10 +5,10 @@ slug: "fatih-medresesi"
 description: "## Fatih Medresesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "39.7198257,41.0047798"
 draft: "false"
 weight: "999"

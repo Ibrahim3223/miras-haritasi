@@ -5,10 +5,10 @@ slug: "cuma-camii-hacibektas"
 description: "**Cuma Camii, Hacıbektaş: Tarihî Bir Mirasın Gizemi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5597687,38.9450684"
 draft: "false"
 weight: "999"

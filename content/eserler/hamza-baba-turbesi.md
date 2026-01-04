@@ -5,10 +5,10 @@ slug: "hamza-baba-turbesi"
 description: "## Hamza Baba Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7091503,38.419487"
 draft: "false"
 weight: "999"

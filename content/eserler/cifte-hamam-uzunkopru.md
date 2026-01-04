@@ -5,10 +5,10 @@ slug: "cifte-hamam-uzunkopru"
 description: "# Çifte Hamam, Uzunköprü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.6839352,41.2669182"
 draft: "false"
 weight: "999"

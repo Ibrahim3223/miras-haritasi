@@ -5,10 +5,10 @@ slug: "adile-sultan-turbesi"
 description: "## Adile Sultan Türbesi: Eyüp Sultan'da Bir Ünlü Kadının Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9355793,41.0484047"
 draft: "false"
 weight: "999"

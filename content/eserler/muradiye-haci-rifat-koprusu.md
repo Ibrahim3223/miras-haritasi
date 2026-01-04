@@ -5,10 +5,10 @@ slug: "muradiye-haci-rifat-koprusu"
 description: "## Muradiye Hacı Rıfat Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.546633,40.9458"
 draft: "false"
 weight: "999"

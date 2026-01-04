@@ -5,10 +5,10 @@ slug: "defterdar-nazli-mahmut-celebi-turbesi"
 description: "## Defterdar Nazlı Mahmut Çelebi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.937749,41.041902"
 draft: "false"
 weight: "999"

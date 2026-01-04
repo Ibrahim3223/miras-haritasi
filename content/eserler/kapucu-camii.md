@@ -5,10 +5,10 @@ slug: "kapucu-camii"
 description: "## Kapucu Camii..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.1605492,39.1440239"
 draft: "false"
 weight: "999"

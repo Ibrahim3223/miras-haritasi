@@ -5,10 +5,10 @@ slug: "guneysinir-ak-turbe"
 description: "## Güneysınır Ak Türbe..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Güneysınır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.704886484,37.246491602"
 draft: "false"
 weight: "999"

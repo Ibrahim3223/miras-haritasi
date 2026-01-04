@@ -5,10 +5,10 @@ slug: "mezopotamya-antakyasi"
 description: "## Mezopotamya Antakyası: Şanlıurfa'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.755832,37.229021"
 draft: "false"
 weight: "999"

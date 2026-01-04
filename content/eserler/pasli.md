@@ -5,10 +5,10 @@ slug: "pasli"
 description: "## Paslı: Türkiye'nin Eski Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Pasl1i.jpg/1200px-Pasl1i.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.00583333,36.46777778"
 draft: "false"
 weight: "10"

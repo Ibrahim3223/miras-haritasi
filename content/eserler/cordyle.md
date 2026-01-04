@@ -5,10 +5,10 @@ slug: "cordyle"
 description: "## Cordyle Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.496726,41.081598"
 draft: "false"
 weight: "999"

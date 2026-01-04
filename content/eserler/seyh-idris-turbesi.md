@@ -5,10 +5,10 @@ slug: "seyh-idris-turbesi"
 description: "### Şeyh İdris Türbesi: Piraziz'in Zümrüdü Anıtı..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Piraziz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.100132,40.9034195"
 draft: "false"
 weight: "999"

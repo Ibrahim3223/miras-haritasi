@@ -5,10 +5,10 @@ slug: "camlibel-koprusu"
 description: "## Çamlıbel Köprüsü: Uşak'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.2179928,38.303299"
 draft: "false"
 weight: "999"

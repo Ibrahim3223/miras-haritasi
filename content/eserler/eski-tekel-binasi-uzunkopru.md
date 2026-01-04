@@ -5,10 +5,10 @@ slug: "eski-tekel-binasi-uzunkopru"
 description: "## Eski Tekel Binası, Uzunköprü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.6849136,41.2679863"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "carpan-derbenti"
 description: "## Çarpan Derbenti: Urla'nın Yüzyıllara Yansıtacak Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6868114,38.3108368"
 draft: "false"
 weight: "999"

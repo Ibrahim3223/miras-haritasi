@@ -5,10 +5,10 @@ slug: "cilar-koprusu-ikizdere"
 description: "## Çilar Köprüsü: Tarihi ve Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.4749451,40.8188286"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "attepe-hoyugu"
 description: "**Attepe Höyüğü: Mut, Mersin'in Gizli Hazinesi**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.38571,36.60169"
 draft: "false"
 weight: "999"

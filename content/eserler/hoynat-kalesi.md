@@ -5,10 +5,10 @@ slug: "hoynat-kalesi"
 description: "### Hoynat Kalesi: Perşembe'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Perşembe"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.7288818,41.1178322"
 draft: "false"
 weight: "999"

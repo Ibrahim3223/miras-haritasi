@@ -5,10 +5,10 @@ slug: "kurban-hoyuk"
 description: "**Kurban Höyük: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.517864,37.504341"
 draft: "false"
 weight: "999"

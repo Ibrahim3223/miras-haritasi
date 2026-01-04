@@ -5,10 +5,10 @@ slug: "carsi-camii-kula"
 description: "# Çarşı Camii: Tarihi ve Kültürel Mirası Tanımlama..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6467266,38.5460052"
 draft: "false"
 weight: "999"

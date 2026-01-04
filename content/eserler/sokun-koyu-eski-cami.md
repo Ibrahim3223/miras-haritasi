@@ -5,10 +5,10 @@ slug: "sokun-koyu-eski-cami"
 description: "## Sökün Köyü Eski Cami: Mersin'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0084457,36.3395767"
 draft: "false"
 weight: "999"

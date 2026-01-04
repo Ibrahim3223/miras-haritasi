@@ -5,10 +5,10 @@ slug: "tepeli-hoyugu"
 description: "## Tepeli Höyüğü..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.7977149,37.3218414"
 draft: "false"
 weight: "999"

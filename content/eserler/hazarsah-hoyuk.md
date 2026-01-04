@@ -5,10 +5,10 @@ slug: "hazarsah-hoyuk"
 description: "### Hazarşah Höyük: Bünyan'da Bir Geçmişi Keşfetmek..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9747046,38.7580302"
 draft: "false"
 weight: "999"

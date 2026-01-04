@@ -5,10 +5,10 @@ slug: "vezirtepe-a-tumulusu"
 description: "## Vezirtepe A Tümülüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0779591,41.6319885"
 draft: "false"
 weight: "999"

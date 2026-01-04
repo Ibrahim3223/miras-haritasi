@@ -5,10 +5,10 @@ slug: "hekatomnos-anit-mezari"
 description: "### Hekatomnos Anıt Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.78275,37.315"
 draft: "false"
 weight: "999"

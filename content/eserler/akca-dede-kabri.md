@@ -5,10 +5,10 @@ slug: "akca-dede-kabri"
 description: "## Akça Dede Kabri Tanıtımı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Karamürsel"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6210709,40.6215363"
 draft: "false"
 weight: "999"

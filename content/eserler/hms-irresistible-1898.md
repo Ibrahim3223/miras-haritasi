@@ -5,10 +5,10 @@ slug: "hms-irresistible-1898"
 description: "### HMS Irresistible (1898)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HMS_Irresistible_(1898)_in_1908.jpg/1200px-HMS_Irresistible_(1898)_in_1908.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.3166428,40.0332832"
 draft: "false"
 weight: "10"

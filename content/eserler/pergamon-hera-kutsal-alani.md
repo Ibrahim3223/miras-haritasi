@@ -5,10 +5,10 @@ slug: "pergamon-hera-kutsal-alani"
 description: "**Pergamon Hera Kutsal Alanı**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1856041,39.1273956"
 draft: "false"
 weight: "999"

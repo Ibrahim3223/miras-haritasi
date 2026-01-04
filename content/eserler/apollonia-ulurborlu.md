@@ -5,10 +5,10 @@ slug: "apollonia-ulurborlu"
 description: "### Apollonia, Ulurborlu: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Uluborlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.4687252,38.0727081"
 draft: "false"
 weight: "999"

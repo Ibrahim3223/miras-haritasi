@@ -5,10 +5,10 @@ slug: "kulhoyuk"
 description: "## Külhöyük: Eskişehir'in Gizemi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9611,39.661833"
 draft: "false"
 weight: "999"

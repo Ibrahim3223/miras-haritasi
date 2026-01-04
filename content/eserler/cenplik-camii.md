@@ -5,10 +5,10 @@ slug: "cenplik-camii"
 description: "## Çenplik Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıdemir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.965593,41.020379"
 draft: "false"
 weight: "999"

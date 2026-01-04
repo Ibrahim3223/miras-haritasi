@@ -5,10 +5,10 @@ slug: "muhammed-hariri-turbesi"
 description: "## Muhammed Hariri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.928567,41.018519"
 draft: "false"
 weight: "999"

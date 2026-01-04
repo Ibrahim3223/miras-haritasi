@@ -5,10 +5,10 @@ slug: "drizipara"
 description: "## Drizipara Arkeolojik Sit..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.607128,41.3082"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "telmessos-lahdi"
 description: "## Telmessos Lahdi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1115379,36.622345"
 draft: "false"
 weight: "999"

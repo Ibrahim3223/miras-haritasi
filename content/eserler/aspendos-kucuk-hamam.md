@@ -5,10 +5,10 @@ slug: "aspendos-kucuk-hamam"
 description: "## Aspendos Küçük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.1708202,36.9363174"
 draft: "false"
 weight: "1"

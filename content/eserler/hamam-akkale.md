@@ -5,10 +5,10 @@ slug: "hamam-akkale"
 description: "## Hamam, Akkale: Erdemli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.2224808,36.5288773"
 draft: "false"
 weight: "999"

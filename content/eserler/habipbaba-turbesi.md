@@ -5,10 +5,10 @@ slug: "habipbaba-turbesi"
 description: "## Habipbaba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.27618,39.910938"
 draft: "false"
 weight: "999"

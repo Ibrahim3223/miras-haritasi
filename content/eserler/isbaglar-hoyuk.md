@@ -5,10 +5,10 @@ slug: "isbaglar-hoyuk"
 description: "**İsbağlar Höyük: Aksaray'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ağaçören ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8565052,38.9147782"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arappinari-koprusu-3"
 description: "## Arappınarı Köprüsü 3: Tire'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7390614,38.0803452"
 draft: "false"
 weight: "999"

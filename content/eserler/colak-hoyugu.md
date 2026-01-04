@@ -5,10 +5,10 @@ slug: "colak-hoyugu"
 description: "# Çolak Höyüğü: Hatay'ın Gizli Tarihi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4273703,36.4788402"
 draft: "false"
 weight: "999"

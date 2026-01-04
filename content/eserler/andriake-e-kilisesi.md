@@ -5,10 +5,10 @@ slug: "andriake-e-kilisesi"
 description: "## Andriake E Kilisesi: Antik Çağ'ın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9519081,36.2287598"
 draft: "false"
 weight: "999"

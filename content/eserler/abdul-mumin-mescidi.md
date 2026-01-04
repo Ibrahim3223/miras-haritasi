@@ -5,10 +5,10 @@ slug: "abdul-mumin-mescidi"
 description: "## Abdül-Mümin Mescidi: Konya'nın Tarihî Bir Çağıntısı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.489399,37.8702583"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "suleyman-celebi-anit-mezari"
 description: "## Süleyman Çelebi Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Süleyman_Çelebi_Anıt_Mezarı.jpg/1200px-Süleyman_Çelebi_Anıt_Mezarı.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.028835,40.201466"
 draft: "false"
 weight: "10"

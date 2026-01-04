@@ -5,10 +5,10 @@ slug: "dakibyza"
 description: "## Dakibyza Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.433368,40.799732"
 draft: "false"
 weight: "999"

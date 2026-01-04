@@ -5,10 +5,10 @@ slug: "han-mahmut-koprusu"
 description: "**Han Mahmut Köprüsü**..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Şırnak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.179295,37.39809"
 draft: "false"
 weight: "999"

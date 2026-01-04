@@ -5,10 +5,10 @@ slug: "buyuk-ihsaniye-camii"
 description: "## Büyük İhsaniye Camii..."
 featured_image: ""
 province: "Konak (ilçe)"
-iller: '["Konak (ilçe)"]'
+iller: ["Konak (ilçe)"]
 district: "Zafertepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1283989,38.4062767"
 draft: "false"
 weight: "999"

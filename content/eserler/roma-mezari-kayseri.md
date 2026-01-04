@@ -5,10 +5,10 @@ slug: "roma-mezari-kayseri"
 description: "## Roma Mezarı, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4866447,38.7239151"
 draft: "false"
 weight: "999"

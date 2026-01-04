@@ -5,10 +5,10 @@ slug: "akalissus"
 description: "## Akalissus Arkeolojik Siti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.22144675,36.52732068"
 draft: "false"
 weight: "999"

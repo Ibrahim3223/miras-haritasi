@@ -5,10 +5,10 @@ slug: "asartepe-milas"
 description: "# Asartepe, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.678400004,37.460903356"
 draft: "false"
 weight: "999"

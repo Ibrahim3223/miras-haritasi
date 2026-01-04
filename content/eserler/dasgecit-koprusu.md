@@ -5,10 +5,10 @@ slug: "dasgecit-koprusu"
 description: "## Daşgeçit Köprüsü: Tarım ve Kültür Mirasının Simgesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.1036602,36.612414"
 draft: "false"
 weight: "999"

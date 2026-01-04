@@ -5,10 +5,10 @@ slug: "cala-kilisesi-uzundere"
 description: "## Çala Kilisesi (Uzundere): Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Uzundere"
-iller: '["Uzundere"]'
+iller: ["Uzundere"]
 district: "Çaybaşı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.548863888,40.560372222"
 draft: "false"
 weight: "999"

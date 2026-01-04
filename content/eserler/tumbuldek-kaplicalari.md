@@ -5,10 +5,10 @@ slug: "tumbuldek-kaplicalari"
 description: "## Tümbüldek Kaplıcaları: Bir Hamamın Tarihi Özellikleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.4314119,39.9486774"
 draft: "false"
 weight: "999"

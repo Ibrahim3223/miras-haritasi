@@ -5,10 +5,10 @@ slug: "sirkeli-hoyugu"
 description: "### Sirkeli Höyük: Adana'nın Eski Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Ansicht-Sirkeli.jpg/1200px-Ansicht-Sirkeli.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.74527778,37.00388889"
 draft: "false"
 weight: "10"

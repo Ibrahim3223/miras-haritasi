@@ -5,10 +5,10 @@ slug: "daruz-zikr-mescidi"
 description: "## Darü’z Zikr Mescidi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6774254,37.9676437"
 draft: "false"
 weight: "999"

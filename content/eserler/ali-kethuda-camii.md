@@ -5,10 +5,10 @@ slug: "ali-kethuda-camii"
 description: "## Ali Kethüda Camii: İstanbul'un Gizli Çehresinde Bir İhtişam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg/1200px-Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.057833333,41.169027777"
 draft: "false"
 weight: "10"

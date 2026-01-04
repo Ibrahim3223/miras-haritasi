@@ -5,10 +5,10 @@ slug: "arappinari-koprusu-5"
 description: "## Arappınarı Köprüsü 5: Tarihî Bir Köprünin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.73876,38.0815125"
 draft: "false"
 weight: "999"

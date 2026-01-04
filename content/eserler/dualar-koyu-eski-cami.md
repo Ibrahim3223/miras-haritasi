@@ -5,10 +5,10 @@ slug: "dualar-koyu-eski-cami"
 description: "## Dualar Köyü Eski Cami: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.410387,37.8556595"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayios-vlasios-ortodoks-kilisesi"
 description: "### Ayios Vlasios Ortodoks Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8423462,38.1703148"
 draft: "false"
 weight: "999"

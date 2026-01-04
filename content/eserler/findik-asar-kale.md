@@ -5,10 +5,10 @@ slug: "findik-asar-kale"
 description: "## Fındık Asar Kale..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.2123032,39.5606918"
 draft: "false"
 weight: "999"

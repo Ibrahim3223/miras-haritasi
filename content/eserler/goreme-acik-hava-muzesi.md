@@ -5,10 +5,10 @@ slug: "goreme-acik-hava-muzesi"
 description: "## Göreme Açık Hava Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cappadoce_168.jpg/1200px-Cappadoce_168.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.84538,38.6400467"
 draft: "false"
 weight: "10"

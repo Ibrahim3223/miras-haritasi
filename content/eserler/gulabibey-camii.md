@@ -5,10 +5,10 @@ slug: "gulabibey-camii"
 description: "### Gülabibey Camii: Erzincan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.03619,39.60224"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukur-mescit-bursa"
 description: "## Çukur Mescit, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0795116,40.1862144"
 draft: "false"
 weight: "999"

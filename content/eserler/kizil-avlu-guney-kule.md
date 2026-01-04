@@ -5,10 +5,10 @@ slug: "kizil-avlu-guney-kule"
 description: "### Kızıl Avlu Güney Kule: Bergama'nın Tarihi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Kızıl_Avlu_Güney_Kule.jpg/1200px-Kızıl_Avlu_Güney_Kule.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.1834316,39.1216278"
 draft: "false"
 weight: "10"

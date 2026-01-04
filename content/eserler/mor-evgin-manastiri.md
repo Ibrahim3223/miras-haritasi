@@ -5,10 +5,10 @@ slug: "mor-evgin-manastiri"
 description: "## Mor Evgin Manastırı: Mezopotamya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kloster_Mor_Augin.jpg/1200px-Kloster_Mor_Augin.jpg"
 province: "Mezopotamya (Roma eyaleti)"
-iller: '["Mezopotamya (Roma eyaleti)"]'
+iller: ["Mezopotamya (Roma eyaleti)"]
 district: "Nusaybin"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.43027778,37.19388889"
 draft: "false"
 weight: "10"

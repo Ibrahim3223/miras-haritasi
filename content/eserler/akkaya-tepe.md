@@ -5,10 +5,10 @@ slug: "akkaya-tepe"
 description: "### Akkaya Tepe: Avanos'un Gizli İhtişamı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9994918,38.7851707"
 draft: "false"
 weight: "999"

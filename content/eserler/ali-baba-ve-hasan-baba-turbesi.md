@@ -5,10 +5,10 @@ slug: "ali-baba-ve-hasan-baba-turbesi"
 description: "## Ali Baba ve Hasan Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ali_Baba_ve_Hasan_Baba_Türbesi.jpg/1200px-Ali_Baba_ve_Hasan_Baba_Türbesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.693908,41.247"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "toprakkale-tepesi"
 description: "### Toprakkale Tepesi: Altınyayla'daki Antik Şehir..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.6826897,39.2732407"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akkise-camii"
 description: "## Akkise Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ahırlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.131995707,37.36580211"
 draft: "false"
 weight: "999"

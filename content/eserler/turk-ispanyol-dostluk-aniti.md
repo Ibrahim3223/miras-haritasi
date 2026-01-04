@@ -5,10 +5,10 @@ slug: "turk-ispanyol-dostluk-aniti"
 description: "## Türk-İspanyol Dostluk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Maçka_-_memorial_Yak-42.jpg/1200px-Maçka_-_memorial_Yak-42.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.61025,40.815055555"
 draft: "false"
 weight: "10"

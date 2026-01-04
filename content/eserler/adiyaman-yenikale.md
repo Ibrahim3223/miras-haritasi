@@ -5,10 +5,10 @@ slug: "adiyaman-yenikale"
 description: "## Adıyaman Yenikale: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Kâhta"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

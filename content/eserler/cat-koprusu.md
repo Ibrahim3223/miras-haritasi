@@ -5,10 +5,10 @@ slug: "cat-koprusu"
 description: "# Çat Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Çamlıhemşin_Historical_Stone_Bridge.jpg/1200px-Çamlıhemşin_Historical_Stone_Bridge.jpg"
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9502791,40.8632515"
 draft: "false"
 weight: "10"

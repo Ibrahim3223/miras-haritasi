@@ -5,10 +5,10 @@ slug: "samsun-ataturk-muzesi"
 description: "## Samsun - Atatürk Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Samsun"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

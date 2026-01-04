@@ -5,10 +5,10 @@ slug: "zortul-kumbeti-ercis"
 description: "### Zortul Kümbeti: Erciş'teki Gizemli Anıt..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Erciş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.288154,39.068097"
 draft: "false"
 weight: "999"

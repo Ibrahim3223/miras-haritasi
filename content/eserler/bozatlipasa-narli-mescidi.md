@@ -5,10 +5,10 @@ slug: "bozatlipasa-narli-mescidi"
 description: "## Bozatlıpaşa Narlı Mescidi: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.480175,38.7202072"
 draft: "false"
 weight: "999"

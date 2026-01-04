@@ -5,10 +5,10 @@ slug: "kutahya-jeoloji-muzesi"
 description: "### Kütahya Jeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Şengül_hamamı_(3).jpg/1200px-Şengül_hamamı_(3).jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9743195,39.4161491"
 draft: "false"
 weight: "10"

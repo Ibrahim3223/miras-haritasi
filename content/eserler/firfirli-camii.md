@@ -5,10 +5,10 @@ slug: "firfirli-camii"
 description: "## Fırfırlı Camii: Şanlıurfa'nın Gizli Çehresini Görmenin Yeri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7860603,37.1526299"
 draft: "false"
 weight: "999"

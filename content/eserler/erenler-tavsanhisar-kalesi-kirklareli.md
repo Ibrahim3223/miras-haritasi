@@ -5,10 +5,10 @@ slug: "erenler-tavsanhisar-kalesi-kirklareli"
 description: "### Erenler Tavşanhisar Kalesi: Kırklareli'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5658989,41.6298561"
 draft: "false"
 weight: "999"

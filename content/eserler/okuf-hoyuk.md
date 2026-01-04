@@ -5,10 +5,10 @@ slug: "okuf-hoyuk"
 description: "### Okuf Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.551617,40.187617"
 draft: "false"
 weight: "999"

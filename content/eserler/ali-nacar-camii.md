@@ -5,10 +5,10 @@ slug: "ali-nacar-camii"
 description: "### Ali Nacar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b7/Gaziantrep_Ali_Nacar_camii_in_2004_8271.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3812065,37.0676842"
 draft: "false"
 weight: "999"

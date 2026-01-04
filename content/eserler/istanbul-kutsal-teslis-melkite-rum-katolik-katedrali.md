@@ -5,10 +5,10 @@ slug: "istanbul-kutsal-teslis-melkite-rum-katolik-katedrali"
 description: "## İstanbul Kutsal Teslis Melkite Rum Katolik Katedrali..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9761204,41.034889"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bedreddin-gevhertas-turbesi"
 description: "## Bedreddin Gevhertaş Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.521240399,37.835350791"
 draft: "false"
 weight: "999"

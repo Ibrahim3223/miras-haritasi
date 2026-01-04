@@ -5,10 +5,10 @@ slug: "ihlara-vadisi"
 description: "## Ihlara Vadisi: Kutsal Bir Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Ihlara.jpg/1200px-Ihlara.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.295277777,38.2575"
 draft: "false"
 weight: "10"

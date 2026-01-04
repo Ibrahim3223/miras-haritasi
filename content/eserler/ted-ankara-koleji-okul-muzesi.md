@@ -5,10 +5,10 @@ slug: "ted-ankara-koleji-okul-muzesi"
 description: "## TED Ankara Koleji Okul Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.775687,39.831074"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nilufer-belediyesi-dr-huseyin-parkan-sanlikol-muzik-enstrumanlari-muzesi"
 description: "### Nilüfer Belediyesi Dr. Hüseyin Parkan Sanlıkol Müzik Enstrümanları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/H._Parkan_Sanlıkol_Müzesi-1,_2021.jpg/1200px-H._Parkan_Sanlıkol_Müzesi-1,_2021.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.998539871,40.210145538"
 draft: "false"
 weight: "10"

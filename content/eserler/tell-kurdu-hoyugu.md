@@ -5,10 +5,10 @@ slug: "tell-kurdu-hoyugu"
 description: "## Tell Kurdu Höyüğü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.445,36.330278"
 draft: "false"
 weight: "999"

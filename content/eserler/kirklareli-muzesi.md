@@ -5,10 +5,10 @@ slug: "kirklareli-muzesi"
 description: "### Kırklareli Müzesi: Tarih, Kültür ve Sanatın Kaynağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/KırklareliMuseum_(1).JPG/1200px-KırklareliMuseum_(1).JPG"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.224722222,41.733611111"
 draft: "false"
 weight: "10"

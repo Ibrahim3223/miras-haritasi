@@ -5,10 +5,10 @@ slug: "gozcu-baba-turbesi-kemah"
 description: "### Gözcü Baba Türbesi, Kemah..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.0336533,39.6069946"
 draft: "false"
 weight: "999"

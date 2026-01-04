@@ -5,10 +5,10 @@ slug: "italyan-kilisesi"
 description: "## İtalyan Kilisesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.5505428,41.6747704"
 draft: "false"
 weight: "999"

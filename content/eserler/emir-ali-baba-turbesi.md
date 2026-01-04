@@ -5,10 +5,10 @@ slug: "emir-ali-baba-turbesi"
 description: "### Emir Ali Baba Türbesi: Çanakkale'nin Gizli Mührü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.679948,40.417418"
 draft: "false"
 weight: "999"

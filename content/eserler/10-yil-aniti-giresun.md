@@ -5,10 +5,10 @@ slug: "10-yil-aniti-giresun"
 description: "### 10. Yıl Anıtı, Giresun..."
 featured_image: "https://karadeniz.gov.tr///d_galeri/381x518/10-YIL-ANITI-IMG_5328.JPG"
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.385441,40.918938"
 draft: "false"
 weight: "999"

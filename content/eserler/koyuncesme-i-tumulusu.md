@@ -5,10 +5,10 @@ slug: "koyuncesme-i-tumulusu"
 description: "## Koyunçeşme I Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.675909,41.8539162"
 draft: "false"
 weight: "999"

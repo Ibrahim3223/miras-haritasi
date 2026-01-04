@@ -5,10 +5,10 @@ slug: "kirkgoz-kemeri"
 description: "## Kırkgöz Kemeri: Antik Limyra'nın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bridge_near_Limyra._Pic_04.jpg/1200px-Bridge_near_Limyra._Pic_04.jpg"
 province: "Finike"
-iller: '["Finike"]'
+iller: ["Finike"]
 district: "Limyra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.20754,36.34885"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "coban-cavus-camii-haziresi"
 description: "## Çoban Çavuş Camii Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9592781,41.0080338"
 draft: "false"
 weight: "999"

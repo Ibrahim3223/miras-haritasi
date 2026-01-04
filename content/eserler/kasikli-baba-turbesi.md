@@ -5,10 +5,10 @@ slug: "kasikli-baba-turbesi"
 description: "### Kaşıklı Baba Türbesi: Eceabat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3778,40.1509"
 draft: "false"
 weight: "999"

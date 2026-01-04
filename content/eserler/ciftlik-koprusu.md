@@ -5,10 +5,10 @@ slug: "ciftlik-koprusu"
 description: "## Çiftlik Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9624176,37.5575371"
 draft: "false"
 weight: "999"

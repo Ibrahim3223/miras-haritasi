@@ -5,10 +5,10 @@ slug: "minyatur-amasya-muzesi"
 description: "## Minyatür Amasya Müzesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.827563,40.650596"
 draft: "false"
 weight: "999"

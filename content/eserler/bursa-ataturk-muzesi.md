@@ -5,10 +5,10 @@ slug: "bursa-ataturk-muzesi"
 description: "### Bursa Atatürk Müzesi: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bursa_Atatürk_Müzesi.JPG/1200px-Bursa_Atatürk_Müzesi.JPG"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Bursa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.039805555,40.195111111"
 draft: "false"
 weight: "10"

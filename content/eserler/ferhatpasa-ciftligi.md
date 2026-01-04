@@ -5,10 +5,10 @@ slug: "ferhatpasa-ciftligi"
 description: "## Ferhatpaşa Çiftliği: İstanbul'un Gizli Tarihi Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.88863212,41.039777571"
 draft: "false"
 weight: "999"

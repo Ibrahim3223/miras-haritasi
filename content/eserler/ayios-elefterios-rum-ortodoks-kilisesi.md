@@ -5,10 +5,10 @@ slug: "ayios-elefterios-rum-ortodoks-kilisesi"
 description: "## Ayios Elefterios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.977339,41.047309"
 draft: "false"
 weight: "999"

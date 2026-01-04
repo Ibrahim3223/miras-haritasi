@@ -5,10 +5,10 @@ slug: "corbaci-kapisi-fatih-kulliyesi"
 description: "## Çorbacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihi Bir Zenginliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Çorbacı_Kapısı,_Fatih_Külliyesi.jpg/1200px-Çorbacı_Kapısı,_Fatih_Külliyesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9501839,41.0187874"
 draft: "false"
 weight: "10"

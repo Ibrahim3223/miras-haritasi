@@ -5,10 +5,10 @@ slug: "kale-ici-camii"
 description: "## Kale İçi Camii: İzmir'in Tarihsel Bir Zirvesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3035259,38.3232918"
 draft: "false"
 weight: "999"

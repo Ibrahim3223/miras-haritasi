@@ -5,10 +5,10 @@ slug: "yaylak-hoyugu"
 description: "### Yaylak Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Bozova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3383535,37.3837638"
 draft: "false"
 weight: "999"

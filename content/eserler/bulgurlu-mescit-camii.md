@@ -5,10 +5,10 @@ slug: "bulgurlu-mescit-camii"
 description: "# Bulgurlu Mescit Camii: Üsküdar'da Bir Tarih Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Bulgurlu_Mescit_Camii.jpg/1200px-Bulgurlu_Mescit_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.017736794,41.02189521"
 draft: "false"
 weight: "10"

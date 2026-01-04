@@ -5,10 +5,10 @@ slug: "uzgur-koprusu"
 description: "### Uzgur Köprüsü: Tarihi ve Kültürel Mirası Anlatmak..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6556664,37.9954872"
 draft: "false"
 weight: "999"

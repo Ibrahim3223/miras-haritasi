@@ -5,10 +5,10 @@ slug: "agios-nikolaos-kilisesi"
 description: "## Agios Nikolaos Kilisesi: Ayvalık'ta Bir Önemli Kilise..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.655711,39.338618"
 draft: "false"
 weight: "999"

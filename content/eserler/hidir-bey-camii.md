@@ -5,10 +5,10 @@ slug: "hidir-bey-camii"
 description: "**Hıdır Bey Camii**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4874382,38.1947517"
 draft: "false"
 weight: "999"

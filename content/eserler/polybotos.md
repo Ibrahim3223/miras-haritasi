@@ -5,10 +5,10 @@ slug: "polybotos"
 description: "## Polybotos: Afyonkarahisar'ın Gizli Ören Yeri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9850597,38.6906815"
 draft: "false"
 weight: "999"

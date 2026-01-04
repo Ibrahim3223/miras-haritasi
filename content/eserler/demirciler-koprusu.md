@@ -5,10 +5,10 @@ slug: "demirciler-koprusu"
 description: "## Demirciler Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.219639,41.43301"
 draft: "false"
 weight: "999"

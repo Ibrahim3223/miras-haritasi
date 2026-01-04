@@ -5,10 +5,10 @@ slug: "oren-hoyuk"
 description: "## Ören Höyük: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.917244,38.2381744"
 draft: "false"
 weight: "999"

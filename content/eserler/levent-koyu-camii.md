@@ -5,10 +5,10 @@ slug: "levent-koyu-camii"
 description: "## Levent Köyü Camii: Hemşin'in Gizli Öztürkistanı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.880979553,41.072673952"
 draft: "false"
 weight: "999"

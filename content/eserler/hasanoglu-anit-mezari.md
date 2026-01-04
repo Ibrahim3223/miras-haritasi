@@ -5,10 +5,10 @@ slug: "hasanoglu-anit-mezari"
 description: "## Hasanoğlu Anıt Mezarı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.8534355,37.3855247"
 draft: "false"
 weight: "999"

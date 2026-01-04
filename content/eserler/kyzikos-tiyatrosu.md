@@ -5,10 +5,10 @@ slug: "kyzikos-tiyatrosu"
 description: "## Kyzikos Tiyatrosu..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8881817,40.3923759"
 draft: "false"
 weight: "999"

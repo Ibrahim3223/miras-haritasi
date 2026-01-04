@@ -5,10 +5,10 @@ slug: "hasan-aga-camii"
 description: "### Hasan Ağa Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.003194444,41.031611111"
 draft: "false"
 weight: "999"

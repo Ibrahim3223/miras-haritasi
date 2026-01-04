@@ -5,10 +5,10 @@ slug: "korukoy-kolibaliktepe-tumulusu"
 description: "## Koruköy Kolibalıktepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3474426,41.8722115"
 draft: "false"
 weight: "999"

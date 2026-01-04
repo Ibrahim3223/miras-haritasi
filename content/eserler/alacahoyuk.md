@@ -5,10 +5,10 @@ slug: "alacahoyuk"
 description: "**Alacahöyük: Türkiye'nin En Eski Uygarlıklarından Birinin Yatmakta Olduğu Yer**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sphinx_Gate,_Alaca_Höyük_02.jpg/1200px-Sphinx_Gate,_Alaca_Höyük_02.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.695575,40.233895"
 draft: "false"
 weight: "10"

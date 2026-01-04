@@ -5,10 +5,10 @@ slug: "hacip-cavli-kumbeti"
 description: "## Hacip Çavlı Kümbeti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4905608,38.7249795"
 draft: "false"
 weight: "999"

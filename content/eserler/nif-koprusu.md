@@ -5,10 +5,10 @@ slug: "nif-koprusu"
 description: "## Nif Köprüsü: Manisa'nın Tarihi ve Güçlü Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6164742,38.5052681"
 draft: "false"
 weight: "999"

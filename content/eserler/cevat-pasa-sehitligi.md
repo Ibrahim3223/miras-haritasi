@@ -5,10 +5,10 @@ slug: "cevat-pasa-sehitligi"
 description: "## Cevat Paşa Şehitliği: Çanakkale'nin Kahramanlığı..."
 featured_image: ""
 province: "Çanakkale (ilçe)"
-iller: '["Çanakkale (ilçe)"]'
+iller: ["Çanakkale (ilçe)"]
 district: "Halileli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.280817,39.992026"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hadra-hamami"
 description: "## Hadra Hamamı: Akdeniz'in Gizli Cenneti..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.6221352,36.7940292"
 draft: "false"
 weight: "999"

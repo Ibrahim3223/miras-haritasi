@@ -5,10 +5,10 @@ slug: "ayas-pasa-camii"
 description: "## Ayas Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Saray_-_Ayas_Paşa_Camii,_Saray_-_20250602125652.jpg/1200px-Saray_-_Ayas_Paşa_Camii,_Saray_-_20250602125652.jpg"
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9203472,41.4425926"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ahmet-celebi-camii-gaziantep"
 description: "## Ahmet Çelebi Camii: Gaziantep'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3927612,37.0563583"
 draft: "false"
 weight: "999"

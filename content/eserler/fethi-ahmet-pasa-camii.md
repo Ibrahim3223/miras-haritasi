@@ -5,10 +5,10 @@ slug: "fethi-ahmet-pasa-camii"
 description: "## Fethi Ahmet Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Karacaahmet_(Fethi_Ahmet_Paşa)_Mosque.jpg/1200px-Karacaahmet_(Fethi_Ahmet_Paşa)_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.019859,41.013031"
 draft: "false"
 weight: "10"

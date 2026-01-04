@@ -5,10 +5,10 @@ slug: "ayasofya-camii"
 description: "### Ayasofya Camii: Tarihî ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Aya_Sofya,_Trabzon_(2673342179).jpg/1200px-Aya_Sofya,_Trabzon_(2673342179).jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.696111111,41.003333333"
 draft: "false"
 weight: "1"

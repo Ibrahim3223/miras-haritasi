@@ -5,10 +5,10 @@ slug: "barlaham-manastiri"
 description: "## Barlaham Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/33/Image-missing.svg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Yayladağı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.9933,35.9478"
 draft: "false"
 weight: "999"

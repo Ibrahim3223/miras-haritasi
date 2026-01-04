@@ -5,10 +5,10 @@ slug: "harb-i-umumi-sehitleri-aniti"
 description: "### Giriş..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.7922211,37.1601982"
 draft: "false"
 weight: "999"

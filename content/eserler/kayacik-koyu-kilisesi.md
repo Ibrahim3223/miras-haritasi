@@ -5,10 +5,10 @@ slug: "kayacik-koyu-kilisesi"
 description: "# Kayacık Köyü Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.806914,40.205851"
 draft: "false"
 weight: "999"

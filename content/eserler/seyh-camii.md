@@ -5,10 +5,10 @@ slug: "seyh-camii"
 description: "## Şeyh Camii: Muğla'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Muğla_Şeyh_Camii.jpg/1200px-Muğla_Şeyh_Camii.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.365888888,37.218111111"
 draft: "false"
 weight: "10"

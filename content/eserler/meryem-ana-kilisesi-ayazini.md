@@ -5,10 +5,10 @@ slug: "meryem-ana-kilisesi-ayazini"
 description: "### Meryem Ana Kilisesi, Ayazini: Bir Hamamın Tarihî Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.564758877,39.010467314"
 draft: "false"
 weight: "999"

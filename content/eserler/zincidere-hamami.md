@@ -5,10 +5,10 @@ slug: "zincidere-hamami"
 description: "### Zincidere Hamamı: Talas'taki Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.5852547,38.6478767"
 draft: "false"
 weight: "999"

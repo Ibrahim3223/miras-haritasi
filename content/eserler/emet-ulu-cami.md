@@ -5,10 +5,10 @@ slug: "emet-ulu-cami"
 description: "## Emet Ulu Cami: İhtişam ve İnanç..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Emet"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.256666666,39.344333333"
 draft: "false"
 weight: "999"

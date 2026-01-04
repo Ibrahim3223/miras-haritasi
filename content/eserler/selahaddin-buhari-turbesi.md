@@ -5,10 +5,10 @@ slug: "selahaddin-buhari-turbesi"
 description: "## Selahaddin Buhari Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Keles"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.128561,39.923687"
 draft: "false"
 weight: "999"

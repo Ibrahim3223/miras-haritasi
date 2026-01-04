@@ -5,10 +5,10 @@ slug: "beylik-degirmeni-koprusu"
 description: "## Beylik Değirmeni Köprüsü: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.878983818,39.939182704"
 draft: "false"
 weight: "999"

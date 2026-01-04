@@ -5,10 +5,10 @@ slug: "gokcedere-hamami"
 description: "# Gökçedere Hamamı..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.7504158,40.1332855"
 draft: "false"
 weight: "999"

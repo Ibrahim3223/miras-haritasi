@@ -5,10 +5,10 @@ slug: "haidar-pasha-cremation-memorial"
 description: "### Haidar Pasha Cremation Memorial..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.02018,40.9997"
 draft: "false"
 weight: "999"

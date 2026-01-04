@@ -5,10 +5,10 @@ slug: "mir-hamza-nigr-turbesi"
 description: "## Mir Hamza Nigârî Türbesi: Amasya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8379936,40.6565247"
 draft: "false"
 weight: "999"

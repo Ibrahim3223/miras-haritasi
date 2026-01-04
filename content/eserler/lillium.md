@@ -5,10 +5,10 @@ slug: "lillium"
 description: "## Lillium: Akçakoca'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.2148,41.096"
 draft: "false"
 weight: "999"

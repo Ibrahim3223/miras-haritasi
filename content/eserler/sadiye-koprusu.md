@@ -5,10 +5,10 @@ slug: "sadiye-koprusu"
 description: "## Şadiye Köprüsü: Konya'nın Geçmişini Etkileyen Bir Mimari Harika..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5155602,38.0627213"
 draft: "false"
 weight: "999"

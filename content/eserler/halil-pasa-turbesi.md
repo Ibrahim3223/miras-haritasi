@@ -5,10 +5,10 @@ slug: "halil-pasa-turbesi"
 description: "## Halil Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.015153,41.021812"
 draft: "false"
 weight: "999"

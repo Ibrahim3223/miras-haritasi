@@ -5,10 +5,10 @@ slug: "parhali-manastiri"
 description: "## Parhali Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Parkhali1.jpg/1200px-Parkhali1.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.383,40.97"
 draft: "false"
 weight: "10"

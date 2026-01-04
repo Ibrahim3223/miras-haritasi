@@ -5,10 +5,10 @@ slug: "tohma-koprusu"
 description: "## Tohma Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.23863,38.50483"
 draft: "false"
 weight: "999"

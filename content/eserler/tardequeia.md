@@ -5,10 +5,10 @@ slug: "tardequeia"
 description: "## Tardequeia: Türkiye'nin Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.88579,36.93717"
 draft: "false"
 weight: "999"

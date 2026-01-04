@@ -5,10 +5,10 @@ slug: "amasra-muzesi"
 description: "## Amasra Müzesi: Tarihi ve Kültürel Mirası Koruyan Bir Ziyaretçi Çekici..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Amasra_Museum.jpg/1200px-Amasra_Museum.jpg"
 province: "Amasra İlçesi"
-iller: '["Amasra İlçesi"]'
+iller: ["Amasra İlçesi"]
 district: "Amasra"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.383055555,41.746944444"
 draft: "false"
 weight: "10"

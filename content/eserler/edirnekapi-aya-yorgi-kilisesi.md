@@ -5,10 +5,10 @@ slug: "edirnekapi-aya-yorgi-kilisesi"
 description: "## Edirnekapı Aya Yorgi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Edirnekapı_Aya_Yorgi_Kilisesi_01.jpg/1200px-Edirnekapı_Aya_Yorgi_Kilisesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.93583333,41.03027778"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yedi-kilise"
 description: "## Yedi Kilise Manastırı: Van'da Bir Önemli Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ejmiadzin_Cathedral2.jpg/1200px-Ejmiadzin_Cathedral2.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.460825,38.44963611"
 draft: "false"
 weight: "10"

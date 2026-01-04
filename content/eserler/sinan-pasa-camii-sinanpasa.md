@@ -5,10 +5,10 @@ slug: "sinan-pasa-camii-sinanpasa"
 description: "# Sinan Paşa Camii (Sinanpaşa)..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2458477,38.7446251"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kopru-kalintisi"
 description: "## Genç'te Köprü Kalıntısı: Bingöl'de Tarihi Bir Çanak..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Genç"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.291157,38.737064"
 draft: "false"
 weight: "999"

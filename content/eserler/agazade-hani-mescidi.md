@@ -5,10 +5,10 @@ slug: "agazade-hani-mescidi"
 description: "## Ağazade Hanı Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8636856,39.9356461"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "okuz-mehmet-pasa-hamami"
 description: "## Öküz Mehmet Paşa Hamamı: Kuşadası'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2582359,37.8600311"
 draft: "false"
 weight: "999"

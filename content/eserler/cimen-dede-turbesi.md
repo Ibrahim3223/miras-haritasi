@@ -5,10 +5,10 @@ slug: "cimen-dede-turbesi"
 description: "## Çimen Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.853693,37.8485985"
 draft: "false"
 weight: "999"

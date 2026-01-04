@@ -5,10 +5,10 @@ slug: "suretli-mehmet-pasa-camii"
 description: "## Suretli Mehmet Paşa Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7415409,38.0842361"
 draft: "false"
 weight: "999"

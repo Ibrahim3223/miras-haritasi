@@ -5,10 +5,10 @@ slug: "miletuteikhos"
 description: "## Miletuteikhos: Antik Miletos'un Sembolü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.429191,40.212943"
 draft: "false"
 weight: "999"

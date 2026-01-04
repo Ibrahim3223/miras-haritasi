@@ -5,10 +5,10 @@ slug: "ivaz-efendi-camii"
 description: "## İvaz Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/İvaz_Efendi_Camii_15.jpg/1200px-İvaz_Efendi_Camii_15.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.940888888,41.038166666"
 draft: "false"
 weight: "10"

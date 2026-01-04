@@ -5,10 +5,10 @@ slug: "bakirci-camii-erzurum"
 description: "## Bakırcı Camii: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Erzurum_Bakırcı_Camii.jpg/1200px-Erzurum_Bakırcı_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Erzurum Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.272555555,39.908972222"
 draft: "false"
 weight: "10"

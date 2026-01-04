@@ -5,10 +5,10 @@ slug: "garipler-camii"
 description: "## Garipler Camii..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5501289,40.3204956"
 draft: "false"
 weight: "999"

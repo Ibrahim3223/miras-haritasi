@@ -5,10 +5,10 @@ slug: "dursun-bey-turbesi"
 description: "## Dursun Bey Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1868286,39.1202049"
 draft: "false"
 weight: "999"

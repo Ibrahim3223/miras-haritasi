@@ -5,10 +5,10 @@ slug: "dag-hamami"
 description: "### Dağ Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.028087899,41.026011962"
 draft: "false"
 weight: "999"

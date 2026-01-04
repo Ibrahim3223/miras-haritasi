@@ -5,10 +5,10 @@ slug: "erenkaya-tepesi-hoyuk-siran"
 description: "## Erenkaya Tepesi Höyük: Şiran'in Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.109018,40.230758"
 draft: "false"
 weight: "999"

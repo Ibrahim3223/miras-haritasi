@@ -5,10 +5,10 @@ slug: "yanikhan"
 description: "## Yanıkhan Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Yanıkhan.jpg/1200px-Yanıkhan.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2,36.5833"
 draft: "false"
 weight: "10"

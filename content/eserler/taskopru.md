@@ -5,10 +5,10 @@ slug: "taskopru"
 description: "## Taşköprü: Antik Dönemin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Taşköprü'nün_Panoramik_Fotoğrafı.jpg/1200px-Taşköprü'nün_Panoramik_Fotoğrafı.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.33512,36.98628"
 draft: "false"
 weight: "10"

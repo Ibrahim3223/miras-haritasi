@@ -5,10 +5,10 @@ slug: "kabakoy-ayasofya-camii-gumushane"
 description: "## Kabaköy (Ayasofya) Camii: Gümüşhane'nin Yüzyıllık Tarihi ve Mimari Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.695355,40.436652"
 draft: "false"
 weight: "1"

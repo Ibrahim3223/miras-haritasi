@@ -5,10 +5,10 @@ slug: "midyat-saat-kulesi"
 description: "## Mardin'in Örenleri Arasındaki Bir Dilek: Midyat Saat Kulesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "41.3733864,37.4152985"
 draft: "false"
 weight: "999"

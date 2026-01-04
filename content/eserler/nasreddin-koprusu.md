@@ -5,10 +5,10 @@ slug: "nasreddin-koprusu"
 description: "## Nasreddin Köprüsü..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Kurtalan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.8283997,37.8214989"
 draft: "false"
 weight: "999"

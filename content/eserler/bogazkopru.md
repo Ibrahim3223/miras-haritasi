@@ -5,10 +5,10 @@ slug: "bogazkopru"
 description: "## Boğazköprü: Tarihi ve Kültürel Mirasın Bir ParçASI..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

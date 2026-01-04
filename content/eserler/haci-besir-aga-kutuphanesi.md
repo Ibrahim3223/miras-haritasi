@@ -5,10 +5,10 @@ slug: "haci-besir-aga-kutuphanesi"
 description: "## Hacı Beşir Ağa Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hacı_Beşir_Ağa_Kütüphanesi_06.jpg/1200px-Hacı_Beşir_Ağa_Kütüphanesi_06.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.977286,41.010574"
 draft: "false"
 weight: "10"

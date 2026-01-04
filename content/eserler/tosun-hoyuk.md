@@ -5,10 +5,10 @@ slug: "tosun-hoyuk"
 description: "## Tosun Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Eskil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.3196435,38.3855844"
 draft: "false"
 weight: "999"

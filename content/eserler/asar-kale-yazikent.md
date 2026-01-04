@@ -5,10 +5,10 @@ slug: "asar-kale-yazikent"
 description: "## Asar Kale, Yazıkent: Aydın'ın Gizli Şehri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.3924999,37.7340012"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "murtaza-baba-turbesi"
 description: "### Murtaza Baba Türbesi: Tarsus'un Şövalye Kalesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0502052,36.975399"
 draft: "false"
 weight: "999"

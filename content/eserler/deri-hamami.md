@@ -5,10 +5,10 @@ slug: "deri-hamami"
 description: "## Deri Hamamı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.4748154,40.7343979"
 draft: "false"
 weight: "999"

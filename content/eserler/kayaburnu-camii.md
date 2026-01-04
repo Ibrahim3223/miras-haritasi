@@ -5,10 +5,10 @@ slug: "kayaburnu-camii"
 description: "## Kayaburnu Camii: Antalya'nın Serik İlçesinde Yükselen Bir Tarihî Miras..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.006705,36.935007"
 draft: "false"
 weight: "999"

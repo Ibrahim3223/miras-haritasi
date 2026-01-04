@@ -5,10 +5,10 @@ slug: "kokylion"
 description: "## Kokylion: Çanakkale'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.410152,39.67291"
 draft: "false"
 weight: "999"

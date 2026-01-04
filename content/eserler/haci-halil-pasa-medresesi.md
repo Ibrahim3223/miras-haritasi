@@ -5,10 +5,10 @@ slug: "haci-halil-pasa-medresesi"
 description: "## Hacı Halil Paşa Medresesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: ""
 draft: "false"
 weight: "999"

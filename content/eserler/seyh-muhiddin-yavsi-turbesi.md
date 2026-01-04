@@ -5,10 +5,10 @@ slug: "seyh-muhiddin-yavsi-turbesi"
 description: "### Şeyh Muhiddin Yavsi Türbesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.4708,40.7305"
 draft: "false"
 weight: "999"

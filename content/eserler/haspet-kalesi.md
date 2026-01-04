@@ -5,10 +5,10 @@ slug: "haspet-kalesi"
 description: "## Haspet Kalesi: Muş'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Muş_Haspet_Kalesi_in_2006_0526.jpg/1200px-Muş_Haspet_Kalesi_in_2006_0526.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.514866,38.713242"
 draft: "false"
 weight: "999"

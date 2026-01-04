@@ -5,10 +5,10 @@ slug: "kokan-hoyuk"
 description: "## Kökan Höyük: Elazığ'ın Gizli Cevheri..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Kovancılar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.0348026,38.81269"
 draft: "false"
 weight: "999"

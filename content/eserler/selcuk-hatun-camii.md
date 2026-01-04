@@ -5,10 +5,10 @@ slug: "selcuk-hatun-camii"
 description: "## Selçuk Hatun Camii: Edirne'nin Tarihi Bir Zenginliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Selçuk_Hatun_Camii_2025c.jpg/1200px-Selçuk_Hatun_Camii_2025c.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5587616,41.6753464"
 draft: "false"
 weight: "10"

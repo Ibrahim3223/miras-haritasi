@@ -5,10 +5,10 @@ slug: "cokumagil-hoyuk"
 description: "## Çokumağıl Höyük..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1805481,39.170442"
 draft: "false"
 weight: "999"

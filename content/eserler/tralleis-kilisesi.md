@@ -5,10 +5,10 @@ slug: "tralleis-kilisesi"
 description: "### Tralleis Kilisesi: Aydın'ın Eski Kentinde Gizli Bir Miras..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.8311634,37.859745"
 draft: "false"
 weight: "999"

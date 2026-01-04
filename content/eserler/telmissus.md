@@ -5,10 +5,10 @@ slug: "telmissus"
 description: "### Telmissus: Bodrum'un Eski Kenti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.319,37.0488"
 draft: "false"
 weight: "999"

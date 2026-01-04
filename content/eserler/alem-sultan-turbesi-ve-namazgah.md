@@ -5,10 +5,10 @@ slug: "alem-sultan-turbesi-ve-namazgah"
 description: "## Alem Sultan Türbesi ve Namazgah: Lapseki'nin Ölümsüz Ruhu..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.716492945,40.376736991"
 draft: "false"
 weight: "999"

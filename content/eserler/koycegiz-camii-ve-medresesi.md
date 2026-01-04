@@ -5,10 +5,10 @@ slug: "koycegiz-camii-ve-medresesi"
 description: "### Köyceğiz Camii ve Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.7091656,36.9298782"
 draft: "false"
 weight: "999"

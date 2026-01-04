@@ -5,10 +5,10 @@ slug: "hms-triumph"
 description: "## HMS Triumph: Eceabat'taki Bir Düzenin Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/HMSTriumph-IWM-Q40369.jpg/1200px-HMSTriumph-IWM-Q40369.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.2500172,40.0333366"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cybistra"
 description: "## Cybistra Arkeolojik Sit..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.226824,37.662456"
 draft: "false"
 weight: "999"

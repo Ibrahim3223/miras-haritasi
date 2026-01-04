@@ -5,10 +5,10 @@ slug: "tarlabasi-meryemana-metropolitlik-kilisesi"
 description: "### Tarlabaşı Meryemana Metropolitlik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Aramäische_Mutter-Maria-Kirche.jpg/1200px-Aramäische_Mutter-Maria-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tarlabaşı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.978555,41.037027"
 draft: "false"
 weight: "10"

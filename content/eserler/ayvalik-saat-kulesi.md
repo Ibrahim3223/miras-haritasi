@@ -5,10 +5,10 @@ slug: "ayvalik-saat-kulesi"
 description: "## Ayvalık Saat Kulesi: Ayvalık'ın Sembolü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "26.694055555,39.318972222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selenk-koprusu"
 description: "## Selenk Köprüsü: Bingöl'de Bir Tarihî Köprü..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Kiğı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3704796,39.2923813"
 draft: "false"
 weight: "999"

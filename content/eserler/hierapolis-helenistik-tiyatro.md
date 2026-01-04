@@ -5,10 +5,10 @@ slug: "hierapolis-helenistik-tiyatro"
 description: "## Hierapolis Helenistik Tiyatro..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1254501,37.9334068"
 draft: "false"
 weight: "999"

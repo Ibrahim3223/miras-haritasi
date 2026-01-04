@@ -5,10 +5,10 @@ slug: "yogunburc"
 description: "## Yoğunburç: Şanlıurfa'nın Gizli Harikası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6190186,37.1447906"
 draft: "false"
 weight: "999"

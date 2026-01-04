@@ -5,10 +5,10 @@ slug: "akcay-koprusu"
 description: "### Akçay Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ak%C3%A7ay_ve_Ak%C3%A7ay_K%C3%B6pr%C3%BCs%C3%BC.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.316011,37.807244"
 draft: "false"
 weight: "999"

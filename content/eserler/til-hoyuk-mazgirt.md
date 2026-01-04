@@ -5,10 +5,10 @@ slug: "til-hoyuk-mazgirt"
 description: "## Til Höyük, Mazgirt: Tunceli'nin Gizli Öyküsü..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7568245,38.8596725"
 draft: "false"
 weight: "999"

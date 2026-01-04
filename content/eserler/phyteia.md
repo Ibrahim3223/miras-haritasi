@@ -5,10 +5,10 @@ slug: "phyteia"
 description: "## Phyteia: Antik Yunanistan'ın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.065543,38.8946235"
 draft: "false"
 weight: "999"

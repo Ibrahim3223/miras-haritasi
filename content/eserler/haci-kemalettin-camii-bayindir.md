@@ -5,10 +5,10 @@ slug: "haci-kemalettin-camii-bayindir"
 description: "## Hacı Kemalettin Camii, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6514626,38.2241898"
 draft: "false"
 weight: "999"

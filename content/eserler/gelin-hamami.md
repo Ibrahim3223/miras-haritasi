@@ -5,10 +5,10 @@ slug: "gelin-hamami"
 description: "## Gelin Hamamı: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.7248421,41.2003288"
 draft: "false"
 weight: "999"

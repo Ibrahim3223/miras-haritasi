@@ -5,10 +5,10 @@ slug: "mennek-kalesi"
 description: "## Mennek Kalesi: Geçmişin Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.7883568,37.7710266"
 draft: "false"
 weight: "999"

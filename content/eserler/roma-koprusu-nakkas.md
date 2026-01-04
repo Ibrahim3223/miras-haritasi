@@ -5,10 +5,10 @@ slug: "roma-koprusu-nakkas"
 description: "## Roma Köprüsü, Nakkaş: Çatalca'nın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5637703,41.1772766"
 draft: "false"
 weight: "999"

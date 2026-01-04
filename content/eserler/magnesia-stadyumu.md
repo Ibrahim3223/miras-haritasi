@@ -5,10 +5,10 @@ slug: "magnesia-stadyumu"
 description: "## Magnesia Stadyumu: Antik Dönemin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Magnesia_Stadium.jpg/1200px-Magnesia_Stadium.jpg"
 province: "Germencik (ilçe)"
-iller: '["Germencik (ilçe)"]'
+iller: ["Germencik (ilçe)"]
 district: "Tekin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.518888888,37.847777777"
 draft: "false"
 weight: "10"

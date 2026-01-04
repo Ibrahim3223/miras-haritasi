@@ -5,10 +5,10 @@ slug: "profitis-ilyas-rum-ortodoks-kilisesi"
 description: "## Profitis İlyas Rum Ortodoks Kilisesi: Şile'nin Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.6495209,41.1236725"
 draft: "false"
 weight: "999"

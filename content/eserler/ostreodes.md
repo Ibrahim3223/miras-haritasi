@@ -5,10 +5,10 @@ slug: "ostreodes"
 description: "## Ostreodes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.976566,41.023812"
 draft: "false"
 weight: "999"

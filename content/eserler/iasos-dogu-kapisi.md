@@ -5,10 +5,10 @@ slug: "iasos-dogu-kapisi"
 description: "## Iasos Doğu Kapısı: Antik Tarihçenin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5874958,37.2798843"
 draft: "false"
 weight: "999"

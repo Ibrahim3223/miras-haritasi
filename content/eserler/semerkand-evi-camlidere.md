@@ -5,10 +5,10 @@ slug: "semerkand-evi-camlidere"
 description: "## Semerkandî Evi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4683456,40.4881134"
 draft: "false"
 weight: "999"

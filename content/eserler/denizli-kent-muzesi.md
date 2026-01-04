@@ -5,10 +5,10 @@ slug: "denizli-kent-muzesi"
 description: "## Denizli Kent Müzesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0852623,37.7819061"
 draft: "false"
 weight: "999"

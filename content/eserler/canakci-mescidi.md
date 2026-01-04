@@ -5,10 +5,10 @@ slug: "canakci-mescidi"
 description: "## Çanakçı Mescidi: İzmir'in Gizli Çarığı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7362404,38.0830193"
 draft: "false"
 weight: "999"

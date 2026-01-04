@@ -5,10 +5,10 @@ slug: "korukezen"
 description: "### Korukezen Arkeolojik Sit..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.7225258,37.2881468"
 draft: "false"
 weight: "999"

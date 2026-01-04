@@ -5,10 +5,10 @@ slug: "bursa-saglik-muzesi"
 description: "## Bursa Sağlık Müzesi: Türk Sağlık Tarihinin En Önemli Miraslarından biri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

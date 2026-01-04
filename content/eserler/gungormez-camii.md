@@ -5,10 +5,10 @@ slug: "gungormez-camii"
 description: "## Güngörmez Camii: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0604267,40.1834564"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cobandede-turbesi-nazilli"
 description: "## Çobandede Türbesi, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3579006,37.7753983"
 draft: "false"
 weight: "999"

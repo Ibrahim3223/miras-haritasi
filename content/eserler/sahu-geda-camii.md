@@ -5,10 +5,10 @@ slug: "sahu-geda-camii"
 description: "**Şahu Geda Camii**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.946356082,41.006244505"
 draft: "false"
 weight: "999"

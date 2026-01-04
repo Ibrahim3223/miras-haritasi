@@ -5,10 +5,10 @@ slug: "samtskaro-kilisesi"
 description: "## Samtskaro Kilisesi: Gürcistan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Aşağıırmaklar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.181555555,41.18025"
 draft: "false"
 weight: "999"

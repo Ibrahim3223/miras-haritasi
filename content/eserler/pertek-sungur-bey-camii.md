@@ -5,10 +5,10 @@ slug: "pertek-sungur-bey-camii"
 description: "**Pertek Sungur Bey Camii: Tunceli'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Pertek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3202782,38.8672981"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "soylemez-baba-kumbeti-karayazi"
 description: "## Söylemez Baba Kümbeti..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Karayazı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.7956543,39.6320038"
 draft: "false"
 weight: "999"

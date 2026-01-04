@@ -5,10 +5,10 @@ slug: "sultan-hamza-turbesi"
 description: "# Sultan Hamza Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.7504807,37.3164482"
 draft: "false"
 weight: "999"

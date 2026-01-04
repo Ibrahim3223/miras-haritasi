@@ -5,10 +5,10 @@ slug: "carullah-bin-suleyman-camii"
 description: "## Carullah bin Süleyman Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.5236397,38.6239777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "i-murad-hamami"
 description: "### I. Murad Hamamı: İznik'te Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.720277777,40.431777777"
 draft: "false"
 weight: "999"

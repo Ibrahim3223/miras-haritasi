@@ -5,10 +5,10 @@ slug: "ya-vedd-turbesi"
 description: "### Ya Vedûd Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Istanbul_Sheikh_Sultan_Tomb_Abdülvedüt_3926.jpg/1200px-Istanbul_Sheikh_Sultan_Tomb_Abdülvedüt_3926.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.940042,41.040594"
 draft: "false"
 weight: "10"

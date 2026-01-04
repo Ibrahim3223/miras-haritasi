@@ -5,10 +5,10 @@ slug: "cubuklu-merkez-halil-aga-camii"
 description: "## Çubuklu Merkez Halil Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0821493,41.1067756"
 draft: "false"
 weight: "999"

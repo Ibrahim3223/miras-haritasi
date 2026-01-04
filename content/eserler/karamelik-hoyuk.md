@@ -5,10 +5,10 @@ slug: "karamelik-hoyuk"
 description: "## Karamelik Höyük: Kilis'in Gizli İncisi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2525232,36.7913382"
 draft: "false"
 weight: "999"

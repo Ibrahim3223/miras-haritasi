@@ -5,10 +5,10 @@ slug: "alasehir-kult-alani-salihler"
 description: "## Alaşehir Kült Alanı, Salihler: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.859738888,39.179661111"
 draft: "false"
 weight: "999"

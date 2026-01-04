@@ -5,10 +5,10 @@ slug: "zela"
 description: "## Zela: Antik bir Sitin Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.891529,40.304589"
 draft: "false"
 weight: "999"

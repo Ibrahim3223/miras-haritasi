@@ -5,10 +5,10 @@ slug: "terzidere-topkoru-4-tumulusu"
 description: "# Terzidere Topkoru 4 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1607189,41.9900284"
 draft: "false"
 weight: "999"

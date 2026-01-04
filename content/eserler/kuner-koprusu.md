@@ -5,10 +5,10 @@ slug: "kuner-koprusu"
 description: "### Küner Köprüsü: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.13594,38.1994289"
 draft: "false"
 weight: "999"

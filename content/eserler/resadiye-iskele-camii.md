@@ -5,10 +5,10 @@ slug: "resadiye-iskele-camii"
 description: "## Reşadiye İskele Camii: Tarihi ve Kültürel Bir Özanın Anlamı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0526676,38.9271927"
 draft: "false"
 weight: "999"

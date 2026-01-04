@@ -5,10 +5,10 @@ slug: "aynelbarit-camii"
 description: "**Aynelbarit Camii: Bir Tarihî Mirasın Gizemi**..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1094246,38.4032707"
 draft: "false"
 weight: "999"

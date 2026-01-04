@@ -5,10 +5,10 @@ slug: "apollonia-soma"
 description: "## Apollonia, Soma: Tarihî bir Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4945736,39.2023277"
 draft: "false"
 weight: "999"

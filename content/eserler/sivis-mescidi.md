@@ -5,10 +5,10 @@ slug: "sivis-mescidi"
 description: "**Siviş Mescidi: Kayseri'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.477644874,38.719162304"
 draft: "false"
 weight: "999"

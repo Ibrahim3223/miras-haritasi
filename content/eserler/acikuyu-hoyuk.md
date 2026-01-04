@@ -5,10 +5,10 @@ slug: "acikuyu-hoyuk"
 description: "## Acıkuyu Höyük: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.033947085,38.873102602"
 draft: "false"
 weight: "999"

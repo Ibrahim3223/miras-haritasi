@@ -5,10 +5,10 @@ slug: "uctepe-kemer-kopru"
 description: "### Üçtepe Kemer Köprü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.631157,40.710677"
 draft: "false"
 weight: "999"

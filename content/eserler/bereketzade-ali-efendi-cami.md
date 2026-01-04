@@ -5,10 +5,10 @@ slug: "bereketzade-ali-efendi-cami"
 description: "## Bereketzade Ali Efendi Cami: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bereketzade_Ali_Efendi_Mosque.jpg/1200px-Bereketzade_Ali_Efendi_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.974187082,41.025074979"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ucgoz-koprusu"
 description: "# Üçgöz Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.68545974,40.152687337"
 draft: "false"
 weight: "999"

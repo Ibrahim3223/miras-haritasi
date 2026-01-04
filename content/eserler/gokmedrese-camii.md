@@ -5,10 +5,10 @@ slug: "gokmedrese-camii"
 description: "## Gökmedrese Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8200874,40.649437"
 draft: "false"
 weight: "999"

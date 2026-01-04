@@ -5,10 +5,10 @@ slug: "florya-eski-cami"
 description: "## Florya Eski Cami: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.7954178,40.9807892"
 draft: "false"
 weight: "999"

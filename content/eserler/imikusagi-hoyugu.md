@@ -5,10 +5,10 @@ slug: "imikusagi-hoyugu"
 description: "## İmikuşağı Höyüğü: Elazığ'ın Eski Uygarlığın Gizemi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Baskil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.4503904,38.5253795"
 draft: "false"
 weight: "999"

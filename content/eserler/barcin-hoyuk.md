@@ -5,10 +5,10 @@ slug: "barcin-hoyuk"
 description: "# Barcın Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6021,40.2666"
 draft: "false"
 weight: "999"

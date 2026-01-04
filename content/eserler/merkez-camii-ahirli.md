@@ -5,10 +5,10 @@ slug: "merkez-camii-ahirli"
 description: "**Merkez Camii (Ahırlı)**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ahırlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.120551433,37.239226765"
 draft: "false"
 weight: "999"

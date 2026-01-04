@@ -5,10 +5,10 @@ slug: "gecitagzi-kocabayir-tumulusu"
 description: "## Geçitağzı Kocabayır Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2925301,41.9189835"
 draft: "false"
 weight: "999"

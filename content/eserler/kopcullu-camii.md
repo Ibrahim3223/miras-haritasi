@@ -5,10 +5,10 @@ slug: "kopcullu-camii"
 description: "## Kopçullu Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.493162285,38.363254051"
 draft: "false"
 weight: "999"

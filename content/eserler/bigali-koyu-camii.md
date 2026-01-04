@@ -5,10 +5,10 @@ slug: "bigali-koyu-camii"
 description: "## Bigalı Köyü Camii: Eceabat'ın Gizli Cenneti..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3602219,40.2360992"
 draft: "false"
 weight: "999"

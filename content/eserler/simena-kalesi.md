@@ -5,10 +5,10 @@ slug: "simena-kalesi"
 description: "## Simena Kalesi: Antik Dönemin Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.862084,36.19133"
 draft: "false"
 weight: "999"

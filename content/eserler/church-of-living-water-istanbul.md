@@ -5,10 +5,10 @@ slug: "church-of-living-water-istanbul"
 description: "### Church of Living Water, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

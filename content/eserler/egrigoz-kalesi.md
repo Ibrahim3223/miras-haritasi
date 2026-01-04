@@ -5,10 +5,10 @@ slug: "egrigoz-kalesi"
 description: "## Eğrigöz Kalesi: Kütahya'nın Tarihvi Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Emet"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.2362423,39.4076385"
 draft: "false"
 weight: "999"

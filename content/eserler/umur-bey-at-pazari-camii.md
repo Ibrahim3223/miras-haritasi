@@ -5,10 +5,10 @@ slug: "umur-bey-at-pazari-camii"
 description: "## Umur Bey At Pazarı Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.537466,38.7580109"
 draft: "false"
 weight: "999"

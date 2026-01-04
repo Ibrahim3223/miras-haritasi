@@ -5,10 +5,10 @@ slug: "kalem-adasi-kalintilari-bademli"
 description: "## Kalem Adası Kalıntıları, Bademli: Dikili, İzmir..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.795936111,39.008777777"
 draft: "false"
 weight: "999"

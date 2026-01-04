@@ -5,10 +5,10 @@ slug: "baba-haydar-camii"
 description: "## Baba Haydar Camii: Eyüpsultan'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Interior_view_of_Qutbuddin_Haidar_tomb.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.933636,41.042023"
 draft: "false"
 weight: "999"

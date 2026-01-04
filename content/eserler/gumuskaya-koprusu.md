@@ -5,10 +5,10 @@ slug: "gumuskaya-koprusu"
 description: "# Gümüşkaya Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.36137,40.45958"
 draft: "false"
 weight: "999"

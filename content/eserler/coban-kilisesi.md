@@ -5,10 +5,10 @@ slug: "coban-kilisesi"
 description: "## Çoban Kilisesi: Ani'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5746994,40.5133553"
 draft: "false"
 weight: "999"

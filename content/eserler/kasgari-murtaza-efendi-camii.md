@@ -5,10 +5,10 @@ slug: "kasgari-murtaza-efendi-camii"
 description: "**Kaşgari Murtaza Efendi Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Kaşgari_Murteza_Efendi_Cami.jpg/1200px-Kaşgari_Murteza_Efendi_Cami.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931944444,41.051916666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "baglica-hoyugu"
 description: "## Bağlıca Höyüğü: Emirdağ'ın Eski Sütunları..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Emirdağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.067807,39.1716258"
 draft: "false"
 weight: "999"

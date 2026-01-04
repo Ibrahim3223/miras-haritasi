@@ -5,10 +5,10 @@ slug: "arap-seyh-turbesi"
 description: "### Arap Şeyh Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2434883,37.9093819"
 draft: "false"
 weight: "999"

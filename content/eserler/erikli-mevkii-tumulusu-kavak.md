@@ -5,10 +5,10 @@ slug: "erikli-mevkii-tumulusu-kavak"
 description: "### Erikli Mevkii Tümülüsü Kavak: Samsun'un Gizli Çanakkale Kahramanları..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.014706,41.061949"
 draft: "false"
 weight: "999"

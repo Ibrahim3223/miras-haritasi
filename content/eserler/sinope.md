@@ -5,10 +5,10 @@ slug: "sinope"
 description: "## Sinop: Türkiye'nin Tarihî ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.143,42.025"
 draft: "false"
 weight: "999"

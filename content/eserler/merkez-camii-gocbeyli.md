@@ -5,10 +5,10 @@ slug: "merkez-camii-gocbeyli"
 description: "## Merkez Camii (Göçbeyli)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4045601,39.2228546"
 draft: "false"
 weight: "999"

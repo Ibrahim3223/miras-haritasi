@@ -5,10 +5,10 @@ slug: "bergama-ulu-cami"
 description: "## Bergama Ulu Cami: Tarihi ve Kültürel Değeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/81/Bergama_Ulu_Camii_1548.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.179472222,39.125027777"
 draft: "false"
 weight: "999"

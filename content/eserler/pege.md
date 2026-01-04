@@ -5,10 +5,10 @@ slug: "pege"
 description: "## Pege Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.915896,40.999905"
 draft: "false"
 weight: "999"

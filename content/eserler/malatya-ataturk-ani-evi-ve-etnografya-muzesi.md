@@ -5,10 +5,10 @@ slug: "malatya-ataturk-ani-evi-ve-etnografya-muzesi"
 description: "# Malatya Atatürk Anı Evi ve Etnografya Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-pasa-hamami"
 description: "## Büyük Paşa Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.3826645,37.0648934"
 draft: "false"
 weight: "999"

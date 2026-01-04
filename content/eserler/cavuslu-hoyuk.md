@@ -5,10 +5,10 @@ slug: "cavuslu-hoyuk"
 description: "## Çavuşlu Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1994122,38.9028648"
 draft: "false"
 weight: "999"

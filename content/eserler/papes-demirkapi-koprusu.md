@@ -5,10 +5,10 @@ slug: "papes-demirkapi-koprusu"
 description: "## Papes Demirkapı Köprüsü: İkizdere'nin Tarihi Bir Örneği..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.564083,40.772933"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bademli-deniz-ilicasi"
 description: "## Bademli Deniz Ilıcası: Dikili, İzmir'de Bir Tarihsel Hamam..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.799387,38.99658"
 draft: "false"
 weight: "999"

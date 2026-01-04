@@ -5,10 +5,10 @@ slug: "edremit-kalesi"
 description: "## Edremit Kalesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Edremit"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.2654686,38.4202499"
 draft: "false"
 weight: "999"

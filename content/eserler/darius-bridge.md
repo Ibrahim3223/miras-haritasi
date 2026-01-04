@@ -5,10 +5,10 @@ slug: "darius-bridge"
 description: "### Darius' Köprüsü: Tarihî Mirasın Gizlenmiş Yüzü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.061798,41.091763"
 draft: "false"
 weight: "999"

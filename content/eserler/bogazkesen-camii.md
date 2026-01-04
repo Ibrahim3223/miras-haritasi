@@ -5,10 +5,10 @@ slug: "bogazkesen-camii"
 description: "## Boğazkesen Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9271393,37.586113"
 draft: "false"
 weight: "999"

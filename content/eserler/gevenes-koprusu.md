@@ -5,10 +5,10 @@ slug: "gevenes-koprusu"
 description: "### Gevenes Köprüsü: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.136919,37.2427902"
 draft: "false"
 weight: "999"

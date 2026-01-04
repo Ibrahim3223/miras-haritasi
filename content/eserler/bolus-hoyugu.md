@@ -5,10 +5,10 @@ slug: "bolus-hoyugu"
 description: "### Bolus Höyüğü..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5051956,40.0827789"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-yorgi-potira-kilisesi"
 description: "## Aya Yorgi Potira Kilisesi: İstanbul'un Gizli Cezvelesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9470882,41.0279732"
 draft: "false"
 weight: "999"

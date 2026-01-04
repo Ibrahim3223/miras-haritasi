@@ -5,10 +5,10 @@ slug: "zafer-muzesi"
 description: "## Zafer Müzesi: Afyonkarahisar'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/VictoryMuseumAfyonkarahsar.JPG/1200px-VictoryMuseumAfyonkarahsar.JPG"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5382,38.75805"
 draft: "false"
 weight: "10"

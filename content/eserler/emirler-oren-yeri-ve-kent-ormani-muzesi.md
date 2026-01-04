@@ -5,10 +5,10 @@ slug: "emirler-oren-yeri-ve-kent-ormani-muzesi"
 description: "## Emirler Ören Yeri ve Kent Ormanı Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

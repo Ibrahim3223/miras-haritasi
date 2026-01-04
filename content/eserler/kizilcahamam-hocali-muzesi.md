@@ -5,10 +5,10 @@ slug: "kizilcahamam-hocali-muzesi"
 description: "## Kızılcahamam - Hocalı Müzesi Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.654623528,40.471553193"
 draft: "false"
 weight: "999"

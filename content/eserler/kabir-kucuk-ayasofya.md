@@ -5,10 +5,10 @@ slug: "kabir-kucuk-ayasofya"
 description: "## Kabir, Küçük Ayasofya..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.970787,41.0059433"
 draft: "false"
 weight: "1"

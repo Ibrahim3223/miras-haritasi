@@ -5,10 +5,10 @@ slug: "vezirkopru-saat-kulesi"
 description: "**Vezirköprü Saat Kulesi: Tarihi ve Kültürel Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vezirköprü_Saat_Kulesi.jpg/1200px-Vezirköprü_Saat_Kulesi.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.457166666,41.143694444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ambar-gre-filla"
 description: "## Ambar (Gre Filla)..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.458096,38.263233"
 draft: "false"
 weight: "999"

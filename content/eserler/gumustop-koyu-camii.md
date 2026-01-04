@@ -5,10 +5,10 @@ slug: "gumustop-koyu-camii"
 description: "### Gümüştop Köyü Camii: Turhal'ın Gizli Cenneti..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1425514,40.3870049"
 draft: "false"
 weight: "999"

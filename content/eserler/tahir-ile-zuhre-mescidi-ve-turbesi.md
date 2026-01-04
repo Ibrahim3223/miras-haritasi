@@ -5,10 +5,10 @@ slug: "tahir-ile-zuhre-mescidi-ve-turbesi"
 description: "## Tahir ile Zühre Mescidi ve Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4854584,37.8698692"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sille-cay-camii"
 description: "## Sille Çay Camii: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sille_Çay_Camii.jpg/1200px-Sille_Çay_Camii.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4175034,37.9263191"
 draft: "false"
 weight: "10"

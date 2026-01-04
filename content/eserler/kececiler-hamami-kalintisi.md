@@ -5,10 +5,10 @@ slug: "kececiler-hamami-kalintisi"
 description: "**Keçeciler Hamamı Kalıntısı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9359856,41.0222511"
 draft: "false"
 weight: "999"

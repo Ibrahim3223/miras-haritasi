@@ -5,10 +5,10 @@ slug: "kapikaya-koprusu"
 description: "### Kapıkaya Köprüsü: Bergama'nın Tarihi Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1436539,39.1706314"
 draft: "false"
 weight: "999"

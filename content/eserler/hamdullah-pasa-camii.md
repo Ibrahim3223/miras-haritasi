@@ -5,10 +5,10 @@ slug: "hamdullah-pasa-camii"
 description: "### Hamdullah Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Hamdullah_Paşa_Camii_IMG_3756.jpg/1200px-Hamdullah_Paşa_Camii_IMG_3756.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0528983,41.05012"
 draft: "false"
 weight: "10"

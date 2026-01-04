@@ -5,10 +5,10 @@ slug: "sehit-tegmen-gungor-dolunay-yaya-ust-gecidi"
 description: "## Şehit Teğmen Güngör Dolunay Yaya Üst Geçidi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.127555555,38.415888888"
 draft: "false"
 weight: "999"

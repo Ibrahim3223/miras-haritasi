@@ -5,10 +5,10 @@ slug: "abidos"
 description: "## Abidos: Çanakkale'nin Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Thracian_chersonese.png/1200px-Thracian_chersonese.png"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.405,40.195277777"
 draft: "false"
 weight: "10"

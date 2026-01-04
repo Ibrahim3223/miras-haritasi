@@ -5,10 +5,10 @@ slug: "yukaribegdes-hoyuk"
 description: "## Yukarıbeğdeş Höyük: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9046082,36.847508"
 draft: "false"
 weight: "999"

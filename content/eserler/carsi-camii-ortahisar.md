@@ -5,10 +5,10 @@ slug: "carsi-camii-ortahisar"
 description: "## Çarşı Camii: Ortahisar'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.723568,41.0074959"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "besare-bey-mescidi"
 description: "## Beşare Bey Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4914093,37.8751106"
 draft: "false"
 weight: "999"

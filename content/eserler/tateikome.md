@@ -5,10 +5,10 @@ slug: "tateikome"
 description: "# Tateikome: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.745098,38.440559"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamam-ipsala"
 description: "## İpsala Hamamı: Bir Tarihî Yapının Geri Baksışı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.3845177,40.9235458"
 draft: "false"
 weight: "999"

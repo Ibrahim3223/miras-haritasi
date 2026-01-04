@@ -5,10 +5,10 @@ slug: "asmali-mescit-konak"
 description: "## Asmalı Mescit: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1357231,38.4166718"
 draft: "false"
 weight: "999"

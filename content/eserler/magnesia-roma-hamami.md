@@ -5,10 +5,10 @@ slug: "magnesia-roma-hamami"
 description: "## Magnesia Roma Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.530077,37.8521957"
 draft: "false"
 weight: "999"

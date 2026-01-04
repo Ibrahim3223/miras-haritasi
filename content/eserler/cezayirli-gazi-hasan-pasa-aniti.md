@@ -5,10 +5,10 @@ slug: "cezayirli-gazi-hasan-pasa-aniti"
 description: "### Cezayirli Gazi Hasan Paşa Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Cezayirli_Gazi_Hasan_Paşa_Heykeli_01.jpg/1200px-Cezayirli_Gazi_Hasan_Paşa_Heykeli_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.303027777,38.323555555"
 draft: "false"
 weight: "10"

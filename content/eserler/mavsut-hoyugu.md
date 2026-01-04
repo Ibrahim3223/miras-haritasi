@@ -5,10 +5,10 @@ slug: "mavsut-hoyugu"
 description: "## Mavsut Höyüğü: Avanos'un Gizli Kahramanı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.84042135,38.79376662"
 draft: "false"
 weight: "999"

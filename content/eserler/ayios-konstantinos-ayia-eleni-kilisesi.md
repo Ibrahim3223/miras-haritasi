@@ -5,10 +5,10 @@ slug: "ayios-konstantinos-ayia-eleni-kilisesi"
 description: "## Ayios Konstantinos-Ayia Eleni Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.928506,40.996806"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tayyar-pasa-camii-bafra"
 description: "## Tayyar Paşa Camii, Bafra..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.9028168,41.5681419"
 draft: "false"
 weight: "999"

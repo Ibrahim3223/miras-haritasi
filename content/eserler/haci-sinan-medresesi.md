@@ -5,10 +5,10 @@ slug: "haci-sinan-medresesi"
 description: "# Hacı Sinan Medresesi: İzmir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Hac_Sinan_Medresesi_2025-10-09_1760038169.JPG/1200px-Hac_Sinan_Medresesi_2025-10-09_1760038169.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.6477451,38.224308"
 draft: "false"
 weight: "10"

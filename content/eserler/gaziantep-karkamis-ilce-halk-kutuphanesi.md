@@ -5,10 +5,10 @@ slug: "gaziantep-karkamis-ilce-halk-kutuphanesi"
 description: "## Gaziantep Karkamış İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Karkamış"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "37.999440535,36.836417477"
 draft: "false"
 weight: "999"

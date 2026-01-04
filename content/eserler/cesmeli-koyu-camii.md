@@ -5,10 +5,10 @@ slug: "cesmeli-koyu-camii"
 description: "## Çeşmeli Köyü Camii: Rize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7249031,41.0105553"
 draft: "false"
 weight: "999"

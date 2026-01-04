@@ -5,10 +5,10 @@ slug: "bozok-koprusu"
 description: "## Bozok Köprüsü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.79306,39.782743"
 draft: "false"
 weight: "999"

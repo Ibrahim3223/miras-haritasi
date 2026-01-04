@@ -5,10 +5,10 @@ slug: "pirhias-kion"
 description: "## Pirhias Kion: Bir Antik Kentin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.049446,41.088116"
 draft: "false"
 weight: "999"

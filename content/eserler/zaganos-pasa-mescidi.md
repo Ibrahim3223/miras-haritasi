@@ -5,10 +5,10 @@ slug: "zaganos-pasa-mescidi"
 description: "# Zağanos Paşa Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5521049,41.6804314"
 draft: "false"
 weight: "999"

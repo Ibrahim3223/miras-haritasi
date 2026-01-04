@@ -5,10 +5,10 @@ slug: "tekke-hamami"
 description: "### Tekke Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.8892212,40.3020554"
 draft: "false"
 weight: "999"

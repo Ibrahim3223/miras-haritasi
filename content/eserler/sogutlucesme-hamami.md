@@ -5,10 +5,10 @@ slug: "sogutlucesme-hamami"
 description: "### Söğütlüçeşme Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Söğütlüçeşme_Hamamı.jpg/1200px-Söğütlüçeşme_Hamamı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.034562,40.992904194"
 draft: "false"
 weight: "10"

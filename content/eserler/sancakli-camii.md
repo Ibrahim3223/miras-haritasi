@@ -5,10 +5,10 @@ slug: "sancakli-camii"
 description: "## Sancaklı Camii: Osmaniye'nin Tarihi bir Camisi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.2677345,37.0569839"
 draft: "false"
 weight: "999"

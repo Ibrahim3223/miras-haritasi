@@ -5,10 +5,10 @@ slug: "magarsus-antik-tiyatrosu"
 description: "### Magarsus Antik Tiyatrosu: Karataş'taki Eski Miras..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karataş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.347042,36.545765"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sakarya-il-halk-kutuphanesi"
 description: "## Sakarya İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.3550254,40.7793607"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmediye-medresesi"
 description: "**Ahmediye Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0162697,41.020237"
 draft: "false"
 weight: "999"

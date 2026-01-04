@@ -5,10 +5,10 @@ slug: "nebiler-camii"
 description: "## Nebiler Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.940337,37.024689"
 draft: "false"
 weight: "999"

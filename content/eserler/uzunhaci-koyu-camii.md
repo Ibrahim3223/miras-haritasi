@@ -5,10 +5,10 @@ slug: "uzunhaci-koyu-camii"
 description: "# Uzunhacı Köyü Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Gizli Çekevi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8356724,41.34478"
 draft: "false"
 weight: "999"

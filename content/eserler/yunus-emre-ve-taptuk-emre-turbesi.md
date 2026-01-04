@@ -5,10 +5,10 @@ slug: "yunus-emre-ve-taptuk-emre-turbesi"
 description: "## Yunus Emre ve Taptuk Emre Türbesi: Gönen'in Gizemli Anıtı..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Gönen"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.534381,37.968232"
 draft: "false"
 weight: "999"

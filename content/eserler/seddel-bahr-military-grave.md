@@ -5,10 +5,10 @@ slug: "seddel-bahr-military-grave"
 description: "## Seddülbahir Askeri Mezarlığı (Seddel-Bahr Military Grave)..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Seddülbahir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.18929,40.04619"
 draft: "false"
 weight: "999"

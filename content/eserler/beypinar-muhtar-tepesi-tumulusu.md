@@ -5,10 +5,10 @@ slug: "beypinar-muhtar-tepesi-tumulusu"
 description: "# Beypınar Muhtar Tepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5053349,41.781826"
 draft: "false"
 weight: "999"

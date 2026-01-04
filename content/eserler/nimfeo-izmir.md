@@ -5,10 +5,10 @@ slug: "nimfeo-izmir"
 description: "## Nimfeo: İzmir'in Gizemli Arkeolojik Sitleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Laskaris_Palace_02.jpg/1200px-Laskaris_Palace_02.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.422777777,38.426111111"
 draft: "false"
 weight: "10"

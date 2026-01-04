@@ -5,10 +5,10 @@ slug: "kahve-muzesi"
 description: "## Kahve Müzesi: Türkiye'nin Kahve Kültürünün Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

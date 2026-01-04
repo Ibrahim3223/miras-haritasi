@@ -5,10 +5,10 @@ slug: "aksar-hoyuk"
 description: "### Akşar Höyük: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.975711,40.341321"
 draft: "false"
 weight: "999"

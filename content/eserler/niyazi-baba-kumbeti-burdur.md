@@ -5,10 +5,10 @@ slug: "niyazi-baba-kumbeti-burdur"
 description: "## Niyazi Baba Kümbeti: Burdur'un Gizli Cenneti..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Yeşilova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.730505,37.4727592"
 draft: "false"
 weight: "999"

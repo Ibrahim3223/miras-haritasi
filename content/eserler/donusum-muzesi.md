@@ -5,10 +5,10 @@ slug: "donusum-muzesi"
 description: "## Samsun'un Gizli Çehresini Keşfedin: Dönüşüm Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

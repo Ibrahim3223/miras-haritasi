@@ -5,10 +5,10 @@ slug: "akziyaret-hoyugu"
 description: "## Akziyaret Höyüğü: Mardin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.507599474,37.190931838"
 draft: "false"
 weight: "999"

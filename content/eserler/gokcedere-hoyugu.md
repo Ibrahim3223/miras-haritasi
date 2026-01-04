@@ -5,10 +5,10 @@ slug: "gokcedere-hoyugu"
 description: "## Gökçedere Höyüğü: Demirözü'ndeki Antik Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7519345,40.1312547"
 draft: "false"
 weight: "999"

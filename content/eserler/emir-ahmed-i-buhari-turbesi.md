@@ -5,10 +5,10 @@ slug: "emir-ahmed-i-buhari-turbesi"
 description: "## Emir Ahmed-i Buhari Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9464111,41.0199623"
 draft: "false"
 weight: "999"

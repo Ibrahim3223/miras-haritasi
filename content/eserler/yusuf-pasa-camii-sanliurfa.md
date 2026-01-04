@@ -5,10 +5,10 @@ slug: "yusuf-pasa-camii-sanliurfa"
 description: "## Yusuf Paşa Camii: Şanlıurfa'nın Tarihi bir Çandır..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7907295,37.1545944"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "konut-cumhuriyet-cumhuriyet-caddesi-26"
 description: "## Vize Kütüphanesi: Cumhuriyet Caddesi'ndeki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.0955029,41.6337433"
 draft: "false"
 weight: "999"

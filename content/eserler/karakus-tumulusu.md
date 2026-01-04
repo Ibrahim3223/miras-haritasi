@@ -5,10 +5,10 @@ slug: "karakus-tumulusu"
 description: "## Karakuş Tümülüsü: Adıyaman'ın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Tumulus_of_Karakus_01.jpg/1200px-Tumulus_of_Karakus_01.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.588,37.869388888"
 draft: "false"
 weight: "10"

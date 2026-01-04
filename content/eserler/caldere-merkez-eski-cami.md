@@ -5,10 +5,10 @@ slug: "caldere-merkez-eski-cami"
 description: "## Çaldere Merkez Eski Cami..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9967003,40.8005981"
 draft: "false"
 weight: "999"

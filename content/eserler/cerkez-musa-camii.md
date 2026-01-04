@@ -5,10 +5,10 @@ slug: "cerkez-musa-camii"
 description: "### Çerkez Musa Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5281124,37.8519745"
 draft: "false"
 weight: "999"

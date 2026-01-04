@@ -5,10 +5,10 @@ slug: "gazi-omer-bey-turbesi"
 description: "# Gazi Ömer Bey Türbesi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.9039536,40.8928528"
 draft: "false"
 weight: "999"

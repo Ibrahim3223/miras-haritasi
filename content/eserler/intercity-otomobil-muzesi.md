@@ -5,10 +5,10 @@ slug: "intercity-otomobil-muzesi"
 description: "### Intercity Otomobil Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.40553791,40.952664027"
 draft: "false"
 weight: "999"

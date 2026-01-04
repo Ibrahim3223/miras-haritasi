@@ -5,10 +5,10 @@ slug: "haci-cikrik-turbesi"
 description: "## Hacı Çıkrık Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "36.9500122,40.5898438"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "usgebi-hoyugu-bozdogan"
 description: "### Üsgebi Höyüğü, Bozdoğan..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3664417,37.6527023"
 draft: "false"
 weight: "999"

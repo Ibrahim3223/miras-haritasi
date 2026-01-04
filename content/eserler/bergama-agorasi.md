@@ -5,10 +5,10 @@ slug: "bergama-agorasi"
 description: "## Bergama Agorası: Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Agora_of_Pergamon_(1).JPG/1200px-Agora_of_Pergamon_(1).JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.183305555,39.132694444"
 draft: "false"
 weight: "10"

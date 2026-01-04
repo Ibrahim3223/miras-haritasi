@@ -5,10 +5,10 @@ slug: "kosem-camii"
 description: "## Kösem Sultan Camii: Honaz'ta Gizli Bir Ören..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.316667,37.816667"
 draft: "false"
 weight: "999"

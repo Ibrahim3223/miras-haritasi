@@ -5,10 +5,10 @@ slug: "cell-bayar-anit-mezari"
 description: "## Celâl Bayar Anıt Mezarı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.181944444,40.416111111"
 draft: "false"
 weight: "999"

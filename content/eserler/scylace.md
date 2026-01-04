@@ -5,10 +5,10 @@ slug: "scylace"
 description: "## Scylace: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.388808,40.387037"
 draft: "false"
 weight: "999"

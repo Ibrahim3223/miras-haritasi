@@ -5,10 +5,10 @@ slug: "mecidiye-kasri-hamami"
 description: "## Mecidiye Kasrı Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.080311528,41.138311147"
 draft: "false"
 weight: "999"

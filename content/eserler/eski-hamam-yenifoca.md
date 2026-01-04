@@ -5,10 +5,10 @@ slug: "eski-hamam-yenifoca"
 description: "### Eski Hamam, Yenifoça..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.8379993,38.7406006"
 draft: "false"
 weight: "999"

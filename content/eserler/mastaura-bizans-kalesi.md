@@ -5,10 +5,10 @@ slug: "mastaura-bizans-kalesi"
 description: "## Mastaura Bizans Kalesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.3510838,37.9571953"
 draft: "false"
 weight: "999"

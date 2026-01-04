@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-roma-donemi-gunes-saati"
 description: "## Topkapı Sarayı Roma Dönemi Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.984642,41.0131416"
 draft: "false"
 weight: "1"

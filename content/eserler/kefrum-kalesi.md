@@ -5,10 +5,10 @@ slug: "kefrum-kalesi"
 description: "### Kefrum Kalesi: Diyarbakır'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Kulp"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.0911751,38.4293137"
 draft: "false"
 weight: "999"

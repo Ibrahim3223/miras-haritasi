@@ -5,10 +5,10 @@ slug: "asagi-tepecik-hoyugu"
 description: "### Aşağı Tepecik Höyüğü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gölova (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.5868329,40.0294259"
 draft: "false"
 weight: "999"

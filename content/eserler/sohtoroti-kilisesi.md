@@ -5,10 +5,10 @@ slug: "sohtoroti-kilisesi"
 description: "# Sohtoroti Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Doruklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.426777777,40.377277777"
 draft: "false"
 weight: "999"

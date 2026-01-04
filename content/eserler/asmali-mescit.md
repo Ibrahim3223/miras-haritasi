@@ -5,10 +5,10 @@ slug: "asmali-mescit"
 description: "## Asmalı Mescit: İstanbul'un Tarihi ve Eğlence Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Asmal%C4%B1_mescid_sokak.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9731503,41.0070419"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karadogan-camii"
 description: "## Karadoğan Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9109859,38.247757"
 draft: "false"
 weight: "999"

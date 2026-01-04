@@ -5,10 +5,10 @@ slug: "sekirler-hoyuk"
 description: "### Şekirler Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3112697,39.1349729"
 draft: "false"
 weight: "999"

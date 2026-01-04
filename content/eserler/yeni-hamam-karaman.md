@@ -5,10 +5,10 @@ slug: "yeni-hamam-karaman"
 description: "**Yeni Hamam, Karaman**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.218894705,37.178896141"
 draft: "false"
 weight: "999"

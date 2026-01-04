@@ -5,10 +5,10 @@ slug: "haci-evhaduddin-camii"
 description: "## Hacı Evhadüddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Istanbul_Hacı_Evhadüddin_mosque_exterior_in_2015_0761.jpg/1200px-Istanbul_Hacı_Evhadüddin_mosque_exterior_in_2015_0761.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.923861111,40.996694444"
 draft: "false"
 weight: "10"

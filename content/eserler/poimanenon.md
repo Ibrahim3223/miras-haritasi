@@ -5,10 +5,10 @@ slug: "poimanenon"
 description: "## Poimanenon: Manyas'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Manyas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0534248,40.0032883"
 draft: "false"
 weight: "999"

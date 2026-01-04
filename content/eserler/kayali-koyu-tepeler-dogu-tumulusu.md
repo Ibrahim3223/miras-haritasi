@@ -5,10 +5,10 @@ slug: "kayali-koyu-tepeler-dogu-tumulusu"
 description: "## Kayalı Köyü Tepeler Doğu Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.07724,41.7790527"
 draft: "false"
 weight: "999"

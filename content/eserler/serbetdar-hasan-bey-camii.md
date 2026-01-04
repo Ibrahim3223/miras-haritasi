@@ -5,10 +5,10 @@ slug: "serbetdar-hasan-bey-camii"
 description: "## Şerbetdar Hasan Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vize_-_Hasan_Bey_Mosque_-_P1020931.JPG/1200px-Vize_-_Hasan_Bey_Mosque_-_P1020931.JPG"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.766888,41.575207"
 draft: "false"
 weight: "10"

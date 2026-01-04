@@ -5,10 +5,10 @@ slug: "sergen-koyu-eski-camii"
 description: "# Sergen Köyü Eski Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7093105,41.7062302"
 draft: "false"
 weight: "999"

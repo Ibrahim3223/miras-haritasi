@@ -5,10 +5,10 @@ slug: "bursa-ermeni-katolik-kilisesi"
 description: "### Bursa Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0714684,40.1801834"
 draft: "false"
 weight: "999"

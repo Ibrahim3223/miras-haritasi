@@ -5,10 +5,10 @@ slug: "atenia-pisidya"
 description: "## Atenia (Pisidya): Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.5360278,37.9224649"
 draft: "false"
 weight: "999"

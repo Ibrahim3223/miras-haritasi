@@ -5,10 +5,10 @@ slug: "kayseri-arkeoloji-muzesi"
 description: "## Kayseri Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kayseri_Herakles_Lahdi_1.JPG/1200px-Kayseri_Herakles_Lahdi_1.JPG"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kayseri"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.488611111,38.721388888"
 draft: "false"
 weight: "10"

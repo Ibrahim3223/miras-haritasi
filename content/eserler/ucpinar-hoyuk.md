@@ -5,10 +5,10 @@ slug: "ucpinar-hoyuk"
 description: "### Üçpınar Höyük: Konya'nın Gizli İncisi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.8187371,37.8252495"
 draft: "false"
 weight: "999"

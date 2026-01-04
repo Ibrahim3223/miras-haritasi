@@ -5,10 +5,10 @@ slug: "maran-kalesi"
 description: "### Maran Kalesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Feke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.8095894,37.8347054"
 draft: "false"
 weight: "999"

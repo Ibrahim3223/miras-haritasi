@@ -5,10 +5,10 @@ slug: "yesiloba-sehitligi-muzesi-ve-milli-mucadele-kutuphanesi"
 description: "Yeşiloba Şehitliği Müzesi ve Milli Mücadele Kütüphanesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.240433,36.994777"
 draft: "false"
 weight: "999"

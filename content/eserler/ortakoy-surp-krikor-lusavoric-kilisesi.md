@@ -5,10 +5,10 @@ slug: "ortakoy-surp-krikor-lusavoric-kilisesi"
 description: "## Ortaköy Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.024194,41.052111"
 draft: "false"
 weight: "999"

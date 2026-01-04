@@ -5,10 +5,10 @@ slug: "omerli-eski-camii"
 description: "## Ömerli Eski Camii: Mardin'in Tarihî Diyarı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Ömerli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.955555,37.401572"
 draft: "false"
 weight: "999"

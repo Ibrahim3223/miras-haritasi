@@ -5,10 +5,10 @@ slug: "yundalan-buyuk-kale-kirklareli"
 description: "## Yündalan Büyük Kale: Kırklareli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3048153,41.7594795"
 draft: "false"
 weight: "999"

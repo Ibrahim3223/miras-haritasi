@@ -5,10 +5,10 @@ slug: "bahattin-samanligi-kilisesi"
 description: "## Bahattin Samanlığı Kilisesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

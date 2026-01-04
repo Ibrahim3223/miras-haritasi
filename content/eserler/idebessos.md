@@ -5,10 +5,10 @@ slug: "idebessos"
 description: "## Idebessos: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Idebessos_-_Sarcophagi_with_shield_and_spear.jpg/1200px-Idebessos_-_Sarcophagi_with_shield_and_spear.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.20222222,36.55472222"
 draft: "false"
 weight: "10"

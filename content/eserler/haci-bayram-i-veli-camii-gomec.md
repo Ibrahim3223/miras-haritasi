@@ -5,10 +5,10 @@ slug: "haci-bayram-i-veli-camii-gomec"
 description: "### Hacı Bayram-ı Veli Camii, Gömeç..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gömeç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8325996,39.3822136"
 draft: "false"
 weight: "999"

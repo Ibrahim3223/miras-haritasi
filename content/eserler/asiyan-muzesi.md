@@ -5,10 +5,10 @@ slug: "asiyan-muzesi"
 description: "### Aşiyan Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Asiyan_Museum_2.JPG/1200px-Asiyan_Museum_2.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.05345,41.08265"
 draft: "false"
 weight: "10"

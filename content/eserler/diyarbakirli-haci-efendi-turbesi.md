@@ -5,10 +5,10 @@ slug: "diyarbakirli-haci-efendi-turbesi"
 description: "## Diyarbakırlı Hacı Efendi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.610807,40.729783"
 draft: "false"
 weight: "999"

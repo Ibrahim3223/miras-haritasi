@@ -5,10 +5,10 @@ slug: "yassihoyuk-eski-cami"
 description: "## Yassıhöyük Eski Cami..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.3298111,37.5131645"
 draft: "false"
 weight: "999"

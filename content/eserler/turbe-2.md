@@ -5,10 +5,10 @@ slug: "turbe-2"
 description: "## Türbe 2: Germencik, Aydın'daki Bir Hicri Anıt..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5155487,37.9274483"
 draft: "false"
 weight: "999"

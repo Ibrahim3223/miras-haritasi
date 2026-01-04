@@ -5,10 +5,10 @@ slug: "podalia-likya"
 description: "### Likya'da Podalia: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0364,36.6741"
 draft: "false"
 weight: "999"

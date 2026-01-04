@@ -5,10 +5,10 @@ slug: "laertes"
 description: "### Laertes Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.16573,36.51062"
 draft: "false"
 weight: "999"

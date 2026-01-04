@@ -5,10 +5,10 @@ slug: "bandirma-balikesirde-cami"
 description: "### Bandırma Camii: Balıkesir'in Değerli Cami Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bandırma_Haydarçavuş_camii_-_panoramio.jpg/1200px-Bandırma_Haydarçavuş_camii_-_panoramio.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.97,40.353888888"
 draft: "false"
 weight: "10"

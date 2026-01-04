@@ -5,10 +5,10 @@ slug: "otluk-kapisi"
 description: "## Otluk Kapısı: Fatih'teki Bir Tarihî Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.982746,41.005695"
 draft: "false"
 weight: "999"

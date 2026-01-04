@@ -5,10 +5,10 @@ slug: "mirza-bey-camii"
 description: "## Mirza Bey Camii: Çerkeş'te Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8558388,40.7792816"
 draft: "false"
 weight: "999"

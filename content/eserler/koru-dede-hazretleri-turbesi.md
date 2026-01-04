@@ -5,10 +5,10 @@ slug: "koru-dede-hazretleri-turbesi"
 description: "### Koru Dede Hazretleri Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Cumayeri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.9745579,40.8546028"
 draft: "false"
 weight: "999"

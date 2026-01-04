@@ -5,10 +5,10 @@ slug: "savran-hoyuk"
 description: "## Savran Höyük..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7266731,37.4082184"
 draft: "false"
 weight: "999"

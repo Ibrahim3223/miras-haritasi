@@ -5,10 +5,10 @@ slug: "gungormez-mescidi"
 description: "## Güngörmez Mescidi; Fatih Devri'nin Efsanevi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9764748,41.0044937"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasan-halife-camii"
 description: "## Hasan Halife Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.946202,41.017493"
 draft: "false"
 weight: "999"

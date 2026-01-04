@@ -5,10 +5,10 @@ slug: "abdulcebbar-camii"
 description: "## Abdülcebbar Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.782959,41.3778076"
 draft: "false"
 weight: "999"

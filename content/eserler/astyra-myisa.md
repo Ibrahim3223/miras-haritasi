@@ -5,10 +5,10 @@ slug: "astyra-myisa"
 description: "### Astyra Myisa: Edremit'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.888592,39.586596"
 draft: "false"
 weight: "999"

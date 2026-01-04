@@ -5,10 +5,10 @@ slug: "ariarathia"
 description: "## Ariarathia: Kayseri'nin Gizemli Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Kayseri_districts.png"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.391,38.722"
 draft: "false"
 weight: "999"

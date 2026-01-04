@@ -5,10 +5,10 @@ slug: "turk-hamam-muzesi"
 description: "## Türk Hamam Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.916851,40.1698303"
 draft: "false"
 weight: "999"

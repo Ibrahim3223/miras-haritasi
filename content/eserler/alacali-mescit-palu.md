@@ -5,10 +5,10 @@ slug: "alacali-mescit-palu"
 description: "## Alacalı Mescit: Palu'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.949894,38.7048759"
 draft: "false"
 weight: "999"

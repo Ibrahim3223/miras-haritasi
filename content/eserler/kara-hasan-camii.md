@@ -5,10 +5,10 @@ slug: "kara-hasan-camii"
 description: "## Kara Hasan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kara_Hasan_Camii.jpg/1200px-Kara_Hasan_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.732851,38.0848083"
 draft: "false"
 weight: "10"

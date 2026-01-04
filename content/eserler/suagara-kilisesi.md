@@ -5,10 +5,10 @@ slug: "suagara-kilisesi"
 description: "**Suagara Kilisesi**..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Soğanlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.005777777,41.167388888"
 draft: "false"
 weight: "999"

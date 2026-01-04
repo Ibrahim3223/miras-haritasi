@@ -5,10 +5,10 @@ slug: "camlica-koyu-koprusu"
 description: "## Çamlıca Köyü Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Keşap"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.532142,40.783117"
 draft: "false"
 weight: "999"

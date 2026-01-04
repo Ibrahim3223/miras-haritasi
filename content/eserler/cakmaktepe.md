@@ -5,10 +5,10 @@ slug: "cakmaktepe"
 description: "## Çakmaktepe: Şanlıurfa'nın Eski Kent Merkezi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6301804,37.0863419"
 draft: "false"
 weight: "999"

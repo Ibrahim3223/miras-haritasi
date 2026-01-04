@@ -5,10 +5,10 @@ slug: "fadiloglu-camii"
 description: "### Fadıloğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.746788,38.0893784"
 draft: "false"
 weight: "999"

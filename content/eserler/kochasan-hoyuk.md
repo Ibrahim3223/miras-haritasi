@@ -5,10 +5,10 @@ slug: "kochasan-hoyuk"
 description: "### Koçhasan Höyük: Bir Arkeolojik Sitin Tarihçesi Ve Özellikleri..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.092083,38.7434731"
 draft: "false"
 weight: "999"

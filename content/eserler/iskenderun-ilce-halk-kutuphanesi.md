@@ -5,10 +5,10 @@ slug: "iskenderun-ilce-halk-kutuphanesi"
 description: "## İskenderun İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "36.175421094,36.586936574"
 draft: "false"
 weight: "999"

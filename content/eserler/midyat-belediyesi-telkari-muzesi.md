@@ -5,10 +5,10 @@ slug: "midyat-belediyesi-telkari-muzesi"
 description: "## Mıdıtan Belediyesi Telkari Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer..."
 featured_image: ""
 province: "Midyat"
-iller: '["Midyat"]'
+iller: ["Midyat"]
 district: "Midyat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

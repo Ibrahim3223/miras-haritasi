@@ -5,10 +5,10 @@ slug: "fesciler-kapisi"
 description: "## Fesciler Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9664993,41.0099716"
 draft: "false"
 weight: "999"

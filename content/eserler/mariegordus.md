@@ -5,10 +5,10 @@ slug: "mariegordus"
 description: "## Mariegordus: Ankara'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ruins_of_Roman_temple_at_Mariegordus.jpg/1200px-Ruins_of_Roman_temple_at_Mariegordus.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.595075,40.202952"
 draft: "false"
 weight: "10"

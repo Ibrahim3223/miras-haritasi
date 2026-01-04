@@ -5,10 +5,10 @@ slug: "sahkulu-sultan-turbesi"
 description: "### Şahkulu Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Şahkulu_Sultan_Türbesi.jpg/1200px-Şahkulu_Sultan_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.075194995,40.989063111"
 draft: "false"
 weight: "10"

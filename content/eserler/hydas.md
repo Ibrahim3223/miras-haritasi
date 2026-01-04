@@ -5,10 +5,10 @@ slug: "hydas"
 description: "## Hydas Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.092803,36.706086"
 draft: "false"
 weight: "999"

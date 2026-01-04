@@ -5,10 +5,10 @@ slug: "bahceler-mevki-manastiri"
 description: "## Bahçeler Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9061584,40.2195549"
 draft: "false"
 weight: "999"

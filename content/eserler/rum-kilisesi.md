@@ -5,10 +5,10 @@ slug: "rum-kilisesi"
 description: "# Rum Kilisesi: Ortahisar'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.734145,41.003133"
 draft: "false"
 weight: "999"

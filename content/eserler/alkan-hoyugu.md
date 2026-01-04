@@ -5,10 +5,10 @@ slug: "alkan-hoyugu"
 description: "## Alkan Höyüğü: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7795043,38.2965867"
 draft: "false"
 weight: "999"

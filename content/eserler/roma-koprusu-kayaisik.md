@@ -5,10 +5,10 @@ slug: "roma-koprusu-kayaisik"
 description: "**Roma Köprüsü, Kayaışık**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9919354,38.8728205"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "terzi-hoyuk"
 description: "## Terzi Höyük: Hatay'ın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.400013,36.306778"
 draft: "false"
 weight: "999"

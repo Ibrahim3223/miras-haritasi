@@ -5,10 +5,10 @@ slug: "catmali-mescit"
 description: "## Çatmalı Mescit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9707088,41.0319977"
 draft: "false"
 weight: "999"

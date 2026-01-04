@@ -5,10 +5,10 @@ slug: "seyh-hadin-turbesi"
 description: "### Şeyh Hadin Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2416763,37.9129524"
 draft: "false"
 weight: "999"

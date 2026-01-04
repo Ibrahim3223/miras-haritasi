@@ -5,10 +5,10 @@ slug: "dibecik-hoyuk"
 description: "## Dibecik Höyük: Gaziantep'in Gizli İncisi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.6495338,36.816514"
 draft: "false"
 weight: "999"

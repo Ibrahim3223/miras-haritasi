@@ -5,10 +5,10 @@ slug: "kursunlu-camii-kutahya"
 description: "## Kurşunlu Camii: Kütahya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9744473,39.4181023"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kethuda-canfeda-hatun-hamami"
 description: "### Kethüda Canfeda Hatun Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1161747,41.1567039"
 draft: "false"
 weight: "999"

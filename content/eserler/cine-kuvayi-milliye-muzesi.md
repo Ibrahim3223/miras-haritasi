@@ -5,10 +5,10 @@ slug: "cine-kuvayi-milliye-muzesi"
 description: "## Çine Kuvayı Milliye Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.064948,37.609392"
 draft: "false"
 weight: "999"

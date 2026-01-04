@@ -5,10 +5,10 @@ slug: "sefer-sah-turbesi"
 description: "### Sefer Şah Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5439014,41.6764374"
 draft: "false"
 weight: "999"

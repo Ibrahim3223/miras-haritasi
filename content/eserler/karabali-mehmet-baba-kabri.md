@@ -5,10 +5,10 @@ slug: "karabali-mehmet-baba-kabri"
 description: "## Karabali Mehmet Baba Kabri: İstanbul'un Tarihsel Yapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9951839,41.0371056"
 draft: "false"
 weight: "999"

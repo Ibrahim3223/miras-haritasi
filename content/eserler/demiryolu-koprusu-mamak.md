@@ -5,10 +5,10 @@ slug: "demiryolu-koprusu-mamak"
 description: "# Demiryolu Köprüsü, Mamak..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.897706355,39.935028758"
 draft: "false"
 weight: "999"

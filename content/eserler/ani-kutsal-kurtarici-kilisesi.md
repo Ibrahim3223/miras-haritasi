@@ -5,10 +5,10 @@ slug: "ani-kutsal-kurtarici-kilisesi"
 description: "## Ani Kutsal Kurtarıcı Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Ani_1.jpg/1200px-Ani_1.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5768,40.5071"
 draft: "false"
 weight: "10"

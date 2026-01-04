@@ -5,10 +5,10 @@ slug: "aktas-camii"
 description: "## Aktaş Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/K1PL_Berlin_2018-09-16_Male_Kumite_%E2%80%9384_kg_12.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3353386,40.016407"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bayrampasa-kalesi"
 description: "### Bayrampaşa Kalesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.8321495,40.1846466"
 draft: "false"
 weight: "999"

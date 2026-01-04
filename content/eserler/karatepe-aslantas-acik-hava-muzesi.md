@@ -5,10 +5,10 @@ slug: "karatepe-aslantas-acik-hava-muzesi"
 description: "### Karatepe-Aslantaş Açık Hava Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Karatepe_Museum.jpg/1200px-Karatepe_Museum.jpg"
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.25004,37.30022"
 draft: "false"
 weight: "10"

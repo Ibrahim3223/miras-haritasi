@@ -5,10 +5,10 @@ slug: "mor-mihail-kilisesi"
 description: "### Mor Mihail Kilisesi: Mardin'in Tarihi Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.7332687,37.3076439"
 draft: "false"
 weight: "999"

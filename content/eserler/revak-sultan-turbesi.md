@@ -5,10 +5,10 @@ slug: "revak-sultan-turbesi"
 description: "## Revak Sultan Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4237,38.6056"
 draft: "false"
 weight: "999"

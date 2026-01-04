@@ -5,10 +5,10 @@ slug: "gurgendere-kalesi-kirklareli"
 description: "# Gürgendere Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3431339,41.7825623"
 draft: "false"
 weight: "999"

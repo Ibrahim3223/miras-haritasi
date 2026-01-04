@@ -5,10 +5,10 @@ slug: "mor-abay-manastiri"
 description: "### Mor Abay Manastırı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "40.958388888,37.557416666"
 draft: "false"
 weight: "999"

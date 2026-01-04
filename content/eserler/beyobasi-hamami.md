@@ -5,10 +5,10 @@ slug: "beyobasi-hamami"
 description: "## Beyobası Hamamı: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Pazar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.26399,40.27967"
 draft: "false"
 weight: "999"

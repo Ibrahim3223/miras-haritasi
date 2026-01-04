@@ -5,10 +5,10 @@ slug: "patara-nero-hamami"
 description: "## Patara Nero Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Patara_Bath_of_Nero-Vespasian_in_2013_4720.jpg/1200px-Patara_Bath_of_Nero-Vespasian_in_2013_4720.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.316599,36.261608"
 draft: "false"
 weight: "10"

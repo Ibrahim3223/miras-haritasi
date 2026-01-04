@@ -5,10 +5,10 @@ slug: "kimisis-teodoku-rum-ortodoks-kilisesi"
 description: "## Kimisis Teodoku Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bozcaada_(31072023)_-_53083805462.jpg/1200px-Bozcaada_(31072023)_-_53083805462.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.069055555,39.83525"
 draft: "false"
 weight: "10"

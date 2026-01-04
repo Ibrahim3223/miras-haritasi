@@ -5,10 +5,10 @@ slug: "eskipazar-camii"
 description: "## Eskipazar Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.8921394,40.9452858"
 draft: "false"
 weight: "999"

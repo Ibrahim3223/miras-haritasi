@@ -5,10 +5,10 @@ slug: "kanuni-koprusu"
 description: "## Kanuni Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/KanuniBridge_(3).JPG/1200px-KanuniBridge_(3).JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.559,41.6867"
 draft: "false"
 weight: "10"

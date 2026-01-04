@@ -5,10 +5,10 @@ slug: "ataturk-aniti-mugla"
 description: "## Atatürk Anıtı, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3637066,37.2151375"
 draft: "false"
 weight: "999"

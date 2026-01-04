@@ -5,10 +5,10 @@ slug: "karapinar-hoyugu"
 description: "### Karapınar Höyüğü: İslahiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.6395969,36.9637041"
 draft: "false"
 weight: "999"

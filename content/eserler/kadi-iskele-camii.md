@@ -5,10 +5,10 @@ slug: "kadi-iskele-camii"
 description: "### Kadı İskele Camii: Gelibolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6675682,40.4072304"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kumrulu-mescit"
 description: "### Kumrulu Mescit: İstanbul'un Fethinin Ardından Yükselen Bir Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94648,41.02369"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arpalik-tumulusu"
 description: "## Arpalık Tümülüsü: Tekirdağ'ın Gizli Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.173727,41.0948143"
 draft: "false"
 weight: "999"

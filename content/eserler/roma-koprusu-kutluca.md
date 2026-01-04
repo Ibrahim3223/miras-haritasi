@@ -5,10 +5,10 @@ slug: "roma-koprusu-kutluca"
 description: "## Roma Köprüsü, Kutluca..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Körfez"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.7593632,40.9173022"
 draft: "false"
 weight: "999"

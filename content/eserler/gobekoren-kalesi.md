@@ -5,10 +5,10 @@ slug: "gobekoren-kalesi"
 description: "## Göbekören Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gürün"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9247189,38.7425445"
 draft: "false"
 weight: "999"

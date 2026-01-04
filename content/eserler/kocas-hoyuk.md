@@ -5,10 +5,10 @@ slug: "kocas-hoyuk"
 description: "## Koçaş Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8444066,38.4728528"
 draft: "false"
 weight: "999"

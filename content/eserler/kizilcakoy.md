@@ -5,10 +5,10 @@ slug: "kizilcakoy"
 description: "## Kızılcaköy Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.312649,39.349758"
 draft: "false"
 weight: "999"

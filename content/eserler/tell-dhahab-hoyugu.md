@@ -5,10 +5,10 @@ slug: "tell-dhahab-hoyugu"
 description: "### Tell Dhahab Höyüğü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5302063,36.2671262"
 draft: "false"
 weight: "999"

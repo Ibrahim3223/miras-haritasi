@@ -5,10 +5,10 @@ slug: "karakabakli"
 description: "### Karakabaklı Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Karakabaklı.jpg/1200px-Karakabaklı.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0167,36.4333"
 draft: "false"
 weight: "10"

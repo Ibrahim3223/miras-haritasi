@@ -5,10 +5,10 @@ slug: "onhoroz-hoyuk"
 description: "## Onhoroz Höyük..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4960926,40.8227567"
 draft: "false"
 weight: "999"

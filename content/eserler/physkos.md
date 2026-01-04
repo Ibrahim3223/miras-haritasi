@@ -5,10 +5,10 @@ slug: "physkos"
 description: "## Physkos Arkeolojik Sitesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.2769,36.8631"
 draft: "false"
 weight: "999"

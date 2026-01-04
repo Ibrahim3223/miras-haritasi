@@ -5,10 +5,10 @@ slug: "cakirlar-koprusu"
 description: "## Çakırlar Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.862436293,39.943004963"
 draft: "false"
 weight: "999"

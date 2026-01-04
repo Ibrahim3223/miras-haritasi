@@ -5,10 +5,10 @@ slug: "cumhuriyet-agaci"
 description: "## Cumhuriyet Ağacı: İzmir'in Yüce Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Izmir_Republic_Tree_Monument_01_3999.jpg/1200px-Izmir_Republic_Tree_Monument_01_3999.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.139361111,38.435777777"
 draft: "false"
 weight: "10"

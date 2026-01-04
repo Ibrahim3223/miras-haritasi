@@ -5,10 +5,10 @@ slug: "hamzeti-kilisesi"
 description: "## Hamzeti Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.548083333,40.812611111"
 draft: "false"
 weight: "999"

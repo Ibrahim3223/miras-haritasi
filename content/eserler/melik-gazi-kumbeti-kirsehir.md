@@ -5,10 +5,10 @@ slug: "melik-gazi-kumbeti-kirsehir"
 description: "### Melik Gazi Kümbeti: Kırşehir'de Bir Zenginlik..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1626472,39.1435738"
 draft: "false"
 weight: "999"

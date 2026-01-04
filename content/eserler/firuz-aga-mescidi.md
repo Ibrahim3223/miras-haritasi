@@ -5,10 +5,10 @@ slug: "firuz-aga-mescidi"
 description: "### Firuz Ağa Mescidi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.982324,41.031217"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tarihi-kopru-zuhuratbaba"
 description: "## Tarihi Köprü, Zuhuratbaba..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.8656635,40.9873505"
 draft: "false"
 weight: "999"

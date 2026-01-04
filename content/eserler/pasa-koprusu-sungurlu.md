@@ -5,10 +5,10 @@ slug: "pasa-koprusu-sungurlu"
 description: "## Paşa Köprüsü, Sungurlu..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.374729,40.159501"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zografion-koyu-kilisesi"
 description: "# Zoğrafion Köyü Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.7988148,41.0070572"
 draft: "false"
 weight: "999"

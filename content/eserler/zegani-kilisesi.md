@@ -5,10 +5,10 @@ slug: "zegani-kilisesi"
 description: "## Zegani Kilisesi: Tarihi ve Kültürel Mirasın Işığında..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.087083333,41.266666666"
 draft: "false"
 weight: "999"

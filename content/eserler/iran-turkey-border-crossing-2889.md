@@ -5,10 +5,10 @@ slug: "iran-turkey-border-crossing-2889"
 description: "## İran-Türkiye Sınır Giriş #2889: Tarihi Bir Kervansaray..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.612582527,37.724146949"
 draft: "false"
 weight: "999"

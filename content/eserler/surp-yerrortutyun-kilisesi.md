@@ -5,10 +5,10 @@ slug: "surp-yerrortutyun-kilisesi"
 description: "## Surp Yerrortutyun Kilisesi: İstanbul'un Gizli İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Armenische_Hl.-Dreieinigkeits-Kirche.jpg/1200px-Armenische_Hl.-Dreieinigkeits-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97758,41.034245"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "seyh-ali-semerkand-turbesi"
 description: "# Şeyh Ali Semerkandî Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4691,40.486"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cilhane-koprusu"
 description: "## Çilhane Köprüsü..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.9568558,40.5896072"
 draft: "false"
 weight: "999"

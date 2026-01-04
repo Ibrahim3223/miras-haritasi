@@ -5,10 +5,10 @@ slug: "cumhuriyet-camii"
 description: "## Cumhuriyet Camii: Honaz'da Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.3260442,37.8065066"
 draft: "false"
 weight: "999"

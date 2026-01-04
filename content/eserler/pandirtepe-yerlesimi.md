@@ -5,10 +5,10 @@ slug: "pandirtepe-yerlesimi"
 description: "## Pandırtepe Yerleşimi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.824627777,39.211752777"
 draft: "false"
 weight: "999"

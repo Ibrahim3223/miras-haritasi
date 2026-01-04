@@ -5,10 +5,10 @@ slug: "gozmen-koyu-tumulusu-sivas"
 description: "### Gözmen Köyü Tümülüsü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.6531487,39.5239182"
 draft: "false"
 weight: "999"

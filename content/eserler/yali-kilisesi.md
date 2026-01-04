@@ -5,10 +5,10 @@ slug: "yali-kilisesi"
 description: "## Yalı Kilisesi: Ünye'nin Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.28783975,41.135258339"
 draft: "false"
 weight: "999"

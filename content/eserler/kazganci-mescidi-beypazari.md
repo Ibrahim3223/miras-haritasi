@@ -5,10 +5,10 @@ slug: "kazganci-mescidi-beypazari"
 description: "## Kazgancı Mescidi: Beypazarı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9188309,40.1720657"
 draft: "false"
 weight: "999"

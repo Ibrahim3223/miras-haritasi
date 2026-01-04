@@ -5,10 +5,10 @@ slug: "kumtepe-canakkale"
 description: "## Kumtepe Arkeolojik Sitesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.195967,39.978917"
 draft: "false"
 weight: "999"

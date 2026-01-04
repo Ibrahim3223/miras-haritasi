@@ -5,10 +5,10 @@ slug: "lasthenes"
 description: "# Lasthenes: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.052603,41.115124"
 draft: "false"
 weight: "999"

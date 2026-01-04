@@ -5,10 +5,10 @@ slug: "saricailyas"
 description: "# Sarıcailyas Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.671567,39.35195"
 draft: "false"
 weight: "999"

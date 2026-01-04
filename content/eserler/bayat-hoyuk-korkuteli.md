@@ -5,10 +5,10 @@ slug: "bayat-hoyuk-korkuteli"
 description: "### Bayat Höyük, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3169994,37.0399017"
 draft: "false"
 weight: "999"

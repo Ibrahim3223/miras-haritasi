@@ -5,10 +5,10 @@ slug: "zeytinlibahce-hoyugu"
 description: "## Zeytinlibahçe Höyüğü: Şanlıurfa'da Bir Arkeolojik Gizem..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.9777895,36.9956068"
 draft: "false"
 weight: "999"

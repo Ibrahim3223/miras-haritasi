@@ -5,10 +5,10 @@ slug: "kopru-1-yava"
 description: "### Köprü 1, Yava: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1400928,37.4530373"
 draft: "false"
 weight: "999"

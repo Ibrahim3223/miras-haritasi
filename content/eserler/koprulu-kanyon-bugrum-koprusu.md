@@ -5,10 +5,10 @@ slug: "koprulu-kanyon-bugrum-koprusu"
 description: "## Köprülü Kanyon Büğrüm Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.179205,37.187553"
 draft: "false"
 weight: "999"

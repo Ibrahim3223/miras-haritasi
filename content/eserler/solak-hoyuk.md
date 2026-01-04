@@ -5,10 +5,10 @@ slug: "solak-hoyuk"
 description: "# Solak Höyük: Sivas'ta Bir Geç Antik Çağ Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1330353,40.1659615"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sveti-spiridon-kilisesi"
 description: "### Sveti Spiridon Kilisesi: Kırklareli'nin İhtişamı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2227478,41.741291"
 draft: "false"
 weight: "999"

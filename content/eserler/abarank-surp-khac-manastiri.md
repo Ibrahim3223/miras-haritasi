@@ -5,10 +5,10 @@ slug: "abarank-surp-khac-manastiri"
 description: "## Abarank Surp Khaç Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Hizan"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.6252556,38.0240822"
 draft: "false"
 weight: "999"

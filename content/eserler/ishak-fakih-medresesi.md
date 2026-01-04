@@ -5,10 +5,10 @@ slug: "ishak-fakih-medresesi"
 description: "## İshak Fakih Medresesi: Kütahya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.9747486,39.4196701"
 draft: "false"
 weight: "999"

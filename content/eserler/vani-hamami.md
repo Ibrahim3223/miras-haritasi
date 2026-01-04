@@ -5,10 +5,10 @@ slug: "vani-hamami"
 description: "## Vani Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Kestel"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.2136955,40.2001915"
 draft: "false"
 weight: "999"

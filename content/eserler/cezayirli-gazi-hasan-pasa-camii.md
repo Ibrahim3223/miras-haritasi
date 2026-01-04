@@ -5,10 +5,10 @@ slug: "cezayirli-gazi-hasan-pasa-camii"
 description: "## Cezayirli Gazi Hasan Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9682941,41.0327263"
 draft: "false"
 weight: "999"

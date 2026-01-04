@@ -5,10 +5,10 @@ slug: "evhaduddin-kirmani-turbesi"
 description: "## Evhaduddin Kirmani Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4957657,37.8842926"
 draft: "false"
 weight: "999"

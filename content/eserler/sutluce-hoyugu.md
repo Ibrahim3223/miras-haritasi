@@ -5,10 +5,10 @@ slug: "sutluce-hoyugu"
 description: "# Sütlüce Höyüğü: Harran'ın Gizli İhtişamı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9731328,36.824996"
 draft: "false"
 weight: "999"

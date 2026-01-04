@@ -5,10 +5,10 @@ slug: "muderris-abdulbaki-efendi-camii"
 description: "## Müderris Abdülbaki Efendi Camii: Üsküdar'ın Tarihi Bir Zengini..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Müderris_Abdülbaki_Efendi_Mosque.jpg/1200px-Müderris_Abdülbaki_Efendi_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0203367,41.0274381"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "magnesia-tiyatrosu"
 description: "### Magnesia Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.525833333,37.850277777"
 draft: "false"
 weight: "999"

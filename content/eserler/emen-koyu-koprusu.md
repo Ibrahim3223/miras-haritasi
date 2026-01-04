@@ -5,10 +5,10 @@ slug: "emen-koyu-koprusu"
 description: "## Emen Köyü Köprüsü: Beyşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.776013896,37.801859229"
 draft: "false"
 weight: "999"

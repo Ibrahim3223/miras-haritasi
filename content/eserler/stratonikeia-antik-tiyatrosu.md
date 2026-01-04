@@ -5,10 +5,10 @@ slug: "stratonikeia-antik-tiyatrosu"
 description: "## Stratonikeia Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0649986,37.3104057"
 draft: "false"
 weight: "999"

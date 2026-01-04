@@ -5,10 +5,10 @@ slug: "kalehisar-hamami"
 description: "## Kalehisar Hamamı: Alaca, Çorum'un Tarihi Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.7140007,40.2669106"
 draft: "false"
 weight: "999"

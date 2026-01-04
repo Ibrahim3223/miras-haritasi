@@ -5,10 +5,10 @@ slug: "alemdag-vakif-camii"
 description: "### Alemdağ Vakıf Camii: Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2361469,41.0496712"
 draft: "false"
 weight: "999"

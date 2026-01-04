@@ -5,10 +5,10 @@ slug: "hatay-cemil-meric-il-halk-kutuphanesi"
 description: "## Hatay Cemil Meriç İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "36.15589447,36.20258088"
 draft: "false"
 weight: "999"

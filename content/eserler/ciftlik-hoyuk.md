@@ -5,10 +5,10 @@ slug: "ciftlik-hoyuk"
 description: "## Çiftlik Höyük: Odunpazarı'nın Zengin Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.479562,39.761791"
 draft: "false"
 weight: "999"

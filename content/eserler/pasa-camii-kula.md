@@ -5,10 +5,10 @@ slug: "pasa-camii-kula"
 description: "## Paşa Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6467438,38.5474777"
 draft: "false"
 weight: "999"

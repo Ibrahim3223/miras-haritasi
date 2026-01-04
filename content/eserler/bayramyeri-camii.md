@@ -5,10 +5,10 @@ slug: "bayramyeri-camii"
 description: "## Bayramyeri Camii: Denizli'nin Dini Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/93/Bayramyeri_Clock_Tower_01.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.083622,37.7847099"
 draft: "false"
 weight: "999"

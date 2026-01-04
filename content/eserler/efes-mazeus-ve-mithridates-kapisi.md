@@ -5,10 +5,10 @@ slug: "efes-mazeus-ve-mithridates-kapisi"
 description: "## Efes Mazeus ve Mithridates Kapısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3410797,37.9392815"
 draft: "false"
 weight: "999"

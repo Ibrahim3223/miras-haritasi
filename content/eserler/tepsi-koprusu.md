@@ -5,10 +5,10 @@ slug: "tepsi-koprusu"
 description: "# Tepsi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.591278,40.651289"
 draft: "false"
 weight: "999"

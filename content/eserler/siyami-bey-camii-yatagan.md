@@ -5,10 +5,10 @@ slug: "siyami-bey-camii-yatagan"
 description: "## Siyami Bey Camii (Yatağan)..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1337643,37.2927208"
 draft: "false"
 weight: "999"

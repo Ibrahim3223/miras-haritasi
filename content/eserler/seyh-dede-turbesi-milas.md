@@ -5,10 +5,10 @@ slug: "seyh-dede-turbesi-milas"
 description: "**Şeyh Dede Türbesi, Milas**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8172703,37.3152161"
 draft: "false"
 weight: "999"

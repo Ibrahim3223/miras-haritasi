@@ -5,10 +5,10 @@ slug: "ebu-ishak-camii"
 description: "## Ebu İshak Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0707016,40.1853714"
 draft: "false"
 weight: "999"

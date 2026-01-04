@@ -5,10 +5,10 @@ slug: "bosat-kalesi"
 description: "### Boşat Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.9874954,38.2291069"
 draft: "false"
 weight: "999"

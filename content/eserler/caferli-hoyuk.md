@@ -5,10 +5,10 @@ slug: "caferli-hoyuk"
 description: "### Caferli Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0092227,38.8447721"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aksehir-ulu-camii"
 description: "## Akşehir Ulu Camii: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Akşehir_Grand_Mosque_1.jpg/1200px-Akşehir_Grand_Mosque_1.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.411472222,38.356277777"
 draft: "false"
 weight: "10"

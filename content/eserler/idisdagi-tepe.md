@@ -5,10 +5,10 @@ slug: "idisdagi-tepe"
 description: "## İdisdağı Tepe: Ürgüp'in Gizli Şehri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9187845,38.7711977"
 draft: "false"
 weight: "999"

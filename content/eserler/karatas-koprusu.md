@@ -5,10 +5,10 @@ slug: "karatas-koprusu"
 description: "### Karataş Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1257401,38.4101562"
 draft: "false"
 weight: "999"

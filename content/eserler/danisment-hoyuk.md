@@ -5,10 +5,10 @@ slug: "danisment-hoyuk"
 description: "## Danişment Höyük: Sivas'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.6802007,40.0641839"
 draft: "false"
 weight: "999"

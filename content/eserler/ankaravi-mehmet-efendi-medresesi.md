@@ -5,10 +5,10 @@ slug: "ankaravi-mehmet-efendi-medresesi"
 description: "## Ankaravi Mehmet Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.954224,41.013089"
 draft: "false"
 weight: "999"

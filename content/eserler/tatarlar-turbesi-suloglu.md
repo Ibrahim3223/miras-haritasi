@@ -5,10 +5,10 @@ slug: "tatarlar-turbesi-suloglu"
 description: "## Tatarlar Türbesi, Süloğlu..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.9072723,41.8387032"
 draft: "false"
 weight: "999"

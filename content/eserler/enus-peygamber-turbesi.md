@@ -5,10 +5,10 @@ slug: "enus-peygamber-turbesi"
 description: "## Enüş Peygamber Türbesi: Ergani'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Ergani"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.6679,38.1929"
 draft: "false"
 weight: "999"

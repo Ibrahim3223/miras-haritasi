@@ -5,10 +5,10 @@ slug: "murat-pasa-camii-erzurum"
 description: "# Murat Paşa Camii (Erzurum)..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.270134,39.9043427"
 draft: "false"
 weight: "999"

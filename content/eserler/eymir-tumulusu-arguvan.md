@@ -5,10 +5,10 @@ slug: "eymir-tumulusu-arguvan"
 description: "**Eymir Tümülüsü, Arguvan**..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2326355,38.8582687"
 draft: "false"
 weight: "999"

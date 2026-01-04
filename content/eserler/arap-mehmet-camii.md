@@ -5,10 +5,10 @@ slug: "arap-mehmet-camii"
 description: "# Arap Mehmet Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/ARAP_MEHMED_CAMİİ_BURSA_-_panoramio_(1).jpg/1200px-ARAP_MEHMED_CAMİİ_BURSA_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0613804,40.1807632"
 draft: "false"
 weight: "10"

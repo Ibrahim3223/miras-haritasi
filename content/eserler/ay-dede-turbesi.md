@@ -5,10 +5,10 @@ slug: "ay-dede-turbesi"
 description: "## Ay Dede Türbesi: Bursa'nın Gizli Çarpıcısı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.058754,40.174311"
 draft: "false"
 weight: "999"

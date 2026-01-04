@@ -5,10 +5,10 @@ slug: "okami-kilisesi"
 description: "## Okami Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: '["Göle"]'
+iller: ["Göle"]
 district: "Çayırbaşı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.628849508,40.875646374"
 draft: "false"
 weight: "999"

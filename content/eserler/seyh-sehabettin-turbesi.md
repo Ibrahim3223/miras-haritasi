@@ -5,10 +5,10 @@ slug: "seyh-sehabettin-turbesi"
 description: "## Şeyh Şehabettin Türbesi: Odunpazarı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5246944,39.762043"
 draft: "false"
 weight: "999"

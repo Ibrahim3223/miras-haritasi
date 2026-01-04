@@ -5,10 +5,10 @@ slug: "ataturk-orman-ciftligi-muze-ve-sergi-salonu"
 description: "## Atatürk Orman Çiftliği Müze ve Sergi Salonu..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.7951927,39.9449463"
 draft: "false"
 weight: "999"

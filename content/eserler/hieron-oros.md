@@ -5,10 +5,10 @@ slug: "hieron-oros"
 description: "## Hieron Oros: Kıbrıs'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.423999,41.099978"
 draft: "false"
 weight: "999"

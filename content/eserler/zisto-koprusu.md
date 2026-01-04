@@ -5,10 +5,10 @@ slug: "zisto-koprusu"
 description: "### Zisto Köprüsü: Çamlıhemşin'in Tarihî ve Kültürel Özellikleri..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1272833,41.0626667"
 draft: "false"
 weight: "999"

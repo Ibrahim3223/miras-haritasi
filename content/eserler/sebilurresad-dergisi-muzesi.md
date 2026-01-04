@@ -5,10 +5,10 @@ slug: "sebilurresad-dergisi-muzesi"
 description: "### Sebilürreşad Dergisi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.859085147,39.937448754"
 draft: "false"
 weight: "999"

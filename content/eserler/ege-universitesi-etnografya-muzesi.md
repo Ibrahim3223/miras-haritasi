@@ -5,10 +5,10 @@ slug: "ege-universitesi-etnografya-muzesi"
 description: "## Ege Üniversitesi Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/EGE_ÜNİVERSİTESİ_ETNOGRAFYA_MÜZESİ_1.jpg/1200px-EGE_ÜNİVERSİTESİ_ETNOGRAFYA_MÜZESİ_1.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2170296,38.4608612"
 draft: "false"
 weight: "10"

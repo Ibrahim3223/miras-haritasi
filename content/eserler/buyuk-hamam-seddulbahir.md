@@ -5,10 +5,10 @@ slug: "buyuk-hamam-seddulbahir"
 description: "## Büyük Hamam, Seddülbahir..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.1883507,40.0432816"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocyaka-anonim-turbe"
 description: "## Koçyaka Anonim Türbe..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Altınekin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.88765,38.24303"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tepecik-koyu-camii"
 description: "## Tepecik Köyü Camii: Kocaeli'nin Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9875374,40.6268806"
 draft: "false"
 weight: "999"

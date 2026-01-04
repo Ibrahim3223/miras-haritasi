@@ -5,10 +5,10 @@ slug: "kralice-aba-anit-mezari"
 description: "## Kraliçe Aba Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.177139768,36.5273425"
 draft: "false"
 weight: "999"

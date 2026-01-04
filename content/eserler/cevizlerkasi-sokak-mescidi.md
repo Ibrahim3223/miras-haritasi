@@ -5,10 +5,10 @@ slug: "cevizlerkasi-sokak-mescidi"
 description: "## Cevizlerkaşı Sokak Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9228992,40.1706009"
 draft: "false"
 weight: "999"

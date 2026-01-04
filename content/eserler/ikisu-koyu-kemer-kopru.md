@@ -5,10 +5,10 @@ slug: "ikisu-koyu-kemer-kopru"
 description: "## İkisu Köyü Kemer Köprü: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.39352,40.52494"
 draft: "false"
 weight: "999"

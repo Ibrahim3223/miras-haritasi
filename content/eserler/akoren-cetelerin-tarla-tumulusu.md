@@ -5,10 +5,10 @@ slug: "akoren-cetelerin-tarla-tumulusu"
 description: "### Akören Çetelerin Tarla Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5439281,41.7077179"
 draft: "false"
 weight: "999"

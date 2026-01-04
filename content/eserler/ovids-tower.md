@@ -5,10 +5,10 @@ slug: "ovids-tower"
 description: "## Ovid'in Kulesi: Uskumruköy'deki Tarihi Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.015360244,41.2103802"
 draft: "false"
 weight: "999"

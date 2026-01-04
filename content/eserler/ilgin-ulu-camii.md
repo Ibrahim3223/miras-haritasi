@@ -5,10 +5,10 @@ slug: "ilgin-ulu-camii"
 description: "## Ilgın Ulu Camii: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.918027777,38.2815"
 draft: "false"
 weight: "999"

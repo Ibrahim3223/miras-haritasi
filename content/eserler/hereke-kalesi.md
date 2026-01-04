@@ -5,10 +5,10 @@ slug: "hereke-kalesi"
 description: "## Hereke Kalesi: Kocaeli'nin Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Hereke_kalesi_(1)_01.jpg/1200px-Hereke_kalesi_(1)_01.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.612868,40.78424"
 draft: "false"
 weight: "10"

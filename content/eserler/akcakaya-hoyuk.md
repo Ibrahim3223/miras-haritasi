@@ -5,10 +5,10 @@ slug: "akcakaya-hoyuk"
 description: "## Akçakaya Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.457883,39.59485"
 draft: "false"
 weight: "999"

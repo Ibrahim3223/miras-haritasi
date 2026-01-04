@@ -5,10 +5,10 @@ slug: "agios-dimitrios-ta-selina"
 description: "## Agios Dimitrios ta Selina: Ayvalık'ta Bir Kıbrıs Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.655378,39.386373"
 draft: "false"
 weight: "999"

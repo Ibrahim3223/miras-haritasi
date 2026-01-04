@@ -5,10 +5,10 @@ slug: "egriova-hoyuk"
 description: "## Eğriova Höyük: Seyitgazi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.690129,39.307469"
 draft: "false"
 weight: "999"

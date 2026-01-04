@@ -5,10 +5,10 @@ slug: "alpullu-seker-fabrikasi-ergene-kosku"
 description: "## Alpullu Şeker Fabrikası Ergene Köşkü: Kırklareli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.149559374,41.366586278"
 draft: "false"
 weight: "999"

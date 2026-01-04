@@ -5,10 +5,10 @@ slug: "topluca-kilisesi"
 description: "## Topluca Kilisesi: Batman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.3857994,38.3852959"
 draft: "false"
 weight: "999"

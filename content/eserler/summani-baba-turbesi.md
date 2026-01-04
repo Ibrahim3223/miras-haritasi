@@ -5,10 +5,10 @@ slug: "summani-baba-turbesi"
 description: "## Sümmani Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Narman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.883303,40.376235"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "erikli-kilisesi"
 description: "### Erikli Kilisesi: Muğla'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0550003,37.3130989"
 draft: "false"
 weight: "999"

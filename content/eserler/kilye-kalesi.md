@@ -5,10 +5,10 @@ slug: "kilye-kalesi"
 description: "## Kilye Kalesi: Eceabat'ın Gizli Cenneti..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.3570328,40.2007828"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kapakli-soguksu-tumulusu"
 description: "### Kapaklı Soğuksu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3234653,41.9056473"
 draft: "false"
 weight: "999"

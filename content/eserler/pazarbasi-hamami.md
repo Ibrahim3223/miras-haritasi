@@ -5,10 +5,10 @@ slug: "pazarbasi-hamami"
 description: "## Pazarbaşı Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.9841385,39.5023727"
 draft: "false"
 weight: "999"

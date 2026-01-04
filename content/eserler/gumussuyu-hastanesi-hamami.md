@@ -5,10 +5,10 @@ slug: "gumussuyu-hastanesi-hamami"
 description: "## Gümüşsuyu Hastanesi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.990039,41.037993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osman-gazi-turbesi"
 description: "## Osman Gazi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.05732,40.186759"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ora-arena"
 description: "## Ora Arena: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bayrampaşa"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.886908,41.043067"
 draft: "false"
 weight: "999"

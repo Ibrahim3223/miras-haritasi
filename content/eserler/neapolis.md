@@ -5,10 +5,10 @@ slug: "neapolis"
 description: "### Neapolis: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.059723,41.12194"
 draft: "false"
 weight: "999"

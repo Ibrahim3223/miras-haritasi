@@ -5,10 +5,10 @@ slug: "eski-baglar-mevkii-tumulusu"
 description: "**Eski Bağlar Mevkii Tümülüsü: Çanakkale'nin Gizli Mirası**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.215139115,39.802568656"
 draft: "false"
 weight: "999"

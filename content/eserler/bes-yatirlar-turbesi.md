@@ -5,10 +5,10 @@ slug: "bes-yatirlar-turbesi"
 description: "## Beş Yatırlar Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.776728,39.226466"
 draft: "false"
 weight: "999"

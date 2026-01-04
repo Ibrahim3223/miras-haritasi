@@ -5,10 +5,10 @@ slug: "mevlana-fevzullah-cingilli-dede-turbesi"
 description: "## Mevlana Fevzullah Çingilli Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.326666666,37.901666666"
 draft: "false"
 weight: "999"

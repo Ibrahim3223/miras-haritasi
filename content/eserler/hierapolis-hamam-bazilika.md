@@ -5,10 +5,10 @@ slug: "hierapolis-hamam-bazilika"
 description: "# Hierapolis Hamam Bazilika: Pamukkale'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1213646,37.9335289"
 draft: "false"
 weight: "999"

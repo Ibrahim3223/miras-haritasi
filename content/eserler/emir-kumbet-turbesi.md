@@ -5,10 +5,10 @@ slug: "emir-kumbet-turbesi"
 description: "# Emir Kümbet Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Aybastı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.281353,40.6349754"
 draft: "false"
 weight: "999"

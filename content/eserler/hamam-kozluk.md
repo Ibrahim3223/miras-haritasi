@@ -5,10 +5,10 @@ slug: "hamam-kozluk"
 description: "### Hamam, Kozluk: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.4862785,38.1899986"
 draft: "false"
 weight: "999"

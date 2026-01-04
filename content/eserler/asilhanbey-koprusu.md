@@ -5,10 +5,10 @@ slug: "asilhanbey-koprusu"
 description: "## Asilhanbey Köprüsü..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.327292,39.832601"
 draft: "false"
 weight: "999"

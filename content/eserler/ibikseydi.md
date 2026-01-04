@@ -5,10 +5,10 @@ slug: "ibikseydi"
 description: "### İbikseydi Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.43435,39.56885"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emirler-hamami-bilecik"
 description: "## Emirler Hamamı, Bilecik..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9865303,40.1398888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "altintas-hoyuk"
 description: "### Altıntaş Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3076581,38.4028677"
 draft: "false"
 weight: "999"

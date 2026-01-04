@@ -5,10 +5,10 @@ slug: "topcam-hoyuk"
 description: "## Topçam Höyük: Çorum'un Gizli Harikası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4739342,40.5221672"
 draft: "false"
 weight: "999"

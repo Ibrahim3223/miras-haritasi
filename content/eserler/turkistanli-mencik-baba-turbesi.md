@@ -5,10 +5,10 @@ slug: "turkistanli-mencik-baba-turbesi"
 description: "## Türkistanlı Mencik Baba Türbesi..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9007797,36.9160767"
 draft: "false"
 weight: "999"

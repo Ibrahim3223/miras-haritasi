@@ -5,10 +5,10 @@ slug: "germiyanoglu-suleyman-sah-turbesi"
 description: "## Germiyanoğlu Süleyman Şah Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5358334,38.7540665"
 draft: "false"
 weight: "999"

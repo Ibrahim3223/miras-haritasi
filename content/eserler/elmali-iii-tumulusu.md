@@ -5,10 +5,10 @@ slug: "elmali-iii-tumulusu"
 description: "## Elmalı III Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.900148833,41.187940184"
 draft: "false"
 weight: "999"

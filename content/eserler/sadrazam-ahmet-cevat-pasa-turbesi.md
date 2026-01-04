@@ -5,10 +5,10 @@ slug: "sadrazam-ahmet-cevat-pasa-turbesi"
 description: "## Sadrazam Ahmet Cevat Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.946172,41.019944"
 draft: "false"
 weight: "999"

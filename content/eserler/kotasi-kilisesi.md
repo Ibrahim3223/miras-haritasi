@@ -5,10 +5,10 @@ slug: "kotasi-kilisesi"
 description: "## Kotasi Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Sabaholdu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.115222222,41.305666666"
 draft: "false"
 weight: "999"

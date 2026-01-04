@@ -5,10 +5,10 @@ slug: "sakarca-koyu-camii"
 description: "## Sakarca Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kızılırmak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0383797,40.3880081"
 draft: "false"
 weight: "999"

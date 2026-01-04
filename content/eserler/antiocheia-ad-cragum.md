@@ -5,10 +5,10 @@ slug: "antiocheia-ad-cragum"
 description: "### Antiocheia ad Cragum: Antalya'nın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/AntiochiaCr4.jpg/1200px-AntiochiaCr4.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.41602,36.15726"
 draft: "false"
 weight: "10"

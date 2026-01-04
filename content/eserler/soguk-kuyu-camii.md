@@ -5,10 +5,10 @@ slug: "soguk-kuyu-camii"
 description: "## Soğuk Kuyu Camii: Aydın'ın Tarihsel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4212646,37.9084702"
 draft: "false"
 weight: "999"

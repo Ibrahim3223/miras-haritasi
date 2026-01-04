@@ -5,10 +5,10 @@ slug: "yundalan-kucuk-kocara-1-tumulusu"
 description: "## Yündalan Küçük Koçara 1 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3431454,41.7542992"
 draft: "false"
 weight: "999"

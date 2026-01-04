@@ -5,10 +5,10 @@ slug: "seyh-zafir-turbesi"
 description: "## Şeyh Zafir Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Turbe_of_Sheikh_Zafir_Effendi_01.jpg/1200px-Turbe_of_Sheikh_Zafir_Effendi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.008439,41.045537"
 draft: "false"
 weight: "10"

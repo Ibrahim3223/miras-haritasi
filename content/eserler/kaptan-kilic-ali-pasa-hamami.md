@@ -5,10 +5,10 @@ slug: "kaptan-kilic-ali-pasa-hamami"
 description: "**Kaptan Kılıç Ali Paşa Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9805013,41.0262481"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "trapezus"
 description: "**Trapezus: Trabzon'un Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.718172,41.002662"
 draft: "false"
 weight: "999"

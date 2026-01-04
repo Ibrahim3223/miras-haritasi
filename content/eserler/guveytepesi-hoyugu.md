@@ -5,10 +5,10 @@ slug: "guveytepesi-hoyugu"
 description: "## Güveytepesi Höyüğü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6587677,40.6343575"
 draft: "false"
 weight: "999"

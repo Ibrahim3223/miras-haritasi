@@ -5,10 +5,10 @@ slug: "dogdu-hamami"
 description: "## Doğdu Hamamı: Tarifsiz Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8931046,40.8121872"
 draft: "false"
 weight: "999"

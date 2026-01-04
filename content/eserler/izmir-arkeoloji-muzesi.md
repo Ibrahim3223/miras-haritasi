@@ -5,10 +5,10 @@ slug: "izmir-arkeoloji-muzesi"
 description: "### İzmir Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Museo_archeologico_di_izmir,_veduta.JPG/1200px-Museo_archeologico_di_izmir,_veduta.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.128055555,38.413888888"
 draft: "false"
 weight: "10"

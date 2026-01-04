@@ -5,10 +5,10 @@ slug: "topcubasi-esat-aga-kabri"
 description: "### Topçubaşı Esat Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9205761,41.0406456"
 draft: "false"
 weight: "999"

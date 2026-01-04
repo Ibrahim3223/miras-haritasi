@@ -5,10 +5,10 @@ slug: "egrek-tepe-hoyuk"
 description: "# Eğrek Tepe Höyük: Çankırı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0407219,40.523468"
 draft: "false"
 weight: "999"

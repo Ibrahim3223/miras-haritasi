@@ -5,10 +5,10 @@ slug: "pedesa-t24-tumulusu"
 description: "### Pedesa T24 Tümülüsü: Bodrum'un Gizli Hazineleri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.428119271,37.060476774"
 draft: "false"
 weight: "999"

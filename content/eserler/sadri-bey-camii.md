@@ -5,10 +5,10 @@ slug: "sadri-bey-camii"
 description: "### Sadri Bey Camii: Vize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7646236,41.5771637"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamamtepesi-hoyuk"
 description: "### Hamamtepesi Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.413233,39.404467"
 draft: "false"
 weight: "999"

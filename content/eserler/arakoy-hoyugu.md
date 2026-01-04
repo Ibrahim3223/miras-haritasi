@@ -5,10 +5,10 @@ slug: "arakoy-hoyugu"
 description: "## Araköy Höyüğü: Mardin'in Gizli Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.530042882,37.205722043"
 draft: "false"
 weight: "999"

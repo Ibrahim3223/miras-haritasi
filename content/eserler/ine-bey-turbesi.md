@@ -5,10 +5,10 @@ slug: "ine-bey-turbesi"
 description: "**İne Bey Türbesi: Balıkesir'in Tarihi Mirası**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Kepsut"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.169947656,39.710032613"
 draft: "false"
 weight: "999"

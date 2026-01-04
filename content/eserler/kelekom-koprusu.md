@@ -5,10 +5,10 @@ slug: "kelekom-koprusu"
 description: "## Kelekom Köprüsü..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Başkale"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "44.092408896,37.951427769"
 draft: "false"
 weight: "999"

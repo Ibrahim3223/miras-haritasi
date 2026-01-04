@@ -5,10 +5,10 @@ slug: "buhye-camii"
 description: "## Buhye Camii: Balıkesir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.86102,40.341284"
 draft: "false"
 weight: "999"

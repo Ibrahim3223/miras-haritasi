@@ -5,10 +5,10 @@ slug: "kizlar-sarayi"
 description: "### Kızlar Sarayı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "35.830047474,40.653398215"
 draft: "false"
 weight: "999"

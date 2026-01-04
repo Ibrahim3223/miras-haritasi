@@ -5,10 +5,10 @@ slug: "develi-ulu-camii"
 description: "## Develi Ulu Camii: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.491626,38.360934"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "serbostani-mustafa-aga-camii"
 description: "## Serbostani Mustafa Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Serbostani_Mustafa_Ağa_Camii_-_İçi.jpeg/1200px-Serbostani_Mustafa_Ağa_Camii_-_İçi.jpeg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.092412,41.133761"
 draft: "false"
 weight: "10"

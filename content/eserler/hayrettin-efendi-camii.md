@@ -5,10 +5,10 @@ slug: "hayrettin-efendi-camii"
 description: "### Hayrettin Efendi Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0596008,38.0791016"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasan-efendi-turbesi"
 description: "## Hasan Efendi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.654935,39.04532"
 draft: "false"
 weight: "999"

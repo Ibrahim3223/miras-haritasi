@@ -5,10 +5,10 @@ slug: "gog-hoyuk"
 description: "## Göğ Höyük Arkeolojik Siti..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3116251,39.5137555"
 draft: "false"
 weight: "999"

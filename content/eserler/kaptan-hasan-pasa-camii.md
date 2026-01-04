@@ -5,10 +5,10 @@ slug: "kaptan-hasan-pasa-camii"
 description: "## Kaptan Hasan Paşa Camii: Kadıköy'ün Gizli Çehresinde Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2021-03-14--Hasan_Pasa_Cami_69.jpg/1200px-2021-03-14--Hasan_Pasa_Cami_69.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0392,40.9948"
 draft: "false"
 weight: "10"

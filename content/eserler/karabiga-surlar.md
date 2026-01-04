@@ -5,10 +5,10 @@ slug: "karabiga-surlar"
 description: "## Karabiga Surlar: Bir Tarih Öncesi Kale..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.324114,40.412303"
 draft: "false"
 weight: "999"

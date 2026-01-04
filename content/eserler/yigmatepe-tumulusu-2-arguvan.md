@@ -5,10 +5,10 @@ slug: "yigmatepe-tumulusu-2-arguvan"
 description: "**Yığmatepe Tümülüsü 2: Arguvan'ın Gizli Mirası**..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1524696,38.8240204"
 draft: "false"
 weight: "999"

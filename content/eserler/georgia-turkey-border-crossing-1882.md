@@ -5,10 +5,10 @@ slug: "georgia-turkey-border-crossing-1882"
 description: "## Georgia-Türkiye Sınır Kapısı #1882 Kervansarayı: Tarihi Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "41.557516492,41.519849021"
 draft: "false"
 weight: "999"

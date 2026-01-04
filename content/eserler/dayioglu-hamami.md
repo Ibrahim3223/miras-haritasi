@@ -5,10 +5,10 @@ slug: "dayioglu-hamami"
 description: "## Dayıoğlu Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0729294,40.1849022"
 draft: "false"
 weight: "999"

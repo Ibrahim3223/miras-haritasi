@@ -5,10 +5,10 @@ slug: "hamzabey-ceylan-tumulusu"
 description: "**Hamzabey Ceylan Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4138889,41.5163879"
 draft: "false"
 weight: "999"

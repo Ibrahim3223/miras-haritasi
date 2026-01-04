@@ -5,10 +5,10 @@ slug: "musa-sinagogu-kirklareli"
 description: "## Musa Sinagogu: Kırklareli'nin Tarihi Kırmızısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Musa_Sinagogu,_Kırklareli_-_20250601203027.jpg/1200px-Musa_Sinagogu,_Kırklareli_-_20250601203027.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli ilçesi"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.22398725,41.73496486"
 draft: "false"
 weight: "10"

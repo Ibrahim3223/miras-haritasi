@@ -5,10 +5,10 @@ slug: "mesehor-mevkii-kilisesi"
 description: "## Mesehor Mevkii Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.350774,40.545939"
 draft: "false"
 weight: "999"

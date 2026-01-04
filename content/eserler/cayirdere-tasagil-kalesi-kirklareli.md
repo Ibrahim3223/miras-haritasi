@@ -5,10 +5,10 @@ slug: "cayirdere-tasagil-kalesi-kirklareli"
 description: "## Çayırdere Taşağıl Kalesi: Kırklareli'nin Gizli Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5258293,41.6966858"
 draft: "false"
 weight: "999"

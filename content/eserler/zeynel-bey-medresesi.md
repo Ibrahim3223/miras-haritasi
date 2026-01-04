@@ -5,10 +5,10 @@ slug: "zeynel-bey-medresesi"
 description: "### Zeynel Bey Medresesi Tanıtımı..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "43.7415009,37.5625687"
 draft: "false"
 weight: "999"

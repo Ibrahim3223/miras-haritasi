@@ -5,10 +5,10 @@ slug: "tataleti-kilisesi"
 description: "## Tataleti Kilisesi: Eski Çağın Gizemi..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Baltalı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.118972222,41.332805555"
 draft: "false"
 weight: "999"

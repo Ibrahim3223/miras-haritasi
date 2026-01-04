@@ -5,10 +5,10 @@ slug: "hadimoglu-konagi-turk-evi-etnografya-muzesi"
 description: "## Hadımoğlu Konağı Türk Evi Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.611705,39.810317"
 draft: "false"
 weight: "999"

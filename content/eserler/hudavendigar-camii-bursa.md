@@ -5,10 +5,10 @@ slug: "hudavendigar-camii-bursa"
 description: "### Hüdavendigar Camii: Bursa'nın Tarihi Örenliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Hudavendigar_Mosque_6044.jpg/1200px-Hudavendigar_Mosque_6044.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0211449,40.2024155"
 draft: "false"
 weight: "10"

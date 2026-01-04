@@ -5,10 +5,10 @@ slug: "surp-hac-kilisesi"
 description: "## Surp Haç Kilisesi: İnceleme ve Tanıtım..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Surp_Hac_Kilisesi.jpg/1200px-Surp_Hac_Kilisesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.030601,41.024812"
 draft: "false"
 weight: "10"

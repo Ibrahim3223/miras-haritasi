@@ -5,10 +5,10 @@ slug: "nikfer-hoyuk"
 description: "## Nikfer Höyük: Tavas'ın Eski Yerleşimi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1191006,37.3830986"
 draft: "false"
 weight: "999"

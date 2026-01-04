@@ -5,10 +5,10 @@ slug: "anavarza-kalesi-ve-oren-yeri"
 description: "## Anavarza Kalesi ve Ören Yeri..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.905766,37.254619"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "odtu-jeoloji-muzesi"
 description: "# ODTÜ Jeoloji Müzesi: Doğanın Gizemlerini Açıklama..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

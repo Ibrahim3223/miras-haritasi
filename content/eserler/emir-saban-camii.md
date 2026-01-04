@@ -5,10 +5,10 @@ slug: "emir-saban-camii"
 description: "## Emir Şaban Camii: Hakkari'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Çukurca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.6121979,37.2464523"
 draft: "false"
 weight: "999"

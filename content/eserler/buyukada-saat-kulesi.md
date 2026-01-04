@@ -5,10 +5,10 @@ slug: "buyukada-saat-kulesi"
 description: "## Büyükada Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/IstanbulPrinceIslandSq.jpg/1200px-IstanbulPrinceIslandSq.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükada"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "29.128583333,40.874111111"
 draft: "false"
 weight: "10"

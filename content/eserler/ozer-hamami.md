@@ -5,10 +5,10 @@ slug: "ozer-hamami"
 description: "## Özer Hamamı: Uşak'taki Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4031792,38.6781006"
 draft: "false"
 weight: "999"

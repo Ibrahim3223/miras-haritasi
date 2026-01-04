@@ -5,10 +5,10 @@ slug: "dirlik-koyu-camii"
 description: "## Dirlik Köyü Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Sürmene"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.1321869,40.8679962"
 draft: "false"
 weight: "999"

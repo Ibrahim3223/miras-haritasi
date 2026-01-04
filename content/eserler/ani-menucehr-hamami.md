@@ -5,10 +5,10 @@ slug: "ani-menucehr-hamami"
 description: "## Ani Menuçehr Hamamı..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "43.5743942,40.5062256"
 draft: "false"
 weight: "999"

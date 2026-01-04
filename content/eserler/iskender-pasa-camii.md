@@ -5,10 +5,10 @@ slug: "iskender-pasa-camii"
 description: "## İskender Paşa Camii: Tarihi Miras ve Mimari Çeşitleme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Diyarbakır_Iskender_Paşa_Mosque_7711.jpg/1200px-Diyarbakır_Iskender_Paşa_Mosque_7711.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2332152,37.9135"
 draft: "false"
 weight: "10"

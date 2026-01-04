@@ -5,10 +5,10 @@ slug: "gulgun-hatun-mescidi"
 description: "## Gülgün Hatun Mescidi: Manisa'nın Gizli Çeşm-i Büyüklüğü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.422858755,38.605903221"
 draft: "false"
 weight: "999"

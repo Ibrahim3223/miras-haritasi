@@ -5,10 +5,10 @@ slug: "salih-bey-camii"
 description: "## Salih Bey Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.832975,41.183659"
 draft: "false"
 weight: "999"

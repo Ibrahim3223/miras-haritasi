@@ -5,10 +5,10 @@ slug: "yahya-pasa-camii-nazilli"
 description: "### Yahya Paşa Camii (Nazilli)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3245354,37.9024391"
 draft: "false"
 weight: "999"

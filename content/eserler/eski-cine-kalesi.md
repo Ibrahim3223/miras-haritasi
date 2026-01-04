@@ -5,10 +5,10 @@ slug: "eski-cine-kalesi"
 description: "## Eski Çine Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.0706005,37.5383987"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aziziye-tiyatrosu"
 description: "## Aziziye Tiyatrosu: Üsküdar'ın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aziziye_Theatre_-_Jacq._Pervititch_%28cropped%29.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.037861111,41.026388888"
 draft: "false"
 weight: "999"

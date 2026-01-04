@@ -5,10 +5,10 @@ slug: "amasra-kalesi"
 description: "## Amasra Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Amasra_193.JPG/1200px-Amasra_193.JPG"
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Amasra"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.386666666,41.749722222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "edirne-vakiflar-bolge-mudurlugu-binasi"
 description: "## Edirne Vakıflar Bölge Müdürlüğü Binası: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Edirne_Vakıflar_Bölge_Müdürlüğü_Binası.jpg/1200px-Edirne_Vakıflar_Bölge_Müdürlüğü_Binası.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5563469,41.6763802"
 draft: "false"
 weight: "10"

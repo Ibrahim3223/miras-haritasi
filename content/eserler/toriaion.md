@@ -5,10 +5,10 @@ slug: "toriaion"
 description: "### Toriaion: Kıbrıs'in Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.919444,36.951111"
 draft: "false"
 weight: "999"

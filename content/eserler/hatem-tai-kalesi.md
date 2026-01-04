@@ -5,10 +5,10 @@ slug: "hatem-tai-kalesi"
 description: "## Hatem Tai Kalesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Nusaybin"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.6540146,37.2432632"
 draft: "false"
 weight: "999"

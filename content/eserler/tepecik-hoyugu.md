@@ -5,10 +5,10 @@ slug: "tepecik-hoyugu"
 description: "## Tepecik Höyüğü: Lice'nin Gizli Tarihi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Lice"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.737568,38.386547"
 draft: "false"
 weight: "999"

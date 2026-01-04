@@ -5,10 +5,10 @@ slug: "ihlamur-kasri"
 description: "#### Ihlamur Kasrı: İstanbul'un Şöhretli Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ihlamur_Palace_Ceremonial_House_01.jpg/1200px-Ihlamur_Palace_Ceremonial_House_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.001175,41.050747"
 draft: "false"
 weight: "10"

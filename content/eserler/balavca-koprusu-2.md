@@ -5,10 +5,10 @@ slug: "balavca-koprusu-2"
 description: "### Balavca Köprüsü 2..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7842731,37.3145676"
 draft: "false"
 weight: "999"

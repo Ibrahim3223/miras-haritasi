@@ -5,10 +5,10 @@ slug: "korint-baslikli-su-tulumbasi-kursunlu-han"
 description: "## Korint Başlıklı Su Tulumbası: Kurşunlu Han'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.972542033,41.022445412"
 draft: "false"
 weight: "999"

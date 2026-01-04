@@ -5,10 +5,10 @@ slug: "iskenderli-koprusu-1"
 description: "## İskenderli Köprüsü 1: Tonya'nın Tarihi Çatısı..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Tonya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.236957,40.941042"
 draft: "false"
 weight: "999"

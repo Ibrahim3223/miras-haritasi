@@ -5,10 +5,10 @@ slug: "panayia-meryem-ana-kilisesi"
 description: "## Panayia (Meryem Ana) Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.129118,40.874218"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-keramettin-turbesi"
 description: "### Şeyh Keramettin Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.30117,40.888572"
 draft: "false"
 weight: "999"

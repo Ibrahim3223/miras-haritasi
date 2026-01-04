@@ -5,10 +5,10 @@ slug: "alaaddin-efendi-turbesi"
 description: "## Alaaddin Efendi Türbesi: Kastamonu'nun Değerli Hazinesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.773815,41.381144"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "antalya-tekelioglu-il-halk-kutuphanesi"
 description: "### Antalya Tekelioğlu İl Halk Kütüphanesi: Tarihe ve Kültür Mirasına Bir Örnek..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.7039223,36.8881264"
 draft: "false"
 weight: "999"

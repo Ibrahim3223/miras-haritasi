@@ -5,10 +5,10 @@ slug: "hasanaga-camii"
 description: "## Hasanağa Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.721876,41.007813"
 draft: "false"
 weight: "999"

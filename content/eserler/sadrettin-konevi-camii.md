@@ -5,10 +5,10 @@ slug: "sadrettin-konevi-camii"
 description: "## Sadrettin Konevi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Şeyh_Sadrettin_-_panoramio.jpg/1200px-Şeyh_Sadrettin_-_panoramio.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.482694444,37.869194444"
 draft: "false"
 weight: "10"

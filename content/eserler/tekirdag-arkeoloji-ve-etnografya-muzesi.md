@@ -5,10 +5,10 @@ slug: "tekirdag-arkeoloji-ve-etnografya-muzesi"
 description: "## Tekirdağ Arkeoloji ve Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tekirdağ_Museum_of_Archaeology_and_Ethnography_(02).JPG/1200px-Tekirdağ_Museum_of_Archaeology_and_Ethnography_(02).JPG"
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Tekirdağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.5125,40.975555555"
 draft: "false"
 weight: "10"

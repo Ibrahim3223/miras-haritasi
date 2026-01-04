@@ -5,10 +5,10 @@ slug: "altiparmak-yeni-camii"
 description: "## Altıparmak Yeni Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.389494,40.970234"
 draft: "false"
 weight: "999"

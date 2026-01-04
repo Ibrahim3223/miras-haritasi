@@ -5,10 +5,10 @@ slug: "namazgh-hamami"
 description: "## Namazgâh Hamamı: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.139694444,38.418111111"
 draft: "false"
 weight: "999"

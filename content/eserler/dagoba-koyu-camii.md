@@ -5,10 +5,10 @@ slug: "dagoba-koyu-camii"
 description: "## Dağoba Köyü Camii: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8257866,39.7781906"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ciplak-ada-kalesi"
 description: "## Çıplak Ada Kalesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.598206,39.282925"
 draft: "false"
 weight: "999"

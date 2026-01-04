@@ -5,10 +5,10 @@ slug: "adahoyuk"
 description: "## Adahöyük: Kahramanmaraş'taki Eski Yerleşme..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0322304,37.3661919"
 draft: "false"
 weight: "999"

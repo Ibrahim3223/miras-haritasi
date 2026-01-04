@@ -5,10 +5,10 @@ slug: "limyra-antik-tiyatrosu"
 description: "## Limyra Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.170463,36.343082"
 draft: "false"
 weight: "999"

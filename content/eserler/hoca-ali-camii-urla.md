@@ -5,10 +5,10 @@ slug: "hoca-ali-camii-urla"
 description: "## Hoca Ali Camii, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.768053,38.32247"
 draft: "false"
 weight: "999"

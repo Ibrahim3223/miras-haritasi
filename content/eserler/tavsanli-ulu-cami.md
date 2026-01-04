@@ -5,10 +5,10 @@ slug: "tavsanli-ulu-cami"
 description: "## Tavşanlı Ulu Cami: Kütahya'nın Önemli Camisi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.491916666,39.545444444"
 draft: "false"
 weight: "999"

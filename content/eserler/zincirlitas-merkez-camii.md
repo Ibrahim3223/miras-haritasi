@@ -5,10 +5,10 @@ slug: "zincirlitas-merkez-camii"
 description: "## Zincirlitaş Merkez Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.248024314,40.790811701"
 draft: "false"
 weight: "999"

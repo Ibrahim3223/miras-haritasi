@@ -5,10 +5,10 @@ slug: "kasimzade-ahmet-sofi-camii"
 description: "## Kasımzade Ahmet Sofi Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.115865,41.139585"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "stadiasmus-patarensis"
 description: "**Stadiasmus Patarensis: Kaş'ın Tarihi ve Kültürel Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/PataraRoadMonumentScaled.jpg/1200px-PataraRoadMonumentScaled.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.315733,36.2639275"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "imam-birgivi-mezari"
 description: "## İmam Birgivi Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0702,38.2622"
 draft: "false"
 weight: "999"

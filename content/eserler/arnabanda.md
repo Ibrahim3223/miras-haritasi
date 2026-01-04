@@ -5,10 +5,10 @@ slug: "arnabanda"
 description: "# Arnabanda: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.90196,36.32842"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karaman-nuh-pasa-camii"
 description: "## Karaman Nuh Paşa Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2220879,37.1753044"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pinarhisar-pinaryolu-tumulusu"
 description: "## Pınarhisar Pınaryolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5496254,41.6022911"
 draft: "false"
 weight: "999"

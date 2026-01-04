@@ -5,10 +5,10 @@ slug: "imam-caferi-sadik-tayyar-turbesi"
 description: "## İmam Caferi Sadık Tayyar Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1450462,38.4182587"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tijentepe-hoyugu"
 description: "### Tijentepe Höyüğü: Manisa'nın Gizli İncisi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6864185,38.5563698"
 draft: "false"
 weight: "999"

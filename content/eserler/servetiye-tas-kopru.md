@@ -5,10 +5,10 @@ slug: "servetiye-tas-kopru"
 description: "### Servetiye Taş Köprü..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Başiskele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.9417191,40.6426392"
 draft: "false"
 weight: "999"

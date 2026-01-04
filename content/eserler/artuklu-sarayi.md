@@ -5,10 +5,10 @@ slug: "artuklu-sarayi"
 description: "## Artuklu Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hefsel_Bahçesii.jpg/1200px-Hefsel_Bahçesii.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.2417,37.91629"
 draft: "false"
 weight: "10"

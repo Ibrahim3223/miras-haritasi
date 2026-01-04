@@ -5,10 +5,10 @@ slug: "yoguntas-cifte-tumulusler-bati"
 description: "# Yoğuntaş Çifte Tümülüsler Batı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0049038,41.8213425"
 draft: "false"
 weight: "999"

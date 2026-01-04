@@ -5,10 +5,10 @@ slug: "elvanzade-camii"
 description: "## Elvanzade Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.959998,41.021702"
 draft: "false"
 weight: "999"

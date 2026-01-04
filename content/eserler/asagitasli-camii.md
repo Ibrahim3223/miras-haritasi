@@ -5,10 +5,10 @@ slug: "asagitasli-camii"
 description: "# Aşağıtaslı Camii: Çorum'un Önemli Tarihi Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4771423,40.7374306"
 draft: "false"
 weight: "999"

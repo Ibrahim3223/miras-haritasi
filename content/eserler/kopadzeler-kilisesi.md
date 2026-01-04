@@ -5,10 +5,10 @@ slug: "kopadzeler-kilisesi"
 description: "## Kopadzeler Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Meşeli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.458191666,41.302411111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yalova-kent-muzesi"
 description: "## Yalova Kent Müzesi: Yalova'nın Kültür Mirasının Merkezinde..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.2700787,40.6587753"
 draft: "false"
 weight: "999"

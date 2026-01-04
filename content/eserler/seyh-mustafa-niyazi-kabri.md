@@ -5,10 +5,10 @@ slug: "seyh-mustafa-niyazi-kabri"
 description: "## Şeyh Mustafa Niyazi Kabri: Fatih'in Gizli Şehri'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9322128,41.0192032"
 draft: "false"
 weight: "999"

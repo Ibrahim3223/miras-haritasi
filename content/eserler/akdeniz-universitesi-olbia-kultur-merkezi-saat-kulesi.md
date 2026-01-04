@@ -5,10 +5,10 @@ slug: "akdeniz-universitesi-olbia-kultur-merkezi-saat-kulesi"
 description: "# Akdeniz Üniversitesi Olbia Kültür Merkezi Saat Kulesi..."
 featured_image: ""
 province: "Konyaaltı"
-iller: '["Konyaaltı"]'
+iller: ["Konyaaltı"]
 district: "Pınarbaşı (Elmalı)"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "30.659416666,36.893111111"
 draft: "false"
 weight: "999"

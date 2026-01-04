@@ -5,10 +5,10 @@ slug: "demircioren-koyu-camii"
 description: "## Demirciören Köyü Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2136269,40.7384796"
 draft: "false"
 weight: "999"

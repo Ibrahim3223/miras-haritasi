@@ -5,10 +5,10 @@ slug: "misis-koprusu"
 description: "**Misis Köprüsü: Geçmişi ve Günceli**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/MisisBrücke.jpg/1200px-MisisBrücke.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.62591,36.95673"
 draft: "false"
 weight: "10"

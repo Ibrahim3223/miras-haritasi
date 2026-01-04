@@ -5,10 +5,10 @@ slug: "ayse-baci-camii"
 description: "# Ayşe Bacı Camii..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3736916,37.0565338"
 draft: "false"
 weight: "999"

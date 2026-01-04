@@ -5,10 +5,10 @@ slug: "hoca-taskin-camii"
 description: "### Hoca Taşkın Camii: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bursa,_Turkey_-_panoramio_(33).jpg/1200px-Bursa,_Turkey_-_panoramio_(33).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0777645,40.180809"
 draft: "false"
 weight: "10"

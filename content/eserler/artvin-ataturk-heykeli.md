@@ -5,10 +5,10 @@ slug: "artvin-ataturk-heykeli"
 description: "## Artvin Atatürk Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Atatürk_Monument_in_Artvin_as_seen_from_a_distance.jpg/1200px-Atatürk_Monument_in_Artvin_as_seen_from_a_distance.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.829055555,41.170833333"
 draft: "false"
 weight: "10"

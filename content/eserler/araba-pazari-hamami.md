@@ -5,10 +5,10 @@ slug: "araba-pazari-hamami"
 description: "### Araba Pazarı Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Kastamonu5.jpg/1200px-Kastamonu5.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.772,41.378361111"
 draft: "false"
 weight: "10"

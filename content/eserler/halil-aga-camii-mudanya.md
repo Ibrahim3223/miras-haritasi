@@ -5,10 +5,10 @@ slug: "halil-aga-camii-mudanya"
 description: "### Halil Ağa Camii, Mudanya..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.882949,40.377866"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "homana"
 description: "## Homana Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.027899,37.24819"
 draft: "false"
 weight: "999"

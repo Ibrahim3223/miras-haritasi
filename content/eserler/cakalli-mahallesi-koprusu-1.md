@@ -5,10 +5,10 @@ slug: "cakalli-mahallesi-koprusu-1"
 description: "## Çakallı Mahallesi Köprüsü 1: Samsun'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.080492,41.120204"
 draft: "false"
 weight: "999"

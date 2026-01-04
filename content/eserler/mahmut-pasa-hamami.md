@@ -5,10 +5,10 @@ slug: "mahmut-pasa-hamami"
 description: "## Mahmut Paşa Hamamı: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.980175,37.0289993"
 draft: "false"
 weight: "999"

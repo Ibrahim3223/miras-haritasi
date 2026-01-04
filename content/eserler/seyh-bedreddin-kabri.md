@@ -5,10 +5,10 @@ slug: "seyh-bedreddin-kabri"
 description: "## Şeyh Bedreddin Kabri: İstanbul'un Gizli Değerleri Arasındaki Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9726944,41.0087204"
 draft: "false"
 weight: "999"

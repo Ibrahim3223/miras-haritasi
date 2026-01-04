@@ -5,10 +5,10 @@ slug: "palu-kucuk-cami"
 description: "### Palu Küçük Cami Tanıtımı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.9528622,38.6994146"
 draft: "false"
 weight: "999"

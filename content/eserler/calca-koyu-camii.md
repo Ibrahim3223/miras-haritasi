@@ -5,10 +5,10 @@ slug: "calca-koyu-camii"
 description: "## Çalca Köyü Camii: Giresun'un Gizli Çehresine Bir Öykü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4740143,40.7788315"
 draft: "false"
 weight: "999"

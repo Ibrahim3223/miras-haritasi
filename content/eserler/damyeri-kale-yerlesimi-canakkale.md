@@ -5,10 +5,10 @@ slug: "damyeri-kale-yerlesimi-canakkale"
 description: "## Damyeri Kale Yerleşimi: Çanakkale'nin Gizli Kahramanları..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.5546398,40.1742897"
 draft: "false"
 weight: "999"

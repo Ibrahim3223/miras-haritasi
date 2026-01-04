@@ -5,10 +5,10 @@ slug: "kasapbasi-demirhan-kabri"
 description: "## Kasapbaşı Demirhan Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9574146,41.0206871"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehzade-selim-turbesi"
 description: "### Şehzade Selim Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5597324,41.6777496"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarlak-hoyuk"
 description: "# Sarlak Höyük..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9271169,37.5995551"
 draft: "false"
 weight: "999"

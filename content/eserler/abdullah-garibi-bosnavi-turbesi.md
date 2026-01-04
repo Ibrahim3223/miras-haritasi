@@ -5,10 +5,10 @@ slug: "abdullah-garibi-bosnavi-turbesi"
 description: "## Abdullah Garibi Bosnavi Türbesi: Meram, Konya'da Bir Tarihsel Anıtlar Arasındaki Değer..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4817,37.868559"
 draft: "false"
 weight: "999"

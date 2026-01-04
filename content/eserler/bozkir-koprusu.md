@@ -5,10 +5,10 @@ slug: "bozkir-koprusu"
 description: "### Bozkır Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Bozkır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.246836,37.190134"
 draft: "false"
 weight: "999"

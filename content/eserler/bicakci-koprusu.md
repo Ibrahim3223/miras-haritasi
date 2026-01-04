@@ -5,10 +5,10 @@ slug: "bicakci-koprusu"
 description: "# Bıçakçı Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.039,36.9473"
 draft: "false"
 weight: "999"

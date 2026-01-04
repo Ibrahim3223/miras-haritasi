@@ -5,10 +5,10 @@ slug: "gazi-suleyman-pasa-camii-safranbolu"
 description: "## Gazi Süleyman Paşa Camii, Safranbolu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Gazi_Süleyman_Paşa_Camii,_Safranbolu.jpg/1200px-Gazi_Süleyman_Paşa_Camii,_Safranbolu.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.691138888,41.243472222"
 draft: "false"
 weight: "10"

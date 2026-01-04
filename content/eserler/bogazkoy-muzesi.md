@@ -5,10 +5,10 @@ slug: "bogazkoy-muzesi"
 description: "## Boğazköy Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Museum_Hattusa_-_Boğazköy_Museum,_Boğazköy,_Çorum,_Turkey_01.jpg/1200px-Museum_Hattusa_-_Boğazköy_Museum,_Boğazköy,_Çorum,_Turkey_01.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Boğazkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.6081772,40.0252571"
 draft: "false"
 weight: "10"

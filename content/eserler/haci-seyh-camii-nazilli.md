@@ -5,10 +5,10 @@ slug: "haci-seyh-camii-nazilli"
 description: "## Hacı Şeyh Camii, Nazilli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.326889,37.922184"
 draft: "false"
 weight: "999"

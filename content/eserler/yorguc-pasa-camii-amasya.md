@@ -5,10 +5,10 @@ slug: "yorguc-pasa-camii-amasya"
 description: "## Yörgüç Paşa Camii: Amasya'nın Tarihi Bir Ögesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8203278,40.6505127"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balikli-camii-kutahya"
 description: "### Balıklı Camii: Kütahya'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9792309,39.4200058"
 draft: "false"
 weight: "999"

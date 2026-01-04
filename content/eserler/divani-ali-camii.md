@@ -5,10 +5,10 @@ slug: "divani-ali-camii"
 description: "### Divanı Ali Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.96752,41.007656"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kiz-ciftligi"
 description: "## Kız Çiftliği: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gömeç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8034449,39.3880894"
 draft: "false"
 weight: "999"

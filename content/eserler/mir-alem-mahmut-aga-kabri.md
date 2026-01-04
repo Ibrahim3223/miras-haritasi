@@ -5,10 +5,10 @@ slug: "mir-alem-mahmut-aga-kabri"
 description: "## Mir Alem Mahmut Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9537315,41.0101662"
 draft: "false"
 weight: "999"

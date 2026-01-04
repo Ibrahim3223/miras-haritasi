@@ -5,10 +5,10 @@ slug: "surp-hiresdagabed-kilisesi"
 description: "### Surp Hıreşdagabed Kilisesi: İstanbul'un Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Surp_Hreşdagabet_Kilisesi2.jpg/1200px-Surp_Hreşdagabet_Kilisesi2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.945486,41.033867"
 draft: "false"
 weight: "10"

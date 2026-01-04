@@ -5,10 +5,10 @@ slug: "callum"
 description: "## Callum Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.418437,41.051365"
 draft: "false"
 weight: "999"

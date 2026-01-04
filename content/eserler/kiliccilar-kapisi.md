@@ -5,10 +5,10 @@ slug: "kiliccilar-kapisi"
 description: "### Kılıççılar Kapısı: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9698505,41.0106087"
 draft: "false"
 weight: "999"

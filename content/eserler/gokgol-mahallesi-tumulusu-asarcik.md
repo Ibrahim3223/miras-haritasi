@@ -5,10 +5,10 @@ slug: "gokgol-mahallesi-tumulusu-asarcik"
 description: "# Gökgöl Mahallesi Tümülüsü, Asarcık..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.269649,41.01746"
 draft: "false"
 weight: "999"

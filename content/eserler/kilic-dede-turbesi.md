@@ -5,10 +5,10 @@ slug: "kilic-dede-turbesi"
 description: "### Kılıç Dede Türbesi: Merzifon'un Tarihi bir Anıtı..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.459672,40.875744"
 draft: "false"
 weight: "999"

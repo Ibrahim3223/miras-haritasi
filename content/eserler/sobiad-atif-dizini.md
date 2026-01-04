@@ -5,10 +5,10 @@ slug: "sobiad-atif-dizini"
 description: "## Sobiad Atıf Dizini..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

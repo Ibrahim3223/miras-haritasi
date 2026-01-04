@@ -5,10 +5,10 @@ slug: "yenikapi-rum-ortodoks-kilisesi"
 description: "## Yenikapı Rum Ortodoks Kilisesi: Antalya'nın Gizli Çehresinde Bir İncil..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.7070065,36.8823853"
 draft: "false"
 weight: "999"

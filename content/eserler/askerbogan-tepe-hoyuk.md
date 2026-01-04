@@ -5,10 +5,10 @@ slug: "askerbogan-tepe-hoyuk"
 description: "## Askerboğan Tepe Höyük: Tarih ve Kültürel Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0853119,40.567585"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "evliya-bey-medresesi-gurpinar"
 description: "### Evliya Bey Medresesi: Gürpınar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.8011665,38.314888"
 draft: "false"
 weight: "999"

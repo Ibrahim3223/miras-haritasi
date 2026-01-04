@@ -5,10 +5,10 @@ slug: "ayios-panteleimon-rum-ortodoks-kilisesi-kuzguncuk"
 description: "## Ayios Panteleimon Rum Ortodoks Kilisesi, Kuzguncuk..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Kuzguncuk_Greek_Orthodox_Church02_(34243603782).jpg/1200px-Kuzguncuk_Greek_Orthodox_Church02_(34243603782).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.03027778,41.03444444"
 draft: "false"
 weight: "10"

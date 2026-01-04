@@ -5,10 +5,10 @@ slug: "islm-tarih-sanat-ve-kultur-arastirma-merkezi"
 description: "### İslâm Tarih, Sanat ve Kültür Araştırma Merkezi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.01111111,41.04944444"
 draft: "false"
 weight: "999"

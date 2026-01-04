@@ -5,10 +5,10 @@ slug: "kayseri-ulu-camii"
 description: "## Kayseri Ulu Camii: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Kayseri_Ulu_Cami_DSCF1080.jpg/1200px-Kayseri_Ulu_Cami_DSCF1080.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kayseri"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4857,38.7199"
 draft: "false"
 weight: "10"

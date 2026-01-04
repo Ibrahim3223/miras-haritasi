@@ -5,10 +5,10 @@ slug: "okcular-koyu-turbesi"
 description: "## Okçular Köyü Türbesi: Tarihi ve Kültürel Mirasın Örnekleri Arasından Bir..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.039751495,40.379998706"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seker-hoca-turbesi"
 description: "## Şeker Hoca Türbesi: Bursa'nın Efsanevi Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0618935,40.1827888"
 draft: "false"
 weight: "999"

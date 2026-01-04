@@ -5,10 +5,10 @@ slug: "or-hodes-sinagogu"
 description: "### Or Hodeş Sinagogu: İstanbul'un Eski Çağlardan Kalan Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Istanbul_photos_by_J.Lubbock_2014_314.jpg/1200px-Istanbul_photos_by_J.Lubbock_2014_314.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.975699087,41.024837"
 draft: "false"
 weight: "10"

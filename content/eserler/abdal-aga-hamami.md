@@ -5,10 +5,10 @@ slug: "abdal-aga-hamami"
 description: "### Abdal Ağa Hamamı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.3177223,37.7542458"
 draft: "false"
 weight: "999"

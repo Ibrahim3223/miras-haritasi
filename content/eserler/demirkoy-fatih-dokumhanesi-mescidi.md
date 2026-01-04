@@ -5,10 +5,10 @@ slug: "demirkoy-fatih-dokumhanesi-mescidi"
 description: "## Demirköy Fatih Dökümhanesi Mescidi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8137569,41.8171768"
 draft: "false"
 weight: "999"

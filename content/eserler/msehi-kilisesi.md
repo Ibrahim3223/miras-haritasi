@@ -5,10 +5,10 @@ slug: "msehi-kilisesi"
 description: "## Mşehi Kilisesi: Ermeni Kilisesi ve Tarihi Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.509775,40.714869444"
 draft: "false"
 weight: "999"

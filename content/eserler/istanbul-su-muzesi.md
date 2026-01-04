@@ -5,10 +5,10 @@ slug: "istanbul-su-muzesi"
 description: "## İstanbul Su Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Başakşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.7896099,41.0926933"
 draft: "false"
 weight: "999"

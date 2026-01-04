@@ -5,10 +5,10 @@ slug: "iasos-antik-tiyatrosu"
 description: "## Iasos Antik Tiyatrosu Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.586174,37.277971"
 draft: "false"
 weight: "999"

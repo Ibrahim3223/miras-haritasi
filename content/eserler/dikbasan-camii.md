@@ -5,10 +5,10 @@ slug: "dikbasan-camii"
 description: "## Dikbasan Camii: Karaman'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2163811,37.180809"
 draft: "false"
 weight: "999"

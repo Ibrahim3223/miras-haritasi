@@ -5,10 +5,10 @@ slug: "ali-dede-hoyugu"
 description: "# Ali Dede Höyüğü: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9620953,39.7745857"
 draft: "false"
 weight: "999"

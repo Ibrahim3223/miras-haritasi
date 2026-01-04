@@ -5,10 +5,10 @@ slug: "meliksah-koyu-tas-hamami"
 description: "## Melikşah Köyü Taş Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.943741958,40.163019568"
 draft: "false"
 weight: "999"

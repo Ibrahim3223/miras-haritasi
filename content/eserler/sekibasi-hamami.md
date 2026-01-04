@@ -5,10 +5,10 @@ slug: "sekibasi-hamami"
 description: "## Sekibaşı Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.3624401,37.2188988"
 draft: "false"
 weight: "999"

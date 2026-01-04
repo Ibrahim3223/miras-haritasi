@@ -5,10 +5,10 @@ slug: "mehdili-koprusu"
 description: "# Mehdili Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.897389,41.008531"
 draft: "false"
 weight: "999"

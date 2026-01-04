@@ -5,10 +5,10 @@ slug: "kadi-emin-ali-celebi-camii"
 description: "## Kadı Emin Ali Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Kirklareli_kadi_emin_ali_celebi_camii_01.jpg/1200px-Kirklareli_kadi_emin_ali_celebi_camii_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2254238,41.7362823"
 draft: "false"
 weight: "10"

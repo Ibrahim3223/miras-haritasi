@@ -5,10 +5,10 @@ slug: "palas-ulu-cami"
 description: "### Palas Ulu Cami..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8655701,39.0257263"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sivisli-kilise"
 description: "## Sivişli Kilisesi: Güzelyurt'un Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.3719855,38.2748532"
 draft: "false"
 weight: "999"

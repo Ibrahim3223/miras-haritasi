@@ -5,10 +5,10 @@ slug: "sari-hoyuk"
 description: "## Sarı Höyük: Ankara'nın Gizli Zenginliği..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Şereflikoçhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.2902336,39.3102226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "firuz-bey-medresesi"
 description: "### Firuz Bey Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7801437,37.3175392"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "daldis"
 description: "## Manisa'nın Gizli Mabeti: Daldis..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.07519,38.668396"
 draft: "false"
 weight: "999"

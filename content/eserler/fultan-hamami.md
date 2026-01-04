@@ -5,10 +5,10 @@ slug: "fultan-hamami"
 description: "## Fulton Hamamı: Bingöl'de Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Kiğı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.3489723,39.3180084"
 draft: "false"
 weight: "999"

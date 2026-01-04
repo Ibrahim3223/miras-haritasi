@@ -5,10 +5,10 @@ slug: "yenikoy-koprusu"
 description: "## Yeniköy Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Espiye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.760726,40.776303"
 draft: "false"
 weight: "999"

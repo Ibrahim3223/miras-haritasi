@@ -5,10 +5,10 @@ slug: "cermodern-sahnesi"
 description: "### CerModern Sahnesi: Antik Tiyatro Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/CerModern_Sahnesi.jpg/1200px-CerModern_Sahnesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "32.849527777,39.931555555"
 draft: "false"
 weight: "10"

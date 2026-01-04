@@ -5,10 +5,10 @@ slug: "tralleis-hamam-gymnasium-yapilari"
 description: "### Tralleis Hamam Gymnasium Yapıları..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8347855,37.8599319"
 draft: "false"
 weight: "999"

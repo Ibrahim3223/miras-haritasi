@@ -5,10 +5,10 @@ slug: "kevire-kela-hoyugu-cermik"
 description: "## Kevire Kela Höyüğü, Çermik: Diyarbakır'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.5574112,38.1801033"
 draft: "false"
 weight: "999"

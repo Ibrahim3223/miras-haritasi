@@ -5,10 +5,10 @@ slug: "bozkus-koyu-camii"
 description: "## Bozkuş Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Atkaracalar İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.142869991,40.830043569"
 draft: "false"
 weight: "999"

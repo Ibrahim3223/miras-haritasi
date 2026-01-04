@@ -5,10 +5,10 @@ slug: "alaybey-camii-bozcaada"
 description: "## Alaybey Camii, Bozcaada..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/BOZCAADA_ALAYBEYİ_CAMİ_-_panoramio.jpg/1200px-BOZCAADA_ALAYBEYİ_CAMİ_-_panoramio.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.0707054,39.8340836"
 draft: "false"
 weight: "10"

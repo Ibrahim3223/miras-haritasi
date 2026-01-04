@@ -5,10 +5,10 @@ slug: "davutpasa-kislasi-mescidi"
 description: "## Davutpaşa Kışlası Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.888464,41.0262527"
 draft: "false"
 weight: "999"

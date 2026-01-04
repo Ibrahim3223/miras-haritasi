@@ -5,10 +5,10 @@ slug: "aldiran-asari"
 description: "# Aldıran Asarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.2681484,37.2275543"
 draft: "false"
 weight: "999"

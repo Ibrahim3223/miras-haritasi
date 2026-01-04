@@ -5,10 +5,10 @@ slug: "panormus-kaya-mezarlari"
 description: "## Panormus Kaya Mezarları..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2813206,37.1273842"
 draft: "false"
 weight: "999"

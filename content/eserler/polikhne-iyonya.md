@@ -5,10 +5,10 @@ slug: "polikhne-iyonya"
 description: "## Polikhne (İyonya): İyonya'nın Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.768509,38.360198"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saraclar-camii-kastamonu"
 description: "### Saraçlar Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7714043,41.3721809"
 draft: "false"
 weight: "999"

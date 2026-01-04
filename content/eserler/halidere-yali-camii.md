@@ -5,10 +5,10 @@ slug: "halidere-yali-camii"
 description: "### Halıdere Yalı Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7576771,40.716629"
 draft: "false"
 weight: "999"

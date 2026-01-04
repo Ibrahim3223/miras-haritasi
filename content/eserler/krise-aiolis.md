@@ -5,10 +5,10 @@ slug: "krise-aiolis"
 description: "### Krise (Aiolis)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.928091,39.585106"
 draft: "false"
 weight: "999"

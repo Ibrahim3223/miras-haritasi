@@ -5,10 +5,10 @@ slug: "kapidalli-hoyugu"
 description: "## Kapıdallı Höyüğü: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.81602,37.6836"
 draft: "false"
 weight: "999"

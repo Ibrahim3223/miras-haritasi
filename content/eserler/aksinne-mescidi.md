@@ -5,10 +5,10 @@ slug: "aksinne-mescidi"
 description: "# Aksinne Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4920654,37.8630409"
 draft: "false"
 weight: "999"

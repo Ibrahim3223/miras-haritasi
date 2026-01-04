@@ -5,10 +5,10 @@ slug: "honsalar-hamami"
 description: "## Honsalar Hamamı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7705803,41.3800774"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gogyer-hoyuk"
 description: "## Göğyer Höyük: Çiçekdağı'nın Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2719901,39.6650335"
 draft: "false"
 weight: "999"

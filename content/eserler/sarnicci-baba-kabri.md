@@ -5,10 +5,10 @@ slug: "sarnicci-baba-kabri"
 description: "# Sarnıççı Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9628716,41.0385857"
 draft: "false"
 weight: "999"

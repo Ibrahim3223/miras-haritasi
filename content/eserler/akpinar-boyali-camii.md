@@ -5,10 +5,10 @@ slug: "akpinar-boyali-camii"
 description: "### Akpınar Boyalı Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çameli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1399002,37.0027008"
 draft: "false"
 weight: "999"

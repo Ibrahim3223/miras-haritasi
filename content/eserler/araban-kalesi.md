@@ -5,10 +5,10 @@ slug: "araban-kalesi"
 description: "## Araban Kalesi: Gaziantep'in Gizli Şehri..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.694639,37.425891"
 draft: "false"
 weight: "999"

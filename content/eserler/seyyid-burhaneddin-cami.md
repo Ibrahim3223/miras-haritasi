@@ -5,10 +5,10 @@ slug: "seyyid-burhaneddin-cami"
 description: "## Seyyid Burhaneddin Cami..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4958611,38.7148857"
 draft: "false"
 weight: "999"

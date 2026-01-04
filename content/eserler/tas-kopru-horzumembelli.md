@@ -5,10 +5,10 @@ slug: "tas-kopru-horzumembelli"
 description: "## Taş Köprü, Horzumembelli: Alaşehir'in Tarihi Çekeçisi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.4046993,38.3683014"
 draft: "false"
 weight: "999"

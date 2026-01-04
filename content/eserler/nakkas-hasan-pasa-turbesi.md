@@ -5,10 +5,10 @@ slug: "nakkas-hasan-pasa-turbesi"
 description: "## Nakkaş Hasan Paşa Türbesi: Eyüpsultan'daki Tarihî Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935236,41.045087"
 draft: "false"
 weight: "999"

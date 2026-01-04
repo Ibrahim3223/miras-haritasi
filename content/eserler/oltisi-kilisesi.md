@@ -5,10 +5,10 @@ slug: "oltisi-kilisesi"
 description: "## Oltusi Kilisesi: Erzurum'un Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.993361111,40.543388888"
 draft: "false"
 weight: "999"

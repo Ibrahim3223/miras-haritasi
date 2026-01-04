@@ -5,10 +5,10 @@ slug: "surp-asdvadzadzin-ermeni-kilisesi"
 description: "## Surp Asdvadzadzin Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gürün"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.271864,38.722668"
 draft: "false"
 weight: "999"

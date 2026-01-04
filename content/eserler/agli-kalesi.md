@@ -5,10 +5,10 @@ slug: "agli-kalesi"
 description: "### Ağlı Kalesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Ağlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.5265388,41.6817703"
 draft: "false"
 weight: "999"

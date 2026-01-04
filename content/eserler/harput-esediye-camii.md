@@ -5,10 +5,10 @@ slug: "harput-esediye-camii"
 description: "## Harput Esediye Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.2537842,38.7049103"
 draft: "false"
 weight: "999"

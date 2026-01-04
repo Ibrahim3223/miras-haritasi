@@ -5,10 +5,10 @@ slug: "andoz-kalesi"
 description: "# Andoz Kalesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Espiye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.692067,40.939209"
 draft: "false"
 weight: "999"

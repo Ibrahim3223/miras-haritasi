@@ -5,10 +5,10 @@ slug: "tepecik-hoyugu-konak"
 description: "## Tepecik Höyüğü: İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1597157,38.4247398"
 draft: "false"
 weight: "999"

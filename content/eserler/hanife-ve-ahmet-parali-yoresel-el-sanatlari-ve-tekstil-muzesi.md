@@ -5,10 +5,10 @@ slug: "hanife-ve-ahmet-parali-yoresel-el-sanatlari-ve-tekstil-muzesi"
 description: "## Hanife ve Ahmet Paralı Yöresel El Sanatları ve Tekstil Müzesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0155506,37.6135597"
 draft: "false"
 weight: "999"

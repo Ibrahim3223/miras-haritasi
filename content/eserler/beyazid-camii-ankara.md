@@ -5,10 +5,10 @@ slug: "beyazid-camii-ankara"
 description: "**Beyazıt Camii: Ankara'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8650894,39.9355621"
 draft: "false"
 weight: "999"

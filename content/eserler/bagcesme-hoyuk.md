@@ -5,10 +5,10 @@ slug: "bagcesme-hoyuk"
 description: "### Bağçesme Höyük: Manisa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.781319,38.997645"
 draft: "false"
 weight: "999"

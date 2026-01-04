@@ -5,10 +5,10 @@ slug: "baskoy-koprusu"
 description: "**Başköy Köprüsü: Doğu Karadeniz'in Görsel Harikası**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.8904025,41.0859602"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karacakil-tumulusleri-i-ii-iii"
 description: "## Karaçakıl Tümülüsleri I-II-III: Malatya'nın Gizli Anıtları..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.7475204,38.4265213"
 draft: "false"
 weight: "999"

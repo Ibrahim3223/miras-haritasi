@@ -5,10 +5,10 @@ slug: "10-yil-aniti-aydin"
 description: "## 10. Yıl Anıtı, Aydın..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/500px-Greco-Turkish_War_of_1919-1922_collage.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8379707,37.8522949"
 draft: "false"
 weight: "999"

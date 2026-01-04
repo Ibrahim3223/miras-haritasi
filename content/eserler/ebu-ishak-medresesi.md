@@ -5,10 +5,10 @@ slug: "ebu-ishak-medresesi"
 description: "## Ebu İshak Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0707798,40.1856079"
 draft: "false"
 weight: "999"

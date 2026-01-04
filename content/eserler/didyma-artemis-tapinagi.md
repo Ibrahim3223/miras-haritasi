@@ -5,10 +5,10 @@ slug: "didyma-artemis-tapinagi"
 description: "### Didyma Artemis Tapınağı: İyonya'nın Gizemi..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.255833333,37.386111111"
 draft: "false"
 weight: "999"

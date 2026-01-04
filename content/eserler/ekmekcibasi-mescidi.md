@@ -5,10 +5,10 @@ slug: "ekmekcibasi-mescidi"
 description: "### Ekmekçibaşı Mescidi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.000104,41.043614"
 draft: "false"
 weight: "999"

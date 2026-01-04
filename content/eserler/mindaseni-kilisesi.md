@@ -5,10 +5,10 @@ slug: "mindaseni-kilisesi"
 description: "## Mindaşeni Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Kars Oblastı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.725394444,41.102127777"
 draft: "false"
 weight: "999"

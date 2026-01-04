@@ -5,10 +5,10 @@ slug: "ziyaret-tepe-hoyugu"
 description: "### Ziyaret Tepe Höyüğü: Diyarbakır'ın Keşiflerine Yol Açan Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.793,37.7935"
 draft: "false"
 weight: "999"

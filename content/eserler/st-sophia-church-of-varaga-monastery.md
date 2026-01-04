@@ -5,10 +5,10 @@ slug: "st-sophia-church-of-varaga-monastery"
 description: "## St. Sophia Church of Varaga Monastery: Van'ın Ölümsüz Kilisesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

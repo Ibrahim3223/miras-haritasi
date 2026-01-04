@@ -5,10 +5,10 @@ slug: "agzikaraca-kalesi"
 description: "**Ağzıkaraca Kalesi: Adana'nın Gizli Kahramanı**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "İmamoğlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.6599744,37.3356746"
 draft: "false"
 weight: "999"

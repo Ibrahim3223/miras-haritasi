@@ -5,10 +5,10 @@ slug: "karskapi-sehitligi-erzurum"
 description: "### Karskapı Şehitliği: Anıtsal Bir Anıtın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2937927,39.9058533"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-hovhannes-migirdic-ermeni-katolik-kilisesi"
 description: "## Surp Hovhannes Mıgırdiç Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0703278,41.1247139"
 draft: "false"
 weight: "999"

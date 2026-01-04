@@ -5,10 +5,10 @@ slug: "kaya-mezari-7-tikenlice-mahallesi-gurgentepe"
 description: "## Kaya Mezarı 7: Gürgentepe'deki Antik Miras..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gürgentepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.664219,40.776394"
 draft: "false"
 weight: "999"

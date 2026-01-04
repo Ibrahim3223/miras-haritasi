@@ -5,10 +5,10 @@ slug: "tarihi-ucayak-kilisesi-kalintilari"
 description: "## Tarihi Üçayak Kilisesi Kalıntıları..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.1707349,39.413185"
 draft: "false"
 weight: "999"

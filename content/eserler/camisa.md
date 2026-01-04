@@ -5,10 +5,10 @@ slug: "camisa"
 description: "## Camisa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.401155,39.845769"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyit-hasan-turbesi"
 description: "### Seyit Hasan Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2969398,37.7719955"
 draft: "false"
 weight: "999"

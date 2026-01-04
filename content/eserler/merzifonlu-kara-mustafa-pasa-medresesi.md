@@ -5,10 +5,10 @@ slug: "merzifonlu-kara-mustafa-pasa-medresesi"
 description: "### Merzifonlu Kara Mustafa Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9675922,41.0086365"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "medrese-zeyrek"
 description: "### Medrese, Zeyrek: İstanbul'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.951172,41.022872"
 draft: "false"
 weight: "999"

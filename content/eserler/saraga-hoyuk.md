@@ -5,10 +5,10 @@ slug: "saraga-hoyuk"
 description: "## Şaraga Höyük: Gaziantep'in Gizli Çarıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Karkamış"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0010091,36.9195807"
 draft: "false"
 weight: "999"

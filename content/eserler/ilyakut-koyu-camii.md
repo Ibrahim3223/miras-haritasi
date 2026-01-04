@@ -5,10 +5,10 @@ slug: "ilyakut-koyu-camii"
 description: "## İlyakut Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4918671,40.067009"
 draft: "false"
 weight: "999"

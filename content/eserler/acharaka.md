@@ -5,10 +5,10 @@ slug: "acharaka"
 description: "## Acharaka: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.1,37.9"
 draft: "false"
 weight: "999"

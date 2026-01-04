@@ -5,10 +5,10 @@ slug: "alacahisar-kilisesi"
 description: "## Alacahisar Kilisesi: Demre'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9019909,36.328289"
 draft: "false"
 weight: "999"

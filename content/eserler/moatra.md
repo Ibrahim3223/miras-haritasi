@@ -5,10 +5,10 @@ slug: "moatra"
 description: "## Moatra Arkeolojik Sitesi: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.285973,37.548665"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kaditler-camii"
 description: "**Kadıtedir Camii: Kütahya'nın Tarihi Bir İmaratı**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9747696,39.4205399"
 draft: "false"
 weight: "999"

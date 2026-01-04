@@ -5,10 +5,10 @@ slug: "ahmet-dede-turbesi"
 description: "### Ahmet Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.920365,41.014232"
 draft: "false"
 weight: "999"

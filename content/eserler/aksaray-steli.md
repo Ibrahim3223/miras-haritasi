@@ -5,10 +5,10 @@ slug: "aksaray-steli"
 description: "## Aksaray Steli: Türkiye'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Stele_Aksaray02.jpg/1200px-Stele_Aksaray02.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

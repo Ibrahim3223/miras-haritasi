@@ -5,10 +5,10 @@ slug: "amcazade-huseyin-pasa-dershane-ve-mescidi"
 description: "## Amcazade Hüseyin Paşa Dershane ve Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.952387,41.015198"
 draft: "false"
 weight: "999"

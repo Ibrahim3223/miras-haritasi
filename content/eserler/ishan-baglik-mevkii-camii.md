@@ -5,10 +5,10 @@ slug: "ishan-baglik-mevkii-camii"
 description: "## İşhan Bağlık Mevkii Camii: Artvin'in Kıymetli Bir Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7614344,40.7718554"
 draft: "false"
 weight: "999"

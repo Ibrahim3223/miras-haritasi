@@ -5,10 +5,10 @@ slug: "malazgirt-kalesi"
 description: "## Malazgirt Kalesi..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: '["Bitlis Vilayeti"]'
+iller: ["Bitlis Vilayeti"]
 district: "Malazgirt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.544903546,39.146787293"
 draft: "false"
 weight: "999"

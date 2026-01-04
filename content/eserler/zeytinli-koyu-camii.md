@@ -5,10 +5,10 @@ slug: "zeytinli-koyu-camii"
 description: "## Zeytinli Köyü Camii: Edremit'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9485397,39.6140175"
 draft: "false"
 weight: "999"

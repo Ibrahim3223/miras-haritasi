@@ -5,10 +5,10 @@ slug: "kutlu-dogmus-turbesi"
 description: "### Kutlu Doğmuş Türbesi: Aybastı'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Aybastı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.422304,40.674153"
 draft: "false"
 weight: "999"

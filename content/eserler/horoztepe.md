@@ -5,10 +5,10 @@ slug: "horoztepe"
 description: "### Horoztepe: Tokat'taki Tarihî ve Kültürel Miras..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.545527,40.662923"
 draft: "false"
 weight: "999"

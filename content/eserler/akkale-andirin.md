@@ -5,10 +5,10 @@ slug: "akkale-andirin"
 description: "**Akkale, Andırın: Kahramanmaraş'ın Gizli Güzelliği**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Andırın"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.3667946,37.548378"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turgut-ozal-anit-mezari"
 description: "## Turgut Özal Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Turgut_Ozal_Anıt_Mezarı.jpg/1200px-Turgut_Ozal_Anıt_Mezarı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.925211,41.026698"
 draft: "false"
 weight: "10"

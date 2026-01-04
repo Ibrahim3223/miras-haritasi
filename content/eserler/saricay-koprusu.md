@@ -5,10 +5,10 @@ slug: "saricay-koprusu"
 description: "## Sarıçay Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7288917,37.3437008"
 draft: "false"
 weight: "999"

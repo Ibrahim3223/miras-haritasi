@@ -5,10 +5,10 @@ slug: "eskisehir-alaaddin-camii"
 description: "Eskişehir Alaaddin Camii..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.52388889,39.76666667"
 draft: "false"
 weight: "999"

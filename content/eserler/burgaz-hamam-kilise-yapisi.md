@@ -5,10 +5,10 @@ slug: "burgaz-hamam-kilise-yapisi"
 description: "## Burgaz Hamam Kilise Yapısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.694242445,36.732057399"
 draft: "false"
 weight: "999"

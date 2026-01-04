@@ -5,10 +5,10 @@ slug: "osmanli-gunluk-yasam-muzesi"
 description: "## Osmanlı Günlük Yaşam Müzesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kartepe"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.112833,40.7009354"
 draft: "false"
 weight: "999"

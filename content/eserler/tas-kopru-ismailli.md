@@ -5,10 +5,10 @@ slug: "tas-kopru-ismailli"
 description: "### Taş Köprü, İsmailli: Bergama'nın Gizli Çehresini Görmenin Yeri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2147999,38.9319992"
 draft: "false"
 weight: "999"

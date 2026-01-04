@@ -5,10 +5,10 @@ slug: "adis-surp-garabed-ermeni-kilisesi"
 description: "## Adış Surp Garabed Ermeni Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çüngüş"
-iller: '["Çüngüş"]'
+iller: ["Çüngüş"]
 district: "Çüngüş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.2473145,38.218502"
 draft: "false"
 weight: "999"

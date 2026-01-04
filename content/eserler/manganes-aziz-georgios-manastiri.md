@@ -5,10 +5,10 @@ slug: "manganes-aziz-georgios-manastiri"
 description: "## Manganes Aziz Georgios Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.986332,41.011812"
 draft: "false"
 weight: "999"

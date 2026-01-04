@@ -5,10 +5,10 @@ slug: "dumlupinar-denizalti-ve-tum-deniz-sehitleri-aniti"
 description: "## Dumlupınar Denizaltı ve Tüm Deniz Şehitleri Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6825562,40.4102135"
 draft: "false"
 weight: "999"

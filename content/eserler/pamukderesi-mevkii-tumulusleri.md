@@ -5,10 +5,10 @@ slug: "pamukderesi-mevkii-tumulusleri"
 description: "## Pamukderesi Mevkii Tümülüsleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.754151021,40.325379975"
 draft: "false"
 weight: "999"

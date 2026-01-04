@@ -5,10 +5,10 @@ slug: "alaaddin-hamami"
 description: "### Alaaddin Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.1477089,42.0261765"
 draft: "false"
 weight: "999"

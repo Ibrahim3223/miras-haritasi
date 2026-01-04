@@ -5,10 +5,10 @@ slug: "candarlizade-atik-ibrahim-pasa-camii"
 description: "### Çandarlızade Atik İbrahim Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Çandarlızade_Atik_İbrahim_Pasha_Mosque_(3).jpg/1200px-Çandarlızade_Atik_İbrahim_Pasha_Mosque_(3).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9681487,41.0147317"
 draft: "false"
 weight: "10"

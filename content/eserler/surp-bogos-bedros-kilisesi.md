@@ -5,10 +5,10 @@ slug: "surp-bogos-bedros-kilisesi"
 description: "## Surp Boğos Bedros Kilisesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Tomarza"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.800173,38.448547"
 draft: "false"
 weight: "999"

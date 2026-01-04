@@ -5,10 +5,10 @@ slug: "curuk-elma-camii"
 description: "# Çürük Elma Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9668674,41.0187569"
 draft: "false"
 weight: "999"

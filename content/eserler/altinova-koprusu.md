@@ -5,10 +5,10 @@ slug: "altinova-koprusu"
 description: "**Altınova Köprüsü: Ankara'nın Gizli Çiçeği**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Pursaklar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.9667969,40.0710373"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "izzet-pasa-camii-sivas"
 description: "## İzzet Paşa Camii, Sivas: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0145035,39.7503471"
 draft: "false"
 weight: "999"

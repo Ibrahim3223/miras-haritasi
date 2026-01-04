@@ -5,10 +5,10 @@ slug: "stadia-karya"
 description: "## Stadia (Karya)..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.648272,36.742208"
 draft: "false"
 weight: "999"

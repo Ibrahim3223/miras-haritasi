@@ -5,10 +5,10 @@ slug: "blaherne-sarayi"
 description: "## Blaherne Sarayı: İstanbul'un Gizli Gölgeleri Arasındaki Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Palace_of_Blachernae_2007.jpg/1200px-Palace_of_Blachernae_2007.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9403,41.0339"
 draft: "false"
 weight: "10"

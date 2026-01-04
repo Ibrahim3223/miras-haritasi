@@ -5,10 +5,10 @@ slug: "panionion"
 description: "## Panionion: İzmir'in Gizli Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Panionium_theatre.jpg/1200px-Panionium_theatre.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.329993,37.703924"
 draft: "false"
 weight: "10"

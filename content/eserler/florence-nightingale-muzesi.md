@@ -5,10 +5,10 @@ slug: "florence-nightingale-muzesi"
 description: "## Florence Nightingale Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.016064,41.005246"
 draft: "false"
 weight: "999"

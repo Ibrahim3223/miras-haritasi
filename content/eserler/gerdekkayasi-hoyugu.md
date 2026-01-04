@@ -5,10 +5,10 @@ slug: "gerdekkayasi-hoyugu"
 description: "## Gerdekkayası Höyüğü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0849628,38.6610146"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gazi-atik-ali-pasa-turbesi"
 description: "**Gazi Atik Ali Paşa Türbesi**..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8137979,40.654186"
 draft: "false"
 weight: "999"

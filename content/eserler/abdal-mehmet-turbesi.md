@@ -5,10 +5,10 @@ slug: "abdal-mehmet-turbesi"
 description: "### Abdal Mehmet Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.068226,40.186946"
 draft: "false"
 weight: "999"

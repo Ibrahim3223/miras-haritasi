@@ -5,10 +5,10 @@ slug: "ataturk-ve-cocuk-muzesi"
 description: "### Atatürk ve Çocuk Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.247816906,40.658073414"
 draft: "false"
 weight: "999"

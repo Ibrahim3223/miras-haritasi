@@ -5,10 +5,10 @@ slug: "balaban-pasa-camii-aliaga"
 description: "## Balaban Paşa Camii, Aliağa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0199203,38.7729568"
 draft: "false"
 weight: "999"

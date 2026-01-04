@@ -5,10 +5,10 @@ slug: "canytellis-kaya-mezari-ve-rolyefleri"
 description: "### Canytellis Kaya Mezarı ve Rölyefleri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1740723,36.5233078"
 draft: "false"
 weight: "999"

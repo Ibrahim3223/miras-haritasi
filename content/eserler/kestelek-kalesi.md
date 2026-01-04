@@ -5,10 +5,10 @@ slug: "kestelek-kalesi"
 description: "# Kestelek Kalesi: Türk Tarihini ve Kültürünü Yansıtan Etkili Bir Kale..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.5857391,39.9624367"
 draft: "false"
 weight: "999"

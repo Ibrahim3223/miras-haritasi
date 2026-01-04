@@ -5,10 +5,10 @@ slug: "yunus-emre-heykeli"
 description: "### Yunus Emre Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Yunuus_Emre_Heykeli_01.jpg/1200px-Yunuus_Emre_Heykeli_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0336456,40.9852791"
 draft: "false"
 weight: "10"

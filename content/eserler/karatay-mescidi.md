@@ -5,10 +5,10 @@ slug: "karatay-mescidi"
 description: "## Karatay Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4659157,37.872036"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "darulkurra-camii"
 description: "### Darülkurra Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6463203,38.2265472"
 draft: "false"
 weight: "999"

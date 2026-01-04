@@ -5,10 +5,10 @@ slug: "seyh-fethullah-camii"
 description: "## Şeyh Fethullah Camii: Gaziantep'in Tarihi Zirvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gaziantep_Şeyh_Fetullah_Cami_1811.jpg/1200px-Gaziantep_Şeyh_Fetullah_Cami_1811.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3911896,37.0593758"
 draft: "false"
 weight: "10"

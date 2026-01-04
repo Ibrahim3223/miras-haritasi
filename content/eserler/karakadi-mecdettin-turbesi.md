@@ -5,10 +5,10 @@ slug: "karakadi-mecdettin-turbesi"
 description: "## Karakadı Mecdettin Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7426357,38.0885201"
 draft: "false"
 weight: "999"

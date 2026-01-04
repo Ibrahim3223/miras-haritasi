@@ -5,10 +5,10 @@ slug: "havuzlu-hamam"
 description: "## Havuzlu Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.959121,41.007613"
 draft: "false"
 weight: "999"

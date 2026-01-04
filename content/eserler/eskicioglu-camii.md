@@ -5,10 +5,10 @@ slug: "eskicioglu-camii"
 description: "## Eskicioğlu Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8596954,39.9350815"
 draft: "false"
 weight: "999"

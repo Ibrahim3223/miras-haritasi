@@ -5,10 +5,10 @@ slug: "trabzon-basin-tarihi-muzesi"
 description: "### Trabzon Basın Tarihi Müzesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

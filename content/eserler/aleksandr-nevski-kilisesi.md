@@ -5,10 +5,10 @@ slug: "aleksandr-nevski-kilisesi"
 description: "# Aleksandr Nevski Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/28/Sv.A.Nevskii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.0002327,40.5506706"
 draft: "false"
 weight: "999"

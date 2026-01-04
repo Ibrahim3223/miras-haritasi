@@ -5,10 +5,10 @@ slug: "pandemi-kahramanlari-aniti"
 description: "## Pandemi Kahramanları Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.106722222,38.40825"
 draft: "false"
 weight: "999"

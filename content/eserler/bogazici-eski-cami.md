@@ -5,10 +5,10 @@ slug: "bogazici-eski-cami"
 description: "### Boğaziçi Eski Cami..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Baklan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5493603,37.93536"
 draft: "false"
 weight: "999"

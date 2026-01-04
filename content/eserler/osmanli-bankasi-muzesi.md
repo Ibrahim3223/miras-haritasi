@@ -5,10 +5,10 @@ slug: "osmanli-bankasi-muzesi"
 description: "## Osmanlı Bankası Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.972977,41.02409"
 draft: "false"
 weight: "999"

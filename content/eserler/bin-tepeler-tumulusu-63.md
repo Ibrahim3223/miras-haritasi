@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-63"
 description: "## Bin Tepeler Tümülüsü 63: Manisa'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9241581,38.5953751"
 draft: "false"
 weight: "999"

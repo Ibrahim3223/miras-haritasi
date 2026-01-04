@@ -5,10 +5,10 @@ slug: "pamukkale-arkeoloji-muzesi"
 description: "## Pamukkale Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg/1200px-Hierapolis_Archaeology_Museum,_Turkey_(31595600163).jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "biga-sehitligi"
 description: "## Biga Şehitliği: Bir Kahramanların Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2372589,40.2290306"
 draft: "false"
 weight: "999"

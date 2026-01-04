@@ -5,10 +5,10 @@ slug: "zincirli-sultanlar-turbesi"
 description: "## Zincirli Sultanlar Türbesi: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9424478,41.0249864"
 draft: "false"
 weight: "999"

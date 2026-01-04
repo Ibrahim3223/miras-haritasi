@@ -5,10 +5,10 @@ slug: "edirne-askeri-hastanesi-camii"
 description: "### Edirne Askeri Hastanesi Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.534841442,41.702450564"
 draft: "false"
 weight: "999"

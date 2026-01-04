@@ -5,10 +5,10 @@ slug: "kaletepe-mescidi"
 description: "## Kaletepe Mescidi: Didim'in Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2769699,37.5316467"
 draft: "false"
 weight: "999"

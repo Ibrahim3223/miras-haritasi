@@ -5,10 +5,10 @@ slug: "efes-pollio-cesmesi"
 description: "## Efes Pollio Çeşmesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.343404129,37.936700534"
 draft: "false"
 weight: "999"

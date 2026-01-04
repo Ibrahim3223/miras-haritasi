@@ -5,10 +5,10 @@ slug: "kursunlu-camii-sebinkarahisar"
 description: "### Kurşunlu Camii (Şebinkarahisar)..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.423777777,40.283055555"
 draft: "false"
 weight: "999"

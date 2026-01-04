@@ -5,10 +5,10 @@ slug: "cataklihoca-koprusu"
 description: "## Çataklıhoca Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.778383,41.0824"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "comlektepe-hoyuk"
 description: "## Çömlektepe Höyük: Tarih ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7637863,37.2478485"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-irini"
 description: "### Aya İrini Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Hagia_Eirene,_Topkapi_Palace.JPG/1200px-Hagia_Eirene,_Topkapi_Palace.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.98111,41.00972"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ikizkoy-antik-yerlesimi"
 description: "## İkizköy Antik Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8581848,37.1742172"
 draft: "false"
 weight: "999"

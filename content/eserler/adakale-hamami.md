@@ -5,10 +5,10 @@ slug: "adakale-hamami"
 description: "## Adakale Hamamı: Kars Oblastı'nda Bir Tarih Öreni..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: '["Kars Oblastı"]'
+iller: ["Kars Oblastı"]
 district: "Ardanuç"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "42.057833333,41.127861111"
 draft: "false"
 weight: "999"

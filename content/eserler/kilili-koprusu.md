@@ -5,10 +5,10 @@ slug: "kilili-koprusu"
 description: "### Kılılı Köprüsü..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Türkoğlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.89584,37.41471"
 draft: "false"
 weight: "999"

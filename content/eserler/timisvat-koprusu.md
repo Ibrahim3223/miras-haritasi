@@ -5,10 +5,10 @@ slug: "timisvat-koprusu"
 description: "# Timisvat Köprüsü: Ardeşen'in Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0400456,41.1233763"
 draft: "false"
 weight: "999"

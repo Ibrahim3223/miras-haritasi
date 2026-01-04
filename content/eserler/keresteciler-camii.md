@@ -5,10 +5,10 @@ slug: "keresteciler-camii"
 description: "### Keresteciler Camii: Kahramankazan'daki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/20180107_ESB-Safran_1746_(39834647282).jpg/1200px-20180107_ESB-Safran_1746_(39834647282).jpg"
 province: "Kahramankazan"
-iller: '["Kahramankazan"]'
+iller: ["Kahramankazan"]
 district: "Saray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.616178045,40.035511056"
 draft: "false"
 weight: "10"

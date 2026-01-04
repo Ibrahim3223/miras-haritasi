@@ -5,10 +5,10 @@ slug: "killi-hoyuk"
 description: "### Killi Höyük: Bozüyük'ün Gizemi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9266491,39.7532692"
 draft: "false"
 weight: "999"

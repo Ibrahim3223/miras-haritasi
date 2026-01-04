@@ -5,10 +5,10 @@ slug: "kartaltepe-tumulusu"
 description: "## Kartaltepe Tümülüsü: Edirne'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4451866,40.9610825"
 draft: "false"
 weight: "999"

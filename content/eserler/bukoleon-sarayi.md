@@ -5,10 +5,10 @@ slug: "bukoleon-sarayi"
 description: "## Bukoleon Sarayı: İstanbul'un Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Bucoleon_March_2008.JPG/1200px-Bucoleon_March_2008.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.97555556,41.0025"
 draft: "false"
 weight: "10"

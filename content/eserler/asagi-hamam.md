@@ -5,10 +5,10 @@ slug: "asagi-hamam"
 description: "## Aşağı Hamam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hamam_in_Divrigi_DSCF2954.jpg/1200px-Hamam_in_Divrigi_DSCF2954.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.117,39.373111111"
 draft: "false"
 weight: "10"

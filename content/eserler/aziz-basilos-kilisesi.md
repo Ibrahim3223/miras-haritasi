@@ -5,10 +5,10 @@ slug: "aziz-basilos-kilisesi"
 description: "### Aziz Basilos Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.897947,38.59"
 draft: "false"
 weight: "999"

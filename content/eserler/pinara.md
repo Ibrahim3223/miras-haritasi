@@ -5,10 +5,10 @@ slug: "pinara"
 description: "## Pinara: Muğla'nın Efsanevi Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pinara_Amphitheatre_Fethiye_Mugla_Turkiye.JPG/1200px-Pinara_Amphitheatre_Fethiye_Mugla_Turkiye.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.25835,36.48915"
 draft: "false"
 weight: "10"

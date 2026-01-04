@@ -5,10 +5,10 @@ slug: "mke-silahsan-ozel-muzesi"
 description: "## MKE Silahsan Özel Müzesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.515277777,39.846666666"
 draft: "false"
 weight: "999"

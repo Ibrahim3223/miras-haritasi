@@ -5,10 +5,10 @@ slug: "suluklu-hoyuk"
 description: "## Sülüklü Höyük: Çorum'un Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3300171,40.5844269"
 draft: "false"
 weight: "999"

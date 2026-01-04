@@ -5,10 +5,10 @@ slug: "bellitas-hoyugu"
 description: "# Bellitaş Höyüğü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.1248646,36.9167016"
 draft: "false"
 weight: "999"

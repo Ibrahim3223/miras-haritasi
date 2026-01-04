@@ -5,10 +5,10 @@ slug: "turnali-os-camii"
 description: "## Turnalı Os Camii: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Turnalı_os_camii.jpg/1200px-Turnalı_os_camii.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.967934,40.793323"
 draft: "false"
 weight: "10"

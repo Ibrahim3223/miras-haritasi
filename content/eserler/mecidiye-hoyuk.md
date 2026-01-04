@@ -5,10 +5,10 @@ slug: "mecidiye-hoyuk"
 description: "### Mecidiye Höyük: Akhisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.67405,38.888267"
 draft: "false"
 weight: "999"

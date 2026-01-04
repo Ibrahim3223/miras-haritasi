@@ -5,10 +5,10 @@ slug: "dumanli-koyu-cakalli-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Çakallı Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.798334,40.657898"
 draft: "false"
 weight: "999"

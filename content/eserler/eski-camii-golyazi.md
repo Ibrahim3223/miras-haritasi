@@ -5,10 +5,10 @@ slug: "eski-camii-golyazi"
 description: "### Eski Camii (Gölyazı)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20251025_Gölyazı_Eski_Cami.jpg/1200px-20251025_Gölyazı_Eski_Cami.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.67771436,40.165380581"
 draft: "false"
 weight: "10"

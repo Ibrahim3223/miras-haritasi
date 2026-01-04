@@ -5,10 +5,10 @@ slug: "yemisken-koprusu"
 description: "## Yemişken Köprüsü: Giresun'un Tarihî Köyü Yağlıdere'nin Efsanevi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.627445,40.698711"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "savci-bey-turbesi"
 description: "## Savcı Bey Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0346832,39.8241234"
 draft: "false"
 weight: "999"

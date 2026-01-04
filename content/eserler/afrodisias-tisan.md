@@ -5,10 +5,10 @@ slug: "afrodisias-tisan"
 description: "## Afrodisias (Tisan): Mersin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.690555555,36.1575"
 draft: "false"
 weight: "999"

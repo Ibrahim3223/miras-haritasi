@@ -5,10 +5,10 @@ slug: "nihahi-kilisesi"
 description: "### Nihahi Kilisesi..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "Yokuşlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.335733333,40.684611111"
 draft: "false"
 weight: "999"

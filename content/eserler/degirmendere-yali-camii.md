@@ -5,10 +5,10 @@ slug: "degirmendere-yali-camii"
 description: "## Değirmendere Yalı Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7795639,40.72118"
 draft: "false"
 weight: "999"

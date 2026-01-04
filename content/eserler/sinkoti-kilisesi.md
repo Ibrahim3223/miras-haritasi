@@ -5,10 +5,10 @@ slug: "sinkoti-kilisesi"
 description: "**Sinkoti Kilisesi: Güncellemesiz bir Tarih Mirası**..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Küplüce"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.259861111,41.294944444"
 draft: "false"
 weight: "999"

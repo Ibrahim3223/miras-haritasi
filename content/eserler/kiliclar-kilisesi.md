@@ -5,10 +5,10 @@ slug: "kiliclar-kilisesi"
 description: "## Kılıçlar Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.845202267,38.642039696"
 draft: "false"
 weight: "999"

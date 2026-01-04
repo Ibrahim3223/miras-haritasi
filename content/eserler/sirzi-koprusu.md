@@ -5,10 +5,10 @@ slug: "sirzi-koprusu"
 description: "## Şırzı Köprüsü: Kemaliye'nin Tarihi Bir Aracı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemaliye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.4891243,39.2850914"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "agil-hoyuk-mucur"
 description: "# Ağıl Höyük, Mucur: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5622864,39.100708"
 draft: "false"
 weight: "999"

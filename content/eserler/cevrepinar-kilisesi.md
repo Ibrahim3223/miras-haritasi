@@ -5,10 +5,10 @@ slug: "cevrepinar-kilisesi"
 description: "## Çevrepınar Kilisesi: Şiran'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.286374,40.255557"
 draft: "false"
 weight: "999"

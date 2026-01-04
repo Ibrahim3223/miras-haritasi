@@ -5,10 +5,10 @@ slug: "manastir-cinarli"
 description: "## Manastır – Çınarlı: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9074993,40.1882019"
 draft: "false"
 weight: "999"

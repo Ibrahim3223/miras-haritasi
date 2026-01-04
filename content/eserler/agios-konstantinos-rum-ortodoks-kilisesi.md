@@ -5,10 +5,10 @@ slug: "agios-konstantinos-rum-ortodoks-kilisesi"
 description: "## Agios Konstantinos Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.0676994,38.611599"
 draft: "false"
 weight: "999"

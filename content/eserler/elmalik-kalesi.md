@@ -5,10 +5,10 @@ slug: "elmalik-kalesi"
 description: "## Elmalık Kalesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.3107929,40.6032753"
 draft: "false"
 weight: "999"

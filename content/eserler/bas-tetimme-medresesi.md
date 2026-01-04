@@ -5,10 +5,10 @@ slug: "bas-tetimme-medresesi"
 description: "# Baş Tetimme Medresesi: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9517975,41.0200043"
 draft: "false"
 weight: "999"

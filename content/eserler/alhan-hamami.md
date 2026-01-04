@@ -5,10 +5,10 @@ slug: "alhan-hamami"
 description: "## Alhan Hamamı: Aydın'ın Tarihi Bir Zenginlik..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.1690102,37.8096924"
 draft: "false"
 weight: "999"

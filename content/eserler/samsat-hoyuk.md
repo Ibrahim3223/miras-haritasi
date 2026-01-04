@@ -5,10 +5,10 @@ slug: "samsat-hoyuk"
 description: "## Samsat Höyük: Adıyaman'ın Gizemi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

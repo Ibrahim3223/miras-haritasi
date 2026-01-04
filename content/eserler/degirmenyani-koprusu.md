@@ -5,10 +5,10 @@ slug: "degirmenyani-koprusu"
 description: "## Değirmenyanı Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gülyalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.057566,40.915541"
 draft: "false"
 weight: "999"

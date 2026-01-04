@@ -5,10 +5,10 @@ slug: "aigialus"
 description: "## Aigialus: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f9/Aigialus_mangrovis_Borse.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.002438,41.891894"
 draft: "false"
 weight: "999"

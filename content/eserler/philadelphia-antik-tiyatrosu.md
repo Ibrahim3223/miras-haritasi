@@ -5,10 +5,10 @@ slug: "philadelphia-antik-tiyatrosu"
 description: "## Philadelphia Antik Tiyatrosu..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.514031,38.346019"
 draft: "false"
 weight: "999"

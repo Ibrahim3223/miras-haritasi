@@ -5,10 +5,10 @@ slug: "zeynel-bey-turbesi"
 description: "# Zeynel Bey Türbesi: Batman'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Zeynel_Bey_Mausoleum,_Hasankeyf.jpg/1200px-Zeynel_Bey_Mausoleum,_Hasankeyf.jpg"
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.422694444,37.724972222"
 draft: "false"
 weight: "10"

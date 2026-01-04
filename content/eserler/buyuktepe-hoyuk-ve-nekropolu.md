@@ -5,10 +5,10 @@ slug: "buyuktepe-hoyuk-ve-nekropolu"
 description: "### Büyüktepe Höyük ve Nekropolü..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4352226,40.5688057"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mor-dimet-kilisesi"
 description: "## Mor Dimet Kilisesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.5384369,37.5126381"
 draft: "false"
 weight: "999"

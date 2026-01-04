@@ -5,10 +5,10 @@ slug: "seyh-mehmed-emin-efendi-turbesi"
 description: "**Şeyh Mehmed Emin Efendi Türbesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0615253,40.1794052"
 draft: "false"
 weight: "999"

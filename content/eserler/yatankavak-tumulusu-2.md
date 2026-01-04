@@ -5,10 +5,10 @@ slug: "yatankavak-tumulusu-2"
 description: "### Yatankavak Tümülüsü 2..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.785552246,40.10743084"
 draft: "false"
 weight: "999"

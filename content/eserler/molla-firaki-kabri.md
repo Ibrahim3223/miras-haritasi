@@ -5,10 +5,10 @@ slug: "molla-firaki-kabri"
 description: "## Molla Firaki Kabri: Kütahya'nın Tarihsel ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.984469,39.416447"
 draft: "false"
 weight: "999"

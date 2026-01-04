@@ -5,10 +5,10 @@ slug: "altiparmak-ahmet-baba-kabri"
 description: "## Altıparmak Ahmet Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.923478,40.994263"
 draft: "false"
 weight: "999"

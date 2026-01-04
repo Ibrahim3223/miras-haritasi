@@ -5,10 +5,10 @@ slug: "kocaeli-redif-dairesi"
 description: "## Kocaeli Redif Dairesi: İzmit'in Gizli Hazineleri..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9214153,40.7639656"
 draft: "false"
 weight: "999"

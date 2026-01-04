@@ -5,10 +5,10 @@ slug: "sanctuary-of-aphrodite-doritis-in-knidos"
 description: "### Sanctuary of Aphrodite Doritis in Knidos..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.37404,36.68618"
 draft: "false"
 weight: "999"

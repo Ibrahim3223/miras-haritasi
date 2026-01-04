@@ -5,10 +5,10 @@ slug: "gerbe-kilisesi"
 description: "## Gerbe Kilisesi: Marmaris'in Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2667999,36.7343559"
 draft: "false"
 weight: "999"

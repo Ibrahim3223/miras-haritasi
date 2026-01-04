@@ -5,10 +5,10 @@ slug: "italyan-koprusu"
 description: "### İtalyan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0569572,37.6159668"
 draft: "false"
 weight: "999"

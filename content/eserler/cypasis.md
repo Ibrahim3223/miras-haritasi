@@ -5,10 +5,10 @@ slug: "cypasis"
 description: "## Cypasis: Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.841143,40.625134"
 draft: "false"
 weight: "999"

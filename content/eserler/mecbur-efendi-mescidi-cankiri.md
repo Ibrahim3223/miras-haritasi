@@ -5,10 +5,10 @@ slug: "mecbur-efendi-mescidi-cankiri"
 description: "## Mecbur Efendi Mescidi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6151161,40.6032028"
 draft: "false"
 weight: "999"

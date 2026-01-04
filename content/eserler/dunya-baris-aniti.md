@@ -5,10 +5,10 @@ slug: "dunya-baris-aniti"
 description: "## Dünya Barış Anıtı: Barışın Simgesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayraklı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1465,38.494277777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "andriake-helenistik-garnizon"
 description: "## Andriake Helenistik Garnizonu: Demre'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.9464512,36.2230873"
 draft: "false"
 weight: "999"

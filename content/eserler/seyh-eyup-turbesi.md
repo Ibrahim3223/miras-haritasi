@@ -5,10 +5,10 @@ slug: "seyh-eyup-turbesi"
 description: "**Giriş**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Yağlı_Dede_Türbesi_01.jpg/1200px-Yağlı_Dede_Türbesi_01.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.4146976,38.3531342"
 draft: "false"
 weight: "10"

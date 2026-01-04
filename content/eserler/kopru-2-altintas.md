@@ -5,10 +5,10 @@ slug: "kopru-2-altintas"
 description: "## Köprü 2, Altıntaş: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3291702,37.5980721"
 draft: "false"
 weight: "999"

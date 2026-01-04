@@ -5,10 +5,10 @@ slug: "ambarlik-koprusu"
 description: "**Ambarlık Köprüsü**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.5465,40.917383"
 draft: "false"
 weight: "999"

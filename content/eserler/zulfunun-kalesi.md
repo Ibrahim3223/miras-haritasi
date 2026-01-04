@@ -5,10 +5,10 @@ slug: "zulfunun-kalesi"
 description: "## Zülfünün Kalesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Zara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.95399838,39.861854081"
 draft: "false"
 weight: "999"

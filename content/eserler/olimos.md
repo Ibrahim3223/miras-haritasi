@@ -5,10 +5,10 @@ slug: "olimos"
 description: "## Olimos Arkeolojik Siti: Antik Çağın Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.735578,37.378561"
 draft: "false"
 weight: "999"

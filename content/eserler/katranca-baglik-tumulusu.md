@@ -5,10 +5,10 @@ slug: "katranca-baglik-tumulusu"
 description: "**Katranca Bağlık Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0347137,41.3536682"
 draft: "false"
 weight: "999"

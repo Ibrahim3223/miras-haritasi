@@ -5,10 +5,10 @@ slug: "pergamon-kucuk-gymnasium-hamami"
 description: "### Pergamon Küçük Gymnasium Hamamı: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1838627,39.1281967"
 draft: "false"
 weight: "999"

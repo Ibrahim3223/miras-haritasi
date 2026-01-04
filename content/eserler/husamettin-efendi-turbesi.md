@@ -5,10 +5,10 @@ slug: "husamettin-efendi-turbesi"
 description: "# Hüsamettin Efendi Türbesi: Muğla'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.4163208,37.1032181"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cumayani-koprusu"
 description: "## Cumayanı Köprüsü: Bozkurt'un Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Bozkurt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.971754,41.969747"
 draft: "false"
 weight: "999"

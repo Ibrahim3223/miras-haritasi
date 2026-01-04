@@ -5,10 +5,10 @@ slug: "yolkiyi-koyu-camii"
 description: "## Yolkıyı Köyü Camii: Rize'nin Çamlıhemşin İlçesindeki Bir Önemli Cami..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.992538044,41.019903195"
 draft: "false"
 weight: "999"

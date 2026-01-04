@@ -5,10 +5,10 @@ slug: "muradiye-komurculer-koprusu"
 description: "## Muradiye Kömürcüler Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.5353,40.945333"
 draft: "false"
 weight: "999"

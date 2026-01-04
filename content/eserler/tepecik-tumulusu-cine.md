@@ -5,10 +5,10 @@ slug: "tepecik-tumulusu-cine"
 description: "## Tepecik Tümülüsü: Aydın'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0006008,37.5917015"
 draft: "false"
 weight: "999"

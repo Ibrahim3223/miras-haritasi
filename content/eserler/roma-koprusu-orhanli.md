@@ -5,10 +5,10 @@ slug: "roma-koprusu-orhanli"
 description: "## Roma Köprüsü, Orhanlı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.9342373,38.1557922"
 draft: "false"
 weight: "999"

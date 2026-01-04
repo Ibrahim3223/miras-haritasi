@@ -5,10 +5,10 @@ slug: "haci-ali-aga-camii-karacasu"
 description: "# Hacı Ali Ağa Camii, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6072178,37.7287025"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karabas-hazretleri-turbesi"
 description: "## Karabaş Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9803371,41.0271797"
 draft: "false"
 weight: "999"

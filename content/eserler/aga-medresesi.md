@@ -5,10 +5,10 @@ slug: "aga-medresesi"
 description: "### Ağa Medresesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.8577843,39.9345703"
 draft: "false"
 weight: "999"

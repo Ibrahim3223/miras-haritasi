@@ -5,10 +5,10 @@ slug: "milas"
 description: "### Milas Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Turquie_2009_Euromos.jpg/1200px-Turquie_2009_Euromos.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.78333333,37.31666667"
 draft: "false"
 weight: "10"

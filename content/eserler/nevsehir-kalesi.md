@@ -5,10 +5,10 @@ slug: "nevsehir-kalesi"
 description: "### Nevşehir Kalesi: Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/NevsehirKalesi.jpg/1200px-NevsehirKalesi.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.7130512,38.6199022"
 draft: "false"
 weight: "10"

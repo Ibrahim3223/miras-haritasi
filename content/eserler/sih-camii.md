@@ -5,10 +5,10 @@ slug: "sih-camii"
 description: "## Şıh Camii: Kahramanmaraş'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9310684,37.585041"
 draft: "false"
 weight: "999"

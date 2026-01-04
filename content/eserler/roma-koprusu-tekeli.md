@@ -5,10 +5,10 @@ slug: "roma-koprusu-tekeli"
 description: "## Roma Köprüsü, Tekeli: Tarihî Bir Mirasın İncelemesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Kadirli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.914932,37.236008"
 draft: "false"
 weight: "999"

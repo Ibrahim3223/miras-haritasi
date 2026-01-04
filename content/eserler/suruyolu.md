@@ -5,10 +5,10 @@ slug: "suruyolu"
 description: "### Sürüyolu Arkeolojik Sit..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4683866,36.2558217"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ornek-koyu-camii"
 description: "## Örnek Köyü Camii: Pazar, Rize'nin Değerli Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7901,41.1371"
 draft: "false"
 weight: "999"

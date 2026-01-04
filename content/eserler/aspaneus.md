@@ -5,10 +5,10 @@ slug: "aspaneus"
 description: "## Aspaneus: Balıkesir'in Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.807167,39.570655"
 draft: "false"
 weight: "999"

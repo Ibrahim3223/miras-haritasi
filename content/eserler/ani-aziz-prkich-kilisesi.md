@@ -5,10 +5,10 @@ slug: "ani-aziz-prkich-kilisesi"
 description: "### Ani Aziz Prkich Kilisesi: Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Müqəddə_Prkiç_kilsəsi.jpg/1200px-Müqəddə_Prkiç_kilsəsi.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5766945,40.5072289"
 draft: "false"
 weight: "10"

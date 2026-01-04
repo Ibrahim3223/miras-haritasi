@@ -5,10 +5,10 @@ slug: "yeni-hamam-becin"
 description: "### Milas'ta bir Tarih Öreni: Yeni Hamam, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7875576,37.2745628"
 draft: "false"
 weight: "999"

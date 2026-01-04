@@ -5,10 +5,10 @@ slug: "vize-kalesi"
 description: "## Vize Kalesi: Tarihçesi ve Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Vize_Kalesi_Burcu_2.jpg/1200px-Vize_Kalesi_Burcu_2.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.7679,41.57727"
 draft: "false"
 weight: "10"

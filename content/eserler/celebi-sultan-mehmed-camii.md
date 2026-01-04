@@ -5,10 +5,10 @@ slug: "celebi-sultan-mehmed-camii"
 description: "# Çelebi Sultan Mehmed Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1834145,40.0136261"
 draft: "false"
 weight: "999"

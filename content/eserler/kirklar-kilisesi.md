@@ -5,10 +5,10 @@ slug: "kirklar-kilisesi"
 description: "### Kırklar Kilisesi: Mardin'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Inscription_on_Entrance_Door_to_Mor_Behnam_Church_(40_Martyrs_Church).jpg/1200px-Inscription_on_Entrance_Door_to_Mor_Behnam_Church_(40_Martyrs_Church).jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.732358,37.313272"
 draft: "false"
 weight: "10"

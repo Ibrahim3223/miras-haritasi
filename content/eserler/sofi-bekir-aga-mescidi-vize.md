@@ -5,10 +5,10 @@ slug: "sofi-bekir-aga-mescidi-vize"
 description: "### Sofi Bekir Ağa Mescidi: Vize'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7631531,41.5840149"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dulgerzade-camii"
 description: "# Dülgerzade Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Dülgerzade_Mosque.jpg/1200px-Dülgerzade_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.951555555,41.016"
 draft: "false"
 weight: "10"

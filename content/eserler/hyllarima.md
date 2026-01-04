@@ -5,10 +5,10 @@ slug: "hyllarima"
 description: "## Hyllarima: Muğla'nın Gizli Arkeolojik Ören Yeri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Kavaklıdere"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.34944444,37.505"
 draft: "false"
 weight: "999"

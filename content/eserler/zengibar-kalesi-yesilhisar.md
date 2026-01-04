@@ -5,10 +5,10 @@ slug: "zengibar-kalesi-yesilhisar"
 description: "## Zengibar Kalesi: Yeşilhisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yeşilhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.0605583,38.3296776"
 draft: "false"
 weight: "999"

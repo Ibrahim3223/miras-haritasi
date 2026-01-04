@@ -5,10 +5,10 @@ slug: "besiktas-muzesi"
 description: "## Beşiktaş Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/84/BJK_m%C3%BCze.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

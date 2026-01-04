@@ -5,10 +5,10 @@ slug: "iznik-ayasofya-camii"
 description: "## İznik Ayasofya Camii: Türkiyeminin En Eski ve Önemli Camileri Arasinda Duran Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Iznik,_aya_sofia,_esterno_01.jpg/1200px-Iznik,_aya_sofia,_esterno_01.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.72017,40.4292"
 draft: "false"
 weight: "1"

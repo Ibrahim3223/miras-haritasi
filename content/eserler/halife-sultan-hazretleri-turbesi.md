@@ -5,10 +5,10 @@ slug: "halife-sultan-hazretleri-turbesi"
 description: "## Halife Sultan Hazretleri Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7750282,41.3802147"
 draft: "false"
 weight: "999"

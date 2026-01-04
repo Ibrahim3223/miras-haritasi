@@ -5,10 +5,10 @@ slug: "hamaksya"
 description: "## Hamaksya: Alanya'nın Gizli Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.939351,36.578293"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hirka-tumulusu"
 description: "# Hırka Tümülüsü: Tavas'taki Efsanevi Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.8855991,37.4500008"
 draft: "false"
 weight: "999"

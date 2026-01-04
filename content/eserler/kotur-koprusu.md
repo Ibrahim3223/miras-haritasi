@@ -5,10 +5,10 @@ slug: "kotur-koprusu"
 description: "# Kötür Köprüsü..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Tercan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.25363,39.73056"
 draft: "false"
 weight: "999"

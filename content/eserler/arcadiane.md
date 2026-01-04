@@ -5,10 +5,10 @@ slug: "arcadiane"
 description: "## Arcadiane: Selçuk'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ephesus_Arcadiane_(Harbour)_Street_in_2011_3613.jpg/1200px-Ephesus_Arcadiane_(Harbour)_Street_in_2011_3613.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34044,37.94185"
 draft: "false"
 weight: "10"

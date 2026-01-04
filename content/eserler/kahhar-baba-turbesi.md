@@ -5,10 +5,10 @@ slug: "kahhar-baba-turbesi"
 description: "## Kahhar Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9492054,41.0457497"
 draft: "false"
 weight: "999"

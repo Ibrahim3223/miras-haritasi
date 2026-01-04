@@ -5,10 +5,10 @@ slug: "gebe-kilise"
 description: "## Gebe Kilise: Marmaris'in Gizli Çiçeği..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2243481,36.7000999"
 draft: "false"
 weight: "999"

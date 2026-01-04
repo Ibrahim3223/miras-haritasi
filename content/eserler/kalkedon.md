@@ -5,10 +5,10 @@ slug: "kalkedon"
 description: "## Kalkedon: Kadıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.033333333,40.983333333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cennet-efendi-turbesi"
 description: "## Cennet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0146389,41.0224533"
 draft: "false"
 weight: "999"

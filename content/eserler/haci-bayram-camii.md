@@ -5,10 +5,10 @@ slug: "haci-bayram-camii"
 description: "**Hacı Bayram Camii: Ankara'nın Gizli İhtişamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Haci_Bayram_Mosque_02.jpg/1200px-Haci_Bayram_Mosque_02.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.85777778,39.94444444"
 draft: "false"
 weight: "10"

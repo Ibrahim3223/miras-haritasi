@@ -5,10 +5,10 @@ slug: "kinaliada-metamorfosis-manastiri"
 description: "## Kınalıada Metamorfosis Manastırı: Eine Tarihî Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Christo_Monastery.jpg/1200px-Christo_Monastery.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.050243,40.905869"
 draft: "false"
 weight: "10"

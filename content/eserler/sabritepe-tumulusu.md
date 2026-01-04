@@ -5,10 +5,10 @@ slug: "sabritepe-tumulusu"
 description: "## Sabritepe Tümülüsü: Tekirdağ'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6732655,41.4227524"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yapinti-koprusu"
 description: "### Yapıntı Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.4130707,36.6837692"
 draft: "false"
 weight: "999"

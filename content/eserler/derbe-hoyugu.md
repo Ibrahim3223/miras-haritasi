@@ -5,10 +5,10 @@ slug: "derbe-hoyugu"
 description: "**Derbe Höyüğü: Karaman'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.3618736,37.349179"
 draft: "false"
 weight: "999"

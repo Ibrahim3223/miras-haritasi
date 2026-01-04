@@ -5,10 +5,10 @@ slug: "mor-loozor-manastiri"
 description: "### Mor Loozor Manastırı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.3346711,37.4683201"
 draft: "false"
 weight: "999"

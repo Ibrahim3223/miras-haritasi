@@ -5,10 +5,10 @@ slug: "caglayik-ayvaliktepe-c-tumulusu"
 description: "### Çağlayık Ayvalıktepe C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3489246,41.9940262"
 draft: "false"
 weight: "999"

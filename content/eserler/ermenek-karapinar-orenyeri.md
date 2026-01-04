@@ -5,10 +5,10 @@ slug: "ermenek-karapinar-orenyeri"
 description: "## Ermenek Karapınar Örenyeri..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9567528,36.4918365"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "xanthos-yazitli-dikme"
 description: "## Xanthos Yazıtlı Dikme: Antik bir Anıtın Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Xanthos1_by_schopar.jpg/1200px-Xanthos1_by_schopar.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3186169,36.3572617"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "pordoselene"
 description: "## Pordoselene: Balıkesir'in Gizli Tarihi Şehri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.654808,39.336684"
 draft: "false"
 weight: "999"

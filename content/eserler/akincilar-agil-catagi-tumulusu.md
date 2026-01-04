@@ -5,10 +5,10 @@ slug: "akincilar-agil-catagi-tumulusu"
 description: "## Akıncılar Ağıl Çatağı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6215172,41.4579582"
 draft: "false"
 weight: "999"

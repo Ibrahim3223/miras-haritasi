@@ -5,10 +5,10 @@ slug: "molla-fenari-turbesi"
 description: "### Molla Fenari Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.05902,40.176997"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akagalar-kapisi"
 description: "### Akağalar Kapısı: Edirne'nin Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/67/Ads%C4%B1z_tasar%C4%B1m_%2845%29.png"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5549412,41.6908302"
 draft: "false"
 weight: "999"

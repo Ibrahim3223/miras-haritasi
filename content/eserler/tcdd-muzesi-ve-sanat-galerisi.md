@@ -5,10 +5,10 @@ slug: "tcdd-muzesi-ve-sanat-galerisi"
 description: "## TCDD Müzesi ve Sanat Galerisi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.844721,39.935488"
 draft: "false"
 weight: "999"

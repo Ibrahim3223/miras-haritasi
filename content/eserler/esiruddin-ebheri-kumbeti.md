@@ -5,10 +5,10 @@ slug: "esiruddin-ebheri-kumbeti"
 description: "## Esirüddin Ebheri Kümbeti: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1184525,38.5990673"
 draft: "false"
 weight: "999"

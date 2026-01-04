@@ -5,10 +5,10 @@ slug: "bisanthe"
 description: "# Bisanthe: Tekirdağ'ın Gizli Arkeolojik Cenneti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.518727,40.965959"
 draft: "false"
 weight: "999"

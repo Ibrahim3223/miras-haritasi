@@ -5,10 +5,10 @@ slug: "tekke-mahallesi-camii"
 description: "## Tekke Mahallesi Camii: Bozüyük'teki Bir Kutsal Anıt..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0363007,39.9107361"
 draft: "false"
 weight: "999"

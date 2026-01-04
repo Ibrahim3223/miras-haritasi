@@ -5,10 +5,10 @@ slug: "theater-of-nysa"
 description: "## Theater of Nysa Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.14535923,37.903691072"
 draft: "false"
 weight: "999"

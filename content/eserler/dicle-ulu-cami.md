@@ -5,10 +5,10 @@ slug: "dicle-ulu-cami"
 description: "## Dicle Ulu Cami: Dicle'nin Gizli Çehresi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Dicle"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.0725555,38.3750343"
 draft: "false"
 weight: "999"

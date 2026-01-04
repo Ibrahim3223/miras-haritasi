@@ -5,10 +5,10 @@ slug: "kyaneai"
 description: "## Kyaneai: Antik Şehir ve Itsiz Kaya Mezarları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Kyaneai_Theater.JPG/1200px-Kyaneai_Theater.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.81777778,36.2475"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "esir-mahmut-hamami"
 description: "## Esir Mahmut Hamamı: Isparta'nın Tarihî Mirasının Gizli Hazineleri..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Şarkikaraağaç"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.365888859,38.079599576"
 draft: "false"
 weight: "999"

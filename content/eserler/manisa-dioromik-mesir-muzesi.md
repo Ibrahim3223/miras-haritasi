@@ -5,10 +5,10 @@ slug: "manisa-dioromik-mesir-muzesi"
 description: "## Manisa Dioromik Mesir Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4383221,38.6259727"
 draft: "false"
 weight: "999"

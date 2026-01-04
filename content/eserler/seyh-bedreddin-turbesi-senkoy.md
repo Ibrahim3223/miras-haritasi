@@ -5,10 +5,10 @@ slug: "seyh-bedreddin-turbesi-senkoy"
 description: "### Şeyh Bedreddin Türbesi, Şenköy..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6067429,37.4394646"
 draft: "false"
 weight: "999"

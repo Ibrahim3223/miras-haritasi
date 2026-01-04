@@ -5,10 +5,10 @@ slug: "abide-hatun-camii"
 description: "## Abide Hatun Camii: Merzifon'un Şehvetinin Kalbinin Sesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Merzifon_Abide_Hatun_Camii_3.jpg/1200px-Merzifon_Abide_Hatun_Camii_3.jpg"
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.496222776,40.878282492"
 draft: "false"
 weight: "10"

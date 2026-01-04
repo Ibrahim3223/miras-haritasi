@@ -5,10 +5,10 @@ slug: "civizade-mescidi"
 description: "**Çivizade Mescidi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.926638888,41.017194444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sincan-koprusu"
 description: "### Sincan Köprüsü: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Arsin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.8945028,40.817174"
 draft: "false"
 weight: "999"

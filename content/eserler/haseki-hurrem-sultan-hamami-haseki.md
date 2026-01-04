@@ -5,10 +5,10 @@ slug: "haseki-hurrem-sultan-hamami-haseki"
 description: "## Haseki Hürrem Sultan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.93951,41.008102"
 draft: "false"
 weight: "999"

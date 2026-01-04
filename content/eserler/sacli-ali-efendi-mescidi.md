@@ -5,10 +5,10 @@ slug: "sacli-ali-efendi-mescidi"
 description: "## Saçlı Ali Efendi Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.54390908,41.677823597"
 draft: "false"
 weight: "999"

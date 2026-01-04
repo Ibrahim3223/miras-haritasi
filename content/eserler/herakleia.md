@@ -5,10 +5,10 @@ slug: "herakleia"
 description: "# Herakleia: Tarihî Bir Kentin Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Heraclea_Latmus_Temple_of_Athena.JPG/1200px-Heraclea_Latmus_Temple_of_Athena.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.52472222,37.50194444"
 draft: "false"
 weight: "10"

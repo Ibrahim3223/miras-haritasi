@@ -5,10 +5,10 @@ slug: "rahmanlar-camii-tire"
 description: "## Rahmanlar Camii: Tarih ve Mimarisi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5314598,38.1180153"
 draft: "false"
 weight: "999"

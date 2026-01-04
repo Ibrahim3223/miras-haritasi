@@ -5,10 +5,10 @@ slug: "coplu-hoyuk"
 description: "# Çöplü Höyük: Alaca, Çorum'da Bir Efsanevi Anıt..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9956627,40.1868401"
 draft: "false"
 weight: "999"

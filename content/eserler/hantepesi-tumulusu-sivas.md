@@ -5,10 +5,10 @@ slug: "hantepesi-tumulusu-sivas"
 description: "# Hantepesi Tümülüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8606186,39.9932518"
 draft: "false"
 weight: "999"

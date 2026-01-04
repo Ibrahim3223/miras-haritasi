@@ -5,10 +5,10 @@ slug: "sevinc-koprusu"
 description: "## Sevinç Köprüsü: Yağlıdere'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.627395,40.840156"
 draft: "false"
 weight: "999"

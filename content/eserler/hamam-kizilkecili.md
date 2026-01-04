@@ -5,10 +5,10 @@ slug: "hamam-kizilkecili"
 description: "## Hamam, Kızılkeçili..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.595852691,40.205678061"
 draft: "false"
 weight: "999"

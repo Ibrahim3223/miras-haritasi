@@ -5,10 +5,10 @@ slug: "titopolis"
 description: "## Titopolis: Anamur'un Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.81089,36.09401"
 draft: "false"
 weight: "999"

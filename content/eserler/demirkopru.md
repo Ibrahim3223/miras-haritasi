@@ -5,10 +5,10 @@ slug: "demirkopru"
 description: "## Demirköprü: Seyhan Nehri Üzerinde Tarihi Bir Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Demirköprü_railway_bridge_in_Adana.png/1200px-Demirköprü_railway_bridge_in_Adana.png"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.335,37.0074"
 draft: "false"
 weight: "10"

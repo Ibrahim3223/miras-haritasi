@@ -5,10 +5,10 @@ slug: "sanctuary-of-persian-artemis-in-hierokaisareia"
 description: "**Sanctuary of Persian Artemis in Hierokaisareia**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.784,38.7827"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ilk-kursun-muzesi"
 description: "## İlk Kurşun Müzesi: Hatay'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Dörtyol"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.226615195,36.822218533"
 draft: "false"
 weight: "999"

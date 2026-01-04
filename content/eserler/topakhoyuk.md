@@ -5,10 +5,10 @@ slug: "topakhoyuk"
 description: "## Topakhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2901878,38.6137352"
 draft: "false"
 weight: "999"

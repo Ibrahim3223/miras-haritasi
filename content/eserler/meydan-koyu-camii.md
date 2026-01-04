@@ -5,10 +5,10 @@ slug: "meydan-koyu-camii"
 description: "**Meydan Köyü Camii: Tarihi ve Kültürel Mirasımız**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.929863632,40.891650318"
 draft: "false"
 weight: "999"

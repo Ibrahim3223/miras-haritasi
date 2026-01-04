@@ -5,10 +5,10 @@ slug: "panayia-kafatiani-kilisesi"
 description: "## Panayia Kafatiani Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Q131526516.jpg/1200px-Q131526516.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.979117,41.025122"
 draft: "false"
 weight: "10"

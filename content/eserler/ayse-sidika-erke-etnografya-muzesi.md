@@ -5,10 +5,10 @@ slug: "ayse-sidika-erke-etnografya-muzesi"
 description: "## Ayşe Sıdıka Erke Etnografya Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.0199686,39.5915839"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cerrah-huseyin-camii"
 description: "## Cerrah Hüseyin Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6730766,40.4072227"
 draft: "false"
 weight: "999"

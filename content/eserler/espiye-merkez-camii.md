@@ -5,10 +5,10 @@ slug: "espiye-merkez-camii"
 description: "# Espiye Merkez Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Espiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7077065,40.949295"
 draft: "false"
 weight: "999"

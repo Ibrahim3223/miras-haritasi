@@ -5,10 +5,10 @@ slug: "cumalikizik-camii"
 description: "## Cumalıkızık Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1720257,40.1748619"
 draft: "false"
 weight: "999"

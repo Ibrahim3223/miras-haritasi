@@ -5,10 +5,10 @@ slug: "sultan-alaeddin-camii-beypazari"
 description: "## Sultan Alaeddin Camii: Beypazarı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9171829,40.1700249"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ikinciler-hoyugu"
 description: "**İkinciler Höyüğü: Malatya'nın Önemli Arkeolojik Mirası**..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.9510994,38.2943459"
 draft: "false"
 weight: "999"

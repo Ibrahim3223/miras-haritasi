@@ -5,10 +5,10 @@ slug: "alasehir-ilce-halk-kutuphanesi"
 description: "## Alaşehir İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.5155945,38.349575"
 draft: "false"
 weight: "999"

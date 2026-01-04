@@ -5,10 +5,10 @@ slug: "ani-tigran-honents-kilisesi"
 description: "## Ani Tigran Honents Kilisesi: Tarih, Mimarisi ve Ziyaret Edecekler İçin Bilgi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ani-_Tigran_Honents_Kilisesi.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.57864,40.5058556"
 draft: "false"
 weight: "999"

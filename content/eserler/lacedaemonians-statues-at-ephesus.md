@@ -5,10 +5,10 @@ slug: "lacedaemonians-statues-at-ephesus"
 description: "## Lacedaemonians, Ephesos'taki Heykeller: Tarihi Bir Anıt..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3637,37.9497"
 draft: "false"
 weight: "999"

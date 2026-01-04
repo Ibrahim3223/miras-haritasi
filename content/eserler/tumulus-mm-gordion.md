@@ -5,10 +5,10 @@ slug: "tumulus-mm-gordion"
 description: "## Tümülüs MM (Gordion)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Tumulus_of_King_Midas_02.jpg/1200px-Tumulus_of_King_Midas_02.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.998056,39.653889"
 draft: "false"
 weight: "10"

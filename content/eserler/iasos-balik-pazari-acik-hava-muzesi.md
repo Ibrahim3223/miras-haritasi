@@ -5,10 +5,10 @@ slug: "iasos-balik-pazari-acik-hava-muzesi"
 description: "### Iasos Balık Pazarı Açık Hava Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.5829144,37.2816849"
 draft: "false"
 weight: "999"

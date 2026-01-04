@@ -5,10 +5,10 @@ slug: "tahta-minare-camii"
 description: "## Tahta Minare Camii: Balat'taki Bir Tarihî Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Tahta_Minare_Mosque_(2).jpg/1200px-Tahta_Minare_Mosque_(2).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.948423042,41.031714638"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yoguntas-cifte-tumulusler-dogu"
 description: "# Yoğuntaş Çifte Tümülüsler Doğu: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0075684,41.8220177"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "deris-tracia"
 description: "## Deris (Tracia): Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.808976,40.657809"
 draft: "false"
 weight: "999"

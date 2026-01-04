@@ -5,10 +5,10 @@ slug: "erenler-sultan-turbesi"
 description: "# Erenler Sultan Türbesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.538009516,40.315069484"
 draft: "false"
 weight: "999"

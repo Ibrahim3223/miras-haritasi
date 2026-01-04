@@ -5,10 +5,10 @@ slug: "dokuzhoyuk-hoyukler-1-tumulusu"
 description: "## Dokuzhöyük Höyükler 1 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0622025,41.644413"
 draft: "false"
 weight: "999"

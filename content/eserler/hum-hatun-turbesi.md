@@ -5,10 +5,10 @@ slug: "hum-hatun-turbesi"
 description: "### Hümâ Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hüma_Hatun_Turbesi_7895.jpg/1200px-Hüma_Hatun_Turbesi_7895.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0470276,40.1907845"
 draft: "false"
 weight: "10"

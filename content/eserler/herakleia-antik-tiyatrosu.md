@@ -5,10 +5,10 @@ slug: "herakleia-antik-tiyatrosu"
 description: "# Herakleia Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.5290051,37.5040855"
 draft: "false"
 weight: "999"

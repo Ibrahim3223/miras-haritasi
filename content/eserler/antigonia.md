@@ -5,10 +5,10 @@ slug: "antigonia"
 description: "## Antigonia: Hatay'ın Antik Dönemden Kalma Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Antigonia_steindachneri.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.20516667,36.25391667"
 draft: "false"
 weight: "999"

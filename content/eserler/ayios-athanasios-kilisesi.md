@@ -5,10 +5,10 @@ slug: "ayios-athanasios-kilisesi"
 description: "### Ayios Athanasios Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.5319862,40.5360489"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-seyyid-kudbettin-camii"
 description: "## Şeyh Seyyid Kudbettin Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3262444,41.2945671"
 draft: "false"
 weight: "999"

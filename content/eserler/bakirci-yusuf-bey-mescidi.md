@@ -5,10 +5,10 @@ slug: "bakirci-yusuf-bey-mescidi"
 description: "## Bakırcı Yusuf Bey Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.501500617,37.869598873"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bayindir-koyu-camii-mamak"
 description: "# Bayındır Köyü Camii, Mamak..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.02141152,39.894718319"
 draft: "false"
 weight: "999"

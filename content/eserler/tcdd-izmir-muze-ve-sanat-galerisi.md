@@ -5,10 +5,10 @@ slug: "tcdd-izmir-muze-ve-sanat-galerisi"
 description: "## TCDD İzmir Müze ve Sanat Galerisi: İzmir'in Tarihini ve Günceliği Bir Arada..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.14737,38.438416"
 draft: "false"
 weight: "999"

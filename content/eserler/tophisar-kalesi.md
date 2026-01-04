@@ -5,10 +5,10 @@ slug: "tophisar-kalesi"
 description: "**Tophisar Kalesi: Karacabey'in Yüzyıllar Önceki Tarihi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1704674,40.2239265"
 draft: "false"
 weight: "999"

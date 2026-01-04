@@ -5,10 +5,10 @@ slug: "akpinar-hoyugu"
 description: "## Akpınar Höyüğü: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1785875,38.7593918"
 draft: "false"
 weight: "999"

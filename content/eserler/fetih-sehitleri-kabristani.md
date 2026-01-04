@@ -5,10 +5,10 @@ slug: "fetih-sehitleri-kabristani"
 description: "## Fetih Şehitleri Kabristanı: İstanbul'un Tarihsel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Fetih_Şehitleri_Kabristanı_03.jpg/1200px-Fetih_Şehitleri_Kabristanı_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.931444444,41.026333333"
 draft: "false"
 weight: "10"

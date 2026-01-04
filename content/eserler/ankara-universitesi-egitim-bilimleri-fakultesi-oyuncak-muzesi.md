@@ -5,10 +5,10 @@ slug: "ankara-universitesi-egitim-bilimleri-fakultesi-oyuncak-muzesi"
 description: "# Ankara Üniversitesi Eğitim Bilimleri Fakültesi Oyuncak Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.827961,39.938676"
 draft: "false"
 weight: "999"

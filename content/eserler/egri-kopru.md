@@ -5,10 +5,10 @@ slug: "egri-kopru"
 description: "### Eğri Köprü: Sivas'taki Bir Önemli Köprü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/161_Egriköprü.07.2006_resize.JPG/1200px-161_Egriköprü.07.2006_resize.JPG"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.04132795,39.72611851"
 draft: "false"
 weight: "10"

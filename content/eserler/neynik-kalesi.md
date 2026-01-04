@@ -5,10 +5,10 @@ slug: "neynik-kalesi"
 description: "## Neynik Kalesi: Bulanık, Muş'ta Bir Geçmişin Tanıklığı..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.0775642,38.9278374"
 draft: "false"
 weight: "999"

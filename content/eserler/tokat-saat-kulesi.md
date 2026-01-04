@@ -5,10 +5,10 @@ slug: "tokat-saat-kulesi"
 description: "**Tokat Saat Kulesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tokat_Saat_Kulesi.jpg/1200px-Tokat_Saat_Kulesi.jpg"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "36.553486266,40.311092581"
 draft: "false"
 weight: "10"

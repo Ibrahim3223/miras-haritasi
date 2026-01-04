@@ -5,10 +5,10 @@ slug: "sems-i-tebrizi-camii"
 description: "## Şems-i Tebrizi Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4976006,37.8736992"
 draft: "false"
 weight: "999"

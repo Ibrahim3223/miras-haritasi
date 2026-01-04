@@ -5,10 +5,10 @@ slug: "bada-koprusu"
 description: "## Bada Köprüsü: Beyşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.830877295,37.634183198"
 draft: "false"
 weight: "999"

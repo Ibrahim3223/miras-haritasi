@@ -5,10 +5,10 @@ slug: "hudavendigar-camii"
 description: "### Hudavendigar Camii: Osmanlı İmparatorluğu'nun Altın Çağının Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "veled-i-saray-camii"
 description: "## Veled-i Saray Camii: Bursa'nın Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0586014,40.1882057"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-besni"
 description: "## Roma Köprüsü, Besni..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.8655891,37.6718559"
 draft: "false"
 weight: "999"

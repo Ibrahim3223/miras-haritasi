@@ -5,10 +5,10 @@ slug: "parion-roman-baths"
 description: "## Parion, Roma Hamamları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.067709,40.42577"
 draft: "false"
 weight: "999"

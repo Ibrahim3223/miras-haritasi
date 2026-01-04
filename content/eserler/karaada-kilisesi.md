@@ -5,10 +5,10 @@ slug: "karaada-kilisesi"
 description: "## Karaada Kilisesi: Bodrum'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4605026,36.9824181"
 draft: "false"
 weight: "999"

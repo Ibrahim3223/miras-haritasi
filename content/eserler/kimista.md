@@ -5,10 +5,10 @@ slug: "kimista"
 description: "## Kimista Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.585455,40.98429"
 draft: "false"
 weight: "999"

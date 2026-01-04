@@ -5,10 +5,10 @@ slug: "fidanlik-hoyuk"
 description: "# Fidanlık Höyük: Çankırı'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6042671,40.6452827"
 draft: "false"
 weight: "999"

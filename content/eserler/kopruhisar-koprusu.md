@@ -5,10 +5,10 @@ slug: "kopruhisar-koprusu"
 description: "### Köprühisar Köprüsü: Bir Öykü ve Bir Miras..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.787473825,40.278804561"
 draft: "false"
 weight: "999"

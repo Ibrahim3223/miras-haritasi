@@ -5,10 +5,10 @@ slug: "han-deresi-koprusu"
 description: "# Han Deresi Köprüsü..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2288055,38.6387024"
 draft: "false"
 weight: "999"

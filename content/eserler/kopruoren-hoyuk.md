@@ -5,10 +5,10 @@ slug: "kopruoren-hoyuk"
 description: "# Köprüören Höyük: Kütahya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.753733,39.504867"
 draft: "false"
 weight: "999"

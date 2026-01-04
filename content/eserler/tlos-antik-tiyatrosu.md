@@ -5,10 +5,10 @@ slug: "tlos-antik-tiyatrosu"
 description: "## Tlos Antik Tiyatrosu: Muğla'nın Gizli Çeșiti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.42251,36.552263"
 draft: "false"
 weight: "999"

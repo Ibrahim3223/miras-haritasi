@@ -5,10 +5,10 @@ slug: "beyazit-devlet-kutuphanesi"
 description: "## Beyazıt Devlet Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Beyazıt_Devlet_Kütüphanesi_(2025).jpg/1200px-Beyazıt_Devlet_Kütüphanesi_(2025).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.965867,41.010791"
 draft: "false"
 weight: "10"

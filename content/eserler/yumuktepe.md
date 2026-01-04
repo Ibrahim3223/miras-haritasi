@@ -5,10 +5,10 @@ slug: "yumuktepe"
 description: "### Yumuktepe: Mersin'in Gizli Tarihî Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Yümüktepe,_Mersin.JPG/1200px-Yümüktepe,_Mersin.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mersin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6,36.8"
 draft: "false"
 weight: "10"

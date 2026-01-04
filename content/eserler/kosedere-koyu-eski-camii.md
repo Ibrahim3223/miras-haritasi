@@ -5,10 +5,10 @@ slug: "kosedere-koyu-eski-camii"
 description: "## Kösedere Köyü Eski Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.1836815,39.6289368"
 draft: "false"
 weight: "999"

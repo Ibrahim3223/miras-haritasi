@@ -5,10 +5,10 @@ slug: "cavusbasi-hoyuk"
 description: "## Çavuşbaşı Höyük: Gaziantep'in Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.5062126,36.8378482"
 draft: "false"
 weight: "999"

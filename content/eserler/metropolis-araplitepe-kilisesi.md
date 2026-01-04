@@ -5,10 +5,10 @@ slug: "metropolis-araplitepe-kilisesi"
 description: "## Metropolis Araplıtepe Kilisesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3250198,38.1273575"
 draft: "false"
 weight: "999"

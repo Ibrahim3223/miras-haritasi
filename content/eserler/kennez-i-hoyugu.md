@@ -5,10 +5,10 @@ slug: "kennez-i-hoyugu"
 description: "## Kennez I Höyüğü: Akhisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.860771,38.846196"
 draft: "false"
 weight: "999"

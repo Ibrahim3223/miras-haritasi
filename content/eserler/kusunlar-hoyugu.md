@@ -5,10 +5,10 @@ slug: "kusunlar-hoyugu"
 description: "## Kusunlar Höyüğü: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9561462,39.8856354"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "helvaci-baba-turbesi-eregli"
 description: "## Helvacı Baba Türbesi, Ereğli..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.053344603,37.516326575"
 draft: "false"
 weight: "999"

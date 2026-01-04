@@ -5,10 +5,10 @@ slug: "hisart-canli-tarih-ve-diorama-muzesi"
 description: "## Hisart Canlı Tarih ve Diorama Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.983349,41.071339"
 draft: "false"
 weight: "999"

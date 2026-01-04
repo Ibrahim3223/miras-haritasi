@@ -5,10 +5,10 @@ slug: "ciftlikkoy-eski-camii"
 description: "**Çiftlikköy Eski Camii**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5398064,36.7781219"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "deruni-mehmet-efendi-turbesi"
 description: "## Deruni Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "28.9610329,41.0121536"
 draft: "false"
 weight: "999"

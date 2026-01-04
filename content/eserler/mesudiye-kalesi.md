@@ -5,10 +5,10 @@ slug: "mesudiye-kalesi"
 description: "**Mesudiye Kalesi**..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.7456117,40.4959991"
 draft: "false"
 weight: "999"

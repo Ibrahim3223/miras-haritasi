@@ -5,10 +5,10 @@ slug: "camlidere-kultur-evi"
 description: "## Çamlıdere Kültür Evi: Ankara'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4758797,40.4903526"
 draft: "false"
 weight: "999"

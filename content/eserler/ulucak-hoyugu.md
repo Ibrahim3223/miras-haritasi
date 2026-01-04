@@ -5,10 +5,10 @@ slug: "ulucak-hoyugu"
 description: "## Ulucak Höyüğü: İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3521595,38.4666557"
 draft: "false"
 weight: "999"

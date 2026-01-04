@@ -5,10 +5,10 @@ slug: "rasim-pasa-camii"
 description: "## Rasim Paşa Camii: Kadıköy'ün Tarihî Bir Görevi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Rasim_Paşa_Camii.jpg/1200px-Rasim_Paşa_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.030055555,40.996361111"
 draft: "false"
 weight: "10"

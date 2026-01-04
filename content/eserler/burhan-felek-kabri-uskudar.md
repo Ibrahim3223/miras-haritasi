@@ -5,10 +5,10 @@ slug: "burhan-felek-kabri-uskudar"
 description: "## Burhan Felek Kabri, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0170345,41.0137138"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirmizi-kopru-bahcesaray"
 description: "## Kırmızı Köprü, Bahçesaray..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "Bahçesaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.796522,38.091176"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sivrioglu-camii"
 description: "### Sivrioğlu Camii: Eskişehir'in Gizli Çehresinin Yüzyıllık Tarihi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5245247,39.7615242"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pteria"
 description: "## Pteria: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.108768,41.321531"
 draft: "false"
 weight: "999"

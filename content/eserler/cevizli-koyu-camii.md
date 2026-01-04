@@ -5,10 +5,10 @@ slug: "cevizli-koyu-camii"
 description: "## Cevizli Köyü Camii: Şavşat'ın Değerli Mirası..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Cevizli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.3871002,41.3021011"
 draft: "false"
 weight: "999"

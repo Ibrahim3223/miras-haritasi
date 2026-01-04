@@ -5,10 +5,10 @@ slug: "appia"
 description: "## Appia: Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cd/Appian_Way.jpg"
 province: "Altıntaş"
-iller: '["Altıntaş"]'
+iller: ["Altıntaş"]
 district: "Pınarcık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9841704,39.0246078"
 draft: "false"
 weight: "999"

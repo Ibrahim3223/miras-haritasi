@@ -5,10 +5,10 @@ slug: "bizans-sarayi-sarhos-hamami"
 description: "## Bizans Sarayı (Sarhoş Hamamı): İzmir'in Gizli Şarkısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.342384421,37.944778793"
 draft: "false"
 weight: "999"

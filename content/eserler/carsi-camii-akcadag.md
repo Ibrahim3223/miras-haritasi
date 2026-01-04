@@ -5,10 +5,10 @@ slug: "carsi-camii-akcadag"
 description: "### Çarşı Camii: Akçadağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.9703369,38.3444557"
 draft: "false"
 weight: "999"

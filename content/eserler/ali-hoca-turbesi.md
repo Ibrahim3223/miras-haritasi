@@ -5,10 +5,10 @@ slug: "ali-hoca-turbesi"
 description: "## Ali Hoca Türbesi: Beyoğlu'ndaki Tarihî Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9741402,41.0304298"
 draft: "false"
 weight: "999"

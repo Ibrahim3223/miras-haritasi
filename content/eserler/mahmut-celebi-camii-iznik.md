@@ -5,10 +5,10 @@ slug: "mahmut-celebi-camii-iznik"
 description: "## Mahmut Çelebi Camii: İznik'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.71982,40.428051"
 draft: "false"
 weight: "999"

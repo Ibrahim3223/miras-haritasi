@@ -5,10 +5,10 @@ slug: "bakrac-hoyugu"
 description: "## Bakraç Höyüğü: Kahramanmaraş'ın Gizemi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9550359,38.2942143"
 draft: "false"
 weight: "999"

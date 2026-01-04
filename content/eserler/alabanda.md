@@ -5,10 +5,10 @@ slug: "alabanda"
 description: "## Alabanda: Aydın'da Bir Arkeolojik Şatırın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Alabanda_Bouleuterion.JPG/1200px-Alabanda_Bouleuterion.JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.985429,37.591796"
 draft: "false"
 weight: "10"

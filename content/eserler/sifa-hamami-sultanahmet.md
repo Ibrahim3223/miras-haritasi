@@ -5,10 +5,10 @@ slug: "sifa-hamami-sultanahmet"
 description: "### Şifa Hamamı Sultanahmet..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.975518,41.004201"
 draft: "false"
 weight: "999"

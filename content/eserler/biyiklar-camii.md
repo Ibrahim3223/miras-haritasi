@@ -5,10 +5,10 @@ slug: "biyiklar-camii"
 description: "## Bıyıklar Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6528473,38.2218513"
 draft: "false"
 weight: "999"

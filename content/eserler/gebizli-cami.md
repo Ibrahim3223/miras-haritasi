@@ -5,10 +5,10 @@ slug: "gebizli-cami"
 description: "## Gebizli Cami - Antalya'nın Gizli Çağırağandan..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7283249,36.8860207"
 draft: "false"
 weight: "999"

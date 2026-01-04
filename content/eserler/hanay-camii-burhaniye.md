@@ -5,10 +5,10 @@ slug: "hanay-camii-burhaniye"
 description: "## Hanay Camii, Burhaniye..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9803543,39.5044785"
 draft: "false"
 weight: "999"

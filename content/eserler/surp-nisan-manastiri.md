@@ -5,10 +5,10 @@ slug: "surp-nisan-manastiri"
 description: "### Surp Nişan Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Surb_Nshan_church_(Sebastia).jpg/1200px-Surb_Nshan_church_(Sebastia).jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "36.942361111,39.840861111"
 draft: "false"
 weight: "10"

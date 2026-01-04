@@ -5,10 +5,10 @@ slug: "ruzgarlitepe-tumulusu"
 description: "### Rüzgarlıtepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3383827,40.3531914"
 draft: "false"
 weight: "999"

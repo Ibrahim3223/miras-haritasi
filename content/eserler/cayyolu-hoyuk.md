@@ -5,10 +5,10 @@ slug: "cayyolu-hoyuk"
 description: "### Çayyolu Höyük: Ankara'nın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.6842194,39.871727"
 draft: "false"
 weight: "999"

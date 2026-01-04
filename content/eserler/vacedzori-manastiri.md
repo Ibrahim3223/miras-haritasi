@@ -5,10 +5,10 @@ slug: "vacedzori-manastiri"
 description: "## Vaçedzori Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Vachedzori_monastery,_E._Takaishvili_expedidion_1907.jpg/1200px-Vachedzori_monastery,_E._Takaishvili_expedidion_1907.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Olur"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.9892,40.870597222"
 draft: "false"
 weight: "10"

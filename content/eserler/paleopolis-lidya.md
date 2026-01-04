@@ -5,10 +5,10 @@ slug: "paleopolis-lidya"
 description: "# Paleopolis (Lidya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.2170655,38.085201"
 draft: "false"
 weight: "999"

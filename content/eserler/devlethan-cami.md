@@ -5,10 +5,10 @@ slug: "devlethan-cami"
 description: "## Devlethan Camii: Yalvaç'taki Ölümsüz Bir Miras..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.18,38.2956247"
 draft: "false"
 weight: "999"

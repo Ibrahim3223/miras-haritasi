@@ -5,10 +5,10 @@ slug: "manastir-kuzulimani"
 description: "### Manastır (Kuzulimanı): Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.9529991,40.2209015"
 draft: "false"
 weight: "999"

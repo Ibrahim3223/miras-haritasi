@@ -5,10 +5,10 @@ slug: "tavsanburuntepe-hoyugu"
 description: "### Tavşanburuntepe Höyüğü: Malatya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1065521,38.284935"
 draft: "false"
 weight: "999"

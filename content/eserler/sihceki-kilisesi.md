@@ -5,10 +5,10 @@ slug: "sihceki-kilisesi"
 description: "## Sihçeki Kilisesi..."
 featured_image: ""
 province: "Oltu"
-iller: '["Oltu"]'
+iller: ["Oltu"]
 district: "Güzelsu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.016141666,40.615472222"
 draft: "false"
 weight: "999"

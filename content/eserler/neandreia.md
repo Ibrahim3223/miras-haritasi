@@ -5,10 +5,10 @@ slug: "neandreia"
 description: "## Neandreia: Ezine'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.273117,39.7236265"
 draft: "false"
 weight: "999"

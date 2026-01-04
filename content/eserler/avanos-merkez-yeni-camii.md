@@ -5,10 +5,10 @@ slug: "avanos-merkez-yeni-camii"
 description: "**Avanos Merkez Yeni Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Avanos_Merkez_Yeni_Cami_(2).JPG/1200px-Avanos_Merkez_Yeni_Cami_(2).JPG"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.848114486,38.718310231"
 draft: "false"
 weight: "10"

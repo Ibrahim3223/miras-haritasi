@@ -5,10 +5,10 @@ slug: "epce-sultan-turbesi"
 description: "## Epçe Sultan Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.5919266,38.2957001"
 draft: "false"
 weight: "999"

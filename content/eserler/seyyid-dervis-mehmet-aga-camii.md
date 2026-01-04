@@ -5,10 +5,10 @@ slug: "seyyid-dervis-mehmet-aga-camii"
 description: "## Seyyid Derviş Mehmet Ağa Camii: Safranbolu'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.780827824,41.218659051"
 draft: "false"
 weight: "999"

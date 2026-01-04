@@ -5,10 +5,10 @@ slug: "surp-minas-kilisesi"
 description: "### Surp Minas Kilisesi: Aziziye'nin Yüce Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aziziye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.182623531,39.922442591"
 draft: "false"
 weight: "999"

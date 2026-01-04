@@ -5,10 +5,10 @@ slug: "ptt-istanbul-muzesi"
 description: "## PTT İstanbul Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/İstanbul_Sirkeci_Büyük_Postane_1.JPG/1200px-İstanbul_Sirkeci_Büyük_Postane_1.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97361,41.01485"
 draft: "false"
 weight: "10"

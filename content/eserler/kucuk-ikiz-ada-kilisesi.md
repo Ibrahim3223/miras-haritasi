@@ -5,10 +5,10 @@ slug: "kucuk-ikiz-ada-kilisesi"
 description: "### Küçük İkiz Ada Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bafa_(3).jpg/1200px-Bafa_(3).jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4888668,37.5059128"
 draft: "false"
 weight: "10"

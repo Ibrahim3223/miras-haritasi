@@ -5,10 +5,10 @@ slug: "eceabat-isimsiz-yuzbasi-sehitligi"
 description: "## Eceabat İsimsiz Yüzbaşı Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3691463,40.1692924"
 draft: "false"
 weight: "999"

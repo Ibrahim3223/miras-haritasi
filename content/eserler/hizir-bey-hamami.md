@@ -5,10 +5,10 @@ slug: "hizir-bey-hamami"
 description: "## Hızır Bey Hamamı..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.8313637,41.5669937"
 draft: "false"
 weight: "999"

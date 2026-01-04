@@ -5,10 +5,10 @@ slug: "sifa-hamami-kartal"
 description: "## Şifa Hamamı Kartal: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.185991,40.889067"
 draft: "false"
 weight: "999"

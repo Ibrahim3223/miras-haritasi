@@ -5,10 +5,10 @@ slug: "aziz-yorgi-kilisesi-tirilye"
 description: "### Aziz Yorgi Kilisesi (Tirilye)..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.8114,40.3908"
 draft: "false"
 weight: "999"

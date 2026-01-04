@@ -5,10 +5,10 @@ slug: "ivaz-pasa-turbesi"
 description: "## İvaz Paşa Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4222298,38.6071625"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gazi-turhan-bey-camii"
 description: "## Gazi Turhan Bey Camii: Edirne'nin Gizli Çehresinde Bir Örnek..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7544765,41.2032509"
 draft: "false"
 weight: "999"

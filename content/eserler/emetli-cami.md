@@ -5,10 +5,10 @@ slug: "emetli-cami"
 description: "## Emetli Cami..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.844635,38.9218903"
 draft: "false"
 weight: "999"

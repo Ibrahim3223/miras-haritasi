@@ -5,10 +5,10 @@ slug: "yalova-zabitan-sehitligi"
 description: "### Yalova Zabitan Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4063683,40.2602386"
 draft: "false"
 weight: "999"

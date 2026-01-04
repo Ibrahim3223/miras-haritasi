@@ -5,10 +5,10 @@ slug: "edessa"
 description: "### Edessa: Tarihin Etkileyici Bir Köyü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Urfa_Castle_01.jpg/1200px-Urfa_Castle_01.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Şanlıurfa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.783961111,37.145655555"
 draft: "false"
 weight: "10"

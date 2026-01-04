@@ -5,10 +5,10 @@ slug: "geyral-hoyuk"
 description: "## Geyral Höyük: Aksaray'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2682198,38.4486069"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "galipbaba-hoyugu"
 description: "### Galipbaba Höyüğü: Malatya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.5041389,38.4210167"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kayzer-kalesi"
 description: "## Kayzer Kalesi: Kütahya'da Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.2716064,39.5091743"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sanctuary-of-persian-artemis-in-hypaipa"
 description: "## Sanctuary of Persian Artemis in Hypaipa..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.95316,38.27748"
 draft: "false"
 weight: "999"

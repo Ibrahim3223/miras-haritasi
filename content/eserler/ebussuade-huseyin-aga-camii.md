@@ -5,10 +5,10 @@ slug: "ebussuade-huseyin-aga-camii"
 description: "## Ebüssüade Hüseyin Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.96882,41.00953"
 draft: "false"
 weight: "999"

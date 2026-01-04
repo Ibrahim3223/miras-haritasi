@@ -5,10 +5,10 @@ slug: "softa-kalesi"
 description: "## Softa Kalesi: Mersin'in Eski Zorunlu Sığınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Softa_Castle_1.jpg/1200px-Softa_Castle_1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.01722222,36.10444444"
 draft: "false"
 weight: "10"

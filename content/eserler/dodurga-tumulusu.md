@@ -5,10 +5,10 @@ slug: "dodurga-tumulusu"
 description: "# Dodurga Tümülüsü..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9135723,39.8032227"
 draft: "false"
 weight: "999"

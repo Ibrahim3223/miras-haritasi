@@ -5,10 +5,10 @@ slug: "sigacik-hamami"
 description: "### Sığacık Hamamı: Seferihisar'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7849998,38.1939011"
 draft: "false"
 weight: "999"

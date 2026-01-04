@@ -5,10 +5,10 @@ slug: "hoca-ahmet-fakih-turbesi"
 description: "# Hoca Ahmet Fakih Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4664383,37.8719864"
 draft: "false"
 weight: "999"

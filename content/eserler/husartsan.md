@@ -5,10 +5,10 @@ slug: "husartsan"
 description: "### Huşartsan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Istanbul_Armenian_Genocide_memorial.jpg/1200px-Istanbul_Armenian_Genocide_memorial.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.987666666,41.041694444"
 draft: "false"
 weight: "10"

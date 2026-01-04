@@ -5,10 +5,10 @@ slug: "hadimkoy-hadim-baba-camii"
 description: "### Hadımköy Hadım Baba Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6180325,41.1572418"
 draft: "false"
 weight: "999"

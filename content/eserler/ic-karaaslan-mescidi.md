@@ -5,10 +5,10 @@ slug: "ic-karaaslan-mescidi"
 description: "## İç Karaaslan Mescidi: Konya'nın Gizli Bir Çağı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4996605,37.8743324"
 draft: "false"
 weight: "999"

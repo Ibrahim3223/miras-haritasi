@@ -5,10 +5,10 @@ slug: "ataturk-aniti"
 description: "### Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/AtatürkAnıtı-TBMM.jpg/1200px-AtatürkAnıtı-TBMM.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.851555555,39.912194444"
 draft: "false"
 weight: "10"

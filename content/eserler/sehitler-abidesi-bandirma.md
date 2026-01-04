@@ -5,10 +5,10 @@ slug: "sehitler-abidesi-bandirma"
 description: "**Şehitler Abidesi, Bandırma**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9705696,40.3546066"
 draft: "false"
 weight: "999"

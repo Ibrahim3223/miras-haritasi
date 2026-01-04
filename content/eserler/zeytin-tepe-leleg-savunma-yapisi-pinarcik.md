@@ -5,10 +5,10 @@ slug: "zeytin-tepe-leleg-savunma-yapisi-pinarcik"
 description: "### Zeytin Tepe Leleg Savunma Yapısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5015011,37.4686546"
 draft: "false"
 weight: "999"

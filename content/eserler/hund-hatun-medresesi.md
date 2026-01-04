@@ -5,10 +5,10 @@ slug: "hund-hatun-medresesi"
 description: "## Hundî Hatun Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0624542,40.1839371"
 draft: "false"
 weight: "999"

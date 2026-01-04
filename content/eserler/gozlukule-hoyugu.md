@@ -5,10 +5,10 @@ slug: "gozlukule-hoyugu"
 description: "## Gözlükule Höyüğü: Mersin'in Gizli Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.89444444,36.91277778"
 draft: "false"
 weight: "999"

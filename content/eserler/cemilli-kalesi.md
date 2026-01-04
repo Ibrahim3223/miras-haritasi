@@ -5,10 +5,10 @@ slug: "cemilli-kalesi"
 description: "## Cemilli Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Cemilli_Castle.JPG/1200px-Cemilli_Castle.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.4555551,36.8103112"
 draft: "false"
 weight: "10"

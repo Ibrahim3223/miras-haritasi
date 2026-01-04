@@ -5,10 +5,10 @@ slug: "tugay-icindeki-tumulus"
 description: "### Tugay İçindeki Tümülüs: Vize'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7662373,41.6086884"
 draft: "false"
 weight: "999"

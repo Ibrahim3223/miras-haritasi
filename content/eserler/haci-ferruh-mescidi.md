@@ -5,10 +5,10 @@ slug: "haci-ferruh-mescidi"
 description: "## Hacı Ferruh Mescidi: Konya'nın Tarihi Bir Zenginliği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4938469,37.8648605"
 draft: "false"
 weight: "999"

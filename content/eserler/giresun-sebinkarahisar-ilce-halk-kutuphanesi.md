@@ -5,10 +5,10 @@ slug: "giresun-sebinkarahisar-ilce-halk-kutuphanesi"
 description: "### Giresun Şebinkarahisar İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

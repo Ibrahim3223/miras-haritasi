@@ -5,10 +5,10 @@ slug: "piri-halife-sultan-turbesi"
 description: "**Piri Halife Sultan Türbesi**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8355,37.8727"
 draft: "false"
 weight: "999"

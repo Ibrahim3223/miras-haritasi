@@ -5,10 +5,10 @@ slug: "anemurium-hazine-kilisesi"
 description: "## Anemurium Hazine Kilisesi: Mersin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.8037415,36.0245781"
 draft: "false"
 weight: "999"

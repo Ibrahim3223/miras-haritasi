@@ -5,10 +5,10 @@ slug: "icadiye-dag-hamami"
 description: "## İcadiye Dağ Hamamı: Üsküdar'ın Tarihi Bir Öreni..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.031128,41.031157"
 draft: "false"
 weight: "999"

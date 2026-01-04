@@ -5,10 +5,10 @@ slug: "seyh-zulfo-turbesi"
 description: "## Şeyh Zülfo Türbesi: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.32937,36.980117"
 draft: "false"
 weight: "999"

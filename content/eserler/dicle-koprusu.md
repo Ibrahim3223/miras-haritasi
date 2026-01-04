@@ -5,10 +5,10 @@ slug: "dicle-koprusu"
 description: "## Dicle Köprüsü: Diyarbakır'ın Tarihî ve Kültürel Devleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Dehderî.jpg/1200px-Dehderî.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.22882,37.88719"
 draft: "false"
 weight: "10"

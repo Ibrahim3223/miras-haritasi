@@ -5,10 +5,10 @@ slug: "uc-kuzular-camii"
 description: "## Üç Kuzular Camii Tanıtımı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.056633,40.1770935"
 draft: "false"
 weight: "999"

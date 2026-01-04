@@ -5,10 +5,10 @@ slug: "herdane-bahar-baba-turbesi"
 description: "## Herdane Bahar Baba Türbesi: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2855511,39.003746"
 draft: "false"
 weight: "999"

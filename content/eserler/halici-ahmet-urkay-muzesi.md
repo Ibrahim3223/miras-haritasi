@@ -5,10 +5,10 @@ slug: "halici-ahmet-urkay-muzesi"
 description: "### Halıcı Ahmet Urkay Müzesi: Marmaris'in Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

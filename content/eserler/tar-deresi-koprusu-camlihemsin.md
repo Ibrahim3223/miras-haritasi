@@ -5,10 +5,10 @@ slug: "tar-deresi-koprusu-camlihemsin"
 description: "## Tar Deresi Köprüsü: Çamlıhemşin'in Tarihî ve Mimarî Harikası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.059309,40.997025"
 draft: "false"
 weight: "999"

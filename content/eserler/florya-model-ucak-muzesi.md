@@ -5,10 +5,10 @@ slug: "florya-model-ucak-muzesi"
 description: "## Florya Model Uçak Müzesi: Türkiye'nin Uçuş Tarihine Adanmış Bir Müze..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.804886345,40.97436281"
 draft: "false"
 weight: "999"

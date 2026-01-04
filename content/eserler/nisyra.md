@@ -5,10 +5,10 @@ slug: "nisyra"
 description: "## Nisyra Arkeolojik Siti..."
 featured_image: ""
 province: "Kula (ilçe)"
-iller: '["Kula (ilçe)"]'
+iller: ["Kula (ilçe)"]
 district: "Saraçlar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.603039,38.54711"
 draft: "false"
 weight: "999"

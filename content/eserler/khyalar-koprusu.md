@@ -5,10 +5,10 @@ slug: "khyalar-koprusu"
 description: "## Kâhyalar Köprüsü: Bir Antik Köprüün Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.291832,36.2909241"
 draft: "false"
 weight: "999"

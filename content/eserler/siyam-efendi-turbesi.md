@@ -5,10 +5,10 @@ slug: "siyam-efendi-turbesi"
 description: "## Siyam Efendi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Taşkent"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.7218361,36.8614006"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kilavuzlu-mahallesi-tumulusu-asarcik"
 description: "## Kılavuzlu Mahallesi Tümülüsü, Asarcık..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.288766,41.023346"
 draft: "false"
 weight: "999"

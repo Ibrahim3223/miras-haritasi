@@ -5,10 +5,10 @@ slug: "kurttas-tumulusu-arguvan"
 description: "### Kurttaş Tümülüsü, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1575394,38.9225769"
 draft: "false"
 weight: "999"

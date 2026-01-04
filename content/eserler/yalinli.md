@@ -5,10 +5,10 @@ slug: "yalinli"
 description: "**Yalınlı Arkeolojik Sit**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.380364,39.696964"
 draft: "false"
 weight: "999"

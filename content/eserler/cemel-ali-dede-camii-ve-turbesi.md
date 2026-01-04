@@ -5,10 +5,10 @@ slug: "cemel-ali-dede-camii-ve-turbesi"
 description: "## Cemel Ali Dede Camii ve Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4239044,37.8552589"
 draft: "false"
 weight: "999"

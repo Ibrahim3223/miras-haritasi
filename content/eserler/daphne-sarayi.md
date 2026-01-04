@@ -5,10 +5,10 @@ slug: "daphne-sarayi"
 description: "## Daphne Sarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.976,41.006"
 draft: "false"
 weight: "999"

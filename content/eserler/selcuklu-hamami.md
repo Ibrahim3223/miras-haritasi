@@ -5,10 +5,10 @@ slug: "selcuklu-hamami"
 description: "## Selçuklu Hamamı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.8400478,39.4887199"
 draft: "false"
 weight: "999"

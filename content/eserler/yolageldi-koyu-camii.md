@@ -5,10 +5,10 @@ slug: "yolageldi-koyu-camii"
 description: "## Yolageldi Köyü Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9480057,41.5164566"
 draft: "false"
 weight: "999"

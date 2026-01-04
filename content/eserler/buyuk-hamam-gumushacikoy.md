@@ -5,10 +5,10 @@ slug: "buyuk-hamam-gumushacikoy"
 description: "# Büyük Hamam, Gümüşhacıköy..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Gümüşhacıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.2172737,40.8729897"
 draft: "false"
 weight: "999"

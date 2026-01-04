@@ -5,10 +5,10 @@ slug: "dolishane-kilisesi"
 description: "## Dolishane Kilisesi: Türkiye'nin Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Doliskana-southeast.jpg/1200px-Doliskana-southeast.jpg"
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.95222222,41.16583333"
 draft: "false"
 weight: "10"

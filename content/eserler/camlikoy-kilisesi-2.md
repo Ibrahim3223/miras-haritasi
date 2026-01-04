@@ -5,10 +5,10 @@ slug: "camlikoy-kilisesi-2"
 description: "## Çamlıköy Kilisesi 2: Geçmişten Bugüne Geçen Bir Tarihi Eser..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.521338,40.397263"
 draft: "false"
 weight: "999"

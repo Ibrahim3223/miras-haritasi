@@ -5,10 +5,10 @@ slug: "agamnia-yerlesimi"
 description: "## Agamnia Yerleşimi: Ezine'nin Gizli Tarihi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1685505,39.9623299"
 draft: "false"
 weight: "999"

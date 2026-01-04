@@ -5,10 +5,10 @@ slug: "orta-mahalle-camii-artvin"
 description: "## Orta Mahalle Camii, Artvin..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Artvin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.826528,41.181497"
 draft: "false"
 weight: "999"

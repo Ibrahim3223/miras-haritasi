@@ -5,10 +5,10 @@ slug: "seyh-idris-camii"
 description: "## Şeyh İdris Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Piraziz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.100399,40.9034538"
 draft: "false"
 weight: "999"

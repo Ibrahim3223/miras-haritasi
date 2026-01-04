@@ -5,10 +5,10 @@ slug: "mor-kuryakos-kilisesi"
 description: "**Mor Kuryakos Kilisesi**..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4583359,37.4567032"
 draft: "false"
 weight: "999"

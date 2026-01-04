@@ -5,10 +5,10 @@ slug: "saraykoy-yalikoy-cami-koprusu"
 description: "### Sarayköy-Yalıköy Cami Köprüsü: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3777,41.021533"
 draft: "false"
 weight: "999"

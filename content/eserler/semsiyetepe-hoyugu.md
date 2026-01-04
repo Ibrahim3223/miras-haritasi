@@ -5,10 +5,10 @@ slug: "semsiyetepe-hoyugu"
 description: "## Şemsiyetepe Höyüğü: Elazığ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3742218,38.5754242"
 draft: "false"
 weight: "999"

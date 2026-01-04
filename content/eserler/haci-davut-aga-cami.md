@@ -5,10 +5,10 @@ slug: "haci-davut-aga-cami"
 description: "## Hacı Davut Ağa Cami: Kocaeli'nin Gizli Pearlları..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7800446,40.7098007"
 draft: "false"
 weight: "999"

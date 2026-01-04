@@ -5,10 +5,10 @@ slug: "guneysu-betonarme-kemer-kopru"
 description: "### Güneysu Betonarme Kemer Köprü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.612975713,40.980618776"
 draft: "false"
 weight: "999"

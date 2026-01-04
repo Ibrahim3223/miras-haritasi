@@ -5,10 +5,10 @@ slug: "karacaoglu-camii"
 description: "## Karacaoğlu Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4807205,38.7118607"
 draft: "false"
 weight: "999"

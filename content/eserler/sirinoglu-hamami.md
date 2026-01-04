@@ -5,10 +5,10 @@ slug: "sirinoglu-hamami"
 description: "## Şirinoğlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.0164032,39.7555122"
 draft: "false"
 weight: "999"

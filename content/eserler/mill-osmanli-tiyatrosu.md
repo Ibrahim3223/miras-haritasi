@@ -5,10 +5,10 @@ slug: "mill-osmanli-tiyatrosu"
 description: "## Millî Osmanlı Tiyatrosu..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: ""
 draft: "false"
 weight: "999"

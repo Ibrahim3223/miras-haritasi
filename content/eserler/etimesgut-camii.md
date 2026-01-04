@@ -5,10 +5,10 @@ slug: "etimesgut-camii"
 description: "## Etimesgut Camii: Etimesgut'un Tarihî Bir Cephesi..."
 featured_image: ""
 province: "Etimesgut"
-iller: '["Etimesgut"]'
+iller: ["Etimesgut"]
 district: "Erler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.708638888,39.917055555"
 draft: "false"
 weight: "999"

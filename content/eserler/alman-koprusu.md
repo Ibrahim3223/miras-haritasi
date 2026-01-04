@@ -5,10 +5,10 @@ slug: "alman-koprusu"
 description: "## Alman Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Alman_köprüsü.jpg/1200px-Alman_köprüsü.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Gölbaşı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.671111111,37.845"
 draft: "false"
 weight: "10"

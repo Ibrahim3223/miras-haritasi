@@ -5,10 +5,10 @@ slug: "hamam-uzunkopru"
 description: "## Uzunköprü Hamamı: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.6872139,41.2693138"
 draft: "false"
 weight: "999"

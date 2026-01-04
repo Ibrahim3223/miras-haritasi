@@ -5,10 +5,10 @@ slug: "kerkusti-hoyuk"
 description: "## Kerküşti Höyük: Mardin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gavurhoyugu"
 description: "# Gavurhöyüğü Arkeolojik Sit..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4100902,38.91009"
 draft: "false"
 weight: "999"

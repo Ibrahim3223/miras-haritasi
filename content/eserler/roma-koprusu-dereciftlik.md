@@ -5,10 +5,10 @@ slug: "roma-koprusu-dereciftlik"
 description: "## Roma Köprüsü, Dereçiftlik..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.3532658,37.8057594"
 draft: "false"
 weight: "999"

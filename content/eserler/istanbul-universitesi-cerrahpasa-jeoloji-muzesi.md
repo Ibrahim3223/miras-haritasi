@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-cerrahpasa-jeoloji-muzesi"
 description: "# İstanbul Üniversitesi Cerrahpaşa Jeoloji Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Avcılar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.7226739,40.9891042"
 draft: "false"
 weight: "999"

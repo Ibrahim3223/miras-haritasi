@@ -5,10 +5,10 @@ slug: "sakalar-camii"
 description: "## Sakalar Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Kurşunlu_Camii_İçinden.jpg/1200px-Kurşunlu_Camii_İçinden.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8619156,39.9354286"
 draft: "false"
 weight: "10"

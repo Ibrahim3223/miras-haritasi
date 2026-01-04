@@ -5,10 +5,10 @@ slug: "old-turkish-bath-of-hudavendigar-complex"
 description: "## Hüdavendigar Kompleksi'ndeki Eski Türk Hamamı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.02333,40.20222"
 draft: "false"
 weight: "999"

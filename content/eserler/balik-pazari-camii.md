@@ -5,10 +5,10 @@ slug: "balik-pazari-camii"
 description: "### Balık Pazarı Camii: Gemlik'te Bir Ömür Boyu Kalan Eğreti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/70/Fish_market_in_Nouakchott_-_Mauritania.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1527309,40.4343224"
 draft: "false"
 weight: "999"

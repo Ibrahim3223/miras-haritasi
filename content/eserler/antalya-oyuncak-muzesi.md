@@ -5,10 +5,10 @@ slug: "antalya-oyuncak-muzesi"
 description: "## Antalya Oyuncak Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Antalya_Toy_Museum_feb_2015_5552.jpg/1200px-Antalya_Toy_Museum_feb_2015_5552.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.7022,36.885494"
 draft: "false"
 weight: "10"

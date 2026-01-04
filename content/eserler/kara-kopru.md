@@ -5,10 +5,10 @@ slug: "kara-kopru"
 description: "## Kara Köprü: Diyarbakır'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.2731018,37.8091965"
 draft: "false"
 weight: "999"

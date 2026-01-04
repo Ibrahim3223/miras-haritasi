@@ -5,10 +5,10 @@ slug: "notre-dame-de-lourdes-katolik-kilisesi"
 description: "## Notre Dame de Lourdes Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Notre_Dame_De_Lourdes_Kilisesi.jpg/1200px-Notre_Dame_De_Lourdes_Kilisesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.091027777,38.397972222"
 draft: "false"
 weight: "10"

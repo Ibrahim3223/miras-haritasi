@@ -5,10 +5,10 @@ slug: "bozhoyuk"
 description: "# Bozhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yenifakılı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.041805505,39.208493745"
 draft: "false"
 weight: "999"

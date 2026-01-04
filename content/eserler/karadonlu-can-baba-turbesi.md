@@ -5,10 +5,10 @@ slug: "karadonlu-can-baba-turbesi"
 description: "### Karadonlu Can Baba Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9775257,39.4213104"
 draft: "false"
 weight: "999"

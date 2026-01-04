@@ -5,10 +5,10 @@ slug: "yascayir-hoyuk"
 description: "## Yaşçayır Höyük: Keskin'in Gizli Tarihi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Keskin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.5883778,39.5647983"
 draft: "false"
 weight: "999"

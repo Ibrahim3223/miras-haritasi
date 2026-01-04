@@ -5,10 +5,10 @@ slug: "dokurcan-mevkii-arkeolojik-yerlesimi-ve-nekropolu"
 description: "# Dokurcan Mevkii Arkeolojik Yerleşimi ve Nekropolü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0900135,37.5182648"
 draft: "false"
 weight: "999"

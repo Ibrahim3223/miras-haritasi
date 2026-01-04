@@ -5,10 +5,10 @@ slug: "sultan-selim-i-hamami"
 description: "### Sultan Selim (I) Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9487934,41.0252495"
 draft: "false"
 weight: "999"

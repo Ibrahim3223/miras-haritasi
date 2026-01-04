@@ -5,10 +5,10 @@ slug: "uluborlu-kalesi"
 description: "## Uluborlu Kalesi: Isparta'nın Tarihî Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Uluborlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.469841,38.07269"
 draft: "false"
 weight: "999"

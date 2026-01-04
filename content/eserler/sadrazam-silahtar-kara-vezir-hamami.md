@@ -5,10 +5,10 @@ slug: "sadrazam-silahtar-kara-vezir-hamami"
 description: "## Sadrazam Silahtar Kara Vezir Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.6169392,38.7415023"
 draft: "false"
 weight: "999"

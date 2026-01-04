@@ -5,10 +5,10 @@ slug: "cebeci-camii"
 description: "### Cebeci Camii: Balat'taki Tarihi Bir Değer..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.949095,41.027242"
 draft: "false"
 weight: "999"

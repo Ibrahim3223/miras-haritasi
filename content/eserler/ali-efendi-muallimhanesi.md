@@ -5,10 +5,10 @@ slug: "ali-efendi-muallimhanesi"
 description: "## Ali Efendi Muallimhanesi: Karatay, Konya'da Bir Medrese'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Konya_Hac%C4%B1_Ali_Efendi_Muallimhanesi_3759.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.4986649,37.8728142"
 draft: "false"
 weight: "999"

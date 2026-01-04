@@ -5,10 +5,10 @@ slug: "kistag-kilisesi"
 description: "# Kistağ Kilisesi: Batman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.3960648,38.4455528"
 draft: "false"
 weight: "999"

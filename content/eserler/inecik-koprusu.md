@@ -5,10 +5,10 @@ slug: "inecik-koprusu"
 description: "# İnecik Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.287117708,40.934315293"
 draft: "false"
 weight: "999"

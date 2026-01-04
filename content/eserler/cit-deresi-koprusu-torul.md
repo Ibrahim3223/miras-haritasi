@@ -5,10 +5,10 @@ slug: "cit-deresi-koprusu-torul"
 description: "## Çit Deresi Köprüsü Torul: Gümüşhane'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.2918355,40.5408835"
 draft: "false"
 weight: "999"

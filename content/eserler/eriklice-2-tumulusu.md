@@ -5,10 +5,10 @@ slug: "eriklice-2-tumulusu"
 description: "## Eriklice 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1750374,41.7473412"
 draft: "false"
 weight: "999"

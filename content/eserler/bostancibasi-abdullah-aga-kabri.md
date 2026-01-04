@@ -5,10 +5,10 @@ slug: "bostancibasi-abdullah-aga-kabri"
 description: "### Bostancıbaşı Abdullah Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0640259,41.0225334"
 draft: "false"
 weight: "999"

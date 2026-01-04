@@ -5,10 +5,10 @@ slug: "ibrahim-muteferrika-kabri"
 description: "## İbrahim Müteferrika Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/İbrahim_Müteferrika_Kabri.jpg/1200px-İbrahim_Müteferrika_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9747772,41.0284767"
 draft: "false"
 weight: "10"

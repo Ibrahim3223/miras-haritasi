@@ -5,10 +5,10 @@ slug: "kaletepe-hoyugu"
 description: "## Kaletepe Höyüğü: Malatya'nın Gizli Kahramanları..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2176819,38.2837715"
 draft: "false"
 weight: "999"

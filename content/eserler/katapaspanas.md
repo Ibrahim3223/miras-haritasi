@@ -5,10 +5,10 @@ slug: "katapaspanas"
 description: "## Katapaspanas: Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Yenipazar"
-iller: '["Yenipazar"]'
+iller: ["Yenipazar"]
 district: "Yukarıboğaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.603109,40.238261"
 draft: "false"
 weight: "999"

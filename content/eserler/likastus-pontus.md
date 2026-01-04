@@ -5,10 +5,10 @@ slug: "likastus-pontus"
 description: "### Likastus (Pontus)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.450833333,41.2525"
 draft: "false"
 weight: "999"

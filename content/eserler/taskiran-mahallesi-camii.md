@@ -5,10 +5,10 @@ slug: "taskiran-mahallesi-camii"
 description: "## Taşkıran Mahallesi Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.258221249,40.667804354"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tatar-camii-turgutlu"
 description: "## Tatar Camii: Turgutlu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7116909,38.5054436"
 draft: "false"
 weight: "999"

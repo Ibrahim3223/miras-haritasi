@@ -5,10 +5,10 @@ slug: "muid-ahmet-efendi-medresesi"
 description: "### Muid Ahmet Efendi Medresesi: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.952795,41.022309"
 draft: "false"
 weight: "999"

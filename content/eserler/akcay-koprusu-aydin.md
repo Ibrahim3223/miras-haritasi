@@ -5,10 +5,10 @@ slug: "akcay-koprusu-aydin"
 description: "## Akçay Köprüsü: Aydın'ın Efsanevi Taş Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.31563,37.8071632"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sacli-tumulusu"
 description: "## Bayramiç'in Gizemli Zenginliği: Saçlı Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.567936098,39.731007758"
 draft: "false"
 weight: "999"

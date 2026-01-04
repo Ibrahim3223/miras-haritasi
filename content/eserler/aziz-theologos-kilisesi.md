@@ -5,10 +5,10 @@ slug: "aziz-theologos-kilisesi"
 description: "## Aziz Theologos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0589676,40.1869354"
 draft: "false"
 weight: "999"

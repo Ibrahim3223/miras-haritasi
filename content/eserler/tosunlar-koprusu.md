@@ -5,10 +5,10 @@ slug: "tosunlar-koprusu"
 description: "## Tosunlar Köprüsü: Ödemiş'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9027996,38.2841988"
 draft: "false"
 weight: "999"

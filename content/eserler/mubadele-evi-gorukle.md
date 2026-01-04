@@ -5,10 +5,10 @@ slug: "mubadele-evi-gorukle"
 description: "### Mübadele Evi: Bursa'nın Kayıp Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Görükle_Mübadele_Evi.jpg/1200px-Görükle_Mübadele_Evi.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.8390865,40.2323723"
 draft: "false"
 weight: "10"

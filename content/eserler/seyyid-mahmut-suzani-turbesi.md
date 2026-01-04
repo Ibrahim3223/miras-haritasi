@@ -5,10 +5,10 @@ slug: "seyyid-mahmut-suzani-turbesi"
 description: "## Seyyid Mahmut Suzani Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.5397072,39.4477119"
 draft: "false"
 weight: "999"

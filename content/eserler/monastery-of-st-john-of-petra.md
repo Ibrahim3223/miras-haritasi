@@ -5,10 +5,10 @@ slug: "monastery-of-st-john-of-petra"
 description: "### Monastery of St. John of Petra: İstanbul'un Gizli Tarihi Birlikte..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul Büyükşehir Belediyesi"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "besiktas-jimnastik-kulubu-bjk-muzesi"
 description: "## Beşiktaş Jimnastik Kulübü (BJK) Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.995669,41.038662"
 draft: "false"
 weight: "999"

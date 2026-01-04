@@ -5,10 +5,10 @@ slug: "sircali-kumbet"
 description: "## Sırçalı Kümbet: Melikgazi'de Bir Ölümsüz Abid..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4994087,38.7143974"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kabia"
 description: "## Kabia: Sakarya'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.299985,40.500052"
 draft: "false"
 weight: "999"

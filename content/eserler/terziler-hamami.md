@@ -5,10 +5,10 @@ slug: "terziler-hamami"
 description: "## Terziler Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Terziler_Hamamı.jpg/1200px-Terziler_Hamamı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7358322,38.0844803"
 draft: "false"
 weight: "10"

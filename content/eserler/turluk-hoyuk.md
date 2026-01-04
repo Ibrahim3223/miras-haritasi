@@ -5,10 +5,10 @@ slug: "turluk-hoyuk"
 description: "## Turluk Höyük: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9428054,37.0032918"
 draft: "false"
 weight: "999"

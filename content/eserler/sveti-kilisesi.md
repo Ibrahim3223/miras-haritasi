@@ -5,10 +5,10 @@ slug: "sveti-kilisesi"
 description: "## Sveti Kilisesi: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Sveti_Church_1888_by_Pavlinov.jpg/1200px-Sveti_Church_1888_by_Pavlinov.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Artvin"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.855416666,41.206305555"
 draft: "false"
 weight: "10"

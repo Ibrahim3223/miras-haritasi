@@ -5,10 +5,10 @@ slug: "ibrahim-muteferrika-bustu"
 description: "## İbrahim Müteferrika Büstü: Fatih'te Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9659576,41.0104027"
 draft: "false"
 weight: "999"

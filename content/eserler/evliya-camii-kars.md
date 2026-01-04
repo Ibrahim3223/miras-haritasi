@@ -5,10 +5,10 @@ slug: "evliya-camii-kars"
 description: "## Evliya Camii: Kars'ta Bir Tarih Öreni..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.0916176,40.6106796"
 draft: "false"
 weight: "999"

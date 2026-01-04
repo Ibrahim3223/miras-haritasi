@@ -5,10 +5,10 @@ slug: "salos-camii"
 description: "# Salos Camii: Diyarbakır'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2362251,37.9084663"
 draft: "false"
 weight: "999"

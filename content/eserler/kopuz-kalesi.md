@@ -5,10 +5,10 @@ slug: "kopuz-kalesi"
 description: "### Kopuz Kalesi: Torul'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.0711098,40.4741669"
 draft: "false"
 weight: "999"

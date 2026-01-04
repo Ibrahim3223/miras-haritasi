@@ -5,10 +5,10 @@ slug: "atca-hamami"
 description: "## Atça Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.2133999,37.8871994"
 draft: "false"
 weight: "999"

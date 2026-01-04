@@ -5,10 +5,10 @@ slug: "ontoraita"
 description: "# Ontoraita..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.5374015,40.2644105"
 draft: "false"
 weight: "999"

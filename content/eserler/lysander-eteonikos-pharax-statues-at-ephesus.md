@@ -5,10 +5,10 @@ slug: "lysander-eteonikos-pharax-statues-at-ephesus"
 description: "## Lysander, Eteonikos, Pharax Heykelleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3637,37.9497"
 draft: "false"
 weight: "999"

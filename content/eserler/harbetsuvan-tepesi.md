@@ -5,10 +5,10 @@ slug: "harbetsuvan-tepesi"
 description: "## Harbetsuvan Tepesi: Şanlıurfa'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Harbetsuvan_Hill.jpg/1200px-Harbetsuvan_Hill.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.2525,37.0487"
 draft: "false"
 weight: "10"

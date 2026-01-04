@@ -5,10 +5,10 @@ slug: "surp-nigogayos-ermeni-kilisesi"
 description: "## Surp Nigoğayos Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Surp_Nigoğos_Armenian_Church_02.jpg/1200px-Surp_Nigoğos_Armenian_Church_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.926861111,41.021777777"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "necmi-asfuroglu-arkeoloji-muzesi"
 description: "### Necmi Asfuroğlu Arkeoloji Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.1743622,36.2110062"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "durhanaz-koprusu"
 description: "## Durhanaz Köprüsü: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.8375626,40.4358368"
 draft: "false"
 weight: "999"

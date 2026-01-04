@@ -5,10 +5,10 @@ slug: "ayridzor-monastery"
 description: "### Ayridzor Manastırı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "teos-antik-tiyatrosu"
 description: "## Teos Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Teos_Antik_Tiyatro_-_geniş_açı.jpg/1200px-Teos_Antik_Tiyatro_-_geniş_açı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.787541,38.179928"
 draft: "false"
 weight: "10"

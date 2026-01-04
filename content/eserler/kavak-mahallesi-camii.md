@@ -5,10 +5,10 @@ slug: "kavak-mahallesi-camii"
 description: "## Kavak Mahallesi Camii: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.016952079,41.050092853"
 draft: "false"
 weight: "999"

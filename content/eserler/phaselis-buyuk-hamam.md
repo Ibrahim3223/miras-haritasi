@@ -5,10 +5,10 @@ slug: "phaselis-buyuk-hamam"
 description: "## Phaselis Büyük Hamam: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5520172,36.5244293"
 draft: "false"
 weight: "999"

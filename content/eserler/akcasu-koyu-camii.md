@@ -5,10 +5,10 @@ slug: "akcasu-koyu-camii"
 description: "## Akçasu Köyü Camii: Bilecik'in Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Söğüt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.3081036,40.0842094"
 draft: "false"
 weight: "999"

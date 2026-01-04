@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-camii"
 description: "## Mihrişah Valide Sultan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mihrisah_Sultan_Complex_Eyup_DSCF7840.jpg/1200px-Mihrisah_Sultan_Complex_Eyup_DSCF7840.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.934694444,41.048555555"
 draft: "false"
 weight: "10"

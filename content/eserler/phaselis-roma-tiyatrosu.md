@@ -5,10 +5,10 @@ slug: "phaselis-roma-tiyatrosu"
 description: "## Phaselis Roma Tiyatrosu: Antik Şehirde Bir Gerçeklik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Phaselis_theatre_02.jpg/1200px-Phaselis_theatre_02.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.55269,36.52362"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "omer-efendi-camii-ulubey"
 description: "## Ömer Efendi Camii: Ulubey'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2922821,38.4223824"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bozuyuk-sehir-muzesi-ve-arsivi"
 description: "## Bozüyük Şehir Müzesi ve Arşivi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.0270634,39.9115906"
 draft: "false"
 weight: "999"

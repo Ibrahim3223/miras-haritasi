@@ -5,10 +5,10 @@ slug: "karaumur-mescidi"
 description: "## Karaumur Mescidi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.219520328,41.737947524"
 draft: "false"
 weight: "999"

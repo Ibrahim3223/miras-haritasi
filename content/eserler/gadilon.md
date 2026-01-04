@@ -5,10 +5,10 @@ slug: "gadilon"
 description: "# Gadilon Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.894016,41.571325"
 draft: "false"
 weight: "999"

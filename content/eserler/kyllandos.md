@@ -5,10 +5,10 @@ slug: "kyllandos"
 description: "# Kyllandos Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.442249,37.067654"
 draft: "false"
 weight: "999"

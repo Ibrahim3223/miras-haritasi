@@ -5,10 +5,10 @@ slug: "harmason-camii"
 description: "## Harmason Camii: Kastamonu'nun Gizli İncisi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Abana"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.9956894,41.9781036"
 draft: "false"
 weight: "999"

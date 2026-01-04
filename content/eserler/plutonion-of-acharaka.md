@@ -5,10 +5,10 @@ slug: "plutonion-of-acharaka"
 description: "## Plutonion of Acharaka: Aydın'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar İlçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.10964,37.89673"
 draft: "false"
 weight: "999"

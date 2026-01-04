@@ -5,10 +5,10 @@ slug: "lebedos"
 description: "### Lebedos Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kisik_or_Lebedos_Peninsula_Urkmez_Seferihisar_Izmir_Turkey.JPG/1200px-Kisik_or_Lebedos_Peninsula_Urkmez_Seferihisar_Izmir_Turkey.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.967222222,38.073611111"
 draft: "false"
 weight: "10"

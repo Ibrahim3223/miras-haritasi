@@ -5,10 +5,10 @@ slug: "alibaba-turbesi"
 description: "## Alibaba Türbesi: Balıkesir'in Hızlı Dalgası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5307426,40.5092049"
 draft: "false"
 weight: "999"

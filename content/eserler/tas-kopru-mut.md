@@ -5,10 +5,10 @@ slug: "tas-kopru-mut"
 description: "### Taş Köprü, Mut..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.4382324,36.6464958"
 draft: "false"
 weight: "999"

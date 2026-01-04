@@ -5,10 +5,10 @@ slug: "pithoi"
 description: "## Pithoi: Antik Çağın Gizemli Vazo Eserleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.213204,38.240292"
 draft: "false"
 weight: "999"

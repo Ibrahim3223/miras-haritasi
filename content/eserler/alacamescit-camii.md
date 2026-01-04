@@ -5,10 +5,10 @@ slug: "alacamescit-camii"
 description: "## Alacamescit Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Osmangazi%2C_Alacamescit_%2820220701%29.jpg"
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6211243,40.6004105"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yanivat-koprusu"
 description: "## Yanıvt Köprüsü: Ardeşen'in Tarihi Göllerin Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0935074,41.1249927"
 draft: "false"
 weight: "999"

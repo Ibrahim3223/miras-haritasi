@@ -5,10 +5,10 @@ slug: "zeytin-baba-turbesi"
 description: "# Zeytin Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Zeytin_Baba_Trbesi_1761579729.jpg/1200px-Zeytin_Baba_Trbesi_1761579729.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3046646,40.8170547"
 draft: "false"
 weight: "10"

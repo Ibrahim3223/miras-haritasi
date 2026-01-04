@@ -5,10 +5,10 @@ slug: "arapsah-camii"
 description: "## Arapşah Camii: Karaman'ın Göz Alıcı Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8945541,36.641346"
 draft: "false"
 weight: "999"

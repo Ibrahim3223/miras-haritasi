@@ -5,10 +5,10 @@ slug: "otakcibasi-huseyin-aga-kabri"
 description: "## Otakçıbaşı Hüseyin Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935671574,41.035735991"
 draft: "false"
 weight: "999"

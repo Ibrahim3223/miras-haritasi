@@ -5,10 +5,10 @@ slug: "yildiz-koprusu"
 description: "## Yıldız Köprüsü: Sivas'ta Bir Tarihi Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.765102,39.75863"
 draft: "false"
 weight: "999"

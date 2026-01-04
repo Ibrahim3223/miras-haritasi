@@ -5,10 +5,10 @@ slug: "uskup-baglik-yani-tumulusu"
 description: "## Üsküp Bağlık Yanı Tümülüsü: Tarihî bir Anıtın Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3825035,41.7292023"
 draft: "false"
 weight: "999"

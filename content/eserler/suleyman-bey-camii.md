@@ -5,10 +5,10 @@ slug: "suleyman-bey-camii"
 description: "## Süleyman Bey Camii: Bozüyük'te Bir Geçmişe Sahip Önemli Cami..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0377998,39.9095001"
 draft: "false"
 weight: "999"

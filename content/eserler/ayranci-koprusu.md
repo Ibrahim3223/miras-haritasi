@@ -5,10 +5,10 @@ slug: "ayranci-koprusu"
 description: "# Ayrancı Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.699573,37.36465"
 draft: "false"
 weight: "999"

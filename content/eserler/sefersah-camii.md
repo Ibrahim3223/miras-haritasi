@@ -5,10 +5,10 @@ slug: "sefersah-camii"
 description: "## Seferşah Camii: Çanakkale'nin Gözdeleri Arasındaki Öne Çıkan Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3366795,39.7867088"
 draft: "false"
 weight: "999"

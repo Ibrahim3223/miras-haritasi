@@ -5,10 +5,10 @@ slug: "kula-ayazma-kalebeli-3-tumulusu"
 description: "### Kula Ayazma Kalebeli 3 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3242893,42.0307541"
 draft: "false"
 weight: "999"

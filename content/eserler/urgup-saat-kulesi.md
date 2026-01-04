@@ -5,10 +5,10 @@ slug: "urgup-saat-kulesi"
 description: "## Ürgüp Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Ürgüp_Saat_Kulesi.JPG/1200px-Ürgüp_Saat_Kulesi.JPG"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.910361111,38.630166666"
 draft: "false"
 weight: "10"

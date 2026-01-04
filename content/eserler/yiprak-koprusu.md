@@ -5,10 +5,10 @@ slug: "yiprak-koprusu"
 description: "## Yıprak Köprüsü: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.0948221,39.3836988"
 draft: "false"
 weight: "999"

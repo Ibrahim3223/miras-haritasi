@@ -5,10 +5,10 @@ slug: "silifke-ataturk-evi"
 description: "## Silifke Atatürk Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/058_Atatürkevi.Silifke.07.2006_resize.JPG/1200px-058_Atatürkevi.Silifke.07.2006_resize.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.928055555,36.376944444"
 draft: "false"
 weight: "10"

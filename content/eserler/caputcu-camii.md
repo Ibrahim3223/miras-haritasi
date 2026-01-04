@@ -5,10 +5,10 @@ slug: "caputcu-camii"
 description: "### Konya'da Gizli Bir Çanak..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5017548,37.8738403"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balikesirlizade-huseyin-aga-camii"
 description: "## Balıkesirlizade Hüseyin Ağa Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2079964,39.8795547"
 draft: "false"
 weight: "999"

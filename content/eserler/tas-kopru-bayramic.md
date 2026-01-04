@@ -5,10 +5,10 @@ slug: "tas-kopru-bayramic"
 description: "## Taş Köprü, Bayramiç..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6123468,39.8080614"
 draft: "false"
 weight: "999"

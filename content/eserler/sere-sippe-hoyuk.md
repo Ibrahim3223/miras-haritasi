@@ -5,10 +5,10 @@ slug: "sere-sippe-hoyuk"
 description: "## Sere Şippe Höyük: Mardin'in Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Dargeçit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.8442612,37.5617714"
 draft: "false"
 weight: "999"

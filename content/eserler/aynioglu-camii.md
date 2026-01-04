@@ -5,10 +5,10 @@ slug: "aynioglu-camii"
 description: "## Aynıoğlu Camii Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5415554,38.752964"
 draft: "false"
 weight: "999"

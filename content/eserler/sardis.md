@@ -5,10 +5,10 @@ slug: "sardis"
 description: "## Sardis: Antik Çağın Şövalyesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(17098680002).jpg/1200px-The_Bath-Gymnasium_complex_at_Sardis,_late_2nd_-_early_3rd_century_AD,_Sardis,_Turkey_(17098680002).jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.040278,38.488333"
 draft: "false"
 weight: "10"

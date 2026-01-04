@@ -5,10 +5,10 @@ slug: "bigadic-muze-ve-kultur-evi"
 description: "### Bigadiç Müze Ve Kültür Evi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bigadiç"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.132809,39.3916"
 draft: "false"
 weight: "999"

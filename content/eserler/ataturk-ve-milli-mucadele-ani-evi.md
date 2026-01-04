@@ -5,10 +5,10 @@ slug: "ataturk-ve-milli-mucadele-ani-evi"
 description: "**Atatürk ve Milli Mücadele Anı Evi**..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9213772,40.764801"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fakli-hoyuk"
 description: "## Faklı Höyük Tanıtımı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7434983,39.184061"
 draft: "false"
 weight: "999"

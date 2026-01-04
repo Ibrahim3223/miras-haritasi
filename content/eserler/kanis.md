@@ -5,10 +5,10 @@ slug: "kanis"
 description: "### Kaniş: Tarihî Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Kanis_03.jpg/1200px-Kanis_03.jpg"
 province: "Melikgazi"
-iller: '["Melikgazi"]'
+iller: ["Melikgazi"]
 district: "Kültepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.634261,38.851389"
 draft: "false"
 weight: "10"

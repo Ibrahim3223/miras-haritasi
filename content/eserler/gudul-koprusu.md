@@ -5,10 +5,10 @@ slug: "gudul-koprusu"
 description: "## Güdül Köprüsü: Giresun'un Tarihi Bir Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.447113,40.6741562"
 draft: "false"
 weight: "999"

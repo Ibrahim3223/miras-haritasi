@@ -5,10 +5,10 @@ slug: "yilanhoyuk"
 description: "### Yılanhöyük: Sivas'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gürün"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1875897,38.8598724"
 draft: "false"
 weight: "999"

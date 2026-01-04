@@ -5,10 +5,10 @@ slug: "miletopolis"
 description: "## Miletopolis: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3608046,40.2097627"
 draft: "false"
 weight: "999"

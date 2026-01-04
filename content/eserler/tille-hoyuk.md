@@ -5,10 +5,10 @@ slug: "tille-hoyuk"
 description: "## Tille Höyük: Türkiye'nin Eski Uygarlığının İzleri..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.8833,37.7333"
 draft: "false"
 weight: "999"

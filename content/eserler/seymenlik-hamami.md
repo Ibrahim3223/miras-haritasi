@@ -5,10 +5,10 @@ slug: "seymenlik-hamami"
 description: "### Seymenlik Hamamı: Milas'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7900352,37.2711601"
 draft: "false"
 weight: "999"

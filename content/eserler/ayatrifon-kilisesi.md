@@ -5,10 +5,10 @@ slug: "ayatrifon-kilisesi"
 description: "## Ayatrifon Kilisesi: İznik'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.7201519,40.434536"
 draft: "false"
 weight: "999"

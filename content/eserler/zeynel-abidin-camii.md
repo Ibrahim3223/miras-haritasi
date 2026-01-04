@@ -5,10 +5,10 @@ slug: "zeynel-abidin-camii"
 description: "## Zeynel Abidin Camii: Mezopotamya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mezopotamya (Roma eyaleti)"
-iller: '["Mezopotamya (Roma eyaleti)"]'
+iller: ["Mezopotamya (Roma eyaleti)"]
 district: "Nusaybin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.214166666,37.067222222"
 draft: "false"
 weight: "999"

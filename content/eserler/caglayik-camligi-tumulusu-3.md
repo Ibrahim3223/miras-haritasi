@@ -5,10 +5,10 @@ slug: "caglayik-camligi-tumulusu-3"
 description: "## Çağlayık Çamlığı Tümülüsü 3..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3174591,42.0375137"
 draft: "false"
 weight: "999"

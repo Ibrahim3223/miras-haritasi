@@ -5,10 +5,10 @@ slug: "kurucesme-ayios-dimitrios-rum-ortodoks-kilisesi"
 description: "**Kuruçeşme Ayios Dimitrios Rum Ortodoks Kilisesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.035361111,41.061083333"
 draft: "false"
 weight: "999"

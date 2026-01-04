@@ -5,10 +5,10 @@ slug: "belenkeslik-kalesi"
 description: "## Belenkeşlik Kalesi: Toros Dağları'nin Gizli Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Belenkeşlik_Castle.jpg/1200px-Belenkeşlik_Castle.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Toroslar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.553333333,36.972222222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "besir-aga-kulliyesi"
 description: "## Beşir Ağa Külliyesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Besir_Aga_Mosque_DSCF4982.jpg/1200px-Besir_Aga_Mosque_DSCF4982.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.977108,41.010853"
 draft: "false"
 weight: "10"

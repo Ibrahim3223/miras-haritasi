@@ -5,10 +5,10 @@ slug: "sirvanli-baba-turbesi"
 description: "### Şirvanlı Baba Türbesi: Amasya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8309,40.6613"
 draft: "false"
 weight: "999"

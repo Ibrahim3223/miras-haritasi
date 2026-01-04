@@ -5,10 +5,10 @@ slug: "kargluhi-kilisesi-buyuk"
 description: "# Kargluhi Kilisesi (Büyük)..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Yünören"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.291833333,40.632083333"
 draft: "false"
 weight: "999"

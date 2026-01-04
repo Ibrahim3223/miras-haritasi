@@ -5,10 +5,10 @@ slug: "girnavaz-hoyugu"
 description: "# Gırnavaz Höyüğü: Mardin'in Eski Yerleşim Merkezi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Nusaybin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.2306166,37.1051383"
 draft: "false"
 weight: "999"

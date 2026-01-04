@@ -5,10 +5,10 @@ slug: "bademagaci-hoyugu"
 description: "## Bademağacı Höyüğü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.49805556,37.22305556"
 draft: "false"
 weight: "999"

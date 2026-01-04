@@ -5,10 +5,10 @@ slug: "gazi-osman-pasa-turbesi"
 description: "**Gazi Osman Paşa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9505759,41.018955"
 draft: "false"
 weight: "999"

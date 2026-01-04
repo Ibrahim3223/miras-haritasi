@@ -5,10 +5,10 @@ slug: "huyuk-mevkii-kabakli"
 description: "## Hüyük Mevkii, Kabaklı: Afyonkarahisar'ın Eski Çağ Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.085667,38.1308"
 draft: "false"
 weight: "999"

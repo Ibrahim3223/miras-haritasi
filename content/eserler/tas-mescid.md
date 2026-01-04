@@ -5,10 +5,10 @@ slug: "tas-mescid"
 description: "## Erzurum'daki Taş Mescid: Bir Uygarlık Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2823639,39.9074631"
 draft: "false"
 weight: "999"

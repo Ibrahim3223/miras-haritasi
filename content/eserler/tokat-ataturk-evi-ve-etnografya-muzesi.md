@@ -5,10 +5,10 @@ slug: "tokat-ataturk-evi-ve-etnografya-muzesi"
 description: "## Tokat Atatürk Evi ve Etnografya Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.5593,40.306938"
 draft: "false"
 weight: "999"

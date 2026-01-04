@@ -5,10 +5,10 @@ slug: "bursa-celal-bayar-vakfi-ve-muzesi"
 description: "## Bursa-Celal Bayar Vakfı ve Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.181667,40.41472"
 draft: "false"
 weight: "999"

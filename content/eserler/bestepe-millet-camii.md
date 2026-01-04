@@ -5,10 +5,10 @@ slug: "bestepe-millet-camii"
 description: "## Beştepe Millet Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Beştepe_Millet_Camii1_(1).jpg/1200px-Beştepe_Millet_Camii1_(1).jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.802222222,39.9275"
 draft: "false"
 weight: "10"

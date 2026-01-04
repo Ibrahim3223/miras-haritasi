@@ -5,10 +5,10 @@ slug: "surp-asdvadzadzin-verapokhum-kilisesi"
 description: "**Surp Asdvadzadzin Verapokhum Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Adalar_5585.jpg/1200px-Adalar_5585.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.126150406,40.872123229"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-yusuflu"
 description: "## Roma Köprüsü, Yusuflu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6889897,38.224865"
 draft: "false"
 weight: "999"

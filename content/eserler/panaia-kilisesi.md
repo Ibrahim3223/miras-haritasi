@@ -5,10 +5,10 @@ slug: "panaia-kilisesi"
 description: "### Panaia Kilisesi: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.9044609,40.1947327"
 draft: "false"
 weight: "999"

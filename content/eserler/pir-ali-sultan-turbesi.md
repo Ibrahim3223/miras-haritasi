@@ -5,10 +5,10 @@ slug: "pir-ali-sultan-turbesi"
 description: "# Pir Ali Sultan Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.0227,38.3697"
 draft: "false"
 weight: "999"

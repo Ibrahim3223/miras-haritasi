@@ -5,10 +5,10 @@ slug: "osmaniye-camii-altindag"
 description: "## Osmaniye Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8577194,39.9478683"
 draft: "false"
 weight: "999"

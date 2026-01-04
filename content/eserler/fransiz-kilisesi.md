@@ -5,10 +5,10 @@ slug: "fransiz-kilisesi"
 description: "## Fransız Kilisesi: İzmit'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.923872,40.7639618"
 draft: "false"
 weight: "999"

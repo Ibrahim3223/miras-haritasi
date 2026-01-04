@@ -5,10 +5,10 @@ slug: "ege-manevralari-aniti"
 description: "## Ege Manevraları Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3735847,37.7036133"
 draft: "false"
 weight: "999"

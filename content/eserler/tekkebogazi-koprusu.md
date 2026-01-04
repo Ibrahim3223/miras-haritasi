@@ -5,10 +5,10 @@ slug: "tekkebogazi-koprusu"
 description: "### Tekkeboğazı Köprüsü: Bergama'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1755829,39.1320229"
 draft: "false"
 weight: "999"

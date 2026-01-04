@@ -5,10 +5,10 @@ slug: "suleymaniye-kutuphanesi"
 description: "## Süleymaniye Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.962860595,41.01573279"
 draft: "false"
 weight: "1"

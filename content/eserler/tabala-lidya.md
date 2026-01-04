@@ -5,10 +5,10 @@ slug: "tabala-lidya"
 description: "## Tabala (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.803492,38.612243"
 draft: "false"
 weight: "999"

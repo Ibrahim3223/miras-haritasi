@@ -5,10 +5,10 @@ slug: "sefer-pasa-turbesi"
 description: "### Tokat'ta Bir Ölümsüz: Sefer Paşa Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.5488243,40.3165436"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aydogan-camii"
 description: "## Aydoğan Camii: Sivas'taki Bir Örenlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Oya_Aydo%C4%9Fan_%28cropped%29.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0077782,39.7492599"
 draft: "false"
 weight: "999"

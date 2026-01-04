@@ -5,10 +5,10 @@ slug: "fazil-husnu-daglarca-heykeli"
 description: "## Fazıl Hüsnü Dağlarca Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fazıl_Hüsnü_Dağlarca_heykeli_Kalamış_01.jpg/1200px-Fazıl_Hüsnü_Dağlarca_heykeli_Kalamış_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0394058,40.9794846"
 draft: "false"
 weight: "10"

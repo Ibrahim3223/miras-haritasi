@@ -5,10 +5,10 @@ slug: "selahattin-hamami"
 description: "## Selahattin Hamamı: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.4895821,38.7166176"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahi-ebubekir-turbesi"
 description: "**Ahi Ebubekir Türbesi: Muğla'nın Kültürel Mirası**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1418438,37.345211"
 draft: "false"
 weight: "999"

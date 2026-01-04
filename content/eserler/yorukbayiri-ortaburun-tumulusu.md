@@ -5,10 +5,10 @@ slug: "yorukbayiri-ortaburun-tumulusu"
 description: "## Yörükbayırı Ortaburun Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3473854,41.8303833"
 draft: "false"
 weight: "999"

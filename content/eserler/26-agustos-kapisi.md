@@ -5,10 +5,10 @@ slug: "26-agustos-kapisi"
 description: "## 26 Ağustos Kapısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.146083333,38.430972222"
 draft: "false"
 weight: "999"

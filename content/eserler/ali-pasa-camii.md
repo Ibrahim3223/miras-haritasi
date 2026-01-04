@@ -5,10 +5,10 @@ slug: "ali-pasa-camii"
 description: "## Ali Paşa Camii: Tokat'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Tokat,AliPasha1.jpg/1200px-Tokat,AliPasha1.jpg"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3315,40.185"
 draft: "false"
 weight: "10"

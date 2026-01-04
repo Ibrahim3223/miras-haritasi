@@ -5,10 +5,10 @@ slug: "yakup-celebi-kulliyesi-kutuphanesi"
 description: "## Yakup Çelebi Külliyesi Kütüphanesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.9760513,39.4170303"
 draft: "false"
 weight: "999"

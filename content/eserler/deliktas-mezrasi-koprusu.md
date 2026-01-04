@@ -5,10 +5,10 @@ slug: "deliktas-mezrasi-koprusu"
 description: "## Deliktaş Mezrası Köprüsü..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.5433648,38.4722751"
 draft: "false"
 weight: "999"

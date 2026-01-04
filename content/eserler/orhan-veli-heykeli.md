@@ -5,10 +5,10 @@ slug: "orhan-veli-heykeli"
 description: "### Orhan Veli Heykeli: Beşiktaş'taki Edebiyatın Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Orhan_Veli_Heykeli.jpg/1200px-Orhan_Veli_Heykeli.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.054288,41.081369"
 draft: "false"
 weight: "10"

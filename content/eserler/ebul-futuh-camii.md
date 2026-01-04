@@ -5,10 +5,10 @@ slug: "ebul-futuh-camii"
 description: "# Ebu'l Fütuh Camii..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.9785309,36.0836716"
 draft: "false"
 weight: "999"

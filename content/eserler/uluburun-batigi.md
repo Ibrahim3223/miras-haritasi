@@ -5,10 +5,10 @@ slug: "uluburun-batigi"
 description: "**Uluburun Batığı: Antik Çağın En Eski Denizcilik Örneği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Uluburun1.jpg/1200px-Uluburun1.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.685833333,36.128611111"
 draft: "false"
 weight: "10"

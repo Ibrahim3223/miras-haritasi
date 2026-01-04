@@ -5,10 +5,10 @@ slug: "hatice-usta-camii-fatih"
 description: "### Hatice Usta Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.962225,41.010132"
 draft: "false"
 weight: "999"

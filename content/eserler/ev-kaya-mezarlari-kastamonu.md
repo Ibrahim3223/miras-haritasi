@@ -5,10 +5,10 @@ slug: "ev-kaya-mezarlari-kastamonu"
 description: "### Ev Kaya Mezarları, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7698174,41.3699722"
 draft: "false"
 weight: "999"

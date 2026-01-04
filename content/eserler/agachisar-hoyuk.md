@@ -5,10 +5,10 @@ slug: "agachisar-hoyuk"
 description: "**Ağaçhisar Höyük: Alpu, Eskişehir'deki Gizli Miras**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.131411,39.899369"
 draft: "false"
 weight: "999"

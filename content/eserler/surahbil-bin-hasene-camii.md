@@ -5,10 +5,10 @@ slug: "surahbil-bin-hasene-camii"
 description: "# Şurahbil Bin Hasene Camii..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1229477,36.7225533"
 draft: "false"
 weight: "999"

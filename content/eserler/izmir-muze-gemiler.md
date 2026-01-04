@@ -5,10 +5,10 @@ slug: "izmir-muze-gemiler"
 description: "## İzmir Müze Gemileri: Balçova'daki Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/İnciraltı_Sea_Museum,_TCG_Pirireis_(S-343)_&_TCG_Ege_(F_256).jpg/1200px-İnciraltı_Sea_Museum,_TCG_Pirireis_(S-343)_&_TCG_Ege_(F_256).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Balçova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.034083333,38.412194444"
 draft: "false"
 weight: "10"

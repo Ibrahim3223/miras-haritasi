@@ -5,10 +5,10 @@ slug: "mirzeban-sultan-medresesi"
 description: "**Mirzeban Sultan Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.970772,41.002449"
 draft: "false"
 weight: "999"

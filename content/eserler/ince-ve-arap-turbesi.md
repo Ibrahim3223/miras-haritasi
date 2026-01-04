@@ -5,10 +5,10 @@ slug: "ince-ve-arap-turbesi"
 description: "### İnce ve Arap Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2427597,37.9153976"
 draft: "false"
 weight: "999"

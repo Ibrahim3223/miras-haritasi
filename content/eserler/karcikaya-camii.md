@@ -5,10 +5,10 @@ slug: "karcikaya-camii"
 description: "## Karcıkaya Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9145603,40.1721535"
 draft: "false"
 weight: "999"

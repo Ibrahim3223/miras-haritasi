@@ -5,10 +5,10 @@ slug: "kizilcikdere-camii"
 description: "## Kızılcıkdere Camii: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.31081781,41.691577322"
 draft: "false"
 weight: "999"

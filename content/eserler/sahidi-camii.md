@@ -5,10 +5,10 @@ slug: "sahidi-camii"
 description: "## Şahidi Camii: Menteşe'nin Gizli Çehresinde Bir İhtişamlı Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Muğla_61.JPG/1200px-Muğla_61.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.368027777,37.2205"
 draft: "false"
 weight: "10"

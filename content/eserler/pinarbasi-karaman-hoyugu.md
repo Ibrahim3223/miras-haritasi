@@ -5,10 +5,10 @@ slug: "pinarbasi-karaman-hoyugu"
 description: "**Pınarbaşı, Karaman Höyüğü: Konya'nın Gizli Tarihî Mirası**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0192,37.4939"
 draft: "false"
 weight: "999"

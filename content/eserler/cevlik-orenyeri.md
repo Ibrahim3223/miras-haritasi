@@ -5,10 +5,10 @@ slug: "cevlik-orenyeri"
 description: "## Çevlik Örenyeri: Hatay'ın Gizli Anıtı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

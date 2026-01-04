@@ -5,10 +5,10 @@ slug: "sallar-hoyuk"
 description: "### Sallar Höyük: Gümüşhacıköy'ün Gizli Kutsal Yeri..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Gümüşhacıköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1664129,40.9197148"
 draft: "false"
 weight: "999"

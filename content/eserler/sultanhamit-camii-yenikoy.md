@@ -5,10 +5,10 @@ slug: "sultanhamit-camii-yenikoy"
 description: "# Sultanhamit Camii – Yeniköy..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3269997,38.1208992"
 draft: "false"
 weight: "999"

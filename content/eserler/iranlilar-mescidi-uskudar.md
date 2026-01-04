@@ -5,10 +5,10 @@ slug: "iranlilar-mescidi-uskudar"
 description: "## İranlılar Mescidi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0304222,41.009903"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gevrek-hoyugu"
 description: "## Gevrek Höyüğü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2894993,37.3544006"
 draft: "false"
 weight: "999"

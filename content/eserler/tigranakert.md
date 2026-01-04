@@ -5,10 +5,10 @@ slug: "tigranakert"
 description: "### Tigranakert: Diyarbakır'ın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Location_of_Tigranocerta_within_the_Kingdom_Armenia.png/1200px-Location_of_Tigranocerta_within_the_Kingdom_Armenia.png"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.00138889,38.14222222"
 draft: "false"
 weight: "10"

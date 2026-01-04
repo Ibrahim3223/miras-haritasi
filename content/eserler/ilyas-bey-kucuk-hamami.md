@@ -5,10 +5,10 @@ slug: "ilyas-bey-kucuk-hamami"
 description: "## İlyas Bey Küçük Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2779236,37.5270271"
 draft: "false"
 weight: "999"

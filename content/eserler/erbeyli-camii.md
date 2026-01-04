@@ -5,10 +5,10 @@ slug: "erbeyli-camii"
 description: "## Erbeyli Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6800003,37.8674507"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lutfullah-kapisi"
 description: "## Lütfullah Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9665642,41.010952"
 draft: "false"
 weight: "999"

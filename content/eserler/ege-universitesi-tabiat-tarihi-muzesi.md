@@ -5,10 +5,10 @@ slug: "ege-universitesi-tabiat-tarihi-muzesi"
 description: "## Ege Üniversitesi Tabiat Tarihi Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.231388888,38.458611111"
 draft: "false"
 weight: "999"

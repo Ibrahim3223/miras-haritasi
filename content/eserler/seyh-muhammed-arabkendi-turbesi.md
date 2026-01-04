@@ -5,10 +5,10 @@ slug: "seyh-muhammed-arabkendi-turbesi"
 description: "### Şeyh Muhammed Arabkendi Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.8646736,37.7622643"
 draft: "false"
 weight: "999"

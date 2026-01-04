@@ -5,10 +5,10 @@ slug: "karaagac-koprusu"
 description: "### Karaağaç Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.810349,40.850132"
 draft: "false"
 weight: "999"

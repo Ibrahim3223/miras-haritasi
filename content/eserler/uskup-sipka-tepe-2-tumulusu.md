@@ -5,10 +5,10 @@ slug: "uskup-sipka-tepe-2-tumulusu"
 description: "## Üsküp Şipka Tepe 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4519329,41.7820625"
 draft: "false"
 weight: "999"

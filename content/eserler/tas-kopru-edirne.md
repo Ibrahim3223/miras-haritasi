@@ -5,10 +5,10 @@ slug: "tas-kopru-edirne"
 description: "## Taş Köprü, Edirne: Bir Ölümsüz Mabedi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.5654564,41.6821938"
 draft: "false"
 weight: "999"

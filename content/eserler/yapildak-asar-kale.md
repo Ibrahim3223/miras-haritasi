@@ -5,10 +5,10 @@ slug: "yapildak-asar-kale"
 description: "## Yapıldak Asar Kale: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.649929,39.1695442"
 draft: "false"
 weight: "999"

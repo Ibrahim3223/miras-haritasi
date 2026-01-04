@@ -5,10 +5,10 @@ slug: "menemen-gediz-koprusu"
 description: "## Menemen Gediz Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Menemen_Gediz_Bridge.jpg/1200px-Menemen_Gediz_Bridge.jpg"
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.051,38.649277777"
 draft: "false"
 weight: "10"

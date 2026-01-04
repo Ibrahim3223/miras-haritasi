@@ -5,10 +5,10 @@ slug: "mukeri-kilisesi"
 description: "## Mukeri Kilisesi: Ardanuç'ta Bir İnanç Mirası..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Tepedüzü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.057961111,41.091972222"
 draft: "false"
 weight: "999"

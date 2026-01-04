@@ -5,10 +5,10 @@ slug: "kuzguncuk-agios-georgios-rum-ortodoks-kilisesi"
 description: "## Kuzguncuk Agios Georgios Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Agios_Georgios_Greek_Orthodox_Church,_Kuzguncuk.jpg/1200px-Agios_Georgios_Greek_Orthodox_Church,_Kuzguncuk.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.02972222,41.03611111"
 draft: "false"
 weight: "10"

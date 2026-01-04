@@ -5,10 +5,10 @@ slug: "guney-camii-dernekpazari"
 description: "## Güney Camii (Dernekpazarı)..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.240519075,40.795566814"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-zeynel-camii"
 description: "## Hacı Zeynel Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7150593,38.505806"
 draft: "false"
 weight: "999"

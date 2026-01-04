@@ -5,10 +5,10 @@ slug: "patara-kent-kapisi"
 description: "## Patara Kent Kapısı: Antik Kentin Gizemli Girişi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3185081,36.2655525"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karamanoglu-ibrahimbey-camii"
 description: "## Karamanoğlu İbrahimbey Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.6594925,37.5804138"
 draft: "false"
 weight: "999"

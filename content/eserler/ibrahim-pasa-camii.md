@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-camii"
 description: "## İbrahim Paşa Camii: İstanbul'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Damat_İbrahim_Pasha_Mosque.jpg/1200px-Damat_İbrahim_Pasha_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.957972222,41.013055555"
 draft: "false"
 weight: "10"

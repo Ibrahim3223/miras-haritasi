@@ -5,10 +5,10 @@ slug: "syria-turkey-border-crossing-2745"
 description: "## Suriye - Türkiye Sınır geçiş noktası #2745: Kervansaray'ın Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "41.22766721,37.072684901"
 draft: "false"
 weight: "999"

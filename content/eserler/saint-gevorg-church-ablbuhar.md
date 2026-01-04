@@ -5,10 +5,10 @@ slug: "saint-gevorg-church-ablbuhar"
 description: "## Saint Gevorg Church (Ablbuhar)..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nuri-yamut-aniti-sigindere"
 description: "### Nuri Yamut Anıtı: Sığındere'nin Gizli Çehresi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.2111168,40.1015282"
 draft: "false"
 weight: "999"

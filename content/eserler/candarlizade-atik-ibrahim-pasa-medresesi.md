@@ -5,10 +5,10 @@ slug: "candarlizade-atik-ibrahim-pasa-medresesi"
 description: "## Çandarlızade Atik İbrahim Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9680729,41.0144691"
 draft: "false"
 weight: "999"

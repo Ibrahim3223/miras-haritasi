@@ -5,10 +5,10 @@ slug: "taksiarhi-rum-ortodoks-kilisesi"
 description: "## Taksiarhi Rum Ortodoks Kilisesi: İstanbul'un Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0590839,41.1153336"
 draft: "false"
 weight: "999"

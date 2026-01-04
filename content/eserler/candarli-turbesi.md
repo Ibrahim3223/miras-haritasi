@@ -5,10 +5,10 @@ slug: "candarli-turbesi"
 description: "## Çandarlı Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7283878,40.4290085"
 draft: "false"
 weight: "999"

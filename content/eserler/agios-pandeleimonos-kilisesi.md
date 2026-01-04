@@ -5,10 +5,10 @@ slug: "agios-pandeleimonos-kilisesi"
 description: "## Agios Pandeleimonos Kilisesi: Ayvalık'ın Gizli Çehresini Açıklamak..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.659001,39.336958"
 draft: "false"
 weight: "999"

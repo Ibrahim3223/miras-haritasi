@@ -5,10 +5,10 @@ slug: "selimiye-kulliyesi-darulkurra-medresesi"
 description: "## Selimiye Külliyesi Darülkurra Medresesi: Edirne'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5593872,41.6775436"
 draft: "false"
 weight: "999"

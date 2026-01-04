@@ -5,10 +5,10 @@ slug: "mor-cercis-kilisesi"
 description: "## Mor Cercis Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.772583,37.306324"
 draft: "false"
 weight: "999"

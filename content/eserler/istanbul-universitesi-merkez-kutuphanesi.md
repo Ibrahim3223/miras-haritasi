@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-merkez-kutuphanesi"
 description: "## İstanbul Üniversitesi Merkez Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/İstanbul_Üniversitesi_Merkez_Kütüphanesi_01.jpg/1200px-İstanbul_Üniversitesi_Merkez_Kütüphanesi_01.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.962062924,41.010129408"
 draft: "false"
 weight: "10"

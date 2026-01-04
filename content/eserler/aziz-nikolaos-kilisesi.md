@@ -5,10 +5,10 @@ slug: "aziz-nikolaos-kilisesi"
 description: "## Aziz Nikolaos Kilisesi: Aydın'ın Söke Kasabasında Gizlenmiş Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Storkyrkan_and_Kungliga_slottet_Stockholm_2016_01.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.314661,37.6685677"
 draft: "false"
 weight: "999"

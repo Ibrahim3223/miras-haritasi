@@ -5,10 +5,10 @@ slug: "hidirlik-tabyasi"
 description: "## Hıdırlık Tabyası: Edirne'nin Tarihi Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Hıdırlık_Redoubt_Tabyası.jpg/1200px-Hıdırlık_Redoubt_Tabyası.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5189623,41.6867464"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-tecer"
 description: "## Roma Köprüsü, Tecer: Sivas'ta Geçmişin Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Ulaş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.08823,39.406277"
 draft: "false"
 weight: "999"

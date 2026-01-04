@@ -5,10 +5,10 @@ slug: "batman-saat-kulesi"
 description: "## Batman Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Batman_Saat_Kulesi1.jpg/1200px-Batman_Saat_Kulesi1.jpg"
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "41.125805555,37.887805555"
 draft: "false"
 weight: "10"

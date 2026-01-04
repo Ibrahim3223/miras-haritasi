@@ -5,10 +5,10 @@ slug: "kasikci-koprusu"
 description: "### Kaşıkçı Köprüsü: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kaşıkçı_köprüsü.jpg/1200px-Kaşıkçı_köprüsü.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Arsin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.891197,40.808498"
 draft: "false"
 weight: "10"

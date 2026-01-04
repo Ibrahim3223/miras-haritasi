@@ -5,10 +5,10 @@ slug: "krom-vadisi-samanli-kilise"
 description: "## Krom Vadisi Şamanlı Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.595946,40.564132"
 draft: "false"
 weight: "999"

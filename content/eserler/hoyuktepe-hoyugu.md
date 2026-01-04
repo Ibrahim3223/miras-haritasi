@@ -5,10 +5,10 @@ slug: "hoyuktepe-hoyugu"
 description: "### Höyüktepe Höyüğü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8913219,39.4837948"
 draft: "false"
 weight: "999"

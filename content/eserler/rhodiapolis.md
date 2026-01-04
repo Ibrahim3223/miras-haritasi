@@ -5,10 +5,10 @@ slug: "rhodiapolis"
 description: "### Rhodiapolis: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Rhodiapolis.JPG/1200px-Rhodiapolis.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.26666667,36.38333333"
 draft: "false"
 weight: "10"

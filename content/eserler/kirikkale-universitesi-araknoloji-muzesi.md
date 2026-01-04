@@ -5,10 +5,10 @@ slug: "kirikkale-universitesi-araknoloji-muzesi"
 description: "**Kırıkkale Üniversitesi Araknoloji Müzesi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

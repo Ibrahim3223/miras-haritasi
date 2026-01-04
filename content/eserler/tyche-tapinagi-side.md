@@ -5,10 +5,10 @@ slug: "tyche-tapinagi-side"
 description: "## Tyche Tapınağı: Side'deki Antik Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Side_Handelsagora.jpg/1200px-Side_Handelsagora.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.391189395,36.768358391"
 draft: "false"
 weight: "10"

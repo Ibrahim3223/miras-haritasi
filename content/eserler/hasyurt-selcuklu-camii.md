@@ -5,10 +5,10 @@ slug: "hasyurt-selcuklu-camii"
 description: "## Hasyurt Selçuklu Camii: Finike'nin İhtişamlı Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2177124,36.3476753"
 draft: "false"
 weight: "999"

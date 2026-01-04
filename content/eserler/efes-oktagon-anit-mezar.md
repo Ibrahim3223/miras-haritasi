@@ -5,10 +5,10 @@ slug: "efes-oktagon-anit-mezar"
 description: "## Efes Oktagon Anıt Mezar..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.341465,37.9386482"
 draft: "false"
 weight: "999"

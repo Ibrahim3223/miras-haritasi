@@ -5,10 +5,10 @@ slug: "beysehir-hamami"
 description: "# Beyşehir Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.7178726,37.6843033"
 draft: "false"
 weight: "999"

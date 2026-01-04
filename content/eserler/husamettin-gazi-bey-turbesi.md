@@ -5,10 +5,10 @@ slug: "husamettin-gazi-bey-turbesi"
 description: "## Hüsamettin Gazi Bey Türbesi: Baklan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Baklan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.610635,37.979008"
 draft: "false"
 weight: "999"

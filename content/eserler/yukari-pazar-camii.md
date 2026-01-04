@@ -5,10 +5,10 @@ slug: "yukari-pazar-camii"
 description: "## Yukarı Pazar Camii: Afyonkarahisar'ın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5308895,38.7542534"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "basci-ibrahim-camii"
 description: "### Başçı İbrahim Camii: Bursa'nın Tarihi Bir Çeşidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BAŞÇI_İBRAHİM_CAMİSİ_-_panoramio_(4).jpg/1200px-BAŞÇI_İBRAHİM_CAMİSİ_-_panoramio_(4).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0630836,40.1783943"
 draft: "false"
 weight: "10"

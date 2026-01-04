@@ -5,10 +5,10 @@ slug: "tarih-tekel-fabrikasi"
 description: "## Tarihî Tekel Fabrikası: İzmir'in Eski Endüstri Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.148194444,38.43625"
 draft: "false"
 weight: "999"

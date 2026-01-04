@@ -5,10 +5,10 @@ slug: "gazanfer-aga-turbesi"
 description: "## Gazanfer Ağa Türbesi: Fatih, İstanbul'un Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.955411,41.016477"
 draft: "false"
 weight: "999"

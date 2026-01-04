@@ -5,10 +5,10 @@ slug: "haci-miktat-camii"
 description: "### Hacı Miktat Camii: Giresun'un Tarihsel Öncüleri..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.383022,40.916852"
 draft: "false"
 weight: "999"

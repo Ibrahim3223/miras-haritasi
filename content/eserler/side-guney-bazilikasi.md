@@ -5,10 +5,10 @@ slug: "side-guney-bazilikasi"
 description: "## Side Güney Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Side_Süd_Basilika_4.JPG/1200px-Side_Süd_Basilika_4.JPG"
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.386944444,36.764444444"
 draft: "false"
 weight: "10"

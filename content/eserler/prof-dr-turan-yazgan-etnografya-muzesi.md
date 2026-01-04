@@ -5,10 +5,10 @@ slug: "prof-dr-turan-yazgan-etnografya-muzesi"
 description: "**Turan Yazgan Etnografya Müzesi**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.550891,37.755049"
 draft: "false"
 weight: "999"

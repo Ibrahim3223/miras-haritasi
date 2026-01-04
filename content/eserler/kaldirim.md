@@ -5,10 +5,10 @@ slug: "kaldirim"
 description: "## Kaldırım Eserinin Tanıtımı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.553196,41.815855"
 draft: "false"
 weight: "999"

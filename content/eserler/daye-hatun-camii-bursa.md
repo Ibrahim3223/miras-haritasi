@@ -5,10 +5,10 @@ slug: "daye-hatun-camii-bursa"
 description: "### Daye Hatun Camii, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0660419,40.1885414"
 draft: "false"
 weight: "999"

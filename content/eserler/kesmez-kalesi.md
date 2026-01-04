@@ -5,10 +5,10 @@ slug: "kesmez-kalesi"
 description: "### Kesmez Kalesi: Konya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.7425308,37.7247925"
 draft: "false"
 weight: "999"

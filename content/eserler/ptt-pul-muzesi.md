@@ -5,10 +5,10 @@ slug: "ptt-pul-muzesi"
 description: "## PTT Pul Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/PTT_Pul_Müzesi,_2023_08.jpg/1200px-PTT_Pul_Müzesi,_2023_08.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.85416667,39.93833333"
 draft: "false"
 weight: "10"

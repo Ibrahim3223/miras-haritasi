@@ -5,10 +5,10 @@ slug: "imaret-camii-beypazari"
 description: "**İmaret Camii - Beypazarı**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9212208,40.1701775"
 draft: "false"
 weight: "999"

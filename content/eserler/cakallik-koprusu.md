@@ -5,10 +5,10 @@ slug: "cakallik-koprusu"
 description: "## Çakallık Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.9691683,36.8916753"
 draft: "false"
 weight: "999"

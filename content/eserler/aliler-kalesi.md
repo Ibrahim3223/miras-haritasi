@@ -5,10 +5,10 @@ slug: "aliler-kalesi"
 description: "### Aliler Kalesi: Tuşba'daki Tarihi Bir Miras..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Tuşba"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.486572,38.854545"
 draft: "false"
 weight: "999"

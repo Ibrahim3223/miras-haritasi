@@ -5,10 +5,10 @@ slug: "koyuncu-huyuk"
 description: "### Koyuncu Hüyük: Tarihini ve Kültürel Mirasını Keşfedin..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.390833333,36.503055555"
 draft: "false"
 weight: "999"

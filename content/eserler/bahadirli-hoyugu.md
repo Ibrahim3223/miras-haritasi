@@ -5,10 +5,10 @@ slug: "bahadirli-hoyugu"
 description: "## Bahadırlı Höyüğü: Konya'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.1278589,39.0405009"
 draft: "false"
 weight: "999"

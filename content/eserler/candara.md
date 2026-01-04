@@ -5,10 +5,10 @@ slug: "candara"
 description: "## Candara: Geçmişin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.65073,40.92365"
 draft: "false"
 weight: "999"

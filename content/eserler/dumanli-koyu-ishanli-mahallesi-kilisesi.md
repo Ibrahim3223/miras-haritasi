@@ -5,10 +5,10 @@ slug: "dumanli-koyu-ishanli-mahallesi-kilisesi"
 description: "### Dumanlı Köyü İşhanlı Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.798713,40.671029"
 draft: "false"
 weight: "999"

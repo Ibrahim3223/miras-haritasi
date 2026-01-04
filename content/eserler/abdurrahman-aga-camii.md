@@ -5,10 +5,10 @@ slug: "abdurrahman-aga-camii"
 description: "## Abdurrahman Ağa Camii: Üsküdar'ın Tarihi Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Abdurrahman_Ağa_Mosque_in_2012.jpg/1200px-Abdurrahman_Ağa_Mosque_in_2012.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.022347,41.03157"
 draft: "false"
 weight: "10"

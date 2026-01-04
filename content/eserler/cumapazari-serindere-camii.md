@@ -5,10 +5,10 @@ slug: "cumapazari-serindere-camii"
 description: "## Cumapazarı Serindere Camii: Trabzon'un Tarihi Bir Öyküsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.260904825,40.838026174"
 draft: "false"
 weight: "999"

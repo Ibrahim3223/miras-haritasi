@@ -5,10 +5,10 @@ slug: "synnada"
 description: "### Synnada: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Dioniso,_I-II_secolo_dc.,_da_synnada_(shuhut)_01.jpg/1200px-Dioniso,_I-II_secolo_dc.,_da_synnada_(shuhut)_01.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.55,38.53333333"
 draft: "false"
 weight: "10"

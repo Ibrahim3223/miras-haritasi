@@ -5,10 +5,10 @@ slug: "bayezid-aga-camii"
 description: "## Bayezid Ağa Camii: İstanbul'un Gizli Çehresinde Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bayezid_Ağa_Camii_16.jpg/1200px-Bayezid_Ağa_Camii_16.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.927777777,41.020583333"
 draft: "false"
 weight: "10"

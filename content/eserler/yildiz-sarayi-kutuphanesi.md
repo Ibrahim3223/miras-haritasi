@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-kutuphanesi"
 description: "## Yıldız Sarayı Kütüphanesi: Osmanlı'nın Gizli Bilgi Deposu..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocaeli-bilim-merkezi"
 description: "## Kocaeli Bilim Merkezi: Eğitim ve Eğlenme Merkezinde Bilimin Güçleri..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9085814,40.761755274"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vize-recotepe-a-tumulusu"
 description: "## Vize Recotepe A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7345848,41.549633"
 draft: "false"
 weight: "999"

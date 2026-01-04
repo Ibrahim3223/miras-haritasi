@@ -5,10 +5,10 @@ slug: "serapis-tapinagi-milet"
 description: "### Serapis Tapınağı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.277777777,37.528055555"
 draft: "false"
 weight: "999"

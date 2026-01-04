@@ -5,10 +5,10 @@ slug: "roma-koprusu-lutfiye"
 description: "### Roma Köprüsü, Lütfiye..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.352133,39.40337"
 draft: "false"
 weight: "999"

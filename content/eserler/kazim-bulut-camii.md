@@ -5,10 +5,10 @@ slug: "kazim-bulut-camii"
 description: "# Kazım Bulut Camii: Alanya'nın Güzelliğine Örnek Bir Yapı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.992,36.55"
 draft: "false"
 weight: "999"

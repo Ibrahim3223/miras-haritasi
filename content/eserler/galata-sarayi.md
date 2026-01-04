@@ -5,10 +5,10 @@ slug: "galata-sarayi"
 description: "## Galata Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9727116,41.0245476"
 draft: "false"
 weight: "999"

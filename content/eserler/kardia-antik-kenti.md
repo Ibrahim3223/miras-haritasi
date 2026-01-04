@@ -5,10 +5,10 @@ slug: "kardia-antik-kenti"
 description: "## Kardia Antik Kenti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7415104,40.5488243"
 draft: "false"
 weight: "999"

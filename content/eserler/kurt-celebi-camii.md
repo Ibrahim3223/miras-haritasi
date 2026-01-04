@@ -5,10 +5,10 @@ slug: "kurt-celebi-camii"
 description: "## Kurt Çelebi Camii: İstanbul'un Kuytu Bir Çeşitesinin Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.965455216,41.034075368"
 draft: "false"
 weight: "999"

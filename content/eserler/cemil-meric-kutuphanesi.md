@@ -5,10 +5,10 @@ slug: "cemil-meric-kutuphanesi"
 description: "## Cemil Meriç Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Cemil_meriç_kütüphanesi.jpg/1200px-Cemil_meriç_kütüphanesi.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "10"

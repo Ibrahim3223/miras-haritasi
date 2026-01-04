@@ -5,10 +5,10 @@ slug: "kursunlu-camii-usak"
 description: "## Kurşunlu Camii: Uşak'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4079323,38.6820183"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gurpinar-haci-bayramli-camii"
 description: "## Gürpınar Hacı Bayramlı Camii: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.294130605,40.831047012"
 draft: "false"
 weight: "999"

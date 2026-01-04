@@ -5,10 +5,10 @@ slug: "soganlidere-sehitligi-eceabat"
 description: "### Soğanlıdere Şehitliği Eceabat: Eceabat'ın Tarihini Canlandıran Anıt..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3050995,40.1160278"
 draft: "false"
 weight: "999"

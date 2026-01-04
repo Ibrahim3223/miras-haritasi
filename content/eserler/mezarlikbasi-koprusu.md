@@ -5,10 +5,10 @@ slug: "mezarlikbasi-koprusu"
 description: "## Mezarlıkbaşı Köprüsü: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.160202,37.9627838"
 draft: "false"
 weight: "999"

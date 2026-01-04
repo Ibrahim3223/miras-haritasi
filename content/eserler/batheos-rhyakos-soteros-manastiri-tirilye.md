@@ -5,10 +5,10 @@ slug: "batheos-rhyakos-soteros-manastiri-tirilye"
 description: "## Batheos Rhyakos Soteros Manastırı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8,40.383333"
 draft: "false"
 weight: "999"

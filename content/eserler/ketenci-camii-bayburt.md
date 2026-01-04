@@ -5,10 +5,10 @@ slug: "ketenci-camii-bayburt"
 description: "### Ketenci Camii, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2245255,40.2658081"
 draft: "false"
 weight: "999"

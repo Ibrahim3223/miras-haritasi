@@ -5,10 +5,10 @@ slug: "argasseis-didim"
 description: "## Argasseis, Didim: Aydın'ın Zengin Tarih Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3384476,37.3727837"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "goksun-hoyugu"
 description: "## Göksun Höyüğü: Kahramanmaraş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Göksun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5055205,38.0276013"
 draft: "false"
 weight: "999"

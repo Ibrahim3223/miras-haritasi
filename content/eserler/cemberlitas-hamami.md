@@ -5,10 +5,10 @@ slug: "cemberlitas-hamami"
 description: "## Çemberlitaş Hamamı: İstanbul'un Tarihi Bir Zirvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Istanbul_Alley_02.jpg/1200px-Istanbul_Alley_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9716495,41.0085972"
 draft: "false"
 weight: "10"

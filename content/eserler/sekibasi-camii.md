@@ -5,10 +5,10 @@ slug: "sekibasi-camii"
 description: "## Sekibaşı Camii: Muğla'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Eski_Muğla.jpg/1200px-Eski_Muğla.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Muğla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.359444444,37.219111111"
 draft: "false"
 weight: "10"

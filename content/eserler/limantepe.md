@@ -5,10 +5,10 @@ slug: "limantepe"
 description: "## Limantepe Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Limantepe.jpg/1200px-Limantepe.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.77583333,38.36333333"
 draft: "false"
 weight: "10"

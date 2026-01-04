@@ -5,10 +5,10 @@ slug: "nuruosmaniye-turbesi"
 description: "### Nuruosmaniye Türbesi: Fatih'in Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9709473,41.0105703"
 draft: "false"
 weight: "999"

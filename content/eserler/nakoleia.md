@@ -5,10 +5,10 @@ slug: "nakoleia"
 description: "## Nakoleia: Eskişehir'in Gizli Zenginliği..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.693888888,39.445555555"
 draft: "false"
 weight: "999"

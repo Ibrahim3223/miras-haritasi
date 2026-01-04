@@ -5,10 +5,10 @@ slug: "olba-antik-tiyatrosu"
 description: "## Olba Antik Tiyatrosu: Silifke'nin Gizli Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "33.96493,36.584649"
 draft: "false"
 weight: "999"

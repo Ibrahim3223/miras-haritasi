@@ -5,10 +5,10 @@ slug: "kenesset-sinagogu"
 description: "### Kenesset Sinagogu: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Galata"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.972194444,41.027194444"
 draft: "false"
 weight: "999"

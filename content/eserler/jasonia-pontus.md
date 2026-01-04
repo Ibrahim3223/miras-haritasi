@@ -5,10 +5,10 @@ slug: "jasonia-pontus"
 description: "## Jasonia (Pontus): Ege Denizi'nin Güzeli..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Perşembe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.682777777,41.136111111"
 draft: "false"
 weight: "999"

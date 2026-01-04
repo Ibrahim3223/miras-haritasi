@@ -5,10 +5,10 @@ slug: "haytugdere-koprusu"
 description: "### Haytuğdere Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.090822,41.002632"
 draft: "false"
 weight: "999"

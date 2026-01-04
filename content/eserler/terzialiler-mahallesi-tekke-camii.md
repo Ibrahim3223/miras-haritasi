@@ -5,10 +5,10 @@ slug: "terzialiler-mahallesi-tekke-camii"
 description: "## Terzialiler Mahallesi Tekke Camii..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.146569654,40.906322316"
 draft: "false"
 weight: "999"

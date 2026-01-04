@@ -5,10 +5,10 @@ slug: "sahruh-mehmet-bey-turbesi"
 description: "## Şahruh Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9265404,37.5851517"
 draft: "false"
 weight: "999"

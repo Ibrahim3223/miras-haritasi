@@ -5,10 +5,10 @@ slug: "hafiz-ahmet-pasa-camii"
 description: "## Hafız Ahmet Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94756,41.021718"
 draft: "false"
 weight: "999"

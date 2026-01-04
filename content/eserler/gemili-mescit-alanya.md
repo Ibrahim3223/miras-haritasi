@@ -5,10 +5,10 @@ slug: "gemili-mescit-alanya"
 description: "## Gemili Mescit: Alanya'nın Tarihi Bir Cezvesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9951973,36.5330963"
 draft: "false"
 weight: "999"

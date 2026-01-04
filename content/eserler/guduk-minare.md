@@ -5,10 +5,10 @@ slug: "guduk-minare"
 description: "## Güdük Minare: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.496357,37.8741417"
 draft: "false"
 weight: "999"

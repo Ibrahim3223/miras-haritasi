@@ -5,10 +5,10 @@ slug: "hadrianotherai"
 description: "### Hadrianotherai: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.910653,39.60672"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emin-camii"
 description: "## Emin Camii Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9742794,41.036869"
 draft: "false"
 weight: "999"

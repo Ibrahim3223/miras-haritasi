@@ -5,10 +5,10 @@ slug: "polatli-kent-muzesi"
 description: "### Polatlı Kent Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.1436043,39.5864487"
 draft: "false"
 weight: "999"

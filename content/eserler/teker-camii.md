@@ -5,10 +5,10 @@ slug: "teker-camii"
 description: "## Teker Camii: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.746587,37.315317"
 draft: "false"
 weight: "999"

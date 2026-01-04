@@ -5,10 +5,10 @@ slug: "bademalan-koprusu"
 description: "# Bademalan Köprüsü: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3167,39.0241013"
 draft: "false"
 weight: "999"

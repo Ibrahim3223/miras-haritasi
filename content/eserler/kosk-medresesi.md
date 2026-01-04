@@ -5,10 +5,10 @@ slug: "kosk-medresesi"
 description: "## Köşk Medresesi: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.5105,38.7167"
 draft: "false"
 weight: "999"

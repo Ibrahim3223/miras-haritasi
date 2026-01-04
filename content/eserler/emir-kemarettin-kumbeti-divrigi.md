@@ -5,10 +5,10 @@ slug: "emir-kemarettin-kumbeti-divrigi"
 description: "## Emir Kemarettin Kümbeti: Divriği'nin Işığında Geç Orta Çağ'ın Altın Çağı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1195412,39.371521"
 draft: "false"
 weight: "999"

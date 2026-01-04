@@ -5,10 +5,10 @@ slug: "karakale"
 description: "## Karakale: Iğdır'ın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Sürmeli uyezdi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.8226089,40.0467072"
 draft: "false"
 weight: "999"

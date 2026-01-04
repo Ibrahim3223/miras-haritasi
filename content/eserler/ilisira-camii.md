@@ -5,10 +5,10 @@ slug: "ilisira-camii"
 description: "## İlisu Camii: Karaman'ın Tarihî Ören Yeri..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.02845,37.1953583"
 draft: "false"
 weight: "999"

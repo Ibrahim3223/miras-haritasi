@@ -5,10 +5,10 @@ slug: "istanbul-kent-muzesi"
 description: "## İstanbul Kent Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9187145,41.0182266"
 draft: "false"
 weight: "999"

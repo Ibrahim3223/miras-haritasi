@@ -5,10 +5,10 @@ slug: "ulamis-medresesi"
 description: "**Ulamış Medresesi: Seferihisar'daki tarihi bir güzellik**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.8412647,38.2466431"
 draft: "false"
 weight: "999"

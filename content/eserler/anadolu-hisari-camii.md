@@ -5,10 +5,10 @@ slug: "anadolu-hisari-camii"
 description: "## Anadolu Hisarı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Istanbul_Province_-_Anadolu_Hisarı_Camii_-_20250406163020.jpg/1200px-Istanbul_Province_-_Anadolu_Hisarı_Camii_-_20250406163020.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.067607,41.085045"
 draft: "false"
 weight: "10"

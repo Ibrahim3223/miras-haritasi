@@ -5,10 +5,10 @@ slug: "mansur-baba-turbesi"
 description: "### Mansur Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2536316,38.7063375"
 draft: "false"
 weight: "999"

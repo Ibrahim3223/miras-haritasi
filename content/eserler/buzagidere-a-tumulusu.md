@@ -5,10 +5,10 @@ slug: "buzagidere-a-tumulusu"
 description: "## Buzağıdere A Tümülüsü: Tarihî Mirasın Gizemli Yeri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7828541,41.5462265"
 draft: "false"
 weight: "999"

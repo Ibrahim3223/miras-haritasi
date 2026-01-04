@@ -5,10 +5,10 @@ slug: "haliliye-medresesi"
 description: "# Haliliye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.955071,41.019084"
 draft: "false"
 weight: "999"

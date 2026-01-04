@@ -5,10 +5,10 @@ slug: "itfaiye-sehitleri-camii"
 description: "### İtfaiye Şehitleri Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/İtfaiye_Şehitleri_Camii_(2013).jpg/1200px-İtfaiye_Şehitleri_Camii_(2013).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.953538666,41.016888933"
 draft: "false"
 weight: "10"

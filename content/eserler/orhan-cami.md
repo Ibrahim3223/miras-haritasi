@@ -5,10 +5,10 @@ slug: "orhan-cami"
 description: "### Orhan Camii: Sakarya'nın Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/TR_Sakarya_asv2021-10_img14_Orhan_Mosque.jpg/1200px-TR_Sakarya_asv2021-10_img14_Orhan_Mosque.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.400388888,40.779055555"
 draft: "false"
 weight: "10"

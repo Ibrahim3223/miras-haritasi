@@ -5,10 +5,10 @@ slug: "muradiye-memetoglu-koprusu"
 description: "## Muradiye Memetoğlu Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.544267,40.938717"
 draft: "false"
 weight: "999"

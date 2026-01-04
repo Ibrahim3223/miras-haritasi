@@ -5,10 +5,10 @@ slug: "uc-erenler-mescidi-mugla"
 description: "**Three Erenler Mosque, Muğla**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3614426,37.2179756"
 draft: "false"
 weight: "999"

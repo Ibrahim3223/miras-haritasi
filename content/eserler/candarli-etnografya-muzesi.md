@@ -5,10 +5,10 @@ slug: "candarli-etnografya-muzesi"
 description: "## Çandarlı Etnografya Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.9331989,38.9321098"
 draft: "false"
 weight: "999"

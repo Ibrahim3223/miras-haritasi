@@ -5,10 +5,10 @@ slug: "carsi-camii-kinik"
 description: "## Çarşı Camii, Kınık..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3829727,39.0847626"
 draft: "false"
 weight: "999"

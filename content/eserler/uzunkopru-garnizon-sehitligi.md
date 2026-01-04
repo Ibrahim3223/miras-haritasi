@@ -5,10 +5,10 @@ slug: "uzunkopru-garnizon-sehitligi"
 description: "## Uzunköprü Garnizon Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6823959,41.2539635"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sebaste-frigya"
 description: "### Sebaste (Frigya) Arkeolojik Sit..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.65809,38.49517"
 draft: "false"
 weight: "999"

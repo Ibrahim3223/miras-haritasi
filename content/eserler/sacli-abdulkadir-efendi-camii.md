@@ -5,10 +5,10 @@ slug: "sacli-abdulkadir-efendi-camii"
 description: "### Saçlı Abdülkadir Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saçlı_Abdülkadir_Efendi_Cami.jpg/1200px-Saçlı_Abdülkadir_Efendi_Cami.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.933555555,41.047027777"
 draft: "false"
 weight: "10"

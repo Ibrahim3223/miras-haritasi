@@ -5,10 +5,10 @@ slug: "zeita"
 description: "### Zeita Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.826,40.9226"
 draft: "false"
 weight: "999"

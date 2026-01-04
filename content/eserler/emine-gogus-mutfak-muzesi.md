@@ -5,10 +5,10 @@ slug: "emine-gogus-mutfak-muzesi"
 description: "## Emine Göğüş Mutfak Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.382578,37.064504"
 draft: "false"
 weight: "999"

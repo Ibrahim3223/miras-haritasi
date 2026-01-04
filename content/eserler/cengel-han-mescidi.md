@@ -5,10 +5,10 @@ slug: "cengel-han-mescidi"
 description: "# Çengel Han Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8635597,39.9369049"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "termessos-agathemeros-mezari"
 description: "## Termessos Agathemeros Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.462612,36.981277"
 draft: "false"
 weight: "999"

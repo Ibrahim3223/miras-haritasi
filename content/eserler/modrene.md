@@ -5,10 +5,10 @@ slug: "modrene"
 description: "## Modrene Arkeolojik Sit..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.143478,40.488963"
 draft: "false"
 weight: "999"

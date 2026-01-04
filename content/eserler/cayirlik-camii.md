@@ -5,10 +5,10 @@ slug: "cayirlik-camii"
 description: "## Çayırlık Camii: Denizli'de Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0123711,37.6111755"
 draft: "false"
 weight: "999"

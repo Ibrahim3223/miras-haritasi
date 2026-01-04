@@ -5,10 +5,10 @@ slug: "karahayit-roma-hamami"
 description: "## Karahayıt Roma Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0970917,37.9590721"
 draft: "false"
 weight: "999"

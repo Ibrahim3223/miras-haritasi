@@ -5,10 +5,10 @@ slug: "ciceklioglu-camii"
 description: "## Çiçeklioğlu Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8655357,39.9345436"
 draft: "false"
 weight: "999"

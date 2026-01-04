@@ -5,10 +5,10 @@ slug: "bicakcilar-ilyashev-camii"
 description: "## Bıçakcılar İlyashev Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4291311,40.9940704"
 draft: "false"
 weight: "999"

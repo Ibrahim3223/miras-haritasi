@@ -5,10 +5,10 @@ slug: "mekri-hakimi-esref-pasa-turbesi"
 description: "## Mekri Hakimi Eşref Paşa Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6624641,36.8040695"
 draft: "false"
 weight: "999"

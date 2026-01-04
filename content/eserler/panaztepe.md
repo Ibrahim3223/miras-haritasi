@@ -5,10 +5,10 @@ slug: "panaztepe"
 description: "## Panaztepe: Tarih Bilgisinin Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9411,38.62145"
 draft: "false"
 weight: "999"

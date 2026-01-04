@@ -5,10 +5,10 @@ slug: "ozel-mustafa-erim-mersin-kent-tarihi-muzesi"
 description: "## Özel Mustafa Erim Mersin Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.6281166,36.8000679"
 draft: "false"
 weight: "999"

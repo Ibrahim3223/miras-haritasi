@@ -5,10 +5,10 @@ slug: "jupiter-tapinagi"
 description: "# Jüpiter Tapınağı: Silifke'nin Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/SilifkeTempel.jpg/1200px-SilifkeTempel.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.93,36.37583333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "papirion"
 description: "### Papirion: Türkiye'nin Gizli Arkeolojik Şansı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.840915,36.9189005"
 draft: "false"
 weight: "999"

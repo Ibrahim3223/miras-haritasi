@@ -5,10 +5,10 @@ slug: "akmescit-camii-afyonkarahisar"
 description: "## Akmescit Camii: Afyonkarahisar'ın Tarihi Bir Öznelliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5348663,38.7531242"
 draft: "false"
 weight: "999"

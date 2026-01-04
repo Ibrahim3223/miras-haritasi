@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-turbesi"
 description: "## Fatih Sultan Mehmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Fatih_Sultan_Mehmet_Türbesi,_Istanbul_-_panoramio_(1).jpg/1200px-Fatih_Sultan_Mehmet_Türbesi,_Istanbul_-_panoramio_(1).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9502674,41.0192788"
 draft: "false"
 weight: "10"

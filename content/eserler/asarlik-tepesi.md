@@ -5,10 +5,10 @@ slug: "asarlik-tepesi"
 description: "## Asarlık Tepesi: Antalya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.000096112,36.669408562"
 draft: "false"
 weight: "999"

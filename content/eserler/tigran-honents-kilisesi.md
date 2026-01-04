@@ -5,10 +5,10 @@ slug: "tigran-honents-kilisesi"
 description: "## Tigran Honents Kilisesi: Ermeni Tarihine Örnek Bir Anıt..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.578676667,40.505980778"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aga-camii-milas"
 description: "# Ağa Camii, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.784586,37.3156853"
 draft: "false"
 weight: "999"

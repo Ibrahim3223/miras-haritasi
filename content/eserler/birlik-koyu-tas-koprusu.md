@@ -5,10 +5,10 @@ slug: "birlik-koyu-tas-koprusu"
 description: "## Birlik Köyü Taş Köprüsü..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Silopi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.5208473,37.2410698"
 draft: "false"
 weight: "999"

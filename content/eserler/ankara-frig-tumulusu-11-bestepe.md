@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-11-bestepe"
 description: "## Ankara Frig Tümülüsü 11, Beştepe..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8083153,39.9222641"
 draft: "false"
 weight: "999"

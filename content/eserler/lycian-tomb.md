@@ -5,10 +5,10 @@ slug: "lycian-tomb"
 description: "## Lycian Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/185A7263.jpg/1200px-185A7263.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.111819,36.622579"
 draft: "false"
 weight: "10"

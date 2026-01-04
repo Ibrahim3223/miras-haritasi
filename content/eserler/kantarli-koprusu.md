@@ -5,10 +5,10 @@ slug: "kantarli-koprusu"
 description: "### Kantarlı Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.881,40.9961833"
 draft: "false"
 weight: "999"

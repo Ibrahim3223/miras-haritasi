@@ -5,10 +5,10 @@ slug: "ayas-mehmet-pasa-turbesi"
 description: "### Ayas Mehmet Paşa Türbesi: Eyüpsultan'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.933656,41.048311"
 draft: "false"
 weight: "999"

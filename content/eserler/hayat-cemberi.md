@@ -5,10 +5,10 @@ slug: "hayat-cemberi"
 description: "## Hayat Çemberi: İzmir'in İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Circle_of_Life_01.jpg/1200px-Circle_of_Life_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.147583333,38.439805555"
 draft: "false"
 weight: "10"

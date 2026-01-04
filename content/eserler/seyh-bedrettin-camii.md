@@ -5,10 +5,10 @@ slug: "seyh-bedrettin-camii"
 description: "## Şeyh Bedrettin Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "İvrindi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.487785476,39.582350465"
 draft: "false"
 weight: "999"

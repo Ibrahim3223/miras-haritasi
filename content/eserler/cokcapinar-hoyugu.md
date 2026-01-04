@@ -5,10 +5,10 @@ slug: "cokcapinar-hoyugu"
 description: "# Çokçapınar Höyüğü: Bilecik'in Tarihî Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9678612,39.7807541"
 draft: "false"
 weight: "999"

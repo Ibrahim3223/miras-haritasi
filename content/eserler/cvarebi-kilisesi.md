@@ -5,10 +5,10 @@ slug: "cvarebi-kilisesi"
 description: "## Cvarebi Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Şalcı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.338786111,41.351416666"
 draft: "false"
 weight: "999"

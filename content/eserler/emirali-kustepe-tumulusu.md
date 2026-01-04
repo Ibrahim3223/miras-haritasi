@@ -5,10 +5,10 @@ slug: "emirali-kustepe-tumulusu"
 description: "**Emirali Kuştepe Tümülüsü: Lüleburgaz'ın Gizli Hazinesi**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.526989,41.4650612"
 draft: "false"
 weight: "999"

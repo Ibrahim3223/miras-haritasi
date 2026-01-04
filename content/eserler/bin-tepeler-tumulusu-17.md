@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-17"
 description: "## Bin Tepeler Tümülüsü 17: Salihli'nin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.034325,38.572758"
 draft: "false"
 weight: "999"

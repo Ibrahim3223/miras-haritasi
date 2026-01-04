@@ -5,10 +5,10 @@ slug: "cayozu-hoyuk"
 description: "### Çayözü Höyük: Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.2059647,39.717658"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "inecik-camii"
 description: "## İnecik Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.565197,38.5504112"
 draft: "false"
 weight: "999"

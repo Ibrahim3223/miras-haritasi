@@ -5,10 +5,10 @@ slug: "kizilbey-camii"
 description: "## Kızılbey Camii: Altındağ'nın Tarihi ve Kültürel Bir Ögesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8538589,39.9396248"
 draft: "false"
 weight: "999"

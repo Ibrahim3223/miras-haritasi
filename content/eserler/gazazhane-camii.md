@@ -5,10 +5,10 @@ slug: "gazazhane-camii"
 description: "## Gazazhane Camii: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.735918,38.0854683"
 draft: "false"
 weight: "999"

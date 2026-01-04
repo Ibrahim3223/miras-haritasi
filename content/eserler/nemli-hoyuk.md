@@ -5,10 +5,10 @@ slug: "nemli-hoyuk"
 description: "## Nemli Höyük..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.222153,39.719522"
 draft: "false"
 weight: "999"

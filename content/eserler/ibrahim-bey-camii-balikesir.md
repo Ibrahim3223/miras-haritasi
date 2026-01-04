@@ -5,10 +5,10 @@ slug: "ibrahim-bey-camii-balikesir"
 description: "### İbrahim Bey Camii, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8822002,39.6482544"
 draft: "false"
 weight: "999"

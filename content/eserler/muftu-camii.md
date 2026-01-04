@@ -5,10 +5,10 @@ slug: "muftu-camii"
 description: "## Müftü Camii: Akdeniz'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mersin_Müftü_Mosque.jpg/1200px-Mersin_Müftü_Mosque.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.615833,36.788333"
 draft: "false"
 weight: "10"

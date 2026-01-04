@@ -5,10 +5,10 @@ slug: "sehidiye-camii"
 description: "## Şehidiye Camii: Mardin'in Tarihi Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.743206,37.3140068"
 draft: "false"
 weight: "999"

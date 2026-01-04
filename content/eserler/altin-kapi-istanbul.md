@@ -5,10 +5,10 @@ slug: "altin-kapi-istanbul"
 description: "## Altın Kapı (İstanbul)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Istanbul_asv2021-11_img57_Yedikule.jpg/1200px-Istanbul_asv2021-11_img57_Yedikule.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9225,40.9928"
 draft: "false"
 weight: "10"

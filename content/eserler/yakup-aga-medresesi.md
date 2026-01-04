@@ -5,10 +5,10 @@ slug: "yakup-aga-medresesi"
 description: "### Yakup Ağa Medresesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.7718735,41.3767586"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalayci-camii-kirklareli"
 description: "## Kalaycı Camii, Kırklareli: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2255821,41.737999"
 draft: "false"
 weight: "999"

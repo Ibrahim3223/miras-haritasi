@@ -5,10 +5,10 @@ slug: "son-roma-imparatoru-xi-konstantin-paleologosun-mezari"
 description: "## Son Roma İmparatoru XI. Konstantin Paleologos’un Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.957783,41.016311"
 draft: "false"
 weight: "999"

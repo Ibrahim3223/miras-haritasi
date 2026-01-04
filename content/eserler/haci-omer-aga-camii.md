@@ -5,10 +5,10 @@ slug: "haci-omer-aga-camii"
 description: "## Hacı Ömer Ağa Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5585728,37.3615608"
 draft: "false"
 weight: "999"

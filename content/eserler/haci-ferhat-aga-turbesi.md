@@ -5,10 +5,10 @@ slug: "haci-ferhat-aga-turbesi"
 description: "### Hacı Ferhat Ağa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9555189,41.0231737"
 draft: "false"
 weight: "999"

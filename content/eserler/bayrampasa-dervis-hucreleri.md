@@ -5,10 +5,10 @@ slug: "bayrampasa-dervis-hucreleri"
 description: "## Bayrampaşa Derviş Hücreleri: Fatih'te Bir Tarihî Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.942513,41.008373"
 draft: "false"
 weight: "999"

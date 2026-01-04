@@ -5,10 +5,10 @@ slug: "yamacustu-palankes-camii"
 description: "# Yamaçüstü Palankes Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3940709,40.60272"
 draft: "false"
 weight: "999"

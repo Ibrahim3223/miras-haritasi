@@ -5,10 +5,10 @@ slug: "libum"
 description: "## Libum: İhtişamlı Geç Antik Çağ'ın Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.686075,40.631587"
 draft: "false"
 weight: "999"

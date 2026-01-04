@@ -5,10 +5,10 @@ slug: "sahip-ata-turbesi"
 description: "## Sahip Ata Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4942474,37.8675613"
 draft: "false"
 weight: "999"

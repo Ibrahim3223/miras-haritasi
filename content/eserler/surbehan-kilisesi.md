@@ -5,10 +5,10 @@ slug: "surbehan-kilisesi"
 description: "**Surbehan Kilisesi: Tunceli'nin Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Surb_Astvatsatsin_(Surb_Ohan).png/1200px-Surb_Astvatsatsin_(Surb_Ohan).png"
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Yolkonak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.483888888,38.979444444"
 draft: "false"
 weight: "10"

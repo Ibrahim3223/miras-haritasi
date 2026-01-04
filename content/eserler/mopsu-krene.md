@@ -5,10 +5,10 @@ slug: "mopsu-krene"
 description: "## Mopsu Krene: Tarsus'un Gizemi..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8858995,37.0733365"
 draft: "false"
 weight: "999"

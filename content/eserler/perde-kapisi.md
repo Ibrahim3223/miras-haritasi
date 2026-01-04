@@ -5,10 +5,10 @@ slug: "perde-kapisi"
 description: "## Perde Kapısı: Fatih'in Gizemli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.982523,41.0126076"
 draft: "false"
 weight: "999"

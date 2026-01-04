@@ -5,10 +5,10 @@ slug: "publius-varius-aquila-mezari"
 description: "## Publius Varius Aquila Mezarı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.334371099,39.489920962"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mugla-sitki-kocman-universitesi-kopya-heykeltraslik-eserleri-muzesi"
 description: "## Muğla Sıtkı Koçman Üniversitesi Kopya Heykeltraşlık Eserleri Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.3710442,37.1638222"
 draft: "false"
 weight: "999"

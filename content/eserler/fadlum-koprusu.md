@@ -5,10 +5,10 @@ slug: "fadlum-koprusu"
 description: "## Fadlum Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.0429511,39.7150891"
 draft: "false"
 weight: "999"

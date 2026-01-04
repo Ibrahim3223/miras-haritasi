@@ -5,10 +5,10 @@ slug: "tyinda"
 description: "## Tyinda Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.73105,36.237203"
 draft: "false"
 weight: "999"

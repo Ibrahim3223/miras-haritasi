@@ -5,10 +5,10 @@ slug: "fatmaoren-hoyugu"
 description: "## Fatmaören Höyüğü: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.241,40.31"
 draft: "false"
 weight: "999"

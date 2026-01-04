@@ -5,10 +5,10 @@ slug: "uskup-kavala-dogu-tumulusu"
 description: "### Üsküp Kavala Doğu Tümülüsü: Tarihî ve Kültürel Bir Değer..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3658962,41.7794952"
 draft: "false"
 weight: "999"

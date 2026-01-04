@@ -5,10 +5,10 @@ slug: "mahmud-turbesi"
 description: "## Mahmud Türbesi: Niğde'nin Tarihî Anıtı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.677995,37.97038"
 draft: "false"
 weight: "999"

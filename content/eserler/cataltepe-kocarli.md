@@ -5,10 +5,10 @@ slug: "cataltepe-kocarli"
 description: "### Çataltepe, Koçarlı: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7188377,37.7304802"
 draft: "false"
 weight: "999"

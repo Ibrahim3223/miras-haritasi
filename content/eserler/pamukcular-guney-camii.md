@@ -5,10 +5,10 @@ slug: "pamukcular-guney-camii"
 description: "**Pamukçular Güney Camii: Artvin'in Gizli Çeşmesi**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.835035,40.787996"
 draft: "false"
 weight: "999"

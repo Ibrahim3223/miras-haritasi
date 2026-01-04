@@ -5,10 +5,10 @@ slug: "bakacak-koyu-camii"
 description: "## Bakacak Köyü Camii: Biga'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Dar%C4%B1yeri_Bakacak_K%C3%B6y%C3%BC.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0835991,40.2043419"
 draft: "false"
 weight: "999"

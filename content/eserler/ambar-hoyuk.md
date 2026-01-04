@@ -5,10 +5,10 @@ slug: "ambar-hoyuk"
 description: "## Ambar Höyük: Diyarbakır'ın Gizli Kâseleme Şehri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Kocaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.4568329,38.2662888"
 draft: "false"
 weight: "999"

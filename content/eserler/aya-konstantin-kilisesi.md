@@ -5,10 +5,10 @@ slug: "aya-konstantin-kilisesi"
 description: "### Aya Konstantin Kilisesi: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1806164,41.7510529"
 draft: "false"
 weight: "999"

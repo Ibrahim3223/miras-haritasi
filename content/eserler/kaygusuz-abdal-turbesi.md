@@ -5,10 +5,10 @@ slug: "kaygusuz-abdal-turbesi"
 description: "## Kaygusuz Abdal Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.0494003,40.2509003"
 draft: "false"
 weight: "999"

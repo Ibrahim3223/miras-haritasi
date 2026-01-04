@@ -5,10 +5,10 @@ slug: "gaziantep-hamam-muzesi"
 description: "## Gaziantep Hamam Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gaziantep_Hamam_museum_4482.jpg/1200px-Gaziantep_Hamam_museum_4482.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.3824539,37.0641251"
 draft: "false"
 weight: "10"

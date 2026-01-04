@@ -5,10 +5,10 @@ slug: "yildirim-bayezid-camii-alasehir"
 description: "# Yıldırım Bayezid Camii (Alaşehir)..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.5177402,38.3496742"
 draft: "false"
 weight: "999"

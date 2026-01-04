@@ -5,10 +5,10 @@ slug: "andriake-b-kilisesi"
 description: "## Andriake B Kilisesi: Demre'de Bir Tarihi Kıymet..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9568214,36.2265854"
 draft: "false"
 weight: "999"

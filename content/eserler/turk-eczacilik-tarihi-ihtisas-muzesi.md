@@ -5,10 +5,10 @@ slug: "turk-eczacilik-tarihi-ihtisas-muzesi"
 description: "## Türk Eczacılık Tarihi İhtisas Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.962888888,41.010944444"
 draft: "false"
 weight: "999"

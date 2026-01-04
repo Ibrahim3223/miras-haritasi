@@ -5,10 +5,10 @@ slug: "kunk-dagi-yerlesimi"
 description: "## Künk Dağı Yerleşimi: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8051872,39.9138985"
 draft: "false"
 weight: "999"

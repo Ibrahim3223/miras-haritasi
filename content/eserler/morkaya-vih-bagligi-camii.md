@@ -5,10 +5,10 @@ slug: "morkaya-vih-bagligi-camii"
 description: "## Morkaya Vih Bağlığı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.6618572,40.7277023"
 draft: "false"
 weight: "999"

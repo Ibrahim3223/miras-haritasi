@@ -5,10 +5,10 @@ slug: "coban-aga-camii"
 description: "**Çoban Ağa Camii: Fatih'in Gizli Bir Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.955981,41.018554"
 draft: "false"
 weight: "999"

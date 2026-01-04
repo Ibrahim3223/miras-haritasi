@@ -5,10 +5,10 @@ slug: "cagliyan-camii"
 description: "## Çağlıyan Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7627479,40.9533833"
 draft: "false"
 weight: "999"

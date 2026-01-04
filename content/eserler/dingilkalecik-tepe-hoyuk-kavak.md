@@ -5,10 +5,10 @@ slug: "dingilkalecik-tepe-hoyuk-kavak"
 description: "## Dingilkalecik Tepe Höyük: Samsun'un Gizli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.128115,41.025758"
 draft: "false"
 weight: "999"

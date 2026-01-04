@@ -5,10 +5,10 @@ slug: "hamitli-hoyuk"
 description: "# Hamitli Höyük: Eskişehir'in Gizli Klasik Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.876533,39.3474"
 draft: "false"
 weight: "999"

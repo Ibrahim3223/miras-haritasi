@@ -5,10 +5,10 @@ slug: "sifa-hamami"
 description: "## Şifa Hamamı: Ereğli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.0497906,37.5133772"
 draft: "false"
 weight: "999"

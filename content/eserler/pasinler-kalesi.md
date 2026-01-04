@@ -5,10 +5,10 @@ slug: "pasinler-kalesi"
 description: "## Pasinler Kalesi: Erzurum'un Klasik Çağlı Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.681271,39.97911"
 draft: "false"
 weight: "999"

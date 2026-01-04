@@ -5,10 +5,10 @@ slug: "terice-merkez-camii"
 description: "### Terice Merkez Camii: Ayvacık'ta Bir Tarihsel Özellik..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5387993,40.9835014"
 draft: "false"
 weight: "999"

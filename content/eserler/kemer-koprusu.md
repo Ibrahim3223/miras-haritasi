@@ -5,10 +5,10 @@ slug: "kemer-koprusu"
 description: "# Kemer Köprüsü: Muğla'nın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Bridge_near_Kemer,_Lycia,_Turkey._Pic_15.jpg/1200px-Bridge_near_Kemer,_Lycia,_Turkey._Pic_15.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.36194,36.69339"
 draft: "false"
 weight: "10"

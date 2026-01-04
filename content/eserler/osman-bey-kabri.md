@@ -5,10 +5,10 @@ slug: "osman-bey-kabri"
 description: "## Osman Bey Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0158253,41.0266762"
 draft: "false"
 weight: "999"

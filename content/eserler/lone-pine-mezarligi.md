@@ -5,10 +5,10 @@ slug: "lone-pine-mezarligi"
 description: "### Lone Pine Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lone_Pine_Cemetery_2013.07.26.jpg/1200px-Lone_Pine_Cemetery_2013.07.26.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.28712,40.2307"
 draft: "false"
 weight: "10"

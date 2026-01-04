@@ -5,10 +5,10 @@ slug: "sair-ahmet-pasa-turbesi"
 description: "## Şair Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0460014,40.1917534"
 draft: "false"
 weight: "999"

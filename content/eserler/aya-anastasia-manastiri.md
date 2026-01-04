@@ -5,10 +5,10 @@ slug: "aya-anastasia-manastiri"
 description: "### Aya Anastasia Manastırı: Gökçeada'nın Tarihçi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8093204,40.2067795"
 draft: "false"
 weight: "999"

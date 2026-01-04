@@ -5,10 +5,10 @@ slug: "siverek-ulu-camii"
 description: "### Siverek Ulu Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.319111111,37.75325"
 draft: "false"
 weight: "999"

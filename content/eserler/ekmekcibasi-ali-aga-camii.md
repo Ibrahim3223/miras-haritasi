@@ -5,10 +5,10 @@ slug: "ekmekcibasi-ali-aga-camii"
 description: "# Ekmekçibaşı Ali Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9801159,41.0299683"
 draft: "false"
 weight: "999"

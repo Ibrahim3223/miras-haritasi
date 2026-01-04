@@ -5,10 +5,10 @@ slug: "mehmet-gursoy-cini-konagi"
 description: "**Mehmet Gürsoy Çini Konağı: Kütahya'nın Gizli Müzesi**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9790554,39.4218407"
 draft: "false"
 weight: "999"

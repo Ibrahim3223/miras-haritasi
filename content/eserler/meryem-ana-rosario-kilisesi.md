@@ -5,10 +5,10 @@ slug: "meryem-ana-rosario-kilisesi"
 description: "## Meryem Ana Rosario Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8795986,40.9770279"
 draft: "false"
 weight: "999"

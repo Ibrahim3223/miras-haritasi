@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-deliktepe-a"
 description: "## Bin Tepeler Tümülüsü Deliktepe A..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.035526,38.571613"
 draft: "false"
 weight: "999"

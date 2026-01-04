@@ -5,10 +5,10 @@ slug: "akyurt-hoyuk"
 description: "## Akyurt Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.8938,39.62265"
 draft: "false"
 weight: "999"

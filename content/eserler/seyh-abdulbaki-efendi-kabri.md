@@ -5,10 +5,10 @@ slug: "seyh-abdulbaki-efendi-kabri"
 description: "## Şeyh Abdulbaki Efendi Kabri: Eyüpsultan'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.931814,41.039244"
 draft: "false"
 weight: "999"

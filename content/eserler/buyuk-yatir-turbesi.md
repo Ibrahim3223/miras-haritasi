@@ -5,10 +5,10 @@ slug: "buyuk-yatir-turbesi"
 description: "## Büyük Yatır Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.617728,40.704428"
 draft: "false"
 weight: "999"

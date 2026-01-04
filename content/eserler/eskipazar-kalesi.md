@@ -5,10 +5,10 @@ slug: "eskipazar-kalesi"
 description: "### Eskipazar Kalesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: ""
 draft: "false"
 weight: "999"

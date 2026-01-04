@@ -5,10 +5,10 @@ slug: "baby-700-mezarligi"
 description: "## Baby 700 Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.29444444,40.24277778"
 draft: "false"
 weight: "999"

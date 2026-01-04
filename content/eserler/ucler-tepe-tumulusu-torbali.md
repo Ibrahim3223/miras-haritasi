@@ -5,10 +5,10 @@ slug: "ucler-tepe-tumulusu-torbali"
 description: "## Üçler Tepe Tümülüsü, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4162006,38.1739998"
 draft: "false"
 weight: "999"

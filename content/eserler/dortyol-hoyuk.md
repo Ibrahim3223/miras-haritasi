@@ -5,10 +5,10 @@ slug: "dortyol-hoyuk"
 description: "### Dörtyol Höyük: Isparta'nın Gizemi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.241794,38.190623"
 draft: "false"
 weight: "999"

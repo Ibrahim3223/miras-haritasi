@@ -5,10 +5,10 @@ slug: "meryem-ana-heykeli"
 description: "## Meryem Ana Heykeli: Selçuk'un sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Bronze_sculpture_of_the_Virgin_Mary_in_Selçuk,_İzmir_Province,_Turkey,_August_2011.jpg/1200px-Bronze_sculpture_of_the_Virgin_Mary_in_Selçuk,_İzmir_Province,_Turkey,_August_2011.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.344888888,37.930861111"
 draft: "false"
 weight: "10"

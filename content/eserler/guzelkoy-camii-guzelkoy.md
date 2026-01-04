@@ -5,10 +5,10 @@ slug: "guzelkoy-camii-guzelkoy"
 description: "### Güzelköy Camii: Şarköy'deki Bir Ölümsüz..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2952957,40.7443542"
 draft: "false"
 weight: "999"

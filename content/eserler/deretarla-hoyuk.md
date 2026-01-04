@@ -5,10 +5,10 @@ slug: "deretarla-hoyuk"
 description: "### Deretarla Höyük: Tarihî ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.824028,40.5273857"
 draft: "false"
 weight: "999"

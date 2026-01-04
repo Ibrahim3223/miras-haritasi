@@ -5,10 +5,10 @@ slug: "mantarli-tepe-tumulusu-kavak"
 description: "### Mantarlı Tepe Tümülüsü Kavak..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.93027,41.142699"
 draft: "false"
 weight: "999"

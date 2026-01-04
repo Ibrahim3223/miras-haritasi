@@ -5,10 +5,10 @@ slug: "muhammed-teyyar-turbesi"
 description: "## Muhammed Teyyar Türbesi: Çatak, Van'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Muhammed_Teyyar_Trbesi_1761631892.jpg/1200px-Muhammed_Teyyar_Trbesi_1761631892.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Çatak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.1741791,38.142128"
 draft: "false"
 weight: "10"

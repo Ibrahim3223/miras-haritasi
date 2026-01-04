@@ -5,10 +5,10 @@ slug: "dikilitas-mersin"
 description: "### Dikilitaş, Mersin..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.65,36.85"
 draft: "false"
 weight: "999"

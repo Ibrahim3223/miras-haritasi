@@ -5,10 +5,10 @@ slug: "cromna"
 description: "### Cromna Arkeolojik Sit..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Kurucaşile"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.6709,41.8296"
 draft: "false"
 weight: "999"

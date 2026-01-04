@@ -5,10 +5,10 @@ slug: "cumhuriyet-devri-muzesi"
 description: "## Cumhuriyet Devri Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.840474,39.943568"
 draft: "false"
 weight: "999"

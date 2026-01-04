@@ -5,10 +5,10 @@ slug: "mor-efrem-kilisesi"
 description: "## Mor Efrem Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.7287979,37.3137741"
 draft: "false"
 weight: "999"

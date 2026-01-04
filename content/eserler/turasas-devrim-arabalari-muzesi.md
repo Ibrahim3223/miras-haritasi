@@ -5,10 +5,10 @@ slug: "turasas-devrim-arabalari-muzesi"
 description: "## TÜRASAŞ Devrim Arabaları Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.50527778,39.77611111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tokmar-kalesi"
 description: "## Tokmar Kalesi: Silifke'nin Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/TokmarKalesi1.jpg/1200px-TokmarKalesi1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.77055556,36.25638889"
 draft: "false"
 weight: "10"

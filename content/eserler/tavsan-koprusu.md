@@ -5,10 +5,10 @@ slug: "tavsan-koprusu"
 description: "## Tavşan Köprüsü: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.6985441,37.4901087"
 draft: "false"
 weight: "999"

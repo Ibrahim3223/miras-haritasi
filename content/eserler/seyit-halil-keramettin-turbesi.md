@@ -5,10 +5,10 @@ slug: "seyit-halil-keramettin-turbesi"
 description: "## Seyit Halil Keramettin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Akkışla"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.078743,39.0209084"
 draft: "false"
 weight: "999"

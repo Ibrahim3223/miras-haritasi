@@ -5,10 +5,10 @@ slug: "haci-alibey-camii"
 description: "## Hacı Alibey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hacı_Alibey_Camii.jpg/1200px-Hacı_Alibey_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0875921,41.138792"
 draft: "false"
 weight: "10"

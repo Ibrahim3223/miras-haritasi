@@ -5,10 +5,10 @@ slug: "kayabasi-koyu-camii-2"
 description: "## Kayabaşı Köyü Camii 2: Kalkandere'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.468128912,40.866248491"
 draft: "false"
 weight: "999"

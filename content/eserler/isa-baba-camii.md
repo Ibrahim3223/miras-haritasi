@@ -5,10 +5,10 @@ slug: "isa-baba-camii"
 description: "### İsa Baba Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3310814,41.307148"
 draft: "false"
 weight: "999"

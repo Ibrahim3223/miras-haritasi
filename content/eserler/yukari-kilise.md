@@ -5,10 +5,10 @@ slug: "yukari-kilise"
 description: "## Yukarı Kilisesi: Divriği'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.120378,39.3752149"
 draft: "false"
 weight: "999"

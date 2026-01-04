@@ -5,10 +5,10 @@ slug: "osmaninagili"
 description: "### Osmanınağılı Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.196981,39.0889288"
 draft: "false"
 weight: "999"

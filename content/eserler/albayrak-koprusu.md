@@ -5,10 +5,10 @@ slug: "albayrak-koprusu"
 description: "## Albayrak Köprüsü: Başkale'nin Tarihî Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Başkale"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "44.2139015,38.1418991"
 draft: "false"
 weight: "999"

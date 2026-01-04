@@ -5,10 +5,10 @@ slug: "yemiskumu-anit-mezari"
 description: "## Yemişkumu Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1818695,36.4992027"
 draft: "false"
 weight: "999"

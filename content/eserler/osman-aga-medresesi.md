@@ -5,10 +5,10 @@ slug: "osman-aga-medresesi"
 description: "### Osman Ağa Medresesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.8402348,37.8524551"
 draft: "false"
 weight: "999"

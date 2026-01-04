@@ -5,10 +5,10 @@ slug: "igdeli-koyu-kalesi"
 description: "## İğdeli Köyü Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.839489,40.554136"
 draft: "false"
 weight: "999"

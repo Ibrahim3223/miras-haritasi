@@ -5,10 +5,10 @@ slug: "zal-pasa-camii-adilcevaz"
 description: "## Zal Paşa Camii: Adilcevaz'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Adilcevaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.7310028,38.7992935"
 draft: "false"
 weight: "999"

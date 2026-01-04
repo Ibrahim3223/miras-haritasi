@@ -5,10 +5,10 @@ slug: "yus-tepesi"
 description: "## Yuşâ Tepesi: Beykoz'un Tarihî bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.08525,41.16255"
 draft: "false"
 weight: "999"

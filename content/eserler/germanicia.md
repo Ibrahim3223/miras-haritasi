@@ -5,10 +5,10 @@ slug: "germanicia"
 description: "## Germanicia: Kahramanmaraş'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.945611111,37.576111111"
 draft: "false"
 weight: "999"

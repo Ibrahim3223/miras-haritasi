@@ -5,10 +5,10 @@ slug: "ziraat-mektebi-ataturk-bustu"
 description: "## Ziraat Mektebi Atatürk Büstü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2142925,38.4579697"
 draft: "false"
 weight: "999"

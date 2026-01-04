@@ -5,10 +5,10 @@ slug: "fatma-suat-orhon-muze-ve-sanat-evi"
 description: "## Fatma Suat Orhon Müze ve Sanat Evi: Aydın'ın Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4067993,37.7551994"
 draft: "false"
 weight: "999"

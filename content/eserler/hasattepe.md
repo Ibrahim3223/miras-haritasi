@@ -5,10 +5,10 @@ slug: "hasattepe"
 description: "### Haşattepe: Aydın'ın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5618,37.8765984"
 draft: "false"
 weight: "999"

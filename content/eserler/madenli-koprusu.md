@@ -5,10 +5,10 @@ slug: "madenli-koprusu"
 description: "## Madenli Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.777183,41.032433"
 draft: "false"
 weight: "999"

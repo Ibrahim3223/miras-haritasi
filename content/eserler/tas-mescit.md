@@ -5,10 +5,10 @@ slug: "tas-mescit"
 description: "## Taş Mescit: Dulkadiroğlu'nun Tarihî Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Taş_mescit_panorama_4.jpg/1200px-Taş_mescit_panorama_4.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9263382,37.5852127"
 draft: "false"
 weight: "999"

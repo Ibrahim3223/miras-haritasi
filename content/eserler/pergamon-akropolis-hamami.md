@@ -5,10 +5,10 @@ slug: "pergamon-akropolis-hamami"
 description: "## Pergamon Akropolis Hamamı: Bergama'da Bir Antik Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1832542,39.1293068"
 draft: "false"
 weight: "999"

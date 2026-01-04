@@ -5,10 +5,10 @@ slug: "ahlat-muzesi"
 description: "**Ahlat Müzesi: Ahlat'ın Ölümsüz Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Bitlis_Ahlat_Müzesi.jpg/1200px-Bitlis_Ahlat_Müzesi.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

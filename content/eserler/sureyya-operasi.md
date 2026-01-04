@@ -5,10 +5,10 @@ slug: "sureyya-operasi"
 description: "### Süreyya Operası: İstanbul'un Tarihi Tiyatro Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Istanbul_asv2021-11_img50_Süreyya_Opera.jpg/1200px-Istanbul_asv2021-11_img50_Süreyya_Opera.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.028985,40.987963"
 draft: "false"
 weight: "10"

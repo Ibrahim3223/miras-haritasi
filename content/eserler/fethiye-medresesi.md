@@ -5,10 +5,10 @@ slug: "fethiye-medresesi"
 description: "### Fethiye Medresesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.945942645,41.029206848"
 draft: "false"
 weight: "999"

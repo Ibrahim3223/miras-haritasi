@@ -5,10 +5,10 @@ slug: "darulhadis-medresesi"
 description: "## Darülhadis Medresesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5599308,41.6778946"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yavsan-camii"
 description: "# Yavşan Camii..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.913874,40.47538"
 draft: "false"
 weight: "999"

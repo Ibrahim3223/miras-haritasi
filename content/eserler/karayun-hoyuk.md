@@ -5,10 +5,10 @@ slug: "karayun-hoyuk"
 description: "Karayün Höyük: Sivas'ta Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.3076981,39.6749497"
 draft: "false"
 weight: "999"

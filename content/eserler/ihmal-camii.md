@@ -5,10 +5,10 @@ slug: "ihmal-camii"
 description: "## İhmal Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2733498,39.9118576"
 draft: "false"
 weight: "999"

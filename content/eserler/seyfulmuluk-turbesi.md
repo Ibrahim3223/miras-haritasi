@@ -5,10 +5,10 @@ slug: "seyfulmuluk-turbesi"
 description: "## Seyfülmülük Türbesi: Diyarbakır'ın Tarihî Bir İmzası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2703018,37.8380508"
 draft: "false"
 weight: "999"

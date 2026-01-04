@@ -5,10 +5,10 @@ slug: "seyyid-zulfikar-turbesi"
 description: "## Seyyid Zülfikar Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Seydiler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7178078,41.6176834"
 draft: "false"
 weight: "999"

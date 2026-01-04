@@ -5,10 +5,10 @@ slug: "lerduge-tumulusleri"
 description: "## Lerdüge Tümülüsleri..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.6550026,40.9726868"
 draft: "false"
 weight: "999"

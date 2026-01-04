@@ -5,10 +5,10 @@ slug: "duden-koprusu"
 description: "## Düden Köprüsü: Antalya'nın Görsel Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.767169,36.903543"
 draft: "false"
 weight: "999"

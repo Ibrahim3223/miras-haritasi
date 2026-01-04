@@ -5,10 +5,10 @@ slug: "abditolu-hoyugu"
 description: "## Abditolu Höyüğü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.737709,37.7374611"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yukarisimsirli-regadin-koprusu"
 description: "### Yukarışimşirli Regadin Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0639,41.019933"
 draft: "false"
 weight: "999"

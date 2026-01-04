@@ -5,10 +5,10 @@ slug: "antoniopolis-paflagonya"
 description: "## Antoniopolis (Paflagonya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.89346,40.81142"
 draft: "false"
 weight: "999"

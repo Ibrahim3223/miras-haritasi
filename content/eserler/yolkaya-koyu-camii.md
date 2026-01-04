@@ -5,10 +5,10 @@ slug: "yolkaya-koyu-camii"
 description: "### Yolkaya Köyü Camii: Çankırı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.4530907,40.6818008"
 draft: "false"
 weight: "999"

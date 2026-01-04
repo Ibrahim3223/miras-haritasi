@@ -5,10 +5,10 @@ slug: "perkote"
 description: "## Perkote Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.588806,40.273913"
 draft: "false"
 weight: "999"

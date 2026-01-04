@@ -5,10 +5,10 @@ slug: "munire-medresesi"
 description: "**Münire Medresesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.7752991,41.3768883"
 draft: "false"
 weight: "999"

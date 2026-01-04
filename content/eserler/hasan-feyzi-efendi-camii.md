@@ -5,10 +5,10 @@ slug: "hasan-feyzi-efendi-camii"
 description: "## Hasan Feyzi Efendi Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0823116,37.7641335"
 draft: "false"
 weight: "999"

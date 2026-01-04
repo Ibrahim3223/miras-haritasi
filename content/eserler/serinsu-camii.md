@@ -5,10 +5,10 @@ slug: "serinsu-camii"
 description: "## Serinsu Camii: Artvin'in Zengin Kültür Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5745999,41.0252"
 draft: "false"
 weight: "999"

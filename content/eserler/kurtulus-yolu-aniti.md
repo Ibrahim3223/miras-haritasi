@@ -5,10 +5,10 @@ slug: "kurtulus-yolu-aniti"
 description: "## Kurtuluş Yolu Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3721237,37.9505234"
 draft: "false"
 weight: "999"

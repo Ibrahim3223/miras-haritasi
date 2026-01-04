@@ -5,10 +5,10 @@ slug: "alinyayla-koyu-kilisesi-1"
 description: "### Alınyayla Köyü Kilisesi 1: Görsel Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.106283,40.531881"
 draft: "false"
 weight: "999"

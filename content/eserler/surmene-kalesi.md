@@ -5,10 +5,10 @@ slug: "surmene-kalesi"
 description: "## Sürmene Kalesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Sürmene"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.1260033,40.9033737"
 draft: "false"
 weight: "999"

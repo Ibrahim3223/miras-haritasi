@@ -5,10 +5,10 @@ slug: "tatarhuyuk"
 description: "## Tatarhüyük: Tarihî Bir Mirasın Gerçek Yüzü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4381449,39.3964823"
 draft: "false"
 weight: "999"

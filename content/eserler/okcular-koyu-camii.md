@@ -5,10 +5,10 @@ slug: "okcular-koyu-camii"
 description: "### Okçular Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.039808259,40.37988919"
 draft: "false"
 weight: "999"

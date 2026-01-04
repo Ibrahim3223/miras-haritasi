@@ -5,10 +5,10 @@ slug: "hierapolis-direkli-kilise"
 description: "### Hierapolis Direkli Kilise..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1266651,37.9250412"
 draft: "false"
 weight: "999"

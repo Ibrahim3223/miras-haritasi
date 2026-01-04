@@ -5,10 +5,10 @@ slug: "hasar-tepe"
 description: "## Hasar Tepe: Kütahya'da Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9408507,39.170165"
 draft: "false"
 weight: "999"

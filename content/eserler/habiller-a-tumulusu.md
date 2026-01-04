@@ -5,10 +5,10 @@ slug: "habiller-a-tumulusu"
 description: "## Habiller A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8022594,41.6532555"
 draft: "false"
 weight: "999"

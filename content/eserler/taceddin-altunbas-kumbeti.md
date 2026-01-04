@@ -5,10 +5,10 @@ slug: "taceddin-altunbas-kumbeti"
 description: "## Taceddin Altunbaş Kümbeti..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8330841,40.6510086"
 draft: "false"
 weight: "999"

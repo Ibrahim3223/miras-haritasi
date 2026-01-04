@@ -5,10 +5,10 @@ slug: "smyrna-tiyatrosu"
 description: "### Smyrna Tiyatrosu: Antik Tiyatro Mirasının Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.144055555,38.416055555"
 draft: "false"
 weight: "999"

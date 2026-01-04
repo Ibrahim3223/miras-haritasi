@@ -5,10 +5,10 @@ slug: "eskihisar-koprusu-2"
 description: "## Eskihisar Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1339054,37.8986473"
 draft: "false"
 weight: "999"

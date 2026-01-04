@@ -5,10 +5,10 @@ slug: "zeyve-hoyuk"
 description: "## Zeyve Höyük: Niğde'nin Efsanevi Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Porsuk_Höyük02.jpg/1200px-Porsuk_Höyük02.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.57944444,37.51444444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ataturk-demokrasi-aniti"
 description: "### Atatürk Demokrasi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.007299,41.042636"
 draft: "false"
 weight: "999"

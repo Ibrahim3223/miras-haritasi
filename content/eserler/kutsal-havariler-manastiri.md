@@ -5,10 +5,10 @@ slug: "kutsal-havariler-manastiri"
 description: "## Kutsal Havariler Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Surp_Arakelots.jpg/1200px-Surp_Arakelots.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.519517,38.695786"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "pekmez-hoyuk"
 description: "## Pekmez Höyük: Denizli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.811083,38.265133"
 draft: "false"
 weight: "999"

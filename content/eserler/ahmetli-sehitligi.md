@@ -5,10 +5,10 @@ slug: "ahmetli-sehitligi"
 description: "### Ahmetli Şehitliği: Tarihî Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9376736,38.5145035"
 draft: "false"
 weight: "999"

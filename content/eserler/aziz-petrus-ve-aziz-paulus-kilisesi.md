@@ -5,10 +5,10 @@ slug: "aziz-petrus-ve-aziz-paulus-kilisesi"
 description: "## Aziz Petrus ve Aziz Paulus Kilisesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.7932892,37.1503296"
 draft: "false"
 weight: "999"

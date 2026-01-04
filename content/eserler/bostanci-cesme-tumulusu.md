@@ -5,10 +5,10 @@ slug: "bostanci-cesme-tumulusu"
 description: "### Bostancı Çeşme Tümülüsü: Vize'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8009739,41.5608292"
 draft: "false"
 weight: "999"

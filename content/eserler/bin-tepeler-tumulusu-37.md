@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-37"
 description: "## Bin Tepeler Tümülüsü 37: Manisa'nın Gizli Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.000486,38.555748"
 draft: "false"
 weight: "999"

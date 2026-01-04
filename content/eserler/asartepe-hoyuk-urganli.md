@@ -5,10 +5,10 @@ slug: "asartepe-hoyuk-urganli"
 description: "## Asartepe Höyük, Urganlı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.844933,38.555483"
 draft: "false"
 weight: "999"

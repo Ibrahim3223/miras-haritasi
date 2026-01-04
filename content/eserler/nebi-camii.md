@@ -5,10 +5,10 @@ slug: "nebi-camii"
 description: "### Nebi Camii: Diyarbakır'ın Ölümsüz Yapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nebi_Camii.jpg/1200px-Nebi_Camii.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.23649,37.915142"
 draft: "false"
 weight: "10"

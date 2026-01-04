@@ -5,10 +5,10 @@ slug: "kavuncu-koprusu"
 description: "### Kavuncu Köprüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Günyüzü"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.9784927,39.4139709"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koca-sinan-pasa-turbesi"
 description: "### Koca Sinan Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.968689,41.008835"
 draft: "false"
 weight: "999"

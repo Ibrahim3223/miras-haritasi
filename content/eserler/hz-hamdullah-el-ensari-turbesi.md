@@ -5,10 +5,10 @@ slug: "hz-hamdullah-el-ensari-turbesi"
 description: "# Hz. Hamdullah El-Ensari Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "28.9413509,41.0393448"
 draft: "false"
 weight: "999"

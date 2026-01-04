@@ -5,10 +5,10 @@ slug: "organize-sanayi-camii"
 description: "## Organize Sanayi Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.118475,37.7474497"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-hoyuk-bektasli"
 description: "### Küçük Höyük: Türkiye'nin Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yenifakılı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0616967,39.2015051"
 draft: "false"
 weight: "999"

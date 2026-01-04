@@ -5,10 +5,10 @@ slug: "hafiz-ahmet-pasa-darulkurrasi"
 description: "## Hafız Ahmet Paşa Darülkurrası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.947617,41.021792"
 draft: "false"
 weight: "999"

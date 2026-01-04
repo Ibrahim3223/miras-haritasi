@@ -5,10 +5,10 @@ slug: "vaftizci-yahya-kilisesi"
 description: "## Vaftizci Yahya Kilisesi: Avanos'un Kutsal Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.842948,38.667169"
 draft: "false"
 weight: "999"

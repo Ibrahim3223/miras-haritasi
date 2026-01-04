@@ -5,10 +5,10 @@ slug: "bolca-nine-turbesi"
 description: "## Bolca Nine Türbesi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.9984962,41.513744"
 draft: "false"
 weight: "999"

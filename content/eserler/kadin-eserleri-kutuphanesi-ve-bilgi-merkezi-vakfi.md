@@ -5,10 +5,10 @@ slug: "kadin-eserleri-kutuphanesi-ve-bilgi-merkezi-vakfi"
 description: "### Kadın Eserleri Kütüphanesi ve Bilgi Merkezi Vakfı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Women's_Library_and_Information_Centre_Foundation.jpg/1200px-Women's_Library_and_Information_Centre_Foundation.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9505,41.030777777"
 draft: "false"
 weight: "10"

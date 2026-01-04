@@ -5,10 +5,10 @@ slug: "erzurum-hamami"
 description: "## Erzurum Hamamı: Tarihi ve Kültürel Mirasının Bir Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2733345,39.9103639"
 draft: "false"
 weight: "999"

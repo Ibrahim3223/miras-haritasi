@@ -5,10 +5,10 @@ slug: "zara-buyuk-tarihi-hamam"
 description: "# Zara Büyük Tarihi Hamam: Sivas'ın Değerli Mimari Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Zara"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.7590262,39.8981074"
 draft: "false"
 weight: "999"

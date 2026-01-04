@@ -5,10 +5,10 @@ slug: "tabakhane-hamami"
 description: "## Tabakhane Hamamı: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8453159,37.8510895"
 draft: "false"
 weight: "999"

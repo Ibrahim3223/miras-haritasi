@@ -5,10 +5,10 @@ slug: "carsi-camii-hacirahmanli"
 description: "# Çarşı Camii, Hacırahmanlı: Manisa'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Saruhanlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6023502,38.750946"
 draft: "false"
 weight: "999"

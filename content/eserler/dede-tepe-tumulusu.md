@@ -5,10 +5,10 @@ slug: "dede-tepe-tumulusu"
 description: "# Dede Tepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3422165,40.3202019"
 draft: "false"
 weight: "999"

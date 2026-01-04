@@ -5,10 +5,10 @@ slug: "buyuk-hoyuk-sivas"
 description: "# Büyük Höyük, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9737167,39.5602837"
 draft: "false"
 weight: "999"

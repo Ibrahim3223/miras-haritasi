@@ -5,10 +5,10 @@ slug: "topcuoglu-hamami"
 description: "## Topçuoğlu Hamamı: Kars'ta Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Mazlum_ağa_hamamı_Qars_(2).jpg/1200px-Mazlum_ağa_hamamı_Qars_(2).jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "43.0889771,40.610623"
 draft: "false"
 weight: "10"

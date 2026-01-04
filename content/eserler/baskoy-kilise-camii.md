@@ -5,10 +5,10 @@ slug: "baskoy-kilise-camii"
 description: "## Başköy Kilise Camii: Kayseri'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yeşilhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.9388885,38.3935242"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yukari-golcuk-camii"
 description: "# Yukarı Gölcük Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2474995,37.1733017"
 draft: "false"
 weight: "999"

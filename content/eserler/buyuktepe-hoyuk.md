@@ -5,10 +5,10 @@ slug: "buyuktepe-hoyuk"
 description: "## Büyüktepe Höyük: Demirözü'de Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.9148041,40.2061805"
 draft: "false"
 weight: "999"

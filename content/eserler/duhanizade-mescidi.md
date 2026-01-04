@@ -5,10 +5,10 @@ slug: "duhanizade-mescidi"
 description: "## Duhanizade Mescidi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.928382,41.001911"
 draft: "false"
 weight: "999"

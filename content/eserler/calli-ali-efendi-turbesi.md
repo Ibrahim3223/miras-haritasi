@@ -5,10 +5,10 @@ slug: "calli-ali-efendi-turbesi"
 description: "**Çallı Ali Efendi Türbesi: Eyüpsultan'ın Gizli Çehresini Keşfeden Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9355145,41.0536041"
 draft: "false"
 weight: "999"

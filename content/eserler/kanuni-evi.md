@@ -5,10 +5,10 @@ slug: "kanuni-evi"
 description: "### Kanuni Evi Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.719,41.0049"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "baruthane-tumulusleri-ilkadim"
 description: "## Baruthane Tümülüsleri İlkadım: Samsun'un Gizli Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.323638,41.318725"
 draft: "false"
 weight: "999"

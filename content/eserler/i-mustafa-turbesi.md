@@ -5,10 +5,10 @@ slug: "i-mustafa-turbesi"
 description: "# I. Mustafa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.979322955,41.008271548"
 draft: "false"
 weight: "999"

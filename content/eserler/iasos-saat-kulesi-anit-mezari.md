@@ -5,10 +5,10 @@ slug: "iasos-saat-kulesi-anit-mezari"
 description: "### Iasos Saat Kulesi Anıt Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5875072,37.2868996"
 draft: "false"
 weight: "999"

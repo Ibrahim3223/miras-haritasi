@@ -5,10 +5,10 @@ slug: "mar-yuhanna-ortodoks-kilisesi"
 description: "## Mar Yuhanna Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Arsuz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.8865509,36.4131165"
 draft: "false"
 weight: "999"

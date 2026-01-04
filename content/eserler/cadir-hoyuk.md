@@ -5,10 +5,10 @@ slug: "cadir-hoyuk"
 description: "### Çadır Höyük: Yozgat'ın Eski Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.14335,39.67672"
 draft: "false"
 weight: "999"

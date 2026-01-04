@@ -5,10 +5,10 @@ slug: "atca-comakli-ovasi-sehitligi-ve-sehitler-abidesi"
 description: "## Atça Çomaklı Ovası Şehitliği ve Şehitler Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.2344227,37.8710098"
 draft: "false"
 weight: "999"

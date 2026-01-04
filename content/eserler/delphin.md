@@ -5,10 +5,10 @@ slug: "delphin"
 description: "**Delphin: Antik Roma'nın Gizemi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.986447,41.029913"
 draft: "false"
 weight: "999"

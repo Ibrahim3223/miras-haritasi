@@ -5,10 +5,10 @@ slug: "antiochia-ad-pyramum"
 description: "# Antiochia ad Pyramum: Adana'nın Eski Şehri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Ceyhan_nehri_-_Ceyhan_River.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.34619,36.54423"
 draft: "false"
 weight: "999"

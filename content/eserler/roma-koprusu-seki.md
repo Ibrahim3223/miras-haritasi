@@ -5,10 +5,10 @@ slug: "roma-koprusu-seki"
 description: "## Roma Köprüsü, Seki: Tavas'taki Antik Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.8155823,37.6876907"
 draft: "false"
 weight: "999"

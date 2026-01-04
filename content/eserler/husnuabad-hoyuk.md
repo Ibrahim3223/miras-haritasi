@@ -5,10 +5,10 @@ slug: "husnuabad-hoyuk"
 description: "# Hüsnüabad Höyük: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.8215904,39.4341125"
 draft: "false"
 weight: "999"

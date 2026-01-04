@@ -5,10 +5,10 @@ slug: "tabak-hamami"
 description: "## Tabak Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.3853264,37.0668983"
 draft: "false"
 weight: "999"

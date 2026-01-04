@@ -5,10 +5,10 @@ slug: "fethiye-kalesi"
 description: "## Fethiye Kalesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.1134682,36.6187515"
 draft: "false"
 weight: "999"

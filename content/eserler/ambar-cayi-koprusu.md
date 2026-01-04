@@ -5,10 +5,10 @@ slug: "ambar-cayi-koprusu"
 description: "### Ambar Çayı Köprüsü: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.4601098,38.2648327"
 draft: "false"
 weight: "999"

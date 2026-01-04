@@ -5,10 +5,10 @@ slug: "habibullah-camii"
 description: "**Habibullah Camii: İhtişamlı Bir Miras**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9690971,40.3519363"
 draft: "false"
 weight: "999"

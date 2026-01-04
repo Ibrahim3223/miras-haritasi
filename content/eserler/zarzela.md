@@ -5,10 +5,10 @@ slug: "zarzela"
 description: "## Zarzela Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Sütçüler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.2029724,37.4513817"
 draft: "false"
 weight: "999"

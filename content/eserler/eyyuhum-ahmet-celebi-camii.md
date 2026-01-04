@@ -5,10 +5,10 @@ slug: "eyyuhum-ahmet-celebi-camii"
 description: "### Eyyûhum Ahmet Çelebi Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9725399,41.0382156"
 draft: "false"
 weight: "999"

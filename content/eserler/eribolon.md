@@ -5,10 +5,10 @@ slug: "eribolon"
 description: "## Eribolon: Antik Çağın Gizemli Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.872,40.711"
 draft: "false"
 weight: "999"

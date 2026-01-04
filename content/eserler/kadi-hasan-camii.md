@@ -5,10 +5,10 @@ slug: "kadi-hasan-camii"
 description: "## Kadı Hasan Camii: Tokat'taki Bir Klasik Cami Anıt..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5443993,40.3151283"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dulgeroglu-camii"
 description: "## Dülgeroğlu Camii: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

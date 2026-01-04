@@ -5,10 +5,10 @@ slug: "savata-hoyuk"
 description: "### Şavata Höyük: Alaca'nın Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9170914,40.3085899"
 draft: "false"
 weight: "999"

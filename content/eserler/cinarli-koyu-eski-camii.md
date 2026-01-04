@@ -5,10 +5,10 @@ slug: "cinarli-koyu-eski-camii"
 description: "## Çınarlı Köyü Eski Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.388453747,40.052525089"
 draft: "false"
 weight: "999"

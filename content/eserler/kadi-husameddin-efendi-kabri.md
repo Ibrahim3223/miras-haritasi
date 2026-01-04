@@ -5,10 +5,10 @@ slug: "kadi-husameddin-efendi-kabri"
 description: "## Kadı Hüsameddin Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9559383,41.0129204"
 draft: "false"
 weight: "999"

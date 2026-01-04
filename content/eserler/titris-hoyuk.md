@@ -5,10 +5,10 @@ slug: "titris-hoyuk"
 description: "**Titriş Höyük**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6772881,37.4763015"
 draft: "false"
 weight: "999"

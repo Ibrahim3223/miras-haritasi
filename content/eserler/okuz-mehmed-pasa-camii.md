@@ -5,10 +5,10 @@ slug: "okuz-mehmed-pasa-camii"
 description: "**Öküz Mehmed Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Öküz_Mehmed_Paşa_Camii_12.jpg/1200px-Öküz_Mehmed_Paşa_Camii_12.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.93806993,41.024343832"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "basil-sapeli"
 description: "## Basil Şapeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Göreme-Aziz_Basil_Sapeli_(1).jpg/1200px-Göreme-Aziz_Basil_Sapeli_(1).jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8450167,38.6395575"
 draft: "false"
 weight: "10"

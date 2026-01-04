@@ -5,10 +5,10 @@ slug: "samil-ekinci-muzesi"
 description: "## Şamil Ekinci Müzesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Samilekincimuzesi.JPG/1200px-Samilekincimuzesi.JPG"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.72782,41.00614"
 draft: "false"
 weight: "10"

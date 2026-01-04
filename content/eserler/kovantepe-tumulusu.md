@@ -5,10 +5,10 @@ slug: "kovantepe-tumulusu"
 description: "## Kovantepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8145638,41.5229111"
 draft: "false"
 weight: "999"

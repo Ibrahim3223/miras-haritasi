@@ -5,10 +5,10 @@ slug: "hakim-efendi-camii"
 description: "## Hakim Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hakim_Efendi_Camii.jpg/1200px-Hakim_Efendi_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0862389,38.3956032"
 draft: "false"
 weight: "10"

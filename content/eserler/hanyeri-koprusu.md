@@ -5,10 +5,10 @@ slug: "hanyeri-koprusu"
 description: "## Hanyeri Köprüsü: Muğla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.136116,37.3070335"
 draft: "false"
 weight: "999"

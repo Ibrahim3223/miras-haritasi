@@ -5,10 +5,10 @@ slug: "seyh-sinan-camii"
 description: "### Şeyh Sinan Camii: Alaşehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.5185375,38.345047"
 draft: "false"
 weight: "999"

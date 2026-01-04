@@ -5,10 +5,10 @@ slug: "leukai"
 description: "### Leukai Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.85488,38.55937"
 draft: "false"
 weight: "999"

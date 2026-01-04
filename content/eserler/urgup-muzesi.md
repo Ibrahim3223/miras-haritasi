@@ -5,10 +5,10 @@ slug: "urgup-muzesi"
 description: "## Ürgüp Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.9128,38.6321"
 draft: "false"
 weight: "999"

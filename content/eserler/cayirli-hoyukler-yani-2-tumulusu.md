@@ -5,10 +5,10 @@ slug: "cayirli-hoyukler-yani-2-tumulusu"
 description: "### Çayırlı Höyükler Yanı 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0613556,41.8798294"
 draft: "false"
 weight: "999"

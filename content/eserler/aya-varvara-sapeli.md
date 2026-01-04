@@ -5,10 +5,10 @@ slug: "aya-varvara-sapeli"
 description: "**Aya Varvara Şapeli: Gökçeada'nın Gizli Çehresi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.9678993,40.2154007"
 draft: "false"
 weight: "999"

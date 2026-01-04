@@ -5,10 +5,10 @@ slug: "terk-i-dunya-kilisesi"
 description: "### Terk-i Dünya Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0812073,40.8684349"
 draft: "false"
 weight: "999"

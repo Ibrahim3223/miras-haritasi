@@ -5,10 +5,10 @@ slug: "afkule-manastiri"
 description: "## Afkule Manastırı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.037433,36.579593"
 draft: "false"
 weight: "999"

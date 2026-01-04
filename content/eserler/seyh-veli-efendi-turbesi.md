@@ -5,10 +5,10 @@ slug: "seyh-veli-efendi-turbesi"
 description: "### Şeyh Veli Efendi Türbesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.649689,37.951315"
 draft: "false"
 weight: "999"

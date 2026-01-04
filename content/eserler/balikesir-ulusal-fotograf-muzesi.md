@@ -5,10 +5,10 @@ slug: "balikesir-ulusal-fotograf-muzesi"
 description: "## Balıkesir Ulusal Fotoğraf Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f8/Bal%C4%B1kesir_National_Photograph_Museum.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.882366,39.668892"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yarbasi-camii"
 description: "## Yarbaşı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7406474,40.9676042"
 draft: "false"
 weight: "999"

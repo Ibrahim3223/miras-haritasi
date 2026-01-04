@@ -5,10 +5,10 @@ slug: "incesu-kybele-kabartmasi"
 description: "## İncesu Kybele Kabartması: Türk Tarihini Tanık eden Anıt..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Ortaköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3388329,40.2552948"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "boyaci-kapisi-fatih-kulliyesi"
 description: "### Boyacı Kapısı, Fatih Külliyesi: İstanbul'un Tarihî Zirvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9492989,41.0206413"
 draft: "false"
 weight: "999"

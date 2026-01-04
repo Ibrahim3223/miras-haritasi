@@ -5,10 +5,10 @@ slug: "kerim-cayiri"
 description: "## Kerim Çayırı: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2534,38.2069"
 draft: "false"
 weight: "999"

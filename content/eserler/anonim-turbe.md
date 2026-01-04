@@ -5,10 +5,10 @@ slug: "anonim-turbe"
 description: "## Anonim Türbe: Tire, İzmir'in Gizli Tarihi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7516365,38.0869751"
 draft: "false"
 weight: "999"

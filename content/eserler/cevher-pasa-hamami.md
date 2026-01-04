@@ -5,10 +5,10 @@ slug: "cevher-pasa-hamami"
 description: "### Cevher Paşa Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Kale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.8441639,37.4330902"
 draft: "false"
 weight: "999"

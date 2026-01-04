@@ -5,10 +5,10 @@ slug: "seyh-abdurahman-gazi-turbesi"
 description: "## Şeyh Abdurahman Gazi Türbesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.3446958,38.5022332"
 draft: "false"
 weight: "999"

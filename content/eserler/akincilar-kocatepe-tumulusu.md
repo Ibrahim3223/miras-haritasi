@@ -5,10 +5,10 @@ slug: "akincilar-kocatepe-tumulusu"
 description: "**Akıncılar Kocatepe Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6534252,41.451088"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cavusin"
 description: "## Çavuşin: Göbeklitepe'nin Öncüsü, Anadolu'nun Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

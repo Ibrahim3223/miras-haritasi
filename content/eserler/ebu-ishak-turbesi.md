@@ -5,10 +5,10 @@ slug: "ebu-ishak-turbesi"
 description: "## Ebu İshak Türbesi: Karatay, Konya'da Bir Mesnevî Şairinin Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.493068,37.874888"
 draft: "false"
 weight: "999"

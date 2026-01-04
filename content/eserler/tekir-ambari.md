@@ -5,10 +5,10 @@ slug: "tekir-ambari"
 description: "### Tekir Ambarı: Mersin'in Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Tekir_Ambarı_(3).jpg/1200px-Tekir_Ambarı_(3).jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.92138889,36.37555556"
 draft: "false"
 weight: "10"

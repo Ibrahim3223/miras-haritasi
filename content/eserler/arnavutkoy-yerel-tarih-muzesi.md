@@ -5,10 +5,10 @@ slug: "arnavutkoy-yerel-tarih-muzesi"
 description: "### Arnavutköy Yerel Tarih Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.6211198,41.1555112"
 draft: "false"
 weight: "999"

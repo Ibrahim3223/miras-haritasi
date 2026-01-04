@@ -5,10 +5,10 @@ slug: "palu-surp-lusarovic-kilisesi"
 description: "## Palu Surp Lusaroviç Kilisesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.9558296,38.6991692"
 draft: "false"
 weight: "999"

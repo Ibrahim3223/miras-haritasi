@@ -5,10 +5,10 @@ slug: "yavuz-er-sinan-kabri"
 description: "## Yavuz Er Sinan Kabri: İstanbul'un Göz Bebekleri Arasında..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9621944,41.0215263"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "oslu-hoca-turbesi"
 description: "## Oslu Hoca Türbesi: Bayburt'un Tarihi Bir Anıt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.9731178,40.3464394"
 draft: "false"
 weight: "999"

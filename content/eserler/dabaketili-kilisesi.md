@@ -5,10 +5,10 @@ slug: "dabaketili-kilisesi"
 description: "### Dabaketili Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Yaşarköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.367719444,41.289308333"
 draft: "false"
 weight: "999"

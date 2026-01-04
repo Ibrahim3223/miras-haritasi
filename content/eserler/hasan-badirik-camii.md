@@ -5,10 +5,10 @@ slug: "hasan-badirik-camii"
 description: "## Hasan Badırık Camii: Malatya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.1339874,38.6237488"
 draft: "false"
 weight: "999"

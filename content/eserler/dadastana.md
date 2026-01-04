@@ -5,10 +5,10 @@ slug: "dadastana"
 description: "## Dadastana: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.109549,40.195974"
 draft: "false"
 weight: "999"

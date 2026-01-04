@@ -5,10 +5,10 @@ slug: "imamoglu-hamami"
 description: "### İmamoğlu Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.1158485,39.3675499"
 draft: "false"
 weight: "999"

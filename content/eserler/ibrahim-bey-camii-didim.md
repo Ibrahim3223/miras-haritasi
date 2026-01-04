@@ -5,10 +5,10 @@ slug: "ibrahim-bey-camii-didim"
 description: "## İbrahim Bey Camii: Didim'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2785492,37.5293312"
 draft: "false"
 weight: "999"

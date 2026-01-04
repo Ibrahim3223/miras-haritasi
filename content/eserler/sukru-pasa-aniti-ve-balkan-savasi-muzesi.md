@@ -5,10 +5,10 @@ slug: "sukru-pasa-aniti-ve-balkan-savasi-muzesi"
 description: "# Şükrü Paşa Anıtı ve Balkan Savaşı Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.575599,41.675155"
 draft: "false"
 weight: "999"

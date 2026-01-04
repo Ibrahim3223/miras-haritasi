@@ -5,10 +5,10 @@ slug: "arsameia"
 description: "## Arsameia: Tarihî Bir Kale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Nemrut_Dag_area_A_Commagene_carving.jpg/1200px-Nemrut_Dag_area_A_Commagene_carving.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Kâhta"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.65694444,37.94277778"
 draft: "false"
 weight: "10"

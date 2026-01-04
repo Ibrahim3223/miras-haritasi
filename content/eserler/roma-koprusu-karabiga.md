@@ -5,10 +5,10 @@ slug: "roma-koprusu-karabiga"
 description: "## Roma Köprüsü, Karabiga..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3262367,40.3477173"
 draft: "false"
 weight: "999"

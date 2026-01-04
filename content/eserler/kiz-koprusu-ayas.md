@@ -5,10 +5,10 @@ slug: "kiz-koprusu-ayas"
 description: "## Kız Köprüsü, Ayaş..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.1053009,40.0903358"
 draft: "false"
 weight: "999"

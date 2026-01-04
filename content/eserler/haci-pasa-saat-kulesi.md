@@ -5,10 +5,10 @@ slug: "haci-pasa-saat-kulesi"
 description: "## Hacı Paşa Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hacı_Paşa_Saat_Kulesi.JPG/1200px-Hacı_Paşa_Saat_Kulesi.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "33.88027778,36.31833333"
 draft: "false"
 weight: "10"

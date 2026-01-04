@@ -5,10 +5,10 @@ slug: "bulgurlu-mescidi"
 description: "## Bulgurlu Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Bulgurlu_Mescidi.jpg/1200px-Bulgurlu_Mescidi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.071455,41.018607"
 draft: "false"
 weight: "10"

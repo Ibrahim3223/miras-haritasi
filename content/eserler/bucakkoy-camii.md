@@ -5,10 +5,10 @@ slug: "bucakkoy-camii"
 description: "### Bucakköy Camii: Serik'in Gizli Çağı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.2035391,37.028145"
 draft: "false"
 weight: "999"

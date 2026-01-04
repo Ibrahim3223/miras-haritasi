@@ -5,10 +5,10 @@ slug: "ii-kilicarslan-hamami"
 description: "## II. Kılıçarslan Hamamı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.0288544,38.3755188"
 draft: "false"
 weight: "999"

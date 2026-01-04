@@ -5,10 +5,10 @@ slug: "altinyazi-hoyuk"
 description: "**Altınyazı Höyük**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4248422,38.9968885"
 draft: "false"
 weight: "999"

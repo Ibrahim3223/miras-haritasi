@@ -5,10 +5,10 @@ slug: "kirazlik-koyu-camii"
 description: "## Kirazlık Köyü Camii: Rize'nin Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.091448337,41.121922857"
 draft: "false"
 weight: "999"

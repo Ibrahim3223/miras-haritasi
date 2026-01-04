@@ -5,10 +5,10 @@ slug: "maltepe-tumulusu"
 description: "## Maltepe Tümülüsü: Bergama'nın Gizli Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.17264,39.10906"
 draft: "false"
 weight: "999"

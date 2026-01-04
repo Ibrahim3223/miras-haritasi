@@ -5,10 +5,10 @@ slug: "troitsa-kilisesi"
 description: "## Manyas'lı Örenler Arasında Troitsa Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Manyas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.844017,40.1535149"
 draft: "false"
 weight: "999"

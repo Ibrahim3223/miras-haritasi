@@ -5,10 +5,10 @@ slug: "selahattin-pinar-bustu"
 description: "### Selahattin Pınar Büstü: Kadıköy'ün Tarihi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0416279,40.9768333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gumusdere-rum-kilisesi"
 description: "## Gümüşdere Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9856892,41.2354202"
 draft: "false"
 weight: "999"

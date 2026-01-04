@@ -5,10 +5,10 @@ slug: "abali-baba-turbesi"
 description: "## Abalı Baba Türbesi: Yenimahalle'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.751613,40.063979"
 draft: "false"
 weight: "999"

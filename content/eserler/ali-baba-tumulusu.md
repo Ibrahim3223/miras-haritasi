@@ -5,10 +5,10 @@ slug: "ali-baba-tumulusu"
 description: "**Ali Baba Tümülüsü: Kırklareli'nin Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7472401,41.5255699"
 draft: "false"
 weight: "999"

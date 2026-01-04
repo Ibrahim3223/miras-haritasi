@@ -5,10 +5,10 @@ slug: "mardin-kalesi"
 description: "## Mardin Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Mardin,_Turkey.JPG/1200px-Mardin,_Turkey.JPG"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.7383929,37.3154406"
 draft: "false"
 weight: "10"

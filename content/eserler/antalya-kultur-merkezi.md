@@ -5,10 +5,10 @@ slug: "antalya-kultur-merkezi"
 description: "## Antalya Kültür Merkezi: Antik Tiyatro'nun Gerçek Bir Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Antalya_K%C3%BClt%C3%BCr_Merkezi_Konser_Salonu.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "30.66846,36.8859"
 draft: "false"
 weight: "999"

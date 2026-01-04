@@ -5,10 +5,10 @@ slug: "orjokhi-trikonku"
 description: "## Orjokhi Trikonku: Antik Kilise..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.8038,40.5144"
 draft: "false"
 weight: "999"

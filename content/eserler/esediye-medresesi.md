@@ -5,10 +5,10 @@ slug: "esediye-medresesi"
 description: "## Esendiye Medresesi: Bursa'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0624695,40.183754"
 draft: "false"
 weight: "999"

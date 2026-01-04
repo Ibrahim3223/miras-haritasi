@@ -5,10 +5,10 @@ slug: "yildirim-camii-inegol"
 description: "## Yıldırım Camii: İnegöl'ün Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5117302,40.0790749"
 draft: "false"
 weight: "999"

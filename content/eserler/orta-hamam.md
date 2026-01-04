@@ -5,10 +5,10 @@ slug: "orta-hamam"
 description: "# Orta Hamam..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.6080679,40.7323027"
 draft: "false"
 weight: "999"

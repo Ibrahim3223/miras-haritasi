@@ -5,10 +5,10 @@ slug: "hacibebekli-stele"
 description: "## Hacıbebekli Stele..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hacibebekli.jpg/1200px-Hacibebekli.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

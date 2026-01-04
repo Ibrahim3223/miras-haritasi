@@ -5,10 +5,10 @@ slug: "matnavank-manastiri"
 description: "## Matnavank Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Akhlat_3.jpg/1200px-Akhlat_3.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.455747851,38.75572323"
 draft: "false"
 weight: "10"

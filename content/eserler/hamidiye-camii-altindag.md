@@ -5,10 +5,10 @@ slug: "hamidiye-camii-altindag"
 description: "### Hamidiye Camii, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8555603,39.9450226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-sarkis-ermeni-ortodoks-kilisesi"
 description: "## Surp Sarkis Ermeni Ortodoks Kilisesi: Diyarbakır'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Dêra_Surp_Sarkis_Amed_2_2010.JPG/1200px-Dêra_Surp_Sarkis_Amed_2_2010.JPG"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.2325718,37.907449"
 draft: "false"
 weight: "10"

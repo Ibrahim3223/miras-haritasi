@@ -5,10 +5,10 @@ slug: "alaca-hamami"
 description: "## Alaca Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5376797,38.7587776"
 draft: "false"
 weight: "999"

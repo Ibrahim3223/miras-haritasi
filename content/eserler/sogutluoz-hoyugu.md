@@ -5,10 +5,10 @@ slug: "sogutluoz-hoyugu"
 description: "## Söğütlüöz Höyüğü: Tarih, Kültür ve Miras..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.430876,36.6114327"
 draft: "false"
 weight: "999"

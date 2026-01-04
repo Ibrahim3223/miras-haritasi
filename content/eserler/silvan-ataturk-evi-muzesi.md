@@ -5,10 +5,10 @@ slug: "silvan-ataturk-evi-muzesi"
 description: "## Silvan Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.242363,37.9152718"
 draft: "false"
 weight: "999"

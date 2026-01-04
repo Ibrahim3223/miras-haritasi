@@ -5,10 +5,10 @@ slug: "ilgaz-hamami"
 description: "### Ilgaz Hamamı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.6237335,40.9252472"
 draft: "false"
 weight: "999"

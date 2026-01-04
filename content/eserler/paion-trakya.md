@@ -5,10 +5,10 @@ slug: "paion-trakya"
 description: "## Paion (Trakya): Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.639597,40.505429"
 draft: "false"
 weight: "999"

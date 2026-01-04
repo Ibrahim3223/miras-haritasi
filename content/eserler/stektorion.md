@@ -5,10 +5,10 @@ slug: "stektorion"
 description: "# Stektorion: Türkiye'nin Gizli Çarpıntısı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.144016,38.332722"
 draft: "false"
 weight: "999"

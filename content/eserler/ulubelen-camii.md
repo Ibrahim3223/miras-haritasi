@@ -5,10 +5,10 @@ slug: "ulubelen-camii"
 description: "## Ulubelen Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.6601982,40.9231987"
 draft: "false"
 weight: "999"

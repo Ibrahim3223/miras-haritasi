@@ -5,10 +5,10 @@ slug: "sakip-sabanci-muzesi"
 description: "## Sakıp Sabancı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dali-at-Sabanci-museum.jpg/1200px-Dali-at-Sabanci-museum.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.053704,41.099116"
 draft: "false"
 weight: "10"

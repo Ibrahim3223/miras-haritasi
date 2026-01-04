@@ -5,10 +5,10 @@ slug: "sumbul-aniti"
 description: "## Sümbül Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7133217,39.1971207"
 draft: "false"
 weight: "999"

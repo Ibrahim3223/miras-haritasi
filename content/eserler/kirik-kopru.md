@@ -5,10 +5,10 @@ slug: "kirik-kopru"
 description: "### Kırık Köprü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.8469238,37.8127861"
 draft: "false"
 weight: "999"

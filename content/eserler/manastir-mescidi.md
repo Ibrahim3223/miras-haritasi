@@ -5,10 +5,10 @@ slug: "manastir-mescidi"
 description: "### Manastır Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Manastir_Mosque_2010-10-09_02.jpg/1200px-Manastir_Mosque_2010-10-09_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.92840726,41.017370503"
 draft: "false"
 weight: "10"

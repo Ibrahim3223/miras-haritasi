@@ -5,10 +5,10 @@ slug: "elaiussa-sebaste"
 description: "## Elaiussa Sebaste: Tarihî Bir Mirasın Geri Dönüşü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Elaiussa_Sebaste,_Cilicia,_Turkey_(39344774672).jpg/1200px-Elaiussa_Sebaste,_Cilicia,_Turkey_(39344774672).jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.173725,36.483624"
 draft: "false"
 weight: "10"

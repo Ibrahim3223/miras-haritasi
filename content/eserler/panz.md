@@ -5,10 +5,10 @@ slug: "panz"
 description: "## Panz Kalesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Tuşba"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.5434,38.911665"
 draft: "false"
 weight: "999"

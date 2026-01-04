@@ -5,10 +5,10 @@ slug: "naendria-kalesi"
 description: "### Naendria Kalesi: Ezine'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.272082,39.713047"
 draft: "false"
 weight: "999"

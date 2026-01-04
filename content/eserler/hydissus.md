@@ -5,10 +5,10 @@ slug: "hydissus"
 description: "## Hydissus: Milas'taki Antik Bir Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.811477,37.138837"
 draft: "false"
 weight: "999"

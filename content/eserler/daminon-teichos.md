@@ -5,10 +5,10 @@ slug: "daminon-teichos"
 description: "## Daminon Teichos: Antik Dünya'nın Gizemli Kalesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.03833333,41.05333333"
 draft: "false"
 weight: "999"

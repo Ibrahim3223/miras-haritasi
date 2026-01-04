@@ -5,10 +5,10 @@ slug: "kazanli-hoyuk"
 description: "## Kazanlı Höyük: Akdeniz'in Gizli Tarihi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7383194,36.8352203"
 draft: "false"
 weight: "999"

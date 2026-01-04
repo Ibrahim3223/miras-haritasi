@@ -5,10 +5,10 @@ slug: "safranbolu-kaymakamlar-gezi-evi"
 description: "## Safranbolu Kaymakamlar Gezi Evi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.694235,41.244053"
 draft: "false"
 weight: "999"

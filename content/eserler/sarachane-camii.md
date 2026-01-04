@@ -5,10 +5,10 @@ slug: "sarachane-camii"
 description: "## Saraçhane Camii: Kahramanmaraş'taki Bir Tarihi Çağı Yakalamak..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9272041,37.583416"
 draft: "false"
 weight: "999"

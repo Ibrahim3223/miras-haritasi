@@ -5,10 +5,10 @@ slug: "uzum-pazari-camii"
 description: "## Üzüm Pazarı Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9779854,39.0871315"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "halikarnas-balikcisi-mezari-ve-muzesi"
 description: "**Halikarnas Balıkçısı Mezarı ve Müzesi**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4059219,37.0403442"
 draft: "false"
 weight: "999"

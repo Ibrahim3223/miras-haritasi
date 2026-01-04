@@ -5,10 +5,10 @@ slug: "isa-divanli-camii"
 description: "## İsa Divanlı Camii: Kahramanmaraş'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9331398,37.5807152"
 draft: "false"
 weight: "999"

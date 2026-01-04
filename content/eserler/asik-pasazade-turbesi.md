@@ -5,10 +5,10 @@ slug: "asik-pasazade-turbesi"
 description: "## Aşık Paşazade Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.956458,41.024006"
 draft: "false"
 weight: "999"

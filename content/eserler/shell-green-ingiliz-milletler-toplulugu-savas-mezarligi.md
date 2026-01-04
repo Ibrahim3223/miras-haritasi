@@ -5,10 +5,10 @@ slug: "shell-green-ingiliz-milletler-toplulugu-savas-mezarligi"
 description: "### Shell Green İngiliz Milletler Topluluğu Savaş Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.28012,40.22598"
 draft: "false"
 weight: "999"

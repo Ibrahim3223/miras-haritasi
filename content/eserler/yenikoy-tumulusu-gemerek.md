@@ -5,10 +5,10 @@ slug: "yenikoy-tumulusu-gemerek"
 description: "### Yeniköy Tümülüsü, Gemerek..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gemerek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.3815689,39.0921707"
 draft: "false"
 weight: "999"

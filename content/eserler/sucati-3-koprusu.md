@@ -5,10 +5,10 @@ slug: "sucati-3-koprusu"
 description: "## Suçatı 3 Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.894283,41.096917"
 draft: "false"
 weight: "999"

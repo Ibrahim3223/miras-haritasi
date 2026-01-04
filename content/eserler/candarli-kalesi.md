@@ -5,10 +5,10 @@ slug: "candarli-kalesi"
 description: "## Çandarlı Kalesi: Dikili'nin Tarihi Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Çandarlı_Castle_09.jpg/1200px-Çandarlı_Castle_09.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.933694444,38.933805555"
 draft: "false"
 weight: "10"

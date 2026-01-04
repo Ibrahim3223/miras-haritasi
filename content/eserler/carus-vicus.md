@@ -5,10 +5,10 @@ slug: "carus-vicus"
 description: "## Carus Vicus: Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.204175,40.482434"
 draft: "false"
 weight: "999"

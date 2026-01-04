@@ -5,10 +5,10 @@ slug: "bendehor-kalesi"
 description: "## Bendehor Kalesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Piraziz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.1120834,40.9363518"
 draft: "false"
 weight: "999"

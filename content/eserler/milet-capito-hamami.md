@@ -5,10 +5,10 @@ slug: "milet-capito-hamami"
 description: "## Milet Capito Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2811356,37.5292244"
 draft: "false"
 weight: "999"

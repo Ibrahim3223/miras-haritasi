@@ -5,10 +5,10 @@ slug: "kapikule-sinir-kapisi"
 description: "### Kapıkule Sınır Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Border_station_kapikule_turkey.jpg/1200px-Border_station_kapikule_turkey.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "26.35694444,41.71666667"
 draft: "false"
 weight: "10"

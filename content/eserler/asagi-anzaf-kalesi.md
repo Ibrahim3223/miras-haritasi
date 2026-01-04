@@ -5,10 +5,10 @@ slug: "asagi-anzaf-kalesi"
 description: "## Aşağı Anzaf Kalesi: Van'ın Eski Çağlarından Kalma Gizemi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.464532,38.567965"
 draft: "false"
 weight: "999"

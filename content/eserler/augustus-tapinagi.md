@@ -5,10 +5,10 @@ slug: "augustus-tapinagi"
 description: "### Augustus Tapınağı: Ankara'nın Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Monumento_de_Ancira,_Ankara,_Turquía,_2024-10-03,_DD_48.jpg/1200px-Monumento_de_Ancira,_Ankara,_Turquía,_2024-10-03,_DD_48.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.858266666,39.944336111"
 draft: "false"
 weight: "10"

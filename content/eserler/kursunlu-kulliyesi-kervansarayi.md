@@ -5,10 +5,10 @@ slug: "kursunlu-kulliyesi-kervansarayi"
 description: "## Kurşunlu Külliyesi Kervansarayı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5250187,39.763176"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "salihli-kent-muzesi"
 description: "## Salihli Kent Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.1308041,38.4822884"
 draft: "false"
 weight: "999"

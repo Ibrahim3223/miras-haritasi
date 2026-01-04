@@ -5,10 +5,10 @@ slug: "behramsah-turbesi"
 description: "### Behramşah Türbesi: Kemah'ın Altın Çağı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.032856,39.6082191"
 draft: "false"
 weight: "999"

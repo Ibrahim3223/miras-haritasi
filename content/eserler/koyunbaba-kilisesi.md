@@ -5,10 +5,10 @@ slug: "koyunbaba-kilisesi"
 description: "## Koyunbaba Kilisesi: Kırklareli'nin Gizli Çehresini Açığa Çıkaran Biraz Önemli Eser..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.0968151,41.7212944"
 draft: "false"
 weight: "999"

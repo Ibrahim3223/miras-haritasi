@@ -5,10 +5,10 @@ slug: "alanya-kalesi"
 description: "### Alanya Kalesi: Tarihî bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Alanya_kale.jpg/1200px-Alanya_kale.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "31.993333333,36.533333333"
 draft: "false"
 weight: "10"

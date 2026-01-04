@@ -5,10 +5,10 @@ slug: "melikgazi-turbesi"
 description: "## Melikgazi Türbesi: Niksar'da Bir Önemli Anıt..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.96539,40.591142"
 draft: "false"
 weight: "999"

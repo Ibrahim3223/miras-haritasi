@@ -5,10 +5,10 @@ slug: "tekkeonu-kalesi"
 description: "## Tekkeönü Kalesi: Bartın'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Kurucaşile"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.6669655,41.8312836"
 draft: "false"
 weight: "999"

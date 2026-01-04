@@ -5,10 +5,10 @@ slug: "sakarya-meydan-muharebesi-muzesi-haymana"
 description: "## Sakarya Meydan Muharebesi Müzesi: Türkiye'nin Köklü Tarihine Yönelik Bir Yolculuk..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Haymana"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.49617,39.4324036"
 draft: "false"
 weight: "999"

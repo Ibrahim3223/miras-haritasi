@@ -5,10 +5,10 @@ slug: "bigali-koyu-ataturk-karargah-muzesi"
 description: "## Bigalı Köyü Atatürk Karargah Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.358849,40.236796"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "findikli-koyu-kalesi"
 description: "## Fındıklı Köyü Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.611897,41.380532"
 draft: "false"
 weight: "999"

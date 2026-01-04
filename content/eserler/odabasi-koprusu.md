@@ -5,10 +5,10 @@ slug: "odabasi-koprusu"
 description: "### Odabaşı Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Başakşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7433891,41.0637169"
 draft: "false"
 weight: "999"

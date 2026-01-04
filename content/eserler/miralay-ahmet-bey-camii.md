@@ -5,10 +5,10 @@ slug: "miralay-ahmet-bey-camii"
 description: "# Miralay Ahmet Bey Camii..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8930931,36.9194069"
 draft: "false"
 weight: "999"

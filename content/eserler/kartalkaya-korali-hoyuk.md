@@ -5,10 +5,10 @@ slug: "kartalkaya-korali-hoyuk"
 description: "### Kartalkaya-Körali Höyük: Kahramanmaraş'ın Gizli Anıtı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Pazarcık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.25754351,37.471164213"
 draft: "false"
 weight: "999"

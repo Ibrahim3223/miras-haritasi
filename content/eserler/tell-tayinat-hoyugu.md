@@ -5,10 +5,10 @@ slug: "tell-tayinat-hoyugu"
 description: "### Tell Tayinat Höyüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Tayinat_Flyover_(Photo_credit_Murat_Akar).jpg/1200px-Tayinat_Flyover_(Photo_credit_Murat_Akar).jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.376388888,36.2475"
 draft: "false"
 weight: "10"

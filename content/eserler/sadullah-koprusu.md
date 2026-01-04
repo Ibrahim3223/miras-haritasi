@@ -5,10 +5,10 @@ slug: "sadullah-koprusu"
 description: "## Sadullah Köprüsü: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0379562,37.5139542"
 draft: "false"
 weight: "999"

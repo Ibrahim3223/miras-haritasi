@@ -5,10 +5,10 @@ slug: "saricicek-koyu-camii"
 description: "### Sarıçiçek Köyü Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.8552475,40.4435768"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turkiye-is-bankasi-muzesi"
 description: "# Türkiye İş Bankası Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Türkiye_İş_Bankası_Müzesi.jpg/1200px-Türkiye_İş_Bankası_Müzesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9727863,41.015965"
 draft: "false"
 weight: "10"

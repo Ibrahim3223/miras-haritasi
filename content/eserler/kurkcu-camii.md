@@ -5,10 +5,10 @@ slug: "kurkcu-camii"
 description: "## Kürkçü Camii: Topkapı'da Gizli Bir Çanak..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

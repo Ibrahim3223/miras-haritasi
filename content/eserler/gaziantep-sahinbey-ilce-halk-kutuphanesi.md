@@ -5,10 +5,10 @@ slug: "gaziantep-sahinbey-ilce-halk-kutuphanesi"
 description: "**Gaziantep Şahinbey İlçe Halk Kütüphanesi**..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

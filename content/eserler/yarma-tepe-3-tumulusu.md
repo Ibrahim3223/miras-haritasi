@@ -5,10 +5,10 @@ slug: "yarma-tepe-3-tumulusu"
 description: "## Yarma Tepe 3 Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8233871,41.1741486"
 draft: "false"
 weight: "999"

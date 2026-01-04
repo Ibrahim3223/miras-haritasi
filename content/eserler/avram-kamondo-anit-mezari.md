@@ -5,10 +5,10 @@ slug: "avram-kamondo-anit-mezari"
 description: "### Avram Kamondo Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.950763,41.052258"
 draft: "false"
 weight: "999"

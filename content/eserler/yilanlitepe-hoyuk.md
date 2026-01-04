@@ -5,10 +5,10 @@ slug: "yilanlitepe-hoyuk"
 description: "### Yılanlıtepe Höyük: Yozgat'ın Eski Kültür Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7424616,39.8938553"
 draft: "false"
 weight: "999"

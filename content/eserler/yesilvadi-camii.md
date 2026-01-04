@@ -5,10 +5,10 @@ slug: "yesilvadi-camii"
 description: "## Yeşilvadi Camii: Fatih Sultan Mehmet'in Ümraniye'deki Ziyaretgahı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ümraniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.126222222,41.028305555"
 draft: "false"
 weight: "999"

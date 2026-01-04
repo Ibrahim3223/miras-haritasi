@@ -5,10 +5,10 @@ slug: "kermeyan-kalesi-malkara"
 description: "## Kermeyan Kalesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.1017151,40.9285011"
 draft: "false"
 weight: "999"

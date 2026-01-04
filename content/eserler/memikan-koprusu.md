@@ -5,10 +5,10 @@ slug: "memikan-koprusu"
 description: "### Memikan Köprüsü: Beşiri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Beşiri"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.4682002,37.8360065"
 draft: "false"
 weight: "999"

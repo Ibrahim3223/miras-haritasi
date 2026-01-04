@@ -5,10 +5,10 @@ slug: "efes-bassus-cesmesi"
 description: "### Efes Bassus Çeşmesi: İzmir'in Tarihi Bir İhtişamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.343470081,37.936113184"
 draft: "false"
 weight: "999"

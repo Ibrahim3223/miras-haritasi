@@ -5,10 +5,10 @@ slug: "konstantin-forumu"
 description: "### Konstantin Forumu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Keystone_Constantine_Forum_Istanbul.JPG/1200px-Keystone_Constantine_Forum_Istanbul.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.971,41.009"
 draft: "false"
 weight: "10"

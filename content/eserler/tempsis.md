@@ -5,10 +5,10 @@ slug: "tempsis"
 description: "## Tempsis: Ödemiş'in Gizli Çarpıntısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.81408,38.34712"
 draft: "false"
 weight: "999"

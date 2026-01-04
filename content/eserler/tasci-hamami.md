@@ -5,10 +5,10 @@ slug: "tasci-hamami"
 description: "## Taşçı Hamamı: Erzincan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.4817085,39.7232895"
 draft: "false"
 weight: "999"

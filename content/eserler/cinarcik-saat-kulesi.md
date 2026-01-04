@@ -5,10 +5,10 @@ slug: "cinarcik-saat-kulesi"
 description: "## Çınarcık Saat Kulesi: Yalova'nın Tarihi Örtüleri..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "29.117083333,40.645861111"
 draft: "false"
 weight: "999"

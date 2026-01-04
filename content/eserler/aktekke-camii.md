@@ -5,10 +5,10 @@ slug: "aktekke-camii"
 description: "### Aktekke Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Karaman_4776.jpg/1200px-Karaman_4776.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.213694444,37.182805555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tahir-aga-camii"
 description: "## Tahir Ağa Camii: Fatih'te Bir Kent Tarihçesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.955351,41.023611"
 draft: "false"
 weight: "999"

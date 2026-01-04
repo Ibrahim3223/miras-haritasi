@@ -5,10 +5,10 @@ slug: "fatma-hanim-sultan-turbesi"
 description: "## Fatma Hanım Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.014090433,41.022218954"
 draft: "false"
 weight: "999"

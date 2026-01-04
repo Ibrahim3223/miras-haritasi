@@ -5,10 +5,10 @@ slug: "kaya-mezari-3-tikenlice-mahallesi-gurgentepe"
 description: "## Kaya Mezarı 3 (Tikenlice Mahallesi) Gürgentepe: Gürgentepe'nin Gizli Şehri..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gürgentepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.65346,40.780355"
 draft: "false"
 weight: "999"

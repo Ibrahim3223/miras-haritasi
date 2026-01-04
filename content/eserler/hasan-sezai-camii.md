@@ -5,10 +5,10 @@ slug: "hasan-sezai-camii"
 description: "### Hasan Sezai Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hasan_Sezai_Hazretleri_lodge_Exterior_in_2024_5843.jpg/1200px-Hasan_Sezai_Hazretleri_lodge_Exterior_in_2024_5843.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.557984219,41.66928361"
 draft: "false"
 weight: "10"

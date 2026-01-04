@@ -5,10 +5,10 @@ slug: "kirk-sehitler-aniti"
 description: "## Kırk Şehitler Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kirklareli_Kırkşehitler_Anıtı_0032.jpg/1200px-Kirklareli_Kırkşehitler_Anıtı_0032.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.22973,41.736514"
 draft: "false"
 weight: "10"

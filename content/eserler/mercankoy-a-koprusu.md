@@ -5,10 +5,10 @@ slug: "mercankoy-a-koprusu"
 description: "### Mercanköy A Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.602342,40.759127"
 draft: "false"
 weight: "999"

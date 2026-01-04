@@ -5,10 +5,10 @@ slug: "ishakli-kervansarayi"
 description: "## İshaklı Kervansarayı: Afyonkarahisar'ın Gizli Çehresi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.22833333,38.53277778"
 draft: "false"
 weight: "999"

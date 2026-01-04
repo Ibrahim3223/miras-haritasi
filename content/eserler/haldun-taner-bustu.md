@@ -5,10 +5,10 @@ slug: "haldun-taner-bustu"
 description: "## Haldun Taner Büstü: Kadıköy'ün Değerli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0213032,40.9859047"
 draft: "false"
 weight: "999"

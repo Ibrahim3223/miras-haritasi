@@ -5,10 +5,10 @@ slug: "typallia"
 description: "## Typallia: Antik Çağın Gizemi Anlaşılıyor..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.444722,36.8075"
 draft: "false"
 weight: "999"

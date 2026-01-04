@@ -5,10 +5,10 @@ slug: "keykubadiye-sarayi"
 description: "**Keykubadiye Sarayı**..."
 featured_image: ""
 province: "Kocasinan"
-iller: '["Kocasinan"]'
+iller: ["Kocasinan"]
 district: "Şeker"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "35.423722222,38.757888888"
 draft: "false"
 weight: "999"

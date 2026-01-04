@@ -5,10 +5,10 @@ slug: "hisar-camii-honaz"
 description: "## Hisar Camii, Honaz: Geçmişten Günümüze Bir Örnek..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2651005,37.7532005"
 draft: "false"
 weight: "999"

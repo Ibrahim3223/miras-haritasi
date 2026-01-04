@@ -5,10 +5,10 @@ slug: "altinli-koprusu"
 description: "## Altınlı Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Eynesil"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.158317,41.069643"
 draft: "false"
 weight: "999"

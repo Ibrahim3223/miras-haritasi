@@ -5,10 +5,10 @@ slug: "ebe-kadin-camii"
 description: "**Ebe Kadın Camii**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.947697,41.011341"
 draft: "false"
 weight: "999"

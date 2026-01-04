@@ -5,10 +5,10 @@ slug: "panayia-evangelistria-rum-ortodoks-kilisesi"
 description: "### Panayia Evangelistria Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0527382,41.1013985"
 draft: "false"
 weight: "999"

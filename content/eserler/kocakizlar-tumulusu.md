@@ -5,10 +5,10 @@ slug: "kocakizlar-tumulusu"
 description: "## Kocakızlar Tümülüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.9453526,39.780117"
 draft: "false"
 weight: "999"

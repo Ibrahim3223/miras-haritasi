@@ -5,10 +5,10 @@ slug: "umurcali-hoyugu"
 description: "**Umurcalı Höyüğü**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kiraz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.2301006,38.1992989"
 draft: "false"
 weight: "999"

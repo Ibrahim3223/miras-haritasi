@@ -5,10 +5,10 @@ slug: "kretopolis"
 description: "### Kretopolis..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.321707,37.374984"
 draft: "false"
 weight: "999"

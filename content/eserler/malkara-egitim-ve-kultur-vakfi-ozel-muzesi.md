@@ -5,10 +5,10 @@ slug: "malkara-egitim-ve-kultur-vakfi-ozel-muzesi"
 description: "### Malkara Eğitim ve Kültür Vakfı Özel Müzesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.909426,40.895168"
 draft: "false"
 weight: "999"

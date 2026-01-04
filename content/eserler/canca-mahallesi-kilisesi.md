@@ -5,10 +5,10 @@ slug: "canca-mahallesi-kilisesi"
 description: "# Canca Mahallesi Kilisesi: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.431634,40.459492"
 draft: "false"
 weight: "999"

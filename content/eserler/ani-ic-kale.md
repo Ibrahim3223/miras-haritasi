@@ -5,10 +5,10 @@ slug: "ani-ic-kale"
 description: "## Ani İç Kale..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.567060394,40.502131209"
 draft: "false"
 weight: "999"

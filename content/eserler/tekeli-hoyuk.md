@@ -5,10 +5,10 @@ slug: "tekeli-hoyuk"
 description: "### Tekeli Höyük: Kırşehir'in Gizli Ören Yeri..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2301712,38.9206085"
 draft: "false"
 weight: "999"

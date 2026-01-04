@@ -5,10 +5,10 @@ slug: "asagi-habib-efendi-camii"
 description: "## Aşağı Habib Efendi Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2808495,39.906765"
 draft: "false"
 weight: "999"

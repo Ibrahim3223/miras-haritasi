@@ -5,10 +5,10 @@ slug: "seyyid-battal-gazi-turbesi-kayseri"
 description: "## Seyyid Battal Gazi Türbesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.480287539,38.706848174"
 draft: "false"
 weight: "999"

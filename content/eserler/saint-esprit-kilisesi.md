@@ -5,10 +5,10 @@ slug: "saint-esprit-kilisesi"
 description: "## Saint Esprit Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PopeBenedictXVI.jpg/1200px-PopeBenedictXVI.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9857,41.0447"
 draft: "false"
 weight: "10"

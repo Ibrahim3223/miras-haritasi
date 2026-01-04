@@ -5,10 +5,10 @@ slug: "alicli-koyu-kopru-kalintisi"
 description: "## Alıçlı Köyü Köprü Kalıntısı..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.513607,38.1978"
 draft: "false"
 weight: "999"

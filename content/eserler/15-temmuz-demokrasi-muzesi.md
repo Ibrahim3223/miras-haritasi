@@ -5,10 +5,10 @@ slug: "15-temmuz-demokrasi-muzesi"
 description: "### 15 Temmuz Demokrasi Müzesi..."
 featured_image: "https://yuzuncuyilgalerisi.eba.gov.tr/uploads/themes/b2df19932ccfd2bcacd557b57b0e9f9b.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

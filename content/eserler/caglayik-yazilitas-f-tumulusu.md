@@ -5,10 +5,10 @@ slug: "caglayik-yazilitas-f-tumulusu"
 description: "## Çağlayık Yazılıtaş F Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3791428,42.0038567"
 draft: "false"
 weight: "999"

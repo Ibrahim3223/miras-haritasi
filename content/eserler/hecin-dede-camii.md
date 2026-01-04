@@ -5,10 +5,10 @@ slug: "hecin-dede-camii"
 description: "## Hecin Dede Camii: Burdur'un Tarihi Öreni..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2923527,37.7157364"
 draft: "false"
 weight: "999"

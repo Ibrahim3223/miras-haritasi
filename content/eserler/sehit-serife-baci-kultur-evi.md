@@ -5,10 +5,10 @@ slug: "sehit-serife-baci-kultur-evi"
 description: "## Şehit Şerife Bacı Kültür Evi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Seydiler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7183113,41.6174698"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "medrese-aksemsettin-mah-ocakli-sokak"
 description: "## Medrese (Akşemsettin Mah. Ocaklı Sokak): Fatih'teki Bir Geçmişe Sahip Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.947404,41.018489"
 draft: "false"
 weight: "999"

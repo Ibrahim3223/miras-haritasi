@@ -5,10 +5,10 @@ slug: "otroea"
 description: "## Otroea: Ege Denizi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.810629,40.284653"
 draft: "false"
 weight: "999"

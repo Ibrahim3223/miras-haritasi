@@ -5,10 +5,10 @@ slug: "ayios-yeorgios-rum-ortodoks-kilisesi"
 description: "## Ayios Yeorgios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.029813691,41.03610081"
 draft: "false"
 weight: "999"

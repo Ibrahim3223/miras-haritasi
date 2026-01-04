@@ -5,10 +5,10 @@ slug: "yunus-emre-camii-tire"
 description: "### Yunus Emre Camii, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7460461,38.0882874"
 draft: "false"
 weight: "999"

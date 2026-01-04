@@ -5,10 +5,10 @@ slug: "tatarlar-camii"
 description: "### Tatarlar Camii: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0761967,40.1848488"
 draft: "false"
 weight: "999"

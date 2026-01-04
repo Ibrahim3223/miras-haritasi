@@ -5,10 +5,10 @@ slug: "tosbaga-tepe"
 description: "## Tosbağa Tepe: Göksun'un Gizli Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Göksun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5415247,38.0308852"
 draft: "false"
 weight: "999"

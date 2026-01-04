@@ -5,10 +5,10 @@ slug: "yasardogu-mahallesi-koprusu"
 description: "## Yaşardoğu Mahallesi Köprüsü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.035291,41.067114"
 draft: "false"
 weight: "999"

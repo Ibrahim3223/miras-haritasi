@@ -5,10 +5,10 @@ slug: "yikilgan-tas-koprusu"
 description: "### Yıkılgan Taş Köprüsü..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.405829,39.886014"
 draft: "false"
 weight: "999"

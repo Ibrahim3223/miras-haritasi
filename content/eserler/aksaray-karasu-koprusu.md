@@ -5,10 +5,10 @@ slug: "aksaray-karasu-koprusu"
 description: "## Aksaray Karasu Köprüsü: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.9729705,38.3567281"
 draft: "false"
 weight: "999"

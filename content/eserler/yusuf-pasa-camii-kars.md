@@ -5,10 +5,10 @@ slug: "yusuf-pasa-camii-kars"
 description: "## Yusuf Paşa Camii, Kars..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.0907516,40.6084633"
 draft: "false"
 weight: "999"

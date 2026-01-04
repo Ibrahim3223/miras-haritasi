@@ -5,10 +5,10 @@ slug: "uskup-kurtkumlugu-tumulusu"
 description: "## Üsküp Kurtkumluğu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4289951,41.7854767"
 draft: "false"
 weight: "999"

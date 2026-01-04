@@ -5,10 +5,10 @@ slug: "germiyanogullari-tarihi-vakiflar-hamami"
 description: "## Germiyanoğulları Tarihi Vakıflar Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0848065,37.7831617"
 draft: "false"
 weight: "999"

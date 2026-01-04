@@ -5,10 +5,10 @@ slug: "yenicesme-medresesi"
 description: "# Yeniçeşme Medresesi: İstanbul'un Eski Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Yeniçeşme_Medresesi_(inşaat).JPG/1200px-Yeniçeşme_Medresesi_(inşaat).JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.950333333,41.022833333"
 draft: "false"
 weight: "10"

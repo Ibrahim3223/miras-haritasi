@@ -5,10 +5,10 @@ slug: "gunes-saati-fatih-camii"
 description: "## Güneş Saati: Fatih Camii'nin Gizli Şarkısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Güneş_Saati_Detay,_Fatih_Camii.jpg/1200px-Güneş_Saati_Detay,_Fatih_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9494934,41.019577"
 draft: "false"
 weight: "10"

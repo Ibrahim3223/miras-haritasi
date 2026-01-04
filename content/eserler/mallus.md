@@ -5,10 +5,10 @@ slug: "mallus"
 description: "## Mallus: Geçmişin İzleri Kızıltahta..."
 featured_image: ""
 province: "Karataş"
-iller: '["Karataş"]'
+iller: ["Karataş"]
 district: "Kızıltahta"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.486763,36.757453"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haraptas-koprusu"
 description: "## Haraptaş Köprüsü..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.169216,39.821678"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rakim-mustafa-efendi-camii"
 description: "## Rakım Mustafa Efendi Camii: Zeyrek'teki Bir Tarihi Çıkın..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9506912,41.021843"
 draft: "false"
 weight: "999"

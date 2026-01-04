@@ -5,10 +5,10 @@ slug: "kocacayirlar-tumulusu"
 description: "## Kocaçayırlar Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6866837,41.6975365"
 draft: "false"
 weight: "999"

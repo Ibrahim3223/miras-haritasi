@@ -5,10 +5,10 @@ slug: "sanctuary-of-asclepius"
 description: "## Söke Asclepios Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Priene_Asklepieion_20240927_092922.jpg/1200px-Priene_Asklepieion_20240927_092922.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2981824,37.6584946"
 draft: "false"
 weight: "10"

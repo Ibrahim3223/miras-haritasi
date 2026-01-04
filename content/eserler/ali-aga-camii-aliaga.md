@@ -5,10 +5,10 @@ slug: "ali-aga-camii-aliaga"
 description: "# Ali Ağa Camii, Aliağa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0187912,38.7749901"
 draft: "false"
 weight: "999"

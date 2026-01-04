@@ -5,10 +5,10 @@ slug: "tire-muzesi"
 description: "## Tire Müzesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.730233,38.084945"
 draft: "false"
 weight: "999"

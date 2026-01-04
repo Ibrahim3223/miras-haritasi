@@ -5,10 +5,10 @@ slug: "kapicibasi-ilyas-aga-camii"
 description: "## Kapıcıbaşı İlyas Ağa Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.505331,37.7372665"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "colussa"
 description: "## Colussa: Antik bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.27145,41.947448"
 draft: "false"
 weight: "999"

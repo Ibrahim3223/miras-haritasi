@@ -5,10 +5,10 @@ slug: "hamidiye-koyu-camii"
 description: "### Hamidiye Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.665905148,41.150500796"
 draft: "false"
 weight: "999"

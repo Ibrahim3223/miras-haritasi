@@ -5,10 +5,10 @@ slug: "kilic-baba-turbesi"
 description: "### Kılıç Baba Türbesi: Fatih'te Gizli Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9247589,41.0137138"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taksiyarhis-kilisesi"
 description: "### Taksiyarhis Kilisesi: Ayvalık'taki Bir Ölümsüz Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Taksiyarhis_Kilisesi.JPG/1200px-Taksiyarhis_Kilisesi.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.658,39.333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kuzulu-tumbabayiri-tumulusu"
 description: "###  Kuzulu Tumbabayırı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2810345,41.8662605"
 draft: "false"
 weight: "999"

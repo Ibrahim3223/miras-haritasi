@@ -5,10 +5,10 @@ slug: "hagios-georgios-manastiri"
 description: "## Hagios Georgios Manastırı Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.4823112,40.4987679"
 draft: "false"
 weight: "999"

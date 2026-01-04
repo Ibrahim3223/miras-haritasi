@@ -5,10 +5,10 @@ slug: "atburgazi-kalesi"
 description: "## Atburgazı Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Atburgazı_1.jpg/1200px-Atburgazı_1.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.246138888,37.639194444"
 draft: "false"
 weight: "10"

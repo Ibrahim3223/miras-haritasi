@@ -5,10 +5,10 @@ slug: "hadimkoy-sehitligi"
 description: "## Hadımköy Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.6150703,41.1580696"
 draft: "false"
 weight: "999"

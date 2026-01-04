@@ -5,10 +5,10 @@ slug: "gumushane-muzesi"
 description: "## Gümüşhane Müzesi: Tarih, Kültür ve Sanatın Karşılıklı Olumlu Etkileşimi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

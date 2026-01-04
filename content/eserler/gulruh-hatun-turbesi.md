@@ -5,10 +5,10 @@ slug: "gulruh-hatun-turbesi"
 description: "### Gülruh Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gülruh_Sultan_Türbesi_in_2003_0731.jpg/1200px-Gülruh_Sultan_Türbesi_in_2003_0731.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0454063,40.1906128"
 draft: "false"
 weight: "10"

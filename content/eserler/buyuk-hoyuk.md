@@ -5,10 +5,10 @@ slug: "buyuk-hoyuk"
 description: "## Büyük Höyük: Sivrihisar'ın Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.492761,39.385039"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yahyali-ulu-cami"
 description: "## Yahyalı Ulu Cami: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yahyalı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.360775766,38.098665846"
 draft: "false"
 weight: "999"

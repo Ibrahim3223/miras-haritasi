@@ -5,10 +5,10 @@ slug: "sandikli-ulu-cami"
 description: "**Sandıklı Ulu Camii: Afyonkarahisar'ın Tarihi ve Güzel Bir Örneği**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.273805555,38.46675"
 draft: "false"
 weight: "999"

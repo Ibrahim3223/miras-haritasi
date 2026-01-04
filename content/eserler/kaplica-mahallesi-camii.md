@@ -5,10 +5,10 @@ slug: "kaplica-mahallesi-camii"
 description: "## Kaplıca Mahallesi Camii: Çamlıhemşin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.047050809,41.015987256"
 draft: "false"
 weight: "999"

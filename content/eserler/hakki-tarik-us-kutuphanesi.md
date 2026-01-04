@@ -5,10 +5,10 @@ slug: "hakki-tarik-us-kutuphanesi"
 description: "# Hakkı Tarık Us Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9663,41.009803"
 draft: "false"
 weight: "999"

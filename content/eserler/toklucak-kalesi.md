@@ -5,10 +5,10 @@ slug: "toklucak-kalesi"
 description: "## Toklucak Kalesi: Ağrı'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Diyadin"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.532299,39.5161018"
 draft: "false"
 weight: "999"

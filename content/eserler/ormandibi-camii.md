@@ -5,10 +5,10 @@ slug: "ormandibi-camii"
 description: "## Ormandibi Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5677,40.7271"
 draft: "false"
 weight: "999"

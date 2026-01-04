@@ -5,10 +5,10 @@ slug: "licese-kilisesi"
 description: "# Licese Kilisesi: Şebinkarahisar'ın Tarihî Yarınlığı..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.44749832,40.40200043"
 draft: "false"
 weight: "999"

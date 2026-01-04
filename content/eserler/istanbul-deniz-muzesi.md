@@ -5,10 +5,10 @@ slug: "istanbul-deniz-muzesi"
 description: "## İstanbul Deniz Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/IstanbulNavalMuseum01.JPG/1200px-IstanbulNavalMuseum01.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.00555556,41.04166667"
 draft: "false"
 weight: "10"

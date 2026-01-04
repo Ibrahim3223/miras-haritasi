@@ -5,10 +5,10 @@ slug: "kolukisa-kalesi"
 description: "## Kolukısa Kalesi: Kadınhanı'ndaki Tarihi Bir Miras..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kadınhanı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.3328934,38.4901352"
 draft: "false"
 weight: "999"

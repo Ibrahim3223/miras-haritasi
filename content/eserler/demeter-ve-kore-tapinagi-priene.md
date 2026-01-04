@@ -5,10 +5,10 @@ slug: "demeter-ve-kore-tapinagi-priene"
 description: "## Demeter ve Kore Tapınağı (Priene)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.296111111,37.660555555"
 draft: "false"
 weight: "999"

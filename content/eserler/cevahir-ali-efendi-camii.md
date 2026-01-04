@@ -5,10 +5,10 @@ slug: "cevahir-ali-efendi-camii"
 description: "**Yozgat'ın Tarihî Mirası: Cevahir Ali Efendi Camii**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8031845,39.8240128"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alikinos-kilisesi"
 description: "## Alikinos Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.593602,40.557864"
 draft: "false"
 weight: "999"

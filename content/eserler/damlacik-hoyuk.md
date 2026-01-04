@@ -5,10 +5,10 @@ slug: "damlacik-hoyuk"
 description: "## Damlacık Höyük: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1404357,39.0638672"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "degirmenkoy-eski-cami"
 description: "## Değirmenköy Eski Cami: Silivri'nin Tarihi bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0293007,41.1306992"
 draft: "false"
 weight: "999"

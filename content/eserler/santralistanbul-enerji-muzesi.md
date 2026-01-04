@@ -5,10 +5,10 @@ slug: "santralistanbul-enerji-muzesi"
 description: "### Santralistanbul Enerji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Santralistanbul_campus_(6).jpg/1200px-Santralistanbul_campus_(6).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.946595012,41.066439475"
 draft: "false"
 weight: "10"

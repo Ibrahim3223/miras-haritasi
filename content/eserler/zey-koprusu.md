@@ -5,10 +5,10 @@ slug: "zey-koprusu"
 description: "# Zey Köprüsü: Adıyaman'da Bir Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.2490616,37.807682"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uzumlu-kilise"
 description: "**Üzümlü Kilise: Nevşehir'in Gizli Cenneti**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

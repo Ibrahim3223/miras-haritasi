@@ -5,10 +5,10 @@ slug: "hasankeyf-dicle-koprusu"
 description: "# Hasankeyf Dicle Köprüsü..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.4110044,37.7143868"
 draft: "false"
 weight: "999"

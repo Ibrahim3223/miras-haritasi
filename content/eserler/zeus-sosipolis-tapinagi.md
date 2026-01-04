@@ -5,10 +5,10 @@ slug: "zeus-sosipolis-tapinagi"
 description: "## Zeus Sosipolis Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Statue_of_Athena_Parthenos_from_the_Library_of_Pergamon_with_the_temple_of_Zeus_Sosipolis_from_Magnesia_on_the_Maeander_in_the_background,_Pergamon_Museum_Berlin_(8404209815).jpg/1200px-Statue_of_Athena_Parthenos_from_the_Library_of_Pergamon_with_the_temple_of_Zeus_Sosipolis_from_Magnesia_on_the_Maeander_in_the_background,_Pergamon_Museum_Berlin_(8404209815).jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.524444444,37.852222222"
 draft: "false"
 weight: "10"

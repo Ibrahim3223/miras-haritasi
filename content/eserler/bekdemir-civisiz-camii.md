@@ -5,10 +5,10 @@ slug: "bekdemir-civisiz-camii"
 description: "# Bekdemir Çivisiz Camii: Samsun'un Gizli Cenneti..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.114388888,41.018888888"
 draft: "false"
 weight: "999"

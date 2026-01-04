@@ -5,10 +5,10 @@ slug: "spore-frigya"
 description: "### Spore (Frigya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.869114,39.243112"
 draft: "false"
 weight: "999"

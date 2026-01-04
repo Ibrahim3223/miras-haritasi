@@ -5,10 +5,10 @@ slug: "ibrahim-agazade-camii"
 description: "## İbrahim Ağazade Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3849812,39.0832672"
 draft: "false"
 weight: "999"

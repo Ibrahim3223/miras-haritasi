@@ -5,10 +5,10 @@ slug: "yerazgavors-kutsal-kurtarici-manastiri"
 description: "## Yerazgavors Kutsal Kurtarıcı Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Shirakawan's_St._Amenap'rkitch.jpg/1200px-Shirakawan's_St._Amenap'rkitch.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Akyaka"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.7363,40.6938"
 draft: "false"
 weight: "10"

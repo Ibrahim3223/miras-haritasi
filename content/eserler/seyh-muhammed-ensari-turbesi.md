@@ -5,10 +5,10 @@ slug: "seyh-muhammed-ensari-turbesi"
 description: "## Şeyh Muhammed Ensari Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.112344,36.714238"
 draft: "false"
 weight: "999"

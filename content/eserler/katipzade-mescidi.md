@@ -5,10 +5,10 @@ slug: "katipzade-mescidi"
 description: "## Katipzade Mescidi: İzmir'in Tarihi Şöhreti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1312523,38.4206085"
 draft: "false"
 weight: "999"

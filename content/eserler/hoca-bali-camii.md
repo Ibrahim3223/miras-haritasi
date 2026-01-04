@@ -5,10 +5,10 @@ slug: "hoca-bali-camii"
 description: "## Hoca Bali Camii: Edirne'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5587177,41.6688271"
 draft: "false"
 weight: "999"

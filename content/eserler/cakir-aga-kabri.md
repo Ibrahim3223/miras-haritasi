@@ -5,10 +5,10 @@ slug: "cakir-aga-kabri"
 description: "## Çakır Ağa Kabri: İstanbul'un Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9389191,41.0325737"
 draft: "false"
 weight: "999"

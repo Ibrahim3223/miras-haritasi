@@ -5,10 +5,10 @@ slug: "nusret-mayin-gemisi-kultur-parki"
 description: "## Nusret Mayın Gemisi Kültür Parkı: Mersin'in Tarihi Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nusrat_mine_layer_in_Tarsus_a.jpg/1200px-Nusrat_mine_layer_in_Tarsus_a.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.88472222,36.75722222"
 draft: "false"
 weight: "10"

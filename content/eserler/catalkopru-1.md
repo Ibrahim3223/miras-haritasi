@@ -5,10 +5,10 @@ slug: "catalkopru-1"
 description: "## Çatalköprü 1..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7334366,38.4327507"
 draft: "false"
 weight: "999"

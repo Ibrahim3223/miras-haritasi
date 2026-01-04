@@ -5,10 +5,10 @@ slug: "caesarea-antik-tiyatrosu"
 description: "# Caesarea Antik Tiyatrosu..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "35.470167,38.705542"
 draft: "false"
 weight: "999"

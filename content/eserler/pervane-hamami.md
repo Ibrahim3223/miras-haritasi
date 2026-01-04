@@ -5,10 +5,10 @@ slug: "pervane-hamami"
 description: "### Pervane Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5515622,40.3171638"
 draft: "false"
 weight: "999"

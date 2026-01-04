@@ -5,10 +5,10 @@ slug: "orcohi-guney-kilisesi"
 description: "## Orcohi (Güney) Kilisesi: Oltu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.801627777,40.514366666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmut-nedim-pasa-turbesi"
 description: "## Mahmut Nedim Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.973871,41.010021"
 draft: "false"
 weight: "999"

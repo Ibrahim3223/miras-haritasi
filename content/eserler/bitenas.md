@@ -5,10 +5,10 @@ slug: "bitenas"
 description: "## Bitenas Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2808381,40.9367528"
 draft: "false"
 weight: "999"

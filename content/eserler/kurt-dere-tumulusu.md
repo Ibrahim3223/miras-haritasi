@@ -5,10 +5,10 @@ slug: "kurt-dere-tumulusu"
 description: "## Kurt Dere Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8627625,41.2610016"
 draft: "false"
 weight: "999"

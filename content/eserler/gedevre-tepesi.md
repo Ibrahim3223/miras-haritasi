@@ -5,10 +5,10 @@ slug: "gedevre-tepesi"
 description: "## Gedevre Tepesi: Manisa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9422,38.664"
 draft: "false"
 weight: "999"

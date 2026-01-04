@@ -5,10 +5,10 @@ slug: "seyh-ali-semerkandi-turbesi"
 description: "**Şeyh Ali Semerkandi Türbesi**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Gülnar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.526274,36.4464333"
 draft: "false"
 weight: "999"

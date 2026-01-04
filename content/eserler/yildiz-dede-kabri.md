@@ -5,10 +5,10 @@ slug: "yildiz-dede-kabri"
 description: "## Yıldız Dede Kabri: Fatih'te Bir Anıtın Anlamı ..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9730434,41.0155716"
 draft: "false"
 weight: "999"

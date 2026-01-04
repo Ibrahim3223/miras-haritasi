@@ -5,10 +5,10 @@ slug: "fuzuli-aniti"
 description: "## Fuzuli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.043661,41.075953"
 draft: "false"
 weight: "999"

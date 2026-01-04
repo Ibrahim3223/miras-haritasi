@@ -5,10 +5,10 @@ slug: "perge-buyuk-hamam"
 description: "## Perge Büyük Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.8535156,36.9610596"
 draft: "false"
 weight: "999"

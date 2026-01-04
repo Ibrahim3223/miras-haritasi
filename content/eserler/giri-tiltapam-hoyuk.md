@@ -5,10 +5,10 @@ slug: "giri-tiltapam-hoyuk"
 description: "## Giri Tiltapam Höyük: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kocaköy"
-iller: '["Kocaköy"]'
+iller: ["Kocaköy"]
 district: "Suçıktı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.583603,38.196064"
 draft: "false"
 weight: "999"

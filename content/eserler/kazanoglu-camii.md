@@ -5,10 +5,10 @@ slug: "kazanoglu-camii"
 description: "### Kazanoğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7503052,38.086338"
 draft: "false"
 weight: "999"

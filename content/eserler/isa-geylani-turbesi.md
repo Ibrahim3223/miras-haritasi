@@ -5,10 +5,10 @@ slug: "isa-geylani-turbesi"
 description: "### İsa Geylani Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9321556,41.051857"
 draft: "false"
 weight: "999"

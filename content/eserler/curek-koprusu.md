@@ -5,10 +5,10 @@ slug: "curek-koprusu"
 description: "## Cürek Köprüsü: Divriği'nin Büyüleyici Mimarisi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.0395624,39.4400981"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmut-sevket-pasa-turbesi"
 description: "## Mahmut Şevket Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9817562,41.0686722"
 draft: "false"
 weight: "999"

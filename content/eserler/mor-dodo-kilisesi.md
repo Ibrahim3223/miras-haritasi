@@ -5,10 +5,10 @@ slug: "mor-dodo-kilisesi"
 description: "## Mor Dodo Kilisesi: Şırnak'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.6189156,37.3091774"
 draft: "false"
 weight: "999"

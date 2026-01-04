@@ -5,10 +5,10 @@ slug: "besik-yassitepe-hoyugu"
 description: "## Beşik - Yassıtepe Höyüğü: Türkiye'nin Önemli Anıtlarından Birisi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

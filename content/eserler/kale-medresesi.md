@@ -5,10 +5,10 @@ slug: "kale-medresesi"
 description: "### Kale Medresesi: Ödemiş'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.068224,38.2587204"
 draft: "false"
 weight: "999"

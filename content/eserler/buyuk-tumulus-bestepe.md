@@ -5,10 +5,10 @@ slug: "buyuk-tumulus-bestepe"
 description: "## Büyük Tümülüs, Beştepe..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8127594,39.9282227"
 draft: "false"
 weight: "999"

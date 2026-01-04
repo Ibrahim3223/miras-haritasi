@@ -5,10 +5,10 @@ slug: "menucihr-camii"
 description: "## Menuçihr Camii: Kars'ın Tarihi Mirasını Yeniden Yaşamlandırır..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ani,_rovine,_complesso_di_manuçehr,_1071-1072,_moschea_02.jpg/1200px-Ani,_rovine,_complesso_di_manuçehr,_1071-1072,_moschea_02.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.5701,40.5052"
 draft: "false"
 weight: "10"

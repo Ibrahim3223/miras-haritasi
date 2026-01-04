@@ -5,10 +5,10 @@ slug: "kadir-has-kent-ve-mimar-sinan-muzesi"
 description: "## Kadir Has Kent ve Mimar Sinan Müzesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.491346,38.745976"
 draft: "false"
 weight: "999"

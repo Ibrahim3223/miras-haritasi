@@ -5,10 +5,10 @@ slug: "gulzar-baba-kabri"
 description: "### Gülzar Baba Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9352894,41.0293045"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cakmaktepe-bandirma"
 description: "## Çakmaktepe, Bandırma: Eski Yunanistan'ın İzleri Balıkesir'de..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.117508137,40.173153677"
 draft: "false"
 weight: "999"

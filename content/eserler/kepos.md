@@ -5,10 +5,10 @@ slug: "kepos"
 description: "## Kepos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.953206,41.022065"
 draft: "false"
 weight: "999"

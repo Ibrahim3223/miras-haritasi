@@ -5,10 +5,10 @@ slug: "sardes-sinagogu"
 description: "## Sardes Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sardis_Synagogue,_late_3rd_century_AD,_Sardis,_Lydia,_Turkey_(19331773400).jpg/1200px-Sardis_Synagogue,_late_3rd_century_AD,_Sardis,_Lydia,_Turkey_(19331773400).jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Sardis"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.040694444,38.488"
 draft: "false"
 weight: "10"

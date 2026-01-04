@@ -5,10 +5,10 @@ slug: "tastepe-tavsantepe-tumulusu"
 description: "## Tastepe Tavşantepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1106892,41.9639091"
 draft: "false"
 weight: "999"

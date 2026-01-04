@@ -5,10 +5,10 @@ slug: "varos-hamami"
 description: "## Varoş Hamamı: Sinop'un Tarihi bir Hamamı..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.1556435,42.0233307"
 draft: "false"
 weight: "999"

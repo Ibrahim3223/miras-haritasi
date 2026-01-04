@@ -5,10 +5,10 @@ slug: "samuha"
 description: "## Samuha: Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kayalıpınar_01.jpg/1200px-Kayalıpınar_01.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.52815016,39.61967189"
 draft: "false"
 weight: "10"

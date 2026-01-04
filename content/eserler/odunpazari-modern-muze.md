@@ -5,10 +5,10 @@ slug: "odunpazari-modern-muze"
 description: "## Odunpazarı Modern Müze: Eskişehir'in İncelenmiş Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Eskisehir_Odunpazari_Art_Museum.jpg/1200px-Eskisehir_Odunpazari_Art_Museum.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5225,39.764722222"
 draft: "false"
 weight: "10"

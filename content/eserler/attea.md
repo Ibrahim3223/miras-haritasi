@@ -5,10 +5,10 @@ slug: "attea"
 description: "### Giriş..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.766607,39.214189"
 draft: "false"
 weight: "999"

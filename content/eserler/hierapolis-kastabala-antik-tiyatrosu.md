@@ -5,10 +5,10 @@ slug: "hierapolis-kastabala-antik-tiyatrosu"
 description: "### Hierapolis Kastabala Antik Tiyatrosu..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Osmaniye"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "36.188754,37.176336"
 draft: "false"
 weight: "999"

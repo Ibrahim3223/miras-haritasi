@@ -5,10 +5,10 @@ slug: "cobandede-turbesi"
 description: "### Çobandede Türbesi: Adana'nın Gizli Anıtı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Çukurova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3011098,37.0622781"
 draft: "false"
 weight: "999"

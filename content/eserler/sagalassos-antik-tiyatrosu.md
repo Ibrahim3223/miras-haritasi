@@ -5,10 +5,10 @@ slug: "sagalassos-antik-tiyatrosu"
 description: "### Sagalassos Antik Tiyatrosu: Ağlasun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.521832,37.678272"
 draft: "false"
 weight: "999"

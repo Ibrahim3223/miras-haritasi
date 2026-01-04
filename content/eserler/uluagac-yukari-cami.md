@@ -5,10 +5,10 @@ slug: "uluagac-yukari-cami"
 description: "### Uluağaç Yukarı Cami..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8363647,38.0452652"
 draft: "false"
 weight: "999"

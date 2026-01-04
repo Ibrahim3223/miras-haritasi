@@ -5,10 +5,10 @@ slug: "esenyurt-tarihi-merkez-camii"
 description: "## Esenyurt Tarihi Merkez Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenyurt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6781502,41.0347557"
 draft: "false"
 weight: "999"

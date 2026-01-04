@@ -5,10 +5,10 @@ slug: "asopos-koprusu"
 description: "## Asopos Köprüsü: Pamukkale'nin Gizemli Köprüsü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.099667,37.838829"
 draft: "false"
 weight: "999"

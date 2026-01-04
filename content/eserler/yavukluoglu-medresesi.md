@@ -5,10 +5,10 @@ slug: "yavukluoglu-medresesi"
 description: "### Yavukluoğlu Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7262688,38.0810966"
 draft: "false"
 weight: "999"

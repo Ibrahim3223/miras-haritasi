@@ -5,10 +5,10 @@ slug: "hierokaisareia"
 description: "### Hierokaisareia: Antik Yunanistan'ın Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.79188,38.79751"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-riza-efendi-kultur-evi"
 description: "## Ali Rıza Efendi Kültür Evi: Kırklareli'nin Etkileyici Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ali_Rıza_Efendi_Kültür_Evi_-_01.jpg/1200px-Ali_Rıza_Efendi_Kültür_Evi_-_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2237568,41.7397156"
 draft: "false"
 weight: "10"

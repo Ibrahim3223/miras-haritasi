@@ -5,10 +5,10 @@ slug: "green-hill-mezarligi"
 description: "## Green Hill Mezarlığı: Eceabat'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Green_Hill_Commonwealth_War_Graves_Commission_Cemetery.jpg/1200px-Green_Hill_Commonwealth_War_Graves_Commission_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Küçükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.27983,40.29303"
 draft: "false"
 weight: "10"

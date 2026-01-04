@@ -5,10 +5,10 @@ slug: "haydar-dede-turbesi"
 description: "## Haydar Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.840895,39.290185"
 draft: "false"
 weight: "999"

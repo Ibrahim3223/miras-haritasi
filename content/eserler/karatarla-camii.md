@@ -5,10 +5,10 @@ slug: "karatarla-camii"
 description: "## Karatarla Camii: Gaziantep'in Tarihi bir Çarı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3859367,37.0618629"
 draft: "false"
 weight: "999"

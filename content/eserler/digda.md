@@ -5,10 +5,10 @@ slug: "digda"
 description: "## Digda: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.020833333,38.106111111"
 draft: "false"
 weight: "999"

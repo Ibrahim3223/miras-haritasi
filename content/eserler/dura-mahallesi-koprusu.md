@@ -5,10 +5,10 @@ slug: "dura-mahallesi-koprusu"
 description: "# Dura Mahallesi Köprüsü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.037829,41.064119"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cerasus"
 description: "## Cerasus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.319029,41.05814"
 draft: "false"
 weight: "999"

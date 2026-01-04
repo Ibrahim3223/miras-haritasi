@@ -5,10 +5,10 @@ slug: "kor-hamam"
 description: "## Kör Hamam: Sandıklı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0509605,38.4452934"
 draft: "false"
 weight: "999"

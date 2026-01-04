@@ -5,10 +5,10 @@ slug: "lysinia"
 description: "## Lysinia: Antik Bir Kentin Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.06666667,37.7"
 draft: "false"
 weight: "999"

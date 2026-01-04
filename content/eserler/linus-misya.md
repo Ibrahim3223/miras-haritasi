@@ -5,10 +5,10 @@ slug: "linus-misya"
 description: "### Linus (Misya) Arkeolojik Sit Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.196542,40.431121"
 draft: "false"
 weight: "999"

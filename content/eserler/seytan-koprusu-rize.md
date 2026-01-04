@@ -5,10 +5,10 @@ slug: "seytan-koprusu-rize"
 description: "### Şeytan Köprüsü, Rize..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.453533,40.912883"
 draft: "false"
 weight: "999"

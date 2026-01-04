@@ -5,10 +5,10 @@ slug: "vefa-medresesi"
 description: "## Vefa Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9592876,41.0171242"
 draft: "false"
 weight: "999"

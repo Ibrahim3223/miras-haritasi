@@ -5,10 +5,10 @@ slug: "seyid-bilal-turbesi-batman"
 description: "## Seyid Bilal Türbesi, Batman..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Gercüş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.5666199,37.6050797"
 draft: "false"
 weight: "999"

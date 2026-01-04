@@ -5,10 +5,10 @@ slug: "alinda-antik-tiyatrosu"
 description: "# Alinda Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karpuzlu"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.82713,37.558714"
 draft: "false"
 weight: "999"

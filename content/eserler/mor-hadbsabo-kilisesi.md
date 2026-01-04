@@ -5,10 +5,10 @@ slug: "mor-hadbsabo-kilisesi"
 description: "### Mor Hadbşabo Kilisesi: Mardin'in Tarihi Bir Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mor_Hadbşabo_Kilisesi_1.jpg/1200px-Mor_Hadbşabo_Kilisesi_1.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4843597,37.408989"
 draft: "false"
 weight: "10"

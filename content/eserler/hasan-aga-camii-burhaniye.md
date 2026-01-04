@@ -5,10 +5,10 @@ slug: "hasan-aga-camii-burhaniye"
 description: "## Hasan Ağa Camii, Burhaniye..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9848671,39.499939"
 draft: "false"
 weight: "999"

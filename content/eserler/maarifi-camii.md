@@ -5,10 +5,10 @@ slug: "maarifi-camii"
 description: "## Maarifi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.190587,40.888312"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kasim-bey-kumbeti-egil"
 description: "### Kasım Bey Kümbeti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.077693,38.146761"
 draft: "false"
 weight: "999"

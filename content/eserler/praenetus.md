@@ -5,10 +5,10 @@ slug: "praenetus"
 description: "## Praenetus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6188,40.6897"
 draft: "false"
 weight: "999"

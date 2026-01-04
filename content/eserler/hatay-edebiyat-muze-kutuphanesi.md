@@ -5,10 +5,10 @@ slug: "hatay-edebiyat-muze-kutuphanesi"
 description: "# Hatay Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.16045674,36.199864561"
 draft: "false"
 weight: "999"

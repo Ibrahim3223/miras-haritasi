@@ -5,10 +5,10 @@ slug: "kuyucu-murat-pasa-turbesi"
 description: "### Kuyucu Murat Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.960272,41.011425"
 draft: "false"
 weight: "999"

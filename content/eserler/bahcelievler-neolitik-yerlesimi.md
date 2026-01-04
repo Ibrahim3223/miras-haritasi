@@ -5,10 +5,10 @@ slug: "bahcelievler-neolitik-yerlesimi"
 description: "**Bahçelievler Neolitik Yerleşimi**..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9756298,40.1644783"
 draft: "false"
 weight: "999"

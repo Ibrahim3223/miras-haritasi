@@ -5,10 +5,10 @@ slug: "samsa-cavus-turbesi"
 description: "# Samsa Çavuş Türbesi: İnegöl'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4712906,40.1669731"
 draft: "false"
 weight: "999"

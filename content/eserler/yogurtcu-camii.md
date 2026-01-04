@@ -5,10 +5,10 @@ slug: "yogurtcu-camii"
 description: "# Yoğurtçu Camii..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8746433,39.6521416"
 draft: "false"
 weight: "999"

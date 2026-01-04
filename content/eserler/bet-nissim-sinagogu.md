@@ -5,10 +5,10 @@ slug: "bet-nissim-sinagogu"
 description: "### Bet Nissim Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0314597,41.032929"
 draft: "false"
 weight: "999"

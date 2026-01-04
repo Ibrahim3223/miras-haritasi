@@ -5,10 +5,10 @@ slug: "danisment-koprusu"
 description: "## Danişment Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8427353,37.8840408"
 draft: "false"
 weight: "999"

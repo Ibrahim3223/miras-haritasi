@@ -5,10 +5,10 @@ slug: "burhanettin-camii-gumushane"
 description: "## Burhanettin Camii: Gümüşhane'nin Tarihî Bir İcatı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4620018,40.4673042"
 draft: "false"
 weight: "999"

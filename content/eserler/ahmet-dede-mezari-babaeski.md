@@ -5,10 +5,10 @@ slug: "ahmet-dede-mezari-babaeski"
 description: "### Ahmet Dede Mezarı (Babaeski)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Babaeski_-_Ahmet_Dede_Mezarı_(Babaeski)_-_20250424173154.jpg/1200px-Babaeski_-_Ahmet_Dede_Mezarı_(Babaeski)_-_20250424173154.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.094826082,41.428364419"
 draft: "false"
 weight: "10"

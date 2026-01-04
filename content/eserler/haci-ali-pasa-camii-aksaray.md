@@ -5,10 +5,10 @@ slug: "haci-ali-pasa-camii-aksaray"
 description: "### Hacı Ali Paşa Camii: Aksaray'da Bir Görsel Harikadan Konuşalım..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0403595,38.736824"
 draft: "false"
 weight: "999"

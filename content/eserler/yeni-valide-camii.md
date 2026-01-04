@@ -5,10 +5,10 @@ slug: "yeni-valide-camii"
 description: "## Yeni Valide Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Istanbul_asv2021-11_img09_Yeni_Valide_Mosque.jpg/1200px-Istanbul_asv2021-11_img09_Yeni_Valide_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.015107,41.024787"
 draft: "false"
 weight: "10"

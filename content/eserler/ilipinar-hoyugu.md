@@ -5,10 +5,10 @@ slug: "ilipinar-hoyugu"
 description: "## Ilıpınar Höyükü: Bursa'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.3086395,40.4682121"
 draft: "false"
 weight: "999"

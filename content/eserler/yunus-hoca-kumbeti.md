@@ -5,10 +5,10 @@ slug: "yunus-hoca-kumbeti"
 description: "## Yunus Hoca Kümbeti: Eskişehir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.536644,39.4476013"
 draft: "false"
 weight: "999"

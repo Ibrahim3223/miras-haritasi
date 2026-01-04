@@ -5,10 +5,10 @@ slug: "aya-georgi-kilisesi"
 description: "### Aya Georgi Kilisesi: Kırklareli'nin Tarihî Bir Harikası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4403362,41.9228516"
 draft: "false"
 weight: "999"

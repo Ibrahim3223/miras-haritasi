@@ -5,10 +5,10 @@ slug: "asartepe-feslegen"
 description: "## Asartepe, Fesleğen: Milas'taki Bir Antik Kale..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8001003,37.0769997"
 draft: "false"
 weight: "999"

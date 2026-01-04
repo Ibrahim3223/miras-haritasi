@@ -5,10 +5,10 @@ slug: "bektas-mehmet-efendi-mescidi"
 description: "### Bektaş Mehmet Efendi Mescidi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.975903,41.023006"
 draft: "false"
 weight: "999"

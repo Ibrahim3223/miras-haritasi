@@ -5,10 +5,10 @@ slug: "pembe-ciftlik-mezarligi"
 description: "## Pembe Çiftlik Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Pink_Farm_Cemetery.jpg/1200px-Pink_Farm_Cemetery.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Seddülbahir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.19096,40.07253"
 draft: "false"
 weight: "10"

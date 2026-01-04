@@ -5,10 +5,10 @@ slug: "sille-sapeli"
 description: "## Sille Şapeli: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Sille_Şapeli_1.jpg/1200px-Sille_Şapeli_1.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4124756,37.9271355"
 draft: "false"
 weight: "10"

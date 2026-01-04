@@ -5,10 +5,10 @@ slug: "bekir-dede-turbesi"
 description: "## Bekir Dede Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.062767,40.1879501"
 draft: "false"
 weight: "999"

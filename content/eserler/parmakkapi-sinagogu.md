@@ -5,10 +5,10 @@ slug: "parmakkapi-sinagogu"
 description: "## Parmakkapı Sinagogu: Beyoğlu'nun Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.952222222,41.040388888"
 draft: "false"
 weight: "999"

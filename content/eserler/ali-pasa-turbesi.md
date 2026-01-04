@@ -5,10 +5,10 @@ slug: "ali-pasa-turbesi"
 description: "## Ali Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tomb_of_G%C3%BCzelce_Ali_Pa%C5%9Fa_03.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Ardanuç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.0578499,41.1279678"
 draft: "false"
 weight: "999"

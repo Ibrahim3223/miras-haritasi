@@ -5,10 +5,10 @@ slug: "yoruk-ali-efe-anit-mezari"
 description: "## Yörük Ali Efe Anıt Mezarı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1899853,37.8220062"
 draft: "false"
 weight: "999"

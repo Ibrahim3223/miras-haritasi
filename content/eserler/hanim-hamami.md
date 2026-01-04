@@ -5,10 +5,10 @@ slug: "hanim-hamami"
 description: "## Hanım Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2748566,39.9073715"
 draft: "false"
 weight: "999"

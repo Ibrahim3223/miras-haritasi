@@ -5,10 +5,10 @@ slug: "aziz-polikarp-kilisesi"
 description: "## Aziz Polikarp Kilisesi: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Polikarp_(2).jpg/1200px-Polikarp_(2).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.135694444,38.425611111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kucukcekmece-hamami"
 description: "## Küçükçekmece Hamamı: İstanbul'un Gizli Gizemli Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.772126,40.991965"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gokyay-vakfi-satranc-muzesi"
 description: "## Gökyay Vakfı Satranç Müzesi: Satranç Sevgisinin İkincisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Gökyay_Vakfı_Satranç_Müzesi,_2023_09.jpg/1200px-Gökyay_Vakfı_Satranç_Müzesi,_2023_09.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8629,39.93474"
 draft: "false"
 weight: "10"

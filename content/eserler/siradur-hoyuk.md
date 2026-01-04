@@ -5,10 +5,10 @@ slug: "siradur-hoyuk"
 description: "## Sıradur Höyük: Sivas'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2276192,40.1626778"
 draft: "false"
 weight: "999"

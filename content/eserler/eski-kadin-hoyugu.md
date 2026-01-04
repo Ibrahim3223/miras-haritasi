@@ -5,10 +5,10 @@ slug: "eski-kadin-hoyugu"
 description: "### Eski Kadın Höyüğü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4668655,41.6830177"
 draft: "false"
 weight: "999"

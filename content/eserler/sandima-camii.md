@@ -5,10 +5,10 @@ slug: "sandima-camii"
 description: "## Sandıma Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2999916,37.0860825"
 draft: "false"
 weight: "999"

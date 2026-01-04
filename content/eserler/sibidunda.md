@@ -5,10 +5,10 @@ slug: "sibidunda"
 description: "## Sibidunda: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.2991205,37.224609"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "apgar-kilisesi"
 description: "## Apgar Kilisesi: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.78396112,37.14565557"
 draft: "false"
 weight: "999"

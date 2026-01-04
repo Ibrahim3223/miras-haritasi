@@ -5,10 +5,10 @@ slug: "beylerbeyi-turbesi"
 description: "### Beylerbeyi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Beylerbeyi_Türbesi,_Edirne_25.JPG/1200px-Beylerbeyi_Türbesi,_Edirne_25.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5552235,41.6831169"
 draft: "false"
 weight: "10"

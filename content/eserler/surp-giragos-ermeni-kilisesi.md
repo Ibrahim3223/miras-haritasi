@@ -5,10 +5,10 @@ slug: "surp-giragos-ermeni-kilisesi"
 description: "## Surp Giragos Ermeni Kilisesi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Սուրբ_Կիրակոս_եկեղեցի_(Դիարբեքիր)_(3).JPG/1200px-Սուրբ_Կիրակոս_եկեղեցի_(Դիարբեքիր)_(3).JPG"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.23875,37.91072"
 draft: "false"
 weight: "10"

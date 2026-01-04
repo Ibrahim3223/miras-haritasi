@@ -5,10 +5,10 @@ slug: "pekmez-hoyugu-geyre"
 description: "## Pekmez Höyüğü, Geyre: Aydın'ın Eski Uygarlık Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.7246132,37.7071266"
 draft: "false"
 weight: "999"

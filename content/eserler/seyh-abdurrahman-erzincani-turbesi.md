@@ -5,10 +5,10 @@ slug: "seyh-abdurrahman-erzincani-turbesi"
 description: "### Şeyh Abdurrahman Erzincani Türbesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.2488747,37.8061829"
 draft: "false"
 weight: "999"

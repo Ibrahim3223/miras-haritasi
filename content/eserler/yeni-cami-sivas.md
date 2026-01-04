@@ -5,10 +5,10 @@ slug: "yeni-cami-sivas"
 description: "## Yeni Cami: Sivas'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0190659,39.7484703"
 draft: "false"
 weight: "999"

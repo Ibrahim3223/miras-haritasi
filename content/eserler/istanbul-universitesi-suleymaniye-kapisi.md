@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-suleymaniye-kapisi"
 description: "## İstanbul Üniversitesi Süleymaniye Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.964014,41.015038"
 draft: "false"
 weight: "1"

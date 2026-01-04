@@ -5,10 +5,10 @@ slug: "caddebostan-sinagogu"
 description: "## Caddebostan Sinagogu: Kadıköy'de Bir Tarihi Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0634,40.9741"
 draft: "false"
 weight: "999"

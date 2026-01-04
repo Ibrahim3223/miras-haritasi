@@ -5,10 +5,10 @@ slug: "muhammed-seydullah-camii"
 description: "### Muhammed Seydullah Camii: Mardin'in Tarihi Bir Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.733728,37.314379"
 draft: "false"
 weight: "999"

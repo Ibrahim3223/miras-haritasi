@@ -5,10 +5,10 @@ slug: "marmara-surlari-degirmen-kapi"
 description: "## Marmara Surları: Değirmen Kapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9875011,41.0127907"
 draft: "false"
 weight: "999"

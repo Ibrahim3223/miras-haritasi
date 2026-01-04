@@ -5,10 +5,10 @@ slug: "tepecik-tumulusu"
 description: "## Tepecik Tümülüsü: Balıkesir'in Gizli Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0520554,40.0683212"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uzun-suca-kabri-ve-haziresi"
 description: "## Uzun Şüca Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9730053,41.0063667"
 draft: "false"
 weight: "999"

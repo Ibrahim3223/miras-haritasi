@@ -5,10 +5,10 @@ slug: "asagikoy-koy-hamami"
 description: "## Aşağıköy Köy Hamamı: Bilecik'te Bir Tarihî Eğlence Merkezi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0041294,40.1158257"
 draft: "false"
 weight: "999"

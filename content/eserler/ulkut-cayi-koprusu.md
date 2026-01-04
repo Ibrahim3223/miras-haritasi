@@ -5,10 +5,10 @@ slug: "ulkut-cayi-koprusu"
 description: "## Ülküt Çayı Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Kavaklıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3192787,37.5082664"
 draft: "false"
 weight: "999"

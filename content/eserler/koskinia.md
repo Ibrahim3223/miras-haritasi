@@ -5,10 +5,10 @@ slug: "koskinia"
 description: "## Koskinia: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0771713,37.7945099"
 draft: "false"
 weight: "999"

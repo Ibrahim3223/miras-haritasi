@@ -5,10 +5,10 @@ slug: "pedesa-t11-tumulusu"
 description: "## Pedesa T11 Tümülüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.413640936,37.072599712"
 draft: "false"
 weight: "999"

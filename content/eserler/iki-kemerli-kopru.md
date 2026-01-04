@@ -5,10 +5,10 @@ slug: "iki-kemerli-kopru"
 description: "## İki Kemerli Köprü: Bingöl'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Karlıova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7630348,39.3855286"
 draft: "false"
 weight: "999"

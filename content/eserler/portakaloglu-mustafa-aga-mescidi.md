@@ -5,10 +5,10 @@ slug: "portakaloglu-mustafa-aga-mescidi"
 description: "## Portakaloğlu Mustafa Ağa Mescidi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9227619,40.7666855"
 draft: "false"
 weight: "999"

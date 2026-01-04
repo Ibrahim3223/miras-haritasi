@@ -5,10 +5,10 @@ slug: "seyh-muhammed-halid-i-zilan-turbesi"
 description: "## Şeyh Muhammed Halid-i Zilan Türbesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Beşiri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.247774,37.903012"
 draft: "false"
 weight: "999"

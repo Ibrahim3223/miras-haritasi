@@ -5,10 +5,10 @@ slug: "zekere-hoyugu"
 description: "## Zekere Höyüğü: Kırşehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4961182,39.3759136"
 draft: "false"
 weight: "999"

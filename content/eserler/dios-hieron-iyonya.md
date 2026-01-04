@@ -5,10 +5,10 @@ slug: "dios-hieron-iyonya"
 description: "## Dios Hieron (İyonya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.08106,38.029393"
 draft: "false"
 weight: "999"

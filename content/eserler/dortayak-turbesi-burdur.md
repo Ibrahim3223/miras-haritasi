@@ -5,10 +5,10 @@ slug: "dortayak-turbesi-burdur"
 description: "### Dörtayak Türbesi, Burdur..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.290970076,37.729245532"
 draft: "false"
 weight: "999"

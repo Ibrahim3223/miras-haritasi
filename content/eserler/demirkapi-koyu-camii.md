@@ -5,10 +5,10 @@ slug: "demirkapi-koyu-camii"
 description: "### Demirkapı Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.585754,40.765806"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahi-yusuf-turbesi"
 description: "## Ahi Yusuf Türbesi: Divriği'nin Gizli Cenneti..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1203079,39.3702087"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "anemurium-kucuk-hamam"
 description: "## Anemurium Küçük Hamamı: Tarihi ve Kültürel Miras Değerleri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8047752,36.0245209"
 draft: "false"
 weight: "999"

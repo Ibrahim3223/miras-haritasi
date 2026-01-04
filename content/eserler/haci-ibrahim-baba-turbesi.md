@@ -5,10 +5,10 @@ slug: "haci-ibrahim-baba-turbesi"
 description: "## Hacı İbrahim Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.277813,39.8997993"
 draft: "false"
 weight: "999"

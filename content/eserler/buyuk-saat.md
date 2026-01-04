@@ -5,10 +5,10 @@ slug: "buyuk-saat"
 description: "## Büyük Saat: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Büyük_Saat_close-up.jpg/1200px-Büyük_Saat_close-up.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana Vilayeti"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.33027778,36.98388889"
 draft: "false"
 weight: "10"

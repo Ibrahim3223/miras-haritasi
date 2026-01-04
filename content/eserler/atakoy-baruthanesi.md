@@ -5,10 +5,10 @@ slug: "atakoy-baruthanesi"
 description: "## Ataköy Baruthanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_tower_of_Atakoy_Gunpowder.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.860113,40.975678"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sananesi-kilisesi"
 description: "**Sananesi Kilisesi: Oltu'nun Tarihi Çiçeği**..."
 featured_image: ""
 province: "Oltu"
-iller: '["Oltu"]'
+iller: ["Oltu"]
 district: "Yarbaşı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.744888888,40.428777777"
 draft: "false"
 weight: "999"

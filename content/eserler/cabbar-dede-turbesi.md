@@ -5,10 +5,10 @@ slug: "cabbar-dede-turbesi"
 description: "## Cabbar Dede Türbesi: Adana'nın Tarihî Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yüreğir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.5386906,36.832453"
 draft: "false"
 weight: "999"

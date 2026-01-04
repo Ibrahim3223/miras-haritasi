@@ -5,10 +5,10 @@ slug: "metristepe-zafer-aniti-bozuyuk"
 description: "## Metristepe Zafer Anıtı, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1691017,39.932579"
 draft: "false"
 weight: "999"

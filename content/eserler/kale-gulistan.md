@@ -5,10 +5,10 @@ slug: "kale-gulistan"
 description: "## Kale, Gülistan: Ardahan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Göle"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.78336,40.846333"
 draft: "false"
 weight: "999"

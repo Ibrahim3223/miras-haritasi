@@ -5,10 +5,10 @@ slug: "baklatepe-hoyuk"
 description: "### Baklatepe Höyük: Tarihi ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.37845,38.701117"
 draft: "false"
 weight: "999"

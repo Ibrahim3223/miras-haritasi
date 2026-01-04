@@ -5,10 +5,10 @@ slug: "iyte-kutuphanesi"
 description: "## İYTE Kütüphanesi: İlim ve Kültür Merkezinde Bir Örnek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

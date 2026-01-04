@@ -5,10 +5,10 @@ slug: "rum-okulu-kilisesi"
 description: "# Rum Okulu Kilisesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6506424,38.5490189"
 draft: "false"
 weight: "999"

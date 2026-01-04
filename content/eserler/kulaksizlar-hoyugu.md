@@ -5,10 +5,10 @@ slug: "kulaksizlar-hoyugu"
 description: "**Kulaksızlar Höyüğü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Kilia_type_idol_heads,_Kulaksızlar,_Akhisar,_Manisa_(Akhisar_Museum).jpg/1200px-Kilia_type_idol_heads,_Kulaksızlar,_Akhisar,_Manisa_(Akhisar_Museum).jpg"
 province: "Akhisar (ilçe)"
-iller: '["Akhisar (ilçe)"]'
+iller: ["Akhisar (ilçe)"]
 district: "Kulaksızlar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.890284,38.813116"
 draft: "false"
 weight: "10"

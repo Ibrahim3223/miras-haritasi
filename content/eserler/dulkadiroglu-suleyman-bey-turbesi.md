@@ -5,10 +5,10 @@ slug: "dulkadiroglu-suleyman-bey-turbesi"
 description: "## Dulkadiroğlu Süleyman Bey Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Pınarbaşı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.1669807,38.7048874"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "didyma"
 description: "## Didyma: Antikçağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Didim_RB10.jpg/1200px-Didim_RB10.jpg"
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.25638889,37.385"
 draft: "false"
 weight: "10"

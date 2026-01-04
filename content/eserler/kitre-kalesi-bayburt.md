@@ -5,10 +5,10 @@ slug: "kitre-kalesi-bayburt"
 description: "## Kitre Kalesi: Bayburt'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.853631,40.312528"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dokuzhoyuk-hoyukler-8-tumulusu"
 description: "## Dokuzhöyük Höyükler 8 Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0695057,41.6506767"
 draft: "false"
 weight: "999"

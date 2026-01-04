@@ -5,10 +5,10 @@ slug: "karyanda"
 description: "**Karyanda: Muğla'nın Eski Deniz Limanı**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.383333,37.133333"
 draft: "false"
 weight: "999"

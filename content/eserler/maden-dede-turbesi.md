@@ -5,10 +5,10 @@ slug: "maden-dede-turbesi"
 description: "## Maden Dede Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7715874,41.3770218"
 draft: "false"
 weight: "999"

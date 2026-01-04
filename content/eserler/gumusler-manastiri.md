@@ -5,10 +5,10 @@ slug: "gumusler-manastiri"
 description: "### Gümüşler Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Gumusler_Monastery_Courtyard_1202.jpg/1200px-Gumusler_Monastery_Courtyard_1202.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7720182,37.998344"
 draft: "false"
 weight: "10"

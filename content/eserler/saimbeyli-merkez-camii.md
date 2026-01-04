@@ -5,10 +5,10 @@ slug: "saimbeyli-merkez-camii"
 description: "**Saimbeyli Merkez Camii: Adana'nın Gözdelerinden Bir Örnek**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Saimbeyli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.0888824,37.9855309"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kapadokya-kilisesi"
 description: "## Kapadokya Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "1"

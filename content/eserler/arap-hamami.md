@@ -5,10 +5,10 @@ slug: "arap-hamami"
 description: "### Giriş..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1223984,40.4780579"
 draft: "false"
 weight: "999"

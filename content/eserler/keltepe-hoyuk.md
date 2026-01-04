@@ -5,10 +5,10 @@ slug: "keltepe-hoyuk"
 description: "## Keltepe Höyük: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.810611413,39.360453972"
 draft: "false"
 weight: "999"

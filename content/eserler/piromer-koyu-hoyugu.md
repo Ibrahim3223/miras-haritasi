@@ -5,10 +5,10 @@ slug: "piromer-koyu-hoyugu"
 description: "# Pirömer Köyü Höyüğü..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.9850006,39.1269913"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "afyon-gari-saat-kulesi"
 description: "## Afyon Garı Saat Kulesi: Bir Zamanın Özgün Mimarisinin Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "30.5524349,38.7639618"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zafertepecalkoy-zafer-aniti-kutahya"
 description: "## Zafertepeçalköy Zafer Anıtı: Kütahya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0627041,38.9129066"
 draft: "false"
 weight: "999"

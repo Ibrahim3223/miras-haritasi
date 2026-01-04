@@ -5,10 +5,10 @@ slug: "gumuslu-camii"
 description: "## Gümüşlü Camii: Amasya'nın Eski Kent Merkezi'ndeki Örgün Özellikli Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8347282,40.6520615"
 draft: "false"
 weight: "999"

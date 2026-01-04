@@ -5,10 +5,10 @@ slug: "tarihe-saygi-aniti"
 description: "## Tarihe Saygı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Eceabat_Memorial.JPG/1200px-Eceabat_Memorial.JPG"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.359938229,40.183811203"
 draft: "false"
 weight: "10"

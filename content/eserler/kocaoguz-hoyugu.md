@@ -5,10 +5,10 @@ slug: "kocaoguz-hoyugu"
 description: "## Kocaoğuz Höyüğü: Afyonkarahisar'ın Gizli Klasik Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sultandağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.160058,38.6128901"
 draft: "false"
 weight: "999"

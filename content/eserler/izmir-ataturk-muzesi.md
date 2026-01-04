@@ -5,10 +5,10 @@ slug: "izmir-ataturk-muzesi"
 description: "## İzmir Atatürk Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Dis_mekan.jpg/1200px-Dis_mekan.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.140555555,38.435555555"
 draft: "false"
 weight: "10"

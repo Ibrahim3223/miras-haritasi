@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-seraskerat-kapisi"
 description: "## İstanbul Üniversitesi Seraskerat Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Istanbul,_Turkey_(November_2023)_-_308.jpg/1200px-Istanbul,_Turkey_(November_2023)_-_308.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9642086,41.010994"
 draft: "false"
 weight: "10"

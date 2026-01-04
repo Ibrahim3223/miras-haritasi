@@ -5,10 +5,10 @@ slug: "kemhuk-koprusu"
 description: "### Kemhük Köprüsü: Silvan'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9049492,38.3453751"
 draft: "false"
 weight: "999"

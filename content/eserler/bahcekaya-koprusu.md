@@ -5,10 +5,10 @@ slug: "bahcekaya-koprusu"
 description: "### Bahçekaya Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.699999,40.880328"
 draft: "false"
 weight: "999"

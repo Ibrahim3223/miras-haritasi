@@ -5,10 +5,10 @@ slug: "esrefpasa-camii"
 description: "## Eşrefpaşa Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.129166666,38.408611111"
 draft: "false"
 weight: "999"

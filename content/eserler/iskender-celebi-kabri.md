@@ -5,10 +5,10 @@ slug: "iskender-celebi-kabri"
 description: "## İskender Çelebi Kabri: Fatih'te Bir Keşif..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9252853,41.0029831"
 draft: "false"
 weight: "999"

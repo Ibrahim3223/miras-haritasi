@@ -5,10 +5,10 @@ slug: "iskender-pasa-hamami"
 description: "## İskender Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0661201,41.0998993"
 draft: "false"
 weight: "999"

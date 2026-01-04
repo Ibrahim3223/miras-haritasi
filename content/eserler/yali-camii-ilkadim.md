@@ -5,10 +5,10 @@ slug: "yali-camii-ilkadim"
 description: "## Yalı Camii (İlkadım)..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3320999,41.2965012"
 draft: "false"
 weight: "999"

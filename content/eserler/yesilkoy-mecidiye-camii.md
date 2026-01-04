@@ -5,10 +5,10 @@ slug: "yesilkoy-mecidiye-camii"
 description: "## Yeşilköy Mecidiye Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Yeşilköy_Mecidiye_Mosque_06.jpg/1200px-Yeşilköy_Mecidiye_Mosque_06.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.83131,40.96055"
 draft: "false"
 weight: "10"

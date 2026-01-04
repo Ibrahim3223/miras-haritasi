@@ -5,10 +5,10 @@ slug: "perminunda"
 description: "## Perminunda: Türkiye'nin Klasik Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.446562,37.327588"
 draft: "false"
 weight: "999"

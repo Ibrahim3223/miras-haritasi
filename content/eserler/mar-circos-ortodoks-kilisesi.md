@@ -5,10 +5,10 @@ slug: "mar-circos-ortodoks-kilisesi"
 description: "## Mar Circos Ortodoks Kilisesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.165844,36.5800934"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hyde-antik-kenti"
 description: "## Hyde Antik Kenti: Konya'nın Gizli Zirvesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8152657,37.7758179"
 draft: "false"
 weight: "999"

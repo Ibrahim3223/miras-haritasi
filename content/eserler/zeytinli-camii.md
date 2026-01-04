@@ -5,10 +5,10 @@ slug: "zeytinli-camii"
 description: "### Zeytinli Camii: Çanakkale'nin Gizli Öztürk Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3346024,39.7870522"
 draft: "false"
 weight: "999"

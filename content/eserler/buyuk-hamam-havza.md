@@ -5,10 +5,10 @@ slug: "buyuk-hamam-havza"
 description: "### Büyük Hamam Havza: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.6567879,40.9709015"
 draft: "false"
 weight: "999"

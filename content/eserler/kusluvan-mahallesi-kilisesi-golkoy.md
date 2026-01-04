@@ -5,10 +5,10 @@ slug: "kusluvan-mahallesi-kilisesi-golkoy"
 description: "## Kuşluvan Mahallesi Kilisesi Gölköy..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gölköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.625808,40.621147"
 draft: "false"
 weight: "999"

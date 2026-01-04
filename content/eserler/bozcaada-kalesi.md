@@ -5,10 +5,10 @@ slug: "bozcaada-kalesi"
 description: "### Bozcaada Kalesi: Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bozcaada.jpg/1200px-Bozcaada.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.06666667,39.83333333"
 draft: "false"
 weight: "10"

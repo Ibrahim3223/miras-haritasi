@@ -5,10 +5,10 @@ slug: "yenigen-katibi-malkoc-mehmet-efendi-cami"
 description: "### Yenigen Katibi Malkoç Mehmet Efendi Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.917902,41.0141525"
 draft: "false"
 weight: "999"

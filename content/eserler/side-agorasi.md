@@ -5,10 +5,10 @@ slug: "side-agorasi"
 description: "### Side Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Side_Commercial_agora_in_2015_6162.jpg/1200px-Side_Commercial_agora_in_2015_6162.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.391527777,36.7685"
 draft: "false"
 weight: "10"

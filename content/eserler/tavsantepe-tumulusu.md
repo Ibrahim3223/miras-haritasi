@@ -5,10 +5,10 @@ slug: "tavsantepe-tumulusu"
 description: "## Tavşantepe Tümülüsü: İzmir'in Gizli İncisi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.19472,39.11514"
 draft: "false"
 weight: "999"

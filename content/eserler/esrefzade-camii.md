@@ -5,10 +5,10 @@ slug: "esrefzade-camii"
 description: "## Eşrefzade Camii: Bursa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7233364,40.4299541"
 draft: "false"
 weight: "999"

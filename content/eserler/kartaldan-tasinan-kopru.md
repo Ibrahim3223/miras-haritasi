@@ -5,10 +5,10 @@ slug: "kartaldan-tasinan-kopru"
 description: "**Kartal'dan Taşınan Köprü: Kadıköy'ün Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0282936,40.9985695"
 draft: "false"
 weight: "999"

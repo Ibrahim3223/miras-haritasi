@@ -5,10 +5,10 @@ slug: "tyberissos"
 description: "## Tyberissos: Demre'nin Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8564,36.21537"
 draft: "false"
 weight: "999"

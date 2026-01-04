@@ -5,10 +5,10 @@ slug: "salur-hoyugu"
 description: "**Salur Höyüğü: Tarihî Mirasın Gizemi**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.82145,37.70289"
 draft: "false"
 weight: "999"

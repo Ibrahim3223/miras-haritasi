@@ -5,10 +5,10 @@ slug: "orta-hoyuk"
 description: "## Orta Höyük: Yozgat'taki Eski Kentin Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0987564,39.5958325"
 draft: "false"
 weight: "999"

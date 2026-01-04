@@ -5,10 +5,10 @@ slug: "aya-dimitri-manastiri-zeytinli"
 description: "## Aya Dimitri Manastırı (Zeytinli)..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8696575,40.1908035"
 draft: "false"
 weight: "999"

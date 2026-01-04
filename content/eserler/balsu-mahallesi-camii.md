@@ -5,10 +5,10 @@ slug: "balsu-mahallesi-camii"
 description: "## Balsu Mahallesi Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.527078317,41.011376567"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arslanli-hoyuk"
 description: "### Arslanlı Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.0356125,39.2032978"
 draft: "false"
 weight: "999"

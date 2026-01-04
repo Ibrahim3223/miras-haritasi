@@ -5,10 +5,10 @@ slug: "kaledorugu-hoyugu-kavak"
 description: "### Kaledoruğu Höyüğü: Samsun'un Gizli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.041798,41.080219"
 draft: "false"
 weight: "999"

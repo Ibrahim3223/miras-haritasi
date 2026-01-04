@@ -5,10 +5,10 @@ slug: "seyh-hocenti-turbesi"
 description: "## Şeyh Hocenti Türbesi: Çumra'da Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.596960954,37.496798729"
 draft: "false"
 weight: "999"

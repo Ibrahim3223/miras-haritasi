@@ -5,10 +5,10 @@ slug: "yesilyurt-koyu-camii"
 description: "## Yeşilyurt Köyü Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Yeşilyurt_Köy_Camii.jpg/1200px-Yeşilyurt_Köy_Camii.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.569875,39.556958"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "karadere-dokuztepeler-tumulusu"
 description: "**Karadere Dokuztepeler Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4266567,41.9440498"
 draft: "false"
 weight: "999"

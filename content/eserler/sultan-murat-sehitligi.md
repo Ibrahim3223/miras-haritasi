@@ -5,10 +5,10 @@ slug: "sultan-murat-sehitligi"
 description: "## Sultan Murat Şehitliği: Trabzon'un Anıtsal Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.1441002,40.6325531"
 draft: "false"
 weight: "999"

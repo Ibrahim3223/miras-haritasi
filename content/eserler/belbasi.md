@@ -5,10 +5,10 @@ slug: "belbasi"
 description: "## Belbaşı Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.97055556,36.5775"
 draft: "false"
 weight: "999"

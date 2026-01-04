@@ -5,10 +5,10 @@ slug: "dumlupinar-kurtulus-savasi-muzesi"
 description: "## Dumlupınar Kurtuluş Savaşı Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9791679,38.8535042"
 draft: "false"
 weight: "999"

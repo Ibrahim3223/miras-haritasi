@@ -5,10 +5,10 @@ slug: "limnae"
 description: "## Limnae: Altınova'daki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Altınova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.502079,40.721716"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "malatya-ulu-camii"
 description: "## Malatya Ulu Camii..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3668,38.4205"
 draft: "false"
 weight: "999"

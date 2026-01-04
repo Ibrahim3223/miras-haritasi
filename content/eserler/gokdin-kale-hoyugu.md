@@ -5,10 +5,10 @@ slug: "gokdin-kale-hoyugu"
 description: "## Gökdin-Kale Höyüğü: Sivas'ta Bir Arkeolojik İhtişam..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2529297,39.8020668"
 draft: "false"
 weight: "999"

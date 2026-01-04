@@ -5,10 +5,10 @@ slug: "mor-yuhanna-kilisesi"
 description: "### Mor Yuhanna Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.7401009,37.3134003"
 draft: "false"
 weight: "999"

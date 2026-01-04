@@ -5,10 +5,10 @@ slug: "lamos"
 description: "## Lamos Arkeolojik Sitesi: Antalya'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.450373,36.240622"
 draft: "false"
 weight: "999"

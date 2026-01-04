@@ -5,10 +5,10 @@ slug: "kurtdereli-heykeli"
 description: "### Kurtdereli Heykeli: Balıkesir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8830795,39.6448097"
 draft: "false"
 weight: "999"

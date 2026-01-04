@@ -5,10 +5,10 @@ slug: "agios-giorgios-rum-ortodoks-kilisesi"
 description: "## Agios Giorgios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0294189,40.9959183"
 draft: "false"
 weight: "999"

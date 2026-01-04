@@ -5,10 +5,10 @@ slug: "aianteion-biga"
 description: "### Aianteion (Biga)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.2556,39.993642"
 draft: "false"
 weight: "999"

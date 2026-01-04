@@ -5,10 +5,10 @@ slug: "payas-kalesi"
 description: "### Payas Kalesi: Hatay'ın Gizli Çehreli Kaleleri Arasındaki En Önemlisi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Payas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.202376,36.754264"
 draft: "false"
 weight: "999"

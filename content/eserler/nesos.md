@@ -5,10 +5,10 @@ slug: "nesos"
 description: "## Nesos Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.683166781,39.341858851"
 draft: "false"
 weight: "999"

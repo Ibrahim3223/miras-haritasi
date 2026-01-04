@@ -5,10 +5,10 @@ slug: "kasar-koprusu"
 description: "### Kasar Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0306873,37.7336578"
 draft: "false"
 weight: "999"

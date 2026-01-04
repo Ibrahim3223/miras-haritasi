@@ -5,10 +5,10 @@ slug: "ertugrul-gazi-turbesi"
 description: "## Ertuğrul Gazi Türbesi: Bilecik'in Tarihi bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Ertuğrul_Gazi_Türbesi.JPG/1200px-Ertuğrul_Gazi_Türbesi.JPG"
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1797867,40.0117264"
 draft: "false"
 weight: "999"

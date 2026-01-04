@@ -5,10 +5,10 @@ slug: "muratli-ataturk-evi-etnografya-muzesi"
 description: "**Muratlı Atatürk Evi – Etnografya Müzesi**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Muratlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4993,41.1710014"
 draft: "false"
 weight: "999"

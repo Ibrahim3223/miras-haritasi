@@ -5,10 +5,10 @@ slug: "gedik-pasa-hamami"
 description: "## Gedik Paşa Hamamı: Çivril'de Bir Geç Dönem Osmanlı Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.8465061,38.3234787"
 draft: "false"
 weight: "999"

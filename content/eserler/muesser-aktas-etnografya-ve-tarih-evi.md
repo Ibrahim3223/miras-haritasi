@@ -5,10 +5,10 @@ slug: "muesser-aktas-etnografya-ve-tarih-evi"
 description: "## Müesser Aktaş Etnografya ve Tarih Evi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karaburun"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5991707,38.5181236"
 draft: "false"
 weight: "999"

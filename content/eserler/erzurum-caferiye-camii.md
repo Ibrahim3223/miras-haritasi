@@ -5,10 +5,10 @@ slug: "erzurum-caferiye-camii"
 description: "**Erzurum Caferiye Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Erzurum_Caferiye_Camii.jpg/1200px-Erzurum_Caferiye_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Erzurum Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.275333333,39.906388888"
 draft: "false"
 weight: "10"

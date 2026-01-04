@@ -5,10 +5,10 @@ slug: "luletasi-muzesi"
 description: "### Lületaşı Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52472222,39.76277778"
 draft: "false"
 weight: "999"

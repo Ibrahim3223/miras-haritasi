@@ -5,10 +5,10 @@ slug: "hoca-hasan-camii"
 description: "## Hoca Hasan Camii: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.482279423,38.721598611"
 draft: "false"
 weight: "999"

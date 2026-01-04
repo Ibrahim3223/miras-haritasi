@@ -5,10 +5,10 @@ slug: "traron"
 description: "## Traron: Tarihî Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.280528,39.999871"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cugo-kilisesi"
 description: "## Cuğo Kilisesi: Ardanuç'ta Bir Tarihî Eser..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Soğanlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.032222222,41.159333333"
 draft: "false"
 weight: "999"

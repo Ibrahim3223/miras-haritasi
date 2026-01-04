@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-medresesi"
 description: "**Çorlulu Ali Paşa Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9683514,41.009037"
 draft: "false"
 weight: "999"

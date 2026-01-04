@@ -5,10 +5,10 @@ slug: "maltas-aniti"
 description: "## Maltaş Anıtı: Afyonkarahisar'ın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5184288,39.0429802"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hierapolis-kuzey-bizans-kapisi"
 description: "## Hierapolis Kuzey Bizans Kapısı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.122942,37.9304314"
 draft: "false"
 weight: "999"

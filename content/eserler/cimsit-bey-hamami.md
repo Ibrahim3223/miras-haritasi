@@ -5,10 +5,10 @@ slug: "cimsit-bey-hamami"
 description: "## Cimşit Bey Hamamı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.2526283,38.7045937"
 draft: "false"
 weight: "999"

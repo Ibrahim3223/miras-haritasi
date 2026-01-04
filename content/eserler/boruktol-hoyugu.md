@@ -5,10 +5,10 @@ slug: "boruktol-hoyugu"
 description: "## Boruktol Höyüğü: Konya'nın Gizli Mimari Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.52513,37.69152"
 draft: "false"
 weight: "999"

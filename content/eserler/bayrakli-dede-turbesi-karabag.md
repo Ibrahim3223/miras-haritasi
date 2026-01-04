@@ -5,10 +5,10 @@ slug: "bayrakli-dede-turbesi-karabag"
 description: "## Bayraklı Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7105827,37.8832245"
 draft: "false"
 weight: "999"

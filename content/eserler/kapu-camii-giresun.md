@@ -5,10 +5,10 @@ slug: "kapu-camii-giresun"
 description: "## Kapu Camii, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.38696,40.918646"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hafsa-hatun-camii"
 description: "## Hafsa Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bedrettin_Mosque,_Bursa.jpg/1200px-Bedrettin_Mosque,_Bursa.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0716133,40.1833305"
 draft: "false"
 weight: "10"

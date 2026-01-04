@@ -5,10 +5,10 @@ slug: "kucukkoy-sapeli"
 description: "### Küçükköy Şapeli: Ayvalık'ta Bir Ölümsüz..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.692381,39.290092"
 draft: "false"
 weight: "999"

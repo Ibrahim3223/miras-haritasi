@@ -5,10 +5,10 @@ slug: "finikeli-seyh-abdi-efendi-turbesi"
 description: "## Finikeli Şeyh Abdi Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9200535,41.0158691"
 draft: "false"
 weight: "999"

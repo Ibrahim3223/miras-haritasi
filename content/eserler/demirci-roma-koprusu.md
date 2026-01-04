@@ -5,10 +5,10 @@ slug: "demirci-roma-koprusu"
 description: "## Demirci Roma Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.2196007,41.4329987"
 draft: "false"
 weight: "999"

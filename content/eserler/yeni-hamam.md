@@ -5,10 +5,10 @@ slug: "yeni-hamam"
 description: "## Yeni Hamam: Tarsus'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Tarsus_Kırkkaşık_Bedesteni_in_2007_0497.jpg/1200px-Tarsus_Kırkkaşık_Bedesteni_in_2007_0497.jpg"
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.897555555,36.916222222"
 draft: "false"
 weight: "10"

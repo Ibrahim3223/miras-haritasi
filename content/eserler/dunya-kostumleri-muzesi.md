@@ -5,10 +5,10 @@ slug: "dunya-kostumleri-muzesi"
 description: "## Dünya Kostümleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.56238,41.0151"
 draft: "false"
 weight: "999"

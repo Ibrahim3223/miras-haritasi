@@ -5,10 +5,10 @@ slug: "yozgat-saat-kulesi"
 description: "## Yozgat Saat Kulesi: Cumhuriyet Dönemi'nin İhtiyaçını Hesaplayan Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yozgat_Clock_Tower_3997.jpg/1200px-Yozgat_Clock_Tower_3997.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.8082,39.8221"
 draft: "false"
 weight: "999"

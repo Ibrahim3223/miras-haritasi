@@ -5,10 +5,10 @@ slug: "cengelhan-rahmi-m-koc-muzesi"
 description: "## Çengelhan Rahmi M. Koç Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Rahmi_M._Koç_Museum,_Ankara.jpg/1200px-Rahmi_M._Koç_Museum,_Ankara.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.99722222,39.9375"
 draft: "false"
 weight: "10"

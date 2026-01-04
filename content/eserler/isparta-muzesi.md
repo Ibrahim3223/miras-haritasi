@@ -5,10 +5,10 @@ slug: "isparta-muzesi"
 description: "### Isparta Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.558333,37.770833"
 draft: "false"
 weight: "999"

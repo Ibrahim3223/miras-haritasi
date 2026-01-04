@@ -5,10 +5,10 @@ slug: "cankiri-saat-kulesi"
 description: "## Çankırı Saat Kulesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "33.614888888,40.603277777"
 draft: "false"
 weight: "999"

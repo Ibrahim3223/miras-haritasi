@@ -5,10 +5,10 @@ slug: "yalakcukuroren-koyu-camii"
 description: "## Yalakçukurören Köyü Camii: Çerkeş'te Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.019268,40.7308807"
 draft: "false"
 weight: "999"

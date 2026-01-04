@@ -5,10 +5,10 @@ slug: "huseyinhoyugu"
 description: "### Hüseyinhöyüğü: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.2048785,38.8740226"
 draft: "false"
 weight: "999"

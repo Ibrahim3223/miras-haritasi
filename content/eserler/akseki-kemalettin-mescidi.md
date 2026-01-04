@@ -5,10 +5,10 @@ slug: "akseki-kemalettin-mescidi"
 description: "### Akseki Kemalettin Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Akseki_Kemalettin_Mescidi.jpg/1200px-Akseki_Kemalettin_Mescidi.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.941437,41.022304"
 draft: "false"
 weight: "10"

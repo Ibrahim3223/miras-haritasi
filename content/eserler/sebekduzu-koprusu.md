@@ -5,10 +5,10 @@ slug: "sebekduzu-koprusu"
 description: "## Şebekdüzü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9390888,40.822661"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalabak-tepe-tapinagi"
 description: "## Kalabak Tepe Tapınağı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.265833333,37.520277777"
 draft: "false"
 weight: "999"

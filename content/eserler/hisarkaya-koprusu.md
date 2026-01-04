@@ -5,10 +5,10 @@ slug: "hisarkaya-koprusu"
 description: "## Hisarkaya Köprüsü: Savur'un Gizli Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9061699,37.6444054"
 draft: "false"
 weight: "999"

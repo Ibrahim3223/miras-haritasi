@@ -5,10 +5,10 @@ slug: "bagavan"
 description: "## Bagavan Manastırı: Türkiye'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/St_John_the_Baptists_monastery_of_Bagavan.jpg/1200px-St_John_the_Baptists_monastery_of_Bagavan.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.5176665,39.6105298"
 draft: "false"
 weight: "10"

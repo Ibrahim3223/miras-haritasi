@@ -5,10 +5,10 @@ slug: "metropolis-guney-frigya"
 description: "## Metropolis (Güney Frigya)..."
 featured_image: ""
 province: "Dinar"
-iller: '["Dinar"]'
+iller: ["Dinar"]
 district: "Tatarlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.494802,38.241847"
 draft: "false"
 weight: "999"

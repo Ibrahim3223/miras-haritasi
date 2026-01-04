@@ -5,10 +5,10 @@ slug: "tarihi-osmanli-hamami"
 description: "## Tarihi Osmanlı Hamamı..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.1462822,40.9050331"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koranza"
 description: "### Koranza Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0295486,37.384552"
 draft: "false"
 weight: "999"

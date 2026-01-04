@@ -5,10 +5,10 @@ slug: "aya-andrea-kilisesi"
 description: "## Aya Andrea Kilisesi: Beyoğlu'nun Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9800167,41.0256348"
 draft: "false"
 weight: "999"

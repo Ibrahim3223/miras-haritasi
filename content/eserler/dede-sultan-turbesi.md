@@ -5,10 +5,10 @@ slug: "dede-sultan-turbesi"
 description: "## Dede Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.776165,41.37183"
 draft: "false"
 weight: "999"

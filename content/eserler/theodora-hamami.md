@@ -5,10 +5,10 @@ slug: "theodora-hamami"
 description: "## Theodora Hamamı: İstanbul'un Gizli Cebi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.3013573,40.817791"
 draft: "false"
 weight: "999"

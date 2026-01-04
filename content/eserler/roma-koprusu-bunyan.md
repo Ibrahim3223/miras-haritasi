@@ -5,10 +5,10 @@ slug: "roma-koprusu-bunyan"
 description: "### Roma Köprüsü, Bünyan..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.854893,38.822407"
 draft: "false"
 weight: "999"

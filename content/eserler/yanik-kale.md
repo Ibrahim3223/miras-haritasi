@@ -5,10 +5,10 @@ slug: "yanik-kale"
 description: "## Yanık Kale: Adana'nın Gizli Çarpıcılığı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karaisalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.1947899,37.4451447"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uskup-kurtkumlugu-dogu-a-tumulusu"
 description: "## Üsküp Kurtkumluğu Doğu A Tümülüsü Tanıtımı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4281387,41.7835083"
 draft: "false"
 weight: "999"

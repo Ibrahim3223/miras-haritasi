@@ -5,10 +5,10 @@ slug: "hizirsah-kalesi"
 description: "## Hızırşah Kalesi: Datça'nın Gizli Çarpısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6537533,36.7413216"
 draft: "false"
 weight: "999"

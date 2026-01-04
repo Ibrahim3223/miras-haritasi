@@ -5,10 +5,10 @@ slug: "alanya-kale-hamami"
 description: "## Alanya Kale Hamamı: Tarihi Bir Ziyaret Yerinin Tanıtımı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.9913616,36.5307083"
 draft: "false"
 weight: "999"

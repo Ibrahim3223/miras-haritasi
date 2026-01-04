@@ -5,10 +5,10 @@ slug: "ibrahim-aga-camii-balikesir"
 description: "## İbrahim Ağa Camii, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8823624,39.6447754"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abana-kent-muzesi"
 description: "### Abana Kent Müzesi: Kastamonu'nun Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Abana"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.007309,41.9777946"
 draft: "false"
 weight: "999"

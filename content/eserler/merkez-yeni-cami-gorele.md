@@ -5,10 +5,10 @@ slug: "merkez-yeni-cami-gorele"
 description: "## Merkez Yeni Cami, Görele: Görele'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.004776,41.0310707"
 draft: "false"
 weight: "999"

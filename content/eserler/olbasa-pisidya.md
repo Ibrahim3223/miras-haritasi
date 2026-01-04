@@ -5,10 +5,10 @@ slug: "olbasa-pisidya"
 description: "## Olbasa (Pisidya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9957318,37.3045498"
 draft: "false"
 weight: "999"

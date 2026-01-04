@@ -5,10 +5,10 @@ slug: "akkopru"
 description: "# Akköprü: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Granicus_River.jpg/1200px-Granicus_River.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.31008333,40.37252778"
 draft: "false"
 weight: "10"

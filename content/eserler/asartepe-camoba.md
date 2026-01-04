@@ -5,10 +5,10 @@ slug: "asartepe-camoba"
 description: "## Asartepe, Çamoba: Ayvalık'ın Eski Kaleleri Arasından İlgi Çeken Bir Örneği..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.877466,39.300754"
 draft: "false"
 weight: "999"

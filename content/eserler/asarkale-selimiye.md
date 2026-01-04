@@ -5,10 +5,10 @@ slug: "asarkale-selimiye"
 description: "### Asarkale, Selimiye: Marmaris'in Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1372623,36.7028542"
 draft: "false"
 weight: "999"

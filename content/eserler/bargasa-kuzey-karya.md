@@ -5,10 +5,10 @@ slug: "bargasa-kuzey-karya"
 description: "## Bargasa (Kuzey Karya)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.410719,37.619454"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cigerci-baba-kabri"
 description: "**Ciğerci Baba Kabri: Fatih'in Gizli Anıtı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.92317452,41.016730872"
 draft: "false"
 weight: "999"

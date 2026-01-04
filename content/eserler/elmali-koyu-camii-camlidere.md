@@ -5,10 +5,10 @@ slug: "elmali-koyu-camii-camlidere"
 description: "## Elmalı Köyü Camii (Çamlıdere)..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4975204,40.4106903"
 draft: "false"
 weight: "999"

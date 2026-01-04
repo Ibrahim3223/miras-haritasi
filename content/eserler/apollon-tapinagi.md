@@ -5,10 +5,10 @@ slug: "apollon-tapinagi"
 description: "## Apollon Tapınağı: Side'de Gizemli Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Side.Apollo(4).jpg/1200px-Side.Apollo(4).jpg"
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.3864193,36.7642837"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "erbaa-muzesi"
 description: "## Erbaa Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Erbaa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.567194444,40.672277777"
 draft: "false"
 weight: "999"

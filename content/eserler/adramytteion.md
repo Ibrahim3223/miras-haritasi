@@ -5,10 +5,10 @@ slug: "adramytteion"
 description: "# Adramytteion: Tarihe Dokunan Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Burhaniye_Tarihi.JPG/1200px-Burhaniye_Tarihi.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.935833333,39.498888888"
 draft: "false"
 weight: "10"

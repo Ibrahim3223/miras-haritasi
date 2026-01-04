@@ -5,10 +5,10 @@ slug: "salahettinoglu-camii"
 description: "### Salahettinoğlu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1443329,38.4173698"
 draft: "false"
 weight: "999"

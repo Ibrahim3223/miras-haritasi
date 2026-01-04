@@ -5,10 +5,10 @@ slug: "osmaniye-hamidiye-camii"
 description: "## Osmaniye Hamidiye Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.883881929,40.993667168"
 draft: "false"
 weight: "999"

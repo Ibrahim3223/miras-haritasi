@@ -5,10 +5,10 @@ slug: "cukuroba-camii"
 description: "**Çukuroba Camii**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9308319,37.5872765"
 draft: "false"
 weight: "999"

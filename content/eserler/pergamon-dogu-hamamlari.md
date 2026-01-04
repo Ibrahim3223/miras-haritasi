@@ -5,10 +5,10 @@ slug: "pergamon-dogu-hamamlari"
 description: "## Pergamon Doğu Hamamları..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1867847,39.1272583"
 draft: "false"
 weight: "999"

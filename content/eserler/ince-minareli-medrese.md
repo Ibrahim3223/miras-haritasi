@@ -5,10 +5,10 @@ slug: "ince-minareli-medrese"
 description: "### İnce Minareli Medrese: Konya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Ince_Minareli_Medrese_01.jpg/1200px-Ince_Minareli_Medrese_01.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.490195,37.872822"
 draft: "false"
 weight: "10"

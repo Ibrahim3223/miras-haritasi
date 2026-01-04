@@ -5,10 +5,10 @@ slug: "gecitagzi-alaycesme-guney-a-tumulusu"
 description: "### Geçitağzı Alayçeşme Güney A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3372383,41.9386444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "faustina-hamamlari"
 description: "## Faustina Hamamları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Miletus_bath_of_Faustyna_RB_1.jpg/1200px-Miletus_bath_of_Faustyna_RB_1.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.276944444,37.528333333"
 draft: "false"
 weight: "10"

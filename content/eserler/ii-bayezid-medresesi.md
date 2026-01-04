@@ -5,10 +5,10 @@ slug: "ii-bayezid-medresesi"
 description: "## II. Bayezid Medresesi: Amasya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.8263855,40.6500702"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tutinog-koprusu"
 description: "## Tutinoğ Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.852409,41.0812031"
 draft: "false"
 weight: "999"

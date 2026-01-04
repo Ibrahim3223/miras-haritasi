@@ -5,10 +5,10 @@ slug: "akhisar-sinagogu"
 description: "## Akhisar Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Akhisar_Synagogue.jpg/1200px-Akhisar_Synagogue.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: ""
 draft: "false"
 weight: "10"

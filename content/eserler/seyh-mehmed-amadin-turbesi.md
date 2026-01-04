@@ -5,10 +5,10 @@ slug: "seyh-mehmed-amadin-turbesi"
 description: "### Şeyh Mehmed Amadin Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.112367,36.714295"
 draft: "false"
 weight: "999"

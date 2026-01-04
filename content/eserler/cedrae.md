@@ -5,10 +5,10 @@ slug: "cedrae"
 description: "## Cedrae: Muğla'nın Gizli Pearla..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Ancient_city_Kedriai_Tower.jpg/1200px-Ancient_city_Kedriai_Tower.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.205886,36.99154"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "damatli-koyu-eski-cami"
 description: "## Damatlı Köyü Eski Cami: Tarihi ve Kültürel Bir Özellik..."
 featured_image: ""
 province: "Salihli"
-iller: '["Salihli"]'
+iller: ["Salihli"]
 district: "Damatlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.207098,38.4194946"
 draft: "false"
 weight: "999"

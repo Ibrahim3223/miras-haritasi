@@ -5,10 +5,10 @@ slug: "yaka-mezarlik-camii"
 description: "## Yaka Mezarlık Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4960651,36.6994629"
 draft: "false"
 weight: "999"

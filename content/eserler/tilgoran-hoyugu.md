@@ -5,10 +5,10 @@ slug: "tilgoran-hoyugu"
 description: "# Tılgoran Höyüğü: Şanlıurfa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Viranşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.656966,37.3107547"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kizilcageren-kalesi-kirklareli"
 description: "## Kızılcageren Kalesi: Kırklareli'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3429012,41.8081856"
 draft: "false"
 weight: "999"

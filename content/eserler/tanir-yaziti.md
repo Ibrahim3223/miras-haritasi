@@ -5,10 +5,10 @@ slug: "tanir-yaziti"
 description: "## Tanır Yazıtı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9199607,38.4212342"
 draft: "false"
 weight: "999"

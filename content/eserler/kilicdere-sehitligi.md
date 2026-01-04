@@ -5,10 +5,10 @@ slug: "kilicdere-sehitligi"
 description: "## Kılıçdere Şehitliği: Anıtsal Bir Miras..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2971191,40.24543"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamidi-camii-burhaniye"
 description: "# Hamidiye Camii, Burhaniye..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9769154,39.5092735"
 draft: "false"
 weight: "999"

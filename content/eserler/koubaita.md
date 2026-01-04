@@ -5,10 +5,10 @@ slug: "koubaita"
 description: "### Koubaita Arkeolojik Sit..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.948216,40.791113"
 draft: "false"
 weight: "999"

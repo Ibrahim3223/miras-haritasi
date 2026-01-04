@@ -5,10 +5,10 @@ slug: "muradiye-camii-uzunkopru"
 description: "## Muradiye Camii (Uzunköprü)..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6859341,41.2691498"
 draft: "false"
 weight: "999"

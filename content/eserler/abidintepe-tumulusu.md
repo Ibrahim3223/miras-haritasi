@@ -5,10 +5,10 @@ slug: "abidintepe-tumulusu"
 description: "## Abidintepe Tümülüsü: Manisa'nın Gizli Öreni..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7538891,39.0470695"
 draft: "false"
 weight: "999"

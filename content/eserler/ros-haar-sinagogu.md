@@ -5,10 +5,10 @@ slug: "ros-haar-sinagogu"
 description: "## Roş Haar Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.116611111,38.407388888"
 draft: "false"
 weight: "999"

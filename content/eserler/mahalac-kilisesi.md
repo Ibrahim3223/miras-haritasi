@@ -5,10 +5,10 @@ slug: "mahalac-kilisesi"
 description: "### Mahalaç Kilisesi: Karaman'ın Tarihi Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "33.1475792,37.3990974"
 draft: "false"
 weight: "999"

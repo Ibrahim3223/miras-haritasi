@@ -5,10 +5,10 @@ slug: "sungu-heykeli"
 description: "## Süngü Heykeli: Beyoğlu'ndaki Gizemli Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Süngü_Heykeli_(12964525324)_(cropped).jpg/1200px-Süngü_Heykeli_(12964525324)_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.986896377,41.036796507"
 draft: "false"
 weight: "10"

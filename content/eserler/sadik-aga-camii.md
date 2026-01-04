@@ -5,10 +5,10 @@ slug: "sadik-aga-camii"
 description: "### Sadık Ağa Camii: Pınarhisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5238514,41.6213036"
 draft: "false"
 weight: "999"

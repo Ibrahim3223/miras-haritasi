@@ -5,10 +5,10 @@ slug: "ayios-yeoryios-kiparissas-kilisesi"
 description: "## Ayios Yeoryios Kiparissas Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.933413,41.000911"
 draft: "false"
 weight: "999"

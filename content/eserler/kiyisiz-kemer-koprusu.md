@@ -5,10 +5,10 @@ slug: "kiyisiz-kemer-koprusu"
 description: "### Kıyısız Kemer Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0152016,37.9274445"
 draft: "false"
 weight: "999"

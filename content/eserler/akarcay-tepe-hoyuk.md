@@ -5,10 +5,10 @@ slug: "akarcay-tepe-hoyuk"
 description: "## Akarçay Tepe Höyük: Bir Arkeolojik Sitin Gerçekleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Excav_catalanes_a_siria.png"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.02769383,36.91913483"
 draft: "false"
 weight: "999"

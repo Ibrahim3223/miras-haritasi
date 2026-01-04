@@ -5,10 +5,10 @@ slug: "10-yil-aniti-kizilcakoy"
 description: "## 10. Yıl Anıtı, Kızılcaköy..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7715282,37.8702011"
 draft: "false"
 weight: "999"

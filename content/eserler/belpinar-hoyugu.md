@@ -5,10 +5,10 @@ slug: "belpinar-hoyugu"
 description: "# Belpınar Höyüğü: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.0895679,39.3013453"
 draft: "false"
 weight: "999"

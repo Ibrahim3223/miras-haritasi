@@ -5,10 +5,10 @@ slug: "pergamon-anitsal-kapi"
 description: "### Pergamon Anıtsal Kapı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.184679,39.1318779"
 draft: "false"
 weight: "999"

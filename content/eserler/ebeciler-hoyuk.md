@@ -5,10 +5,10 @@ slug: "ebeciler-hoyuk"
 description: "### Ebeciler Höyük: Denizli'nin Tarihi Yıkıntısı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.8838997,37.5391006"
 draft: "false"
 weight: "999"

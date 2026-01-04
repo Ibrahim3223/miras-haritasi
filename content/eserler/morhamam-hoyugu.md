@@ -5,10 +5,10 @@ slug: "morhamam-hoyugu"
 description: "## Morhamam Höyüğü: Malatya'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3953285,38.6713562"
 draft: "false"
 weight: "999"

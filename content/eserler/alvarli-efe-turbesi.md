@@ -5,10 +5,10 @@ slug: "alvarli-efe-turbesi"
 description: "## Alvarlı Efe Türbesi: Pasinler'in Gizli Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.6087,39.9396"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehit-haci-yakup-efendi-turbesi"
 description: "## Şehit Hacı Yakup Efendi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0480976,40.1836472"
 draft: "false"
 weight: "999"

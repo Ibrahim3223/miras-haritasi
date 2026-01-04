@@ -5,10 +5,10 @@ slug: "anonim-kumbet-mevlana"
 description: "## Anonim Kümbet Mevlana: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5054054,37.8706055"
 draft: "false"
 weight: "999"

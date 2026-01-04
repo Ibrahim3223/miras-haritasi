@@ -5,10 +5,10 @@ slug: "mehmet-akif-ersoy-bustu"
 description: "## Mehmet Akif Ersoy Büstü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.974908,41.008012"
 draft: "false"
 weight: "999"

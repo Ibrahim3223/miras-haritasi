@@ -5,10 +5,10 @@ slug: "melanippe"
 description: "## Melanippe: Antik Yunan Kültürünün Efsanevi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.40496,36.25488"
 draft: "false"
 weight: "999"

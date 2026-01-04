@@ -5,10 +5,10 @@ slug: "pirlibey-camii"
 description: "## Pirlibey Camii: Muğla'da Bir Tarihi Cennet..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0401344,37.3558998"
 draft: "false"
 weight: "999"

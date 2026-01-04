@@ -5,10 +5,10 @@ slug: "kocayazi-mevziler-2-tumulusu"
 description: "## Kocayazı Mevziler 2 Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.186264,41.9983139"
 draft: "false"
 weight: "999"

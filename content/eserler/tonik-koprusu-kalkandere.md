@@ -5,10 +5,10 @@ slug: "tonik-koprusu-kalkandere"
 description: "## Tonik Köprüsü, Kalkandere..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.450851,40.931491"
 draft: "false"
 weight: "999"

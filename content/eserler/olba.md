@@ -5,10 +5,10 @@ slug: "olba"
 description: "## Olba: Mersin'in Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/UzuncaburcZeus.jpg/1200px-UzuncaburcZeus.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.92527778,36.58083333"
 draft: "false"
 weight: "10"

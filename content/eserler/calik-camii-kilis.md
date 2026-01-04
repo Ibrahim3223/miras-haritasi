@@ -5,10 +5,10 @@ slug: "calik-camii-kilis"
 description: "## Çalık Camii: Kilis'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1184502,36.7175407"
 draft: "false"
 weight: "999"

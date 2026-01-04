@@ -5,10 +5,10 @@ slug: "yukaricaglar-camii"
 description: "## Yukarıçağlar Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8005714,36.7130165"
 draft: "false"
 weight: "999"

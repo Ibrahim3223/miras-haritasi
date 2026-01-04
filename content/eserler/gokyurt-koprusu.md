@@ -5,10 +5,10 @@ slug: "gokyurt-koprusu"
 description: "### Gökyurt Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.206955,37.661968"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "devr-i-alem-gaziantep-para-muzesi"
 description: "## Devr-i Alem Gaziantep Para Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.3820152,37.0645332"
 draft: "false"
 weight: "999"

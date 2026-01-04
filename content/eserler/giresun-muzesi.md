@@ -5,10 +5,10 @@ slug: "giresun-muzesi"
 description: "## Giresun Müzesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.393888888,40.919444444"
 draft: "false"
 weight: "999"

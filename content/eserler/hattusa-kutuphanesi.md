@@ -5,10 +5,10 @@ slug: "hattusa-kutuphanesi"
 description: "## Hattuşa Kütüphanesi: Boğazkale'nin Gizli Sırları..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Boğazkale"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "34.6157608,40.0195999"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fethiye-muzesi"
 description: "### Fethiye Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.1171131,36.62323"
 draft: "false"
 weight: "999"

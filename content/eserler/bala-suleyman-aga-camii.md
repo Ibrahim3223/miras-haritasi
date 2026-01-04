@@ -5,10 +5,10 @@ slug: "bala-suleyman-aga-camii"
 description: "## Bala Süleyman Ağa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Istanbul_Bali_Suleyman_Camii_2015_0704.jpg/1200px-Istanbul_Bali_Suleyman_Camii_2015_0704.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.923963,41.008005"
 draft: "false"
 weight: "10"

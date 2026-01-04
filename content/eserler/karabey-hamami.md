@@ -5,10 +5,10 @@ slug: "karabey-hamami"
 description: "# Karabey Hamamı: Uluborlu'nun Tarihi Harikası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Uluborlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.4680176,38.0706062"
 draft: "false"
 weight: "999"

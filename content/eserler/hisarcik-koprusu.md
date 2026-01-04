@@ -5,10 +5,10 @@ slug: "hisarcik-koprusu"
 description: "### Hisarcık Köprüsü: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.636151,40.743758"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "savrandere-koprusu"
 description: "## Savrandere Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.881218,37.7462425"
 draft: "false"
 weight: "999"

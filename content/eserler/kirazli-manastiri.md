@@ -5,10 +5,10 @@ slug: "kirazli-manastiri"
 description: "### Kirazlı Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Kirazli_Manastiri.jpg/1200px-Kirazli_Manastiri.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.912,40.463203"
 draft: "false"
 weight: "10"

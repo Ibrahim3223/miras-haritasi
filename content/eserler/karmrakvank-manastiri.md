@@ -5,10 +5,10 @@ slug: "karmrakvank-manastiri"
 description: "## Karmrakvank Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gevaş"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.904281,38.372315"
 draft: "false"
 weight: "999"

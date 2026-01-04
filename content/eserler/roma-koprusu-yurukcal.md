@@ -5,10 +5,10 @@ slug: "roma-koprusu-yurukcal"
 description: "### Roma Köprüsü, Yürükçal..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.5428819,41.1526231"
 draft: "false"
 weight: "999"

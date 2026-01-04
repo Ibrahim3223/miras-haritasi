@@ -5,10 +5,10 @@ slug: "halise-hatun-camii"
 description: "## Halise Hatun Camii: Edirne'nin Gizli Çehresini Açıklama..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6848202,41.2662926"
 draft: "false"
 weight: "999"

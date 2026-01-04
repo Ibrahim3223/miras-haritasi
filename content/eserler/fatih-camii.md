@@ -5,10 +5,10 @@ slug: "fatih-camii"
 description: "## Fatih Camii: İstanbul'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Fatih_Cami_on_a_beautiful_spring_day.jpg/1200px-Fatih_Cami_on_a_beautiful_spring_day.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.949722,41.019722"
 draft: "false"
 weight: "10"

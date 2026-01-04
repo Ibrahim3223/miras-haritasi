@@ -5,10 +5,10 @@ slug: "diokaisareia-anit-mezar"
 description: "## Diokaisareia Anıt Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9329338,36.5736008"
 draft: "false"
 weight: "999"

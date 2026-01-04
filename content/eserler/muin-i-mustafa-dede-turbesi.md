@@ -5,10 +5,10 @@ slug: "muin-i-mustafa-dede-turbesi"
 description: "## Muin-i Mustafa Dede Türbesi: Afyonkarahisar'ın Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5288,38.7529"
 draft: "false"
 weight: "999"

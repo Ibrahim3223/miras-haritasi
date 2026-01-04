@@ -5,10 +5,10 @@ slug: "anonim-hamam"
 description: "## Bodrum'un Gizli Çeşmesi: Anonim Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4232559,37.0367622"
 draft: "false"
 weight: "999"

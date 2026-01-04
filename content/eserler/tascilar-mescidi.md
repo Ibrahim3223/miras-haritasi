@@ -5,10 +5,10 @@ slug: "tascilar-mescidi"
 description: "### Taşçılar Mescidi: Manisa'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4319382,38.6121101"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurtdere-koprusu"
 description: "## Kurtdere Köprüsü: Pınarhisar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4375916,41.6943359"
 draft: "false"
 weight: "999"

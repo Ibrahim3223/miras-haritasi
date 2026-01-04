@@ -5,10 +5,10 @@ slug: "tasdemir-camii"
 description: "### Taşdemir Camii: Burdur'da Bir Klasik Örnek..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2930012,37.7179947"
 draft: "false"
 weight: "999"

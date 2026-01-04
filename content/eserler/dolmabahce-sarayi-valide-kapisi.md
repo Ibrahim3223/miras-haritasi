@@ -5,10 +5,10 @@ slug: "dolmabahce-sarayi-valide-kapisi"
 description: "## Dolmabahçe Sarayı Valide Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0015697,41.0407333"
 draft: "false"
 weight: "1"

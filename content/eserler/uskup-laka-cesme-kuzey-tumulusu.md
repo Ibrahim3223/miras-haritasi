@@ -5,10 +5,10 @@ slug: "uskup-laka-cesme-kuzey-tumulusu"
 description: "## Üsküp Laka Çeşme Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4220638,41.7704811"
 draft: "false"
 weight: "999"

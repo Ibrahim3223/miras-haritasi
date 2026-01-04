@@ -5,10 +5,10 @@ slug: "zincirlikuyu-mescidi-edirne"
 description: "## Zincirlikuyu Mescidi: Edirne'nin Tarihi Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5481167,41.6804886"
 draft: "false"
 weight: "999"

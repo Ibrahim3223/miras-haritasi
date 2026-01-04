@@ -5,10 +5,10 @@ slug: "karsi-mahalle-camii"
 description: "## Karşı Mahalle Camii: Safranbolu'nun Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.782922,41.232464"
 draft: "false"
 weight: "999"

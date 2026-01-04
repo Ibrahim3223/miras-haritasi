@@ -5,10 +5,10 @@ slug: "cimentepe-hoyugu"
 description: "**Çimentepe Höyüğü: Tarihî Mirasın Gizemi**..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7052851,40.1072844"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ciksalin-sinagogu"
 description: "## Çıksalın Sinagogu: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.949833333,41.050166666"
 draft: "false"
 weight: "999"

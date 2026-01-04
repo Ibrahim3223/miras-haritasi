@@ -5,10 +5,10 @@ slug: "kalecik-kalesi"
 description: "## Kalecik Kalesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kalecik"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.4056778,40.0958061"
 draft: "false"
 weight: "999"

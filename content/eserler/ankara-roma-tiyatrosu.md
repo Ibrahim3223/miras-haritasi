@@ -5,10 +5,10 @@ slug: "ankara-roma-tiyatrosu"
 description: "### Ankara Roma Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/The_Roman_Theatre_of_Ancyra,_2nd_half_of_the_1st_century_AD_-_beg_of_the_2nd_century_AD,_Ankara,_Turkey_(25743828343).jpg/1200px-The_Roman_Theatre_of_Ancyra,_2nd_half_of_the_1st_century_AD_-_beg_of_the_2nd_century_AD,_Ankara,_Turkey_(25743828343).jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.860222222,39.942055555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "hoca-kiris-mescidi-beypazari"
 description: "## Hoca Kiriş Mescidi, Beypazarı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9181976,40.1713371"
 draft: "false"
 weight: "999"

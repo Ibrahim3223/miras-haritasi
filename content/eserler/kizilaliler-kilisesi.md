@@ -5,10 +5,10 @@ slug: "kizilaliler-kilisesi"
 description: "**Kızılaliler Kilisesi**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.774231,36.0641975"
 draft: "false"
 weight: "999"

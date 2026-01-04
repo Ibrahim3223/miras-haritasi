@@ -5,10 +5,10 @@ slug: "tas-kopru-karadere"
 description: "## Taş Köprü, Karadere: İzmit'in Gizli Çehresinin Bir Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4529991,38.9656982"
 draft: "false"
 weight: "999"

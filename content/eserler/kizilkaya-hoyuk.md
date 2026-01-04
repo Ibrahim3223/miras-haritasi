@@ -5,10 +5,10 @@ slug: "kizilkaya-hoyuk"
 description: "### Kızılkaya Höyük: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.499905,36.423264"
 draft: "false"
 weight: "999"

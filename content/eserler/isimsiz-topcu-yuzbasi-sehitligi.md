@@ -5,10 +5,10 @@ slug: "isimsiz-topcu-yuzbasi-sehitligi"
 description: "## İsimsiz Topçu Yüzbaşı Şehitliği: Eceabat'taki Bir Anıtın Tarihi ve Özellikleri..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3758831,40.158596"
 draft: "false"
 weight: "999"

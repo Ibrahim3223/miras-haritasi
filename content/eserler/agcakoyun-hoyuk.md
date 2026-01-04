@@ -5,10 +5,10 @@ slug: "agcakoyun-hoyuk"
 description: "## Ağcakoyun Höyük..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1827049,40.5162697"
 draft: "false"
 weight: "999"

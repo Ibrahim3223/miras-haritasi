@@ -5,10 +5,10 @@ slug: "derya-i-ali-baba-turbesi"
 description: "# Derya-i Ali Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Derya-i_Ali_Baba_Türbesi.jpg/1200px-Derya-i_Ali_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.915709,40.990971"
 draft: "false"
 weight: "10"

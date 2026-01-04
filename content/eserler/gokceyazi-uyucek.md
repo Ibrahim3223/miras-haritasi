@@ -5,10 +5,10 @@ slug: "gokceyazi-uyucek"
 description: "## Gökçeyazı Üyücek: İvrindi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "İvrindi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.637867,39.63195"
 draft: "false"
 weight: "999"

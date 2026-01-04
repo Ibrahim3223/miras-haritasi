@@ -5,10 +5,10 @@ slug: "seyh-isa-turbesi"
 description: "## Şeyh İsa Türbesi: Tarihî Bir Mirasın Tanımı..."
 featured_image: ""
 province: "Akhisar (ilçe)"
-iller: '["Akhisar (ilçe)"]'
+iller: ["Akhisar (ilçe)"]
 district: "Şeyhisa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8460064,38.922039"
 draft: "false"
 weight: "999"

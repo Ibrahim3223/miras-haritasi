@@ -5,10 +5,10 @@ slug: "kirklareli-merkez-c-tumulusu"
 description: "## Kırklareli Merkez C Tümülüsü: Tarihini ve Zenginliğini Keşfedin..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2315159,41.7198753"
 draft: "false"
 weight: "999"

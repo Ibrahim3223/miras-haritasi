@@ -5,10 +5,10 @@ slug: "bucak-kalesi-kozan"
 description: "## Bucak Kalesi, Kozan..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.9244003,37.4477158"
 draft: "false"
 weight: "999"

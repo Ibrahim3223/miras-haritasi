@@ -5,10 +5,10 @@ slug: "alia"
 description: "### Alia Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/49/Chiesa_Madre_Alia.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Banaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.901111111,38.869444444"
 draft: "false"
 weight: "999"

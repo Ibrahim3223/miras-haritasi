@@ -5,10 +5,10 @@ slug: "alaeddin-bey-camii"
 description: "## Alaeddin Bey Camii: Muş'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/91/Mush_Alaeddin_Pasha_Camii_3650.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.490083333,38.730888888"
 draft: "false"
 weight: "999"

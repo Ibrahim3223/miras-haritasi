@@ -5,10 +5,10 @@ slug: "kaz-limani-tumulusu"
 description: "## Kaz Limanı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.090004,41.6436195"
 draft: "false"
 weight: "999"

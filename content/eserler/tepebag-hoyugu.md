@@ -5,10 +5,10 @@ slug: "tepebag-hoyugu"
 description: "## Tepebağ Höyüğü..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3281975,36.9881897"
 draft: "false"
 weight: "999"

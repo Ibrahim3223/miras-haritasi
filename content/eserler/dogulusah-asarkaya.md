@@ -5,10 +5,10 @@ slug: "dogulusah-asarkaya"
 description: "## Doğuluşah Asarkaya: Kütahya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.1817493,39.5398064"
 draft: "false"
 weight: "999"

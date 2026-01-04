@@ -5,10 +5,10 @@ slug: "medieval-settlement-at-ephesus"
 description: "## Ortaçağ Yerleşimi Efes..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.367805555,37.952472222"
 draft: "false"
 weight: "999"

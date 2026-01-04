@@ -5,10 +5,10 @@ slug: "guvem-koprusu"
 description: "## Güvem Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8445206,40.904747"
 draft: "false"
 weight: "999"

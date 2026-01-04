@@ -5,10 +5,10 @@ slug: "arsinoe-kilikya"
 description: "### Kilikya'da Antik Arsinoe: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.022091,36.092495"
 draft: "false"
 weight: "999"

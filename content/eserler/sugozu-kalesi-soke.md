@@ -5,10 +5,10 @@ slug: "sugozu-kalesi-soke"
 description: "## Sugözü Kalesi: Aydın'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4493999,37.7953987"
 draft: "false"
 weight: "999"

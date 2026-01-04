@@ -5,10 +5,10 @@ slug: "karakol-yani-camii"
 description: "## Karakol Yanı Camii: İzmir'in Tarihi ve Kültürel Mirasının BİR Parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3661919,37.9477806"
 draft: "false"
 weight: "999"

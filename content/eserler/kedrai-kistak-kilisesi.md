@@ -5,10 +5,10 @@ slug: "kedrai-kistak-kilisesi"
 description: "## Kedrai Kıstak Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.2045441,36.9941711"
 draft: "false"
 weight: "999"

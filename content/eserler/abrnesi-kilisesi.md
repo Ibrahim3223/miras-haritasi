@@ -5,10 +5,10 @@ slug: "abrnesi-kilisesi"
 description: "## Abrnesi Kilisesi: Tortum'un Gizli Cenneti..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Suyatağı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.512616666,40.453975"
 draft: "false"
 weight: "999"

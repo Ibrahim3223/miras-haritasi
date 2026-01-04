@@ -5,10 +5,10 @@ slug: "yatir-turbesi-atca"
 description: "## Yatır Türbesi, Atça..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.2102776,37.8933411"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ibrahim-tatlises-muzik-muzesi"
 description: "### İbrahim Tatlıses Müzik Müzesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.786473,37.144137"
 draft: "false"
 weight: "999"

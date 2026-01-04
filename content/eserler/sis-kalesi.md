@@ -5,10 +5,10 @@ slug: "sis-kalesi"
 description: "## Sis Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.0995712,40.383316"
 draft: "false"
 weight: "999"

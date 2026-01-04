@@ -5,10 +5,10 @@ slug: "baba-hasan-alemi-camii"
 description: "### Baba Hasan Alemi Camii: İskenderpaşa'daki Bir Tarihî Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.952755,41.01271"
 draft: "false"
 weight: "999"

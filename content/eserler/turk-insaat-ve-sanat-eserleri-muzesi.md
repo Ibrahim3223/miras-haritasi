@@ -5,10 +5,10 @@ slug: "turk-insaat-ve-sanat-eserleri-muzesi"
 description: "## Türk İnşaat ve Sanat Eserleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.952138704,41.015293166"
 draft: "false"
 weight: "999"

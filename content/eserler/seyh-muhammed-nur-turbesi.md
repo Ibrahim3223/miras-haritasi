@@ -5,10 +5,10 @@ slug: "seyh-muhammed-nur-turbesi"
 description: "## Şeyh Muhammed Nur Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.975799,37.227335"
 draft: "false"
 weight: "999"

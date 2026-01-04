@@ -5,10 +5,10 @@ slug: "cinar-mescidi"
 description: "## Çınar Mescidi: Pamukkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0874081,37.7733269"
 draft: "false"
 weight: "999"

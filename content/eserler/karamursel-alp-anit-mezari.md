@@ -5,10 +5,10 @@ slug: "karamursel-alp-anit-mezari"
 description: "## Karamürsel Alp Anıt Mezarı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Karamürsel"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6163731,40.6908913"
 draft: "false"
 weight: "999"

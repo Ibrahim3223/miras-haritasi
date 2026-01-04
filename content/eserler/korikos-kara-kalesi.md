@@ -5,10 +5,10 @@ slug: "korikos-kara-kalesi"
 description: "### Korikos Kara Kalesi: Erdemli'nin Tarihi Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.1508064,36.4637642"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aetios-sarnici"
 description: "### Aetios Sarnıcı: İstanbul'un Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Vefa.stadi1.jpg/1200px-Vefa.stadi1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9392,41.0278"
 draft: "false"
 weight: "10"

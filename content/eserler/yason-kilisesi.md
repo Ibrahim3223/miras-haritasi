@@ -5,10 +5,10 @@ slug: "yason-kilisesi"
 description: "## Yason Kilisesi: Perşembe'de Bir Geçmişi Anımsatan Etkinlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Byzantine_Church_in_Cape_Jason,_Ordu_05.jpg/1200px-Byzantine_Church_in_Cape_Jason,_Ordu_05.jpg"
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Perşembe"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.682388888,41.133805555"
 draft: "false"
 weight: "10"

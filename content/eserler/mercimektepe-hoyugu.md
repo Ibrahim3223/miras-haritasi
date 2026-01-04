@@ -5,10 +5,10 @@ slug: "mercimektepe-hoyugu"
 description: "## Mercimektepe Höyüğü: Yozgat'ın Gizli Tarihçesi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8255116,39.8267862"
 draft: "false"
 weight: "999"

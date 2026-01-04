@@ -5,10 +5,10 @@ slug: "laodikeia-kuzey-tiyatrosu"
 description: "# Laodikeia Kuzey Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Laodikeia_Kuzey_Tiyatrosu_01_-_2019.jpg/1200px-Laodikeia_Kuzey_Tiyatrosu_01_-_2019.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.111035,37.837757"
 draft: "false"
 weight: "10"

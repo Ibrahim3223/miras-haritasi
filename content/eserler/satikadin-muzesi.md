@@ -5,10 +5,10 @@ slug: "satikadin-muzesi"
 description: "## Satıkadın Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.6851,40.207349"
 draft: "false"
 weight: "999"

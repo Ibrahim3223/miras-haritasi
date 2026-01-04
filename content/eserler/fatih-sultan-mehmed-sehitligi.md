@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmed-sehitligi"
 description: "# Fatih Sultan Mehmed Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.912196548,41.015182737"
 draft: "false"
 weight: "999"

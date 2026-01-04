@@ -5,10 +5,10 @@ slug: "lysimacheia"
 description: "# Lysimacheia: Gelibolu'nun Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8868484,40.577652"
 draft: "false"
 weight: "999"

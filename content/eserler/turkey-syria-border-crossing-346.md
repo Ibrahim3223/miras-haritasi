@@ -5,10 +5,10 @@ slug: "turkey-syria-border-crossing-346"
 description: "## Türkiye-Suriye Sınır Kavşağı #346 Kervansarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "38.089533013,36.86943358"
 draft: "false"
 weight: "999"

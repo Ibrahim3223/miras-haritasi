@@ -5,10 +5,10 @@ slug: "tzkarostavi-koyu-kilisesi"
 description: "## Tzkarostavi Köyü Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Öncül"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.164858333,41.24005"
 draft: "false"
 weight: "999"

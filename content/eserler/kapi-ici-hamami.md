@@ -5,10 +5,10 @@ slug: "kapi-ici-hamami"
 description: "### Kapı İçi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.979435,41.0261726"
 draft: "false"
 weight: "999"

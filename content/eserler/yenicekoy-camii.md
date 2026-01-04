@@ -5,10 +5,10 @@ slug: "yenicekoy-camii"
 description: "## Yeniceköy Camii: İzmir'in Doğal Güzelliği ile Birlikte Bir Önemli Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7276249,38.0843277"
 draft: "false"
 weight: "999"

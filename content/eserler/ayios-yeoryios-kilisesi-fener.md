@@ -5,10 +5,10 @@ slug: "ayios-yeoryios-kilisesi-fener"
 description: "Ayios Yeoryios Kilisesi, Fener..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9515858,41.0293159"
 draft: "false"
 weight: "999"

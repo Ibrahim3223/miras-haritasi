@@ -5,10 +5,10 @@ slug: "ayazma-manastiri"
 description: "## Ayazma Manastırı: Bozcaada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "26.0146999,39.8136787"
 draft: "false"
 weight: "999"

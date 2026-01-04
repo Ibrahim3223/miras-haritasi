@@ -5,10 +5,10 @@ slug: "temple-of-athena-polias-pergamum"
 description: "## Tapınağın Öyküsü: Pergamon Altarı'nda Athena Polias Tapınağı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hacettepe-camii"
 description: "## Hacettepe Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8672981,39.9302826"
 draft: "false"
 weight: "999"

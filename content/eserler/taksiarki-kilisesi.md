@@ -5,10 +5,10 @@ slug: "taksiarki-kilisesi"
 description: "### Taksiarki Kilisesi: Trabzon'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.5516815,40.766449"
 draft: "false"
 weight: "999"

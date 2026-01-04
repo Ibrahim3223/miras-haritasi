@@ -5,10 +5,10 @@ slug: "kiremitdere-sehitligi"
 description: "## Kiremitdere Şehitliği: Eceabat'ta Bir Anıtsal Örnek..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2782764,40.1046562"
 draft: "false"
 weight: "999"

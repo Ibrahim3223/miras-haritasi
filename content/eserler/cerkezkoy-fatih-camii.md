@@ -5,10 +5,10 @@ slug: "cerkezkoy-fatih-camii"
 description: "## Çerkezköy Fatih Camii..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çerkezköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0077222,41.2883439"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "denizli-il-halk-kutuphanesi"
 description: "## Denizli İl Halk Kütüphanesi: Kitaplar ve Kültür..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uctepe-hoyuk"
 description: "## Üçtepe Höyük: Diyarbakır'ın Eski Sivil Yerleşimi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.5397,37.8262"
 draft: "false"
 weight: "999"

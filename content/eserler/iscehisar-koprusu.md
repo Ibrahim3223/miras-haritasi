@@ -5,10 +5,10 @@ slug: "iscehisar-koprusu"
 description: "## İscehisar Köprüsü: Tarihimizin Gizli Çehresini Açığa Çıkaran Bir Ölümsüz..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İscehisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.7497559,38.8622589"
 draft: "false"
 weight: "999"

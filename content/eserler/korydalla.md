@@ -5,10 +5,10 @@ slug: "korydalla"
 description: "## Korydalla: Antik Çağın Gizemli Yerleşim Yeri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.273281,36.376674"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kizlar-kalesi"
 description: "## Kızlar Kalesi: Tarsus'un Gizli Harikası..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.925555555,37.152777777"
 draft: "false"
 weight: "999"

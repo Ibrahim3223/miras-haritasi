@@ -5,10 +5,10 @@ slug: "tarsus-ulu-camii"
 description: "## Tarsus Ulu Camii: Kilikya'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ulucami,_Tarsus,_Mersin_Province.jpg/1200px-Ulucami,_Tarsus,_Mersin_Province.jpg"
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8975,36.9156"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "iskilip-kaya-mezarlari"
 description: "## İskilip Kaya Mezarları..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.4739494,40.7344704"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-camii-kitapligi"
 description: "## Nişancı Mehmet Paşa Camii Kitaplığı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9608421,41.0061073"
 draft: "false"
 weight: "999"

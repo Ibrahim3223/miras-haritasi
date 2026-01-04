@@ -5,10 +5,10 @@ slug: "ciragbey-camii"
 description: "### Çırağbey Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0558929,40.1838875"
 draft: "false"
 weight: "999"

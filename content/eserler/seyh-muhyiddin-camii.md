@@ -5,10 +5,10 @@ slug: "seyh-muhyiddin-camii"
 description: "### Şeyh Muhyiddin Camii..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.333149,40.0145988"
 draft: "false"
 weight: "999"

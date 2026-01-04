@@ -5,10 +5,10 @@ slug: "bogazici-koyu-camii"
 description: "**Boğaziçi Köyü Camii: Rize'nin Kültürel Mirası**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.960927453,41.058524241"
 draft: "false"
 weight: "999"

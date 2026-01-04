@@ -5,10 +5,10 @@ slug: "rum-ortodoks-kilisesi-kazlicesme"
 description: "**Rum Ortodoks Kilisesi, Kazlıçeşme: İstanbul'un Gizli Çehresi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9177551,40.9945564"
 draft: "false"
 weight: "999"

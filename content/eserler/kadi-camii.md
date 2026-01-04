@@ -5,10 +5,10 @@ slug: "kadi-camii"
 description: "## Kadı Camii: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2385675,37.9124164"
 draft: "false"
 weight: "999"

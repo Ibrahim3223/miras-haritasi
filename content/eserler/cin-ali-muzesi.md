@@ -5,10 +5,10 @@ slug: "cin-ali-muzesi"
 description: "## Cin Ali Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Cin_Ali_museum.jpg/1200px-Cin_Ali_museum.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.862777777,39.90575"
 draft: "false"
 weight: "10"

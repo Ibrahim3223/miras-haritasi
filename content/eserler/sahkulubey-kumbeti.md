@@ -5,10 +5,10 @@ slug: "sahkulubey-kumbeti"
 description: "## Şahkulubey Kümbeti: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.5812569,37.1918068"
 draft: "false"
 weight: "999"

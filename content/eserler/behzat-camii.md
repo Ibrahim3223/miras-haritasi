@@ -5,10 +5,10 @@ slug: "behzat-camii"
 description: "## Behzat Camii: Tokat'ın Tarihi Anıtları Arasındaki Değerli Taş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Capture_d%E2%80%99%C3%A9cran_2018-05-18_%C3%A0_14.58.36.png"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5535736,40.3110619"
 draft: "false"
 weight: "999"

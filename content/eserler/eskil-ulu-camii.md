@@ -5,10 +5,10 @@ slug: "eskil-ulu-camii"
 description: "## Eskil Ulu Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Eskil"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.411305555,38.404194444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alaca-mescit-kastamonu"
 description: "# Alaca Mescit, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7730026,41.3769455"
 draft: "false"
 weight: "999"

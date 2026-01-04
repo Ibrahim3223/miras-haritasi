@@ -5,10 +5,10 @@ slug: "tarihi-ada-koprusu"
 description: "# Tarihi Ada Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4848939,39.5364204"
 draft: "false"
 weight: "999"

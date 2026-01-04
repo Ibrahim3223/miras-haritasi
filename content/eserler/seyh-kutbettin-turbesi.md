@@ -5,10 +5,10 @@ slug: "seyh-kutbettin-turbesi"
 description: "# Şeyh Kutbettin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7262,40.4299"
 draft: "false"
 weight: "999"

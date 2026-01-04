@@ -5,10 +5,10 @@ slug: "bahseyis-aniti"
 description: "## Bahşeyiş Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5751858,39.1530724"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lala-baba-mezarligi"
 description: "## Lala Baba Mezarlığı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Küçükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2397,40.29"
 draft: "false"
 weight: "999"

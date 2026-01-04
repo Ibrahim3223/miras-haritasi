@@ -5,10 +5,10 @@ slug: "lycae"
 description: "## Lycae Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.12998,36.738576"
 draft: "false"
 weight: "999"

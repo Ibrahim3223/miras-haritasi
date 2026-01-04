@@ -5,10 +5,10 @@ slug: "azmi-milli-un-fabrikasi"
 description: "### Azmi Milli Un Fabrikası Müzesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.0247993,38.372406"
 draft: "false"
 weight: "999"

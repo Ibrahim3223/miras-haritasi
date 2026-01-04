@@ -5,10 +5,10 @@ slug: "bozhoyuk-kurtalan"
 description: "## Bozhöyük Arkeolojik Sit: Kurtalan, Siirt..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Kurtalan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.4120918,37.9813311"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pertusi-kilisesi"
 description: "# Pertusi Kilisesi: Geçmişin Gizemi ve Zümrüt'te Yankıları..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Zümrüt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.224555555,40.550194444"
 draft: "false"
 weight: "999"

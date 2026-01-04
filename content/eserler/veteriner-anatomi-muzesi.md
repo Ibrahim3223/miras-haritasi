@@ -5,10 +5,10 @@ slug: "veteriner-anatomi-muzesi"
 description: "**Veteriner Anatomi Müzesi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.862863,39.957814"
 draft: "false"
 weight: "999"

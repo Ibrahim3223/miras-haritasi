@@ -5,10 +5,10 @@ slug: "ali-hamza-turbesi"
 description: "## Ali Hamza Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.150621,40.903333"
 draft: "false"
 weight: "999"

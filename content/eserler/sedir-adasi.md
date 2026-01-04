@@ -5,10 +5,10 @@ slug: "sedir-adasi"
 description: "## Sedir Adası: Muğla'nın Yemyeşil Şöleni..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.206111111,36.993055555"
 draft: "false"
 weight: "999"

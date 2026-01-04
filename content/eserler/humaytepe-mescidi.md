@@ -5,10 +5,10 @@ slug: "humaytepe-mescidi"
 description: "## Humaytepe Mescidi: Didim'in Hicaz Mimarisi'nin Şaşırtıcı Örneği..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2806225,37.5305595"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tetrapyrgia"
 description: "## Tetrapyrgia: Antik Dönemden Kalan Bir Arkeolojik Harikadan Bahsetmek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1175,37.021944444"
 draft: "false"
 weight: "999"

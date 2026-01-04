@@ -5,10 +5,10 @@ slug: "saratli-kirkgoz-yeralti-sehri"
 description: "### Saratlı Kırkgöz Yeraltı Şehri..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2323221,38.4450257"
 draft: "false"
 weight: "999"

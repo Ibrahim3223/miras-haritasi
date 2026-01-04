@@ -5,10 +5,10 @@ slug: "kasimaga-mescidi"
 description: "## Kasımağa Mescidi: İstanbul'un Gizli Çamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Kasim_Aĝa_Mosque_01.jpg/1200px-Kasim_Aĝa_Mosque_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.939,41.029"
 draft: "false"
 weight: "10"

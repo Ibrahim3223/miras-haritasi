@@ -5,10 +5,10 @@ slug: "tamrut-kalesi"
 description: "## Tamrut Kalesi: Akdeniz Bölgesi'nin Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: '["Akdeniz Bölgesi"]'
+iller: ["Akdeniz Bölgesi"]
 district: "Aladağ"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.1903191,37.4874153"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "caglayik-mercimektepe-tumulusu"
 description: "### Çağlayık Mercimektepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3389339,42.0379639"
 draft: "false"
 weight: "999"

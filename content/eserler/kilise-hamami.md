@@ -5,10 +5,10 @@ slug: "kilise-hamami"
 description: "## Kilise Hamamı: İncil Bayanların Ruhlarını Temizleyen Bir Ortam..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6493053,38.2245026"
 draft: "false"
 weight: "999"

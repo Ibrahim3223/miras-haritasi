@@ -5,10 +5,10 @@ slug: "asik-pasa-turbesi"
 description: "## Aşık Paşa Türbesi: Kırşehir'in Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aşık_Paşa_Türbesi_-_Tomb_Of_Ashik_Pasha_-_panoramio.jpg/1200px-Aşık_Paşa_Türbesi_-_Tomb_Of_Ashik_Pasha_-_panoramio.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.16945,39.15129"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "balkaynak-koprusu"
 description: "### Balkaynak Köprüsü: Tarihi Bir Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9032822,40.3577309"
 draft: "false"
 weight: "999"

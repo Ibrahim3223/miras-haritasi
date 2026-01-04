@@ -5,10 +5,10 @@ slug: "gedigi-kalesi"
 description: "## Gediği Kalesi: Toroslar'ın Gizli Şehri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Toroslar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.3797226,36.9916687"
 draft: "false"
 weight: "999"

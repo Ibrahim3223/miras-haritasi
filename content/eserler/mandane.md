@@ -5,10 +5,10 @@ slug: "mandane"
 description: "## Mandane Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.11213,36.12732"
 draft: "false"
 weight: "999"

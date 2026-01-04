@@ -5,10 +5,10 @@ slug: "kaygilli-kalesi"
 description: "## Kaygıllı Kalesi: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6131897,37.6264267"
 draft: "false"
 weight: "999"

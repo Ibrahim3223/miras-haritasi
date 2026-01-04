@@ -5,10 +5,10 @@ slug: "uefa-kupasi-aniti"
 description: "## UEFA Kupası Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/UEFA_Kupası_Anıtı.jpg/1200px-UEFA_Kupası_Anıtı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bahçelievler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

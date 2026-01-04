@@ -5,10 +5,10 @@ slug: "mersin-kent-tarihi-muzesi"
 description: "### Mersin Kent Tarihi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Mersin_Urban_History_Museum_II,_Turkey.jpg/1200px-Mersin_Urban_History_Museum_II,_Turkey.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.628333333,36.8"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "pilavtepe"
 description: "**Pilavtepe: Hafik'te Bir Arkeolojik Sit**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.3634934,39.8388323"
 draft: "false"
 weight: "999"

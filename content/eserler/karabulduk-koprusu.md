@@ -5,10 +5,10 @@ slug: "karabulduk-koprusu"
 description: "**Karabulduk Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Keşap"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.549407,40.821218"
 draft: "false"
 weight: "999"

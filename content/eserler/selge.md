@@ -5,10 +5,10 @@ slug: "selge"
 description: "## Selge: Antalya'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SelgeTheater.jpg/1200px-SelgeTheater.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.127026,37.22923"
 draft: "false"
 weight: "10"

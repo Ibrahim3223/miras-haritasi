@@ -5,10 +5,10 @@ slug: "pir-aziz-camii"
 description: "## Pir Aziz Camii: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Piraziz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.1232338,40.9216957"
 draft: "false"
 weight: "999"

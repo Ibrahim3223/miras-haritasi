@@ -5,10 +5,10 @@ slug: "turk-ve-islam-eserleri-muzesi-edirne"
 description: "### Türk ve İslam Eserleri Müzesi, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5601349,41.6779747"
 draft: "false"
 weight: "999"

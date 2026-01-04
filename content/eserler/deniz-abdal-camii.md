@@ -5,10 +5,10 @@ slug: "deniz-abdal-camii"
 description: "## Deniz Abdal Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.932987,41.015253"
 draft: "false"
 weight: "999"

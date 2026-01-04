@@ -5,10 +5,10 @@ slug: "profesor-doktor-metin-aktas-zooloji-muzesi"
 description: "## Profesör Doktor Metin Aktaş Zooloji Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

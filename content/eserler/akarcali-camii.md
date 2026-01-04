@@ -5,10 +5,10 @@ slug: "akarcali-camii"
 description: "# Akarcalı Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1268864,38.4116516"
 draft: "false"
 weight: "999"

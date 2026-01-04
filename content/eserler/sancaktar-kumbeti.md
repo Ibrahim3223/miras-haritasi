@@ -5,10 +5,10 @@ slug: "sancaktar-kumbeti"
 description: "## Sancaktar Kümbeti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Pınarbaşı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.2186508,38.7271385"
 draft: "false"
 weight: "999"

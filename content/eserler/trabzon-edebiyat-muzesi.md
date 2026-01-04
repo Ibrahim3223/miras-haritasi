@@ -5,10 +5,10 @@ slug: "trabzon-edebiyat-muzesi"
 description: "## Trabzon Edebiyat Müzesi: Tarih, Edebiyat ve Kültür..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.718802,41.004588"
 draft: "false"
 weight: "999"

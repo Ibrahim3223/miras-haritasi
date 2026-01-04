@@ -5,10 +5,10 @@ slug: "yukaripalamut-tumulusu"
 description: "## Yukarıpalamut Tümülüsü: Çanakkale'nin Gizli Şehri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.533889965,39.904104865"
 draft: "false"
 weight: "999"

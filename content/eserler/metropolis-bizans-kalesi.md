@@ -5,10 +5,10 @@ slug: "metropolis-bizans-kalesi"
 description: "## Metropolis Bizans Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3234272,38.1255417"
 draft: "false"
 weight: "999"

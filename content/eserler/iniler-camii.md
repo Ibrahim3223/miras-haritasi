@@ -5,10 +5,10 @@ slug: "iniler-camii"
 description: "### İniler Camii Tanıtımı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.48968786,38.360053424"
 draft: "false"
 weight: "999"

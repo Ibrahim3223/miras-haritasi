@@ -5,10 +5,10 @@ slug: "inay-koprusu"
 description: "## İnay Köprüsü: Uşak'ın Tarihi Ölümsüzlüğü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.2169819,38.4295731"
 draft: "false"
 weight: "999"

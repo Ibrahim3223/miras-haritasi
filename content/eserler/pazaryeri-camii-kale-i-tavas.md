@@ -5,10 +5,10 @@ slug: "pazaryeri-camii-kale-i-tavas"
 description: "## Pazaryeri Camii – Kale-i Tavas..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8455639,37.4324265"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "behram-cavus-camii"
 description: "## Behram Çavuş Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.966814,41.004317"
 draft: "false"
 weight: "999"

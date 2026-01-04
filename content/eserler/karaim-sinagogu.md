@@ -5,10 +5,10 @@ slug: "karaim-sinagogu"
 description: "## Karaim Sinagogu: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Karaite_Synagogue.jpg/1200px-Karaite_Synagogue.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.952666666,41.04"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yona-hoyuk"
 description: "## Yona Höyük: Anadolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.587997,36.7919429"
 draft: "false"
 weight: "999"

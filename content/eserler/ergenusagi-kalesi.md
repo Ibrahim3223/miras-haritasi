@@ -5,10 +5,10 @@ slug: "ergenusagi-kalesi"
 description: "# Ergenuşağı Kalesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.6061211,37.6370506"
 draft: "false"
 weight: "999"

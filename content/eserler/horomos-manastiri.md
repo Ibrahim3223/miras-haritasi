@@ -5,10 +5,10 @@ slug: "horomos-manastiri"
 description: "## Horomos Manastırı: Kars'ın Gizli Çağına Yolculuk..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/The_Monastery_of_Horomos.jpg/1200px-The_Monastery_of_Horomos.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.629158,40.519689"
 draft: "false"
 weight: "10"

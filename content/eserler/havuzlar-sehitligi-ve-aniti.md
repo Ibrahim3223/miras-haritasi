@@ -5,10 +5,10 @@ slug: "havuzlar-sehitligi-ve-aniti"
 description: "## Havuzlar Şehitliği ve Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3557911,40.1322403"
 draft: "false"
 weight: "999"

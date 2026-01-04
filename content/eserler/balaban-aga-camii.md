@@ -5,10 +5,10 @@ slug: "balaban-aga-camii"
 description: "## Balaban Ağa Camii: Fatih'te Bir Önemli Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Mpalampan_Aga.jpg/1200px-Mpalampan_Aga.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9583,41.011"
 draft: "false"
 weight: "10"

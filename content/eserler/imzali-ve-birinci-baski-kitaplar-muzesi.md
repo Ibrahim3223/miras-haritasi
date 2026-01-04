@@ -5,10 +5,10 @@ slug: "imzali-ve-birinci-baski-kitaplar-muzesi"
 description: "## İmzalı ve Birinci Baskı Kitaplar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.783181886,40.992329786"
 draft: "false"
 weight: "999"

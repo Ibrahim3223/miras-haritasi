@@ -5,10 +5,10 @@ slug: "gomec-hatun-turbesi"
 description: "### Gömeç Hatun Türbesi: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/GÖMEÇ_HATUN_TÜRBESİ_(KIZKULESİ)_-_panoramio.jpg/1200px-GÖMEÇ_HATUN_TÜRBESİ_(KIZKULESİ)_-_panoramio.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4943708,37.8820297"
 draft: "false"
 weight: "10"

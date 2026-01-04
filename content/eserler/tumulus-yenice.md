@@ -5,10 +5,10 @@ slug: "tumulus-yenice"
 description: "## Tümülüs, Yenice: Çorlu'nun Gizli Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7059708,41.0091133"
 draft: "false"
 weight: "999"

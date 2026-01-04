@@ -5,10 +5,10 @@ slug: "kahvehisar-adasi-manastiri"
 description: "## Kahvehisar Adası Manastırı: Milas'ın Gizli Çiçeği..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.4850883,37.4789391"
 draft: "false"
 weight: "999"

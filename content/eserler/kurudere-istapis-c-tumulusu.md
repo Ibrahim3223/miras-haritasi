@@ -5,10 +5,10 @@ slug: "kurudere-istapis-c-tumulusu"
 description: "### Kurudere İstapiş C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5824165,41.7711372"
 draft: "false"
 weight: "999"

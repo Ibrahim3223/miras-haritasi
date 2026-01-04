@@ -5,10 +5,10 @@ slug: "has-yunus-pasa-turbesi"
 description: "## Has Yunus Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9661334,41.0149266"
 draft: "false"
 weight: "999"

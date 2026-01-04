@@ -5,10 +5,10 @@ slug: "perikle-heroonu"
 description: "# Perikle Heroonu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1728191,36.3462486"
 draft: "false"
 weight: "999"

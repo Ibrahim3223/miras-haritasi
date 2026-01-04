@@ -5,10 +5,10 @@ slug: "aya-ilya-kilisesi"
 description: "### Aya İlya Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1838703,41.7502937"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pertev-pasa-hamami"
 description: "### Pertev Paşa Hamamı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9307079,40.7636147"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "guzeyloglu-camii"
 description: "**Güzeyloğlu Camii: Tarsus'un Gizli Çeşmesi**..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.9011612,36.9196777"
 draft: "false"
 weight: "999"

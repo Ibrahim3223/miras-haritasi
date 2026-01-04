@@ -5,10 +5,10 @@ slug: "surp-istepannos-kilisesi"
 description: "### Surp Istepannos Kilisesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.3257942,38.8204384"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ramazan-dede-turbesi"
 description: "## Ramazan Dede Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Gerede"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.194,40.8063"
 draft: "false"
 weight: "999"

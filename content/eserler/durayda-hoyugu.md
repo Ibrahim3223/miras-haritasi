@@ -5,10 +5,10 @@ slug: "durayda-hoyugu"
 description: "# Durayda Höyüğü: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Güneysınır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.755555,37.1551327"
 draft: "false"
 weight: "999"

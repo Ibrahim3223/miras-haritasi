@@ -5,10 +5,10 @@ slug: "cyaneae-theatre"
 description: "### Cyaneae Theatre..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.815094373,36.246021075"
 draft: "false"
 weight: "999"

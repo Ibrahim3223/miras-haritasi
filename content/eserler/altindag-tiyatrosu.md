@@ -5,10 +5,10 @@ slug: "altindag-tiyatrosu"
 description: "# Altındağ Tiyatrosu: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "32.87313,39.95252"
 draft: "false"
 weight: "999"

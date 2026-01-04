@@ -5,10 +5,10 @@ slug: "hasankeyf-hoyuk"
 description: "## Hasankeyf Höyük: Bir Tarih Öreni..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.4292412,37.7186699"
 draft: "false"
 weight: "999"

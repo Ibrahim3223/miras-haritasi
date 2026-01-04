@@ -5,10 +5,10 @@ slug: "ahlat-ulu-camii"
 description: "### Ahlat Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.460333333,38.744472222"
 draft: "false"
 weight: "999"

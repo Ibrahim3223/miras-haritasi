@@ -5,10 +5,10 @@ slug: "rustem-bey-kumbeti"
 description: "## Rüstem Bey Kümbeti: Seydişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.846410289,37.416965358"
 draft: "false"
 weight: "999"

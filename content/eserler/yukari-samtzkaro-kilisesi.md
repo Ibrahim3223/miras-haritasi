@@ -5,10 +5,10 @@ slug: "yukari-samtzkaro-kilisesi"
 description: "## Yukarı Samtzkaro Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Yukarıırmaklar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.184944444,41.200666666"
 draft: "false"
 weight: "999"

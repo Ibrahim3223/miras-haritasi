@@ -5,10 +5,10 @@ slug: "turk-hava-kurumu-muzesi"
 description: "## Türk Hava Kurumu Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/TürkHavaKurumuMüzesiGiriş.jpg/1200px-TürkHavaKurumuMüzesiGiriş.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Etimesgut"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.70523,39.94763"
 draft: "false"
 weight: "10"

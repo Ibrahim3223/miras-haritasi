@@ -5,10 +5,10 @@ slug: "kopru-2-yava"
 description: "### Köprü 2, Yava..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1407127,37.4546661"
 draft: "false"
 weight: "999"

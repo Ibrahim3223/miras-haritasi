@@ -5,10 +5,10 @@ slug: "alacati-sehitlik-aniti"
 description: "## Alaçatı Şehitlik Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.377533,38.2793808"
 draft: "false"
 weight: "999"

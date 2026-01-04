@@ -5,10 +5,10 @@ slug: "boubon-antik-tiyatrosu"
 description: "## Boubon Antik Tiyatrosu: Gölhisar'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.407325,36.968363"
 draft: "false"
 weight: "999"

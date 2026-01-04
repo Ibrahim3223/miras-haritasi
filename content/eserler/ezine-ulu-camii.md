@@ -5,10 +5,10 @@ slug: "ezine-ulu-camii"
 description: "## Ezine Ulu Camii: Tarihî Bir Çanakkale Eseri..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3374691,39.7843513"
 draft: "false"
 weight: "999"

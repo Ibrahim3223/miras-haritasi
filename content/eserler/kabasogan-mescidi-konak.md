@@ -5,10 +5,10 @@ slug: "kabasogan-mescidi-konak"
 description: "## Kabasoğan Mescidi: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1404629,38.4216728"
 draft: "false"
 weight: "999"

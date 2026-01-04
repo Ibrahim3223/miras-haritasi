@@ -5,10 +5,10 @@ slug: "kanli-sirt-aniti"
 description: "## Kanlı Sırt Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2911816,40.229187"
 draft: "false"
 weight: "999"

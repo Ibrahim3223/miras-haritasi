@@ -5,10 +5,10 @@ slug: "gumuslu-kumbet"
 description: "### Gümüşlü Kümbet: Yakutiye'nin Gizli Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2937164,39.9059525"
 draft: "false"
 weight: "999"

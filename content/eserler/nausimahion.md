@@ -5,10 +5,10 @@ slug: "nausimahion"
 description: "## Nausimahion: Üsküdar'ın Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.053607,41.059363"
 draft: "false"
 weight: "999"

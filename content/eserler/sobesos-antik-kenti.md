@@ -5,10 +5,10 @@ slug: "sobesos-antik-kenti"
 description: "# Sobesos Antik Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Capadoccia_Jul_2023_23_00_16_105000.jpeg/1200px-Capadoccia_Jul_2023_23_00_16_105000.jpeg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9661,38.4641"
 draft: "false"
 weight: "10"

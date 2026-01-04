@@ -5,10 +5,10 @@ slug: "kaya-mezari-2-guvercinlik-koyu-havza"
 description: "## Kaya Mezarı 2 (Güvercinlik Köyü) Havza: Samsun'un Gizli Hazinesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.825768,41.037881"
 draft: "false"
 weight: "999"

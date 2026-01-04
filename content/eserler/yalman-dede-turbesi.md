@@ -5,10 +5,10 @@ slug: "yalman-dede-turbesi"
 description: "## Yalman Dede Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.057457,36.3528328"
 draft: "false"
 weight: "999"

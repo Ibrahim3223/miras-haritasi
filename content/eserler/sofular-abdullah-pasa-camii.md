@@ -5,10 +5,10 @@ slug: "sofular-abdullah-pasa-camii"
 description: "## Sofular Abdullah Paşa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8370667,40.651947"
 draft: "false"
 weight: "999"

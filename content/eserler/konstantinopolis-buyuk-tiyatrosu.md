@@ -5,10 +5,10 @@ slug: "konstantinopolis-buyuk-tiyatrosu"
 description: "## Konstantinopolis Büyük Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9852428,41.0120583"
 draft: "false"
 weight: "999"

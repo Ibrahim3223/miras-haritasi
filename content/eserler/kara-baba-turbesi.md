@@ -5,10 +5,10 @@ slug: "kara-baba-turbesi"
 description: "### Kara Baba Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3874,37.058"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamidiye-1"
 description: "## Hamidiye 1: Eskişehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.918333,39.5702"
 draft: "false"
 weight: "999"

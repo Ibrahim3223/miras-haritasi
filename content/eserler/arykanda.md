@@ -5,10 +5,10 @@ slug: "arykanda"
 description: "## Arykanda: Antalya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Arykanda_Thermen.jpg/1200px-Arykanda_Thermen.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.06,36.51388889"
 draft: "false"
 weight: "10"

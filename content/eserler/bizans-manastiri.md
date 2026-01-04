@@ -5,10 +5,10 @@ slug: "bizans-manastiri"
 description: "# Bizans Manastırı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.3665485,37.9525833"
 draft: "false"
 weight: "999"

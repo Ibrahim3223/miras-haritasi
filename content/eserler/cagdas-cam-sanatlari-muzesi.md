@@ -5,10 +5,10 @@ slug: "cagdas-cam-sanatlari-muzesi"
 description: "### Çağdaş Cam Sanatları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Camsanatlarimuzesi.jpg/1200px-Camsanatlarimuzesi.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52194444,39.765"
 draft: "false"
 weight: "10"

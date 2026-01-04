@@ -5,10 +5,10 @@ slug: "konak-camii-ortahisar"
 description: "## Konak Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.725406,41.005524"
 draft: "false"
 weight: "999"

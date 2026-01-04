@@ -5,10 +5,10 @@ slug: "suhut-sehitligi"
 description: "## Şuhut Şehitliği: Afyonkarahisar'ın Gülümsayan Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.548638888,38.53525"
 draft: "false"
 weight: "999"

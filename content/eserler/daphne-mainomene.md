@@ -5,10 +5,10 @@ slug: "daphne-mainomene"
 description: "## Daphne Mainomene: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.078667,41.153315"
 draft: "false"
 weight: "999"

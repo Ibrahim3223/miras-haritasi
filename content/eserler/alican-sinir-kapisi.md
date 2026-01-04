@@ -5,10 +5,10 @@ slug: "alican-sinir-kapisi"
 description: "### Alican Sınır Kapısı: Karakoyunlu'nun Gizli Mirası..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Karakoyunlu"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.17893,40.02822"
 draft: "false"
 weight: "999"

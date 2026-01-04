@@ -5,10 +5,10 @@ slug: "carsi-camii-aliaga"
 description: "# Çarşı Camii, Aliağa: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9733887,38.8007698"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hatice-sultan-camii"
 description: "## Hatice Sultan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Hatice_Sultan_Mosque_20220601_155725.jpg/1200px-Hatice_Sultan_Mosque_20220601_155725.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.946949317,41.076823947"
 draft: "false"
 weight: "10"

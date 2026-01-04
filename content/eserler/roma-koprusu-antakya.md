@@ -5,10 +5,10 @@ slug: "roma-koprusu-antakya"
 description: "## Roma Köprüsü, Antakya..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.1608925,36.2023659"
 draft: "false"
 weight: "999"

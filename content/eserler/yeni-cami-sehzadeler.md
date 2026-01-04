@@ -5,10 +5,10 @@ slug: "yeni-cami-sehzadeler"
 description: "## Yeni Cami (Şehzadeler): Manisa'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.425148,38.6163673"
 draft: "false"
 weight: "999"

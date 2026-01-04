@@ -5,10 +5,10 @@ slug: "bolaman-kalesi-kilisesi"
 description: "### Bolaman Kalesi Kilisesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Fatsa"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.5916519,41.0367355"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-kemal-dede-turbesi"
 description: "## Hacı Kemal Dede Türbesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4058418,38.6805077"
 draft: "false"
 weight: "999"

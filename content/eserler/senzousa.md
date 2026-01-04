@@ -5,10 +5,10 @@ slug: "senzousa"
 description: "## Senzousa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.969866,38.4442405"
 draft: "false"
 weight: "999"

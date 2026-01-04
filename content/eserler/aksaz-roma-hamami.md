@@ -5,10 +5,10 @@ slug: "aksaz-roma-hamami"
 description: "## Aksaz Roma Hamamı: Birinci Yüzyıldan Kalma Önemli Bir Miras..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1608067,38.2817497"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pir-emir-turbesi"
 description: "## Pir Emir Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/PİREMİR_TÜRBESİ_-_panoramio_(2).jpg/1200px-PİREMİR_TÜRBESİ_-_panoramio_(2).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.085522,40.175761"
 draft: "false"
 weight: "10"

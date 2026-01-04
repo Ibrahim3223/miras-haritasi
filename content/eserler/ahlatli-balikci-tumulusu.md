@@ -5,10 +5,10 @@ slug: "ahlatli-balikci-tumulusu"
 description: "## Ahlatlı Balıkçı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2391949,42.1047554"
 draft: "false"
 weight: "999"

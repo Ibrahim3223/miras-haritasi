@@ -5,10 +5,10 @@ slug: "heybeliada-ayios-nikolaos-rum-ortodoks-kilisesi"
 description: "## Heybeliada Ayios Nikolaos Rum Ortodoks Kilisesi: Bir Özentili Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Saint_Nicholas_Church,_Heybeliada.jpg/1200px-Saint_Nicholas_Church,_Heybeliada.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.099722222,40.877222222"
 draft: "false"
 weight: "10"

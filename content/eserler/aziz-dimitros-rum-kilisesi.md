@@ -5,10 +5,10 @@ slug: "aziz-dimitros-rum-kilisesi"
 description: "## Aziz Dimitros Rum Kilisesi: Gülşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.61553812,38.747929248"
 draft: "false"
 weight: "999"

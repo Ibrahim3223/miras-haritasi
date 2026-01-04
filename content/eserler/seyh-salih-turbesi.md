@@ -5,10 +5,10 @@ slug: "seyh-salih-turbesi"
 description: "## Şeyh Salih Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.743689,37.310246"
 draft: "false"
 weight: "999"

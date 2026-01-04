@@ -5,10 +5,10 @@ slug: "buyukdere-camii"
 description: "### İstanbul'un Gizli Cenneti: Büyükdere Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.043028,41.160428"
 draft: "false"
 weight: "999"

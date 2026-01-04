@@ -5,10 +5,10 @@ slug: "karasu-rolyefi"
 description: "## Karasu Rölyefi: Araban'ın Tarihi Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Karasu2.jpeg/1200px-Karasu2.jpeg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.90847222,37.43083333"
 draft: "false"
 weight: "10"

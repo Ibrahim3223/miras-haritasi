@@ -5,10 +5,10 @@ slug: "ubeydullah-ve-abdullah-kasgari-turbesi"
 description: "## Ubeydullah ve Abdullah Kaşgari Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9322071,41.052021"
 draft: "false"
 weight: "999"

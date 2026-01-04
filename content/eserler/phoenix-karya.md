@@ -5,10 +5,10 @@ slug: "phoenix-karya"
 description: "## Phoenix (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: "Marmaris (ilçe)"
-iller: '["Marmaris (ilçe)"]'
+iller: ["Marmaris (ilçe)"]
 district: "Taşlıca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.092,36.6163"
 draft: "false"
 weight: "999"

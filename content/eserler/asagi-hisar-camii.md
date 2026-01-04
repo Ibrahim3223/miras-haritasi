@@ -5,10 +5,10 @@ slug: "asagi-hisar-camii"
 description: "## Aşağı Hisar Camii: Kütahya'nın Büyüleyici Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/50/A%C5%9Fa%C4%9F%C4%B1_hisar_camii_%282%29.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9706154,39.4218025"
 draft: "false"
 weight: "999"

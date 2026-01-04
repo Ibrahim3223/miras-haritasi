@@ -5,10 +5,10 @@ slug: "tek-kabir-kaptanpasa"
 description: "### Tek Kabir, Kaptanpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9657288,41.0453873"
 draft: "false"
 weight: "999"

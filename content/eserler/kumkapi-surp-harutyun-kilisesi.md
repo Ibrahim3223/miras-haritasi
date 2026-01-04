@@ -5,10 +5,10 @@ slug: "kumkapi-surp-harutyun-kilisesi"
 description: "### Kumkapı Surp Harutyun Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Surp-Harutjun-Kirche.jpg/1200px-Surp-Harutjun-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.966055555,41.003666666"
 draft: "false"
 weight: "10"

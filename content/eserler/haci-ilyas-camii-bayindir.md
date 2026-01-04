@@ -5,10 +5,10 @@ slug: "haci-ilyas-camii-bayindir"
 description: "### Hacı İlyas Camii, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6490993,38.2238007"
 draft: "false"
 weight: "999"

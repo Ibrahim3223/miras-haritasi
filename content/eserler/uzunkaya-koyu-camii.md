@@ -5,10 +5,10 @@ slug: "uzunkaya-koyu-camii"
 description: "## Uzunkaya Köyü Camii: Rize'nin Değerli Tarihi Eserleri Arasındaki Bir Diye..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Derepazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.45049006,41.025122575"
 draft: "false"
 weight: "999"

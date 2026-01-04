@@ -5,10 +5,10 @@ slug: "oinoanda"
 description: "## Oinoanda: Türkiye'nin Eski Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Oinoanda_3.JPG/1200px-Oinoanda_3.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.550004,36.809628"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "alasehir-orenyeri"
 description: "## Alaşehir Örenyeri: Manisa'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

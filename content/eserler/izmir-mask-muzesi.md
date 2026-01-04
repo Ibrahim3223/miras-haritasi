@@ -5,10 +5,10 @@ slug: "izmir-mask-muzesi"
 description: "## İzmir Mask Müzesi: Türkiye'nin En Büyüleyici Antik Eserleri среди..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/İzmir_Mask_Müzesi_-_Necdet_Alpar_Evi.jpg/1200px-İzmir_Mask_Müzesi_-_Necdet_Alpar_Evi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.142111111,38.43575"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-67"
 description: "## Bin Tepeler Tümülüsü 67: Manisa'nın Gizli Göllerinin Efsanesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9455395,38.5566254"
 draft: "false"
 weight: "999"

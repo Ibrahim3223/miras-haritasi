@@ -5,10 +5,10 @@ slug: "toktamis-camii"
 description: "## Toktamış Camii: Adıyaman'ın Önemli Camii..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.8663979,37.678215"
 draft: "false"
 weight: "999"

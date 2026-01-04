@@ -5,10 +5,10 @@ slug: "seyh-kemikli-turbesi"
 description: "## Şeyh Kemikli Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.2747288,40.8597374"
 draft: "false"
 weight: "999"

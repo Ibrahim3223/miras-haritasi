@@ -5,10 +5,10 @@ slug: "yunus-bey-turbesi-enez"
 description: "### Yunus Bey Türbesi: Enez'in Tarihî Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.0808,40.719851"
 draft: "false"
 weight: "999"

@@ -1,0 +1,369 @@
+[
+  {
+    "file": "15-temmuz-sehitler-aniti.md",
+    "title": "15 Temmuz Şehitler Anıtı",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/15_Temmuz_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg/250px-15_Temmuz_%C5%9Eehitler_An%C4%B1t%C4%B1.jpg",
+      "source_url": "https://commons.wikimedia.org/wiki/Category:15_July_Martyrs%27_Monument",
+      "title": "Category:15 July Martyrs' Monument - Wikimedia Commons",
+      "snippet": "Category:15 July Martyrs' Monument - Wikimedia Commons",
+      "confidence": 55,
+      "reasons": [
+        "Trusted source: upload.wikimedia.org",
+        "Poor match (0/4 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "15 Temmuz Şehitler Anıtı",
+      "domain": "upload.wikimedia.org"
+    }
+  },
+  {
+    "file": "15-temmuz-sehitler-koprusu-adana.md",
+    "title": "15 Temmuz Şehitler Köprüsü (Adana)",
+    "province": "",
+    "type": "Köprü",
+    "result": {
+      "url": "https://i.ytimg.com/vi/UtWgJu2uqgQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC094MaKGALQsL39mh-MtkfILd4wQ",
+      "source_url": "https://www.youtube.com/watch?v=UtWgJu2uqgQ",
+      "title": "Canlı | CNN Türk ile Adana 15 Temmuz Şehitler Köprüsü'ndeyiz ...",
+      "snippet": "Canlı | CNN Türk ile Adana 15 Temmuz Şehitler Köprüsü'ndeyiz ...",
+      "confidence": 45,
+      "reasons": [
+        "WARNING: Untrusted source: i.ytimg.com",
+        "Good match (3/6 terms)",
+        "Turkish context confirmed"
+      ],
+      "query": "15 Temmuz Şehitler Köprüsü (Adana) Turkey",
+      "domain": "i.ytimg.com"
+    }
+  },
+  {
+    "file": "17-yuzyil-osmanli-evi-muzesi.md",
+    "title": "17. Yüzyıl Osmanlı Evi Müzesi",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://muze.gov.tr/s3/SectionPicture/SP_e4bf390a-54f8-493e-8a58-82d68335edfe.jpg",
+      "source_url": "https://muze.gov.tr/muze-detay?SectionId=BOS01&DistId=MRK",
+      "title": "Osmanlı Evi Müzesi",
+      "snippet": "SP_e4bf390a-54f8-493e-8a58- ...",
+      "confidence": 70,
+      "reasons": [
+        "Trusted source: muze.gov.tr",
+        "Good match (3/6 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "17. Yüzyıl Osmanlı Evi Müzesi Müze",
+      "domain": "muze.gov.tr"
+    }
+  },
+  {
+    "file": "18-mart-hasan-mevsuf-sehitligi-cinarli.md",
+    "title": "18 Mart Hasan Mevsuf Şehitliği, Çınarlı",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://www.canakkalewebhaber.com/sites/default/files/styles/genel_format/public/20210316_125900.jpg?itok=5vPTRP-x",
+      "source_url": "https://www.canakkalewebhaber.com/gundem/hasan-mevsuf-sehitligi-ziyaretcilerini-bekliyor",
+      "title": "HASAN MEVSUF ŞEHİTLİĞİ ZİYARETÇİLERİNİ BEKLİYOR | Çanakkale Web Haber",
+      "snippet": "HASAN MEVSUF ŞEHİTLİĞİ ZİYARETÇİLERİNİ BEKLİYOR | Çanakkale Web Haber",
+      "confidence": 5,
+      "reasons": [
+        "WARNING: Untrusted source: www.canakkalewebhaber.com",
+        "Poor match (2/6 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "18 Mart Hasan Mevsuf Şehitliği, Çınarlı",
+      "domain": "www.canakkalewebhaber.com"
+    }
+  },
+  {
+    "file": "1915-seddulbahir-ahmet-uslu-savas-materyalleri-muzesi.md",
+    "title": "1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://turkiye.influence.cool/img/tr/max/canakkale/eceabat/gezi-rehberi/1915-seddulbahir-ahmet-uslu-muzesi/1915-seddulbahir-ahmet-uslu-muzesi.jpg",
+      "source_url": "https://turkiye.influence.cool/tr/canakkale/eceabat/gezi-rehberi/1915-seddulbahir-ahmet-uslu-muzesi/",
+      "title": "1915 Seddülbahir Ahmet Uslu Müzesi › Gezi Rehberi | Eceabat ...",
+      "snippet": "1915 Seddülbahir Ahmet Uslu Müzesi › Gezi Rehberi | Eceabat ...",
+      "confidence": 20,
+      "reasons": [
+        "WARNING: Untrusted source: turkiye.influence.cool",
+        "Good match (4/7 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "1915 Seddülbahir Ahmet Uslu, Savaş Materyalleri Müzesi",
+      "domain": "turkiye.influence.cool"
+    }
+  },
+  {
+    "file": "2-nolu-aziziye-tabyasi-sehitligi.md",
+    "title": "2 No’lu Aziziye Tabyası Şehitliği",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://kilicbeyturizm.com/wp-content/uploads/2025/02/5-12.png",
+      "source_url": "https://kilicbeyturizm.com/st_tour/dogu-anadolu-hazineleri/",
+      "title": "Doğu Anadolu Hazineleri | Kılıçbey Turizm",
+      "snippet": "Doğu Anadolu Hazineleri | Kılıçbey Turizm",
+      "confidence": 30,
+      "reasons": [
+        "WARNING: Untrusted source: kilicbeyturizm.com",
+        "Poor match (0/6 terms)",
+        "Turkish context confirmed"
+      ],
+      "query": "2 No’lu Aziziye Tabyası Şehitliği Turkey",
+      "domain": "kilicbeyturizm.com"
+    }
+  },
+  {
+    "file": "26-agustos-kapisi.md",
+    "title": "26 Ağustos Kapısı",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://kordelyahaber.com/wp-content/uploads/2025/02/475676386_633624455704281_6428292081308387939_n.jpg",
+      "source_url": "https://kordelyahaber.com/fuarin-26-agustos-kapisinda-guclendirme-calismalari-basliyor/",
+      "title": "Fuar'ın 26 Ağustos Kapısı'nda Güçlendirme Çalışmaları Başlıyor ...",
+      "snippet": "Fuar'ın 26 Ağustos Kapısı'nda Güçlendirme Çalışmaları Başlıyor ...",
+      "confidence": 20,
+      "reasons": [
+        "WARNING: Untrusted source: kordelyahaber.com",
+        "Good match (2/3 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "26 Ağustos Kapısı",
+      "domain": "kordelyahaber.com"
+    }
+  },
+  {
+    "file": "27-mayis-muzesi.md",
+    "title": "27 Mayıs Müzesi",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://media.istockphoto.com/id/1401154200/photo/blue-mosque-in-flag.jpg?s=612x612&w=0&k=20&c=ozluVqf_cUUhhMzQMjkYpC98WDfVV831xHlsLuudD9Q=",
+      "source_url": "https://www.istockphoto.com/photos/turkish-flag-building",
+      "title": "4,100+ Turkish Flag Building Stock Photos, Pictures & Royalty-Free ...",
+      "snippet": "4,100+ Turkish Flag Building Stock Photos, Pictures & Royalty-Free ...",
+      "confidence": 30,
+      "reasons": [
+        "WARNING: Untrusted source: media.istockphoto.com",
+        "Poor match (0/4 terms)",
+        "Turkish context confirmed"
+      ],
+      "query": "27 Mayıs Müzesi Turkey",
+      "domain": "media.istockphoto.com"
+    }
+  },
+  {
+    "file": "3-nolu-aziziye-tabyasi-sehitligi.md",
+    "title": "3 No’lu Aziziye Tabyası Şehitliği",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://kilicbeyturizm.com/wp-content/uploads/2025/02/5-12.png",
+      "source_url": "https://kilicbeyturizm.com/st_tour/dogu-anadolu-hazineleri/",
+      "title": "Doğu Anadolu Hazineleri | Kılıçbey Turizm",
+      "snippet": "Doğu Anadolu Hazineleri | Kılıçbey Turizm",
+      "confidence": 30,
+      "reasons": [
+        "WARNING: Untrusted source: kilicbeyturizm.com",
+        "Poor match (0/6 terms)",
+        "Turkish context confirmed"
+      ],
+      "query": "3 No’lu Aziziye Tabyası Şehitliği Anıt",
+      "domain": "kilicbeyturizm.com"
+    }
+  },
+  {
+    "file": "4-tabur-toren-alani-mezarligi.md",
+    "title": "4. Tabur Tören Alanı Mezarlığı",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://d38vousazc6cao.cloudfront.net/Images/Shop/9/Product/17710/400/991b35a7c9e94a2bab09030834339882.jpg",
+      "source_url": "https://www.pingudumuzayede.com/en/live-auction/17710/online-live-auction-of-rare-book-photograph-ephemera-medal-object-map-and-p",
+      "title": "Online Live Auction of RARE BOOK, PHOTOGRAPH, EPHEMERA, MEDAL ...",
+      "snippet": "Online Live Auction of RARE BOOK, PHOTOGRAPH, EPHEMERA, MEDAL ...",
+      "confidence": 5,
+      "reasons": [
+        "WARNING: Untrusted source: d38vousazc6cao.cloudfront.net",
+        "Poor match (0/5 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "4. Tabur Tören Alanı Mezarlığı",
+      "domain": "d38vousazc6cao.cloudfront.net"
+    }
+  },
+  {
+    "file": "72-numarali-hudut-tasi-tumulusu.md",
+    "title": "72 Numaralı Hudut Taşı Tümülüsü",
+    "province": "",
+    "type": "Arkeolojik Sit",
+    "result": {
+      "url": "https://kirklarelienvanteri.gov.tr/photos/059.JPG",
+      "source_url": "https://kirklarelienvanteri.gov.tr/72-numarali-hudut-tasi-tumulusu-41",
+      "title": "72 Numaralı Hudut Taşı Tümülüsü - Kırklareli Kültür Varlıkları ...",
+      "snippet": "72 Numaralı Hudut Taşı Tümülüsü - Kırklareli Kültür Varlıkları ...",
+      "confidence": 80,
+      "reasons": [
+        "Trusted source: kirklarelienvanteri.gov.tr",
+        "Excellent match (4/5 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "72 Numaralı Hudut Taşı Tümülüsü",
+      "domain": "kirklarelienvanteri.gov.tr"
+    }
+  },
+  {
+    "file": "75-yil-cumhuriyet-egitim-muzesi.md",
+    "title": "75. Yıl Cumhuriyet Eğitim Müzesi",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://www.kulturportali.gov.tr/repoKulturPortali/small/SehirRehberi//GezilecekYer/20200323115248144_75%20yil%20cumhuriyet%20egitim%20muzesi.jpg?format=jpg&quality=50",
+      "source_url": "https://www.kulturportali.gov.tr/turkiye/ankara/gezilecekyer/75-yil-cumhuryet-egtm-muzes",
+      "title": "75'İNCİ YIL CUMHURİYET EĞİTİM MÜZESİ | Kültür Portalı",
+      "snippet": "75'İNCİ YIL CUMHURİYET EĞİTİM MÜZESİ | Kültür Portalı",
+      "confidence": 55,
+      "reasons": [
+        "Trusted source: www.kulturportali.gov.tr",
+        "Poor match (2/6 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "75. Yıl Cumhuriyet Eğitim Müzesi Müze",
+      "domain": "www.kulturportali.gov.tr"
+    }
+  },
+  {
+    "file": "75-yil-cumhuriyet-muzesi-kastamonu.md",
+    "title": "75. Yıl Cumhuriyet Müzesi, Kastamonu",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://www.kastamonumvtkulturmerkezi.gov.tr/Icerik/Large/www.kastamonumvtkulturmerkezi.gov.tr_5_LY7S28BVHEFJ.jpg",
+      "source_url": "https://www.kastamonumvtkulturmerkezi.gov.tr/kompleks.asp?muze=5-75yil-cumhuriyet-muzesi-silah-muzesi",
+      "title": "75.Yıl Cumhuriyet Müzesi , Silah Müzesi",
+      "snippet": "75.Yıl Cumhuriyet Müzesi , Silah Müzesi",
+      "confidence": 55,
+      "reasons": [
+        "Trusted source: www.kastamonumvtkulturmerkezi.gov.tr",
+        "Poor match (1/5 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "75. Yıl Cumhuriyet Müzesi, Kastamonu",
+      "domain": "www.kastamonumvtkulturmerkezi.gov.tr"
+    }
+  },
+  {
+    "file": "75-yil-sahnesi.md",
+    "title": "75. Yıl Sahnesi",
+    "province": "",
+    "type": "Antik Tiyatro",
+    "result": {
+      "url": "https://tiyatronline.com/isDosyalar/2018/12/01/galeri_75-yil-sahne_eVxmsaUEC0.png",
+      "source_url": "https://tiyatronline.com/sahneler/75-yil-sahnesi-8703",
+      "title": "SAHNELER: 75. Yıl Sahnesi",
+      "snippet": "SAHNELER: 75. Yıl Sahnesi",
+      "confidence": 5,
+      "reasons": [
+        "WARNING: Untrusted source: tiyatronline.com",
+        "Poor match (1/3 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "75. Yıl Sahnesi",
+      "domain": "tiyatronline.com"
+    }
+  },
+  {
+    "file": "75yil-cumhuriyet-evi.md",
+    "title": "75.Yıl Cumhuriyet Evi",
+    "province": "",
+    "type": "Müze",
+    "result": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Greco-Turkish_War_of_1919-1922_collage.jpg/500px-Greco-Turkish_War_of_1919-1922_collage.jpg",
+      "source_url": "https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%931922)",
+      "title": "Greco-Turkish War (1919–1922) - Wikipedia",
+      "snippet": "Greco-Turkish War (1919–1922) - Wikipedia",
+      "confidence": 80,
+      "reasons": [
+        "Trusted source: upload.wikimedia.org",
+        "Poor match (0/4 terms)",
+        "Image from trusted context page",
+        "Turkish context confirmed"
+      ],
+      "query": "75.Yıl Cumhuriyet Evi Türkiye",
+      "domain": "upload.wikimedia.org"
+    }
+  },
+  {
+    "file": "9-eylul-sehitligi-bornova.md",
+    "title": "9 Eylül Şehitliği, Bornova",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://www.egeaktuel.com/images/haberler/2025/09/bornova-da-9-eylul-coskusu-ve-huzun-bir-arada-4517.jpg",
+      "source_url": "https://www.egeaktuel.com/bornova-da-9-eylul-coskusu-ve-huzun-bir-arada/46098/",
+      "title": "Bornova'da 9 Eylül coşkusu ve hüzün bir arada - BELEDİYE - Ege Aktüel",
+      "snippet": "Bornova'da 9 Eylül coşkusu ve hüzün bir arada - BELEDİYE - Ege Aktüel",
+      "confidence": 20,
+      "reasons": [
+        "WARNING: Untrusted source: www.egeaktuel.com",
+        "Good match (2/4 terms)",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "9 Eylül Şehitliği, Bornova",
+      "domain": "www.egeaktuel.com"
+    }
+  },
+  {
+    "file": "a-tepe-tumulusu.md",
+    "title": "A Tepe Tümülüsü",
+    "province": "",
+    "type": "Arkeolojik Sit",
+    "result": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Bin_Tepe%2C_large_tumulus.jpg",
+      "source_url": "https://en.wikipedia.org/wiki/Tumulus",
+      "title": "Tumulus - Wikipedia",
+      "snippet": "Tumulus - Wikipedia",
+      "confidence": 55,
+      "reasons": [
+        "Trusted source: upload.wikimedia.org",
+        "Poor match (0/3 terms)",
+        "Image from trusted context page",
+        "CRITICAL: No Turkish context indicators"
+      ],
+      "query": "A Tepe Tümülüsü",
+      "domain": "upload.wikimedia.org"
+    }
+  },
+  {
+    "file": "abaci-dede-turbesi.md",
+    "title": "Abacı Dede Türbesi",
+    "province": "",
+    "type": "Anıt",
+    "result": {
+      "url": "https://s1.wklcdn.com/image_272/8173240/123055605/78781837.400x300.jpg",
+      "source_url": "https://is.wikiloc.com/ganga-slodir/uskudar-baglarbasi-123055603",
+      "title": "Wikiloc | Üsküdar-Bağlarbaşı leið í Üsküdar, İstanbul (Türkiye ...",
+      "snippet": "Wikiloc | Üsküdar-Bağlarbaşı leið í Üsküdar, İstanbul (Türkiye ...",
+      "confidence": 30,
+      "reasons": [
+        "WARNING: Untrusted source: s1.wklcdn.com",
+        "Poor match (0/4 terms)",
+        "Turkish context confirmed"
+      ],
+      "query": "Abacı Dede Türbesi Anıt",
+      "domain": "s1.wklcdn.com"
+    }
+  }
+]

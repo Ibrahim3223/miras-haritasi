@@ -5,10 +5,10 @@ slug: "cardakli-hamami"
 description: "# Çardaklı Hamamı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.239694444,37.912222222"
 draft: "false"
 weight: "999"

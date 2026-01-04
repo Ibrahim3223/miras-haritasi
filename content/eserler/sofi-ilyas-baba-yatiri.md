@@ -5,10 +5,10 @@ slug: "sofi-ilyas-baba-yatiri"
 description: "### Sofi İlyas Baba Yatırı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.55805349,41.68243167"
 draft: "false"
 weight: "999"

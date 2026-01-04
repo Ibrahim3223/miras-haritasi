@@ -5,10 +5,10 @@ slug: "sapaca-camii"
 description: "### Sapaca Camii: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0319637,37.7597015"
 draft: "false"
 weight: "999"

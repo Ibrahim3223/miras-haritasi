@@ -5,10 +5,10 @@ slug: "antiokheia-pisidya"
 description: "## Antiokheia (Pisidya): Bir Arkeolojik Sitin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Antiocheia_in_Psidia.jpg/1200px-Antiocheia_in_Psidia.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.189166666,38.306111111"
 draft: "false"
 weight: "10"

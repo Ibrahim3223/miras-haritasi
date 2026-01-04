@@ -5,10 +5,10 @@ slug: "alpullu-kilisesi-torul"
 description: "# Alpullu Kilisesi Torul: Gümüşhane'nin Gizli Öztürk'ü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.4909782,40.5718117"
 draft: "false"
 weight: "999"

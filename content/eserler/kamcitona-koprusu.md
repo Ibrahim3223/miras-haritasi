@@ -5,10 +5,10 @@ slug: "kamcitona-koprusu"
 description: "## Kamçitona Köprüsü: Ardeşen'in Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1655623,41.1313487"
 draft: "false"
 weight: "999"

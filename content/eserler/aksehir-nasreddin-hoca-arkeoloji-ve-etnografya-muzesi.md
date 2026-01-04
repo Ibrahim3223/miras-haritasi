@@ -5,10 +5,10 @@ slug: "aksehir-nasreddin-hoca-arkeoloji-ve-etnografya-muzesi"
 description: "## Akşehir Nasreddin Hoca Arkeoloji ve Etnografya Müzesi: Kültür Mirasının Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Akşehir_Ethnography_Museum.jpg/1200px-Akşehir_Ethnography_Museum.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.411111111,38.356666666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "augusta"
 description: "## Augusta Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Augusta_Georgia_Broad_Street_Lamar_Building.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Sarıçam"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3355293,37.1108627"
 draft: "false"
 weight: "999"

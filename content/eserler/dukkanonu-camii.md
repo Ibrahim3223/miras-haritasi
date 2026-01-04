@@ -5,10 +5,10 @@ slug: "dukkanonu-camii"
 description: "### Dükkanönü Camii: Aydın'ın Gizli Çarıklarından Bir Zenginlik..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8497944,37.8480263"
 draft: "false"
 weight: "999"

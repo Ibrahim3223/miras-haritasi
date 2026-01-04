@@ -5,10 +5,10 @@ slug: "sardes-hamam-ve-gymnasium-kompleksi"
 description: "## Sardes Hamam ve Gymnasium Kompleksi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.0395985,38.4890289"
 draft: "false"
 weight: "999"

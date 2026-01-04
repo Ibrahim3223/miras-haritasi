@@ -5,10 +5,10 @@ slug: "ahmeded-1-neolitik-yerlesimi"
 description: "**Ahmeded 1 Neolitik Yerleşimi: Bilecik'teki Eski Bir Köy**..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0958195,40.1399918"
 draft: "false"
 weight: "999"

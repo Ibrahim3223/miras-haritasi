@@ -5,10 +5,10 @@ slug: "larisa-karya"
 description: "## Larisa (Karya): Aydın'ın Gizli Çarıltısı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8536,37.9055"
 draft: "false"
 weight: "999"

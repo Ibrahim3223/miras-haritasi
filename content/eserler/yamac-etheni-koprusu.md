@@ -5,10 +5,10 @@ slug: "yamac-etheni-koprusu"
 description: "### Yamaç-Etheni Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.75945,41.064717"
 draft: "false"
 weight: "999"

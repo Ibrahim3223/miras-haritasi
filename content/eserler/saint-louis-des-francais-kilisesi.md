@@ -5,10 +5,10 @@ slug: "saint-louis-des-francais-kilisesi"
 description: "## Saint-Louis-des-Français Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9769,41.0308"
 draft: "false"
 weight: "999"

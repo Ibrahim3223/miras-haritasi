@@ -5,10 +5,10 @@ slug: "buyuk-abdi-aga-camii"
 description: "## Büyük Abdi Ağa Camii: Kars'ta Bir Tarihî Öznellik..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.094162,40.6106453"
 draft: "false"
 weight: "999"

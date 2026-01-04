@@ -5,10 +5,10 @@ slug: "gultepe-hoyugu"
 description: "### Gültepe Höyüğü: Kırıkkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Sulakyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8196491,40.1278493"
 draft: "false"
 weight: "999"

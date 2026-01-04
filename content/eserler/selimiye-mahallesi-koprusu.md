@@ -5,10 +5,10 @@ slug: "selimiye-mahallesi-koprusu"
 description: "## Selimiye Mahallesi Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.87874,40.980778"
 draft: "false"
 weight: "999"

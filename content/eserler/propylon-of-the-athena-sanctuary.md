@@ -5,10 +5,10 @@ slug: "propylon-of-the-athena-sanctuary"
 description: "**Propylon of the Athena Sanctuary**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Priene_Athena-Sanctuary_Propylon_20240927_094335.jpg/1200px-Priene_Athena-Sanctuary_Propylon_20240927_094335.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2970182,37.6592415"
 draft: "false"
 weight: "10"

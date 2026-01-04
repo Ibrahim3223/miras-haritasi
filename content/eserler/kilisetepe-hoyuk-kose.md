@@ -5,10 +5,10 @@ slug: "kilisetepe-hoyuk-kose"
 description: "# Kilisetepe Höyük, Köse: Geçmişin İzleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Köse"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.8105,40.245384"
 draft: "false"
 weight: "999"

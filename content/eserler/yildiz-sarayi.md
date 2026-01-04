@@ -5,10 +5,10 @@ slug: "yildiz-sarayi"
 description: "## Yıldız Sarayı: Osmanlı İmparatorluğu'nun Son Yüzyılını Temsil Eden Bir Saray..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/İstanbul_5716.jpg/1200px-İstanbul_5716.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.0111,41.0494"
 draft: "false"
 weight: "10"

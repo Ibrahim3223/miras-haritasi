@@ -5,10 +5,10 @@ slug: "satilmis-camii"
 description: "## Satılmış Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.7765007,38.8222008"
 draft: "false"
 weight: "999"

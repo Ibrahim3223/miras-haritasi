@@ -5,10 +5,10 @@ slug: "koceoglu-hamami"
 description: "**Köçeoğlu Hamamı: Kadıköy'ün Tarihi Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Քյոչեօղլու_բաղնիք_01.jpg/1200px-Քյոչեօղլու_բաղնիք_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.028527777,40.987416666"
 draft: "false"
 weight: "10"

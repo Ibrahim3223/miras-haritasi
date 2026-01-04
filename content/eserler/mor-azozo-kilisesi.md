@@ -5,10 +5,10 @@ slug: "mor-azozo-kilisesi"
 description: "### Mor Azazo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.5280266,37.4436989"
 draft: "false"
 weight: "999"

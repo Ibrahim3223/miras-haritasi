@@ -5,10 +5,10 @@ slug: "pergamon-roma-hamami-kalintisi"
 description: "### Pergamon Roma Hamamı Kalıntısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1863232,39.1214676"
 draft: "false"
 weight: "999"

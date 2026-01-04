@@ -5,10 +5,10 @@ slug: "seyh-osman-turbesi"
 description: "## Şeyh Osman Türbesi: Siirt'in Gizli Cenneti..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Baykan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.710833,38.131611"
 draft: "false"
 weight: "999"

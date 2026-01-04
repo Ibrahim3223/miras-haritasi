@@ -5,10 +5,10 @@ slug: "dasmenda"
 description: "## Dasmenda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7258565,38.1026805"
 draft: "false"
 weight: "999"

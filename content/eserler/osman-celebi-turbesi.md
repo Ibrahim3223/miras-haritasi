@@ -5,10 +5,10 @@ slug: "osman-celebi-turbesi"
 description: "## Osman Çelebi Türbesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9552,40.9761"
 draft: "false"
 weight: "999"

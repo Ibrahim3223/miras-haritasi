@@ -5,10 +5,10 @@ slug: "imaret-camii-kocaeli"
 description: "## İmaret Camii: İzmit'te Bir Tarihi Miras..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9217682,40.7636757"
 draft: "false"
 weight: "999"

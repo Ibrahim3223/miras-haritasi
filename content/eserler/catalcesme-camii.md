@@ -5,10 +5,10 @@ slug: "catalcesme-camii"
 description: "### Çatalçeşme Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0865555,37.7714539"
 draft: "false"
 weight: "999"

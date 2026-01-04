@@ -5,10 +5,10 @@ slug: "ustegmen-hasan-tahsin-ve-alay-muftusu-sehitligi"
 description: "## Üsteğmen Hasan Tahsin ve Alay Müftüsü Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.324522,40.2822685"
 draft: "false"
 weight: "999"

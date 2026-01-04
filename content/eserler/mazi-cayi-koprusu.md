@@ -5,10 +5,10 @@ slug: "mazi-cayi-koprusu"
 description: "## Mazı Çayı Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6066933,37.1774864"
 draft: "false"
 weight: "999"

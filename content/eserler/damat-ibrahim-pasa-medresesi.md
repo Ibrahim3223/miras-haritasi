@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-medresesi"
 description: "**Damat İbrahim Paşa Medresesi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.7142677,38.6220894"
 draft: "false"
 weight: "999"

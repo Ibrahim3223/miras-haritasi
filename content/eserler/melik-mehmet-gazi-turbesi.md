@@ -5,10 +5,10 @@ slug: "melik-mehmet-gazi-turbesi"
 description: "## Melik Mehmet Gazi Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4857368,38.7196045"
 draft: "false"
 weight: "999"

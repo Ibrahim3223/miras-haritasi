@@ -5,10 +5,10 @@ slug: "tepebaglari-hoyuk"
 description: "**Tepebağları Höyük: Niğde'nin Gizli Anıtı**..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6345895,37.9591804"
 draft: "false"
 weight: "999"

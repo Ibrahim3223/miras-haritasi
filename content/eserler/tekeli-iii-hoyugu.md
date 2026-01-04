@@ -5,10 +5,10 @@ slug: "tekeli-iii-hoyugu"
 description: "### Tekeli III Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.229355,38.9169977"
 draft: "false"
 weight: "999"

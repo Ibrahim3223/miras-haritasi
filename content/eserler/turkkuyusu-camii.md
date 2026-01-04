@@ -5,10 +5,10 @@ slug: "turkkuyusu-camii"
 description: "## Türkkuyusu Camii: Bodrum'un Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4306355,37.0386505"
 draft: "false"
 weight: "999"

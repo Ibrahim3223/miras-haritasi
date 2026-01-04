@@ -5,10 +5,10 @@ slug: "asagikoclu-camii"
 description: "## Aşağıkoçlu Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5051003,41.5649986"
 draft: "false"
 weight: "999"

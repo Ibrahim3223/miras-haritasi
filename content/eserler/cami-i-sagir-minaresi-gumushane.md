@@ -5,10 +5,10 @@ slug: "cami-i-sagir-minaresi-gumushane"
 description: "## Cami-i Sağir Minaresi, Gümüşhane..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4569588,40.45158"
 draft: "false"
 weight: "999"

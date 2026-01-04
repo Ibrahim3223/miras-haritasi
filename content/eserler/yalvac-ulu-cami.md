@@ -5,10 +5,10 @@ slug: "yalvac-ulu-cami"
 description: "### Yalvaç Ulu Cami..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.1799221,38.2956123"
 draft: "false"
 weight: "999"

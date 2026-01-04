@@ -5,10 +5,10 @@ slug: "zeytinlik-koyu-asagi-turbe"
 description: "## Zeytinlik Köyü Aşağı Türbe: Artvin'in Gizli Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.85411,41.118799"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdulmecit-turbesi"
 description: "## Abdülmecit Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abdülmecit_Türbesi.jpg/1200px-Abdülmecit_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.95196,41.026551"
 draft: "false"
 weight: "10"

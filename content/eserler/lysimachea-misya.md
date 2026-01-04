@@ -5,10 +5,10 @@ slug: "lysimachea-misya"
 description: "### Lysimachea (Misya): Tarihe ve Kültüre Öncülük Eden Arkeolojik Sit..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.833681,38.997165"
 draft: "false"
 weight: "999"

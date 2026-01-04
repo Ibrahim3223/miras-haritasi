@@ -5,10 +5,10 @@ slug: "kalamos"
 description: "## Kalamos: Bir Kıbrıs Adası'nda Bulunan Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.033624,41.056678"
 draft: "false"
 weight: "999"

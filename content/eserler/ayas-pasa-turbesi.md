@@ -5,10 +5,10 @@ slug: "ayas-pasa-turbesi"
 description: "## Ayas Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ayas_Mehmed_Paşa_Mezar_Taşı.jpg/1200px-Ayas_Mehmed_Paşa_Mezar_Taşı.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

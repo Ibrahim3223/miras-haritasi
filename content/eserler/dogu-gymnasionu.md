@@ -5,10 +5,10 @@ slug: "dogu-gymnasionu"
 description: "# Doğu Gymnasionu: İzmir'in Tarihi Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.350116023,37.93553347"
 draft: "false"
 weight: "999"

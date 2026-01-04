@@ -5,10 +5,10 @@ slug: "issiz-cuma-camii"
 description: "## Issız Cuma Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2913361,39.9430618"
 draft: "false"
 weight: "999"

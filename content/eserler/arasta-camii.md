@@ -5,10 +5,10 @@ slug: "arasta-camii"
 description: "## Arasta Camii: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Arasta_Mosque_in_Skopje%2C_%D0%90%D1%80%D0%B0%D1%81%D1%82%D0%B0_%D1%9F%D0%B0%D0%BC%D0%B8%D1%98%D0%B0_1.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5358562,38.7549286"
 draft: "false"
 weight: "999"

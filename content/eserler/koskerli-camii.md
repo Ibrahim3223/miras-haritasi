@@ -5,10 +5,10 @@ slug: "koskerli-camii"
 description: "**Köşkerli Camii**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.489824315,38.358927445"
 draft: "false"
 weight: "999"

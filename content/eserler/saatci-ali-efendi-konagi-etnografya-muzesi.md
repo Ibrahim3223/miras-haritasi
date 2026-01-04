@@ -5,10 +5,10 @@ slug: "saatci-ali-efendi-konagi-etnografya-muzesi"
 description: "### Saatçi Ali Efendi Konağı Etnografya Müzesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.924538,40.768323"
 draft: "false"
 weight: "999"

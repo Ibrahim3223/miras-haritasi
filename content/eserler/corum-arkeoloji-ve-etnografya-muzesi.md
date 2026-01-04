@@ -5,10 +5,10 @@ slug: "corum-arkeoloji-ve-etnografya-muzesi"
 description: "### Çorum Arkeoloji ve Etnografya Müzesi: Türkiye'nin Kültürel Mirasının Başucu Alanlarından biri..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.951126,40.542519"
 draft: "false"
 weight: "999"

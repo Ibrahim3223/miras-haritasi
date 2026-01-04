@@ -5,10 +5,10 @@ slug: "karaagac-koyu-hamami"
 description: "## Karaağaç Köyü Hamamı: Gölpazarı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Gölpazarı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.1536446,40.2316399"
 draft: "false"
 weight: "999"

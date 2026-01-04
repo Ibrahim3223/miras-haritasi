@@ -5,10 +5,10 @@ slug: "sazlidere-koprusu"
 description: "### Sazlıdere Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.671185,41.599343"
 draft: "false"
 weight: "999"

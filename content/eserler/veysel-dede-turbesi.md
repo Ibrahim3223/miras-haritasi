@@ -5,10 +5,10 @@ slug: "veysel-dede-turbesi"
 description: "## Veysel Dede Türbesi: Sakarya'nın Tarihi Çarıklarının Yansıması..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Erenler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5023568,40.765962"
 draft: "false"
 weight: "999"

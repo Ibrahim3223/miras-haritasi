@@ -5,10 +5,10 @@ slug: "kydramos-tumulus-i"
 description: "## Kydramos Tümülüs I: Tavas'ta Gizli Bir Geçmiş..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.125300969,37.346882521"
 draft: "false"
 weight: "999"

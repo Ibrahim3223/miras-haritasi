@@ -5,10 +5,10 @@ slug: "sendere-tektas-koprusu"
 description: "## Şendere-Tektaş Köprüsü: Pazar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.814115111,41.116520388"
 draft: "false"
 weight: "999"

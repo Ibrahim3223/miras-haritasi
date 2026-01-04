@@ -5,10 +5,10 @@ slug: "ihlara"
 description: "## Ihlara: Kutsal Bir Yer, Eski Bir Dünya..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Ihlara_-_25936870521.jpg/1200px-Ihlara_-_25936870521.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.306111111,38.240833333"
 draft: "false"
 weight: "10"

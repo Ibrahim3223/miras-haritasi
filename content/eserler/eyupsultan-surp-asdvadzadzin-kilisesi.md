@@ -5,10 +5,10 @@ slug: "eyupsultan-surp-asdvadzadzin-kilisesi"
 description: "## Eyüpsultan Surp Asdvadzadzin Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.927611111,41.049944444"
 draft: "false"
 weight: "999"

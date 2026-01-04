@@ -5,10 +5,10 @@ slug: "antak-kalesi"
 description: "# Antak Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Lice"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.7333984,38.3571663"
 draft: "false"
 weight: "999"

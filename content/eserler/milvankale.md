@@ -5,10 +5,10 @@ slug: "milvankale"
 description: "## Milvankale: Adana'nın Gizli Tarihi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karaisalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.9765816,37.307457"
 draft: "false"
 weight: "999"

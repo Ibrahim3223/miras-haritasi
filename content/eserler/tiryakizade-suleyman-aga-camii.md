@@ -5,10 +5,10 @@ slug: "tiryakizade-suleyman-aga-camii"
 description: "## Tiryakizade Süleyman Ağa Camii..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5239029,39.7646446"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "goztepe-camii"
 description: "### Göztepe Camii: Kadıköy'ün Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.066194444,40.978888888"
 draft: "false"
 weight: "999"

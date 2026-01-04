@@ -5,10 +5,10 @@ slug: "alibeyhuyugu"
 description: "# Alibeyhüyüğü Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Alibey-H%C3%BCy%C3%BCk_%C4%B0%C3%A7eri%C3%A7umra_15_03_1998_Flugaufnahme.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.6657143,37.5352631"
 draft: "false"
 weight: "999"

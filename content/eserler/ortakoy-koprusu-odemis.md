@@ -5,10 +5,10 @@ slug: "ortakoy-koprusu-odemis"
 description: "## Ortaköy Köprüsü: Ödemiş'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9230003,38.2556"
 draft: "false"
 weight: "999"

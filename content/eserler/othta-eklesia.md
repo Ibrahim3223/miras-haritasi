@@ -5,10 +5,10 @@ slug: "othta-eklesia"
 description: "## Othta Eklesia: Artvin'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Dörtkilise-in2.jpg/1200px-Dörtkilise-in2.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.471111111,40.814166666"
 draft: "false"
 weight: "10"

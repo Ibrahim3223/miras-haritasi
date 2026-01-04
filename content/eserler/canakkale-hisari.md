@@ -5,10 +5,10 @@ slug: "canakkale-hisari"
 description: "## Çanakkale Hisarı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.5293121,40.1187363"
 draft: "false"
 weight: "999"

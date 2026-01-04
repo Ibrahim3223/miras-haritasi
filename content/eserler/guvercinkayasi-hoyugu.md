@@ -5,10 +5,10 @@ slug: "guvercinkayasi-hoyugu"
 description: "## Güvercinkayası Höyüğü: Aksaray'ın Tarihî Bir İznini..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1966209,38.4018211"
 draft: "false"
 weight: "999"

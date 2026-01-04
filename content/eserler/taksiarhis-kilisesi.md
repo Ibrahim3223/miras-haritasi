@@ -5,10 +5,10 @@ slug: "taksiarhis-kilisesi"
 description: "## Taksiarhis Kilisesi: Talas'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.562976,38.684632"
 draft: "false"
 weight: "999"

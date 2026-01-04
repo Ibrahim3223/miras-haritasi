@@ -5,10 +5,10 @@ slug: "cami-tepesi-hoyugu-vezirkopru"
 description: "## Cami Tepesi Höyüğü: Vezirköprü'nün Tarihî Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.492898,41.163423"
 draft: "false"
 weight: "999"

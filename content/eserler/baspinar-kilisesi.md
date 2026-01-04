@@ -5,10 +5,10 @@ slug: "baspinar-kilisesi"
 description: "### Başpınar Kilisesi: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3749008,38.3265495"
 draft: "false"
 weight: "999"

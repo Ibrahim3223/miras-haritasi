@@ -5,10 +5,10 @@ slug: "beyazkoy-camii"
 description: "## Beyazköy Camii: Tekirdağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7050629,41.3488884"
 draft: "false"
 weight: "999"

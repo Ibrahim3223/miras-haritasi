@@ -5,10 +5,10 @@ slug: "dort-tepeler-b-tumulusu"
 description: "## Dört Tepeler B Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7046967,41.4642487"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "avcilar-camii"
 description: "## Avcılar Camii: Artvin'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Avc%C4%B1lar_Sahili..._-_panoramio.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3949,40.6358"
 draft: "false"
 weight: "999"

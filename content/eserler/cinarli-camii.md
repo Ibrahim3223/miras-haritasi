@@ -5,10 +5,10 @@ slug: "cinarli-camii"
 description: "## Çınarlı Camii: İzmir'in Gizli Çehresini Gözler önüne Seren Bir Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0689602,38.6077957"
 draft: "false"
 weight: "999"

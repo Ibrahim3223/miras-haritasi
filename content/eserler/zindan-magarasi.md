@@ -5,10 +5,10 @@ slug: "zindan-magarasi"
 description: "## Zindan Mağarası: Isparta'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.0849883,37.8117655"
 draft: "false"
 weight: "999"

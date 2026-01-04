@@ -5,10 +5,10 @@ slug: "gaziantep-mevlevi-kulturu-ve-vakif-eserleri-muzesi"
 description: "### Gaziantep Mevlevi Kültürü ve Vakıf Eserleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gaziantep_Mevlevi_Museum_1818.jpg/1200px-Gaziantep_Mevlevi_Museum_1818.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Halep Sancağı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.387861111,37.061111111"
 draft: "false"
 weight: "10"

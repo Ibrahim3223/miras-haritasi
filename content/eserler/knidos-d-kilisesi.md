@@ -5,10 +5,10 @@ slug: "knidos-d-kilisesi"
 description: "### Knidos D Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3728218,36.6867867"
 draft: "false"
 weight: "999"

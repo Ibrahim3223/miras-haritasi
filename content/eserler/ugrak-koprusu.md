@@ -5,10 +5,10 @@ slug: "ugrak-koprusu"
 description: "## Uğrak Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9305257,41.0785101"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "keceli-hamami"
 description: "## Keçeli Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0180683,40.2005692"
 draft: "false"
 weight: "999"

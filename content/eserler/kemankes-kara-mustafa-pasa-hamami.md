@@ -5,10 +5,10 @@ slug: "kemankes-kara-mustafa-pasa-hamami"
 description: "### Kemankeş Kara Mustafa Paşa Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.6017456,39.866066"
 draft: "false"
 weight: "999"

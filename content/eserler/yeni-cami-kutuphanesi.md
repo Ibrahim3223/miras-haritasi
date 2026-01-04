@@ -5,10 +5,10 @@ slug: "yeni-cami-kutuphanesi"
 description: "## Yeni Cami Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9719429,41.0163498"
 draft: "false"
 weight: "999"

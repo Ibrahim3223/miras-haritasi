@@ -5,10 +5,10 @@ slug: "imam-ali-kabri-istanbul"
 description: "### İmam Ali Kabri: İstanbul'un Tarihi Anıtlarından Bir Özellik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9761734,41.0127869"
 draft: "false"
 weight: "999"

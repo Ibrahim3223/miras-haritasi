@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-6"
 description: "### Bin Tepeler Tümülüsü 6: Manisa'nın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.987848,38.5756"
 draft: "false"
 weight: "999"

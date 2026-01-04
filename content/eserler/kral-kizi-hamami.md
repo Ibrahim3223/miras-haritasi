@@ -5,10 +5,10 @@ slug: "kral-kizi-hamami"
 description: "### Kral Kızı Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sarıkaya_Roma_Hamamı_4.jpg/1200px-Sarıkaya_Roma_Hamamı_4.jpg"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3763111,39.4948656"
 draft: "false"
 weight: "10"

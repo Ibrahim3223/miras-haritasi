@@ -5,10 +5,10 @@ slug: "manayi-hoyugu"
 description: "## Manayi Höyüğü: Tarihî ve Kültürel Mirasın İncelenmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Derinkuyu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8154454,38.4199091"
 draft: "false"
 weight: "999"

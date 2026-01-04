@@ -5,10 +5,10 @@ slug: "eski-hamam-milas"
 description: "## Eski Hamam, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7817001,37.3170013"
 draft: "false"
 weight: "999"

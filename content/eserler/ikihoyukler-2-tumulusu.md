@@ -5,10 +5,10 @@ slug: "ikihoyukler-2-tumulusu"
 description: "## İkihöyükler 2 Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8761005,41.7482414"
 draft: "false"
 weight: "999"

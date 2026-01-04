@@ -5,10 +5,10 @@ slug: "nasuhi-mehmet-efendi-camii"
 description: "## Nasuhi Mehmet Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nasuhi_Mehmet_Efendi_Camii,_Üsküdar,_İstanbul.jpg/1200px-Nasuhi_Mehmet_Efendi_Camii,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.01340216,41.018185502"
 draft: "false"
 weight: "10"

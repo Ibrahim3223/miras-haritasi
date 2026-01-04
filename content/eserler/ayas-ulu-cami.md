@@ -5,10 +5,10 @@ slug: "ayas-ulu-cami"
 description: "## Ayaş Ulu Cami: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3325996,40.0153389"
 draft: "false"
 weight: "999"

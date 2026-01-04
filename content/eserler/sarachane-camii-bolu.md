@@ -5,10 +5,10 @@ slug: "sarachane-camii-bolu"
 description: "## Saraçhane Camii (Bolu)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/TR_Bolu_asv2021-10_img09_Saraçhane_Mosque.jpg/1200px-TR_Bolu_asv2021-10_img09_Saraçhane_Mosque.jpg"
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.608555555,40.732416666"
 draft: "false"
 weight: "10"

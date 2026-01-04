@@ -5,10 +5,10 @@ slug: "hiset-aziz-etienne-kilisesi"
 description: "**Hişet Aziz Etienne Kilisesi**..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Çatak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.0648308,38.0070381"
 draft: "false"
 weight: "999"

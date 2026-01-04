@@ -5,10 +5,10 @@ slug: "aydin-arkeoloji-muzesi"
 description: "## Aydın Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/AydınArchaeologicalMuseum_(1).JPG/1200px-AydınArchaeologicalMuseum_(1).JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.8625,37.846666666"
 draft: "false"
 weight: "10"

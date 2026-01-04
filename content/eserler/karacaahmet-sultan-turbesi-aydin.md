@@ -5,10 +5,10 @@ slug: "karacaahmet-sultan-turbesi-aydin"
 description: "## Karacaahmet Sultan Türbesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8561192,37.8484421"
 draft: "false"
 weight: "999"

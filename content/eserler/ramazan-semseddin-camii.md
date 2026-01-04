@@ -5,10 +5,10 @@ slug: "ramazan-semseddin-camii"
 description: "# Ramazan Şemseddin Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8639107,39.9381294"
 draft: "false"
 weight: "999"

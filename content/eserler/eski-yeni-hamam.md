@@ -5,10 +5,10 @@ slug: "eski-yeni-hamam"
 description: "### Eski Yeni Hamam: Eyüp'te Bir Klasik Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.932632,41.048294"
 draft: "false"
 weight: "999"

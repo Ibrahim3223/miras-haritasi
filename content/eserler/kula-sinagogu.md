@@ -5,10 +5,10 @@ slug: "kula-sinagogu"
 description: "## Kula Sinagogu: İstanbul'un Gizli Çehresinde Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.9527512,41.0394363"
 draft: "false"
 weight: "999"

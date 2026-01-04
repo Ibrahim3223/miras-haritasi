@@ -5,10 +5,10 @@ slug: "huseyindede-hoyugu"
 description: "### Hüseyindede Höyüğü..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2328,40.287"
 draft: "false"
 weight: "999"

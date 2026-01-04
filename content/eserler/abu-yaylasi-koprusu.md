@@ -5,10 +5,10 @@ slug: "abu-yaylasi-koprusu"
 description: "## Abu Yaylası Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.2004995,41.1016773"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surb-zoravarats-church-anarzaba"
 description: "## Surb Zoravarats Church (Anarzaba)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

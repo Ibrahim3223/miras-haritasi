@@ -5,10 +5,10 @@ slug: "tas-kopru-ayvalik"
 description: "## Taş Köprü, Ayvalık..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6970119,39.323597"
 draft: "false"
 weight: "999"

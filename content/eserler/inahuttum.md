@@ -5,10 +5,10 @@ slug: "inahuttum"
 description: "## Šinahuttum: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.615278,40.019722"
 draft: "false"
 weight: "999"

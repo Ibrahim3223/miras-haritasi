@@ -5,10 +5,10 @@ slug: "adalet-cami"
 description: "## Adalet Camii: Adana'nın Tarihî Bir Zenginliği..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.2999779,36.9604762"
 draft: "false"
 weight: "999"

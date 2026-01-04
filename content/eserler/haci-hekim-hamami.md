@@ -5,10 +5,10 @@ slug: "haci-hekim-hamami"
 description: "## Hacı Hekim Hamamı: Bergama'nın Tarihi Bir Çıkış Noktası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Womens_baths_-_panoramio.jpg/1200px-Womens_baths_-_panoramio.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1798211,39.1209369"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "aragokome"
 description: "## Aragokome: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.169512,39.071967"
 draft: "false"
 weight: "999"

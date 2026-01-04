@@ -5,10 +5,10 @@ slug: "sarac-sinan-mescidi"
 description: "### Saraç Sinan Mescidi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8685684,39.9377632"
 draft: "false"
 weight: "999"

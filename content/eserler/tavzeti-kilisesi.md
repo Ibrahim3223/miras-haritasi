@@ -5,10 +5,10 @@ slug: "tavzeti-kilisesi"
 description: "## Tavzeti Kilisesi: Şavşat'ta Bir Zeytin Dağındaki Gizemli Kilise..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.475538888,41.286544444"
 draft: "false"
 weight: "999"

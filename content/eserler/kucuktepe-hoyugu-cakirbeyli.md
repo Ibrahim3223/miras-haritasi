@@ -5,10 +5,10 @@ slug: "kucuktepe-hoyugu-cakirbeyli"
 description: "### Küçüktepe Höyüğü: Aydın'ın Eski Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8291626,37.7613525"
 draft: "false"
 weight: "999"

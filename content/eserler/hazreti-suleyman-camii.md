@@ -5,10 +5,10 @@ slug: "hazreti-suleyman-camii"
 description: "## Hazreti Süleyman Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/HzSuleymanCamiDiyarbakir1.jpg/1200px-HzSuleymanCamiDiyarbakir1.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.242031,37.914882"
 draft: "false"
 weight: "10"

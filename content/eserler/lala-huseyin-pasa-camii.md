@@ -5,10 +5,10 @@ slug: "lala-huseyin-pasa-camii"
 description: "# Lala Hüseyin Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Lala_hüseyin_paşa_dış_(4).JPG/1200px-Lala_hüseyin_paşa_dış_(4).JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.970381,39.423477"
 draft: "false"
 weight: "10"

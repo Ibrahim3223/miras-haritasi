@@ -5,10 +5,10 @@ slug: "yeni-hamam-zile"
 description: "## Yeni Hamam, Zile..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.8853531,40.300766"
 draft: "false"
 weight: "999"

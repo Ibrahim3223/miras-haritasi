@@ -5,10 +5,10 @@ slug: "matbaa-i-amire-kapisi"
 description: "## Matbaa-i Amire Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9816761,41.0074921"
 draft: "false"
 weight: "999"

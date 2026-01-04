@@ -5,10 +5,10 @@ slug: "merkez-camii-safranbolu"
 description: "## Merkez Camii (Safranbolu)..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.798805572,41.222983337"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "baskopru"
 description: "## Başköprü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.0284462,38.3759308"
 draft: "false"
 weight: "999"

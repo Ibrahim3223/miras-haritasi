@@ -5,10 +5,10 @@ slug: "yeni-cami-kas"
 description: "## Yeni Cami (Kaş)..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6376858,36.1999321"
 draft: "false"
 weight: "999"

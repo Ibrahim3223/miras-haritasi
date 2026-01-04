@@ -5,10 +5,10 @@ slug: "findos-hoyuk"
 description: "**Findos Höyük: Isparta'nın Gizli Mirası**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.70935,37.877517"
 draft: "false"
 weight: "999"

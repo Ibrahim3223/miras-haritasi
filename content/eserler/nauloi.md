@@ -5,10 +5,10 @@ slug: "nauloi"
 description: "# Nauloi Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.11682,36.47496"
 draft: "false"
 weight: "999"

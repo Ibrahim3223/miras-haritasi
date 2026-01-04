@@ -5,10 +5,10 @@ slug: "dadaseni-kilisesi"
 description: "## Dadaşeni Kilisesi: Göle İlçesindeki Bir Tarihi Çanak Çömlek..."
 featured_image: ""
 province: "Göle İlçesi"
-iller: '["Göle İlçesi"]'
+iller: ["Göle İlçesi"]
 district: "Dedeşen"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.534888888,40.905055555"
 draft: "false"
 weight: "999"

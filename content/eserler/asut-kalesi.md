@@ -5,10 +5,10 @@ slug: "asut-kalesi"
 description: "## Aşut Kalesi: Kelkit'te Eski Çağların Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.44191,40.086892"
 draft: "false"
 weight: "999"

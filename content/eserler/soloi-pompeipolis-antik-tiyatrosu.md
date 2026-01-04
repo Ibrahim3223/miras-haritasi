@@ -5,10 +5,10 @@ slug: "soloi-pompeipolis-antik-tiyatrosu"
 description: "# Soloi Pompeipolis Antik Tiyatrosu..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mezitli"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "34.542286,36.745014"
 draft: "false"
 weight: "999"

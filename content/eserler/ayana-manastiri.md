@@ -5,10 +5,10 @@ slug: "ayana-manastiri"
 description: "### Ayana Manastırı: Gümüşhane'nin Tarihi Bir Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.4544792,40.4558945"
 draft: "false"
 weight: "999"

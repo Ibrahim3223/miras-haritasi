@@ -5,10 +5,10 @@ slug: "eskicioglu-mescidi-babadag"
 description: "## Eskicioğlu Mescidi: Babadağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Babadağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8557911,37.8064804"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esugun-hoyugu-sivas"
 description: "## Esüğün Höyüğü: Sivas'ın Gizli Tarihi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8118324,39.4975586"
 draft: "false"
 weight: "999"

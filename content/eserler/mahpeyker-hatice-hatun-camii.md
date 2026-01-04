@@ -5,10 +5,10 @@ slug: "mahpeyker-hatice-hatun-camii"
 description: "### Mahpeyker Hatice Hatun Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.6974297,38.8704071"
 draft: "false"
 weight: "999"

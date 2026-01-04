@@ -5,10 +5,10 @@ slug: "ruznameci-ali-efendi-medresesi"
 description: "## Ruznameci Ali Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9638767,41.0082703"
 draft: "false"
 weight: "999"

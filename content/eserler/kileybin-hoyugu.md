@@ -5,10 +5,10 @@ slug: "kileybin-hoyugu"
 description: "## Kıleybin Höyüğü: Mardin'in Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.591557309,37.148790384"
 draft: "false"
 weight: "999"

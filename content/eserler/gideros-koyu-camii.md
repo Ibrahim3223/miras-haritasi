@@ -5,10 +5,10 @@ slug: "gideros-koyu-camii"
 description: "## Gideros Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Cide"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8622208,41.8612289"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bursa-oyuncak-muzesi"
 description: "## Bursa Oyuncak Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.933254768,40.218329657"
 draft: "false"
 weight: "999"

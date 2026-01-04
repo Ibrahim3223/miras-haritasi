@@ -5,10 +5,10 @@ slug: "togumoglu-koprusu"
 description: "## Toğumoğlu Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.63816,40.40065"
 draft: "false"
 weight: "999"

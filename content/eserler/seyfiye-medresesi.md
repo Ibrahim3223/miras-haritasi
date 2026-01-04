@@ -5,10 +5,10 @@ slug: "seyfiye-medresesi"
 description: "## Seyfiye Medresesi: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.870327,39.9375725"
 draft: "false"
 weight: "999"

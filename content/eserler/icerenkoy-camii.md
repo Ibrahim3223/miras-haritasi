@@ -5,10 +5,10 @@ slug: "icerenkoy-camii"
 description: "## İçerenköy Camii: Atatürk'ün Kış Konakları'nın Ortak Kullanımı İçin Yaptırılan Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İçerenköy_Camii.jpg/1200px-İçerenköy_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.111277777,40.969972222"
 draft: "false"
 weight: "10"

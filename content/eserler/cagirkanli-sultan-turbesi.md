@@ -5,10 +5,10 @@ slug: "cagirkanli-sultan-turbesi"
 description: "# Çağırkanlı Sultan Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.226244,40.267012"
 draft: "false"
 weight: "999"

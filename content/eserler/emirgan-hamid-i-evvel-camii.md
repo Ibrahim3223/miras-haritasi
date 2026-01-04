@@ -5,10 +5,10 @@ slug: "emirgan-hamid-i-evvel-camii"
 description: "## Emirgan Hamid-i Evvel Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İstanbul_-_Emirgan_Hamid-i_Evvel_Camii_2_-_Şub_2013.JPG/1200px-İstanbul_-_Emirgan_Hamid-i_Evvel_Camii_2_-_Şub_2013.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.056111111,41.104444444"
 draft: "false"
 weight: "10"

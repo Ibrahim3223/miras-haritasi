@@ -5,10 +5,10 @@ slug: "buyukkale-hoyuk"
 description: "## Büyükkale Höyük: Tarih ve Kültür Mirasının İhtişamı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9235309,39.6502608"
 draft: "false"
 weight: "999"

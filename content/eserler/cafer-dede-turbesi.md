@@ -5,10 +5,10 @@ slug: "cafer-dede-turbesi"
 description: "## Cafer Dede Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9828281,39.4171257"
 draft: "false"
 weight: "999"

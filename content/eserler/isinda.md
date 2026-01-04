@@ -5,10 +5,10 @@ slug: "isinda"
 description: "# İsinda Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.699,36.199"
 draft: "false"
 weight: "999"

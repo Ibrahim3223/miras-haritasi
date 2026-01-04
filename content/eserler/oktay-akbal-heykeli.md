@@ -5,10 +5,10 @@ slug: "oktay-akbal-heykeli"
 description: "# Oktay Akbal Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0541382,40.9792824"
 draft: "false"
 weight: "999"

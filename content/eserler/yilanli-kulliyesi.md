@@ -5,10 +5,10 @@ slug: "yilanli-kulliyesi"
 description: "## Yılanlı Külliyesi: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kastamonu_Yılanlı_Külliyesi_Taç_Kapısı.jpg/1200px-Kastamonu_Yılanlı_Külliyesi_Taç_Kapısı.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7747345,41.3767853"
 draft: "false"
 weight: "10"

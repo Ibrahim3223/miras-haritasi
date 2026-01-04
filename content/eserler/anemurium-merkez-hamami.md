@@ -5,10 +5,10 @@ slug: "anemurium-merkez-hamami"
 description: "## Anemurium Merkez Hamamı: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8030739,36.0235901"
 draft: "false"
 weight: "999"

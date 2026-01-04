@@ -5,10 +5,10 @@ slug: "seyhulislam-sunullah-efendi-turbesi"
 description: "## Şeyhülislam Sunullah Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.95524,41.016858"
 draft: "false"
 weight: "999"

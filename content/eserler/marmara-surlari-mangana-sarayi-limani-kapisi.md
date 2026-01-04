@@ -5,10 +5,10 @@ slug: "marmara-surlari-mangana-sarayi-limani-kapisi"
 description: "## Marmara Surları: Mangana Sarayı Limanı Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9868298,41.0092163"
 draft: "false"
 weight: "999"

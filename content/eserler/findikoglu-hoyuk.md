@@ -5,10 +5,10 @@ slug: "findikoglu-hoyuk"
 description: "### Fındıkoğlu Höyük: Zara, Sivas'ta Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Zara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.5568271,39.890505"
 draft: "false"
 weight: "999"

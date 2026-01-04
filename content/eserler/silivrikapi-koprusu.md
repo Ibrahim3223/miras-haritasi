@@ -5,10 +5,10 @@ slug: "silivrikapi-koprusu"
 description: "## Silivrikapı Köprüsü: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9212742,41.0060196"
 draft: "false"
 weight: "999"

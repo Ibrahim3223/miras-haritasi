@@ -5,10 +5,10 @@ slug: "efes-agorasi"
 description: "### Efes Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Commercial_Agora_(13975446283).jpg/1200px-The_Commercial_Agora_(13975446283).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.341100613,37.940042296"
 draft: "false"
 weight: "10"

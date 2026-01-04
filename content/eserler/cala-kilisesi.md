@@ -5,10 +5,10 @@ slug: "cala-kilisesi"
 description: "### Çala Kilisesi: Artvin'in Kutsal Yerleri Arasındaki Bir Zenginlik..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.541416666,40.804972222"
 draft: "false"
 weight: "999"

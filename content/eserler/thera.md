@@ -5,10 +5,10 @@ slug: "thera"
 description: "## Thera: Menteşe'deki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3556919,37.120163"
 draft: "false"
 weight: "999"

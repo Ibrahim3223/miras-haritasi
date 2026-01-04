@@ -5,10 +5,10 @@ slug: "ismet-inonu-evi-muzesi"
 description: "## İsmet İnönü Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Adalar_6949.jpg/1200px-Adalar_6949.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.09333333,40.87805556"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sirataslar-kalesi"
 description: "## Sırataşlar Kalesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Çayırlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.0839348,39.8494072"
 draft: "false"
 weight: "999"

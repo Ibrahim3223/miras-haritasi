@@ -5,10 +5,10 @@ slug: "guzelcekoy-mevki-manastiri-3"
 description: "### Gökçeada'nın Gizli Çehresinde: Güzelceköy Mevki Manastırı 3..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9633999,40.1665993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehitler-saat-kulesi"
 description: "## Şehitler Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Nicksar_Uhrturm.JPG/1200px-Nicksar_Uhrturm.JPG"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "36.950666666,40.589611111"
 draft: "false"
 weight: "10"

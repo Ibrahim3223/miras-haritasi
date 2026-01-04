@@ -5,10 +5,10 @@ slug: "karakadi-mecdettin-medresesi"
 description: "## Karakadı Mecdettin Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7422237,38.0886497"
 draft: "false"
 weight: "999"

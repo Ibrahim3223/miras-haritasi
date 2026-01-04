@@ -5,10 +5,10 @@ slug: "karaosmanoglu-haci-mustafa-aga-cami"
 description: "## Karaosmanoğlu Hacı Mustafa Ağa Cami..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6774998,38.9923477"
 draft: "false"
 weight: "999"

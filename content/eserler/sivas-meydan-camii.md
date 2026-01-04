@@ -5,10 +5,10 @@ slug: "sivas-meydan-camii"
 description: "## Sivas Meydan Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0203896,39.7493858"
 draft: "false"
 weight: "999"

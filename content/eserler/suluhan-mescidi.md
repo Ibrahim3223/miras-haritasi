@@ -5,10 +5,10 @@ slug: "suluhan-mescidi"
 description: "## Suluhan Mescidi: Altındağ'ın Önemli Tarihi Eserlerinden Birisi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8583794,39.9396553"
 draft: "false"
 weight: "999"

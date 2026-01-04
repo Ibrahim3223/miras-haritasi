@@ -5,10 +5,10 @@ slug: "celebi-ahmet-cami"
 description: "## Çelebi Ahmet Cami: Şile'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.8569393,41.1382599"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "candarli-kara-halil-hayrettin-pasa-turbesi"
 description: "### Çandarlı Kara Halil Hayrettin Paşa Türbesi: İznik'in Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Çandarlı_Hayrettin_Paşa_Türbesi,_İznik,_Bursa,_Türkiye.jpg/1200px-Çandarlı_Hayrettin_Paşa_Türbesi,_İznik,_Bursa,_Türkiye.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7316,40.429"
 draft: "false"
 weight: "10"

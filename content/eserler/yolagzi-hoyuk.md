@@ -5,10 +5,10 @@ slug: "yolagzi-hoyuk"
 description: "## Yolağzı Höyük: Karacabey'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.316139372,40.136399559"
 draft: "false"
 weight: "999"

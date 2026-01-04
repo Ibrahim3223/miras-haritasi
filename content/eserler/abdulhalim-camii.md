@@ -5,10 +5,10 @@ slug: "abdulhalim-camii"
 description: "## Abdülhalim Camii: Kozyatağı, Kadıköy'un Tarihi Bir Câmii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0952833,40.9715031"
 draft: "false"
 weight: "999"

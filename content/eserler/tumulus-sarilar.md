@@ -5,10 +5,10 @@ slug: "tumulus-sarilar"
 description: "**Tümülüs, Sarılar: Çorlu'nun Gizli Şecerini**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.682272,41.1394157"
 draft: "false"
 weight: "999"

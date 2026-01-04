@@ -5,10 +5,10 @@ slug: "sari-ahmet-pasa-hamami"
 description: "## Sarı Ahmet Paşa Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9168777,38.7081871"
 draft: "false"
 weight: "999"

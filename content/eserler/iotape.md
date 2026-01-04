@@ -5,10 +5,10 @@ slug: "iotape"
 description: "## Iotape: Alanya'nın Gizli Şehri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Iotape-06-3a.jpg/1200px-Iotape-06-3a.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.235969,36.319837"
 draft: "false"
 weight: "999"

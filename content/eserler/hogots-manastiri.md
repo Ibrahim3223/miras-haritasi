@@ -5,10 +5,10 @@ slug: "hogots-manastiri"
 description: "## Hogots Manastırı: Tarihi ve Kültürel Mirasın Gizemli Yerleri..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.4326,38.0833"
 draft: "false"
 weight: "999"

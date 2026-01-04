@@ -5,10 +5,10 @@ slug: "buyukmandira-baglik-tumulusu"
 description: "## Büyükmandıra Bağlık Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0537796,41.3535805"
 draft: "false"
 weight: "999"

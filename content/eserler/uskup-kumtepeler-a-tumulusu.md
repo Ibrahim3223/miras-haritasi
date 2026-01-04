@@ -5,10 +5,10 @@ slug: "uskup-kumtepeler-a-tumulusu"
 description: "### Üsküp Kumtepeler A Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3703899,41.7531281"
 draft: "false"
 weight: "999"

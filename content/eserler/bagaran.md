@@ -5,10 +5,10 @@ slug: "bagaran"
 description: "# Bagaran..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Bagaran,_Saint_Theodore_church,_ancient_Armenia.jpg/1200px-Bagaran,_Saint_Theodore_church,_ancient_Armenia.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.6547,40.2017"
 draft: "false"
 weight: "10"

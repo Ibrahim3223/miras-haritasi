@@ -5,10 +5,10 @@ slug: "taksim-cumhuriyet-aniti"
 description: "## Taksim Cumhuriyet Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Istanbul_asv2021-10_img07_Taksim_Monument.jpg/1200px-Istanbul_asv2021-10_img07_Taksim_Monument.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.985,41.036944"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mehmet-akif-ersoy-heykeli"
 description: "## Mehmet Akif Ersoy Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8663826,39.9333763"
 draft: "false"
 weight: "999"

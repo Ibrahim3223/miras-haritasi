@@ -5,10 +5,10 @@ slug: "limyra-xataburaanit-mezari"
 description: "## Limyra Xaterebra Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.172481849,36.34293947"
 draft: "false"
 weight: "999"

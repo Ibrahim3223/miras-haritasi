@@ -5,10 +5,10 @@ slug: "kislacik-seyfinin-tarla-tumulusu"
 description: "## Kışlacık Seyfinin Tarla Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.929985,41.6971588"
 draft: "false"
 weight: "999"

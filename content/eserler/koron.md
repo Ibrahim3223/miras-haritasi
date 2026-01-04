@@ -5,10 +5,10 @@ slug: "koron"
 description: "## Koron Arkeolojik Sitesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Altunhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3172155,38.067791"
 draft: "false"
 weight: "999"

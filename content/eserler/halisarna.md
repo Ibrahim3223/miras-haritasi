@@ -5,10 +5,10 @@ slug: "halisarna"
 description: "### Halisarna: Bergama'nın Gizli Şehri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.114997,39.045111"
 draft: "false"
 weight: "999"

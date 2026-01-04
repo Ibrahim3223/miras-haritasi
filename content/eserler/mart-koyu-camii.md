@@ -5,10 +5,10 @@ slug: "mart-koyu-camii"
 description: "## Mart Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Şabanözü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.3966789,40.4278717"
 draft: "false"
 weight: "999"

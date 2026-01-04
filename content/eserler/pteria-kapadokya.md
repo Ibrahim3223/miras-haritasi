@@ -5,10 +5,10 @@ slug: "pteria-kapadokya"
 description: "## Pteria (Kapadokya): Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.06565,39.74827"
 draft: "false"
 weight: "1"

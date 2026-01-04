@@ -5,10 +5,10 @@ slug: "yukari-cami"
 description: "## Yukarı Cami..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.7712002,37.7100983"
 draft: "false"
 weight: "999"

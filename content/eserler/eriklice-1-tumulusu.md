@@ -5,10 +5,10 @@ slug: "eriklice-1-tumulusu"
 description: "## Eriklice 1 Tümülüsü: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.173315,41.7523766"
 draft: "false"
 weight: "999"

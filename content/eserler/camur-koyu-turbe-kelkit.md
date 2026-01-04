@@ -5,10 +5,10 @@ slug: "camur-koyu-turbe-kelkit"
 description: "## Çamur Köyü Türbe Kelkit: Tarihi Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.681576,39.980303"
 draft: "false"
 weight: "999"

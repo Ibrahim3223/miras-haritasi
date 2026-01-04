@@ -5,10 +5,10 @@ slug: "sercehoyuk"
 description: "## Serçehöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8480531,40.5667439"
 draft: "false"
 weight: "999"

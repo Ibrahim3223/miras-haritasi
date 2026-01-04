@@ -5,10 +5,10 @@ slug: "akcapinar-tumulusu"
 description: "### Akçapınar Tümülüsü: Turgutlu'ndaki Antik Eserin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8355789,38.4930763"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "assos-samian-ware-discovery-site"
 description: "### Assos (Samian Ware Discovery Site)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.31,39.5"
 draft: "false"
 weight: "999"

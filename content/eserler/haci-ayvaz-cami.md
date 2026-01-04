@@ -5,10 +5,10 @@ slug: "haci-ayvaz-cami"
 description: "## Hacı Ayvaz Cami: Kocaeli'nin Değerli Tarihi Bir Eseri..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9232922,40.7675285"
 draft: "false"
 weight: "999"

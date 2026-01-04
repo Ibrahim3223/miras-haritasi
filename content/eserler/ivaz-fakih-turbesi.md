@@ -5,10 +5,10 @@ slug: "ivaz-fakih-turbesi"
 description: "## İvaz Fakih Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.069275,41.027542"
 draft: "false"
 weight: "999"

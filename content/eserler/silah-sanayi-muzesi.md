@@ -5,10 +5,10 @@ slug: "silah-sanayi-muzesi"
 description: "## Silah Sanayi Müzesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Kırıkkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.453622,39.850274"
 draft: "false"
 weight: "999"

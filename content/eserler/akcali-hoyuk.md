@@ -5,10 +5,10 @@ slug: "akcali-hoyuk"
 description: "# Akçalı Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.2705148,39.1987812"
 draft: "false"
 weight: "999"

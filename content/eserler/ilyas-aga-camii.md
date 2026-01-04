@@ -5,10 +5,10 @@ slug: "ilyas-aga-camii"
 description: "## İlyas Ağa Camii: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4047737,37.7523422"
 draft: "false"
 weight: "999"

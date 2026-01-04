@@ -5,10 +5,10 @@ slug: "bayindir-tumulusleri"
 description: "### Bayındır Tümülüsleri: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9592018,36.7655334"
 draft: "false"
 weight: "999"

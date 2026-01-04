@@ -5,10 +5,10 @@ slug: "yayladagi-rum-ortodoks-kilisesi"
 description: "## Yayladağı Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Yayladağı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.0639,35.9037895"
 draft: "false"
 weight: "999"

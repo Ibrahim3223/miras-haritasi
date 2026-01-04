@@ -5,10 +5,10 @@ slug: "sagora-kilisesi"
 description: "# Şagora Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Ardanuç"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.954055555,41.110361111"
 draft: "false"
 weight: "999"

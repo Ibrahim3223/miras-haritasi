@@ -5,10 +5,10 @@ slug: "mervani-mescidi"
 description: "### Mervani Mescidi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2366562,37.9162521"
 draft: "false"
 weight: "999"

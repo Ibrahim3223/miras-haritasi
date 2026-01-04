@@ -5,10 +5,10 @@ slug: "cius"
 description: "### Cius Arkeolojik Sit..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.156389,40.432468"
 draft: "false"
 weight: "999"

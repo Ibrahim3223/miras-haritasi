@@ -5,10 +5,10 @@ slug: "cihanoglu-camii"
 description: "**Cihanoğlu Camii: Aydın'ın Birinci Derece Tarihi Eseri**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5701008,37.7341003"
 draft: "false"
 weight: "999"

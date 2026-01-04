@@ -5,10 +5,10 @@ slug: "kervan-koprusu-kopruova"
 description: "## Kervan Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7586861,37.9546127"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hukuk-muzesi"
 description: "## Hukuk Müzesi: Türkiye'nin Hukuki Mirasını Tanıtan Bir Ziyaretçi Çehresi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8201141,39.8984947"
 draft: "false"
 weight: "999"

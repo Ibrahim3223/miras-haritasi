@@ -5,10 +5,10 @@ slug: "koimesis-tis-theotokos-kilisesi"
 description: "### Koimesis Tis Theotokos Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.7723503,40.1509743"
 draft: "false"
 weight: "999"

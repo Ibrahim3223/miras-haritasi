@@ -5,10 +5,10 @@ slug: "porselen-muzesi"
 description: "### Porselen Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.029046,39.474144"
 draft: "false"
 weight: "999"

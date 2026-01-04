@@ -5,10 +5,10 @@ slug: "aydin-koyu-kaledibi-mevkii-kales"
 description: "### Aydın Köyü Kaledibi Mevkii Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Ardanuç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.075911,41.047586"
 draft: "false"
 weight: "999"

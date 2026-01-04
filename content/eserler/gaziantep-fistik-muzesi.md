@@ -5,10 +5,10 @@ slug: "gaziantep-fistik-muzesi"
 description: "## Gaziantep Fıstık Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Antep Sancağı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.34207,37.05844"
 draft: "false"
 weight: "999"

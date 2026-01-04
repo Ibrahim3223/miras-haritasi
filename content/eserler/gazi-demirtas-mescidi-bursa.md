@@ -5,10 +5,10 @@ slug: "gazi-demirtas-mescidi-bursa"
 description: "### Gazi Demirtaş Mescidi, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0593243,40.1842575"
 draft: "false"
 weight: "999"

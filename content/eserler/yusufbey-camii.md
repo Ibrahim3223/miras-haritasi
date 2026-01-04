@@ -5,10 +5,10 @@ slug: "yusufbey-camii"
 description: "## Yusufbey Camii: Sakarya'da Bir Önemli Cami..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Taraklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.4939919,40.3925743"
 draft: "false"
 weight: "999"

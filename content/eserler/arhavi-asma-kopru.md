@@ -5,10 +5,10 @@ slug: "arhavi-asma-kopru"
 description: "# Arhavi Asma Köprü: Geçmişten Günümüze Uzanan Bir Mimari Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

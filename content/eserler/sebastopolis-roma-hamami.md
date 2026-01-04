@@ -5,10 +5,10 @@ slug: "sebastopolis-roma-hamami"
 description: "## Sebastopolis Roma Hamamı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Sulusaray"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.0834999,39.9967575"
 draft: "false"
 weight: "999"

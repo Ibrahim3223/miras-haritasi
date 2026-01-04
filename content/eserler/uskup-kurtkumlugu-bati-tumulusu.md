@@ -5,10 +5,10 @@ slug: "uskup-kurtkumlugu-bati-tumulusu"
 description: "## Üsküp Kurtkumluğu Batı Tümülüsü: Kırklareli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4242477,41.7825775"
 draft: "false"
 weight: "999"

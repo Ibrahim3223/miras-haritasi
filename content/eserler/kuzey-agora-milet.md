@@ -5,10 +5,10 @@ slug: "kuzey-agora-milet"
 description: "# Kuzey Agora (Milet)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Miletus_Northern_Agora.JPG/1200px-Miletus_Northern_Agora.JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.279722222,37.529722222"
 draft: "false"
 weight: "10"

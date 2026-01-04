@@ -5,10 +5,10 @@ slug: "merkez-camii-gokceada"
 description: "## Merkez Camii, Gökçeada..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gökçeada_Merkez_Camii.jpg/1200px-Gökçeada_Merkez_Camii.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "25.9065571,40.1911697"
 draft: "false"
 weight: "10"

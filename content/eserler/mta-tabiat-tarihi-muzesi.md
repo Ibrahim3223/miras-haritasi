@@ -5,10 +5,10 @@ slug: "mta-tabiat-tarihi-muzesi"
 description: "## MTA Tabiat Tarihi Müzesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.798719,39.902129"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurucesme-hamami"
 description: "### Kuruçeşme Hamamı: Beşiktaş'ta Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0372944,41.0613213"
 draft: "false"
 weight: "999"

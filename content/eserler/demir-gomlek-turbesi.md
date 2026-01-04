@@ -5,10 +5,10 @@ slug: "demir-gomlek-turbesi"
 description: "# Demir Gömlek Türbesi: Karaman'da Bir Tarihi Anıt..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2232991,37.1763813"
 draft: "false"
 weight: "999"

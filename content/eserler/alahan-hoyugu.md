@@ -5,10 +5,10 @@ slug: "alahan-hoyugu"
 description: "# Alahan Höyüğü: Geçmişin Gizemli Yerleşkesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Elbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.4370995,36.6641006"
 draft: "false"
 weight: "999"

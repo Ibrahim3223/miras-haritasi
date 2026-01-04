@@ -5,10 +5,10 @@ slug: "feridun-ahmet-pasa-turbesi"
 description: "### Feridun Ahmet Paşa Türbesi: Eyüpsultan'ın Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934435,41.047873"
 draft: "false"
 weight: "999"

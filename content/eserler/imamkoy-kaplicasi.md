@@ -5,10 +5,10 @@ slug: "imamkoy-kaplicasi"
 description: "### İmamköy Kaplıcası: Aydın'ın Tarihi Bir Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9079952,37.8804474"
 draft: "false"
 weight: "999"

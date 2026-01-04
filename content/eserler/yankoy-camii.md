@@ -5,10 +5,10 @@ slug: "yankoy-camii"
 description: "### Yanköy Camii: Serik'in Tarihi Çanakkalesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0014159,37.004667"
 draft: "false"
 weight: "999"

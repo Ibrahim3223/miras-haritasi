@@ -5,10 +5,10 @@ slug: "aya-konstantin-ve-helena-kilisesi"
 description: "## Aya Konstantin ve Helena Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.20784,41.8554459"
 draft: "false"
 weight: "999"

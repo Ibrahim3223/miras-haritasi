@@ -5,10 +5,10 @@ slug: "elmali-kahve-mescidi-karabaglar-yaylasi"
 description: "## Elmalı Kahve Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3985004,37.1771011"
 draft: "false"
 weight: "999"

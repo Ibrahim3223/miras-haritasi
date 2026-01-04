@@ -5,10 +5,10 @@ slug: "enbiya-bey-camii"
 description: "## Enbiya Bey Camii..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4924622,39.2407417"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taskopru-kent-tarihi-muzesi"
 description: "## Taşköprü Kent Tarihi Müzesi: Kastamonu'nun Gizli Çehresi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.220108,41.5089226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uzerliktepe"
 description: "## Üzerliktepe Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9834649,39.4936715"
 draft: "false"
 weight: "999"

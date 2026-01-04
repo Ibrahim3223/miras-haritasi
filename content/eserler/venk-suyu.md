@@ -5,10 +5,10 @@ slug: "venk-suyu"
 description: "### Venk Suyu Kilisesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.8124886,40.6434097"
 draft: "false"
 weight: "999"

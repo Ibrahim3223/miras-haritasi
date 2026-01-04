@@ -5,10 +5,10 @@ slug: "gokceada-metropolithanesi"
 description: "## Gökçeada Metropolithanesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.904356,40.1949883"
 draft: "false"
 weight: "999"

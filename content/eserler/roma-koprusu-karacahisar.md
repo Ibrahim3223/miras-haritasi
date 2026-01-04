@@ -5,10 +5,10 @@ slug: "roma-koprusu-karacahisar"
 description: "## Roma Köprüsü, Karacahisar: Bodrum'un Tarihi Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.80542,37.167355"
 draft: "false"
 weight: "999"

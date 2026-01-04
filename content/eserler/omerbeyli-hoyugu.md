@@ -5,10 +5,10 @@ slug: "omerbeyli-hoyugu"
 description: "## Ömerbeyli Höyüğü: Aydın'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6527004,37.8796997"
 draft: "false"
 weight: "999"

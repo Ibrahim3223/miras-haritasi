@@ -5,10 +5,10 @@ slug: "eski-bayir-koprusu-2"
 description: "### Eski Bayır Köprüsü 2..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2632294,37.2698288"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "husnu-zuber-yasayan-muze"
 description: "## Hüsnü Züber Yaşayan Müze..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.045119,40.189993"
 draft: "false"
 weight: "999"

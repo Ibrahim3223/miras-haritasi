@@ -5,10 +5,10 @@ slug: "edirnekapi-hava-sehitligi"
 description: "# Edirnekapı Hava Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Edirnekapı_Hava_Şehitliği_01.jpg/1200px-Edirnekapı_Hava_Şehitliği_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.926361416,41.035439188"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yesildon"
 description: "### Yeşildon Arkeolojik Sitesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.04225,39.731017"
 draft: "false"
 weight: "999"

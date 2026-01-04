@@ -5,10 +5,10 @@ slug: "cardakli-hamam"
 description: "## Çardaklı Hamam: Fatih'te Bir Geçmişin Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.972531,41.003506"
 draft: "false"
 weight: "999"

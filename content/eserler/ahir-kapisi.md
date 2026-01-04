@@ -5,10 +5,10 @@ slug: "ahir-kapisi"
 description: "## Ahır Kapısı: Fatih, İstanbul'un Gizli Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.98184,41.0037"
 draft: "false"
 weight: "999"

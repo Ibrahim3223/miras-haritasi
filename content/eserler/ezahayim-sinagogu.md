@@ -5,10 +5,10 @@ slug: "ezahayim-sinagogu"
 description: "## Ezahayim Sinagogu: İstanbul'un Beşiktaş'taki Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0420036,41.0676804"
 draft: "false"
 weight: "999"

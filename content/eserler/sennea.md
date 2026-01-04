@@ -5,10 +5,10 @@ slug: "sennea"
 description: "## Sennea Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.53445,36.87392"
 draft: "false"
 weight: "999"

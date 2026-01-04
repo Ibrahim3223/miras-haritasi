@@ -5,10 +5,10 @@ slug: "orcohi-kuzey-kilisesi"
 description: "## Orcohi (Kuzey) Kilisesi: Oltu'nun Tarihi Zenginliği..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.80295,40.53475"
 draft: "false"
 weight: "999"

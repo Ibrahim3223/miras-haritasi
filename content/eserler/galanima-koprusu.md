@@ -5,10 +5,10 @@ slug: "galanima-koprusu"
 description: "## Galanima Köprüsü: Trabzon'un Tarihî Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.592533,41.009677"
 draft: "false"
 weight: "999"

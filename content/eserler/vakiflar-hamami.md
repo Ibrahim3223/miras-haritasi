@@ -5,10 +5,10 @@ slug: "vakiflar-hamami"
 description: "## Vakıflar Hamamı: Muğla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.3660316,37.2179108"
 draft: "false"
 weight: "999"

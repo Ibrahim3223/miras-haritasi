@@ -5,10 +5,10 @@ slug: "suleymaniye-ii-medresesi"
 description: "## Süleymaniye II. Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.962706,41.015739"
 draft: "false"
 weight: "1"

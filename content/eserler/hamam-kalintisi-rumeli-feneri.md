@@ -5,10 +5,10 @@ slug: "hamam-kalintisi-rumeli-feneri"
 description: "## Rumeli Feneri Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1114941,41.2334442"
 draft: "false"
 weight: "999"

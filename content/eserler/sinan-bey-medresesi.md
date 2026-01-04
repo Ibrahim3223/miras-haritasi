@@ -5,10 +5,10 @@ slug: "sinan-bey-medresesi"
 description: "# Sinan Bey Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.4221745,38.6089249"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "panorama-1453-tarih-muzesi"
 description: "### Panorama 1453 Tarih Müzesi: İstanbul'un Fethinin Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_1453_History_Museum.JPG/1200px-Panorama_1453_History_Museum.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.920525,41.018182"
 draft: "false"
 weight: "10"

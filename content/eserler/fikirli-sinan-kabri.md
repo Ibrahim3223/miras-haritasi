@@ -5,10 +5,10 @@ slug: "fikirli-sinan-kabri"
 description: "## Fikirli Sinan Kabri: Gelibolu'nun Gizli Gözyaşları..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.673305,40.412472"
 draft: "false"
 weight: "999"

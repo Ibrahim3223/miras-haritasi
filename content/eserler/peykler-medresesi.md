@@ -5,10 +5,10 @@ slug: "peykler-medresesi"
 description: "**Peykler Medresesi**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5544262,41.6781197"
 draft: "false"
 weight: "999"

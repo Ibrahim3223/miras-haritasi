@@ -5,10 +5,10 @@ slug: "okcular-tekkesi"
 description: "**Okçular Tekkesi - İstanbul'un Gizli Çehresini Keşfetmek**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.959865771,41.041289985"
 draft: "false"
 weight: "999"

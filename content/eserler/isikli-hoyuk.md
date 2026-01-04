@@ -5,10 +5,10 @@ slug: "isikli-hoyuk"
 description: "### Işıklı Höyük..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.860233,38.312867"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "armutcuk-madenci-sehitligi"
 description: "### Armutçuk Madenci Şehitliği..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Karadeniz Ereğli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.5031471,41.3490334"
 draft: "false"
 weight: "999"

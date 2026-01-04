@@ -5,10 +5,10 @@ slug: "kirsehir-muzesi"
 description: "## Kırşehir Müzesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.158611111,39.148611111"
 draft: "false"
 weight: "999"

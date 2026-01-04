@@ -5,10 +5,10 @@ slug: "toraman-hoyuk"
 description: "### Toraman Höyük: Eskişehir'in Gizemi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.719923,39.631093"
 draft: "false"
 weight: "999"

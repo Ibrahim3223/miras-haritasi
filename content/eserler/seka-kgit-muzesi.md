@@ -5,10 +5,10 @@ slug: "seka-kgit-muzesi"
 description: "## SEKA Kâğıt Müzesi: Kocaeli'nin Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/SEKA_Kağıt_Müzesi.jpg/1200px-SEKA_Kağıt_Müzesi.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.909722222,40.761111111"
 draft: "false"
 weight: "10"

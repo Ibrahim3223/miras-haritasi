@@ -5,10 +5,10 @@ slug: "halil-efendi-camii"
 description: "## Halil Efendi Camii: Tokat'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9624062,40.5906563"
 draft: "false"
 weight: "999"

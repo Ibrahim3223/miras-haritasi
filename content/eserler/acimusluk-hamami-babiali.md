@@ -5,10 +5,10 @@ slug: "acimusluk-hamami-babiali"
 description: "## Acımusluk Hamamı Babıali: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.973925,41.012831"
 draft: "false"
 weight: "999"

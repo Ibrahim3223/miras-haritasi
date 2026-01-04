@@ -5,10 +5,10 @@ slug: "zeytinliova-rum-ortodoks-kilisesi"
 description: "## Zeytinliova Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.6792507,38.990345"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "guzelcekoy-mevki-manastiri-2"
 description: "## Güzelceköy Mevki Manastırı 2..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9727993,40.1852989"
 draft: "false"
 weight: "999"

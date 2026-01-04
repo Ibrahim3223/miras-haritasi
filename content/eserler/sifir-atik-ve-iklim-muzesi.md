@@ -5,10 +5,10 @@ slug: "sifir-atik-ve-iklim-muzesi"
 description: "## Sıfır Atık ve İklim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.835655733,39.942969291"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ariaramneia"
 description: "## Ariaramneia: Antik Çağın Gizemli Yerleşimi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.165436,38.124885"
 draft: "false"
 weight: "999"

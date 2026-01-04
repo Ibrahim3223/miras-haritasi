@@ -5,10 +5,10 @@ slug: "surp-santuht-kilisesi"
 description: "## Surp Santuht Kilisesi: Rumelihisarı'nın Gizli Çehresinde Gizli Bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.055638888,41.089583333"
 draft: "false"
 weight: "999"

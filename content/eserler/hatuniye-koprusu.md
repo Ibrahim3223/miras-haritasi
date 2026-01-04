@@ -5,10 +5,10 @@ slug: "hatuniye-koprusu"
 description: "## Hatuniye Köprüsü..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1077156,38.3983536"
 draft: "false"
 weight: "999"

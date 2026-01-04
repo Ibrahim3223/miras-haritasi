@@ -5,10 +5,10 @@ slug: "pancar-hoyugu-torbali"
 description: "## Pancar Höyüğü, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2513008,38.2041016"
 draft: "false"
 weight: "999"

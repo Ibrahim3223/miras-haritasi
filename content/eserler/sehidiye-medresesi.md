@@ -5,10 +5,10 @@ slug: "sehidiye-medresesi"
 description: "## Şehidiye Medresesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "40.7431717,37.3141594"
 draft: "false"
 weight: "999"

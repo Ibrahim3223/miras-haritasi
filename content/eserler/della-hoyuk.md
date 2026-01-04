@@ -5,10 +5,10 @@ slug: "della-hoyuk"
 description: "### Della Höyük: Türkiye'nin Gizli Tarihi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Beşiri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.3360596,37.9282379"
 draft: "false"
 weight: "999"

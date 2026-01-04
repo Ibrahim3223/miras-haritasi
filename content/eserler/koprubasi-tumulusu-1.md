@@ -5,10 +5,10 @@ slug: "koprubasi-tumulusu-1"
 description: "## Köprübaşı Tümülüsü 1: Bünyan'ın Gizli İnsanları..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0290985,38.6888199"
 draft: "false"
 weight: "999"

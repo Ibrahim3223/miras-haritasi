@@ -5,10 +5,10 @@ slug: "mimar-sinan-evi-muzesi"
 description: "## Mimar Sinan Evi Müzesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.7144012,38.8156128"
 draft: "false"
 weight: "999"

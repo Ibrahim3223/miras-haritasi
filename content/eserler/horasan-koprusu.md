@@ -5,10 +5,10 @@ slug: "horasan-koprusu"
 description: "## Horasan Köprüsü: Tarih, Mimari ve Kültür..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Horasan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1853523,40.03545"
 draft: "false"
 weight: "999"

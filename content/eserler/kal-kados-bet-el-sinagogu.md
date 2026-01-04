@@ -5,10 +5,10 @@ slug: "kal-kados-bet-el-sinagogu"
 description: "## Kal Kadoş Bet El Sinagogu Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0671692,40.9726143"
 draft: "false"
 weight: "999"

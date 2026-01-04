@@ -5,10 +5,10 @@ slug: "lydae"
 description: "## Lydae: Antik Kentin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.85926,36.621642"
 draft: "false"
 weight: "999"

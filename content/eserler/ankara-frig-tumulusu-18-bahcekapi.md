@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-18-bahcekapi"
 description: "### Ankara Frig Tümülüsü 18, Bahçekapı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Etimesgut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.798452,39.923468"
 draft: "false"
 weight: "999"

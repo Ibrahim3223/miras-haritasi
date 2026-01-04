@@ -5,10 +5,10 @@ slug: "sanliurfa-muzesi"
 description: "### Şanlıurfa Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Şanlıurfa_Müzesi.jpg/1200px-Şanlıurfa_Müzesi.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.78805556,37.16055556"
 draft: "false"
 weight: "10"

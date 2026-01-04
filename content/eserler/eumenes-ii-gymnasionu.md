@@ -5,10 +5,10 @@ slug: "eumenes-ii-gymnasionu"
 description: "### Eumenes II Gymnasionu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.273333333,37.528888888"
 draft: "false"
 weight: "999"

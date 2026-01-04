@@ -5,10 +5,10 @@ slug: "armene"
 description: "## Armene: Sinop'un Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Armene_pusilla_Baikonur_01_02.jpg"
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.041878,42.049231"
 draft: "false"
 weight: "999"

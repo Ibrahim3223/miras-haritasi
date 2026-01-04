@@ -5,10 +5,10 @@ slug: "dumanli-koyu-zurnacili-mahallesi-kilisesi"
 description: "### Dumanlı Köyü Zurnacılı Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Gümüşhane"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.811546,40.666966"
 draft: "false"
 weight: "999"

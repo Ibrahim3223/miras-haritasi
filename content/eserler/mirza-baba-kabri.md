@@ -5,10 +5,10 @@ slug: "mirza-baba-kabri"
 description: "## Mirza Baba Kabri: Fatih'ten Gelen Bir Kutsal Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9409084,41.0030975"
 draft: "false"
 weight: "999"

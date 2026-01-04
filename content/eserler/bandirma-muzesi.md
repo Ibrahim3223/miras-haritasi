@@ -5,10 +5,10 @@ slug: "bandirma-muzesi"
 description: "### Bandırma Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Bandırma_Müzesi'nde_bir_lahit.jpg/1200px-Bandırma_Müzesi'nde_bir_lahit.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.953333333,40.347222222"
 draft: "false"
 weight: "10"

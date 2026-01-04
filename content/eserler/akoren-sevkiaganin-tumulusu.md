@@ -5,10 +5,10 @@ slug: "akoren-sevkiaganin-tumulusu"
 description: "### Akören Şevkiağanın Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5606632,41.7074356"
 draft: "false"
 weight: "999"

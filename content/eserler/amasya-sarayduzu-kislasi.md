@@ -5,10 +5,10 @@ slug: "amasya-sarayduzu-kislasi"
 description: "**Amasya Saraydüzü Kışlası: Tarih ve Kültür Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Sarayd%C3%BCz%C3%BC_K%C4%B1%C5%9Flas%C4%B1_-_panoramio.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

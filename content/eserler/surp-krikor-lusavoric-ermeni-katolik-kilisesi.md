@@ -5,10 +5,10 @@ slug: "surp-krikor-lusavoric-ermeni-katolik-kilisesi"
 description: "## Surp Krikor Lusavoriç Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0245171,41.052227"
 draft: "false"
 weight: "999"

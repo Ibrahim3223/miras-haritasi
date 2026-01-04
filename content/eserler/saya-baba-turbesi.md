@@ -5,10 +5,10 @@ slug: "saya-baba-turbesi"
 description: "### Saya Baba Türbesi: İhsaniye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4493923,38.992012"
 draft: "false"
 weight: "999"

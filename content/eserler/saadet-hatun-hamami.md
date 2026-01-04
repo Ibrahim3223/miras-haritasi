@@ -5,10 +5,10 @@ slug: "saadet-hatun-hamami"
 description: "### Saadet Hatun Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3669643,37.9484978"
 draft: "false"
 weight: "999"

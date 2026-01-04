@@ -5,10 +5,10 @@ slug: "antakya-samian-ware-discovery-site"
 description: "### Antakya (Samian Ware Discovery Site): Tarihin Eski Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.15,36.2"
 draft: "false"
 weight: "999"

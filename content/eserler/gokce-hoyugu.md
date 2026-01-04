@@ -5,10 +5,10 @@ slug: "gokce-hoyugu"
 description: "## Gökçe Höyüğü: Kozaklı'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7076136,39.2493172"
 draft: "false"
 weight: "999"

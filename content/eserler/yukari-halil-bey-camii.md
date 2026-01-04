@@ -5,10 +5,10 @@ slug: "yukari-halil-bey-camii"
 description: "## Yukarı Halil Bey Camii: Bartın'ın Tarihi Anıtı..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3370514,41.6344604"
 draft: "false"
 weight: "999"

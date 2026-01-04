@@ -5,10 +5,10 @@ slug: "sivri-kilise"
 description: "### Sivri Kilise: Niğde'nin Gizli Çehresindeki Tarihi Bir Ören..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Altunhisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.3838005,38.0020599"
 draft: "false"
 weight: "999"

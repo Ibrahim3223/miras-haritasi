@@ -5,10 +5,10 @@ slug: "cakiltepe-tumulusu"
 description: "### Çakıltepe Tümülüsü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.8195,38.3494682"
 draft: "false"
 weight: "999"

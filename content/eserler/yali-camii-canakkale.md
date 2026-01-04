@@ -5,10 +5,10 @@ slug: "yali-camii-canakkale"
 description: "### Yalı Camii: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.4004345,40.1486702"
 draft: "false"
 weight: "999"

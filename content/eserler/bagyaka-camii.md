@@ -5,10 +5,10 @@ slug: "bagyaka-camii"
 description: "## Bağyaka Camii: Finike'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Baqustan.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1396446,36.33955"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasbey-darulhuffazi"
 description: "## Hasbey Darülhuffazı: Konya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.4950981,37.8693352"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "darulhadis"
 description: "## Darülhadis Medresesi: Bergama'nın Gizli Çehresini Keşfeden Bir Öykü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.1777992,39.1240997"
 draft: "false"
 weight: "999"

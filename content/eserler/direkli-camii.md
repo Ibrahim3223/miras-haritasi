@@ -5,10 +5,10 @@ slug: "direkli-camii"
 description: "## Direkli Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8696976,39.9385681"
 draft: "false"
 weight: "999"

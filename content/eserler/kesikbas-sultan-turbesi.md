@@ -5,10 +5,10 @@ slug: "kesikbas-sultan-turbesi"
 description: "### Kesikbaş Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.939472,41.03647"
 draft: "false"
 weight: "999"

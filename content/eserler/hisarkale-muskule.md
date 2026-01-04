@@ -5,10 +5,10 @@ slug: "hisarkale-muskule"
 description: "## Hisarkale, Müşküle: İznik'in Gizli Harbi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.5252991,40.3523445"
 draft: "false"
 weight: "999"

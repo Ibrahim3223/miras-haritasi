@@ -5,10 +5,10 @@ slug: "pasa-hamami-koprusu"
 description: "### Paşa Hamamı Köprüsü..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1076126,38.4024963"
 draft: "false"
 weight: "999"

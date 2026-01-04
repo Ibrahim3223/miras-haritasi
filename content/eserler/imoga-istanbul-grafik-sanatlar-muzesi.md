@@ -5,10 +5,10 @@ slug: "imoga-istanbul-grafik-sanatlar-muzesi"
 description: "## Imoga İstanbul Grafik Sanatlar Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.064846,41.003609"
 draft: "false"
 weight: "999"

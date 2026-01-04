@@ -5,10 +5,10 @@ slug: "arslan-kaya"
 description: "## Arslan Kaya: İhsaniye'nin Efsanevi Arkeolojik Sit..."
 featured_image: ""
 province: "İhsaniye"
-iller: '["İhsaniye"]'
+iller: ["İhsaniye"]
 district: "Üçlerkayası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.4277634,39.1067195"
 draft: "false"
 weight: "999"

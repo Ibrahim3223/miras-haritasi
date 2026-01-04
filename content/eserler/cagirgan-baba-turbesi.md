@@ -5,10 +5,10 @@ slug: "cagirgan-baba-turbesi"
 description: "## Çağırgan Baba Türbesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.591369,40.417846"
 draft: "false"
 weight: "999"

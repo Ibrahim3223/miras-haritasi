@@ -5,10 +5,10 @@ slug: "kuyucak-hamami"
 description: "## Kuyucak Hamamı: Kahramanmaraş'taki Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.9322281,37.5833664"
 draft: "false"
 weight: "999"

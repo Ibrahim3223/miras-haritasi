@@ -5,10 +5,10 @@ slug: "baba-sahne"
 description: "### Baba Sahne: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Baba_Sahne_20220619_(cropped).jpg/1200px-Baba_Sahne_20220619_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.027944444,40.9875"
 draft: "false"
 weight: "10"

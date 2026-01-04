@@ -5,10 +5,10 @@ slug: "aya-saradi-manastiri"
 description: "## Aya Saradi Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8064995,40.1534996"
 draft: "false"
 weight: "999"

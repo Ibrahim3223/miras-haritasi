@@ -5,10 +5,10 @@ slug: "edirne-kapisi"
 description: "## Edirne Kapısı: Karagümrük'te Bir Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Edirne_Kapısı.jpg/1200px-Edirne_Kapısı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935419,41.030178"
 draft: "false"
 weight: "10"

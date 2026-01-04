@@ -5,10 +5,10 @@ slug: "haci-fakih-turbesi"
 description: "## Hacı Fakih Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7485676,38.0866928"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sati-fakih-mescidi"
 description: "### Satı Fakih Mescidi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0545044,40.1853294"
 draft: "false"
 weight: "999"

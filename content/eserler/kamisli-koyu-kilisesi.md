@@ -5,10 +5,10 @@ slug: "kamisli-koyu-kilisesi"
 description: "## Kamışlı Köyü Kilisesi: Giresun'un Gizemleri..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.769477,40.309496"
 draft: "false"
 weight: "999"

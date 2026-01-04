@@ -5,10 +5,10 @@ slug: "orenkit-koprusu"
 description: "### Örenkit Köprüsü: Bir Geçit Nefesinin Tarihi Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0076707,41.0619148"
 draft: "false"
 weight: "999"

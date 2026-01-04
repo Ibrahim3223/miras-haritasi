@@ -5,10 +5,10 @@ slug: "edincik-ulu-camii"
 description: "### Edincik Ulu Camii: Bir Geçiş Döneminin İnce Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edincik_Ulu_Camii.jpg/1200px-Edincik_Ulu_Camii.jpg"
 province: "Bandırma"
-iller: '["Bandırma"]'
+iller: ["Bandırma"]
 district: "Edincik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.855944444,40.346888888"
 draft: "false"
 weight: "10"

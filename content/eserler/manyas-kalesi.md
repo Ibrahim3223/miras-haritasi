@@ -5,10 +5,10 @@ slug: "manyas-kalesi"
 description: "## Manyas Kalesi: Tarihin Gizemi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Manyas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0518799,40.0040169"
 draft: "false"
 weight: "999"

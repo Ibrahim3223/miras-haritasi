@@ -5,10 +5,10 @@ slug: "darende-ulu-camii"
 description: "## Darende Ulu Camii: Malatya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Darende"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.488027777,38.570666666"
 draft: "false"
 weight: "999"

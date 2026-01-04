@@ -5,10 +5,10 @@ slug: "kyaneai-antik-tiyatrosu"
 description: "# Kyaneai Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.815052,36.246036"
 draft: "false"
 weight: "999"

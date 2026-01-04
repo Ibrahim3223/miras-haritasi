@@ -5,10 +5,10 @@ slug: "arabissus"
 description: "### Arabissus Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Roman-Persian_Frontier%2C_565_AD.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.906,38.239"
 draft: "false"
 weight: "999"

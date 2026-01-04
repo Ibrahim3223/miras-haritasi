@@ -5,10 +5,10 @@ slug: "tosbag-tepe-hoyugu"
 description: "## Tosbağ Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.5509796,38.869957"
 draft: "false"
 weight: "999"

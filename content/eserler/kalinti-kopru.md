@@ -5,10 +5,10 @@ slug: "kalinti-kopru"
 description: "## Kalıntı Köprü: Yusufeli'nin Tarihi Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.618757024,40.817328812"
 draft: "false"
 weight: "999"

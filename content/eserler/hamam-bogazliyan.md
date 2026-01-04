@@ -5,10 +5,10 @@ slug: "hamam-bogazliyan"
 description: "### Boğazlıyan Hamamı: Osmanlı Dönemi'nin Etkileyici Kalıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.2442245,39.1909142"
 draft: "false"
 weight: "999"

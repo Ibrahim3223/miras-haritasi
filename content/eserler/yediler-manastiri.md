@@ -5,10 +5,10 @@ slug: "yediler-manastiri"
 description: "### Yediler Manastırı: Milas'ın Gizli Çehresini Açığa Çıkaran Bir Ören..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Латр._Монастырь_Келливаров_1.jpg/1200px-Латр._Монастырь_Келливаров_1.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.557099,37.497936"
 draft: "false"
 weight: "10"

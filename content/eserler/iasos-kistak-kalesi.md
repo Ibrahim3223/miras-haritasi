@@ -5,10 +5,10 @@ slug: "iasos-kistak-kalesi"
 description: "## Iasos Kıstak Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5847073,37.2805252"
 draft: "false"
 weight: "999"

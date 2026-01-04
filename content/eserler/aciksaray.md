@@ -5,10 +5,10 @@ slug: "aciksaray"
 description: "## Açıksaray Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/AciksarayFassade.jpg/1200px-AciksarayFassade.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "34.66305556,38.7375"
 draft: "false"
 weight: "10"

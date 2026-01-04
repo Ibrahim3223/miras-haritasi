@@ -5,10 +5,10 @@ slug: "uc-kusak-baspehlivan-heykeli"
 description: "**Üç Kuşak Başpehlivan Heykeli**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9691849,40.3560867"
 draft: "false"
 weight: "999"

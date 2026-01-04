@@ -5,10 +5,10 @@ slug: "ahmet-semsi-pasa-camii"
 description: "### Ahmet Şemsi Paşa Camii: Aydın'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Aydin_Ahmet_Shemsi_Pasha_mosque_4627.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0868492,37.8676033"
 draft: "false"
 weight: "999"

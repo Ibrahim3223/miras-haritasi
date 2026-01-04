@@ -5,10 +5,10 @@ slug: "kalebalta-kalesi"
 description: "### Kalebalta Kalesi: Aksaray'ın Efsanevi Kalesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.1884346,38.5882797"
 draft: "false"
 weight: "999"

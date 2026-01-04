@@ -5,10 +5,10 @@ slug: "ani-kucuk-hamam"
 description: "## Ani Küçük Hamam: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "43.5788231,40.5059128"
 draft: "false"
 weight: "999"

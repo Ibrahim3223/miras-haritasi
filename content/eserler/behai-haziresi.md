@@ -5,10 +5,10 @@ slug: "behai-haziresi"
 description: "## Behai Haziresi: İstanbul'un Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.949194,41.0212708"
 draft: "false"
 weight: "999"

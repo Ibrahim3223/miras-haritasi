@@ -5,10 +5,10 @@ slug: "lala-mustafa-pasa-camii"
 description: "## Lala Mustafa Paşa Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.916214,38.2800522"
 draft: "false"
 weight: "999"

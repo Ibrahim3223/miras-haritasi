@@ -5,10 +5,10 @@ slug: "yeni-aya-fotini-kilisesi"
 description: "## Yeni Aya Fotini Kilisesi: İzmir'in Eski Şehirinin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Aya_Fotini_Kilisesi_(Yeni).jpg/1200px-Aya_Fotini_Kilisesi_(Yeni).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1399002,38.4274559"
 draft: "false"
 weight: "10"

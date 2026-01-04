@@ -5,10 +5,10 @@ slug: "bursa-ataturk-aniti"
 description: "## Bursa Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/ATATÜRK_ANITI_-_panoramio.jpg/1200px-ATATÜRK_ANITI_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.066833333,40.182611111"
 draft: "false"
 weight: "10"

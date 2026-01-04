@@ -5,10 +5,10 @@ slug: "yaprakhisar-kaya-camii"
 description: "## Yaprakhisar Kaya Camii: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.2654762,38.2942734"
 draft: "false"
 weight: "999"

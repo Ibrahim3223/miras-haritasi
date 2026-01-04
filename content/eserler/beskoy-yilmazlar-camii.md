@@ -5,10 +5,10 @@ slug: "beskoy-yilmazlar-camii"
 description: "## Beşköy Yılmazlar Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Köprübaşı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.12254,40.777851"
 draft: "false"
 weight: "999"

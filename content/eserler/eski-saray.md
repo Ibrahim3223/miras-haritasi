@@ -5,10 +5,10 @@ slug: "eski-saray"
 description: "## Eski Saray: İstanbul'un Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Saray_eski1.jpg/1200px-Saray_eski1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.964244274,41.011131524"
 draft: "false"
 weight: "10"

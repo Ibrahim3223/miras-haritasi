@@ -5,10 +5,10 @@ slug: "edirne-muzesi"
 description: "### Edirne Müzesi: Tarih, Kültür ve Sanatın Birleştiği Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Gravestones-and-museum-at-Selimiye-Mosque.jpg/1200px-Gravestones-and-museum-at-Selimiye-Mosque.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.560555555,41.678888888"
 draft: "false"
 weight: "10"

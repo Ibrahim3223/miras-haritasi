@@ -5,10 +5,10 @@ slug: "seyh-i-sibli-turbesi"
 description: "## Şeyh-i Şibli Türbesi: Düzce'nin Efsanevi Anıtı..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.148,40.9052"
 draft: "false"
 weight: "999"

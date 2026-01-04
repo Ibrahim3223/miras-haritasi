@@ -5,10 +5,10 @@ slug: "topcubasi-ilyas-aga-kabri"
 description: "## Topçubaşı İlyas Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9420643,41.035511"
 draft: "false"
 weight: "999"

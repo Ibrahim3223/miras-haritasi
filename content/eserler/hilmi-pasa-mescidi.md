@@ -5,10 +5,10 @@ slug: "hilmi-pasa-mescidi"
 description: "## Hilmi Paşa Mescidi: Kayseri'nin Bir Öreni..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.486111099,38.720625776"
 draft: "false"
 weight: "999"

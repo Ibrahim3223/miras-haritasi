@@ -5,10 +5,10 @@ slug: "edirnekapi-fatih"
 description: "## Edirnekapı, Fatih: İstanbul'un Tarihî Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Gate_of_Charisius.jpg/1200px-Gate_of_Charisius.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935387,41.030242"
 draft: "false"
 weight: "10"

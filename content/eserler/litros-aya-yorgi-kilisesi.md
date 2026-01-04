@@ -5,10 +5,10 @@ slug: "litros-aya-yorgi-kilisesi"
 description: "### Litros Aya Yorgi Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenler"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8808193,41.0390205"
 draft: "false"
 weight: "999"

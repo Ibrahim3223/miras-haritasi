@@ -5,10 +5,10 @@ slug: "aziz-mahmud-hudai-turbesi"
 description: "### Aziz Mahmud Hüdai Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/df/T%C3%BCrbe_Ziyareti_019_-_panoramio_%281%29.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.014333,41.022368"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "devletsah-mescidi"
 description: "## Devletşah Mescidi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5522022,41.6840363"
 draft: "false"
 weight: "999"

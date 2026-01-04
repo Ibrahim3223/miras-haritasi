@@ -5,10 +5,10 @@ slug: "fahri-koruturk-bustu"
 description: "## Fahri Korutürk Büstü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0211582,40.9812813"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aslan-torunlar-evi-etnografya-muzesi"
 description: "## Aslan Torunlar Evi Etnografya Müzesi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.153128,42.02633"
 draft: "false"
 weight: "999"

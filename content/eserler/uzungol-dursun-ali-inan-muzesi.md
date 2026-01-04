@@ -5,10 +5,10 @@ slug: "uzungol-dursun-ali-inan-muzesi"
 description: "## Uzungöl Dursun Ali İnan Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.303961111,40.617669444"
 draft: "false"
 weight: "999"

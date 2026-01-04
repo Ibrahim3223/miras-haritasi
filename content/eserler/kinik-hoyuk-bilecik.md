@@ -5,10 +5,10 @@ slug: "kinik-hoyuk-bilecik"
 description: "## Kınık Höyük: Bilecik'teki Kıvrak Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.854777777,40.017858333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saraclar-camii"
 description: "### Saraçlar Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8622589,39.9366188"
 draft: "false"
 weight: "999"

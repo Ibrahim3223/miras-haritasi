@@ -5,10 +5,10 @@ slug: "duzkoy-merkez-camii"
 description: "## Düzköy Merkez Camii: Artvin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.6121674,41.3764305"
 draft: "false"
 weight: "999"

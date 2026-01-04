@@ -5,10 +5,10 @@ slug: "hasan-dede-turbesi"
 description: "## Hasan Dede Türbesi: İnegöl'de Bir Tarihi Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4113064,40.1461258"
 draft: "false"
 weight: "999"

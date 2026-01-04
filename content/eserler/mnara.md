@@ -5,10 +5,10 @@ slug: "mnara"
 description: "## Mnara: Likya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: '["Akdeniz Bölgesi"]'
+iller: ["Akdeniz Bölgesi"]
 district: "Likya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.47823,36.661236"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saadettin-camii"
 description: "### Saadettin Camii..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9763203,39.4202728"
 draft: "false"
 weight: "999"

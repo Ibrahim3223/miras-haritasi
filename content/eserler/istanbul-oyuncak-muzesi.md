@@ -5,10 +5,10 @@ slug: "istanbul-oyuncak-muzesi"
 description: "### İstanbul Oyuncak Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/MuzeumhracekIstanbul_budova.JPG/1200px-MuzeumhracekIstanbul_budova.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.07073,40.97593"
 draft: "false"
 weight: "10"

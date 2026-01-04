@@ -5,10 +5,10 @@ slug: "kesdogan-kalesi-divrigi"
 description: "**Kesdoğan Kalesi: Divriği'nin Tarihî ve Kültür Mirası**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.129532,39.37722"
 draft: "false"
 weight: "999"

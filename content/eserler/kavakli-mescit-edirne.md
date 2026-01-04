@@ -5,10 +5,10 @@ slug: "kavakli-mescit-edirne"
 description: "## Kavaklı Mescit: Edirne'nin Zengin Cami Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.556419723,41.668318401"
 draft: "false"
 weight: "999"

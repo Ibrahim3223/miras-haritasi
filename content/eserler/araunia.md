@@ -5,10 +5,10 @@ slug: "araunia"
 description: "## Araunia: Antik Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.782408,40.0337215"
 draft: "false"
 weight: "999"

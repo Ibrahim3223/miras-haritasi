@@ -5,10 +5,10 @@ slug: "hatice-hanim-turbesi"
 description: "## Hatice Hanım Türbesi: Ardanuç'un Tarihi Bir Ziyareti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Ardanuç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.057975,41.128005"
 draft: "false"
 weight: "999"

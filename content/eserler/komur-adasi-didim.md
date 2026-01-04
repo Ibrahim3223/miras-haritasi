@@ -5,10 +5,10 @@ slug: "komur-adasi-didim"
 description: "## Kömür Adası: Didim'in Gizli Çandırı..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.39975,37.4105"
 draft: "false"
 weight: "999"

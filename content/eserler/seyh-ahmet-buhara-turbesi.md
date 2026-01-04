@@ -5,10 +5,10 @@ slug: "seyh-ahmet-buhara-turbesi"
 description: "## Şeyh Ahmet Buhara Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.960206,41.023192"
 draft: "false"
 weight: "999"

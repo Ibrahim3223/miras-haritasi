@@ -5,10 +5,10 @@ slug: "yusuf-sinaneddin-i-sinecak-efendi-kabri"
 description: "## Yusuf Sinaneddin-i Sineçak Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9414349,41.0488129"
 draft: "false"
 weight: "999"

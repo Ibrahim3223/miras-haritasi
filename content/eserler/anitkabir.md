@@ -5,10 +5,10 @@ slug: "anitkabir"
 description: "### Anıtkabir: Türkiye'nin En Önemli Tarihsel Yapılarından biri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ankara_asv2021-10_img04_Anıtkabir.jpg/1200px-Ankara_asv2021-10_img04_Anıtkabir.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.836944444,39.925"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "yaras-camii"
 description: "## Yaraş Camii Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4904461,37.1662598"
 draft: "false"
 weight: "999"

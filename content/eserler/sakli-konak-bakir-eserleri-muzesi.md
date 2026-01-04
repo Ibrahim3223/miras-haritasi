@@ -5,10 +5,10 @@ slug: "sakli-konak-bakir-eserleri-muzesi"
 description: "## Saklı Konak Bakır Eserleri Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.382416,37.068784"
 draft: "false"
 weight: "999"

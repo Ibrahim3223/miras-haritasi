@@ -5,10 +5,10 @@ slug: "hani-ulu-camii"
 description: "**Hani Ulu Camii Tanıtımı**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Hani"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.391138888,38.412833333"
 draft: "false"
 weight: "999"

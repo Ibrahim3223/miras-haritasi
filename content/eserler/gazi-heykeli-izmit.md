@@ -5,10 +5,10 @@ slug: "gazi-heykeli-izmit"
 description: "### Gazi Heykeli, İzmit..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9190121,40.7626419"
 draft: "false"
 weight: "999"

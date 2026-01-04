@@ -5,10 +5,10 @@ slug: "kasim-celebi-kabri"
 description: "## Kasım Çelebi Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9245911,41.0039177"
 draft: "false"
 weight: "999"

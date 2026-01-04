@@ -5,10 +5,10 @@ slug: "critote"
 description: "### Critote: Gelibolu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.651664,40.406725"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taskiran-sarigol-camii"
 description: "### Taşkıran Sarıgöl Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4998999,40.9567"
 draft: "false"
 weight: "999"

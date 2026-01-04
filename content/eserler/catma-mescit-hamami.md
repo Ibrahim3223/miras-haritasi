@@ -5,10 +5,10 @@ slug: "catma-mescit-hamami"
 description: "### Çatma Mescit Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.969929916,41.031318445"
 draft: "false"
 weight: "999"

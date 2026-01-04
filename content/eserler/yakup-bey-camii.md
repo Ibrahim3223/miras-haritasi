@@ -5,10 +5,10 @@ slug: "yakup-bey-camii"
 description: "## Yakup Bey Camii: Sındırgı'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1758347,39.2373466"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "savmta-kilisesi"
 description: "### Şavmta Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.374405555,41.375480555"
 draft: "false"
 weight: "999"

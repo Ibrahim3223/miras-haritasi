@@ -5,10 +5,10 @@ slug: "umur-bey-hamami"
 description: "## Umur Bey Hamamı: Afyonkarahisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5544147,38.7457314"
 draft: "false"
 weight: "999"

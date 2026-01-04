@@ -5,10 +5,10 @@ slug: "devlet-agorasindaki-tapinak"
 description: "# Devlet Agorasındaki Tapınak..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.343908818,37.936474846"
 draft: "false"
 weight: "999"

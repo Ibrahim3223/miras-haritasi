@@ -5,10 +5,10 @@ slug: "mabolla"
 description: "## Mabolla: Muğla'nın Gizli Çağı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.381291,37.224849"
 draft: "false"
 weight: "999"

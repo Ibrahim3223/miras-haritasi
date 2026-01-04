@@ -5,10 +5,10 @@ slug: "islambeyli-taskopru-tumulusu"
 description: "## İslambeyli Taşköprü Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6280212,41.7117081"
 draft: "false"
 weight: "999"

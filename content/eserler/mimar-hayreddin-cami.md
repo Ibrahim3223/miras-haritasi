@@ -5,10 +5,10 @@ slug: "mimar-hayreddin-cami"
 description: "### Mimar Hayreddin Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Mimar_Hayreddin_Mosque,_İstanbul.jpg/1200px-Mimar_Hayreddin_Mosque,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.969111111,41.008444444"
 draft: "false"
 weight: "10"

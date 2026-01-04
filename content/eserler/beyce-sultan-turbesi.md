@@ -5,10 +5,10 @@ slug: "beyce-sultan-turbesi"
 description: "## Beyce Sultan Türbesi: Çivril'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6999722,38.2570076"
 draft: "false"
 weight: "999"

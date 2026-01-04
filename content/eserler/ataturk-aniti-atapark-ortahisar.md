@@ -5,10 +5,10 @@ slug: "ataturk-aniti-atapark-ortahisar"
 description: "## Atatürk Anıtı (Atapark)..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.716194,41.003999"
 draft: "false"
 weight: "999"

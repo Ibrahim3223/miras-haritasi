@@ -5,10 +5,10 @@ slug: "koraia"
 description: "## Koraia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.006457,37.343724"
 draft: "false"
 weight: "999"

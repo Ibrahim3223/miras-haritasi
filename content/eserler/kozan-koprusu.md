@@ -5,10 +5,10 @@ slug: "kozan-koprusu"
 description: "## Kozan Köprüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.8080292,37.4499855"
 draft: "false"
 weight: "999"

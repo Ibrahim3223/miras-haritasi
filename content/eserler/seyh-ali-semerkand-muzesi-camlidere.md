@@ -5,10 +5,10 @@ slug: "seyh-ali-semerkand-muzesi-camlidere"
 description: "### Şeyh Ali Semerkandî Müzesi, Çamlıdere..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4688225,40.4883995"
 draft: "false"
 weight: "999"

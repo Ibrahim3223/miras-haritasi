@@ -5,10 +5,10 @@ slug: "kyparodes"
 description: "## Kyparodes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.054166666,41.104444444"
 draft: "false"
 weight: "999"

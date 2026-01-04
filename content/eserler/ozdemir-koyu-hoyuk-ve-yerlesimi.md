@@ -5,10 +5,10 @@ slug: "ozdemir-koyu-hoyuk-ve-yerlesimi"
 description: "## Özdemir Köyü Höyük ve Yerleşimi..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.7246857,39.0383606"
 draft: "false"
 weight: "999"

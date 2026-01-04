@@ -5,10 +5,10 @@ slug: "kopru-hosdere"
 description: "### Hoşdere Köprüsü: Esenyurt'taki Tarihi bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenyurt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.6455498,41.0800514"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mastaura-roma-hamami"
 description: "### Mastaura Roma Hamamı: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.3400059,37.9555321"
 draft: "false"
 weight: "999"

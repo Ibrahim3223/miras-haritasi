@@ -5,10 +5,10 @@ slug: "hz-yusa-turbesi"
 description: "## Hz. Yuşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.084795258,41.162260021"
 draft: "false"
 weight: "999"

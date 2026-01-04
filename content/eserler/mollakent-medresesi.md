@@ -5,10 +5,10 @@ slug: "mollakent-medresesi"
 description: "# Mollakent Medresesi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.0692825,38.9526901"
 draft: "false"
 weight: "999"

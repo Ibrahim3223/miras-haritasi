@@ -5,10 +5,10 @@ slug: "hemite-kabartmasi"
 description: "## Hemite Kabartması: Osmaniye'nin Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Hemite4.jpg/1200px-Hemite4.jpg"
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "convent-of-bebaia-elpis"
 description: "### Bebaia Elpis Manastırı: Bir Azizin Ruhuna Adanmış Ortam..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

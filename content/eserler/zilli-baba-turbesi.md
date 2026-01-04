@@ -5,10 +5,10 @@ slug: "zilli-baba-turbesi"
 description: "## Zilli Baba Türbesi: Adana'nın Efsanevi Anıtı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.33041,37.0094566"
 draft: "false"
 weight: "999"

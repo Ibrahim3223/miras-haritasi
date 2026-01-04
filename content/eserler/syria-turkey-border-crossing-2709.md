@@ -5,10 +5,10 @@ slug: "syria-turkey-border-crossing-2709"
 description: "## Suriye - Türkiye Sınır Geçidi #2709..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "36.60003,36.36696"
 draft: "false"
 weight: "999"

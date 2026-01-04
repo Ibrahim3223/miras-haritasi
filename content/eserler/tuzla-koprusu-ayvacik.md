@@ -5,10 +5,10 @@ slug: "tuzla-koprusu-ayvacik"
 description: "**Tuzla Köprüsü, Ayvacık: Bir Geçit Köprüsüün Tarihi ve Mimari Özellikleri**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.1589699,39.5583496"
 draft: "false"
 weight: "999"

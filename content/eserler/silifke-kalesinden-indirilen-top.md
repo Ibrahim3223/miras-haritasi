@@ -5,10 +5,10 @@ slug: "silifke-kalesinden-indirilen-top"
 description: "## Silifke Kalesi'nden İndirilen Top: Mersin'in Gizli Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9276161,36.3786125"
 draft: "false"
 weight: "999"

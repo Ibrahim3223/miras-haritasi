@@ -5,10 +5,10 @@ slug: "hz-cafer-bin-abdullah-el-ensari-turbesi"
 description: "## Hz. Cafer Bin Abdullah El Ensari Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941889,41.031709"
 draft: "false"
 weight: "999"

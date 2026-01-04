@@ -5,10 +5,10 @@ slug: "husrev-kethuda-darulkurrasi"
 description: "## Hüsrev Kethüda Darülkurrası: Fatih'in Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9595566,41.0145836"
 draft: "false"
 weight: "999"

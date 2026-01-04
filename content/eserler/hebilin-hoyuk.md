@@ -5,10 +5,10 @@ slug: "hebilin-hoyuk"
 description: "## Hebilin Höyük: Kütahya'nın Kırmızı Taşları..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.10965,38.956533"
 draft: "false"
 weight: "999"

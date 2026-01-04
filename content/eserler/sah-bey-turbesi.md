@@ -5,10 +5,10 @@ slug: "sah-bey-turbesi"
 description: "### Şah Bey Türbesi: Bafra'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.0877,41.525156"
 draft: "false"
 weight: "999"

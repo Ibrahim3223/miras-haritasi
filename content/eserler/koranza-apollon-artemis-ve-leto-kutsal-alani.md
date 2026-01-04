@@ -5,10 +5,10 @@ slug: "koranza-apollon-artemis-ve-leto-kutsal-alani"
 description: "## Koranza Apollon Artemis ve Leto Kutsal Alanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0319252,37.3837852"
 draft: "false"
 weight: "999"

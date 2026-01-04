@@ -5,10 +5,10 @@ slug: "deveci-hamami"
 description: "## Deveci Hamamı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.4907646,38.713726"
 draft: "false"
 weight: "999"

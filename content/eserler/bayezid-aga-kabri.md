@@ -5,10 +5,10 @@ slug: "bayezid-aga-kabri"
 description: "## Bayezid Ağa Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9278355,41.0204811"
 draft: "false"
 weight: "999"

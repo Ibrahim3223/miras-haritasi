@@ -5,10 +5,10 @@ slug: "bereketli-roma-koprusu"
 description: "### Bereketli Roma Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8809509,39.4355698"
 draft: "false"
 weight: "999"

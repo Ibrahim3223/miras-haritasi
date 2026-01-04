@@ -5,10 +5,10 @@ slug: "badalan-dede-mescidi"
 description: "## Badalan Dede Mescidi: Urla'da Tarihi Bir Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7691174,38.3246765"
 draft: "false"
 weight: "999"

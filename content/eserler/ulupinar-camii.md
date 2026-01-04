@@ -5,10 +5,10 @@ slug: "ulupinar-camii"
 description: "## Ulupınar Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.60116,39.1818085"
 draft: "false"
 weight: "999"

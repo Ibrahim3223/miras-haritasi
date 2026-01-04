@@ -5,10 +5,10 @@ slug: "karatas-yaya-ust-gecidi"
 description: "## Karataş Yaya Üst Geçidi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.119666666,38.410777777"
 draft: "false"
 weight: "999"

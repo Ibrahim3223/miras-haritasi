@@ -5,10 +5,10 @@ slug: "azat-hoyuk"
 description: "## Azat Höyük: Kars'ın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.1126785,40.530159"
 draft: "false"
 weight: "999"

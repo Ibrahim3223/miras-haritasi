@@ -5,10 +5,10 @@ slug: "harman-camii"
 description: "### Harman Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Doğanhisar_Harman_Cami_83.jpg/1200px-Doğanhisar_Harman_Cami_83.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5614891,38.6820793"
 draft: "false"
 weight: "999"

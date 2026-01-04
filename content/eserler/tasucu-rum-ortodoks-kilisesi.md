@@ -5,10 +5,10 @@ slug: "tasucu-rum-ortodoks-kilisesi"
 description: "## Taşucu Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "33.8820686,36.3197746"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarihacilar-koyu-camii"
 description: "Sarıhacılar Köyü Camii..."
 featured_image: ""
 province: "Akseki (ilçe)"
-iller: '["Akseki (ilçe)"]'
+iller: ["Akseki (ilçe)"]
 district: "Sarıhacılar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.7716599,37.0182076"
 draft: "false"
 weight: "999"

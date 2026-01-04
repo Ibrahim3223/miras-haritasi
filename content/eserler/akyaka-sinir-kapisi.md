@@ -5,10 +5,10 @@ slug: "akyaka-sinir-kapisi"
 description: "## Akyaka Sınır Kapısı: Kars'ta Bir Kervansarayın Gizli Mirası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Akyaka"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "43.74027778,40.72916667"
 draft: "false"
 weight: "999"

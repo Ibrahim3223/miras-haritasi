@@ -5,10 +5,10 @@ slug: "akcakoy-tumulusu-2"
 description: "## Akçaköy Tümülüsü 2: Lüleburgaz'ın Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5739498,41.3703995"
 draft: "false"
 weight: "999"

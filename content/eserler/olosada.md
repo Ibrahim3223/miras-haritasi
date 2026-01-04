@@ -5,10 +5,10 @@ slug: "olosada"
 description: "## Olosada Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.589417,36.891587"
 draft: "false"
 weight: "999"

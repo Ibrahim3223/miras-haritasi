@@ -5,10 +5,10 @@ slug: "mesih-ali-pasa-turbesi"
 description: "### Mesih Ali Paşa Türbesi: İstanbul'un Şair ve Zengin Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9434052,41.0220566"
 draft: "false"
 weight: "999"

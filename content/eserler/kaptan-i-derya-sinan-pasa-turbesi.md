@@ -5,10 +5,10 @@ slug: "kaptan-i-derya-sinan-pasa-turbesi"
 description: "## Kaptan-ı Derya Sinan Paşa Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6801662,40.418438"
 draft: "false"
 weight: "999"

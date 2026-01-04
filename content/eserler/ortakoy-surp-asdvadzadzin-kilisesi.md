@@ -5,10 +5,10 @@ slug: "ortakoy-surp-asdvadzadzin-kilisesi"
 description: "### Ortaköy Surp Asdvadzadzin Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.023031,41.049796"
 draft: "false"
 weight: "999"

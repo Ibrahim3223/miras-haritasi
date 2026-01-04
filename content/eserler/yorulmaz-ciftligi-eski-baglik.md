@@ -5,10 +5,10 @@ slug: "yorulmaz-ciftligi-eski-baglik"
 description: "### Yorulmaz Çiftliği – Eski Bağlık..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.542461,41.735918"
 draft: "false"
 weight: "999"

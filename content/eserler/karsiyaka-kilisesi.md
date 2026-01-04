@@ -5,10 +5,10 @@ slug: "karsiyaka-kilisesi"
 description: "## Karşıyaka Kilisesi: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0007095,40.4418068"
 draft: "false"
 weight: "999"

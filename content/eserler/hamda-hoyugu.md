@@ -5,10 +5,10 @@ slug: "hamda-hoyugu"
 description: "### Hamda Höyük: Hatay'ın Gizli Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4785954,36.2225668"
 draft: "false"
 weight: "999"

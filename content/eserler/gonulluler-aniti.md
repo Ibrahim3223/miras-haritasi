@@ -5,10 +5,10 @@ slug: "gonulluler-aniti"
 description: "## Gönüllüler Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.125972222,38.418222222"
 draft: "false"
 weight: "999"

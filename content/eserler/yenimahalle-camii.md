@@ -5,10 +5,10 @@ slug: "yenimahalle-camii"
 description: "## Yenimahalle Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.8931007,41.2018013"
 draft: "false"
 weight: "999"

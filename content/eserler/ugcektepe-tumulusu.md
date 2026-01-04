@@ -5,10 +5,10 @@ slug: "ugcektepe-tumulusu"
 description: "## Üğcektepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.3925838,40.9936447"
 draft: "false"
 weight: "999"

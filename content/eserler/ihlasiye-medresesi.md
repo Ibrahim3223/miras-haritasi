@@ -5,10 +5,10 @@ slug: "ihlasiye-medresesi"
 description: "## İhlasiye Medresesi: Bitlis'in Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.1065445,38.4064636"
 draft: "false"
 weight: "999"

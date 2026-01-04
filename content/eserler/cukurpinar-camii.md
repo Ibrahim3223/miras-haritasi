@@ -5,10 +5,10 @@ slug: "cukurpinar-camii"
 description: "## Çukurpınar Camii: Sivas'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0195312,39.7451744"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yapraklar-koprusu-iyidere"
 description: "## Yapraklar Köprüsü, İyidere..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.372593,40.995022"
 draft: "false"
 weight: "999"

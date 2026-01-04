@@ -5,10 +5,10 @@ slug: "elazig-surp-asdvadsadzin-kilisesi"
 description: "## Elazığ Surp Asdvadsadzin Kilisesi: Bir Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Surp_Asdvadzadzin_Kilisesi_Dışı.jpg/1200px-Surp_Asdvadzadzin_Kilisesi_Dışı.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Tadım"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.173,38.572638888"
 draft: "false"
 weight: "10"

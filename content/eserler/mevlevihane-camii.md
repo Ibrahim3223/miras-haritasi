@@ -5,10 +5,10 @@ slug: "mevlevihane-camii"
 description: "## Mevlevihane Camii: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7909546,37.1493111"
 draft: "false"
 weight: "999"

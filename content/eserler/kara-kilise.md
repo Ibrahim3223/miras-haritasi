@@ -5,10 +5,10 @@ slug: "kara-kilise"
 description: "## Kara Kilise: Adana'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kara_Kilise_2.jpg/1200px-Kara_Kilise_2.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Feke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.943018817,37.85114629"
 draft: "false"
 weight: "10"

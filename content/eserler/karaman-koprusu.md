@@ -5,10 +5,10 @@ slug: "karaman-koprusu"
 description: "## Karaman Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.773252508,37.551663923"
 draft: "false"
 weight: "999"

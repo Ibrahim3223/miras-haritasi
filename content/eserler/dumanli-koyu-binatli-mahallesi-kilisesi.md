@@ -5,10 +5,10 @@ slug: "dumanli-koyu-binatli-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Binatlı Mahallesi Kilisesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.8029,40.672097"
 draft: "false"
 weight: "999"

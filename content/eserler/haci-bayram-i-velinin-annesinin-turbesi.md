@@ -5,10 +5,10 @@ slug: "haci-bayram-i-velinin-annesinin-turbesi"
 description: "# Hacı Bayram-ı Veli'nin Annesinin Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Keçiören"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8989716,39.9907951"
 draft: "false"
 weight: "999"

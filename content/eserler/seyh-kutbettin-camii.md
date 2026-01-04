@@ -5,10 +5,10 @@ slug: "seyh-kutbettin-camii"
 description: "# Şeyh Kutbettin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cami_ve_müze.jpg/1200px-Cami_ve_müze.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7259693,40.4299164"
 draft: "false"
 weight: "10"

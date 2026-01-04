@@ -5,10 +5,10 @@ slug: "redif-taburu-merkez-konagi"
 description: "# Redif Taburu Merkez Konağı: İlginin Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "31.9069653,38.2777023"
 draft: "false"
 weight: "999"

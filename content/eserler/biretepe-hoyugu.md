@@ -5,10 +5,10 @@ slug: "biretepe-hoyugu"
 description: "## Biretepe Höyüğü: Malatya'nın Gizli Zirvesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6185951,38.3850555"
 draft: "false"
 weight: "999"

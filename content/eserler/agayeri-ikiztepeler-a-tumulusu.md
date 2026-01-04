@@ -5,10 +5,10 @@ slug: "agayeri-ikiztepeler-a-tumulusu"
 description: "## Ağayeri İkiztepeler A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9298286,41.4250221"
 draft: "false"
 weight: "999"

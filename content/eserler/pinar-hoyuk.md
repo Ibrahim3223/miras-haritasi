@@ -5,10 +5,10 @@ slug: "pinar-hoyuk"
 description: "## Pınar Höyük: Eski Çağın Gizli Kahramanı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.951383,38.243183"
 draft: "false"
 weight: "999"

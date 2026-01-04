@@ -5,10 +5,10 @@ slug: "on-sekiz-sekbanlar-sehitligi"
 description: "## On Sekiz Sekbanlar Şehitliği: Fatih'te Bir Anıtın Tarihi Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.956005,41.012941"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pergamon-bati-hamamlari"
 description: "### Pergamon Batı Hamamları..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1850681,39.1265755"
 draft: "false"
 weight: "999"

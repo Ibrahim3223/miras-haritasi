@@ -5,10 +5,10 @@ slug: "ayios-haralambos-kilisesi"
 description: "**Ayios Haralambos Kilisesi: Çeşme'nin Tarihi Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Saint_Charalambos_Church_01.jpg/1200px-Saint_Charalambos_Church_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.304277777,38.32525"
 draft: "false"
 weight: "10"

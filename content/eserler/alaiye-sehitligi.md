@@ -5,10 +5,10 @@ slug: "alaiye-sehitligi"
 description: "## Alaiye Şehitliği: Tarih ve Anlamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.513176,41.2739258"
 draft: "false"
 weight: "999"

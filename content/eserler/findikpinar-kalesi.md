@@ -5,10 +5,10 @@ slug: "findikpinar-kalesi"
 description: "# Fındıkpınar Kalesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mezitli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.3823318,36.9259453"
 draft: "false"
 weight: "999"

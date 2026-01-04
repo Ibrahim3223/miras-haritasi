@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-camii"
 description: "## Çorlulu Ali Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Corlulu_Complex_6246.jpg/1200px-Corlulu_Complex_6246.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.968316,41.0092395"
 draft: "false"
 weight: "10"

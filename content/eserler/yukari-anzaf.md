@@ -5,10 +5,10 @@ slug: "yukari-anzaf"
 description: "## Yukarı Anzaf Arkeolojik Sit..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.46966,38.559828"
 draft: "false"
 weight: "999"

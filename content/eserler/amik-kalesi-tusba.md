@@ -5,10 +5,10 @@ slug: "amik-kalesi-tusba"
 description: "## Amik Kalesi, Tuşba: Van'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Tuşba"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.2924004,38.8072014"
 draft: "false"
 weight: "999"

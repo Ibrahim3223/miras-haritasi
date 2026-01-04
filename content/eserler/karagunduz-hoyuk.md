@@ -5,10 +5,10 @@ slug: "karagunduz-hoyuk"
 description: "## Karagündüz Höyük: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.6445618,38.6959038"
 draft: "false"
 weight: "999"

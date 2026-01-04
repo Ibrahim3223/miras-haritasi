@@ -5,10 +5,10 @@ slug: "camlica-camii"
 description: "## Çamlıca Camii: Üsküdar'ın Şehvetli ve Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Camlica-2018-06-14.jpg/1200px-Camlica-2018-06-14.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0704,41.0343"
 draft: "false"
 weight: "10"

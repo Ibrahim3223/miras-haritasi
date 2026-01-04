@@ -5,10 +5,10 @@ slug: "ilbadi-medresesi"
 description: "## İlbadı Medresesi: Merkezi Efsane..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0777855,37.7899818"
 draft: "false"
 weight: "999"

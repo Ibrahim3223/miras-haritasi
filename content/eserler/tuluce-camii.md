@@ -5,10 +5,10 @@ slug: "tuluce-camii"
 description: "## Tülüce Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8571167,39.9429665"
 draft: "false"
 weight: "999"

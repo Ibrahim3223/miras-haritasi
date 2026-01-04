@@ -5,10 +5,10 @@ slug: "millet-hamami"
 description: "## Millet Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5315323,38.7535477"
 draft: "false"
 weight: "999"

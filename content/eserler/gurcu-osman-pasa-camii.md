@@ -5,10 +5,10 @@ slug: "gurcu-osman-pasa-camii"
 description: "## Gürcü Osman Paşa Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4877472,38.7227821"
 draft: "false"
 weight: "999"

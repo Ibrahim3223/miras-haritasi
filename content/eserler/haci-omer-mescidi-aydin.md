@@ -5,10 +5,10 @@ slug: "haci-omer-mescidi-aydin"
 description: "## Hacı Ömer Mescidi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8428993,37.8405991"
 draft: "false"
 weight: "999"

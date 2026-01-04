@@ -5,10 +5,10 @@ slug: "asagi-camlica-camii"
 description: "### Aşağı Çamlıca Camii: Rize'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.000778,41.055834"
 draft: "false"
 weight: "999"

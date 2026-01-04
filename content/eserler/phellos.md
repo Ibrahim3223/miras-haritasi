@@ -5,10 +5,10 @@ slug: "phellos"
 description: "## Phellos Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/LycianTombPhellos.jpg/1200px-LycianTombPhellos.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6620023,36.2423955"
 draft: "false"
 weight: "10"

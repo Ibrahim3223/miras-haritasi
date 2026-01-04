@@ -5,10 +5,10 @@ slug: "zehr-i-mar-camii"
 description: "## Zehr-i Mar Camii: Edirne'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zehr-i_Mar_Camii_haziresi-3.jpg/1200px-Zehr-i_Mar_Camii_haziresi-3.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.560885705,41.6781602"
 draft: "false"
 weight: "10"

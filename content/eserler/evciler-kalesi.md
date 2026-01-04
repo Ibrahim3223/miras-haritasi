@@ -5,10 +5,10 @@ slug: "evciler-kalesi"
 description: "## Evciler Kalesi: Toroslar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Toroslar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.4942703,37.038681"
 draft: "false"
 weight: "999"

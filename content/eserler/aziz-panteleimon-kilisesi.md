@@ -5,10 +5,10 @@ slug: "aziz-panteleimon-kilisesi"
 description: "## Aziz Panteleimon Kilisesi: Nilüfer, Bursa'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Aziz_Panteleimon_Kilisesi_02.jpg/1200px-Aziz_Panteleimon_Kilisesi_02.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.68038,40.170296"
 draft: "false"
 weight: "10"

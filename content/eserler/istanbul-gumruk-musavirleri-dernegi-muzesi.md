@@ -5,10 +5,10 @@ slug: "istanbul-gumruk-musavirleri-dernegi-muzesi"
 description: "## İstanbul Gümrük Müşavirleri Derneği Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.978934,41.026327"
 draft: "false"
 weight: "999"

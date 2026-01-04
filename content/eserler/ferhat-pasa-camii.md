@@ -5,10 +5,10 @@ slug: "ferhat-pasa-camii"
 description: "## Ferhat Paşa Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7790947,41.3780708"
 draft: "false"
 weight: "999"

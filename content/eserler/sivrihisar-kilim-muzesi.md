@@ -5,10 +5,10 @@ slug: "sivrihisar-kilim-muzesi"
 description: "## Sivrihisar Kilim Müzesi: Eskişehir'in Gizli Çırağı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.5375767,39.4501114"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "destemen-tepe-hoyugu-ladik"
 description: "### Destemen Tepe Höyüğü, Ladik..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.993013,40.922926"
 draft: "false"
 weight: "999"

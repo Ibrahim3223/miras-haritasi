@@ -5,10 +5,10 @@ slug: "mahmutpasa-camii"
 description: "### Mahmutpaşa Camii: Eminönü'de Bir Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Istanbul_asv2021-11_img37_Mahmut_Pasha_Mosque.jpg/1200px-Istanbul_asv2021-11_img37_Mahmut_Pasha_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.97133056,41.01111944"
 draft: "false"
 weight: "10"

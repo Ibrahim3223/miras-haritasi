@@ -5,10 +5,10 @@ slug: "derinsu-koprusu"
 description: "## Derinsu Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.874233305,41.09515"
 draft: "false"
 weight: "999"

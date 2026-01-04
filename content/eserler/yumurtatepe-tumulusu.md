@@ -5,10 +5,10 @@ slug: "yumurtatepe-tumulusu"
 description: "# Yumurtatepe Tümülüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Yumurtatepe_tümülüsü.JPG/1200px-Yumurtatepe_tümülüsü.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.789444,39.953056"
 draft: "false"
 weight: "10"

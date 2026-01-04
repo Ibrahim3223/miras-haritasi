@@ -5,10 +5,10 @@ slug: "galata-koprusu"
 description: "## Galata Köprüsü: İstanbul'un Sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/00_0566_Istanbul_-_Galata-Brücke_(erbaut_1910).jpg/1200px-00_0566_Istanbul_-_Galata-Brücke_(erbaut_1910).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.973055555,41.02"
 draft: "false"
 weight: "10"

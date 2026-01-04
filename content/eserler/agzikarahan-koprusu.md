@@ -5,10 +5,10 @@ slug: "agzikarahan-koprusu"
 description: "## Ağzıkarahan Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.1390839,38.4444923"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kuyutepe-mevkii-tumulusu"
 description: "## Kuyutepe Mevkii Tümülüsü: Manisa'da Bir Antik Kültür Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0011463,38.6818542"
 draft: "false"
 weight: "999"

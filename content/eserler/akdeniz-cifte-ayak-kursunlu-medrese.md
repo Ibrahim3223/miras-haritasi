@@ -5,10 +5,10 @@ slug: "akdeniz-cifte-ayak-kursunlu-medrese"
 description: "### Akdeniz Çifte Ayak Kurşunlu Medrese Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9484215,41.0192528"
 draft: "false"
 weight: "999"

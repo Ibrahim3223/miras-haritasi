@@ -5,10 +5,10 @@ slug: "carsi-camii-birecik"
 description: "## Çarşı Camii, Birecik..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.9796295,37.0304184"
 draft: "false"
 weight: "999"

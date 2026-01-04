@@ -5,10 +5,10 @@ slug: "kopruhisar-hamami"
 description: "**Köprühisar Hamamı: Tarihi ve Kültürel Mirasın Bir Parçası**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.786619115,40.278762685"
 draft: "false"
 weight: "999"

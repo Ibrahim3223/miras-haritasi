@@ -5,10 +5,10 @@ slug: "sarhoyuk"
 description: "## Şarhöyük: Eskişehir'in Gizli Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Stele_Zeus_Chryseos_Louvre_Ma4289.jpg/1200px-Stele_Zeus_Chryseos_Louvre_Ma4289.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.516666666,39.783333333"
 draft: "false"
 weight: "10"

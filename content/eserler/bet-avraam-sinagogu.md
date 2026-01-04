@@ -5,10 +5,10 @@ slug: "bet-avraam-sinagogu"
 description: "## İstanbul'un Tarihi Sinagogu: Bet Avraam Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Bet-Avraam-Synagoge.jpg/1200px-Bet-Avraam-Synagoge.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.97725,41.014583333"
 draft: "false"
 weight: "10"

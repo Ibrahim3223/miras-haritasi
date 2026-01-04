@@ -5,10 +5,10 @@ slug: "atalar-camii"
 description: "## Atalar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/98/B%C3%BClent_%C3%96zg%C3%BC%C3%A7_%26_Abdullah_Atalar_-_Bilkent_-_1.4.13a.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7289028,40.7727623"
 draft: "false"
 weight: "999"

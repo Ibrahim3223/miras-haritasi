@@ -5,10 +5,10 @@ slug: "vaiziye-medresesi-carsisi"
 description: "### Vaiziye Medresesi Çarşısı: Bursa'nın Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0612049,40.1839714"
 draft: "false"
 weight: "999"

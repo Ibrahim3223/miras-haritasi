@@ -5,10 +5,10 @@ slug: "haci-ali-pasa-camii"
 description: "## Hacı Ali Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Hacı_Ali_Paşa_Camii_IMG_8099.jpg/1200px-Hacı_Ali_Paşa_Camii_IMG_8099.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.922254,41.049781"
 draft: "false"
 weight: "10"

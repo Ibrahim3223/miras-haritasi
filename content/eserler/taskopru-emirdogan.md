@@ -5,10 +5,10 @@ slug: "taskopru-emirdogan"
 description: "## Taşköprü, Emirdoğan..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9399223,37.8561096"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "curcani-camii"
 description: "# Cürcani Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5378304,38.753315"
 draft: "false"
 weight: "999"

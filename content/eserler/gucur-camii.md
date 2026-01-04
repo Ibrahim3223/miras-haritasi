@@ -5,10 +5,10 @@ slug: "gucur-camii"
 description: "### Gucür Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7435684,38.0884323"
 draft: "false"
 weight: "999"

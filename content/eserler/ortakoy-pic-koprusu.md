@@ -5,10 +5,10 @@ slug: "ortakoy-pic-koprusu"
 description: "**Ortaköy Piç Köprüsü**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.90145,41.042733"
 draft: "false"
 weight: "999"

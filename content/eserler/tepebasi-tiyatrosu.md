@@ -5,10 +5,10 @@ slug: "tepebasi-tiyatrosu"
 description: "## Tepebaşı Tiyatrosu: Antik Tiyatro'nun Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/TRT_Mesrutiyet.jpg/1200px-TRT_Mesrutiyet.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.974638888,41.032972222"
 draft: "false"
 weight: "10"

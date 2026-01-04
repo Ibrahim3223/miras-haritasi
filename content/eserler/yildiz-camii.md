@@ -5,10 +5,10 @@ slug: "yildiz-camii"
 description: "## Yıldız Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Istanbul_asv2021-10_img15_Yıldız_Hamidiye_Mosque.jpg/1200px-Istanbul_asv2021-10_img15_Yıldız_Hamidiye_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.00993611,41.04941111"
 draft: "false"
 weight: "10"

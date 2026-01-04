@@ -5,10 +5,10 @@ slug: "cagalzde-sarayi"
 description: "### Cağalzâde Sarayı: Fatih'in Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.973649,41.012447"
 draft: "false"
 weight: "999"

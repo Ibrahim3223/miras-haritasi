@@ -5,10 +5,10 @@ slug: "aralik-koprusu"
 description: "## Aralık Köprüsü: Artvin'in Kıymetli Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.732548,41.398785"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kaymakli-manastiri"
 description: "## Kaymaklı Manastırı: Trabzon'un Gizli Çarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Kaymakli-place.jpg/1200px-Kaymakli-place.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.744833333,40.981944444"
 draft: "false"
 weight: "10"

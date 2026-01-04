@@ -5,10 +5,10 @@ slug: "mokata"
 description: "**Mokata: Bartın'ın Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.17035,41.61294"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rami-kislasi"
 description: "### Rami Kışlası: İstanbul'un Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RamiBarracks_(11).jpg/1200px-RamiBarracks_(11).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.91555556,41.04916667"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gordion-tumulus-s-3"
 description: "### Gordion Tümülüs S-3: Geçmişi İfade Eden Bir Arkeolojik Harika..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.986704,39.637165"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alacami-camii"
 description: "## Alacami Camii: Serik'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ku%C5%9F_yuvas%C4%B1_-_panoramio.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: "false"
 weight: "999"

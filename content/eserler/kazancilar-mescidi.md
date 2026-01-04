@@ -5,10 +5,10 @@ slug: "kazancilar-mescidi"
 description: "### Kazancılar Mescidi: Tokat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.547568507,40.315644816"
 draft: "false"
 weight: "999"

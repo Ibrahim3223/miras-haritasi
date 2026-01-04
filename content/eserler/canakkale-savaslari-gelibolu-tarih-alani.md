@@ -5,10 +5,10 @@ slug: "canakkale-savaslari-gelibolu-tarih-alani"
 description: "## Çanakkale Savaşları Gelibolu Tarihî Alanı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.367667,40.170321"
 draft: "false"
 weight: "999"

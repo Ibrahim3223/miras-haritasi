@@ -5,10 +5,10 @@ slug: "sivas-cizvit-kilisesi"
 description: "## Sivas Cizvit Kilisesi: Sivas'ta Bir Tarihî Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.0184441,39.7545547"
 draft: "false"
 weight: "999"

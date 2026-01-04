@@ -5,10 +5,10 @@ slug: "karaburun-tumulusu"
 description: "# Karaburun Tümülüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9903183,36.7818565"
 draft: "false"
 weight: "999"

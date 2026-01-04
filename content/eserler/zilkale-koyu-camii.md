@@ -5,10 +5,10 @@ slug: "zilkale-koyu-camii"
 description: "## Zilkale Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.955536311,40.926138225"
 draft: "false"
 weight: "999"

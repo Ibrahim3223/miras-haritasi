@@ -5,10 +5,10 @@ slug: "cobantepe-canakkale"
 description: "## Çobantepe: Çanakkale'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.258,40.000717"
 draft: "false"
 weight: "999"

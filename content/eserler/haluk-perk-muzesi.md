@@ -5,10 +5,10 @@ slug: "haluk-perk-muzesi"
 description: "## Haluk Perk Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Avcılar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.729592404,40.98187306"
 draft: "false"
 weight: "999"

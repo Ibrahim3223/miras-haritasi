@@ -5,10 +5,10 @@ slug: "yesildirek-hamami"
 description: "## Yeşildirek Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.969298,41.025625"
 draft: "false"
 weight: "999"

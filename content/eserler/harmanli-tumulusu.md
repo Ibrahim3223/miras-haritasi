@@ -5,10 +5,10 @@ slug: "harmanli-tumulusu"
 description: "## Harmanlı Tümülüsü: Edirne'nin Gizli Kutsalı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7095547,41.0821571"
 draft: "false"
 weight: "999"

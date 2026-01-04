@@ -5,10 +5,10 @@ slug: "dursun-fakih-turbesi"
 description: "### Dursun Fakih Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1373,40.081"
 draft: "false"
 weight: "999"

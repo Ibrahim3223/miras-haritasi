@@ -5,10 +5,10 @@ slug: "camli-manastiri"
 description: "## Çamlı Manastırı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "26.639246,39.345553"
 draft: "false"
 weight: "999"

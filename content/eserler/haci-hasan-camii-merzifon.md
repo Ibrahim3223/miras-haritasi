@@ -5,10 +5,10 @@ slug: "haci-hasan-camii-merzifon"
 description: "# Hacı Hasan Camii: Merzifon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4636803,40.8703842"
 draft: "false"
 weight: "999"

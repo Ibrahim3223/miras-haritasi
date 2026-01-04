@@ -5,10 +5,10 @@ slug: "aysekadin-camii"
 description: "# Ayşekadın Camii: Edirne'nin Gizli Çehresinde Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Ayse_Kadın_Camii_6494.jpg/1200px-Ayse_Kadın_Camii_6494.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5635967,41.6713181"
 draft: "false"
 weight: "10"

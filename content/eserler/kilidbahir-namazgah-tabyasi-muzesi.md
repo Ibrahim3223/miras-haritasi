@@ -5,10 +5,10 @@ slug: "kilidbahir-namazgah-tabyasi-muzesi"
 description: "## Kilidbahir Namazgah Tabyası Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.38005,40.1461"
 draft: "false"
 weight: "999"

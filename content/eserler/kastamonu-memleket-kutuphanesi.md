@@ -5,10 +5,10 @@ slug: "kastamonu-memleket-kutuphanesi"
 description: "## Kastamonu Memleket Kütüphanesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "33.7787743,41.3765678"
 draft: "false"
 weight: "999"

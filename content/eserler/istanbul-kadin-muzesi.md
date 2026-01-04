@@ -5,10 +5,10 @@ slug: "istanbul-kadin-muzesi"
 description: "## İstanbul Kadın Müzesi: Kadının Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.981369444,41.011638888"
 draft: "false"
 weight: "999"

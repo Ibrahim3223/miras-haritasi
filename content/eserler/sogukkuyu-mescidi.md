@@ -5,10 +5,10 @@ slug: "sogukkuyu-mescidi"
 description: "## Soğukkuyu Mescidi: Nallıhan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Nallıhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.026710511,40.089660468"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "baltali-baba-kabri"
 description: "**Baltalı Baba Kabri**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9328136,41.0205612"
 draft: "false"
 weight: "999"

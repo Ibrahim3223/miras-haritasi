@@ -5,10 +5,10 @@ slug: "ozluce-koyu-eski-cami"
 description: "## Özlüce Köyü Eski Cami: Nevşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Derinkuyu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6781082,38.4530106"
 draft: "false"
 weight: "999"

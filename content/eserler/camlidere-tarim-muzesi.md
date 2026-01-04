@@ -5,10 +5,10 @@ slug: "camlidere-tarim-muzesi"
 description: "### Çamlıdere Tarım Müzesi: Türkiye'nin Tarımsal Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.475899467,40.490444267"
 draft: "false"
 weight: "999"

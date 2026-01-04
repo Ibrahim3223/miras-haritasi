@@ -5,10 +5,10 @@ slug: "eyyup-nebi-turbesi"
 description: "## Eyyup Nebi Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.796781,37.132737"
 draft: "false"
 weight: "999"

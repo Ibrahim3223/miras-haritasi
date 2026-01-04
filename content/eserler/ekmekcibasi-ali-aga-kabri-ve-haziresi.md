@@ -5,10 +5,10 @@ slug: "ekmekcibasi-ali-aga-kabri-ve-haziresi"
 description: "### Ekmekçibaşı Ali Ağa Kabri ve Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9801769,41.0299377"
 draft: "false"
 weight: "999"

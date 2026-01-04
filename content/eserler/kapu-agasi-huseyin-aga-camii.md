@@ -5,10 +5,10 @@ slug: "kapu-agasi-huseyin-aga-camii"
 description: "### Kapu Ağası Hüseyin Ağa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Taşova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.4192352,40.7852478"
 draft: "false"
 weight: "999"

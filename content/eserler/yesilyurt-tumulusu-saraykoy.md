@@ -5,10 +5,10 @@ slug: "yesilyurt-tumulusu-saraykoy"
 description: "## Yeşilyurt Tümülüsü: Sarayköy'de Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Sarayköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.8255997,37.8748016"
 draft: "false"
 weight: "999"

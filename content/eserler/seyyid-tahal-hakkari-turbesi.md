@@ -5,10 +5,10 @@ slug: "seyyid-tahal-hakkari-turbesi"
 description: "## Seyyid Taha’l Hakkari Türbesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Şemdinli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "44.5211,37.29"
 draft: "false"
 weight: "999"

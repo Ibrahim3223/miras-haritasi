@@ -5,10 +5,10 @@ slug: "pisilis"
 description: "## Pisilis Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ortaca (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.697899,36.7030025"
 draft: "false"
 weight: "999"

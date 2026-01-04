@@ -5,10 +5,10 @@ slug: "uzun-hacioglu-camii"
 description: "## Uzun Hacıoğlu Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0104179,39.7471123"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahip-ata-hamami"
 description: "## Sahip Ata Hamamı: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.4945946,37.8674088"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aydogdu-camii"
 description: "## Aydoğdu Camii: Denizli'nin Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Soner_Aydo%C4%9Fdu_-_beIN-Sports-Reklam_%282021%29.png"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1679001,37.5124016"
 draft: "false"
 weight: "999"

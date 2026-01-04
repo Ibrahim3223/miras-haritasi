@@ -5,10 +5,10 @@ slug: "turabiye-camii"
 description: "## Turabiye Camii: İzmir'in Gizli Çehresinde Bir Özerklik Dönemi Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8432999,38.1999016"
 draft: "false"
 weight: "999"

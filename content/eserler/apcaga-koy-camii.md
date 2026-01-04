@@ -5,10 +5,10 @@ slug: "apcaga-koy-camii"
 description: "## Apçağa Köy Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.5029793,39.24123"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aksaray-il-halk-kutuphanesi"
 description: "### Aksaray İl Halk Kütüphanesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "34.0291214,38.3736191"
 draft: "false"
 weight: "999"

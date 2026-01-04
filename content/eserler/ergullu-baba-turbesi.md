@@ -5,10 +5,10 @@ slug: "ergullu-baba-turbesi"
 description: "## Ergüllü Baba Türbesi: Safranbolu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.703985,41.26188"
 draft: "false"
 weight: "999"

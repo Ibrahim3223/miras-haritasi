@@ -5,10 +5,10 @@ slug: "hitit-gunes-kursu-aniti"
 description: "### Hitit Güneş Kursu Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hatti_Güneş_Kursu2.jpg/1200px-Hatti_Güneş_Kursu2.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.85520278,39.92671944"
 draft: "false"
 weight: "10"

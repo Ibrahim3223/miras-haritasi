@@ -5,10 +5,10 @@ slug: "kamil-dede-turbesi"
 description: "### Kamil Dede Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4866257,37.515007"
 draft: "false"
 weight: "999"

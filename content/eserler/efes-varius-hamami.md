@@ -5,10 +5,10 @@ slug: "efes-varius-hamami"
 description: "## Efes Varius Hamamı: İzmir'de Bir Antik Eğlence Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/11.2_Scholastikia_Baths_in_Ephesus.JPG/1200px-11.2_Scholastikia_Baths_in_Ephesus.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34213,37.9388"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "aigaionos-aniti"
 description: "### Aigaionos Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3954201,40.3458633"
 draft: "false"
 weight: "999"

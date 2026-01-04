@@ -5,10 +5,10 @@ slug: "isayaylasi-hoyugu"
 description: "## İsayaylası Höyüğü: Aksaray'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8912854,38.6545037"
 draft: "false"
 weight: "999"

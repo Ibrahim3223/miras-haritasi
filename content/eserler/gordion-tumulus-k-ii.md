@@ -5,10 +5,10 @@ slug: "gordion-tumulus-k-ii"
 description: "## Gordion Tümülüs K-II: Antik Makedonya'nın Gizemli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.990044,39.652035"
 draft: "false"
 weight: "999"

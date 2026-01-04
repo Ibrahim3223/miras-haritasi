@@ -5,10 +5,10 @@ slug: "celebi-mehmet-medresesi-camii"
 description: "### Çelebi Mehmet Medresesi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Çelebi_Sultan_Mehmet_Medresesi_Camii.jpg/1200px-Çelebi_Sultan_Mehmet_Medresesi_Camii.jpg"
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.461861111,40.873833333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cinli-mescit-bayindir"
 description: "## Cinli Mescit, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6485748,38.2269363"
 draft: "false"
 weight: "999"

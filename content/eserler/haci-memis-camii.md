@@ -5,10 +5,10 @@ slug: "haci-memis-camii"
 description: "## Hacı Memiş Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3751488,38.2802773"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cumayida-koprusu"
 description: "# Çumayida Köprüsü: Ardeşen'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1645229,41.1329467"
 draft: "false"
 weight: "999"

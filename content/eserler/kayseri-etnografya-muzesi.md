@@ -5,10 +5,10 @@ slug: "kayseri-etnografya-muzesi"
 description: "## Kayseri Etnografya Müzesi: Geçmişten Günümüze Kültür Mirasının Yansıması..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kayseri"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

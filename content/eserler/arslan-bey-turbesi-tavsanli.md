@@ -5,10 +5,10 @@ slug: "arslan-bey-turbesi-tavsanli"
 description: "## Arslan Bey Türbesi: Tavşanlı'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.492123,39.545459"
 draft: "false"
 weight: "999"

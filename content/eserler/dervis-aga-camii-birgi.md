@@ -5,10 +5,10 @@ slug: "dervis-aga-camii-birgi"
 description: "## Derviş Ağa Camii: Bir Ödemiş Efsanesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0642128,38.2533646"
 draft: "false"
 weight: "999"

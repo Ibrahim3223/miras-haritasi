@@ -5,10 +5,10 @@ slug: "sahil-camii"
 description: "### Sahil Camii - Sinop'un Tarihi Mirası..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5831947,41.9471474"
 draft: "false"
 weight: "999"

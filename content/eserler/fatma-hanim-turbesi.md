@@ -5,10 +5,10 @@ slug: "fatma-hanim-turbesi"
 description: "# Fatma Hanım Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Fatma_Hanım_Türbesi.jpg/1200px-Fatma_Hanım_Türbesi.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5700474,41.6687279"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bozikan-kilisesi"
 description: "### Bozıkan Kilisesi: Batman'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4549904,38.4773216"
 draft: "false"
 weight: "999"

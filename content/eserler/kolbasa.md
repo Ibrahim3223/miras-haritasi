@@ -5,10 +5,10 @@ slug: "kolbasa"
 description: "## Kolbasa Arkeolojik Sit..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.4107155,37.463255"
 draft: "false"
 weight: "999"

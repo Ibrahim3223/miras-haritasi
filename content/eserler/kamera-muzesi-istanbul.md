@@ -5,10 +5,10 @@ slug: "kamera-muzesi-istanbul"
 description: "### Kamera Müzesi, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.878777,40.99434"
 draft: "false"
 weight: "999"

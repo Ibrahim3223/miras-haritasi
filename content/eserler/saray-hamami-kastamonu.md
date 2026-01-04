@@ -5,10 +5,10 @@ slug: "saray-hamami-kastamonu"
 description: "## Saray Hamamı, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7780952,41.3753967"
 draft: "false"
 weight: "999"

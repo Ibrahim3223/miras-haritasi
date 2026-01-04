@@ -5,10 +5,10 @@ slug: "eserli-mahallesi-kilisesi"
 description: "### Eserli Mahallesi Kilisesi: Görele'nin Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.970825,40.882914"
 draft: "false"
 weight: "999"

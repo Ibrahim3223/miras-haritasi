@@ -5,10 +5,10 @@ slug: "aynalicesme-alman-protestan-kilisesi"
 description: "## Aynalıçeşme Alman Protestan Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.973877,41.036129"
 draft: "false"
 weight: "999"

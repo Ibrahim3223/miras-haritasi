@@ -5,10 +5,10 @@ slug: "prusias-ad-hypium-antik-tiyatrosu"
 description: "## Prusias Ad Hypium Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Prusias_Ad_Hypium_Antik_Tiyatrosu.jpg/1200px-Prusias_Ad_Hypium_Antik_Tiyatrosu.jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.1480122,40.9062614"
 draft: "false"
 weight: "10"

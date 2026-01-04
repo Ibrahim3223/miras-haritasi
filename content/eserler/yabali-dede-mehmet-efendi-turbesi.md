@@ -5,10 +5,10 @@ slug: "yabali-dede-mehmet-efendi-turbesi"
 description: "## Yabalı Dede Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1619034,40.823555"
 draft: "false"
 weight: "999"

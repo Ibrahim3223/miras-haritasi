@@ -5,10 +5,10 @@ slug: "gala-golu-tumulusu"
 description: "## Gala Gölü Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1669979,40.7509766"
 draft: "false"
 weight: "999"

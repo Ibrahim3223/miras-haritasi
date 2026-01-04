@@ -5,10 +5,10 @@ slug: "sih-muhammed-abbari-turbesi"
 description: "## Şıh Muhammed Abbari Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6215668,36.7979546"
 draft: "false"
 weight: "999"

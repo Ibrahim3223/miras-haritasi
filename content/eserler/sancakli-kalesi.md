@@ -5,10 +5,10 @@ slug: "sancakli-kalesi"
 description: "# Sancaklı Kalesi: Karşıyaka'nın Tarihsel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.1520004,38.5229988"
 draft: "false"
 weight: "999"

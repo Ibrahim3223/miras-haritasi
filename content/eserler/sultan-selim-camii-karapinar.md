@@ -5,10 +5,10 @@ slug: "sultan-selim-camii-karapinar"
 description: "## Sultan Selim Camii (Karapınar)..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5477295,37.7144508"
 draft: "false"
 weight: "999"

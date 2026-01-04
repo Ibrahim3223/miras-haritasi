@@ -5,10 +5,10 @@ slug: "krya-karya"
 description: "## Karya (Krya) Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.85707,36.67653"
 draft: "false"
 weight: "999"

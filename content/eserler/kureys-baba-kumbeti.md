@@ -5,10 +5,10 @@ slug: "kureys-baba-kumbeti"
 description: "## Kureyş Baba Kümbeti: Afyonkarahisar'ın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.400278,38.764014"
 draft: "false"
 weight: "999"

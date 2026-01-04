@@ -5,10 +5,10 @@ slug: "yalman-hoyuk"
 description: "# Yalman Höyük..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.388549,38.5375303"
 draft: "false"
 weight: "999"

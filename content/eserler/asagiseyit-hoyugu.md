@@ -5,10 +5,10 @@ slug: "asagiseyit-hoyugu"
 description: "## Aşağıseyit Höyükleri: Denizli'nin Gizli Tarihi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4778767,38.0533028"
 draft: "false"
 weight: "999"

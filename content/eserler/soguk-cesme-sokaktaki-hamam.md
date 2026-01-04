@@ -5,10 +5,10 @@ slug: "soguk-cesme-sokaktaki-hamam"
 description: "### Soğuk Çeşme Sokaktaki Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9803486,41.0094299"
 draft: "false"
 weight: "999"

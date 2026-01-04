@@ -5,10 +5,10 @@ slug: "belevi-tumulusu"
 description: "## Belevi Tümülüsü: İzmir'in Gizli Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4675159,38.0142288"
 draft: "false"
 weight: "999"

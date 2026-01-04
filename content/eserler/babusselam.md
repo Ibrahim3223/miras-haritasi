@@ -5,10 +5,10 @@ slug: "babusselam"
 description: "## Babüsselam: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.983223077,41.011389772"
 draft: "false"
 weight: "999"

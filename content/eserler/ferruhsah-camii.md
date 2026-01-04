@@ -5,10 +5,10 @@ slug: "ferruhsah-camii"
 description: "## Ferruhşah Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.407777777,38.355277777"
 draft: "false"
 weight: "999"

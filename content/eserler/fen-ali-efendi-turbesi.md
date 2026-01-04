@@ -5,10 +5,10 @@ slug: "fen-ali-efendi-turbesi"
 description: "## Fenâî Ali Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0278988,41.0177231"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "antiphellos"
 description: "## Antiphellos: Antalya'nın Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Antiphellus_Ancient_Theatre_-_2014.10_-_panoramio.jpg/1200px-Antiphellus_Ancient_Theatre_-_2014.10_-_panoramio.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.638333333,36.2"
 draft: "false"
 weight: "10"

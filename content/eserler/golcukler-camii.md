@@ -5,10 +5,10 @@ slug: "golcukler-camii"
 description: "### Gölcükler Camii: İzmir'in Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.143961,38.261158"
 draft: "false"
 weight: "999"

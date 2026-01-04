@@ -5,10 +5,10 @@ slug: "imren-ersen-oya-muzesi"
 description: "## İmren Erşen Oya Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5255623,39.7642784"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "catal-kopru-bektasli"
 description: "## Çatal Köprü, Bektaşlı: Geçmişten Bugüne Geçen Bir Köprü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yenifakılı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.096111,39.201527"
 draft: "false"
 weight: "999"

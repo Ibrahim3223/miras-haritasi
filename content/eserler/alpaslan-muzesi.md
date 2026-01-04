@@ -5,10 +5,10 @@ slug: "alpaslan-muzesi"
 description: "## Alpaslan Müzesi: Taşova'daki Bir Tarihî Miras..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Taşova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.3425369,40.8072548"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "memi-dede-mescidi-ve-turbesi"
 description: "## Memi Dede Mescidi ve Türbesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1062088,38.3983002"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kinet-hoyuk"
 description: "## Kinet Höyük..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Dörtyol"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.157,36.85366"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "isa-baba-turbesi"
 description: "## İsa Baba Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7073364,38.06744"
 draft: "false"
 weight: "999"

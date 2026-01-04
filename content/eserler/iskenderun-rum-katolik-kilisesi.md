@@ -5,10 +5,10 @@ slug: "iskenderun-rum-katolik-kilisesi"
 description: "## İskenderun Rum Katolik Kilisesi..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.1697083,36.5904121"
 draft: "false"
 weight: "999"

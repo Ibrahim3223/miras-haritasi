@@ -5,10 +5,10 @@ slug: "surp-levon-ermeni-katolik-kilisesi"
 description: "## Surp Levon Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/20131207_Istanbul_048.jpg/1200px-20131207_Istanbul_048.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.02888889,40.98944444"
 draft: "false"
 weight: "10"

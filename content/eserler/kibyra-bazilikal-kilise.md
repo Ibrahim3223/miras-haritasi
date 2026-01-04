@@ -5,10 +5,10 @@ slug: "kibyra-bazilikal-kilise"
 description: "### Kibyra Bazilikal Kilise..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.4956093,37.1584549"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ii-mahmud-turbesi"
 description: "## II. Mahmud Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Sultan_tombs_Divan_Yolu_March_2008.JPG/1200px-Sultan_tombs_Divan_Yolu_March_2008.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9725,41.0085"
 draft: "false"
 weight: "10"

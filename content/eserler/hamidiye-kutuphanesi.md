@@ -5,10 +5,10 @@ slug: "hamidiye-kutuphanesi"
 description: "## Hamidiye Kütüphanesi: Balıkesir'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.8798561,39.6460953"
 draft: "false"
 weight: "999"

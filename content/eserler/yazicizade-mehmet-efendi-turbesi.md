@@ -5,10 +5,10 @@ slug: "yazicizade-mehmet-efendi-turbesi"
 description: "## Yazıcızade Mehmet Efendi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Mehmet-i_Bican_Efendi_Türbesi_içerisi.jpg/1200px-Mehmet-i_Bican_Efendi_Türbesi_içerisi.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6772118,40.408886"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "coban-baba-turbesi"
 description: "## Çoban Baba Türbesi: Seyitgazi'nin Semavi Tarihi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.6946297,39.4421997"
 draft: "false"
 weight: "999"

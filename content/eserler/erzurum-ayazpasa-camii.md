@@ -5,10 +5,10 @@ slug: "erzurum-ayazpasa-camii"
 description: "## Erzurum Ayazpaşa Camii: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Erzurum_Ayazpaşa_Camii.jpg/1200px-Erzurum_Ayazpaşa_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2755,39.909861111"
 draft: "false"
 weight: "10"

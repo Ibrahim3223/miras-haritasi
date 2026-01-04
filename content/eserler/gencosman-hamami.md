@@ -5,10 +5,10 @@ slug: "gencosman-hamami"
 description: "**Gençosman Hamamı**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.0630395,40.3829862"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "islamhaneleri-koprusu"
 description: "## Bodrum'un Tarihsel Harikası: İslamhaneleri Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2940769,37.0293007"
 draft: "false"
 weight: "999"

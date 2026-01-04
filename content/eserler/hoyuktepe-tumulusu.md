@@ -5,10 +5,10 @@ slug: "hoyuktepe-tumulusu"
 description: "## Höyüktepe Tümülüsü: Lüleburgaz'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3339424,41.3813019"
 draft: "false"
 weight: "999"

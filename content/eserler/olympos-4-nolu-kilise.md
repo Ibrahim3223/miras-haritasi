@@ -5,10 +5,10 @@ slug: "olympos-4-nolu-kilise"
 description: "# Olympos 4 No'lu Kilise: Antalya'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.475512875,36.400251945"
 draft: "false"
 weight: "999"

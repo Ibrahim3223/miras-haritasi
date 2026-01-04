@@ -5,10 +5,10 @@ slug: "gumustug-kilisesi-torul"
 description: "# Gümüştuğ Kilisesi Torul: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.1450195,40.4563255"
 draft: "false"
 weight: "999"

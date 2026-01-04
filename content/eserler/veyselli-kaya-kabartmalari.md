@@ -5,10 +5,10 @@ slug: "veyselli-kaya-kabartmalari"
 description: "## Veyselli Kaya Kabartmaları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.110138888,36.635194444"
 draft: "false"
 weight: "999"

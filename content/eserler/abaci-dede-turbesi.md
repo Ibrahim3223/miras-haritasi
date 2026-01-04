@@ -5,10 +5,10 @@ slug: "abaci-dede-turbesi"
 description: "## Abacı Dede Türbesi - Üsküdar, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0224056,41.0195389"
 draft: "false"
 weight: "999"

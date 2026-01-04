@@ -5,10 +5,10 @@ slug: "ulu-hatun-turbesi"
 description: "## Ulu Hatun Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.490886,38.725179"
 draft: "false"
 weight: "999"

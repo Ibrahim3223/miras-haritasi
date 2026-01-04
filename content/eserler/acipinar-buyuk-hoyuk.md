@@ -5,10 +5,10 @@ slug: "acipinar-buyuk-hoyuk"
 description: "## Acıpınar Büyük Höyük: Hafik, Sivas'taki Eski Kent..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.407177,39.7283936"
 draft: "false"
 weight: "999"

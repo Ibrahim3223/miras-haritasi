@@ -5,10 +5,10 @@ slug: "lala-sahin-pasa-turbesi"
 description: "**Lala Şahin Paşa Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Lala_Şahin_Paşa_Türbesi_01.jpg/1200px-Lala_Şahin_Paşa_Türbesi_01.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.411871,40.0336914"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sabuni-haci-ali-efendi-camii"
 description: "# Sabuni Hacı Ali Efendi Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5552387,41.6743126"
 draft: "false"
 weight: "999"

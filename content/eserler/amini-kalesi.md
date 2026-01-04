@@ -5,10 +5,10 @@ slug: "amini-kalesi"
 description: "## Amini Kalesi: Diyarbakır'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.1792526,38.2453537"
 draft: "false"
 weight: "999"

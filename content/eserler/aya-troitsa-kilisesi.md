@@ -5,10 +5,10 @@ slug: "aya-troitsa-kilisesi"
 description: "## Aya Troitsa Kilisesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3636494,41.932518"
 draft: "false"
 weight: "999"

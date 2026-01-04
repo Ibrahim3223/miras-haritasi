@@ -5,10 +5,10 @@ slug: "kul-hoyuk"
 description: "## Kül Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Şarkışla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.2192819,39.2850959"
 draft: "false"
 weight: "999"

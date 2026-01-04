@@ -5,10 +5,10 @@ slug: "dortyol-cihpir-koprusu"
 description: "## Dörtyol Çıhpır Köprüsü: Rize'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.55175,40.994917"
 draft: "false"
 weight: "999"

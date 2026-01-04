@@ -5,10 +5,10 @@ slug: "agios-yeorgios-kilisesi"
 description: "# Agios Yeorgios Kilisesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.66744,38.767062"
 draft: "false"
 weight: "999"

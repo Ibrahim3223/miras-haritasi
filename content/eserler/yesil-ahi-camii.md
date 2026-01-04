@@ -5,10 +5,10 @@ slug: "yesil-ahi-camii"
 description: "### Yeşil Ahi Camii Tanıtımı..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8675766,39.9350624"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehzde-osman-celebi-turbesi"
 description: "### Şehzâde Osman Çelebi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8273277,40.6501808"
 draft: "false"
 weight: "999"

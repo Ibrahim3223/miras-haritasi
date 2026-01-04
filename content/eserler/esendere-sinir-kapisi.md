@@ -5,10 +5,10 @@ slug: "esendere-sinir-kapisi"
 description: "## Esendere Sınır Kapısı: Tarihi Kervansaray..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.6202,37.7161"
 draft: "false"
 weight: "999"

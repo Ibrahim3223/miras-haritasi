@@ -5,10 +5,10 @@ slug: "imircik-hoyugu"
 description: "**İmircik Höyüğü: Konya'nın Gizli Öyküsü**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kadınhanı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.2022583,38.4775814"
 draft: "false"
 weight: "999"

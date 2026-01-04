@@ -5,10 +5,10 @@ slug: "cifteonu-camii"
 description: "## Çifteönü Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4785118,38.7164497"
 draft: "false"
 weight: "999"

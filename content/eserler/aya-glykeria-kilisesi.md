@@ -5,10 +5,10 @@ slug: "aya-glykeria-kilisesi"
 description: "### Aya Glykeria Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.2731571,40.7911682"
 draft: "false"
 weight: "999"

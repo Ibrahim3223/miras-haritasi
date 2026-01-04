@@ -5,10 +5,10 @@ slug: "uchoyukler-c-tumulusu"
 description: "## Üçhöyükler C Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9006252,41.7036743"
 draft: "false"
 weight: "999"

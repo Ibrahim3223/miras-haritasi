@@ -5,10 +5,10 @@ slug: "manava-pamfilya"
 description: "# Manava (Pamfilya): Antik Kentin Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.4469115,36.787064"
 draft: "false"
 weight: "999"

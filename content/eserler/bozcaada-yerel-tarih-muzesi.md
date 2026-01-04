@@ -5,10 +5,10 @@ slug: "bozcaada-yerel-tarih-muzesi"
 description: "### Bozcaada Yerel Tarih Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.069468,39.83497"
 draft: "false"
 weight: "999"

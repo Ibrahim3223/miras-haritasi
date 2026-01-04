@@ -5,10 +5,10 @@ slug: "esencay-koprusu"
 description: "**Esençay Köprüsü: Aydın'ın Tarihî Mirası**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5841198,37.7933006"
 draft: "false"
 weight: "999"

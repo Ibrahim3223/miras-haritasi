@@ -5,10 +5,10 @@ slug: "sinan-pasa-camii-hacihamza"
 description: "## Sinan Paşa Camii (Hacıhamza)..."
 featured_image: ""
 province: "Kargı"
-iller: '["Kargı"]'
+iller: ["Kargı"]
 district: "Hacıhamza"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4486351,41.0762978"
 draft: "false"
 weight: "999"

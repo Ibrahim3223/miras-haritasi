@@ -5,10 +5,10 @@ slug: "haydarpasa-hamami"
 description: "### Haydarpaşa Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.956275,41.022392"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "halimbey-konagi-kent-muzesi"
 description: "## Halimbey Konağı Kent Müzesi: Biga'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.240839,40.2274017"
 draft: "false"
 weight: "999"

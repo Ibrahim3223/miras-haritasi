@@ -5,10 +5,10 @@ slug: "samur-tumulusu-kumru"
 description: "**Samur Tümülüsü Kumru**..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Kumru"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.256181,40.875454"
 draft: "false"
 weight: "999"

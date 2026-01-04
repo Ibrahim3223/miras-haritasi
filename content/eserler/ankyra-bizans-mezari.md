@@ -5,10 +5,10 @@ slug: "ankyra-bizans-mezari"
 description: "### Ankyra Bizans Mezarı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8545876,39.9460373"
 draft: "false"
 weight: "999"

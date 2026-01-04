@@ -5,10 +5,10 @@ slug: "karene-misya"
 description: "### Karene (Misya) Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.842283,39.17898"
 draft: "false"
 weight: "999"

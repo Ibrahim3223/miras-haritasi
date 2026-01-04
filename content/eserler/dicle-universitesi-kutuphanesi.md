@@ -5,10 +5,10 @@ slug: "dicle-universitesi-kutuphanesi"
 description: "## Dicle Üniversitesi Kütüphanesi: Diyarbakır'ın Kültür Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Dicle"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

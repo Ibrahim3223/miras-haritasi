@@ -5,10 +5,10 @@ slug: "halime-hatun-camii"
 description: "### Halime Hatun Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.914629,38.7104912"
 draft: "false"
 weight: "999"

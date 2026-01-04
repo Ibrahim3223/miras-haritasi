@@ -5,10 +5,10 @@ slug: "lalapasa-hamami"
 description: "### Lalapaşa Hamamı: Erzurum'un Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2793203,39.907127"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bicakcilar-camii"
 description: "### Bıçakcılar Camii: Artvin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.430852,41.031403"
 draft: "false"
 weight: "999"

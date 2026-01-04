@@ -5,10 +5,10 @@ slug: "ida-madra-jeoparki-muzesi"
 description: "## İda Madra Jeoparkı Müzesi: Edremit'in Gizli Çehresi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.893383,39.6114235"
 draft: "false"
 weight: "999"

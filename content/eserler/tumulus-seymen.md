@@ -5,10 +5,10 @@ slug: "tumulus-seymen"
 description: "## Tümülüs, Seymen: Çorlu'nun Gizli Tarihi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9575329,41.1005974"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ophis"
 description: "## Ophis: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.264282,40.937952"
 draft: "false"
 weight: "999"

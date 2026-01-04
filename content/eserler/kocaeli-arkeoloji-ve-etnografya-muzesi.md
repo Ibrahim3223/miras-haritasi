@@ -5,10 +5,10 @@ slug: "kocaeli-arkeoloji-ve-etnografya-muzesi"
 description: "# Kocaeli Arkeoloji ve Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Kocaeli_Arkeoloji_ve_Etnografya_Müzesi_ana_bina_soldan.jpg/1200px-Kocaeli_Arkeoloji_ve_Etnografya_Müzesi_ana_bina_soldan.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.915833333,40.7625"
 draft: "false"
 weight: "10"

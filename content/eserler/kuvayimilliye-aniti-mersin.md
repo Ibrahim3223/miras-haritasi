@@ -5,10 +5,10 @@ slug: "kuvayimilliye-aniti-mersin"
 description: "**Kuvayımilliye Anıtı, Mersin**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Toroslar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6103821,36.8207626"
 draft: "false"
 weight: "999"

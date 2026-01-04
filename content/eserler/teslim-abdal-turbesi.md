@@ -5,10 +5,10 @@ slug: "teslim-abdal-turbesi"
 description: "### Teslim Abdal Türbesi: Pamukkale'nin Gizli Çağıl..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.199976,37.6918297"
 draft: "false"
 weight: "999"

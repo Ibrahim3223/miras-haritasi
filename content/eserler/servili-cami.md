@@ -5,10 +5,10 @@ slug: "servili-cami"
 description: "**Servili Cami**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1648674,36.204422"
 draft: "false"
 weight: "999"

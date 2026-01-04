@@ -5,10 +5,10 @@ slug: "kanligecit-hoyuk"
 description: "## Kanlıgeçit Höyük: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2211437,41.7176552"
 draft: "false"
 weight: "999"

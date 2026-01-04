@@ -5,10 +5,10 @@ slug: "ikizari"
 description: "## İkiz Kalesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.87491,40.89944"
 draft: "false"
 weight: "999"

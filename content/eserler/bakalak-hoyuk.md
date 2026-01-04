@@ -5,10 +5,10 @@ slug: "bakalak-hoyuk"
 description: "# Bakalak Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Eskil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.4154729,38.1490041"
 draft: "false"
 weight: "999"

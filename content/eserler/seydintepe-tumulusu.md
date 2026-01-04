@@ -5,10 +5,10 @@ slug: "seydintepe-tumulusu"
 description: "### Seydintepe Tümülüsü: Kırıkkale'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Balışeyh"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8294794,40.0955128"
 draft: "false"
 weight: "999"

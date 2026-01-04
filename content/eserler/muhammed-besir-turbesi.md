@@ -5,10 +5,10 @@ slug: "muhammed-besir-turbesi"
 description: "## Muhammed Beşir Türbesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "39.4993896,39.7170715"
 draft: "false"
 weight: "999"

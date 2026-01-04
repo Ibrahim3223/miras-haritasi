@@ -5,10 +5,10 @@ slug: "pir-sucaaddin-ilyas-turbesi"
 description: "## Pir Sücaaddin İlyas Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8381681,40.653542"
 draft: "false"
 weight: "999"

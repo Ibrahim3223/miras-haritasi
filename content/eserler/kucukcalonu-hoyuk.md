@@ -5,10 +5,10 @@ slug: "kucukcalonu-hoyuk"
 description: "### Küçükçalönü Höyük: Geçmişin Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.333271,40.6298218"
 draft: "false"
 weight: "999"

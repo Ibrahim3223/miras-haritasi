@@ -5,10 +5,10 @@ slug: "yilanli-kilise-aksaray"
 description: "### Yılanlı Kilise: Aksaray'daki Bir Geçiş Dönemi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Yilanli_Kilise_(1).jpg/1200px-Yilanli_Kilise_(1).jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.301636,38.255788"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ustu-acik-cami"
 description: "## Üstü Açık Cami: Kürtün'de Gizemli Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.331199998,40.722143053"
 draft: "false"
 weight: "999"

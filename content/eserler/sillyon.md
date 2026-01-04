@@ -5,10 +5,10 @@ slug: "sillyon"
 description: "## Sillyon Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/SillyonAkropolis.jpg/1200px-SillyonAkropolis.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.98972222,36.9925"
 draft: "false"
 weight: "10"

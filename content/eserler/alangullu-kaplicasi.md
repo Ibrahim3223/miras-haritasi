@@ -5,10 +5,10 @@ slug: "alangullu-kaplicasi"
 description: "## Alangüllü Kaplıcası: Aydın'ın Tarihi Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6244678,37.9331703"
 draft: "false"
 weight: "999"

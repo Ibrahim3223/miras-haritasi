@@ -5,10 +5,10 @@ slug: "alexandria-troas-herodes-atticus-hamami"
 description: "# Alexandria Troas Herodes Atticus Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hamamm.jpg/1200px-Hamamm.jpg"
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.1666222,39.7511559"
 draft: "false"
 weight: "10"

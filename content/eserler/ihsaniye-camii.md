@@ -5,10 +5,10 @@ slug: "ihsaniye-camii"
 description: "**İhsaniye Camii tanıtımı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/İhsaniye_Camii,_Üsküdar,_İstanbul.jpg/1200px-İhsaniye_Camii,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.013526634,41.015668844"
 draft: "false"
 weight: "10"

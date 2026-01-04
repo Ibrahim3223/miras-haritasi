@@ -5,10 +5,10 @@ slug: "marmara-surlari-odun-kapi"
 description: "**Marmara Surları: Odun Kapı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9871655,41.0138588"
 draft: "false"
 weight: "999"

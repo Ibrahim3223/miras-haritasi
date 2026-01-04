@@ -5,10 +5,10 @@ slug: "sebastopolis-antik-kenti"
 description: "### Sebastopolis Antik Kenti..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Sulusaray"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

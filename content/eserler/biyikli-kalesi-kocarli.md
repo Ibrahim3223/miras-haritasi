@@ -5,10 +5,10 @@ slug: "biyikli-kalesi-kocarli"
 description: "## Bıyıklı Kalesi, Koçarlı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5899963,37.7503052"
 draft: "false"
 weight: "999"

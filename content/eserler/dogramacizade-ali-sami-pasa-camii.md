@@ -5,10 +5,10 @@ slug: "dogramacizade-ali-sami-pasa-camii"
 description: "### Doğramacızade Ali Sami Paşa Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.761166666,39.885222222"
 draft: "false"
 weight: "999"

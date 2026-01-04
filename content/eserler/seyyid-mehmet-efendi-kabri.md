@@ -5,10 +5,10 @@ slug: "seyyid-mehmet-efendi-kabri"
 description: "## Seyyid Mehmet Efendi Kabri: Fatih'te Bir Önemli Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9403763,41.0246201"
 draft: "false"
 weight: "999"

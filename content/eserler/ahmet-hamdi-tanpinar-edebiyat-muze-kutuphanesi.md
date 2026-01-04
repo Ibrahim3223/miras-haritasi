@@ -5,10 +5,10 @@ slug: "ahmet-hamdi-tanpinar-edebiyat-muze-kutuphanesi"
 description: "### Ahmet Hamdi Tanpınar Edebiyat Müze Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Alay_Köşkü_(2).JPG/1200px-Alay_Köşkü_(2).JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97827,41.01098"
 draft: "false"
 weight: "10"

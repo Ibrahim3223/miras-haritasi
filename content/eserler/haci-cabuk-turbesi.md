@@ -5,10 +5,10 @@ slug: "haci-cabuk-turbesi"
 description: "## Hacı Çabuk Türbesi: Niksar'daki Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9618797,40.5891953"
 draft: "false"
 weight: "999"

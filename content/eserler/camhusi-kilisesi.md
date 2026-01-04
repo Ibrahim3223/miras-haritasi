@@ -5,10 +5,10 @@ slug: "camhusi-kilisesi"
 description: "**Çamhusi Kilisesi: Doğu Anadolu'nun Gizli Mücevheri**..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Dokuzelma"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.389151917,40.742971308"
 draft: "false"
 weight: "999"

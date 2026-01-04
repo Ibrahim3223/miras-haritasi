@@ -5,10 +5,10 @@ slug: "kaltakci-nazir-baba-hamami"
 description: "## Kaltakçı Nazır Baba Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8416424,37.8548203"
 draft: "false"
 weight: "999"

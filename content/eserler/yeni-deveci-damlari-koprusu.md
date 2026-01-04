@@ -5,10 +5,10 @@ slug: "yeni-deveci-damlari-koprusu"
 description: "## Yeni Deveci Damlaları Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Selendi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9279575,38.7921867"
 draft: "false"
 weight: "999"

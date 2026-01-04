@@ -5,10 +5,10 @@ slug: "sagrici-sungur-camii"
 description: "## Sağrıcı Sungur Camii: Bursa'nın Gizli Çehresi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0603237,40.1851768"
 draft: "false"
 weight: "999"

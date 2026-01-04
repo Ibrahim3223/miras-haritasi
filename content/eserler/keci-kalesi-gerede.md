@@ -5,10 +5,10 @@ slug: "keci-kalesi-gerede"
 description: "## Keçi Kalesi, Gerede: Bolu'nun Gizli Kahramanı..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Gerede"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.199442,40.814479"
 draft: "false"
 weight: "999"

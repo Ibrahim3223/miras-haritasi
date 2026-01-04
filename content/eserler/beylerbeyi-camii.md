@@ -5,10 +5,10 @@ slug: "beylerbeyi-camii"
 description: "## Beylerbeyi Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/BOSPHOUR_-_panoramio_-_HALUK_COMERTEL.jpg/1200px-BOSPHOUR_-_panoramio_-_HALUK_COMERTEL.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.04573333,41.04516944"
 draft: "false"
 weight: "10"

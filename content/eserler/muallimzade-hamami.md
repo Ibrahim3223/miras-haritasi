@@ -5,10 +5,10 @@ slug: "muallimzade-hamami"
 description: "# Muallimzade Hamamı: Bursa'nın Yıldırım Mahallesi'ndeki Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Muallimzade_Hamamı_Bursa_Davut_kadı_Mah._-_panoramio_(2).jpg/1200px-Muallimzade_Hamamı_Bursa_Davut_kadı_Mah._-_panoramio_(2).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0847569,40.1825981"
 draft: "false"
 weight: "10"

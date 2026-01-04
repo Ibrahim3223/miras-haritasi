@@ -5,10 +5,10 @@ slug: "tunceli-muzesi"
 description: "## Tunceli Müzesi: Doğu Anadolu'nun Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Tunceli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.5478096,39.104229"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "konstantin-koprusu"
 description: "## Konstantin Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.44147384,40.20409959"
 draft: "false"
 weight: "999"

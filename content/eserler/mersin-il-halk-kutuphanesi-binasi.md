@@ -5,10 +5,10 @@ slug: "mersin-il-halk-kutuphanesi-binasi"
 description: "## Mersin İl Halk Kütüphanesi Binası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/İl_Halk_Kütüphanesi,_Akdeniz_-_Mersin.jpg/1200px-İl_Halk_Kütüphanesi,_Akdeniz_-_Mersin.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "34.6337128,36.8018799"
 draft: "false"
 weight: "10"

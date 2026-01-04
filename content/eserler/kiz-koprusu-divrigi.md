@@ -5,10 +5,10 @@ slug: "kiz-koprusu-divrigi"
 description: "**Kız Köprüsü, Divriği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Kız_köprüsü.jpg/1200px-Kız_köprüsü.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.113357,39.4009704"
 draft: "false"
 weight: "10"

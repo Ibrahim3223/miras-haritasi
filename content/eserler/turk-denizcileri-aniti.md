@@ -5,10 +5,10 @@ slug: "turk-denizcileri-aniti"
 description: "### Türk Denizcileri Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Turkish_Sailors_Monument_02.jpg/1200px-Turkish_Sailors_Monument_02.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.079694444,38.399805555"
 draft: "false"
 weight: "10"

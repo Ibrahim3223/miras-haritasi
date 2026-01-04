@@ -5,10 +5,10 @@ slug: "15-temmuz-sehitler-koprusu"
 description: "## 15 Temmuz Şehitler Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Istanbul_asv2020-02_img58_15July_Martyrs_Bridge.jpg/1200px-Istanbul_asv2020-02_img58_15July_Martyrs_Bridge.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.034444444,41.045277777"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "halicioglu-surp-stepanos-kilisesi"
 description: "## Halıcıoğlu Surp Stepanos Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.947416666,41.05125"
 draft: "false"
 weight: "999"

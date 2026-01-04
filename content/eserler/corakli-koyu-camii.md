@@ -5,10 +5,10 @@ slug: "corakli-koyu-camii"
 description: "## Çoraklı Köyü Camii..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Çoraklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.358,41.365027777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bekir-bey-camii"
 description: "## Bekir Bey Camii: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.391449,37.0635757"
 draft: "false"
 weight: "999"

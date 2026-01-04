@@ -5,10 +5,10 @@ slug: "gaziantep-nurdagi-ilce-halk-kutuphanesi"
 description: "## Gaziantep Nurdağı İlçe Halk Kütüphanesi: Tarih, Kültür ve Bilgi Deposu..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nurdağı"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

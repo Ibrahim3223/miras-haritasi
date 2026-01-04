@@ -5,10 +5,10 @@ slug: "taksiyarhis-kilisesi-ayvalik"
 description: "## Taksiyarhis Kilisesi: Ayvalık'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Taksiyarhis_Kilisesi,_Ayvalık_2025-08-26_09-27-44.jpg/1200px-Taksiyarhis_Kilisesi,_Ayvalık_2025-08-26_09-27-44.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.694903,39.319725"
 draft: "false"
 weight: "10"

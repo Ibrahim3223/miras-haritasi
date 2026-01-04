@@ -5,10 +5,10 @@ slug: "irlamaz-koyu-camii"
 description: "### Irlamaz Köyü Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7097511,38.4603615"
 draft: "false"
 weight: "999"

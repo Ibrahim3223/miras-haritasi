@@ -5,10 +5,10 @@ slug: "yikik-camii"
 description: "## Yıkık Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1072998,38.3760986"
 draft: "false"
 weight: "999"

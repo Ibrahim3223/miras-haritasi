@@ -5,10 +5,10 @@ slug: "hanife-hatun-camii"
 description: "**Hanife Hatun Camii: Merzifon'un Gizli Cenneti**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4687805,40.875"
 draft: "false"
 weight: "999"

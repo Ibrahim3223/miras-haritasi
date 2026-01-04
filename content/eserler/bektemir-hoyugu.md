@@ -5,10 +5,10 @@ slug: "bektemir-hoyugu"
 description: "## Bektemir Höyüğü: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.821912,37.6654559"
 draft: "false"
 weight: "999"

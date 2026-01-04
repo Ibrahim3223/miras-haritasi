@@ -5,10 +5,10 @@ slug: "malus-pisidya"
 description: "## Malus (Pisidya) - Eğirdir, Isparta..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.942251,37.7013085"
 draft: "false"
 weight: "999"

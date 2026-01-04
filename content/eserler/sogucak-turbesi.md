@@ -5,10 +5,10 @@ slug: "sogucak-turbesi"
 description: "## Soğucak Türbesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3005428,37.7825089"
 draft: "false"
 weight: "999"

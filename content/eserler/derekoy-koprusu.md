@@ -5,10 +5,10 @@ slug: "derekoy-koprusu"
 description: "## Dereköy Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.59785,40.726933"
 draft: "false"
 weight: "999"

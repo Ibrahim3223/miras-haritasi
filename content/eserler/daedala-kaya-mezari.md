@@ -5,10 +5,10 @@ slug: "daedala-kaya-mezari"
 description: "## Daedala Kaya Mezarı: Muğla'nın Gizli Öyküsünü Kapsayan Bir Anıt..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9640522,36.7437935"
 draft: "false"
 weight: "999"

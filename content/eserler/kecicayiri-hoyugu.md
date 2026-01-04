@@ -5,10 +5,10 @@ slug: "kecicayiri-hoyugu"
 description: "## Keçiçayırı Höyüğü: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7866436,39.3164236"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mevlana-kulliyesi-tilavet-odasi"
 description: "**Mevlana Külliyesi Tilavet Odası**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.5048218,37.8706398"
 draft: "false"
 weight: "999"

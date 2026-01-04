@@ -5,10 +5,10 @@ slug: "emir-saltuk-turbesi"
 description: "## Emir Saltuk Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2785416,39.9039497"
 draft: "false"
 weight: "999"

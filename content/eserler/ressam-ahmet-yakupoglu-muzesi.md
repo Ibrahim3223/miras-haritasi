@@ -5,10 +5,10 @@ slug: "ressam-ahmet-yakupoglu-muzesi"
 description: "## Ressam Ahmet Yakupoğlu Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.989971,39.41245"
 draft: "false"
 weight: "999"

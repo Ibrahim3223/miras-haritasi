@@ -5,10 +5,10 @@ slug: "zank-hoyuk"
 description: "**Zank Höyük: Geçmişin Eski Kenti**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7943,38.9522"
 draft: "false"
 weight: "999"

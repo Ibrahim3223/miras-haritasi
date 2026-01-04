@@ -5,10 +5,10 @@ slug: "kuzguncuk-batak-hamami"
 description: "### Kuzguncuk Batak Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.031082,41.033623"
 draft: "false"
 weight: "999"

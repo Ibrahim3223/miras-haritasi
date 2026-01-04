@@ -5,10 +5,10 @@ slug: "derekoy-yukari-mahalle-camii"
 description: "## Dereköy Yukarı Mahalle Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.596314619,40.718823081"
 draft: "false"
 weight: "999"

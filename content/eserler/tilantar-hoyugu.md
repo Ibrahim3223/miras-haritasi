@@ -5,10 +5,10 @@ slug: "tilantar-hoyugu"
 description: "## Tilantar Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.4974852,36.9177324"
 draft: "false"
 weight: "999"

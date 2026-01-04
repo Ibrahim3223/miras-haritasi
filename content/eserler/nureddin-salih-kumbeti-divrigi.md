@@ -5,10 +5,10 @@ slug: "nureddin-salih-kumbeti-divrigi"
 description: "## Nureddin Salih Kümbeti: Divriği'nin Muhteşem Anıtı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1198273,39.3697891"
 draft: "false"
 weight: "999"

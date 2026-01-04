@@ -5,10 +5,10 @@ slug: "deynus-kalesi"
 description: "# Deynus Kalesi: Yeşilova'nın Gizli Mührü..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Yeşilova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.724411,37.5354347"
 draft: "false"
 weight: "999"

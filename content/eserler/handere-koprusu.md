@@ -5,10 +5,10 @@ slug: "handere-koprusu"
 description: "## Handere Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.272966,39.23261"
 draft: "false"
 weight: "999"

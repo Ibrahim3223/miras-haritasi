@@ -5,10 +5,10 @@ slug: "sadak-koyu-kale-surlari-kelkit"
 description: "## Sadak Köyü Kale Surları, Kelkit..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.595796,40.028751"
 draft: "false"
 weight: "999"

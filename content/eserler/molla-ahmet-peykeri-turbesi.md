@@ -5,10 +5,10 @@ slug: "molla-ahmet-peykeri-turbesi"
 description: "## Molla Ahmet Peykeri Türbesi: Elazığ'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.337827,38.582016"
 draft: "false"
 weight: "999"

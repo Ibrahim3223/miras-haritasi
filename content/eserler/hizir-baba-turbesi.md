@@ -5,10 +5,10 @@ slug: "hizir-baba-turbesi"
 description: "**Hızır Baba Türbesi: Amasya'nın Efsanevi Anıtı**..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8356,40.6546"
 draft: "false"
 weight: "999"

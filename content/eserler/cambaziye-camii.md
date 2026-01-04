@@ -5,10 +5,10 @@ slug: "cambaziye-camii"
 description: "## Cambaziye Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9281521,41.005249"
 draft: "false"
 weight: "999"

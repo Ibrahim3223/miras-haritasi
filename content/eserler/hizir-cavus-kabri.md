@@ -5,10 +5,10 @@ slug: "hizir-cavus-kabri"
 description: "## Hızır Çavuş Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9464073,41.0318527"
 draft: "false"
 weight: "999"

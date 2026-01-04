@@ -5,10 +5,10 @@ slug: "comitanassus"
 description: "## Comitanassus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.3633795,38.1404025"
 draft: "false"
 weight: "999"

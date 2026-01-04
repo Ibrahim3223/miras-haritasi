@@ -5,10 +5,10 @@ slug: "zekeriya-medresesi"
 description: "### Zekeriya Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9484692,41.0256424"
 draft: "false"
 weight: "999"

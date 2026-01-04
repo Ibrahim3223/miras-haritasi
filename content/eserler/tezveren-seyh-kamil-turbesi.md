@@ -5,10 +5,10 @@ slug: "tezveren-seyh-kamil-turbesi"
 description: "## Tezveren Şeyh Kamil Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.0660172,38.60812"
 draft: "false"
 weight: "999"

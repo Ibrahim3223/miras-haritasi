@@ -5,10 +5,10 @@ slug: "kayapa-sehitligi"
 description: "## Kayapa Şehitliği: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6897354,41.7718811"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sikca-murad-mescidi"
 description: "## Sıkça Murad Mescidi: Edirne'nin Tarihi Bir Camisi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5523796,41.6810226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cevizli-koprusu"
 description: "### Cevizli Köprüsü: Gelibolu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6127205,40.3727684"
 draft: "false"
 weight: "999"

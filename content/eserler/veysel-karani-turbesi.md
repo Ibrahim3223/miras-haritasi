@@ -5,10 +5,10 @@ slug: "veysel-karani-turbesi"
 description: "## Veysel Karani Türbesi..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Baykan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.7158987,38.1314264"
 draft: "false"
 weight: "999"

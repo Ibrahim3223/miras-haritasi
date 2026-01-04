@@ -5,10 +5,10 @@ slug: "dibekli-emin-bey-camii"
 description: "## Dibekli Emin Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg/1200px-Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.965238719,41.008748936"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yildirim-medresesi"
 description: "### Yıldırım Medresesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.8830814,39.6507835"
 draft: "false"
 weight: "999"

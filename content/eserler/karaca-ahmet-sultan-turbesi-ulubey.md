@@ -5,10 +5,10 @@ slug: "karaca-ahmet-sultan-turbesi-ulubey"
 description: "# Karaca Ahmet Sultan Türbesi, Ulubey..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.171068,38.429062"
 draft: "false"
 weight: "999"

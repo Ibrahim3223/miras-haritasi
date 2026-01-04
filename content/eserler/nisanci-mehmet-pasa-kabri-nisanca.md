@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-kabri-nisanca"
 description: "## Nişancı Mehmet Paşa Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9609833,41.0061226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ataturk-heykeli-gulhane-parki"
 description: "## Atatürk Heykeli (Gülhane Parkı)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Bronze_statue_of_Turkish_politician_Mustafa_Kemal_Atatürk,_Gulhane_Park,_Istanbul,_2017.jpg/1200px-Bronze_statue_of_Turkish_politician_Mustafa_Kemal_Atatürk,_Gulhane_Park,_Istanbul,_2017.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.979261,41.011204"
 draft: "false"
 weight: "10"

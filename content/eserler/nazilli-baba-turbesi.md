@@ -5,10 +5,10 @@ slug: "nazilli-baba-turbesi"
 description: "## Nazilli Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.6843,39.9788"
 draft: "false"
 weight: "999"

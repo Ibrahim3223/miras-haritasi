@@ -5,10 +5,10 @@ slug: "kumkale-kalesi-camii"
 description: "## Kumkale Kalesi Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2003708,40.0061455"
 draft: "false"
 weight: "999"

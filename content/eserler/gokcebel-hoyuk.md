@@ -5,10 +5,10 @@ slug: "gokcebel-hoyuk"
 description: "## Gökçebel Höyük: Türkiye'nin Gizli Çağı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3256264,40.6436081"
 draft: "false"
 weight: "999"

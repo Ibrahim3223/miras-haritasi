@@ -5,10 +5,10 @@ slug: "halilurrahman-medresesi"
 description: "## Halilürrahman Medresesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "38.7835312,37.1477623"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "burmali-mescit-karacasu"
 description: "## Burmalı Mescit, Karacasu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6002998,37.7262993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ani-kizkalesi-kilisesi"
 description: "## Ani Kızkalesi Kilisesi: Bir Orta Çağ Mimarisi Harikası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5685387,40.4963837"
 draft: "false"
 weight: "999"

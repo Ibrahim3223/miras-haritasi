@@ -5,10 +5,10 @@ slug: "kilise-1-basibuyuk"
 description: "## Başıbüyük Kilisesi: İstanbul'un Gizli Çehresinde Bir İkona..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1561546,40.9560127"
 draft: "false"
 weight: "999"

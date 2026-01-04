@@ -5,10 +5,10 @@ slug: "ashb-i-kehf-kulliyesi"
 description: "### Ashâb-ı Kehf Külliyesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Eshab-ı_Kehf_-_panoramio.jpg/1200px-Eshab-ı_Kehf_-_panoramio.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.855278,38.248333"
 draft: "false"
 weight: "10"

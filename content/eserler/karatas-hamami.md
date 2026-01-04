@@ -5,10 +5,10 @@ slug: "karatas-hamami"
 description: "## Karataş Hamamı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.6131432,40.602937"
 draft: "false"
 weight: "999"

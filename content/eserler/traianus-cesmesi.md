@@ -5,10 +5,10 @@ slug: "traianus-cesmesi"
 description: "## Traianus Çeşmesi: Selçuk'taki Efsanevi Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Trajanus_fountain.jpg/1200px-Trajanus_fountain.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34253,37.93808"
 draft: "false"
 weight: "10"

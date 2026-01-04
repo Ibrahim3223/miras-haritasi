@@ -5,10 +5,10 @@ slug: "seleucia-koprusu"
 description: "## Seleucia Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.9271927,36.1214638"
 draft: "false"
 weight: "999"

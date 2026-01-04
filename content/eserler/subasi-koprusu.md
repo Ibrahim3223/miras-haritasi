@@ -5,10 +5,10 @@ slug: "subasi-koprusu"
 description: "## Subaşı Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0272064,37.7292633"
 draft: "false"
 weight: "999"

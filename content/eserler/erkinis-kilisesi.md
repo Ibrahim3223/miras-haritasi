@@ -5,10 +5,10 @@ slug: "erkinis-kilisesi"
 description: "**Erkinis Kilisesi**..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "Demirkent"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.802080555,40.876833333"
 draft: "false"
 weight: "999"

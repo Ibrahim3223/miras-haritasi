@@ -5,10 +5,10 @@ slug: "turgut-bazergan-mescidi"
 description: "## Turgut Bazergan Mescidi: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.561555184,41.671904998"
 draft: "false"
 weight: "999"

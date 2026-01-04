@@ -5,10 +5,10 @@ slug: "cildir-akcakale-kalesi"
 description: "### Çıldır Akçakale Kalesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.2847595,41.0788918"
 draft: "false"
 weight: "999"

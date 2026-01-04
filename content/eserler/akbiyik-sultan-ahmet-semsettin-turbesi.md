@@ -5,10 +5,10 @@ slug: "akbiyik-sultan-ahmet-semsettin-turbesi"
 description: "## Akbıyık Sultan Ahmet Şemsettin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6749878,40.1171494"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bizans-koprusu"
 description: "### Bizans Köprüsü: Sinop'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.09487,41.964014"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "edirnekapi-sehitligi"
 description: "## Edirnekapı Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Edirnekapı_şehitliği5.JPG/1200px-Edirnekapı_şehitliği5.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.930575,41.032194"
 draft: "false"
 weight: "10"

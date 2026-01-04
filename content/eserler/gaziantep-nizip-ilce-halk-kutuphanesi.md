@@ -5,10 +5,10 @@ slug: "gaziantep-nizip-ilce-halk-kutuphanesi"
 description: "### Gaziantep Nizip İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istanbul-devlet-tiyatrosu"
 description: "## İstanbul Devlet Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: ""
 draft: "false"
 weight: "999"

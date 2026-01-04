@@ -5,10 +5,10 @@ slug: "anneler-gunu-aniti"
 description: "## Anneler Günü Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0485439,40.9856949"
 draft: "false"
 weight: "999"

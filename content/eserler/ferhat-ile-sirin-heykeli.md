@@ -5,10 +5,10 @@ slug: "ferhat-ile-sirin-heykeli"
 description: "## Ferhat ile Şirin Heykeli: Amasya'daki Efsanesel Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Ferhat_şirini_seviyor.jpg/1200px-Ferhat_şirini_seviyor.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8264198,40.6510239"
 draft: "false"
 weight: "10"

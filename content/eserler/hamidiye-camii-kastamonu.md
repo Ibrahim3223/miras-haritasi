@@ -5,10 +5,10 @@ slug: "hamidiye-camii-kastamonu"
 description: "# Hamidiye Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7846527,41.3788872"
 draft: "false"
 weight: "999"

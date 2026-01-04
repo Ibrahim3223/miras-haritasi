@@ -5,10 +5,10 @@ slug: "adiyaman-kalesi"
 description: "# Adıyaman Kalesi: Tarih ve Kültür Mirasının Bir Göstergesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.275303,37.759574"
 draft: "false"
 weight: "999"

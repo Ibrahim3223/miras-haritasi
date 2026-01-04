@@ -5,10 +5,10 @@ slug: "ortakci-kaplicasi"
 description: "## Ortakçı Kaplıcası: Buharkent'in Tarihi Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Buharkent"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.7112446,37.9759369"
 draft: "false"
 weight: "999"

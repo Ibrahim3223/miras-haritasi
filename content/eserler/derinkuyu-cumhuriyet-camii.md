@@ -5,10 +5,10 @@ slug: "derinkuyu-cumhuriyet-camii"
 description: "## Derinkuyu Cumhuriyet Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Derinkuyu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.734666666,38.376333333"
 draft: "false"
 weight: "999"

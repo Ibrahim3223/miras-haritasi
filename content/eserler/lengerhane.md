@@ -5,10 +5,10 @@ slug: "lengerhane"
 description: "## Lengerhane: Beyoğlu'ndaki Tarihi Bir Müze..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9495487,41.0426331"
 draft: "false"
 weight: "999"

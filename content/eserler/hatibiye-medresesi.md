@@ -5,10 +5,10 @@ slug: "hatibiye-medresesi"
 description: "## Hatibiye Medresesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.1063461,38.3984528"
 draft: "false"
 weight: "999"

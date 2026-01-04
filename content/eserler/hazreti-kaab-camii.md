@@ -5,10 +5,10 @@ slug: "hazreti-kaab-camii"
 description: "## Hazreti Kaab Camii: Fatih'te Bir Tarihsel Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hazreti_Kaab_Mosque_01.jpg/1200px-Hazreti_Kaab_Mosque_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9407501,41.039753"
 draft: "false"
 weight: "10"

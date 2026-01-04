@@ -5,10 +5,10 @@ slug: "sogutludere-ciftehoyuk-b-tumulusu"
 description: "## Söğütlüdere Çiftehöyük B Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8020477,41.6194458"
 draft: "false"
 weight: "999"

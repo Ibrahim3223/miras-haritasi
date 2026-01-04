@@ -5,10 +5,10 @@ slug: "incesu-koyu-camii"
 description: "## İncesu Köyü Camii: Isparta'nın Kıymetli Bir Camisi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Keçiborlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2814674,38.0292397"
 draft: "false"
 weight: "999"

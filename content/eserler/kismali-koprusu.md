@@ -5,10 +5,10 @@ slug: "kismali-koprusu"
 description: "### Kısmalı Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7056713,38.5410385"
 draft: "false"
 weight: "999"

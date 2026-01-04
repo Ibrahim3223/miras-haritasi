@@ -5,10 +5,10 @@ slug: "aktas-kilise-camii-nigde"
 description: "## Aktaş Kilise Camii, Niğde..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7679977,38.024704"
 draft: "false"
 weight: "999"

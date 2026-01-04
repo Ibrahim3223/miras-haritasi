@@ -5,10 +5,10 @@ slug: "golbasi-yenipazar-camii"
 description: "### Gölbaşı Yenipazar Camii..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Fatsa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.5390167,41.0209007"
 draft: "false"
 weight: "999"

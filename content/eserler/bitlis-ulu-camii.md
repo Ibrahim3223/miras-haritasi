@@ -5,10 +5,10 @@ slug: "bitlis-ulu-camii"
 description: "## Bitlis Ulu Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.109138888,38.400861111"
 draft: "false"
 weight: "999"

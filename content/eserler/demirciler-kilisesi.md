@@ -5,10 +5,10 @@ slug: "demirciler-kilisesi"
 description: "## Demirciler Kilisesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.2745743,39.9131088"
 draft: "false"
 weight: "999"

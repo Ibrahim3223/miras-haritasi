@@ -5,10 +5,10 @@ slug: "hadrianus-tapinagi-embolos"
 description: "## Hadrianus Tapınağı (Embolos)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Efeso,_tempio_di_adriano_05.JPG/1200px-Efeso,_tempio_di_adriano_05.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34194444,37.9385"
 draft: "false"
 weight: "10"

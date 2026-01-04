@@ -5,10 +5,10 @@ slug: "iskilip-ulu-camii"
 description: "### İskilip Ulu Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.473444444,40.7335"
 draft: "false"
 weight: "999"

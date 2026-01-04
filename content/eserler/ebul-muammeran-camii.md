@@ -5,10 +5,10 @@ slug: "ebul-muammeran-camii"
 description: "## Ebu'l Muammeran Camii..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.5714798,40.5077782"
 draft: "false"
 weight: "999"

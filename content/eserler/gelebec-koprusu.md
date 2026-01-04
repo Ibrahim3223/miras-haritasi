@@ -5,10 +5,10 @@ slug: "gelebec-koprusu"
 description: "## Gelebeç Köprüsü: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3045826,37.6567268"
 draft: "false"
 weight: "999"

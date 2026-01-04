@@ -5,10 +5,10 @@ slug: "gozlu-hoyuk"
 description: "## Gözlü Höyük: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Eskil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.2505083,38.253427"
 draft: "false"
 weight: "999"

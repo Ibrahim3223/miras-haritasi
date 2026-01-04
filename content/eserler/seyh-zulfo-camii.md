@@ -5,10 +5,10 @@ slug: "seyh-zulfo-camii"
 description: "# Şeyh Zülfo Camii: Adana'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3292084,36.9800034"
 draft: "false"
 weight: "999"

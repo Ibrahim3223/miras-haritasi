@@ -5,10 +5,10 @@ slug: "korucu-koprusu"
 description: "### Korucu Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Hadim"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5304298,36.9609604"
 draft: "false"
 weight: "999"

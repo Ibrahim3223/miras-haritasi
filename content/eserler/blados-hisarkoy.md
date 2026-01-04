@@ -5,10 +5,10 @@ slug: "blados-hisarkoy"
 description: "## Blados, Hisarköy: Bigadiç'in Gizli Arkeolojik Şehri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bigadiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.293529,39.427508"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "candarli-merkez-camii"
 description: "# Çandarlı Merkez Camii..."
 featured_image: ""
 province: "Dikili (ilçe)"
-iller: '["Dikili (ilçe)"]'
+iller: ["Dikili (ilçe)"]
 district: "Çandarlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.934588,38.935368"
 draft: "false"
 weight: "999"

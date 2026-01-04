@@ -5,10 +5,10 @@ slug: "notre-dame-du-rosaire-katolik-kilisesi"
 description: "## Notre Dame du Rosaire Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0278378,40.9964104"
 draft: "false"
 weight: "999"

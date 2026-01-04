@@ -5,10 +5,10 @@ slug: "kocu-baba-turbesi"
 description: "## Koçu Baba Türbesi: Balışeyh'in Tarihi Bir Ölümsüzlüğü..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Balışeyh"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.880033,40.069711"
 draft: "false"
 weight: "999"

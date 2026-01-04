@@ -5,10 +5,10 @@ slug: "unkapani-sinagogu"
 description: "# Unkapanı Sinagogu: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.961333333,41.023638888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arif-nihat-asyanin-mezari"
 description: "**Arif Nihat Asya'nın Mezarı: Ankara'nın En Güzel Anıtlarından Biri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arif_Nihat_Asya'nın_mezarı.jpg/1200px-Arif_Nihat_Asya'nın_mezarı.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

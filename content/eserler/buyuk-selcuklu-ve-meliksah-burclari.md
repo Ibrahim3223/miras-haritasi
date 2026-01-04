@@ -5,10 +5,10 @@ slug: "buyuk-selcuklu-ve-meliksah-burclari"
 description: "## Büyük Selçuklu ve Melikşah Burçları..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.237545,37.9115524"
 draft: "false"
 weight: "999"

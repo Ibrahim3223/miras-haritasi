@@ -5,10 +5,10 @@ slug: "hubbi-hatun-turbesi"
 description: "## Hubbi Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935664,41.046309"
 draft: "false"
 weight: "999"

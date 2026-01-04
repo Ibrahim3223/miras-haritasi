@@ -5,10 +5,10 @@ slug: "haci-mehmet-aga-camii-hamami"
 description: "## Hacı Mehmet Ağa Camii Hamamı: Keşan'ın Tarihi bir Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.627394,40.857109"
 draft: "false"
 weight: "999"

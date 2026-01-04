@@ -5,10 +5,10 @@ slug: "sinop-saat-kulesi"
 description: "### Sinop Saat Kulesi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.150888888,42.025777777"
 draft: "false"
 weight: "999"

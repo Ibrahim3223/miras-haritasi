@@ -5,10 +5,10 @@ slug: "ortakoy-tarihi-camii"
 description: "## Ortaköy Tarihi Camii: Bir Ölümsüz Mirasın Tanıtımı..."
 featured_image: ""
 province: "Silivri (ilçe)"
-iller: '["Silivri (ilçe)"]'
+iller: ["Silivri (ilçe)"]
 district: "Ortaköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.37475,41.10125"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasdumen-camii"
 description: "## Hasdümen Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.999254,37.238862"
 draft: "false"
 weight: "999"

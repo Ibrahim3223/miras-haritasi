@@ -5,10 +5,10 @@ slug: "tripolis-buyuk-hamam"
 description: "### Tripolis Büyük Hamam: Buldan'ın Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9477425,38.0386276"
 draft: "false"
 weight: "999"

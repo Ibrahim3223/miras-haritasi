@@ -5,10 +5,10 @@ slug: "tepeyani"
 description: "## Tepeyanı Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8882,41.701575"
 draft: "false"
 weight: "999"

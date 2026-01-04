@@ -5,10 +5,10 @@ slug: "kultepe-asagi-sehir"
 description: "## Kültepe Aşağı Şehir: Kayseri'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.6390991,38.853157"
 draft: "false"
 weight: "999"

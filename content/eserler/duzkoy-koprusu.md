@@ -5,10 +5,10 @@ slug: "duzkoy-koprusu"
 description: "**Düzköy Köprüsü: Artvin'in Gizli Cenneti**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.6035728,41.3788605"
 draft: "false"
 weight: "999"

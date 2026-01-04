@@ -5,10 +5,10 @@ slug: "uyunlu-tumulusu"
 description: "# Üyünlü Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5418663,41.8095474"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kanlihoyuk"
 description: "## Kanlıhöyük: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.94842,39.6663456"
 draft: "false"
 weight: "999"

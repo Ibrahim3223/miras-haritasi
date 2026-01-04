@@ -5,10 +5,10 @@ slug: "akmonya"
 description: "**Akmonya: Uşak'ta Bir Antik Kentin İzleri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/56/Funerary_door_stele_of_Ammia_and_Menogeneia_%28Afyon_Museum%29.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.7714539,38.658994"
 draft: "false"
 weight: "999"

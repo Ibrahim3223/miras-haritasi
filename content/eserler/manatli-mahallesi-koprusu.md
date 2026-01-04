@@ -5,10 +5,10 @@ slug: "manatli-mahallesi-koprusu"
 description: "## Manatlı Mahallesi Köprüsü: Gümüşhane'nin Gizli Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.500805,40.583906"
 draft: "false"
 weight: "999"

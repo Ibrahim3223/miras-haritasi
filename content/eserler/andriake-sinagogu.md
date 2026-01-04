@@ -5,10 +5,10 @@ slug: "andriake-sinagogu"
 description: "## Andriake Sinagogu: Geçmişteki Gizemi Koruyan Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ruins_in_Andriake,_Myra,_Turkey.jpg/1200px-Ruins_in_Andriake,_Myra,_Turkey.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.9585,36.229611"
 draft: "false"
 weight: "10"

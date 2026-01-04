@@ -5,10 +5,10 @@ slug: "haci-nasuh-camii"
 description: "### Hacı Nasuh Camii: Afyonkarahisar'ın Tarihi Bir Örgülü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5432491,38.750824"
 draft: "false"
 weight: "999"

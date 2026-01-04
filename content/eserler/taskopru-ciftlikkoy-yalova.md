@@ -5,10 +5,10 @@ slug: "taskopru-ciftlikkoy-yalova"
 description: "## Taşköprü, Çiftlikköy, Yalova..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Çiftlikköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.3908253,40.6803627"
 draft: "false"
 weight: "999"

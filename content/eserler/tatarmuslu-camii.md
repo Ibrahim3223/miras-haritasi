@@ -5,10 +5,10 @@ slug: "tatarmuslu-camii"
 description: "## Tatarmuslu Camii: Samsun'un Gizli Çarııtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.0761986,41.0555992"
 draft: "false"
 weight: "999"

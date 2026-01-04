@@ -5,10 +5,10 @@ slug: "terzili-koyu-ermeni-kilisesi"
 description: "## Terzili Köyü Ermeni Kilisesi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.361969,39.5537109"
 draft: "false"
 weight: "999"

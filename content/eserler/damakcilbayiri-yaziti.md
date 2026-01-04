@@ -5,10 +5,10 @@ slug: "damakcilbayiri-yaziti"
 description: "## Damakcılbayırı Yazıtı: Eceabat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2794571,40.2674904"
 draft: "false"
 weight: "999"

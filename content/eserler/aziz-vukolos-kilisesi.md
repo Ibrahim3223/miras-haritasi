@@ -5,10 +5,10 @@ slug: "aziz-vukolos-kilisesi"
 description: "## Aziz Vukolos Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Saint_Voukolos_Church.jpg/1200px-Saint_Voukolos_Church.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.147666666,38.421472222"
 draft: "false"
 weight: "10"

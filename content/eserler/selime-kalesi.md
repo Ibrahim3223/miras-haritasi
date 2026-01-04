@@ -5,10 +5,10 @@ slug: "selime-kalesi"
 description: "### Selime Kalesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.2597466,38.3027916"
 draft: "false"
 weight: "999"

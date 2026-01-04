@@ -5,10 +5,10 @@ slug: "mentese-hoyugu"
 description: "**Menteşe Höyüğü: Sivas'ın Gizli Kâse**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.7211582,39.7964596"
 draft: "false"
 weight: "999"

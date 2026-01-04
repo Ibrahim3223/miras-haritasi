@@ -5,10 +5,10 @@ slug: "istanbul-sehir-tiyatrolari"
 description: "### İstanbul Şehir Tiyatroları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.985833333,41.045833333"
 draft: "false"
 weight: "999"

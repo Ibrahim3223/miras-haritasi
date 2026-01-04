@@ -5,10 +5,10 @@ slug: "aya-paraskevi-kilisesi-buyukdere"
 description: "## Aya Paraskevi Kilisesi (Büyükdere)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.045444444,41.161888888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lissa-likya"
 description: "## Lissa (Likya) Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.839144,36.664252"
 draft: "false"
 weight: "999"

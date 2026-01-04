@@ -5,10 +5,10 @@ slug: "iskenderkoy-tumulusu"
 description: "## İskenderköy Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6575222,41.6258125"
 draft: "false"
 weight: "999"

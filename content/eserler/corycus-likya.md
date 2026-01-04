@@ -5,10 +5,10 @@ slug: "corycus-likya"
 description: "## Corycus (Likya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.478555555,36.436138888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lonca-mescidi-bergama"
 description: "### Lonca Mescidi: Bergama'nın Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1788883,39.1224518"
 draft: "false"
 weight: "999"

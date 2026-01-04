@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-camii"
 description: "## Hekimoğlu Ali Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hekimoğlu_Ali_Paşa_Mosque_-_3.JPG/1200px-Hekimoğlu_Ali_Paşa_Mosque_-_3.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.93497222,41.00615833"
 draft: "false"
 weight: "10"

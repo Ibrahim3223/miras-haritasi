@@ -5,10 +5,10 @@ slug: "sakizkoy-sogutdere-tumulusu"
 description: "## Sakızköy Söğütdere Tümülüsü: Lüleburgaz'ın Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4408188,41.4533577"
 draft: "false"
 weight: "999"

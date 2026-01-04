@@ -5,10 +5,10 @@ slug: "yuceoren-nekropolu"
 description: "## Yüceören Nekropolü: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9239426,36.9504356"
 draft: "false"
 weight: "999"

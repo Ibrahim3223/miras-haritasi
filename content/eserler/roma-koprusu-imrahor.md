@@ -5,10 +5,10 @@ slug: "roma-koprusu-imrahor"
 description: "## Roma Köprüsü, İmrahor..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7311745,41.2235718"
 draft: "false"
 weight: "999"

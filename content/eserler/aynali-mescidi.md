@@ -5,10 +5,10 @@ slug: "aynali-mescidi"
 description: "# Aynalı Mescidi: İstanbul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9428024,41.0166626"
 draft: "false"
 weight: "999"

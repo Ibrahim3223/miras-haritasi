@@ -5,10 +5,10 @@ slug: "bayraktepe-tumulusu"
 description: "**Bayraktepe Tümülüsü**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9950161,41.1547775"
 draft: "false"
 weight: "999"

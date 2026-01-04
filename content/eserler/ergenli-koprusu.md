@@ -5,10 +5,10 @@ slug: "ergenli-koprusu"
 description: "# Ergenli Köprüsü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6898994,38.2415009"
 draft: "false"
 weight: "999"

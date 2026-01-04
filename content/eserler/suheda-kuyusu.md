@@ -5,10 +5,10 @@ slug: "suheda-kuyusu"
 description: "## Şüheda Kuyusu: Beşiktaş'ta Bir Anıt'ın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0494461,41.0861778"
 draft: "false"
 weight: "999"

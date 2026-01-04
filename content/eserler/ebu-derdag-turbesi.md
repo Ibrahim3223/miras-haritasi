@@ -5,10 +5,10 @@ slug: "ebu-derdag-turbesi"
 description: "## Ebu Derdağ Türbesi: Eyüpsultan'da Bir Tarihî Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9359055,41.0440445"
 draft: "false"
 weight: "999"

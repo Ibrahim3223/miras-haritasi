@@ -5,10 +5,10 @@ slug: "baliklisu-koyu-camii"
 description: "### Balıklısu Köyü Camii: Giresun'un Tarihi Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.588536,40.905679"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alibeyli-hoyuk"
 description: "## Alibeyli Höyük: Manisa'nın Gizli Kıskacı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.715372,38.690156"
 draft: "false"
 weight: "999"

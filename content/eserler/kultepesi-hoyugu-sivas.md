@@ -5,10 +5,10 @@ slug: "kultepesi-hoyugu-sivas"
 description: "### Kültepesi Höyüğü: Sivas'taki Gizemli Geçmiş..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.077198,39.7996025"
 draft: "false"
 weight: "999"

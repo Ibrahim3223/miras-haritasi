@@ -5,10 +5,10 @@ slug: "tisna"
 description: "## Tisna Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Tisna_Antik_Kenti,_Koca_Kale_Tepe_01.jpg/1200px-Tisna_Antik_Kenti,_Koca_Kale_Tepe_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.065592,38.772883"
 draft: "false"
 weight: "10"

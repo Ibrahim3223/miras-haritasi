@@ -5,10 +5,10 @@ slug: "taskale-tas-camii"
 description: "# Taşkale Taş Camii: Karaman'ın Gizli Ödülleri..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6098824,37.1420441"
 draft: "false"
 weight: "999"

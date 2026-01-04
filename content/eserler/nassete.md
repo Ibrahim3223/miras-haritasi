@@ -5,10 +5,10 @@ slug: "nassete"
 description: "## Nassete Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.131811,40.918692"
 draft: "false"
 weight: "999"

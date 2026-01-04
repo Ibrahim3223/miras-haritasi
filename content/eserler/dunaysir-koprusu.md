@@ -5,10 +5,10 @@ slug: "dunaysir-koprusu"
 description: "## Dunaysır Köprüsü: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.5832634,37.1972198"
 draft: "false"
 weight: "999"

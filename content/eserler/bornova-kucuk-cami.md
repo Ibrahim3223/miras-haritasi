@@ -5,10 +5,10 @@ slug: "bornova-kucuk-cami"
 description: "### Bornova Küçük Camii: Bir Örnek Osmanlı Mimarisine..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.220472222,38.466444444"
 draft: "false"
 weight: "999"

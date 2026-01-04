@@ -5,10 +5,10 @@ slug: "nihahi-kalesi"
 description: "## Nihahi Kalesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.344094444,40.685566666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-bey-camii"
 description: "## Ali Bey Camii: Çankırı'nın Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/Medrese_Ali_Bey_Camii_bah%C3%A7e_kap%C4%B1s%C4%B1_2025c.jpg"
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.612833333,40.603166666"
 draft: "false"
 weight: "999"

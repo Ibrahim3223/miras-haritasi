@@ -5,10 +5,10 @@ slug: "akyenikoy-tumulusu"
 description: "## Akyeniköy Tümülüsü: Didim'in Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3484001,37.5040016"
 draft: "false"
 weight: "999"

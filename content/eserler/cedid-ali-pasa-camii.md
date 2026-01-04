@@ -5,10 +5,10 @@ slug: "cedid-ali-pasa-camii"
 description: "### Cedid Ali Paşa Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.930648,41.045819"
 draft: "false"
 weight: "999"

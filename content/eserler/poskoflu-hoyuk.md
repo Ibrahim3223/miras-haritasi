@@ -5,10 +5,10 @@ slug: "poskoflu-hoyuk"
 description: "### Poskoflu Höyük..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9999721,38.1526249"
 draft: "false"
 weight: "999"

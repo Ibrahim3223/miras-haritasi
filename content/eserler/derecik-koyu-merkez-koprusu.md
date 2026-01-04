@@ -5,10 +5,10 @@ slug: "derecik-koyu-merkez-koprusu"
 description: "## Derecik Köyü Merkez Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.68435,41.00045"
 draft: "false"
 weight: "999"

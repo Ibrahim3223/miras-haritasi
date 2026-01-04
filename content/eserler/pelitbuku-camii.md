@@ -5,10 +5,10 @@ slug: "pelitbuku-camii"
 description: "## Pelitbükü Camii: Alaçam'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4556999,41.3918991"
 draft: "false"
 weight: "999"

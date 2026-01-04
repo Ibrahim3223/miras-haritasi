@@ -5,10 +5,10 @@ slug: "guzelce-ali-pasa-camii"
 description: "### Güzelce Ali Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0635052,41.1174278"
 draft: "false"
 weight: "999"

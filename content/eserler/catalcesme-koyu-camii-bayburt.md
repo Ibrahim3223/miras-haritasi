@@ -5,10 +5,10 @@ slug: "catalcesme-koyu-camii-bayburt"
 description: "## Çatalçeşme Köyü Camii: Bayburt'un Gizli Çiçeği..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.8879623,40.211441"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mso-hava-ve-uzay-muzesi"
 description: "# M.S.Ö. Hava ve Uzay Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.494027777,39.299802777"
 draft: "false"
 weight: "999"

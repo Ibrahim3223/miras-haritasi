@@ -5,10 +5,10 @@ slug: "ankara-roma-yolu"
 description: "## Ankara Roma Yolu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Ankara_Roma_Yolu.JPG/1200px-Ankara_Roma_Yolu.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.85596389,39.94228611"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "patara-merkez-hamami"
 description: "### Patara Merkez Hamamı: Antik Çağın Gizemli Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.316198,36.262527"
 draft: "false"
 weight: "999"

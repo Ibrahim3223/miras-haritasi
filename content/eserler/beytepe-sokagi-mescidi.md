@@ -5,10 +5,10 @@ slug: "beytepe-sokagi-mescidi"
 description: "# Beytepe Sokağı Mescidi: Beypazarı'nın Tarihî Çehresi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9220219,40.1689987"
 draft: "false"
 weight: "999"

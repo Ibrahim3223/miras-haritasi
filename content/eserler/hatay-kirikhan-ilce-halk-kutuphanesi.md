@@ -5,10 +5,10 @@ slug: "hatay-kirikhan-ilce-halk-kutuphanesi"
 description: "### Hatay Kırıkhan İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "36.3524704,36.4994583"
 draft: "false"
 weight: "999"

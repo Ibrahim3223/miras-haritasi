@@ -5,10 +5,10 @@ slug: "dikilitas-camii"
 description: "# Dikilitaş Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.003083333,41.055611111"
 draft: "false"
 weight: "999"

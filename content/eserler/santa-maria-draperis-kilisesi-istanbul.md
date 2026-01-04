@@ -5,10 +5,10 @@ slug: "santa-maria-draperis-kilisesi-istanbul"
 description: "## Santa Maria Draperis Kilisesi: İstanbul'un Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Santa_Maria_Draperis_01.JPG/1200px-Santa_Maria_Draperis_01.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.976527777,41.032777777"
 draft: "false"
 weight: "10"

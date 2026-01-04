@@ -5,10 +5,10 @@ slug: "kapan-camii"
 description: "## Kapan Camii: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kirklareli_kapan_camii_01.jpg/1200px-Kirklareli_kapan_camii_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2253761,41.7341652"
 draft: "false"
 weight: "10"

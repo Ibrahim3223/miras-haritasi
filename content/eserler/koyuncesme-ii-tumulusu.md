@@ -5,10 +5,10 @@ slug: "koyuncesme-ii-tumulusu"
 description: "## Koyunçeşme II Tümülüsü: Edirne'nin Gizli Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.674997316,41.853602608"
 draft: "false"
 weight: "999"

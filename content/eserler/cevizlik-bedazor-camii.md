@@ -5,10 +5,10 @@ slug: "cevizlik-bedazor-camii"
 description: "### Cevizlik Bedazor Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7100916,41.0224232"
 draft: "false"
 weight: "999"

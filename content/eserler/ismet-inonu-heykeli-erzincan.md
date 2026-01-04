@@ -5,10 +5,10 @@ slug: "ismet-inonu-heykeli-erzincan"
 description: "### İsmet İnönü Heykeli, Erzincan..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.491066,39.7510757"
 draft: "false"
 weight: "999"

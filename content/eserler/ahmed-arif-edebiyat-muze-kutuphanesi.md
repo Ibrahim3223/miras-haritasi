@@ -5,10 +5,10 @@ slug: "ahmed-arif-edebiyat-muze-kutuphanesi"
 description: "## Ahmed Arif Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "40.236941,37.913731"
 draft: "false"
 weight: "999"

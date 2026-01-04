@@ -5,10 +5,10 @@ slug: "seydikoy-tren-istasyonu"
 description: "## Seydiköy Tren İstasyonu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Seydiköy_Tren_İstasyonu.png/1200px-Seydiköy_Tren_İstasyonu.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.128000057,38.32100161"
 draft: "false"
 weight: "10"

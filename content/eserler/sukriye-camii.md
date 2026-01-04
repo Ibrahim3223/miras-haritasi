@@ -5,10 +5,10 @@ slug: "sukriye-camii"
 description: "**Şükriye Camii**..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8718414,39.9392776"
 draft: "false"
 weight: "999"

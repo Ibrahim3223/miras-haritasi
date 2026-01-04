@@ -5,10 +5,10 @@ slug: "alaaddin-camii"
 description: "## Alaaddin Camii: Kırşehir'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Yivli_Minare_Mosque_04.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.158694444,39.145777777"
 draft: "false"
 weight: "999"

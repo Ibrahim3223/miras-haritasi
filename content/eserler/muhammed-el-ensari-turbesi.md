@@ -5,10 +5,10 @@ slug: "muhammed-el-ensari-turbesi"
 description: "## Muhammed El-Ensari Türbesi: İstanbul'un Fatih semtinde Yükselen Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Muhammed_El-Ensari_Türbesi.jpg/1200px-Muhammed_El-Ensari_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.942657,41.039826"
 draft: "false"
 weight: "10"

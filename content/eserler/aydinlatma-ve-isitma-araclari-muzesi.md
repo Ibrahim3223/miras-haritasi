@@ -5,10 +5,10 @@ slug: "aydinlatma-ve-isitma-araclari-muzesi"
 description: "## Aydınlatma ve Isıtma Araçları Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.140788,41.09053"
 draft: "false"
 weight: "999"

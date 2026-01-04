@@ -5,10 +5,10 @@ slug: "tashane-camii"
 description: "## Taşhane Camii: Rize'nin Tarihî ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.74864,41.10661"
 draft: "false"
 weight: "999"

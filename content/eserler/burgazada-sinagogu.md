@@ -5,10 +5,10 @@ slug: "burgazada-sinagogu"
 description: "**Burgazada Sinagogu**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.069138888,40.880666666"
 draft: "false"
 weight: "999"

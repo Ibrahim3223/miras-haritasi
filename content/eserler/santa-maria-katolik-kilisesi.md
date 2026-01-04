@@ -5,10 +5,10 @@ slug: "santa-maria-katolik-kilisesi"
 description: "### Santa Maria Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Santa_Maria_Katolik_Kilisesi.jpg/1200px-Santa_Maria_Katolik_Kilisesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.732027777,41.00725"
 draft: "false"
 weight: "999"

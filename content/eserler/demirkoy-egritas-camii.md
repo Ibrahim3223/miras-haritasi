@@ -5,10 +5,10 @@ slug: "demirkoy-egritas-camii"
 description: "### Demirköy Eğritaş Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.6768001,40.997"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hidirlik-tumulusu"
 description: "## Hıdırlık Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8096371,38.1729965"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirik-minare-silvan"
 description: "## Kırık Minare, Silvan..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.0096092,38.1342239"
 draft: "false"
 weight: "999"

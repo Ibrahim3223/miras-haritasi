@@ -5,10 +5,10 @@ slug: "balbissa"
 description: "**Balbissa: Niğde'nin Tarihî Kenti**..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.673625,38.094563"
 draft: "false"
 weight: "999"

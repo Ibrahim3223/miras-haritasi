@@ -5,10 +5,10 @@ slug: "gevale-kalesi"
 description: "## Gevale Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.3865738,37.9016304"
 draft: "false"
 weight: "999"

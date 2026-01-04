@@ -5,10 +5,10 @@ slug: "aspona"
 description: "## Aspona: Balâ'nın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.2901191,39.3102281"
 draft: "false"
 weight: "999"

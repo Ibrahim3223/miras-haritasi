@@ -5,10 +5,10 @@ slug: "eyice-hoyuk"
 description: "### Eyice Höyük: Türkiye'nin Gizli İnsani Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "darphane-kapisi"
 description: "# Darphane Kapısı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.981405,41.010262"
 draft: "false"
 weight: "999"

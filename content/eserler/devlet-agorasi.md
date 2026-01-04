@@ -5,10 +5,10 @@ slug: "devlet-agorasi"
 description: "## Devlet Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ephesus_State_Agora_1981.jpg/1200px-Ephesus_State_Agora_1981.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.344373715,37.936552958"
 draft: "false"
 weight: "10"

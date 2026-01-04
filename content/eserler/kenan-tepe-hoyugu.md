@@ -5,10 +5,10 @@ slug: "kenan-tepe-hoyugu"
 description: "### Kenan Tepe Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.813221,37.8305893"
 draft: "false"
 weight: "999"

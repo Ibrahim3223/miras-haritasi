@@ -5,10 +5,10 @@ slug: "gevher-nesibe-hatun-kumbeti"
 description: "### Gevher Nesibe Hatun Kümbeti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.484436,38.7241402"
 draft: "false"
 weight: "999"

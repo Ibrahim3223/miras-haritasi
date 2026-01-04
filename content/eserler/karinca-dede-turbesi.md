@@ -5,10 +5,10 @@ slug: "karinca-dede-turbesi"
 description: "## Karınca Dede Türbesi: Arifiye'nin Efsanevi Simgesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Arifiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.3590709,40.6691"
 draft: "false"
 weight: "999"

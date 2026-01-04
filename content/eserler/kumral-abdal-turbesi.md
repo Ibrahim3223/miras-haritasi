@@ -5,10 +5,10 @@ slug: "kumral-abdal-turbesi"
 description: "### Kumral Abdal Türbesi: Bozüyük'te Bir Manevi Miras..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0463333,39.8865433"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultan-v-murat-turbesi"
 description: "## Sultan V. Murat Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.971735,41.0161438"
 draft: "false"
 weight: "999"

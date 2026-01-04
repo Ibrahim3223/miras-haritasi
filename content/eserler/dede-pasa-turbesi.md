@@ -5,10 +5,10 @@ slug: "dede-pasa-turbesi"
 description: "## Dede Paşa Türbesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.4996033,39.7170715"
 draft: "false"
 weight: "999"

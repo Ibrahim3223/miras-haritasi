@@ -5,10 +5,10 @@ slug: "konari-roma-koprusu"
 description: "# Konarı Roma Köprüsü..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.785282,41.2352187"
 draft: "false"
 weight: "999"

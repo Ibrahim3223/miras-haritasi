@@ -5,10 +5,10 @@ slug: "catma-camii"
 description: "## Çatma Camii: Serik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.042519,36.906864"
 draft: "false"
 weight: "999"

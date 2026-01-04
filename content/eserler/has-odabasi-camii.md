@@ -5,10 +5,10 @@ slug: "has-odabasi-camii"
 description: "## Has Odabaşı Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Has_Odabaşı_Behruz_Ağa_Camii_in_2014_6778.jpg/1200px-Has_Odabaşı_Behruz_Ağa_Camii_in_2014_6778.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931118,41.012059"
 draft: "false"
 weight: "10"

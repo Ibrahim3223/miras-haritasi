@@ -5,10 +5,10 @@ slug: "baskoy-hamami"
 description: "## Başköy Hamamı: Bilecik'te Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0119228,40.0911903"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tevfikiye-camii"
 description: "## Tevfikiye Camii: Beşiktaş'ın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/İstanbul_-_Arnavutköy,_Beşiktaş_r3_-_Kasım_2013.JPG/1200px-İstanbul_-_Arnavutköy,_Beşiktaş_r3_-_Kasım_2013.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.04525,41.067888888"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "laodikeia-kutsal-hac-kilisesi"
 description: "# Laodikeia Kutsal Hac Kilisesi: Pamukkale'nin Gizemli Yapısı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1104221,37.8364296"
 draft: "false"
 weight: "999"

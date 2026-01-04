@@ -5,10 +5,10 @@ slug: "trabzon-opera-binasi"
 description: "## Trabzon Opera Binası: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Sümer_Operahouse,_Trebizond.jpg/1200px-Sümer_Operahouse,_Trebizond.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon Vilayeti"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "39.731138888,41.005333333"
 draft: "false"
 weight: "10"

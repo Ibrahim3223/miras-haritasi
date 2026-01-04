@@ -5,10 +5,10 @@ slug: "tasoren-camii"
 description: "## Taşören Camii: Trabzon'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.263559,40.742285"
 draft: "false"
 weight: "999"

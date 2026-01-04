@@ -5,10 +5,10 @@ slug: "saridanisment-g-tumulusu"
 description: "## Sarıdanişment G Tümülüsü: Edirne'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8241425,41.8708496"
 draft: "false"
 weight: "999"

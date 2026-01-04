@@ -5,10 +5,10 @@ slug: "halilurrahman-camii"
 description: "### Halilürrahman Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Halilnur_rahman_cami.jpg/1200px-Halilnur_rahman_cami.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7837906,37.1476402"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "arapsuyu-koprusu"
 description: "**Arapsuyu Köprüsü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Old_bridge,_Arapsuyu,_Antalya,_Turkey._Pic_01.jpg/1200px-Old_bridge,_Arapsuyu,_Antalya,_Turkey._Pic_01.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Konyaaltı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.659346,36.880906"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "borukcu"
 description: "## Börükçü Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0506287,37.3377113"
 draft: "false"
 weight: "999"

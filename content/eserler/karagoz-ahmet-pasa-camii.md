@@ -5,10 +5,10 @@ slug: "karagoz-ahmet-pasa-camii"
 description: "**Karagöz Ahmet Paşa Camii: Kütahya'nın Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9807339,39.4182854"
 draft: "false"
 weight: "999"

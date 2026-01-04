@@ -5,10 +5,10 @@ slug: "salim-mutlu-ozel-harp-anilari-muzesi"
 description: "# Salim Mutlu Özel Harp Anıları Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.225258,40.094801"
 draft: "false"
 weight: "999"

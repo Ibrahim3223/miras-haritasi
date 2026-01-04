@@ -5,10 +5,10 @@ slug: "emine-sultan-kosku-anitsal-kapisi"
 description: "## Emine Sultan Köşkü Anıtsal Kapısı: Üsküdar'ın Muhteşem Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Emine_Sultan_Köşkü_Anıtsal_Kapısı.jpg/1200px-Emine_Sultan_Köşkü_Anıtsal_Kapısı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0366402,41.0329552"
 draft: "false"
 weight: "10"

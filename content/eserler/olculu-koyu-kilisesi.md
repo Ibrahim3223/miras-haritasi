@@ -5,10 +5,10 @@ slug: "olculu-koyu-kilisesi"
 description: "### Ölçülü Köyü Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.2546616,40.5681229"
 draft: "false"
 weight: "999"

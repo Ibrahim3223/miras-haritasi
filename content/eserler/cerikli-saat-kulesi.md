@@ -5,10 +5,10 @@ slug: "cerikli-saat-kulesi"
 description: "## Çerikli Saat Kulesi: Kırıkkale'de Tarihi Bir Ölümsüzlük..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Çerikli"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.000583333,39.894222222"
 draft: "false"
 weight: "999"

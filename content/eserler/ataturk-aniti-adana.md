@@ -5,10 +5,10 @@ slug: "ataturk-aniti-adana"
 description: "## Atatürk Anıtı, Adana..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3239365,36.9974556"
 draft: "false"
 weight: "999"

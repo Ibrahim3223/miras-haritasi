@@ -5,10 +5,10 @@ slug: "mustafa-kasvar-baba-turbesi"
 description: "# Mustafa Kasvar Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Mustafa_Kasvar_Baba_Türbesi.jpg/1200px-Mustafa_Kasvar_Baba_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.020894025,41.019570449"
 draft: "false"
 weight: "10"

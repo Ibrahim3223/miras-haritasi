@@ -5,10 +5,10 @@ slug: "sadir-sultan-turbesi"
 description: "# Sadır Sultan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.521389,37.8820343"
 draft: "false"
 weight: "999"

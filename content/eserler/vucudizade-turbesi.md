@@ -5,10 +5,10 @@ slug: "vucudizade-turbesi"
 description: "**Vucudizade Türbesi: Fatih'te Bir Altın Örnek**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934079,41.004662"
 draft: "false"
 weight: "999"

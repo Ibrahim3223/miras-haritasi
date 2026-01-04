@@ -5,10 +5,10 @@ slug: "hakirdakli-mescidi"
 description: "## Hakırdaklı Mescidi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4939308,38.7156982"
 draft: "false"
 weight: "999"

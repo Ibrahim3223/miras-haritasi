@@ -5,10 +5,10 @@ slug: "cihanoglu-kulesi"
 description: "### Cihanoğlu Kulesi: Aydın'ın Gizli Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7060276,37.7590885"
 draft: "false"
 weight: "999"

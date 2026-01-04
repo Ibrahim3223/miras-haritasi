@@ -5,10 +5,10 @@ slug: "mastaura"
 description: "## Mastaura: Aydın'ın Gizli Arkeolojik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mastaura_Roma_Hamamı_4.jpg/1200px-Mastaura_Roma_Hamamı_4.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.341756,37.956332"
 draft: "false"
 weight: "10"

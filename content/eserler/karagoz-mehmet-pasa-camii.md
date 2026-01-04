@@ -5,10 +5,10 @@ slug: "karagoz-mehmet-pasa-camii"
 description: "## Karagöz Mehmet Paşa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.926229,41.009285"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "savas-atlari-muzesi-sivas"
 description: "## Savaş Atları Müzesi, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.9285469,39.7218971"
 draft: "false"
 weight: "999"

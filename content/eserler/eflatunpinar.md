@@ -5,10 +5,10 @@ slug: "eflatunpinar"
 description: "### Eflatunpınar: Konya'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Eflatunpınar_Hittite_Water_Monument_5.jpg/1200px-Eflatunpınar_Hittite_Water_Monument_5.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.6747,37.8257"
 draft: "false"
 weight: "10"

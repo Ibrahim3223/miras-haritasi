@@ -5,10 +5,10 @@ slug: "cayozu-koyu-camii"
 description: "## Çayözü Köyü Camii: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Daday"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5144997,41.5996017"
 draft: "false"
 weight: "999"

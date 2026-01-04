@@ -5,10 +5,10 @@ slug: "cevdet-sunay-muzesi"
 description: "## Cevdet Sunay Müzesi: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.22945,40.7001"
 draft: "false"
 weight: "999"

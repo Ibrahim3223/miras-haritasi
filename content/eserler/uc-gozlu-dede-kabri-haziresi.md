@@ -5,10 +5,10 @@ slug: "uc-gozlu-dede-kabri-haziresi"
 description: "## Üç Gözlü Dede Kabri Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.929486,41.000959"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "devrim-erbil-cagdas-sanatlar-muzesi-ve-kent-arsivi"
 description: "## Devrim Erbil Çağdaş Sanatlar Müzesi ve Kent Arşivi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.8867855,39.6485291"
 draft: "false"
 weight: "999"

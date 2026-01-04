@@ -5,10 +5,10 @@ slug: "alaca-minare-camii"
 description: "## Alaca Minare Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/88/Alaca_Minare_Tekkesi_Haziresi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.027092,41.0167847"
 draft: "false"
 weight: "999"

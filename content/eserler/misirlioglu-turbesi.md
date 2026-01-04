@@ -5,10 +5,10 @@ slug: "misirlioglu-turbesi"
 description: "# Mısırlıoğlu Türbesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.454683,40.452065"
 draft: "false"
 weight: "999"

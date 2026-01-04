@@ -5,10 +5,10 @@ slug: "kecioren-belediyesi-etnografya-muzesi"
 description: "## Keçiören Belediyesi Etnografya Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.866368971,39.980792631"
 draft: "false"
 weight: "999"

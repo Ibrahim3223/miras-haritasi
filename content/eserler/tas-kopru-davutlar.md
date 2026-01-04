@@ -5,10 +5,10 @@ slug: "tas-kopru-davutlar"
 description: "### Taş Köprü, Davutlar: Manisa'nın Eski Bir Harikası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3570995,38.7909012"
 draft: "false"
 weight: "999"

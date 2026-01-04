@@ -5,10 +5,10 @@ slug: "malhun-hatun-turbesi"
 description: "## Malhun Hatun Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9883862,40.1437149"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dogankoy-koprusu"
 description: "## Doğanköy Köprüsü: Türkiye'nin Tarihi Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.475269,40.902868"
 draft: "false"
 weight: "999"

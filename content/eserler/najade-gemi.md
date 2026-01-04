@@ -5,10 +5,10 @@ slug: "najade-gemi"
 description: "## Najade (Gemi)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5667,40.5667"
 draft: "false"
 weight: "999"

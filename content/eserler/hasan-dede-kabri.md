@@ -5,10 +5,10 @@ slug: "hasan-dede-kabri"
 description: "## Hasan Dede Kabri: Fatih'te Yüzyılların Emaneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9806709,41.0048866"
 draft: "false"
 weight: "999"

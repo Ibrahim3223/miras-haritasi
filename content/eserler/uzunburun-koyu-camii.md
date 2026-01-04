@@ -5,10 +5,10 @@ slug: "uzunburun-koyu-camii"
 description: "## Uzunburun Köyü Camii: İzmir'in Ziraat ve Sanayi Mirasının Ortaklığı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.90846,39.032388"
 draft: "false"
 weight: "999"

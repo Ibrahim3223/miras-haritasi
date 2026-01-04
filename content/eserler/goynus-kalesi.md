@@ -5,10 +5,10 @@ slug: "goynus-kalesi"
 description: "## Göynüş Kalesi: Afyonkarahisar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.525003,39.049335"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukurpinar-domuzpinari-a-tumulusu"
 description: "### Çukurpınar Domuzpınarı A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4408207,41.8489342"
 draft: "false"
 weight: "999"

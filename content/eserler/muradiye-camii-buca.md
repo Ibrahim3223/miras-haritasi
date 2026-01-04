@@ -5,10 +5,10 @@ slug: "muradiye-camii-buca"
 description: "## Muradiye Camii (Buca)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.173727,38.3855095"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "feyzullah-camii-atabey"
 description: "### Feyzullah Camii, Atabey..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.6456146,37.9511871"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "terlemez-hoyuk"
 description: "## Terlemez Höyük: Gülşehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3073308,38.7354544"
 draft: "false"
 weight: "999"

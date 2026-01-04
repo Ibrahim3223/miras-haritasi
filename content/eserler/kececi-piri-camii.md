@@ -5,10 +5,10 @@ slug: "kececi-piri-camii"
 description: "## Keçeci Piri Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Keçeci_Piri_Camii_04.jpg/1200px-Keçeci_Piri_Camii_04.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.936243,41.026474"
 draft: "false"
 weight: "10"

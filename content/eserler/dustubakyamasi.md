@@ -5,10 +5,10 @@ slug: "dustubakyamasi"
 description: "## Düştübakyaması: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.536075,41.756786"
 draft: "false"
 weight: "999"

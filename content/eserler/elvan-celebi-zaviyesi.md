@@ -5,10 +5,10 @@ slug: "elvan-celebi-zaviyesi"
 description: "## Elvan Çelebi Zaviyesi: Çorum'un Gizli Çehresini İcradan Kaldırıyor..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1642,40.5664"
 draft: "false"
 weight: "999"

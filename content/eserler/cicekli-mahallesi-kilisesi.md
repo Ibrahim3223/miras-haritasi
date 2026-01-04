@@ -5,10 +5,10 @@ slug: "cicekli-mahallesi-kilisesi"
 description: "## Çiçekli Mahallesi Kilisesi: Gümüşhane'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.392847,40.570945"
 draft: "false"
 weight: "999"

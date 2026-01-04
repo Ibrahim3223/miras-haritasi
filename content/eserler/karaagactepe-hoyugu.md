@@ -5,10 +5,10 @@ slug: "karaagactepe-hoyugu"
 description: "### Karaağaçtepe Höyüğü: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.192917,40.058233"
 draft: "false"
 weight: "999"

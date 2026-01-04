@@ -5,10 +5,10 @@ slug: "fakih-dede-turbesi-karatay"
 description: "### Fakih Dede Türbesi: Karatay'da Bir Anıt..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5044136,37.8660393"
 draft: "false"
 weight: "999"

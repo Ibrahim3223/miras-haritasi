@@ -5,10 +5,10 @@ slug: "gazitepe-aniti"
 description: "## Gazitepe Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.2494011,39.2555504"
 draft: "false"
 weight: "999"

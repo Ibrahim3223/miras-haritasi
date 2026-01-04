@@ -5,10 +5,10 @@ slug: "genc-mehmet-pasa-camii"
 description: "## Genç Mehmet Paşa Camii: Tokat'ın Tarihî bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5582733,40.3186951"
 draft: "false"
 weight: "999"

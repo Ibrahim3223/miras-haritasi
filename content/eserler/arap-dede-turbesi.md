@@ -5,10 +5,10 @@ slug: "arap-dede-turbesi"
 description: "## Arap Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9624481,37.8559952"
 draft: "false"
 weight: "999"

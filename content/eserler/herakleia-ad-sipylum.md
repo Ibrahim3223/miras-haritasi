@@ -5,10 +5,10 @@ slug: "herakleia-ad-sipylum"
 description: "## Herakleia ad Sipylum: Menemen'in Tarihî Mirası..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.141,38.615"
 draft: "false"
 weight: "999"

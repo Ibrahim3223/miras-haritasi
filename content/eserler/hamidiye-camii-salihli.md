@@ -5,10 +5,10 @@ slug: "hamidiye-camii-salihli"
 description: "## Hamidiye Camii, Salihli..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1385937,38.4856529"
 draft: "false"
 weight: "999"

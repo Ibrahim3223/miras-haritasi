@@ -5,10 +5,10 @@ slug: "mutlugun-camii"
 description: "## Mutlugün Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.564614,40.8818294"
 draft: "false"
 weight: "999"

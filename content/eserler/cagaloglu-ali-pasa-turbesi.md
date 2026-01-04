@@ -5,10 +5,10 @@ slug: "cagaloglu-ali-pasa-turbesi"
 description: "## Cağaloğlu Ali Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cağaloğlu_Ali_Paşa_Türbesi.jpg/1200px-Cağaloğlu_Ali_Paşa_Türbesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7331481,38.0849485"
 draft: "false"
 weight: "10"

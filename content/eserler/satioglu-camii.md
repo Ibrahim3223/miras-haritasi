@@ -5,10 +5,10 @@ slug: "satioglu-camii"
 description: "## Satıoğlu Camii: Kırkağaç'taki Bir Önemli Cami..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.669569,39.0995255"
 draft: "false"
 weight: "999"

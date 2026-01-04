@@ -5,10 +5,10 @@ slug: "boztepe-hoyugu"
 description: "## Boztepe Höyüğü: Diyarbakır'ın Gizli Anıtı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.7790089,37.8412848"
 draft: "false"
 weight: "999"

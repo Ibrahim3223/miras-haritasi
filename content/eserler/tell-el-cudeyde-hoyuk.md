@@ -5,10 +5,10 @@ slug: "tell-el-cudeyde-hoyuk"
 description: "## Tell el Cüdeyde Höyük: Hatay'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5866721,36.2676756"
 draft: "false"
 weight: "999"

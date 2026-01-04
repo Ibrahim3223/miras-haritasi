@@ -5,10 +5,10 @@ slug: "haydar-kethuda-camii"
 description: "**Haydar Kethüda Camii**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9376431,41.0055237"
 draft: "false"
 weight: "999"

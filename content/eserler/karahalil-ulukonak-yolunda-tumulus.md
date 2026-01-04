@@ -5,10 +5,10 @@ slug: "karahalil-ulukonak-yolunda-tumulus"
 description: "## Karahalil Ulukonak Yolunda Tümülüs..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0338459,41.612339"
 draft: "false"
 weight: "999"

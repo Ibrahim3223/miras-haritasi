@@ -5,10 +5,10 @@ slug: "kapikoy-tren-istasyonu"
 description: "# Kapıköy Tren İstasyonu: Van'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Saray"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.295436111,38.510461111"
 draft: "false"
 weight: "999"

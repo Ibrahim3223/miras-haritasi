@@ -5,10 +5,10 @@ slug: "yassitepe-hoyugu-bornova"
 description: "## Yassıtepe Höyüğü, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2105465,38.4484138"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gediz-ulu-camii"
 description: "## Gediz Ulu Camii: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Gediz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.413166666,39.041388888"
 draft: "false"
 weight: "999"

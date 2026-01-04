@@ -5,10 +5,10 @@ slug: "eglenhoca-camii"
 description: "### Eğlenhoca Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5695724,38.5425606"
 draft: "false"
 weight: "999"

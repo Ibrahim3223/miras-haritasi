@@ -5,10 +5,10 @@ slug: "kutahya-dumlupinar-universitesi-muzesi"
 description: "## Kütahya Dumlupınar Üniversitesi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

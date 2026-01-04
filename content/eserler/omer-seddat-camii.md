@@ -5,10 +5,10 @@ slug: "omer-seddat-camii"
 description: "## Ömer Şeddat Camii: Diyarbakır'ın Eseri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.235504,37.90647"
 draft: "false"
 weight: "999"

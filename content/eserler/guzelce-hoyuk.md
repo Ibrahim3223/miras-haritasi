@@ -5,10 +5,10 @@ slug: "guzelce-hoyuk"
 description: "## Güzelce Höyük: Kırıkhan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4172879,36.5894259"
 draft: "false"
 weight: "999"

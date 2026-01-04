@@ -5,10 +5,10 @@ slug: "ilisira-hamami"
 description: "**İlisu Hamamı Tanıtımı**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.026949024,37.195428782"
 draft: "false"
 weight: "999"

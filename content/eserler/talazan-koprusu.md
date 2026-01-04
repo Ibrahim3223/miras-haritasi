@@ -5,10 +5,10 @@ slug: "talazan-koprusu"
 description: "## Talazan Köprüsü: Niksar'ın Tarihi Çamurlu Göbeği..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.81413,40.62047"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yukari-camlica-koprusu"
 description: "## Yukarı Çamlıca Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.99925,41.0534167"
 draft: "false"
 weight: "999"

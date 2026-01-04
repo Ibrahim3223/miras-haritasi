@@ -5,10 +5,10 @@ slug: "elmali-koyu-camii-iznik"
 description: "### Elmalı Köyü Camii: İznik'te Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.878933,40.5156364"
 draft: "false"
 weight: "999"

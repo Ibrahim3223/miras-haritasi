@@ -5,10 +5,10 @@ slug: "kagithane-camii"
 description: "## Kağıthane Camii: Bir Osmanlı Dönemi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mosque_of_Sultan_at_Sweet_Waters_of_Europe,_Constantinople.jpg/1200px-Mosque_of_Sultan_at_Sweet_Waters_of_Europe,_Constantinople.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.962888888,41.069944444"
 draft: "false"
 weight: "10"

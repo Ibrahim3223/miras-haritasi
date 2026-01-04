@@ -5,10 +5,10 @@ slug: "knidos"
 description: "# Knidos: Muğla'nın Gizemli Arkeolojik Sitleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Knidos-Häfen.jpg/1200px-Knidos-Häfen.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.375,36.685833"
 draft: "false"
 weight: "10"

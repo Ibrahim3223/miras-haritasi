@@ -5,10 +5,10 @@ slug: "yemezzade-suleyman-rusdi-turbesi"
 description: "### Yemezzade Süleyman Rüşdi Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.6074009,37.7297821"
 draft: "false"
 weight: "999"

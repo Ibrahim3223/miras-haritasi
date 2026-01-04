@@ -5,10 +5,10 @@ slug: "korfmann-kutuphanesi"
 description: "## Korfmann Kütüphanesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "26.4031982,40.1457672"
 draft: "false"
 weight: "999"

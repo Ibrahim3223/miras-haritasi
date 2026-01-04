@@ -5,10 +5,10 @@ slug: "gebe-kilisesi"
 description: "### Gebe Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.6088486,40.7283897"
 draft: "false"
 weight: "999"

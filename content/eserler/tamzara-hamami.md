@@ -5,10 +5,10 @@ slug: "tamzara-hamami"
 description: "# Tamzara Hamamı..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.435387,40.326984"
 draft: "false"
 weight: "999"

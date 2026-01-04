@@ -5,10 +5,10 @@ slug: "yildirim-bayezid-medresesi"
 description: "# Yıldırım Bayezid Medresesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0817528,40.1877022"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "atik-ali-pasa-camii"
 description: "## Atik Ali Paşa Camii: Karagümrük'te Bir Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zincirli_Kuyu_mosque_9319.jpg/1200px-Zincirli_Kuyu_mosque_9319.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.941674,41.024969"
 draft: "false"
 weight: "10"

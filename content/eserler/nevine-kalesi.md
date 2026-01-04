@@ -5,10 +5,10 @@ slug: "nevine-kalesi"
 description: "## Nevine Kalesi: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.4462128,38.1534119"
 draft: "false"
 weight: "999"

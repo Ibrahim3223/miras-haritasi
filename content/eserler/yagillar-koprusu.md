@@ -5,10 +5,10 @@ slug: "yagillar-koprusu"
 description: "# Yağıllar Köprüsü: Simav'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7515583,39.1646004"
 draft: "false"
 weight: "999"

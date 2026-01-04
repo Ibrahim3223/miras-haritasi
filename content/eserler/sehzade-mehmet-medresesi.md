@@ -5,10 +5,10 @@ slug: "sehzade-mehmet-medresesi"
 description: "### Şehzade Mehmet Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9573914,41.0145796"
 draft: "false"
 weight: "999"

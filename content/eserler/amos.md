@@ -5,10 +5,10 @@ slug: "amos"
 description: "### Amos Arkeolojik Sit: Muğla'nın Gizli Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Amos_theatre.jpg/1200px-Amos_theatre.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.26889444,36.75755556"
 draft: "false"
 weight: "10"

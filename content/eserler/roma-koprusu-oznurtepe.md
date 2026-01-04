@@ -5,10 +5,10 @@ slug: "roma-koprusu-oznurtepe"
 description: "## Roma Köprüsü, Öznurtepe..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gazipaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3770943,36.3590546"
 draft: "false"
 weight: "999"

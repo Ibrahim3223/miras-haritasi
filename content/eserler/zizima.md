@@ -5,10 +5,10 @@ slug: "zizima"
 description: "## Zizima Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.401806,38.089908"
 draft: "false"
 weight: "999"

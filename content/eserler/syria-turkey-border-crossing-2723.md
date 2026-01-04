@@ -5,10 +5,10 @@ slug: "syria-turkey-border-crossing-2723"
 description: "## Suriye - Türkiye Sınırında 2723 Numaralı Sınır Geçidi Kervansarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "42.162988292,37.273171635"
 draft: "false"
 weight: "999"

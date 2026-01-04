@@ -5,10 +5,10 @@ slug: "talmud-tora-sinagogu"
 description: "## Talmud Tora Sinagogu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.136083333,38.420083333"
 draft: "false"
 weight: "999"

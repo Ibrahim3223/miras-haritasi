@@ -5,10 +5,10 @@ slug: "kulhani-ali-baba-turbesi"
 description: "## Külhani Ali Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.030601,38.371825"
 draft: "false"
 weight: "999"

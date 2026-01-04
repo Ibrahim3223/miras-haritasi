@@ -5,10 +5,10 @@ slug: "sadyan-koprusu"
 description: "## Şadyan Köprüsü..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.6213455,38.4146233"
 draft: "false"
 weight: "999"

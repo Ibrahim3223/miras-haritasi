@@ -5,10 +5,10 @@ slug: "epiphaneia"
 description: "## Epiphaneia: Hatay'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Epiphaneia,_Cilicia,_Turkey_(36836049395).jpg/1200px-Epiphaneia,_Cilicia,_Turkey_(36836049395).jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.1206114,36.9732011"
 draft: "false"
 weight: "10"

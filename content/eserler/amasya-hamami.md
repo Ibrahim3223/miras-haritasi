@@ -5,10 +5,10 @@ slug: "amasya-hamami"
 description: "**Amasya Hamamı: Aydın'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.481287,37.6096306"
 draft: "false"
 weight: "999"

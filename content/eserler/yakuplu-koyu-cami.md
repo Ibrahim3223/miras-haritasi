@@ -5,10 +5,10 @@ slug: "yakuplu-koyu-cami"
 description: "## Yakuplu Köyü Cami: Tekirdağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9032993,41.0794983"
 draft: "false"
 weight: "999"

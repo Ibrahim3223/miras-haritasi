@@ -5,10 +5,10 @@ slug: "adiyaman-ulu-camii"
 description: "## Adıyaman Ulu Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.277388888,37.7595"
 draft: "false"
 weight: "999"

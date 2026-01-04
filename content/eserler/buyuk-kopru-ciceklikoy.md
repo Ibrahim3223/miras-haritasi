@@ -5,10 +5,10 @@ slug: "buyuk-kopru-ciceklikoy"
 description: "## Büyük Köprü, Çiçekliköy..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2963505,38.4939003"
 draft: "false"
 weight: "999"

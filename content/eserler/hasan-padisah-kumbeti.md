@@ -5,10 +5,10 @@ slug: "hasan-padisah-kumbeti"
 description: "## Hasan Padişah Kümbeti..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4521103,38.7458839"
 draft: "false"
 weight: "999"

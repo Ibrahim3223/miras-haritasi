@@ -5,10 +5,10 @@ slug: "prindea"
 description: "## Prindea Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.248018,40.75315"
 draft: "false"
 weight: "999"

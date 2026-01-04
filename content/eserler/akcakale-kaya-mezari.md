@@ -5,10 +5,10 @@ slug: "akcakale-kaya-mezari"
 description: "## Akçakale Kaya Mezarı: Kangal'ın Tarihi Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.7798157,39.1633415"
 draft: "false"
 weight: "999"

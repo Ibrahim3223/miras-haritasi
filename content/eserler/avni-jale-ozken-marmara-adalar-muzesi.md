@@ -5,10 +5,10 @@ slug: "avni-jale-ozken-marmara-adalar-muzesi"
 description: "### Avni-Jale Özken Marmara Adalar Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.5596657,40.5860939"
 draft: "false"
 weight: "999"

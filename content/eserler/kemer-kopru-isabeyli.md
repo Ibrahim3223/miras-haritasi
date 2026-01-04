@@ -5,10 +5,10 @@ slug: "kemer-kopru-isabeyli"
 description: "## Kemer Köprü, İsabeyli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2558975,37.9317513"
 draft: "false"
 weight: "999"

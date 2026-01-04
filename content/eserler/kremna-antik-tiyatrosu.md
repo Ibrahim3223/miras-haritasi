@@ -5,10 +5,10 @@ slug: "kremna-antik-tiyatrosu"
 description: "### Kremna Antik Tiyatrosu: Bucak'ın Tarihî Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Bucak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.689014,37.498184"
 draft: "false"
 weight: "999"

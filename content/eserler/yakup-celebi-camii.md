@@ -5,10 +5,10 @@ slug: "yakup-celebi-camii"
 description: "## Yakup Çelebi Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7230282,40.4257011"
 draft: "false"
 weight: "999"

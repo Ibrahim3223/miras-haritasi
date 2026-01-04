@@ -5,10 +5,10 @@ slug: "ordu-koyu-sehitligi"
 description: "## Ordu Köyü Şehitliği: Samsun'un Gazi Mezarlığı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.6987495,41.0951347"
 draft: "false"
 weight: "999"

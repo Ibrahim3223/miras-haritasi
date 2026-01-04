@@ -5,10 +5,10 @@ slug: "tacettin-pasa-camii-vezirkopru"
 description: "## Tacettin Paşa Camii: Vezirköprü'de Bir Miras..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4555855,41.145298"
 draft: "false"
 weight: "999"

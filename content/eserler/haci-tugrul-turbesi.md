@@ -5,10 +5,10 @@ slug: "haci-tugrul-turbesi"
 description: "## Hacı Tuğrul Türbesi: Polatlı'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.2003212,39.7263756"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ta-marmara-anit-mezari"
 description: "## Ta Marmara Anıt Mezarı..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3691006,37.4174995"
 draft: "false"
 weight: "999"

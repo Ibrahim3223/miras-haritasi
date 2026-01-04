@@ -5,10 +5,10 @@ slug: "orhan-hamami"
 description: "## Orhan Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.7205925,40.421524"
 draft: "false"
 weight: "999"

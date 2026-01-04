@@ -5,10 +5,10 @@ slug: "1071den-15-temmuza-destanlar-muzesi"
 description: "## 1071'den 15 Temmuz'a Destanlar Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

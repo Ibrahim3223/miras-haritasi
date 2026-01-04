@@ -5,10 +5,10 @@ slug: "hasan-feyzi-efendi-turbesi"
 description: "## Hasan Feyzi Efendi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.082286,37.764384"
 draft: "false"
 weight: "999"

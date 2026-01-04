@@ -5,10 +5,10 @@ slug: "mezarlik-tepe-i-tumulusu"
 description: "**Mezarlık Tepe I Tümülüsü**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.493042,41.0653381"
 draft: "false"
 weight: "999"

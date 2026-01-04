@@ -5,10 +5,10 @@ slug: "kale-camii-vezirkopru"
 description: "### Kale Camii, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4575462,41.1422653"
 draft: "false"
 weight: "999"

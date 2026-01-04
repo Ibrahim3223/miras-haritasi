@@ -5,10 +5,10 @@ slug: "sahabettin-pasa-camii"
 description: "## Şahabettin Paşa Camii: Bursa'nın Değerli Cami Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0573139,40.1887207"
 draft: "false"
 weight: "999"

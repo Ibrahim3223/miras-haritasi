@@ -5,10 +5,10 @@ slug: "erenkoy-istasyon-camii"
 description: "## Erenköy İstasyon Camii: Kadıköy'de Bir Tarihî Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.077,40.9719"
 draft: "false"
 weight: "999"

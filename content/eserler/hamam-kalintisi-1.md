@@ -5,10 +5,10 @@ slug: "hamam-kalintisi-1"
 description: "### Gümüşhane'de Kalıntı Kalan Bir Çağın Mirası: Hamam Kalıntısı 1..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.453607,40.452391"
 draft: "false"
 weight: "999"

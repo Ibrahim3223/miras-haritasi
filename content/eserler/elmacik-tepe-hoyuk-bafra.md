@@ -5,10 +5,10 @@ slug: "elmacik-tepe-hoyuk-bafra"
 description: "### Elmacık Tepe Höyük Bafra: Bir Arkeolojik Sitin Öyküsü..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.8106499,41.4954185"
 draft: "false"
 weight: "999"

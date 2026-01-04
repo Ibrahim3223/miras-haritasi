@@ -5,10 +5,10 @@ slug: "eskisehir-ticaret-ve-sanayi-muzesi"
 description: "## Eskişehir Ticaret ve Sanayi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.523222,39.7648239"
 draft: "false"
 weight: "999"

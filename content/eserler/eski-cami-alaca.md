@@ -5,10 +5,10 @@ slug: "eski-cami-alaca"
 description: "### Eski Cami, Alaca Tanıtımı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8409386,40.1696739"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalehisar-medresesi"
 description: "### Kalehisar Medresesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.7132492,40.2678986"
 draft: "false"
 weight: "999"

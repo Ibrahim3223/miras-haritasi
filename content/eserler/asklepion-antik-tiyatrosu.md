@@ -5,10 +5,10 @@ slug: "asklepion-antik-tiyatrosu"
 description: "## Asklepion Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.1651134,39.1194916"
 draft: "false"
 weight: "999"

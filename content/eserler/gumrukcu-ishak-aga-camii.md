@@ -5,10 +5,10 @@ slug: "gumrukcu-ishak-aga-camii"
 description: "## Gümrükçü İshak Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.045967,41.147901"
 draft: "false"
 weight: "999"

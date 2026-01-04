@@ -5,10 +5,10 @@ slug: "haceti-hafir-turbesi"
 description: "## Haceti Hafir Türbesi: İstanbul'un Genci..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9392834,41.0364571"
 draft: "false"
 weight: "999"

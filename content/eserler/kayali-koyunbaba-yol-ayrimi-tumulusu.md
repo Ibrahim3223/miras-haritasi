@@ -5,10 +5,10 @@ slug: "kayali-koyunbaba-yol-ayrimi-tumulusu"
 description: "### Kayalı Koyunbaba Yol Ayrımı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1166229,41.7540245"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-yergodasan-arakelots-kilisesi"
 description: "## Surp Yergodasan Arakelots Kilisesi: İstanbul'un Gizli Çarpızlarından Birini..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.060313,41.071861"
 draft: "false"
 weight: "999"

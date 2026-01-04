@@ -5,10 +5,10 @@ slug: "trabzon-sehir-muzessi"
 description: "### Trabzon Şehir Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.728019,41.005942"
 draft: "false"
 weight: "999"

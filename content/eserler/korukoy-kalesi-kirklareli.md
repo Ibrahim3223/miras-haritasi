@@ -5,10 +5,10 @@ slug: "korukoy-kalesi-kirklareli"
 description: "# Koruköy Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3541546,41.8755341"
 draft: "false"
 weight: "999"

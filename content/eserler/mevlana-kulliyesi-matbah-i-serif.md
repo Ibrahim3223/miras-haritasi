@@ -5,10 +5,10 @@ slug: "mevlana-kulliyesi-matbah-i-serif"
 description: "## Mevlana Külliyesi Matbah-ı Şerif..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.5045738,37.8703575"
 draft: "false"
 weight: "999"

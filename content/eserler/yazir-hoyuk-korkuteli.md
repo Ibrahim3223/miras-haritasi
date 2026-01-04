@@ -5,10 +5,10 @@ slug: "yazir-hoyuk-korkuteli"
 description: "# Yazır Höyük, Korkuteli: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.2896004,37.0266991"
 draft: "false"
 weight: "999"

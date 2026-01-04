@@ -5,10 +5,10 @@ slug: "aytepe-hoyugu-kavak"
 description: "## Aytepe Höyüğü Kavak: Samsun'un Gizli Hazinesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9771652,41.0583725"
 draft: "false"
 weight: "999"

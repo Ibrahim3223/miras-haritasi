@@ -5,10 +5,10 @@ slug: "melek-ismail-efendi-turbesi"
 description: "## Melek İsmail Efendi Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.441388,40.864973"
 draft: "false"
 weight: "999"

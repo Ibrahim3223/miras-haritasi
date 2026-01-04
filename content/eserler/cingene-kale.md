@@ -5,10 +5,10 @@ slug: "cingene-kale"
 description: "# Çingene Kale..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.3108177,40.3681679"
 draft: "false"
 weight: "999"

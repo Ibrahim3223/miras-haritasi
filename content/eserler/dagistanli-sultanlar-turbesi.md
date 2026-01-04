@@ -5,10 +5,10 @@ slug: "dagistanli-sultanlar-turbesi"
 description: "## Dağıstanlı Sultanlar Türbesi: Erzurum'un Gizli Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.6092,39.9397"
 draft: "false"
 weight: "999"

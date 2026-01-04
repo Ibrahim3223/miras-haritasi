@@ -5,10 +5,10 @@ slug: "milet-buyuk-kilise"
 description: "### Milet Büyük Kilise: İyonya'nın Gizli Çehresi..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2805328,37.5282936"
 draft: "false"
 weight: "999"

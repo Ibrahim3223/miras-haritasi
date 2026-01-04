@@ -5,10 +5,10 @@ slug: "kutuoren-camii"
 description: "## Kutuören Camii: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.929052944,40.198654979"
 draft: "false"
 weight: "999"

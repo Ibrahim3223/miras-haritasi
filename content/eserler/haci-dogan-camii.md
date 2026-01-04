@@ -5,10 +5,10 @@ slug: "haci-dogan-camii"
 description: "**Hacı Doğan Camii: Bir Tarih Ölüsü**..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8567123,39.9390373"
 draft: "false"
 weight: "999"

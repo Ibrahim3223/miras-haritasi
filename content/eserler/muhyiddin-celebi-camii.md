@@ -5,10 +5,10 @@ slug: "muhyiddin-celebi-camii"
 description: "### Muhyiddin Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Çukurcuma_Camii.jpg/1200px-Çukurcuma_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.981111111,41.031972222"
 draft: "false"
 weight: "10"

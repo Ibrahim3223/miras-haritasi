@@ -5,10 +5,10 @@ slug: "mustafa-ayaz-vakfi-plastik-sanatlar-muzesi"
 description: "## Mustafa Ayaz Vakfı Plastik Sanatlar Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.82134,39.911447"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "temple-of-artemis-at-sardis"
 description: "## Temple of Artemis at Sardis: Tarihi Bir Mirasın Geri Dönüşü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Sardis"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

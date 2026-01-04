@@ -5,10 +5,10 @@ slug: "ancyra-frigya"
 description: "### Ancyra (Frigya) Tanıtım Yazısı..."
 featured_image: ""
 province: "Misya"
-iller: '["Misya"]'
+iller: ["Misya"]
 district: "Küçük Frigya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.86222222,39.15388889"
 draft: "false"
 weight: "999"

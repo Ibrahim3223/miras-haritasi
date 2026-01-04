@@ -5,10 +5,10 @@ slug: "piri-reis-aniti"
 description: "## Piri Reis Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4086113,40.1542549"
 draft: "false"
 weight: "999"

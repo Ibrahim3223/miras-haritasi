@@ -5,10 +5,10 @@ slug: "the-poets-breath-monument-in-turkey"
 description: "## The Poet's Breath (Monument in Turkey)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ickale-camii"
 description: "**İçkale Camii: Ortahisar'da Gizemli Bir Şehadet**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.719307,41.001107"
 draft: "false"
 weight: "999"

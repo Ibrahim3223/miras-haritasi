@@ -5,10 +5,10 @@ slug: "buyukbogaziye-hoyugu"
 description: "## Büyükboğaziye Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.296633149,36.966088783"
 draft: "false"
 weight: "999"

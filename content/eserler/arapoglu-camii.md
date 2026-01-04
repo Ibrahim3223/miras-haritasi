@@ -5,10 +5,10 @@ slug: "arapoglu-camii"
 description: "## Arapoğlu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/K1PL_Berlin_2018-09-16_Female_Kumite_%E2%80%9350_kg_60.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2203369,37.1795845"
 draft: "false"
 weight: "999"

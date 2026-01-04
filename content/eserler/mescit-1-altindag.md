@@ -5,10 +5,10 @@ slug: "mescit-1-altindag"
 description: "## Mescit-1, Altındağ: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.856724844,39.945095097"
 draft: "false"
 weight: "999"

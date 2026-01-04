@@ -5,10 +5,10 @@ slug: "besiktas-surp-asdvadzadzin-kilisesi"
 description: "### Beşiktaş Surp Asdvadzadzin Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Church_surp_asdvadzadzin_besiktas.jpg/1200px-Church_surp_asdvadzadzin_besiktas.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0053,41.0445"
 draft: "false"
 weight: "10"

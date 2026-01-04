@@ -5,10 +5,10 @@ slug: "tuvagin-tomegi-hoyuk-3"
 description: "## Tuvağın Tömeği Höyük 3: Aksaray'ın Keşfedilmemiş Bir Öreni..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9090456,38.3937814"
 draft: "false"
 weight: "999"

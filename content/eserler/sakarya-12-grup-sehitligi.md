@@ -5,10 +5,10 @@ slug: "sakarya-12-grup-sehitligi"
 description: "## Sakarya 12. Grup Şehitliği..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.0800171,39.5087967"
 draft: "false"
 weight: "999"

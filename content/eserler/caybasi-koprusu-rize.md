@@ -5,10 +5,10 @@ slug: "caybasi-koprusu-rize"
 description: "## Çaybaşı Köprüsü: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.5484314,40.9211121"
 draft: "false"
 weight: "999"

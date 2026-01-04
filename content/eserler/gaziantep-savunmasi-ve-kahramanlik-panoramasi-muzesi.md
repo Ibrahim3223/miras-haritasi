@@ -5,10 +5,10 @@ slug: "gaziantep-savunmasi-ve-kahramanlik-panoramasi-muzesi"
 description: "## Gaziantep Savunması Ve Kahramanlık Panoraması Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.383267,37.066383"
 draft: "false"
 weight: "999"

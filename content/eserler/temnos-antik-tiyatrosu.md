@@ -5,10 +5,10 @@ slug: "temnos-antik-tiyatrosu"
 description: "### Temnos Antik Tiyatrosu: Eski Bir Kültür Mirası..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.17669,38.678448"
 draft: "false"
 weight: "999"

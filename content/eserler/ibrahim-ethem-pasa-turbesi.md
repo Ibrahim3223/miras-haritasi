@@ -5,10 +5,10 @@ slug: "ibrahim-ethem-pasa-turbesi"
 description: "## İbrahim Ethem Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0161532,41.0269846"
 draft: "false"
 weight: "999"

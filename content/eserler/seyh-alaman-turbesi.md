@@ -5,10 +5,10 @@ slug: "seyh-alaman-turbesi"
 description: "### Şeyh Alaman Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5137367,37.8748741"
 draft: "false"
 weight: "999"

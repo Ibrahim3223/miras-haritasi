@@ -5,10 +5,10 @@ slug: "serafettin-turbesi-konya"
 description: "## Şerafettin Türbesi, Konya..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4986839,37.8722076"
 draft: "false"
 weight: "999"

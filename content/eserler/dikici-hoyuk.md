@@ -5,10 +5,10 @@ slug: "dikici-hoyuk"
 description: "**Dikici Höyük: Afyonkarahisar'ın Gizli Çağı**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.16155,38.046"
 draft: "false"
 weight: "999"

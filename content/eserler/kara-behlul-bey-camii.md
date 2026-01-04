@@ -5,10 +5,10 @@ slug: "kara-behlul-bey-camii"
 description: "## Kara Behlül Bey Camii: Silvan'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.0049286,38.14394"
 draft: "false"
 weight: "999"

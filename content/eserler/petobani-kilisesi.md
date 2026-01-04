@@ -5,10 +5,10 @@ slug: "petobani-kilisesi"
 description: "### Petobani Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Posof"
-iller: '["Posof"]'
+iller: ["Posof"]
 district: "Kalkankaya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.761194444,41.567638888"
 draft: "false"
 weight: "999"

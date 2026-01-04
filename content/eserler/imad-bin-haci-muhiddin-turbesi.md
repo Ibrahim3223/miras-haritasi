@@ -5,10 +5,10 @@ slug: "imad-bin-haci-muhiddin-turbesi"
 description: "## İmad Bin Hacı Muhiddin Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5361,38.7557"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "palangatepe-hoyuk"
 description: "## Palangatepe Höyük: İnegöl'ün Gizli Mimari Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.47752,40.1126213"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehitler-camii"
 description: "## Şehitler Camii: Samsun'un Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Salıpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.7853432,40.9513702"
 draft: "false"
 weight: "999"

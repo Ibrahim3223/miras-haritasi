@@ -5,10 +5,10 @@ slug: "izzeddin-sir-camii"
 description: "## İzzeddin Şir Camii: Van'ın Gevaş'taki Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gevaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.112364134,38.311603572"
 draft: "false"
 weight: "999"

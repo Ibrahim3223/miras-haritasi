@@ -5,10 +5,10 @@ slug: "koseomer-yediyalak-tumulusu"
 description: "## Köseömer Yediyalak Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9186687,41.5758705"
 draft: "false"
 weight: "999"

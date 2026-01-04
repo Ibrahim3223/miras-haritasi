@@ -5,10 +5,10 @@ slug: "yavedud-camii"
 description: "# Yavedüd Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ya_Vedud_Mosque_01.jpg/1200px-Ya_Vedud_Mosque_01.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.940666666,41.040722222"
 draft: "false"
 weight: "10"

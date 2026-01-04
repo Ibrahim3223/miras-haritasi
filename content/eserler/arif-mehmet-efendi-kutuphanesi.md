@@ -5,10 +5,10 @@ slug: "arif-mehmet-efendi-kutuphanesi"
 description: "**Arif Mehmet Efendi Kütüphanesi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.0644779,38.2526207"
 draft: "false"
 weight: "999"

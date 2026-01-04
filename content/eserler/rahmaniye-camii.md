@@ -5,10 +5,10 @@ slug: "rahmaniye-camii"
 description: "### Rahmaniye Camii..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6795692,37.9676933"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sah-bali-turbesi"
 description: "### Şah Bali Türbesi: Uzunköprü'nün Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.895412,41.246282"
 draft: "false"
 weight: "999"

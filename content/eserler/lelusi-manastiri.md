@@ -5,10 +5,10 @@ slug: "lelusi-manastiri"
 description: "### Lelusi Manastırı..."
 featured_image: ""
 province: "Arpaçay"
-iller: '["Arpaçay"]'
+iller: ["Arpaçay"]
 district: "Taşbaşı"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.284713888,40.965586111"
 draft: "false"
 weight: "999"

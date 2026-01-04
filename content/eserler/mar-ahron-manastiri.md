@@ -5,10 +5,10 @@ slug: "mar-ahron-manastiri"
 description: "# Mar Ahron Manastırı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Baskil"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "38.3987885,38.615242"
 draft: "false"
 weight: "999"

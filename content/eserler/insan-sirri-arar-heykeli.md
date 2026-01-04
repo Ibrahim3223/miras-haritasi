@@ -5,10 +5,10 @@ slug: "insan-sirri-arar-heykeli"
 description: "## İnsan Sırrı Arar Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0230846,40.9813614"
 draft: "false"
 weight: "999"

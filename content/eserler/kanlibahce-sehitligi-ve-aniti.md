@@ -5,10 +5,10 @@ slug: "kanlibahce-sehitligi-ve-aniti"
 description: "## Kanlıbahçe Şehitliği ve Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5844383,37.8635292"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tug-kilisesi"
 description: "## Tuğ Kilisesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Tatvan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.3009377,38.4705315"
 draft: "false"
 weight: "999"

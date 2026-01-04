@@ -5,10 +5,10 @@ slug: "hasan-sezai-gulseni-turbesi"
 description: "## Hasan Sezai Gülşeni Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Hasan_Sezai_Gülşeni_Türbesi.jpg/1200px-Hasan_Sezai_Gülşeni_Türbesi.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5578194,41.6691742"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gunebakan-hoyugu"
 description: "# Günebakan Höyüğü: Şanlıurfa'nın Gizli İncisi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3029217,36.9255814"
 draft: "false"
 weight: "999"

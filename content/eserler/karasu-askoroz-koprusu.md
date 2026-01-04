@@ -5,10 +5,10 @@ slug: "karasu-askoroz-koprusu"
 description: "### Karasu Askoroz Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.562583,40.899"
 draft: "false"
 weight: "999"

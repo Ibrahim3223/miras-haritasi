@@ -5,10 +5,10 @@ slug: "muhacirosman-hoyugu"
 description: "**Muhacırosman Höyük: Gaziantep'in Gizli Tarihi**..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2262786,36.9106554"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emir-seyh-turbesi"
 description: "## Emir Şeyh Türbesi: Yakutiye'nin Gizli Çehresi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2795525,39.9051285"
 draft: "false"
 weight: "999"

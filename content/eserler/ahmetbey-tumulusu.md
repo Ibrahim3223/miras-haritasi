@@ -5,10 +5,10 @@ slug: "ahmetbey-tumulusu"
 description: "## Ahmetbey Tümülüsü: Lüleburgaz'ın Gizli Çandırı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.582262,41.4360733"
 draft: "false"
 weight: "999"

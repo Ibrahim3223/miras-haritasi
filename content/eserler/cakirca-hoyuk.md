@@ -5,10 +5,10 @@ slug: "cakirca-hoyuk"
 description: "## Çakırca Höyük: İznik'in Gizli Tarihi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.685033,40.462683"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vezirhan-camii"
 description: "## Vezirhan Camii: Bilecik'te Bir İkinci Roma'nin Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0223026,40.2434502"
 draft: "false"
 weight: "999"

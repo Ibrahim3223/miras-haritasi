@@ -5,10 +5,10 @@ slug: "buzagidere-b-tumulusu"
 description: "## Buzağıdere B Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7856522,41.5428467"
 draft: "false"
 weight: "999"

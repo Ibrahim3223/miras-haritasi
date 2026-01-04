@@ -5,10 +5,10 @@ slug: "hastane-hoyugu"
 description: "**Hastane Höyüğü: Manisa'nın Gizli Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Hastane_Höyüğü_Kazı_Evi_5.jpg/1200px-Hastane_Höyüğü_Kazı_Evi_5.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.837328,38.923384"
 draft: "false"
 weight: "10"

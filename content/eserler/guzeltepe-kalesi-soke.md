@@ -5,10 +5,10 @@ slug: "guzeltepe-kalesi-soke"
 description: "### Güzeltepe Kalesi, Söke..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.562748,37.6230659"
 draft: "false"
 weight: "999"

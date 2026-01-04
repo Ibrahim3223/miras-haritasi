@@ -5,10 +5,10 @@ slug: "holmi"
 description: "## Holmi: Türkiye'nin Eski Medeniyetinin Gizli Kaleleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.88097,36.3202"
 draft: "false"
 weight: "999"

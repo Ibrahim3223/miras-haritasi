@@ -5,10 +5,10 @@ slug: "hali-pazari-koprusu"
 description: "## Halı Pazarı Köprüsü: Uşak'ta Bir Kültür Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4067211,38.6797829"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eskiyoruk-camii"
 description: "## Eskiyörük Camii: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0995339,36.9184319"
 draft: "false"
 weight: "999"

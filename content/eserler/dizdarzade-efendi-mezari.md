@@ -5,10 +5,10 @@ slug: "dizdarzade-efendi-mezari"
 description: "# Dizdarzade Efendi Mezarı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.563161,41.676805"
 draft: "false"
 weight: "999"

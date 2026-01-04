@@ -5,10 +5,10 @@ slug: "alexandria-on-issos"
 description: "### Alexandria on Issos..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "İskenderun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.166,36.589"
 draft: "false"
 weight: "999"

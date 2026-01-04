@@ -5,10 +5,10 @@ slug: "corten-hoyuk"
 description: "## Çörten Höyük: Kilis'teki Eski Köyün Efsanesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.272978,36.7700126"
 draft: "false"
 weight: "999"

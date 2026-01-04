@@ -5,10 +5,10 @@ slug: "sari-musa-kabri"
 description: "# Sarı Musa Kabri: İstanbul'un Gizli Anısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9432278,41.0107613"
 draft: "false"
 weight: "999"

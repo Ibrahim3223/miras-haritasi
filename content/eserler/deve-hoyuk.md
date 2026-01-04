@@ -5,10 +5,10 @@ slug: "deve-hoyuk"
 description: "### Deve Höyük: Gaziantep'te Eski Çağların Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.7359109,36.7555421"
 draft: "false"
 weight: "999"

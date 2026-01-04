@@ -5,10 +5,10 @@ slug: "sari-guzel-hamami"
 description: "## Sarı Güzel Hamamı: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9466572,41.017765"
 draft: "false"
 weight: "999"

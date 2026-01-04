@@ -5,10 +5,10 @@ slug: "sakabasi-mescidi"
 description: "## Sakabaşı Mescidi: Beyoğlu'ndaki Bir Önemli Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.984234859,41.029103226"
 draft: "false"
 weight: "999"

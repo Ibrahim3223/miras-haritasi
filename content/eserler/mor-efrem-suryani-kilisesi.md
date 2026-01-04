@@ -5,10 +5,10 @@ slug: "mor-efrem-suryani-kilisesi"
 description: "## Mor Efrem Süryani Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/St_Ephrem_Syriac_Orthodox_Church_In_Yeşilköy,_Istanbul.jpg/1200px-St_Ephrem_Syriac_Orthodox_Church_In_Yeşilköy,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.824638888,40.95975"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "seyh-fethullah-hamami"
 description: "## Şeyh Fethullah Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.3914452,37.0593224"
 draft: "false"
 weight: "999"

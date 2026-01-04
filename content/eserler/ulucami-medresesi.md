@@ -5,10 +5,10 @@ slug: "ulucami-medresesi"
 description: "## Ulucami Medresesi: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.7047501,36.8867722"
 draft: "false"
 weight: "999"

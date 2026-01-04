@@ -5,10 +5,10 @@ slug: "cinar-camii"
 description: "## Çınar Camii: İstanbulluların Gözdesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9338512,41.0042648"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "charax-bitinya"
 description: "## Charax (Bitinya): İzmit'in Gizli Harikası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.613672,40.788976"
 draft: "false"
 weight: "999"

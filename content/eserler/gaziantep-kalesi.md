@@ -5,10 +5,10 @@ slug: "gaziantep-kalesi"
 description: "# Gaziantep Kalesi: Türkiye'nin Eski Çağlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/AntepKale2_(cropped).jpg/1200px-AntepKale2_(cropped).jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Halep Sancağı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.3833,37.0664"
 draft: "false"
 weight: "10"

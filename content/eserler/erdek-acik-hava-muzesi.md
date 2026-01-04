@@ -5,10 +5,10 @@ slug: "erdek-acik-hava-muzesi"
 description: "## Erdek Açık Hava Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.7927589,40.3948097"
 draft: "false"
 weight: "999"

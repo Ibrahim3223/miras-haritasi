@@ -5,10 +5,10 @@ slug: "czestochova-meryem-ana-kilisesi"
 description: "## Czestochova Meryem Ana Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/İstanbul_6257.jpg/1200px-İstanbul_6257.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.2074021,41.1098922"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "anonim-turbe-2"
 description: "## Anonim Türbe (2): Selçuk'taki Bir Önemli Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3658276,37.9461975"
 draft: "false"
 weight: "999"

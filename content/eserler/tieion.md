@@ -5,10 +5,10 @@ slug: "tieion"
 description: "## Tieion: Ereğli'nin Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.023112,41.561257"
 draft: "false"
 weight: "999"

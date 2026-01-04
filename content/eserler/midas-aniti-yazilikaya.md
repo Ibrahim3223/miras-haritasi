@@ -5,10 +5,10 @@ slug: "midas-aniti-yazilikaya"
 description: "### Midas Anıtı (Yazılıkaya)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/MidasSehri.Tomb.jpg/1200px-MidasSehri.Tomb.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7136669,39.2004814"
 draft: "false"
 weight: "10"

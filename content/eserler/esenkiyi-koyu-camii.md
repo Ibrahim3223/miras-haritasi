@@ -5,10 +5,10 @@ slug: "esenkiyi-koyu-camii"
 description: "## Esenkıyı Köyü Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.463019,41.439575"
 draft: "false"
 weight: "999"

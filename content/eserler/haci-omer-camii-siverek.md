@@ -5,10 +5,10 @@ slug: "haci-omer-camii-siverek"
 description: "## Hacı Ömer Camii: Siverek'in Yüzyılın Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3220367,37.7553253"
 draft: "false"
 weight: "999"

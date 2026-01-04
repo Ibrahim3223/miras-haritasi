@@ -5,10 +5,10 @@ slug: "babaeski-canakkale-sehitligi"
 description: "## Babaeski Çanakkale Şehitliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Babaeski_-_Babaeski_%C3%87anakkale_Martyrs_Cemetery_-_20250531192159.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.08938506,41.433288036"
 draft: "false"
 weight: "999"

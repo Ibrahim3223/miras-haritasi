@@ -5,10 +5,10 @@ slug: "camlikkoy-camii"
 description: "## Çamlıkköy Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.6732216,40.703064"
 draft: "false"
 weight: "999"

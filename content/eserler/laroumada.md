@@ -5,10 +5,10 @@ slug: "laroumada"
 description: "**Laroumada Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.663867,37.061961"
 draft: "false"
 weight: "999"

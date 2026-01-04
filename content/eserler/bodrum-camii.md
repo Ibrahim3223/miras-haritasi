@@ -5,10 +5,10 @@ slug: "bodrum-camii"
 description: "## Bodrum Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Bodrum_korskuppelkirke.JPG/1200px-Bodrum_korskuppelkirke.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.95555556,41.00861111"
 draft: "false"
 weight: "10"

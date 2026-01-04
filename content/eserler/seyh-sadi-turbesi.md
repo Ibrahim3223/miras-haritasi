@@ -5,10 +5,10 @@ slug: "seyh-sadi-turbesi"
 description: "## Şeyh Sadi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.106187,40.534594"
 draft: "false"
 weight: "999"

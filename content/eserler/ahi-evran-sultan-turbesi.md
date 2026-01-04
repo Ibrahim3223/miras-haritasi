@@ -5,10 +5,10 @@ slug: "ahi-evran-sultan-turbesi"
 description: "## Ahi Evran Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.971664,39.417658"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rustem-nail-camii"
 description: "## Rüstem Nail Camii: Türkiye'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8675728,39.9355698"
 draft: "false"
 weight: "999"

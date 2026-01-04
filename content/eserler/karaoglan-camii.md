@@ -5,10 +5,10 @@ slug: "karaoglan-camii"
 description: "## Karaoğlan Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8778934,39.6477623"
 draft: "false"
 weight: "999"

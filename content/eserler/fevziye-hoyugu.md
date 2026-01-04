@@ -5,10 +5,10 @@ slug: "fevziye-hoyugu"
 description: "## Fevziye Höyüğü: Konya'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.1499887,39.0106236"
 draft: "false"
 weight: "999"

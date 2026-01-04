@@ -5,10 +5,10 @@ slug: "seyit-vakkas-turbesi"
 description: "### Seyit Vakkas Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.387922,40.91793"
 draft: "false"
 weight: "999"

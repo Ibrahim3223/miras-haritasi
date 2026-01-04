@@ -5,10 +5,10 @@ slug: "sayburc-oren-yeri"
 description: "## Sayburç Ören Yeri: Yoğunburç'ta Gizemli Bir Geçmişi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Urn_cambridge.org_id_binary_20221201181421541-0856_S0003598X22001259_S0003598X22001259_fig6.png/1200px-Urn_cambridge.org_id_binary_20221201181421541-0856_S0003598X22001259_S0003598X22001259_fig6.png"
 province: "Karaköprü"
-iller: '["Karaköprü"]'
+iller: ["Karaköprü"]
 district: "Yoğunburç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6206984,37.1112388"
 draft: "false"
 weight: "10"

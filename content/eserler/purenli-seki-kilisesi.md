@@ -5,10 +5,10 @@ slug: "purenli-seki-kilisesi"
 description: "### Pürenli Seki Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Aksaray_1998_11.jpg/1200px-Aksaray_1998_11.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.3053543,38.2529397"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cestrus"
 description: "### Cestrus: Eski Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.329444444,36.236388888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yesilpinar-koyu-eski-camii"
 description: "**Yeşilpınar Köyü Eski Camii: Kırklareli'nin Tarihî Bir Mirası**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0033684,41.3692245"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ces-tepesi"
 description: "## Çeş Tepesi: Alaşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.4889721,38.3528472"
 draft: "false"
 weight: "999"

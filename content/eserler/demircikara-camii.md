@@ -5,10 +5,10 @@ slug: "demircikara-camii"
 description: "## Demircikara Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7183857,36.8845711"
 draft: "false"
 weight: "999"

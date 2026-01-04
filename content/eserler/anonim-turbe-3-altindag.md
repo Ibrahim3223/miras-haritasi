@@ -5,10 +5,10 @@ slug: "anonim-turbe-3-altindag"
 description: "## Anonim Türbe-3: Ankara'nın Gizli Bir Özellisi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.853941654,39.942405376"
 draft: "false"
 weight: "999"

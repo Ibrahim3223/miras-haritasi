@@ -5,10 +5,10 @@ slug: "gulnar-merkez-ulu-cami"
 description: "## Gülnar Merkez Ulu Cami: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.4005623,36.3381348"
 draft: "false"
 weight: "999"

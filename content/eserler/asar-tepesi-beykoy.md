@@ -5,10 +5,10 @@ slug: "asar-tepesi-beykoy"
 description: "## Asar Tepesi, Beyköy..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4651067,39.5662149"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "enderun-hamami"
 description: "## Enderun Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9851112,41.0126801"
 draft: "false"
 weight: "999"

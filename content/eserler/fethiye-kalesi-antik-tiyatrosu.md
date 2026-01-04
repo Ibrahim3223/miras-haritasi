@@ -5,10 +5,10 @@ slug: "fethiye-kalesi-antik-tiyatrosu"
 description: "# Fethiye Kalesi Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1135921,36.6188316"
 draft: "false"
 weight: "999"

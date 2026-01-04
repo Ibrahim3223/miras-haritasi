@@ -5,10 +5,10 @@ slug: "redif-kislasi-sindirgi"
 description: "## Redif Kışlası, Sındırgı: Balıkesir'in Kültürel Mirasına Katkı Sunan Bir Müze..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.1797371,39.2347641"
 draft: "false"
 weight: "999"

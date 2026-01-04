@@ -5,10 +5,10 @@ slug: "haskoy-tumulusu"
 description: "## Hasköy Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8757706,41.6406708"
 draft: "false"
 weight: "999"

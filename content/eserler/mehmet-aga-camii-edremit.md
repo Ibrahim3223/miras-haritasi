@@ -5,10 +5,10 @@ slug: "mehmet-aga-camii-edremit"
 description: "## Mehmet Ağa Camii: Edremit'in Tarihi Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.018821649,39.595843927"
 draft: "false"
 weight: "999"

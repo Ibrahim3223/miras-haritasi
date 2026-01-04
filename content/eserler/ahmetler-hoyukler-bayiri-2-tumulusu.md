@@ -5,10 +5,10 @@ slug: "ahmetler-hoyukler-bayiri-2-tumulusu"
 description: "### Ahmetler Höyükler Bayırı 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2372189,42.0212936"
 draft: "false"
 weight: "999"

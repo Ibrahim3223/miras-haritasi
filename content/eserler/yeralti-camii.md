@@ -5,10 +5,10 @@ slug: "yeralti-camii"
 description: "## Yeraltı Camii: İstanbul'un Gizli Çatısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/20110722_south_entrance_Yeralti_Cami_Karakoy_Istanbul_Turkey.jpg/1200px-20110722_south_entrance_Yeralti_Cami_Karakoy_Istanbul_Turkey.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.97648333,41.02253333"
 draft: "false"
 weight: "10"

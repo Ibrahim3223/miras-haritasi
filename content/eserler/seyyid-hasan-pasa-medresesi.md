@@ -5,10 +5,10 @@ slug: "seyyid-hasan-pasa-medresesi"
 description: "## Seyyid Hasan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9613112,41.0103874"
 draft: "false"
 weight: "999"

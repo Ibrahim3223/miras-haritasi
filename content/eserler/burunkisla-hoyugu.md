@@ -5,10 +5,10 @@ slug: "burunkisla-hoyugu"
 description: "### Burunkışla Höyüğü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.2244005,39.4458568"
 draft: "false"
 weight: "999"

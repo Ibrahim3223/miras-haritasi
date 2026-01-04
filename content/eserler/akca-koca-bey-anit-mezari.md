@@ -5,10 +5,10 @@ slug: "akca-koca-bey-anit-mezari"
 description: "## Akça Koca Bey Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Akça_Koca_Bey_Anıt_Mezarı.jpg/1200px-Akça_Koca_Bey_Anıt_Mezarı.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kandıra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1913112,41.114148162"
 draft: "false"
 weight: "10"

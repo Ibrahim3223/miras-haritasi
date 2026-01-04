@@ -5,10 +5,10 @@ slug: "kizkumu-kalesi"
 description: "## Kızkumu Kalesi: Marmaris'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.125857728,36.761226178"
 draft: "false"
 weight: "999"

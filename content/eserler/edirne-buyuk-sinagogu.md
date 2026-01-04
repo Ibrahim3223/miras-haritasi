@@ -5,10 +5,10 @@ slug: "edirne-buyuk-sinagogu"
 description: "## Edirne Büyük Sinagogu: Edirne'nin Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/GrandSynagogueEdirne_(2).JPG/1200px-GrandSynagogueEdirne_(2).JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "26.55157222,41.67161111"
 draft: "false"
 weight: "10"

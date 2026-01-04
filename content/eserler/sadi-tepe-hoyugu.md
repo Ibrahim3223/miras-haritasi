@@ -5,10 +5,10 @@ slug: "sadi-tepe-hoyugu"
 description: "## Şadi Tepe Höyüğü..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Karkamış"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.014271,36.897316"
 draft: "false"
 weight: "999"

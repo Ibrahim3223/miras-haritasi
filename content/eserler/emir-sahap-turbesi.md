@@ -5,10 +5,10 @@ slug: "emir-sahap-turbesi"
 description: "## Emir Şahap Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Kayseri_Emir_Şahap_Türbesi_in_2024_8582.jpg/1200px-Kayseri_Emir_Şahap_Türbesi_in_2024_8582.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4957316,38.7203273"
 draft: "false"
 weight: "10"

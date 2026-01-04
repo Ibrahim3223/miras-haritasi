@@ -5,10 +5,10 @@ slug: "muftu-camii-eskisehir"
 description: "## Müftü Camii, Eskişehir..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5226383,39.7633286"
 draft: "false"
 weight: "999"

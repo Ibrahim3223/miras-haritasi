@@ -5,10 +5,10 @@ slug: "mudurnu-saat-kulesi"
 description: "## Mudurnu Saat Kulesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "31.212583333,40.464833333"
 draft: "false"
 weight: "999"

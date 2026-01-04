@@ -5,10 +5,10 @@ slug: "tekkadin"
 description: "## Tekkadın: Silifke'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TekkadinStadtmauer1.jpg/1200px-TekkadinStadtmauer1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.007221944,36.487221944"
 draft: "false"
 weight: "10"

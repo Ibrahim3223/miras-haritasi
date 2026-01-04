@@ -5,10 +5,10 @@ slug: "henaton"
 description: "### Henaton: Antik Lübnan'ın Gizli Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.830716,40.975888"
 draft: "false"
 weight: "999"

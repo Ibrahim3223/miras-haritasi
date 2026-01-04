@@ -5,10 +5,10 @@ slug: "ayanikola-rum-kilisesi"
 description: "## Ayanikola Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.068575,41.120354"
 draft: "false"
 weight: "999"

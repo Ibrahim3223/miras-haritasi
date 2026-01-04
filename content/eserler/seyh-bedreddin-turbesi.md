@@ -5,10 +5,10 @@ slug: "seyh-bedreddin-turbesi"
 description: "## Şeyh Bedreddin Türbesi: İlginin Merkezi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9223557,38.2807541"
 draft: "false"
 weight: "999"

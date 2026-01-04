@@ -5,10 +5,10 @@ slug: "kadye"
 description: "## Kadye: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.568624,37.832174"
 draft: "false"
 weight: "999"

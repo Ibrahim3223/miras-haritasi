@@ -5,10 +5,10 @@ slug: "akbese-sultan-mescidi"
 description: "## Akbeşe Sultan Mescidi: Alanya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.992959,36.5350375"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yeni-hamam-sivrihisar"
 description: "## Yeni Hamam, Sivrihisar..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.5361729,39.4515533"
 draft: "false"
 weight: "999"

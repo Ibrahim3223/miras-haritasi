@@ -5,10 +5,10 @@ slug: "seleucia-silifke"
 description: "**Seleucia (Silifke): Tarihî Bir Miras**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9165,36.3765"
 draft: "false"
 weight: "999"

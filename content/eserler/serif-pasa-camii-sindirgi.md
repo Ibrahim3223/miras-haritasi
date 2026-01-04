@@ -5,10 +5,10 @@ slug: "serif-pasa-camii-sindirgi"
 description: "## Şerif Paşa Camii: Sındırgı'nın Değerli Camii Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1743488,39.2370758"
 draft: "false"
 weight: "999"

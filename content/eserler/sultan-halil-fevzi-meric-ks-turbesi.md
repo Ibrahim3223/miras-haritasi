@@ -5,10 +5,10 @@ slug: "sultan-halil-fevzi-meric-ks-turbesi"
 description: "## Sultan Halil Fevzi Meriç K.S. Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1725,40.8292"
 draft: "false"
 weight: "999"

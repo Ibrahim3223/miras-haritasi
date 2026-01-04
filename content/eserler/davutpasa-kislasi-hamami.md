@@ -5,10 +5,10 @@ slug: "davutpasa-kislasi-hamami"
 description: "## Davutpaşa Kışlası Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.8897934,41.0274353"
 draft: "false"
 weight: "999"

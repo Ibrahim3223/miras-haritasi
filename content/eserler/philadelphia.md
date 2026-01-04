@@ -5,10 +5,10 @@ slug: "philadelphia"
 description: "### Philadelphia Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.511351,38.346564"
 draft: "false"
 weight: "999"

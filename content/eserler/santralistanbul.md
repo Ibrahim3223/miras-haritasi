@@ -5,10 +5,10 @@ slug: "santralistanbul"
 description: "## Santralİstanbul: Teknoloji ve Sanatta Bir Büyü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Istanbul_Bilgi_University_Santralistanbul_Campus_in_March_2023.jpg/1200px-Istanbul_Bilgi_University_Santralistanbul_Campus_in_March_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9461,41.0665"
 draft: "false"
 weight: "10"

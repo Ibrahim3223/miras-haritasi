@@ -5,10 +5,10 @@ slug: "kilis-ulu-camii"
 description: "## Kilis Ulu Camii: Tarihi ve Kültürel Mirasın İncelenmesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.115167,36.713517"
 draft: "false"
 weight: "999"

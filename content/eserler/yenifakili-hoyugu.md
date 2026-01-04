@@ -5,10 +5,10 @@ slug: "yenifakili-hoyugu"
 description: "### Yenifakılı Höyüğü: Yozgat'ın Gizli Kutsalı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yenifakılı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9966882,39.2182536"
 draft: "false"
 weight: "999"

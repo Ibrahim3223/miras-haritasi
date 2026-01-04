@@ -5,10 +5,10 @@ slug: "nysa-koprusu"
 description: "## Nysa Köprüsü: Aydın'ın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/NysaTunnel.jpg/1200px-NysaTunnel.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.145514,37.903405"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "makriyali-kilisesi"
 description: "## Makriyali Kilisesi: Artvin'in Tarihî Bir Şansı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Makriali_St._George_Georgian_Church,_Hopa_dist.,_Lazistan_-_მაკრიალის_წმ._გიორგი,_ოხვამე.JPG/1200px-Makriali_St._George_Georgian_Church,_Hopa_dist.,_Lazistan_-_მაკრიალის_წმ._გიორგი,_ოხვამე.JPG"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.5281029,41.488533"
 draft: "false"
 weight: "10"

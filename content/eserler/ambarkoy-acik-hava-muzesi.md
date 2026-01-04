@@ -5,10 +5,10 @@ slug: "ambarkoy-acik-hava-muzesi"
 description: "## Ambarköy Açık Hava Müzesi: Samsun'un Eski Köy Evinin Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.899662,40.933342"
 draft: "false"
 weight: "999"

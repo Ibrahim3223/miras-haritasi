@@ -5,10 +5,10 @@ slug: "hasanbeyli-hoyugu"
 description: "**Hasanbeyli Höyüğü: Osmaniye'nin Gizli Mirası**..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Hasanbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.5631973,37.1316547"
 draft: "false"
 weight: "999"

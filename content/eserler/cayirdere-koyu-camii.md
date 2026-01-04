@@ -5,10 +5,10 @@ slug: "cayirdere-koyu-camii"
 description: "## Çayırdere Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5130558,41.7000275"
 draft: "false"
 weight: "999"

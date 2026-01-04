@@ -5,10 +5,10 @@ slug: "gonen-mozaik-ve-acik-hava-muzesi"
 description: "## Gönen Mozaik ve Açık Hava Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.6503773,40.1100159"
 draft: "false"
 weight: "999"

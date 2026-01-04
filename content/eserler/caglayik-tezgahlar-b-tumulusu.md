@@ -5,10 +5,10 @@ slug: "caglayik-tezgahlar-b-tumulusu"
 description: "### Çağlayık Tezgahlar B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3426857,41.9948883"
 draft: "false"
 weight: "999"

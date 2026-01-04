@@ -5,10 +5,10 @@ slug: "yagmur-hoyugu"
 description: "### Yağmur Höyüğü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ağaçören ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8859025,38.7546232"
 draft: "false"
 weight: "999"

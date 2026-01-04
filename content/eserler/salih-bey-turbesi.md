@@ -5,10 +5,10 @@ slug: "salih-bey-turbesi"
 description: "## Salih Bey Türbesi: Pertek'in Kültürel Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Pertek"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2973785,38.918869"
 draft: "false"
 weight: "999"

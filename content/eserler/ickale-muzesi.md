@@ -5,10 +5,10 @@ slug: "ickale-muzesi"
 description: "## İçkale Müzesi: Alanya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

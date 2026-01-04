@@ -5,10 +5,10 @@ slug: "bogazagzi-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Acıgöl"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4846382,38.6347733"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ortakaraviran-hoyuk-ii"
 description: "## Ortakaraviran Höyük II..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.0765038,37.3575172"
 draft: "false"
 weight: "999"

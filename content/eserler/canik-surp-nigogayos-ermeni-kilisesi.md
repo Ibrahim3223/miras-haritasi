@@ -5,10 +5,10 @@ slug: "canik-surp-nigogayos-ermeni-kilisesi"
 description: "## Canik Surp Nigoğayos Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Canik_Surp_Nigoğayos_Ermeni_Kilisesi.jpg/1200px-Canik_Surp_Nigoğayos_Ermeni_Kilisesi.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.3285,41.2977"
 draft: "false"
 weight: "10"

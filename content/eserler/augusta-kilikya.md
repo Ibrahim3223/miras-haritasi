@@ -5,10 +5,10 @@ slug: "augusta-kilikya"
 description: "### Augusta (Kilikya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.344087,37.245212"
 draft: "false"
 weight: "999"

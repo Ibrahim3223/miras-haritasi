@@ -5,10 +5,10 @@ slug: "belenardic-camii"
 description: "## Belenardıç Camii: Denizli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0643673,38.0553932"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dokumacilar-suvanet-camii"
 description: "### Dokumacılar Suvanet Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.325809,40.768126"
 draft: "false"
 weight: "999"

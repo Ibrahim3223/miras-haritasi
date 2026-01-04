@@ -5,10 +5,10 @@ slug: "eceabat-merkez-camii"
 description: "### Eceabat Merkez Camii..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3588829,40.1867256"
 draft: "false"
 weight: "999"

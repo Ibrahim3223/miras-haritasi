@@ -5,10 +5,10 @@ slug: "zeus-ourios-tapinagi"
 description: "**Zeus Ourios Tapınağı: Anadolu Kavağı'ndaki Antik Bir Miras**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.094722222,41.178611111"
 draft: "false"
 weight: "999"

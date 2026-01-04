@@ -5,10 +5,10 @@ slug: "sefer-dede-kabri"
 description: "## Sefer Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.961996,41.02158"
 draft: "false"
 weight: "999"

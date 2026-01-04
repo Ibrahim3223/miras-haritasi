@@ -5,10 +5,10 @@ slug: "selamsiz-baba-kabri"
 description: "## Selamsız Baba Kabri: Üsküdar'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0294437,41.0236893"
 draft: "false"
 weight: "999"

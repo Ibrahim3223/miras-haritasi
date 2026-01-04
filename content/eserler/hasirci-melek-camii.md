@@ -5,10 +5,10 @@ slug: "hasirci-melek-camii"
 description: "# Hasırcı Melek Camii: İstanbul'un Gizli Çehresinde Bir Örnek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9235535,41.0140495"
 draft: "false"
 weight: "999"

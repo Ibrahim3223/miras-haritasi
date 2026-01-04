@@ -5,10 +5,10 @@ slug: "meydan-koprusu-arapgir"
 description: "## Meydan Köprüsü, Arapgir..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.4839672,39.0689607"
 draft: "false"
 weight: "999"

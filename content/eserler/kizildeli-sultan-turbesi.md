@@ -5,10 +5,10 @@ slug: "kizildeli-sultan-turbesi"
 description: "# Kızıldeli Sultan Türbesi: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yazıhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1085358,38.6156502"
 draft: "false"
 weight: "999"

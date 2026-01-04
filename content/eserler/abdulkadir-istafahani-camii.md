@@ -5,10 +5,10 @@ slug: "abdulkadir-istafahani-camii"
 description: "## Abdülkadir İstafahani Camii: Geçmişin Mirası ve İnsanların İbadet Ettiği Yer..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.860722222,39.942527777"
 draft: "false"
 weight: "999"

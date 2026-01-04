@@ -5,10 +5,10 @@ slug: "maltepe-tumulusu-odemis"
 description: "## Maltepe Tümülüsü: Ödemiş'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9328003,38.2528"
 draft: "false"
 weight: "999"

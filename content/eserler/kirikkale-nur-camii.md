@@ -5,10 +5,10 @@ slug: "kirikkale-nur-camii"
 description: "## Kırıkkale Nur Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Kırıkkale_Merkez_Nur_Camii.jpg/1200px-Kırıkkale_Merkez_Nur_Camii.jpg"
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Kırıkkale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.503051,39.840826"
 draft: "false"
 weight: "10"

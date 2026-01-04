@@ -5,10 +5,10 @@ slug: "meram-koprusu"
 description: "## Meram Köprüsü: Bir Tarihî Köprünin Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.4211655,37.8530884"
 draft: "false"
 weight: "999"

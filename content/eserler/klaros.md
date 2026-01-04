@@ -5,10 +5,10 @@ slug: "klaros"
 description: "## Klaros: İzmir'in Gizli Göller Bölgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Klaros01.jpg/1200px-Klaros01.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.19305556,38.005"
 draft: "false"
 weight: "10"

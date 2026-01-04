@@ -5,10 +5,10 @@ slug: "karasu-koprusu-endurluk"
 description: "## Karasu Köprüsü, Endürlük..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.54811936,38.63071149"
 draft: "false"
 weight: "999"

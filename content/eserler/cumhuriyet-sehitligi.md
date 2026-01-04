@@ -5,10 +5,10 @@ slug: "cumhuriyet-sehitligi"
 description: "## Cumhuriyet Şehitliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4538822,38.7923927"
 draft: "false"
 weight: "999"

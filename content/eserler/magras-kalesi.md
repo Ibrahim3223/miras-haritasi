@@ -5,10 +5,10 @@ slug: "magras-kalesi"
 description: "# Mağras Kalesi: Mut, Mersin'deki Tarih Öreni..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.271365,36.7329"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bayrampasa-tevhidhanesi"
 description: "### Bayrampaşa Tevhidhanesi: Fatih'te Bir Medrese Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.942371,41.00845"
 draft: "false"
 weight: "999"

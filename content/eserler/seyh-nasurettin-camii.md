@@ -5,10 +5,10 @@ slug: "seyh-nasurettin-camii"
 description: "## Şeyh Nurettin Camii: İzmir'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7383327,38.0790482"
 draft: "false"
 weight: "999"

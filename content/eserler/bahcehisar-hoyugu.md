@@ -5,10 +5,10 @@ slug: "bahcehisar-hoyugu"
 description: "## Bahçehisar Höyüğü: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0711088,39.0184647"
 draft: "false"
 weight: "999"

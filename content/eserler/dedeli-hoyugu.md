@@ -5,10 +5,10 @@ slug: "dedeli-hoyugu"
 description: "## Dedeli Höyüğü: Çumra'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.79736,37.63862"
 draft: "false"
 weight: "999"

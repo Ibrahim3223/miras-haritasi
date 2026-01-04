@@ -5,10 +5,10 @@ slug: "emirzeli"
 description: "## Emirzeli: Erdemli'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Emirzeli,_Church,_Mersin_Province,_Turkey.JPG/1200px-Emirzeli,_Church,_Mersin_Province,_Turkey.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.102335,36.5427946"
 draft: "false"
 weight: "10"

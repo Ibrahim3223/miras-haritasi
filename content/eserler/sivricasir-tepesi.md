@@ -5,10 +5,10 @@ slug: "sivricasir-tepesi"
 description: "### Sivriçaşır Tepesi: Aksaray'ın Gizli Arkeolojik Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Sarıyahşi (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8924148,38.9124276"
 draft: "false"
 weight: "999"

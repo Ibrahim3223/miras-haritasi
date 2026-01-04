@@ -5,10 +5,10 @@ slug: "inonu-savaslari-karargh-muzesi"
 description: "### İnönü Savaşları Karargâh Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.14388889,39.81472222"
 draft: "false"
 weight: "999"

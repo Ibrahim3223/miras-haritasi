@@ -5,10 +5,10 @@ slug: "kazilusagi-hoyuk"
 description: "### Kazıluşağı Höyük: Şefaatli'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.717071322,39.475185251"
 draft: "false"
 weight: "999"

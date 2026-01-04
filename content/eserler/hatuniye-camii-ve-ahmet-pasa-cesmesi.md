@@ -5,10 +5,10 @@ slug: "hatuniye-camii-ve-ahmet-pasa-cesmesi"
 description: "# Hatuniye Camii ve Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.988876,41.030873"
 draft: "false"
 weight: "999"

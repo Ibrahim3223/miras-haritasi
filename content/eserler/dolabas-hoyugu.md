@@ -5,10 +5,10 @@ slug: "dolabas-hoyugu"
 description: "## Dolabaş Höyüğü: Malazgirt'te Gizli bir Tarih..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Malazgirt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.5803406,39.2270254"
 draft: "false"
 weight: "999"

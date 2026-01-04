@@ -5,10 +5,10 @@ slug: "kayseri-il-halk-kutuphanesi"
 description: "**Kayseri İl Halk Kütüphanesi: Kayseri'nin Kültür Mirası**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.498554,38.716549"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kar-hoyugu"
 description: "# Kar Höyüğü..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4086212,38.9025134"
 draft: "false"
 weight: "999"

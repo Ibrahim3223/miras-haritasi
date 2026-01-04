@@ -5,10 +5,10 @@ slug: "alanbasi-aslanli-camii"
 description: "### Alanbaşı Aslanlı Camii: Artvin'in Gizli Örlü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4106,40.6898"
 draft: "false"
 weight: "999"

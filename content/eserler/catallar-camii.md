@@ -5,10 +5,10 @@ slug: "catallar-camii"
 description: "## Çatallar Camii: Serik'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.869408,37.12847"
 draft: "false"
 weight: "999"

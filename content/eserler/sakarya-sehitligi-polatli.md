@@ -5,10 +5,10 @@ slug: "sakarya-sehitligi-polatli"
 description: "### Sakarya Şehitliği: Polatlı'da Yıkılmaz Şehitler Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.1340675,39.5841179"
 draft: "false"
 weight: "999"

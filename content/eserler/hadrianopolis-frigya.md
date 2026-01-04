@@ -5,10 +5,10 @@ slug: "hadrianopolis-frigya"
 description: "# Hadrianopolis (Frigya)..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.6780556,38.1447222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "telli-baba-turbesi"
 description: "## Telli Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.071639,41.175236"
 draft: "false"
 weight: "999"

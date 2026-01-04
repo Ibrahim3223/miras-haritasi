@@ -5,10 +5,10 @@ slug: "sultan-mesud-turbesi"
 description: "### Sultan Mesud Türbesi: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.824416666,40.649333333"
 draft: "false"
 weight: "999"

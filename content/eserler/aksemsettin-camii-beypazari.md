@@ -5,10 +5,10 @@ slug: "aksemsettin-camii-beypazari"
 description: "**Akşemsettin Camii, Beypazarı**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.922245,40.1682091"
 draft: "false"
 weight: "999"

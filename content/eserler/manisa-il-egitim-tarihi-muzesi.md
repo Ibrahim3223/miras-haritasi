@@ -5,10 +5,10 @@ slug: "manisa-il-egitim-tarihi-muzesi"
 description: "### Manisa İl Eğitim Tarihi Müzesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4352112,38.6175652"
 draft: "false"
 weight: "999"

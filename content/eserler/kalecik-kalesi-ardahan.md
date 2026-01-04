@@ -5,10 +5,10 @@ slug: "kalecik-kalesi-ardahan"
 description: "### Kalecik Kalesi: Ardahan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Göle"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.481213,40.968655"
 draft: "false"
 weight: "999"

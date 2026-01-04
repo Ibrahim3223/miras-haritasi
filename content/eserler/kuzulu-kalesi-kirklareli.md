@@ -5,10 +5,10 @@ slug: "kuzulu-kalesi-kirklareli"
 description: "## Kuzulu Kalesi: Kırklareli'nin Gizli Çağı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.2820969,41.901432"
 draft: "false"
 weight: "999"

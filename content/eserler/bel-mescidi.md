@@ -5,10 +5,10 @@ slug: "bel-mescidi"
 description: "## Bel Mescidi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5428982,38.7502174"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "umut-koprusu"
 description: "## Umut Köprüsü: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "44.80333333,39.65527778"
 draft: "false"
 weight: "999"

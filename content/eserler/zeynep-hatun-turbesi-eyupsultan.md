@@ -5,10 +5,10 @@ slug: "zeynep-hatun-turbesi-eyupsultan"
 description: "## Zeynep Hatun Türbesi, Eyüpsultan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.932143177,41.055059504"
 draft: "false"
 weight: "999"

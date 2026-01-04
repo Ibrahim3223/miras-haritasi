@@ -5,10 +5,10 @@ slug: "genegi-mescidi"
 description: "## Geneği Mescidi: Altındağ'da Tarihi Bir Miras..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8655701,39.9360008"
 draft: "false"
 weight: "999"

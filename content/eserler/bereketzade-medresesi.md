@@ -5,10 +5,10 @@ slug: "bereketzade-medresesi"
 description: "# Bereketzade Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/In_Between_-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.973671,41.023086"
 draft: "false"
 weight: "999"

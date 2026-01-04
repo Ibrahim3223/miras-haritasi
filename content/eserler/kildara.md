@@ -5,10 +5,10 @@ slug: "kildara"
 description: "### Kildara Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.693076,37.181505"
 draft: "false"
 weight: "999"

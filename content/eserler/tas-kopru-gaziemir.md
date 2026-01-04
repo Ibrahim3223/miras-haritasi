@@ -5,10 +5,10 @@ slug: "tas-kopru-gaziemir"
 description: "# Taş Köprü, Gaziemir..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Gaziemir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1230583,38.320816"
 draft: "false"
 weight: "999"

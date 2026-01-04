@@ -5,10 +5,10 @@ slug: "sakarya-koprusu"
 description: "## Sakarya Köprüsü: Türkiye'nin Tarihi ve Teknolojik Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.436779,40.7957306"
 draft: "false"
 weight: "999"

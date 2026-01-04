@@ -5,10 +5,10 @@ slug: "songrus-hoyuk"
 description: "### Songrus Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nurdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8960571,37.2133217"
 draft: "false"
 weight: "999"

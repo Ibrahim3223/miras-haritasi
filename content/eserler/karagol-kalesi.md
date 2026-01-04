@@ -5,10 +5,10 @@ slug: "karagol-kalesi"
 description: "## Karagöl Kalesi: Konya'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.7684326,37.7483063"
 draft: "false"
 weight: "999"

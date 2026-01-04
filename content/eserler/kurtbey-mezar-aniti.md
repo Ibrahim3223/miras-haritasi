@@ -5,10 +5,10 @@ slug: "kurtbey-mezar-aniti"
 description: "## Kurtbey Mezar Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Kurtbey_Mezar_Anıtı_-_20250601104351.jpg/1200px-Kurtbey_Mezar_Anıtı_-_20250601104351.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.822197,41.5492821"
 draft: "false"
 weight: "10"

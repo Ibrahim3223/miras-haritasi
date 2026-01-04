@@ -5,10 +5,10 @@ slug: "veznedar-camii"
 description: "## Veznedar Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.3269196,41.2425957"
 draft: "false"
 weight: "999"

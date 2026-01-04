@@ -5,10 +5,10 @@ slug: "necip-camii-kula"
 description: "## Necip Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6471996,38.5439987"
 draft: "false"
 weight: "999"

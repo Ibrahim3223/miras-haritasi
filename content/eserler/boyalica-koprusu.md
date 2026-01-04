@@ -5,10 +5,10 @@ slug: "boyalica-koprusu"
 description: "## Boyalıca Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.5826888,40.4917902"
 draft: "false"
 weight: "999"

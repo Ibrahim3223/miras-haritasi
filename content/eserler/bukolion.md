@@ -5,10 +5,10 @@ slug: "bukolion"
 description: "## Bukolion Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.714734,38.136201"
 draft: "false"
 weight: "999"

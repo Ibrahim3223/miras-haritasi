@@ -5,10 +5,10 @@ slug: "side-pamfilya"
 description: "## Side: Pamfilya'nın Muhteşem Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.39138889,36.76833333"
 draft: "false"
 weight: "999"

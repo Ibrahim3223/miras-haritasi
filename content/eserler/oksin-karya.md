@@ -5,10 +5,10 @@ slug: "oksin-karya"
 description: "### Öksin (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.715749,36.837326"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "juliosebaste"
 description: "## Juliosebaste: Antik Şehirin İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.474166666,36.177777777"
 draft: "false"
 weight: "999"

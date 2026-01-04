@@ -5,10 +5,10 @@ slug: "ibrahim-hakki-ayvaz-kent-muzesi-ve-bedia-akarturk-sanat-muzesi"
 description: "### İbrahim Hakkı Ayvaz Kent Müzesi ve Bedia Akartürk Sanat Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.9669704,38.2266426"
 draft: "false"
 weight: "999"

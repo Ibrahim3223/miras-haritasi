@@ -5,10 +5,10 @@ slug: "tripolis-tiyatro-hamami"
 description: "## Tripolis Tiyatro Hamamı: Denizli'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9498043,38.0391121"
 draft: "false"
 weight: "999"

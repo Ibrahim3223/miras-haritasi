@@ -5,10 +5,10 @@ slug: "surp-garabet-manastiri"
 description: "## Surp Garabet Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mush_St._Karapet_Monastery.jpg/1200px-Mush_St._Karapet_Monastery.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.191697,38.961068"
 draft: "false"
 weight: "10"

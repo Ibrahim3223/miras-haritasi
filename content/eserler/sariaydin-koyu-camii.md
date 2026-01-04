@@ -5,10 +5,10 @@ slug: "sariaydin-koyu-camii"
 description: "# Sarıaydın Köyü Camii: Mersin'in Eski ve Gizli Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.9150734,36.7606468"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmet-buhari-kabri"
 description: "## Mehmet Buhari Kabri: Gelibolu'nun Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.671938,40.40858"
 draft: "false"
 weight: "999"

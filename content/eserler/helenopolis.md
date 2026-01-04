@@ -5,10 +5,10 @@ slug: "helenopolis"
 description: "### Helenopolis: Yalova'da Bir İmparatorluk Kenti..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.5,40.72"
 draft: "false"
 weight: "999"

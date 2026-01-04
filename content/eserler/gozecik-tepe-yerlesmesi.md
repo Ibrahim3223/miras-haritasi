@@ -5,10 +5,10 @@ slug: "gozecik-tepe-yerlesmesi"
 description: "## Gözecik Tepe Yerleşmesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.8138351,39.4226265"
 draft: "false"
 weight: "999"

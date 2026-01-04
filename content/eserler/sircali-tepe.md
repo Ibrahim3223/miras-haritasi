@@ -5,10 +5,10 @@ slug: "sircali-tepe"
 description: "## Sırçalı Tepe: Çumra'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.742073,37.571369"
 draft: "false"
 weight: "999"

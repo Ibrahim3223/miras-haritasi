@@ -5,10 +5,10 @@ slug: "kemiktepe"
 description: "## Kemiktepe Arkeolojik Sit..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.308374,39.7759589"
 draft: "false"
 weight: "999"

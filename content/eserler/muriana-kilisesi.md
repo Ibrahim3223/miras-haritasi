@@ -5,10 +5,10 @@ slug: "muriana-kilisesi"
 description: "# Muriana Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Bağdaşen"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.384972222,41.035972222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uyuk-hoyuk"
 description: "### Üyük Höyük: Tokat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.8549743,40.1592595"
 draft: "false"
 weight: "999"

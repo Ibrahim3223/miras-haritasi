@@ -5,10 +5,10 @@ slug: "bursa-goc-tarihi-muzesi"
 description: "### Bursa Göç Tarihi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Goctarihilogo.JPG/1200px-Goctarihilogo.JPG"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0491,40.1995"
 draft: "false"
 weight: "10"

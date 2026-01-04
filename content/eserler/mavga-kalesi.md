@@ -5,10 +5,10 @@ slug: "mavga-kalesi"
 description: "### Mavga Kalesi: Mut, Mersin'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.501919,36.72769"
 draft: "false"
 weight: "999"

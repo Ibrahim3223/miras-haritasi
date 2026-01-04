@@ -5,10 +5,10 @@ slug: "el-hac-huseyin-yildiz-efendi-turbesi"
 description: "## El Hac Hüseyin Yıldız Efendi Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1754723,40.8274574"
 draft: "false"
 weight: "999"

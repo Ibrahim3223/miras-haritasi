@@ -5,10 +5,10 @@ slug: "antakya-antik-yapilari"
 description: "### Antakya Antik Yapıları: Antik Hamam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/38/Antik_Beyaz%C4%B1t_Hotel_-2023_depremi_%C3%B6ncesi.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.173584,36.2113953"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ermeniler-tarafindan-katledilen-sehit-turkler-anit-ve-muzesi"
 description: "**Ermeniler Tarafından Katledilen Şehit Türkler Anıt ve Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/SoykırımAnıtMüze5.jpg/1200px-SoykırımAnıtMüze5.jpg"
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "44.07948,39.93679"
 draft: "false"
 weight: "10"

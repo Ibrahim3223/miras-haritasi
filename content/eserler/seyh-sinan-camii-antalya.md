@@ -5,10 +5,10 @@ slug: "seyh-sinan-camii-antalya"
 description: "## Şeyh Sinan Camii: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7157516,36.8862534"
 draft: "false"
 weight: "999"

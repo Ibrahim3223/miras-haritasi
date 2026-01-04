@@ -5,10 +5,10 @@ slug: "alem-bey-camii"
 description: "## Alem Bey Camii: Fatih'te Bir Ölümsüz Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9537315,41.0101662"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyitomer-hoyugu"
 description: "# Seyitömer Höyüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Kütahya_archaeological_museum_Seyitömer_Höyüğü_find_8893.jpg/1200px-Kütahya_archaeological_museum_Seyitömer_Höyüğü_find_8893.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8635,39.581"
 draft: "false"
 weight: "10"

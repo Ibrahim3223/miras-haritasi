@@ -5,10 +5,10 @@ slug: "abdulkadir-dede-kabri"
 description: "## Abdülkadir Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9557514,41.019722"
 draft: "false"
 weight: "999"

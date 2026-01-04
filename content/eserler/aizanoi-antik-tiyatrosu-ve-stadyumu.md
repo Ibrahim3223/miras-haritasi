@@ -5,10 +5,10 @@ slug: "aizanoi-antik-tiyatrosu-ve-stadyumu"
 description: "## Aizanoi Antik Tiyatrosu ve Stadyumu..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Çavdarhisar"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.612014,39.207277"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "euagina"
 description: "## Euagina Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.011965,38.521909"
 draft: "false"
 weight: "999"

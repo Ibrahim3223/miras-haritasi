@@ -5,10 +5,10 @@ slug: "ziyaret-koprusu"
 description: "# Ziyaret Köprüsü: Tarih ve Müzik Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.6302757,37.2494659"
 draft: "false"
 weight: "999"

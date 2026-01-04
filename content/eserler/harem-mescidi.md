@@ -5,10 +5,10 @@ slug: "harem-mescidi"
 description: "### Harem Mescidi: İstanbul'un Gizli Çehresinde Bir Tarihi Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.983998638,41.013195129"
 draft: "false"
 weight: "999"

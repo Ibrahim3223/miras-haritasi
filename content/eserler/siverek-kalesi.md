@@ -5,10 +5,10 @@ slug: "siverek-kalesi"
 description: "## Siverek Kalesi: Şanlıurfa'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.316657,37.754998"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-hamdi-ishakoglu-dogal-yasam-muzesi"
 description: "## Ahmet Hamdi Ishakoğlu Doğal Yaşam Müzesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.719604,41.082865"
 draft: "false"
 weight: "999"

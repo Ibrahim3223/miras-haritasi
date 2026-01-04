@@ -5,10 +5,10 @@ slug: "yaylabasi-kilisesi"
 description: "# Yaylabaşı Kilisesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.5226173,39.6366959"
 draft: "false"
 weight: "999"

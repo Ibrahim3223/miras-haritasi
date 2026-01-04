@@ -5,10 +5,10 @@ slug: "amisus"
 description: "## Amisus Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Amisos_Tepesi'nde_kuzey_tümülüsü.JPG/1200px-Amisos_Tepesi'nde_kuzey_tümülüsü.JPG"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Trabzon Vilayeti"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.323668,41.319117"
 draft: "false"
 weight: "10"

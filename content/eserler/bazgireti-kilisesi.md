@@ -5,10 +5,10 @@ slug: "bazgireti-kilisesi"
 description: "## Bazgireti Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Madenköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.116802777,41.370727777"
 draft: "false"
 weight: "999"

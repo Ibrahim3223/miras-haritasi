@@ -5,10 +5,10 @@ slug: "bostanci-koprusu"
 description: "**Bostancı Köprüsü: Kadıköy'ün Tarihî Görseli**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Bostancıbaşı_Köprüsü.JPG/1200px-Bostancıbaşı_Köprüsü.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0962963,40.9532204"
 draft: "false"
 weight: "10"

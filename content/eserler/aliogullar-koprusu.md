@@ -5,10 +5,10 @@ slug: "aliogullar-koprusu"
 description: "## Alioğullar Köprüsü: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2444324,37.759243"
 draft: "false"
 weight: "999"

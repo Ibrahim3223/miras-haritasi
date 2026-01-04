@@ -5,10 +5,10 @@ slug: "mahmutpasa-kapisi"
 description: "## Mahmutpaşa Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9697723,41.0111618"
 draft: "false"
 weight: "999"

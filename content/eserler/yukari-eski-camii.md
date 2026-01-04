@@ -5,10 +5,10 @@ slug: "yukari-eski-camii"
 description: "## Yukarı Eski Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.2439194,39.1953506"
 draft: "false"
 weight: "999"

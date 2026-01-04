@@ -5,10 +5,10 @@ slug: "profiti-ilya-kilisesi"
 description: "### Profil İlya Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.032579,41.021096"
 draft: "false"
 weight: "999"

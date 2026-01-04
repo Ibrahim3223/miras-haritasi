@@ -5,10 +5,10 @@ slug: "namik-kemal-evi-muzesi"
 description: "## Namık Kemal Evi Müzesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Edirne Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.5167,40.97898"
 draft: "false"
 weight: "999"

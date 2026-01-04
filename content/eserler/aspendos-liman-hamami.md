@@ -5,10 +5,10 @@ slug: "aspendos-liman-hamami"
 description: "# Aspendos Liman Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.1714668,36.9350319"
 draft: "false"
 weight: "1"

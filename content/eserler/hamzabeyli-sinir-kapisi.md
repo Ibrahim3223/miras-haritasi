@@ -5,10 +5,10 @@ slug: "hamzabeyli-sinir-kapisi"
 description: "## Hamzabeyli Sınır Kapısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "26.61056,41.9593"
 draft: "false"
 weight: "999"

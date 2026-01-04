@@ -5,10 +5,10 @@ slug: "atalar-koyu-kilisesi"
 description: "## Atalar Köyü Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.457341,40.584696"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arter"
 description: "## Arter: İstanbul'un Çağdaş Sanat Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Arter_Dolapdere.jpg/1200px-Arter_Dolapdere.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9787,41.0409"
 draft: "false"
 weight: "10"

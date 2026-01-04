@@ -5,10 +5,10 @@ slug: "ucler-hamami"
 description: "## Üçler Hamamı: Osmanlı Döneminin Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9728031,41.0045547"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turk-macar-dostluk-aniti-trabzon"
 description: "## Türk – Macar Dostluk Anıtı..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.7301025,41.0092049"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pergamon-gymnasium-alani"
 description: "## Pergamon Gymnasium Alanı: Antik Pergamon'un Göbeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pergamon_Gymnasium_0099.jpg/1200px-Pergamon_Gymnasium_0099.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.185833333,39.126944444"
 draft: "false"
 weight: "10"

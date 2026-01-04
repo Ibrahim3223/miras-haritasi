@@ -5,10 +5,10 @@ slug: "kirikli-koyu-kemer-kopru"
 description: "## Kırıklı Köyü Kemer Köprü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.55988,40.35138"
 draft: "false"
 weight: "999"

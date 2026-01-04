@@ -5,10 +5,10 @@ slug: "bafra-tutun-muzesi"
 description: "## Bafra Tütün Müzesi: Samsun'un Gizli Gözlükleri..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.8980293,41.563652"
 draft: "false"
 weight: "999"

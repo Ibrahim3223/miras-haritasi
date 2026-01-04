@@ -5,10 +5,10 @@ slug: "goktasli-camii"
 description: "# Göktaşlı Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4332905,38.6092758"
 draft: "false"
 weight: "999"

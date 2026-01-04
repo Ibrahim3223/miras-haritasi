@@ -5,10 +5,10 @@ slug: "cifte-gelinler-turbesi"
 description: "## Çifte Gelinler Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.933068,41.047949"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turk-buyukleri-abidesi"
 description: "# Türk Büyükleri Abidesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1811543,40.0256538"
 draft: "false"
 weight: "999"

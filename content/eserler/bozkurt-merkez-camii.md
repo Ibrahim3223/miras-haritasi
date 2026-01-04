@@ -5,10 +5,10 @@ slug: "bozkurt-merkez-camii"
 description: "## Bozkurt Merkez Camii: Kastamonu'nun Tarihi Bir Çatısı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Bozkurt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0122681,41.957695"
 draft: "false"
 weight: "999"

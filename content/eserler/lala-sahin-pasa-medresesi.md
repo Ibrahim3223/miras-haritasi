@@ -5,10 +5,10 @@ slug: "lala-sahin-pasa-medresesi"
 description: "## Lala Şahin Paşa Medresesi: Bursa'nın Gizli Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0571098,40.1854858"
 draft: "false"
 weight: "999"

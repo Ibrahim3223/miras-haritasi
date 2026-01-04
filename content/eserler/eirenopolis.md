@@ -5,10 +5,10 @@ slug: "eirenopolis"
 description: "## Eirenopolis: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8995,36.48111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tuccar-hoca-mescidi"
 description: "### Tüccar Hoca Mescidi: Menteşe'nin Gizli Çehresini İnceleme..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.367672,37.2185097"
 draft: "false"
 weight: "999"

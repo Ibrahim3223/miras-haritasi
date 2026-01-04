@@ -5,10 +5,10 @@ slug: "nisanca-hamami"
 description: "### Nişanca Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.961437,41.005551"
 draft: "false"
 weight: "999"

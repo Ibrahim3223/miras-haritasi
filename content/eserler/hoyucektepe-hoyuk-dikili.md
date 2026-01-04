@@ -5,10 +5,10 @@ slug: "hoyucektepe-hoyuk-dikili"
 description: "## Höyücektepe Höyük: Dikili'nin Tarihi Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.807608333,39.195136111"
 draft: "false"
 weight: "999"

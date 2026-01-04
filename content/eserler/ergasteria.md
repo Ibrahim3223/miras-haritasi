@@ -5,10 +5,10 @@ slug: "ergasteria"
 description: "### Ergasteria: Balya'daki Eski Yerleşim..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.59645,39.727645"
 draft: "false"
 weight: "999"

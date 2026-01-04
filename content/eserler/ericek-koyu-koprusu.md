@@ -5,10 +5,10 @@ slug: "ericek-koyu-koprusu"
 description: "**Ericek Köyü Köprüsü**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Espiye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.7180176,40.7144623"
 draft: "false"
 weight: "999"

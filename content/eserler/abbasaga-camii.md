@@ -5,10 +5,10 @@ slug: "abbasaga-camii"
 description: "## Abbasağa Camii: Van'ın Tarihî Mirası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "İpekyolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.3363533,38.5018158"
 draft: "false"
 weight: "999"

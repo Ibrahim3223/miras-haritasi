@@ -5,10 +5,10 @@ slug: "abapus-i-veli-turbesi"
 description: "## Abapuş-i Veli Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5336,38.7535"
 draft: "false"
 weight: "999"

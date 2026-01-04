@@ -5,10 +5,10 @@ slug: "yalinayak-camii"
 description: "## Yalınayak Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7322674,38.082962"
 draft: "false"
 weight: "999"

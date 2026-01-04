@@ -5,10 +5,10 @@ slug: "aya-yorgi-manastiri"
 description: "### Aya Yorgi Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Adalar_5546.jpg/1200px-Adalar_5546.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.118888888,40.848611111"
 draft: "false"
 weight: "10"

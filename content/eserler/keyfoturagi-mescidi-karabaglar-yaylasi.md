@@ -5,10 +5,10 @@ slug: "keyfoturagi-mescidi-karabaglar-yaylasi"
 description: "## Keyfoturağı Mescidi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4004002,37.1898003"
 draft: "false"
 weight: "999"

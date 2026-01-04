@@ -5,10 +5,10 @@ slug: "kaleonu-bizans-kaya-mezarlari"
 description: "## Kaleönü Bizans Kaya Mezarları..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7583504,37.2881813"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sankt-georgs-katolik-kilisesi"
 description: "### Sankt Georgs Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9735107,41.0243263"
 draft: "false"
 weight: "999"

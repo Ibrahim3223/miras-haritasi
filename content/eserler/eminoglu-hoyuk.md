@@ -5,10 +5,10 @@ slug: "eminoglu-hoyuk"
 description: "### Eminoğlu Höyük: Yozgat'ta Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6339756,39.6776231"
 draft: "false"
 weight: "999"

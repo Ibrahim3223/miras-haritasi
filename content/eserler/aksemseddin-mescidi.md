@@ -5,10 +5,10 @@ slug: "aksemseddin-mescidi"
 description: "### Akşemseddin Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Akşemseddin_Mescidi.jpg/1200px-Akşemseddin_Mescidi.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.940155,41.021586"
 draft: "false"
 weight: "10"

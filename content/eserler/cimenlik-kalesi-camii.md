@@ -5,10 +5,10 @@ slug: "cimenlik-kalesi-camii"
 description: "## Çimenlik Kalesi Camii: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3989086,40.1460533"
 draft: "false"
 weight: "999"

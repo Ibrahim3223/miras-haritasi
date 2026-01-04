@@ -5,10 +5,10 @@ slug: "kopru-7-altintas"
 description: "## Köprü 7, Altıntaş: Aydın'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3084888,37.6123619"
 draft: "false"
 weight: "999"

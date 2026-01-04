@@ -5,10 +5,10 @@ slug: "belediye-hamami"
 description: "## Belediye Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2575998,37.8583402"
 draft: "false"
 weight: "999"

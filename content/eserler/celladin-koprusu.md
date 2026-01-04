@@ -5,10 +5,10 @@ slug: "celladin-koprusu"
 description: "## Celladın Köprüsü: Adıyaman'ın Gizli Çehresini Görmezden Gelmemek..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.8664818,37.6780777"
 draft: "false"
 weight: "999"

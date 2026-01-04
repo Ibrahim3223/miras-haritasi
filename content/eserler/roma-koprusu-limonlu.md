@@ -5,10 +5,10 @@ slug: "roma-koprusu-limonlu"
 description: "### Roma Köprüsü, Limonlu..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.242062,36.558323"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kum-baba-turbesi"
 description: "## Kum Baba Türbesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Osmancık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.847161,40.909521"
 draft: "false"
 weight: "999"

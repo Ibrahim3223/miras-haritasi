@@ -5,10 +5,10 @@ slug: "ali-cafer-kumbeti"
 description: "### Ali Cafer Kümbeti: Tarih Öncesi'nden Günümüze Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Kayseri_Ali_Cafer_Tomb_in_2024_8585.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

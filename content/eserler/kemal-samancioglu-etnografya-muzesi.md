@@ -5,10 +5,10 @@ slug: "kemal-samancioglu-etnografya-muzesi"
 description: "### Kemal Samancıoğlu Etnografya Müzesi..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.343172,41.633488"
 draft: "false"
 weight: "999"

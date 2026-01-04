@@ -5,10 +5,10 @@ slug: "akdeniz-cifte-bas-kursunlu-medrese"
 description: "# Akdeniz Çifte Baş Kurşunlı Medrese: İstanbul'un Gizli Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9487553,41.0189285"
 draft: "false"
 weight: "999"

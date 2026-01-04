@@ -5,10 +5,10 @@ slug: "kybele-kaya-kabartmasi"
 description: "## Kybele Kaya Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/KybeleManisa.JPG/1200px-KybeleManisa.JPG"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5,38.59777778"
 draft: "false"
 weight: "10"

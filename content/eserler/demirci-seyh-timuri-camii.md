@@ -5,10 +5,10 @@ slug: "demirci-seyh-timuri-camii"
 description: "## Demirci Şeyh Timuri Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8950195,40.814949"
 draft: "false"
 weight: "999"

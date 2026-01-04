@@ -5,10 +5,10 @@ slug: "fethullah-dede-turbesi"
 description: "### Fethullah Dede Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0749016,40.1791153"
 draft: "false"
 weight: "999"

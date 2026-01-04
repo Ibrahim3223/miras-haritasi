@@ -5,10 +5,10 @@ slug: "katip-semseddin-camii"
 description: "## Katip Şemseddin Camii: Fatih'in Gizli Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Katip_Şemseddin_Mosque.jpg/1200px-Katip_Şemseddin_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9628315,41.0178452"
 draft: "false"
 weight: "10"

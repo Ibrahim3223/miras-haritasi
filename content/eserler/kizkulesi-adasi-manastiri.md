@@ -5,10 +5,10 @@ slug: "kizkulesi-adasi-manastiri"
 description: "### Kızkulesi Adası Manastırı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "31.4614105,37.780696"
 draft: "false"
 weight: "999"

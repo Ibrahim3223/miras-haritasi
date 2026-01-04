@@ -5,10 +5,10 @@ slug: "kasimpasa-camii-menderes"
 description: "## Kasımpaşa Camii: Menderes'teki Büyüleyici Cami..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1293163,38.2533035"
 draft: "false"
 weight: "999"

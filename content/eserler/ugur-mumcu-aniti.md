@@ -5,10 +5,10 @@ slug: "ugur-mumcu-aniti"
 description: "## Uğur Mumcu Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9877644,41.0491867"
 draft: "false"
 weight: "999"

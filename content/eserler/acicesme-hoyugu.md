@@ -5,10 +5,10 @@ slug: "acicesme-hoyugu"
 description: "### Acıçeşme Höyüğü: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6967316,38.8829994"
 draft: "false"
 weight: "999"

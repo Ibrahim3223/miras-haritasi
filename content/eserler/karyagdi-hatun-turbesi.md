@@ -5,10 +5,10 @@ slug: "karyagdi-hatun-turbesi"
 description: "### Karyağdı Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Tomb_of_Karyağdı_Hatun.jpg/1200px-Tomb_of_Karyağdı_Hatun.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8562431,39.9381676"
 draft: "false"
 weight: "10"

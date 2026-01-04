@@ -5,10 +5,10 @@ slug: "sahmaran-hamami"
 description: "## Şahmaran Hamamı: Tarsus'un Tarihî Mirası..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.8968834,36.9176799"
 draft: "false"
 weight: "999"

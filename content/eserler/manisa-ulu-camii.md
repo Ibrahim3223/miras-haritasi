@@ -5,10 +5,10 @@ slug: "manisa-ulu-camii"
 description: "### Manisa Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/GreatMosqueofManisaTurkey_1366SaruhanPeriod.jpg/1200px-GreatMosqueofManisaTurkey_1366SaruhanPeriod.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.430111111,38.608111111"
 draft: "false"
 weight: "10"

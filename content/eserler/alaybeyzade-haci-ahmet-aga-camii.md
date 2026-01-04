@@ -5,10 +5,10 @@ slug: "alaybeyzade-haci-ahmet-aga-camii"
 description: "## Alaybeyzade Hacı Ahmet Ağa Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5200005,37.6687012"
 draft: "false"
 weight: "999"

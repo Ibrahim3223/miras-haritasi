@@ -5,10 +5,10 @@ slug: "kartepe-kocaelide-cami"
 description: "## Kartepe Camii: Kocaeli'nin Gözdelerinden Birini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kocaeli_Kartepe_Tarihi_Hikmetiye_Camii_2.jpg/1200px-Kocaeli_Kartepe_Tarihi_Hikmetiye_Camii_2.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kartepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1127467,40.7003346"
 draft: "false"
 weight: "10"

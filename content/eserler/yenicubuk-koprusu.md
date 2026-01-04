@@ -5,10 +5,10 @@ slug: "yenicubuk-koprusu"
 description: "### Yeniçubuk Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gemerek"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.0929604,39.2041969"
 draft: "false"
 weight: "999"

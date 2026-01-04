@@ -5,10 +5,10 @@ slug: "kypra"
 description: "## Kypra Arkeolojik Sit..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Derince"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.91593,40.900645"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocali-koyu-camii"
 description: "## Koçali Köyü Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2512341,39.739727"
 draft: "false"
 weight: "999"

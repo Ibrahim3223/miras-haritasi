@@ -5,10 +5,10 @@ slug: "capanoglu-hamami"
 description: "## Çapanoğlu Hamamı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.8062347,39.8215746"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bayindir-ermeni-kilisesi"
 description: "## Bayındır Ermeni Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.650222222,38.223111111"
 draft: "false"
 weight: "999"

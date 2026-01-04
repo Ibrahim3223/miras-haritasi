@@ -5,10 +5,10 @@ slug: "akhisar-muzesi"
 description: "## Akhisar Müzesi: Manisa'nın Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Akhisar_Museum_Outer_Gate.jpg/1200px-Akhisar_Museum_Outer_Gate.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.837222222,38.920277777"
 draft: "false"
 weight: "10"

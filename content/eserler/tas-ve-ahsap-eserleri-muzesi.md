@@ -5,10 +5,10 @@ slug: "tas-ve-ahsap-eserleri-muzesi"
 description: "## Taş ve Ahşap Eserleri Müzesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

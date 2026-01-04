@@ -5,10 +5,10 @@ slug: "fatih-camii-yozgat"
 description: "## Fatih Camii: Yozgat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8042259,39.8223152"
 draft: "false"
 weight: "999"

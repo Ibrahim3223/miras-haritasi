@@ -5,10 +5,10 @@ slug: "saphane-kilisesi-mesudiye"
 description: "## Şaphane Kilisesi Mesudiye: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.806577,40.615668"
 draft: "false"
 weight: "999"

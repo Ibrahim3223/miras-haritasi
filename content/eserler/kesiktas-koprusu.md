@@ -5,10 +5,10 @@ slug: "kesiktas-koprusu"
 description: "## Kesiktaş Köprüsü - Borçka'nın Tarihî Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.6503103,41.4544298"
 draft: "false"
 weight: "999"

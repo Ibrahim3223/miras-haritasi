@@ -5,10 +5,10 @@ slug: "yildirim-bayezid-darussifasi"
 description: "# Yıldırım Bayezid Darüşşifası: Bursa'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0856018,40.1862488"
 draft: "false"
 weight: "999"

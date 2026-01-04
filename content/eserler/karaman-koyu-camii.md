@@ -5,10 +5,10 @@ slug: "karaman-koyu-camii"
 description: "### Karaman Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.004268154,40.304796106"
 draft: "false"
 weight: "999"

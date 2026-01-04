@@ -5,10 +5,10 @@ slug: "maslak-kasri"
 description: "## Maslak Kasrı: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Maslak_Kasrı.jpg/1200px-Maslak_Kasrı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.04166667,41.18472222"
 draft: "false"
 weight: "10"

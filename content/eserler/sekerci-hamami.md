@@ -5,10 +5,10 @@ slug: "sekerci-hamami"
 description: "## Şekerci Hamamı: Çeşme'nin Tarihi Parası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.3049183,38.3227654"
 draft: "false"
 weight: "999"

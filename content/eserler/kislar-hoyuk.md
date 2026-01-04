@@ -5,10 +5,10 @@ slug: "kislar-hoyuk"
 description: "## Kışlar Höyük: Boğazlıyan'ın Eski Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.101485327,39.08734052"
 draft: "false"
 weight: "999"

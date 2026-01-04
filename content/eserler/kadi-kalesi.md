@@ -5,10 +5,10 @@ slug: "kadi-kalesi"
 description: "## Kadı Kalesi: Milas'ta Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.53566,37.45281"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karadeniz-cifte-ayak-kursunlu-medrese"
 description: "## Karadeniz Çifte Ayak Kurşunlu Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9507351,41.020565"
 draft: "false"
 weight: "999"

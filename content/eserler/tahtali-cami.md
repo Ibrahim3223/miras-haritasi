@@ -5,10 +5,10 @@ slug: "tahtali-cami"
 description: "## Alanya'nın Tarihi Çağı: Tahtalı Cami..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9972019,36.5354233"
 draft: "false"
 weight: "999"

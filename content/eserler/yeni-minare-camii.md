@@ -5,10 +5,10 @@ slug: "yeni-minare-camii"
 description: "### Yeni Minare Camii: Karaman'ın Değerli Camiği..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2160225,37.1834831"
 draft: "false"
 weight: "999"

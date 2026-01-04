@@ -5,10 +5,10 @@ slug: "iconium"
 description: "## Iconium: Konya'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.492222222,37.871944444"
 draft: "false"
 weight: "999"

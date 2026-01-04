@@ -5,10 +5,10 @@ slug: "doluca-kalesi"
 description: "### Doluca Kalesi: Kahramanmaraş'taki Tarihi Bir Kale..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Türkoğlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.7031708,37.3956718"
 draft: "false"
 weight: "999"

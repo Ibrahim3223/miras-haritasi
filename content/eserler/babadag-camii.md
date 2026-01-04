@@ -5,10 +5,10 @@ slug: "babadag-camii"
 description: "## Babadağ Camii: Bursa'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Denizli_districts.png"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0761185,40.1747856"
 draft: "false"
 weight: "999"

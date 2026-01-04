@@ -5,10 +5,10 @@ slug: "ingiliz-mezarligi"
 description: "## İngiliz Mezarlığı: Çanakkale'nin Anıtsal Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.41523,40.14592"
 draft: "false"
 weight: "999"

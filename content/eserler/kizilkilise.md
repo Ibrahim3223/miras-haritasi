@@ -5,10 +5,10 @@ slug: "kizilkilise"
 description: "## Kızılkilise: Kütahya'nın Gölgeli Şehri Altıntaş'ta Gizlenen Tarihi Bir Anıt..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.138217,39.013833"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "libiopolis"
 description: "**Libiopolis: Beşikdüzü'ndeki Eski Kent**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Beşikdüzü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.198236,41.068855"
 draft: "false"
 weight: "999"

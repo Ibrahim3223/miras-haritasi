@@ -5,10 +5,10 @@ slug: "seyh-abdulcelil-turbesi"
 description: "# Şeyh Abdülcelil Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2324715,37.9116135"
 draft: "false"
 weight: "999"

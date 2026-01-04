@@ -5,10 +5,10 @@ slug: "ahmet-celebi-camii"
 description: "## Ahmet Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Ahmet_Çelebi_Mosque.jpg/1200px-Ahmet_Çelebi_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.013463888,41.021716666"
 draft: "false"
 weight: "10"

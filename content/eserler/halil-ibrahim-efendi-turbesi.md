@@ -5,10 +5,10 @@ slug: "halil-ibrahim-efendi-turbesi"
 description: "## Halil İbrahim Efendi Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3268,39.5277"
 draft: "false"
 weight: "999"

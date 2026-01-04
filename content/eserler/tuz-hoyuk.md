@@ -5,10 +5,10 @@ slug: "tuz-hoyuk"
 description: "## Tuz Höyük: Türkiye'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2567005,39.0058441"
 draft: "false"
 weight: "999"

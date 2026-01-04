@@ -5,10 +5,10 @@ slug: "sille-ak-camii"
 description: "## Sille Ak Camii: Konya'nın Bir Ören Yeri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4197807,37.9283638"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukurbostan"
 description: "## **Çukurbostan Arkeolojik Sit**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Cistern_of_Aspar_November_2013.jpg/1200px-Cistern_of_Aspar_November_2013.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.94986,41.02595"
 draft: "false"
 weight: "10"

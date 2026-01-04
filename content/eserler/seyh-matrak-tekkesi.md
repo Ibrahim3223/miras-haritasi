@@ -5,10 +5,10 @@ slug: "seyh-matrak-tekkesi"
 description: "## Şeyh Matrak Tekkesi: Fatih'te Bir Tarihi Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9251518,41.0160179"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-feyzullah-camii"
 description: "## Hacı Feyzullah Camii: İskilip'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4762344,40.7334023"
 draft: "false"
 weight: "999"

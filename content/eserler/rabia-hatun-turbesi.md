@@ -5,10 +5,10 @@ slug: "rabia-hatun-turbesi"
 description: "## Rabia Hatun Türbesi: Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rabia_Hatun_Türbesi_-_Rabia_Khatun_Tomb_04.jpg/1200px-Rabia_Hatun_Türbesi_-_Rabia_Khatun_Tomb_04.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.27901333,39.90276833"
 draft: "false"
 weight: "10"

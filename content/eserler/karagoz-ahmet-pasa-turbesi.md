@@ -5,10 +5,10 @@ slug: "karagoz-ahmet-pasa-turbesi"
 description: "## Karagöz Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9866333,39.415699"
 draft: "false"
 weight: "999"

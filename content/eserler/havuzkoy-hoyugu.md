@@ -5,10 +5,10 @@ slug: "havuzkoy-hoyugu"
 description: "**Havuzköy Höyüğü: Sivas'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1141714,39.2074671"
 draft: "false"
 weight: "999"

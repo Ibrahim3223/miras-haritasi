@@ -5,10 +5,10 @@ slug: "yatagan-baba-turbesi-serinhisar"
 description: "## Yatağan Baba Türbesi, Serinhisar..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Serinhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3746586,37.5552025"
 draft: "false"
 weight: "999"

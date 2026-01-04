@@ -5,10 +5,10 @@ slug: "milet-muzesi"
 description: "## Milet Müzesi: Aydın'ın Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Miletus_Museum,_Turkey_(53331495269).jpg/1200px-Miletus_Museum,_Turkey_(53331495269).jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.274652067,37.525625499"
 draft: "false"
 weight: "10"

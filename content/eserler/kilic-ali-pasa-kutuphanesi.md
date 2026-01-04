@@ -5,10 +5,10 @@ slug: "kilic-ali-pasa-kutuphanesi"
 description: "## Kılıç Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "feke-kalesi"
 description: "**Feke Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Feke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.9518576,37.8602728"
 draft: "false"
 weight: "999"

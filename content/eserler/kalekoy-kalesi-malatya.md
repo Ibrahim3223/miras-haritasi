@@ -5,10 +5,10 @@ slug: "kalekoy-kalesi-malatya"
 description: "## Kaleköy Kalesi: Malatya'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Kale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.7342033,38.368206"
 draft: "false"
 weight: "999"

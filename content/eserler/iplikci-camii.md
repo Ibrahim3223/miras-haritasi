@@ -5,10 +5,10 @@ slug: "iplikci-camii"
 description: "## İplikçi Camii: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/İplikci_Camii(Meram)_-_panoramio.jpg/1200px-İplikci_Camii(Meram)_-_panoramio.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.496666666,37.871944444"
 draft: "false"
 weight: "10"

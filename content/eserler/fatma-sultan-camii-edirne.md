@@ -5,10 +5,10 @@ slug: "fatma-sultan-camii-edirne"
 description: "# Fatma Sultan Camii, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.553782904,41.672450089"
 draft: "false"
 weight: "999"

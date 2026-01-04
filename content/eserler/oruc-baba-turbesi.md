@@ -5,10 +5,10 @@ slug: "oruc-baba-turbesi"
 description: "## Oruç Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.93016,41.01817"
 draft: "false"
 weight: "999"

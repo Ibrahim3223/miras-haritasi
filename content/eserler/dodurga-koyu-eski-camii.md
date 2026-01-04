@@ -5,10 +5,10 @@ slug: "dodurga-koyu-eski-camii"
 description: "## Dodurga Köyü Eski Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.9885864,40.602108"
 draft: "false"
 weight: "999"

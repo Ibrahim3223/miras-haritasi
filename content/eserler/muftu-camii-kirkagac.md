@@ -5,10 +5,10 @@ slug: "muftu-camii-kirkagac"
 description: "### Müftü Camii: Kırkağaç'ta Bir Önemli Tarihi Eser..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6690273,39.1055336"
 draft: "false"
 weight: "999"

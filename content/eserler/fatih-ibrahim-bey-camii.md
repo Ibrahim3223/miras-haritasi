@@ -5,10 +5,10 @@ slug: "fatih-ibrahim-bey-camii"
 description: "## Fatih İbrahim Bey Camii: İzmir'in Tarihi ve Kültürel Kıymeti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7671871,38.3206863"
 draft: "false"
 weight: "999"

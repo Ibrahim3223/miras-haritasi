@@ -5,10 +5,10 @@ slug: "bostanli-yaya-koprusu"
 description: "## Bostanlı Yaya Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.093083333,38.455361111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "behic-erkin-kabri-ve-anit-mezari"
 description: "# Behiç Erkin Kabri ve Anıt Mezarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4849987,39.7753029"
 draft: "false"
 weight: "999"

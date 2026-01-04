@@ -5,10 +5,10 @@ slug: "keci-kalesi"
 description: "**Keçi Kalesi: İzmir'in Şatosu**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.422058,38.024616"
 draft: "false"
 weight: "999"

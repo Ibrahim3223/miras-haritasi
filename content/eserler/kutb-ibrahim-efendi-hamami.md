@@ -5,10 +5,10 @@ slug: "kutb-ibrahim-efendi-hamami"
 description: "## Kutb İbrahim Efendi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.989377,41.034127"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "odtu-tarih-muzesi"
 description: "## ODTÜ Tarih Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.78252778,39.89697222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hacettepe-sanat-muzesi"
 description: "## Hacettepe Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Hacettepe_Sanat_Müzesi_02.jpg/1200px-Hacettepe_Sanat_Müzesi_02.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.862333333,39.931861111"
 draft: "false"
 weight: "10"

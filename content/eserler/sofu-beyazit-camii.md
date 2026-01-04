@@ -5,10 +5,10 @@ slug: "sofu-beyazit-camii"
 description: "## Sofu Beyazıt Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sofu_Beyazıt_Camii_2025c.jpg/1200px-Sofu_Beyazıt_Camii_2025c.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5622902,41.6810799"
 draft: "false"
 weight: "10"

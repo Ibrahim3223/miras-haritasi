@@ -5,10 +5,10 @@ slug: "otlukbeli-muharebesi-sehitleri-aniti"
 description: "## Otlukbeli Muharebesi Şehitleri Anıtı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Otlukbeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.9798,40.0187"
 draft: "false"
 weight: "999"

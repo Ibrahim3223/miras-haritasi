@@ -5,10 +5,10 @@ slug: "kurudere-cadirlar-deresi-guney-tumulusu"
 description: "**Kurudere Çadırlar Deresi Güney Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5369205,41.7876587"
 draft: "false"
 weight: "999"

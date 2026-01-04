@@ -5,10 +5,10 @@ slug: "maltepe-hoyugu"
 description: "## Maltepe Höyüğü: Battalgazi'nin Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3798447,38.3558006"
 draft: "false"
 weight: "999"

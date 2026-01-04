@@ -5,10 +5,10 @@ slug: "portaitissa-kilisesi"
 description: "## Portaitissa Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.6974277,39.3252411"
 draft: "false"
 weight: "999"

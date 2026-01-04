@@ -5,10 +5,10 @@ slug: "samatya-suryani-kilisesi"
 description: "## Samatya Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9303818,40.9960136"
 draft: "false"
 weight: "999"

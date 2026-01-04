@@ -5,10 +5,10 @@ slug: "vurla-mevki-manastiri"
 description: "## Vurla Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7779999,40.1484985"
 draft: "false"
 weight: "999"

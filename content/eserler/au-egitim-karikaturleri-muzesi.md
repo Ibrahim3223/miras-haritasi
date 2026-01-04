@@ -5,10 +5,10 @@ slug: "au-egitim-karikaturleri-muzesi"
 description: "## A.Ü. Eğitim Karikatürleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Eskişehir_Caricature_Museum_building.jpg/1200px-Eskişehir_Caricature_Museum_building.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52555556,39.76583333"
 draft: "false"
 weight: "10"

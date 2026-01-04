@@ -5,10 +5,10 @@ slug: "hasankeyf-koprusu"
 description: "### Hasankeyf Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Hasankeyf_P1040906_20080425151001.JPG/1200px-Hasankeyf_P1040906_20080425151001.JPG"
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "10"

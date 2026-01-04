@@ -5,10 +5,10 @@ slug: "sofi-ahmet-turbesi"
 description: "## Sofi Ahmet Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Narman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.8679,40.3441"
 draft: "false"
 weight: "999"

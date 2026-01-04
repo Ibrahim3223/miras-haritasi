@@ -5,10 +5,10 @@ slug: "gurbulak-sinir-kapisi"
 description: "### Gürbulak Sınır Kapısı..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Doğubayazıt"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.37754,39.41213"
 draft: "false"
 weight: "999"

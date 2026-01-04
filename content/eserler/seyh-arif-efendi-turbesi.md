@@ -5,10 +5,10 @@ slug: "seyh-arif-efendi-turbesi"
 description: "### Şeyh Arif Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9426289,41.0185051"
 draft: "false"
 weight: "999"

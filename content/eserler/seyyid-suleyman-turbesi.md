@@ -5,10 +5,10 @@ slug: "seyyid-suleyman-turbesi"
 description: "# Seyyid Süleyman Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.427471,39.618113"
 draft: "false"
 weight: "999"

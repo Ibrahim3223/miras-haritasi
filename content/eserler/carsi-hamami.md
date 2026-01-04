@@ -5,10 +5,10 @@ slug: "carsi-hamami"
 description: "### Çarşı Hamamı: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.3300071,36.9840354"
 draft: "false"
 weight: "999"

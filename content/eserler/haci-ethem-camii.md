@@ -5,10 +5,10 @@ slug: "haci-ethem-camii"
 description: "### Hacı Ethem Camii: İzmir'in Önemli Tarihî Eserleri Arasındaki Bir Ölümsüz..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1246166,38.4131203"
 draft: "false"
 weight: "999"

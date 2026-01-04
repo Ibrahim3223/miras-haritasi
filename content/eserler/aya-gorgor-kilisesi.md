@@ -5,10 +5,10 @@ slug: "aya-gorgor-kilisesi"
 description: "## Aya Ğorğor Kilisesi: Trabzon'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.6165203,40.7747628"
 draft: "false"
 weight: "999"

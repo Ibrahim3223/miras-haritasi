@@ -5,10 +5,10 @@ slug: "tilafsin-hoyuk"
 description: "# Tilafşın Höyük..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9235579,38.1885065"
 draft: "false"
 weight: "999"

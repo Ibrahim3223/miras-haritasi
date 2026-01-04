@@ -5,10 +5,10 @@ slug: "apameia-kibotos"
 description: "## Apameia Kibotos: Tarihî bir Köyün Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/8.23_Apameia.jpg/1200px-8.23_Apameia.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.16555556,38.07166667"
 draft: "false"
 weight: "10"

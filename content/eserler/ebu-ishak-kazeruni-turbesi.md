@@ -5,10 +5,10 @@ slug: "ebu-ishak-kazeruni-turbesi"
 description: "## Ebu İshak Kazeruni Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2783,39.9065"
 draft: "false"
 weight: "999"

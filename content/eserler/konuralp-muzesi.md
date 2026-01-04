@@ -5,10 +5,10 @@ slug: "konuralp-muzesi"
 description: "### Konuralp Müzesi: Düzce'nin Tarihsel Mirasının Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Prusias_ad_Hypium_46.jpg/1200px-Prusias_ad_Hypium_46.jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.153611111,40.903888888"
 draft: "false"
 weight: "10"

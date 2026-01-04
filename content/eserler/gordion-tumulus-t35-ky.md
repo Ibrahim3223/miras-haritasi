@@ -5,10 +5,10 @@ slug: "gordion-tumulus-t35-ky"
 description: "### Gordion Tümülüs T35 – KY: Ankara'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.99391,39.652786"
 draft: "false"
 weight: "999"

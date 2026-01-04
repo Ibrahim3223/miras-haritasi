@@ -5,10 +5,10 @@ slug: "hisarkoy-kalesi-kiraz"
 description: "## Hisarköy Kalesi, Kiraz: İzmir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kiraz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.189995,38.242183"
 draft: "false"
 weight: "999"

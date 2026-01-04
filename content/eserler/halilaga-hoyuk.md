@@ -5,10 +5,10 @@ slug: "halilaga-hoyuk"
 description: "## Halilağa Höyük: Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.451756,36.560188"
 draft: "false"
 weight: "999"

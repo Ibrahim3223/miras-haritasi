@@ -5,10 +5,10 @@ slug: "guzelkoy-koprusu"
 description: "## Güzelköy Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.2929401,40.7445068"
 draft: "false"
 weight: "999"

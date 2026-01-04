@@ -5,10 +5,10 @@ slug: "roma-koprusu-ahmetolugu"
 description: "## Roma Köprüsü, Ahmetoluğu..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.03622,39.5046844"
 draft: "false"
 weight: "999"

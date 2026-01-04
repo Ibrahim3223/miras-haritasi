@@ -5,10 +5,10 @@ slug: "arykanda-buyuk-hamam-gymnasium-yapisi"
 description: "## Arykanda Büyük Hamam Gymnasium Yapısı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0606327,36.5127144"
 draft: "false"
 weight: "999"

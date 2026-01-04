@@ -5,10 +5,10 @@ slug: "yavasca-sahin-mescidi"
 description: "## Yavaşça Şahin Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.967702,41.015851"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "of-kalesi"
 description: "## Of Kalesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.2459335,40.9350281"
 draft: "false"
 weight: "999"

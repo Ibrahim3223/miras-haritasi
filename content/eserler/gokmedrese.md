@@ -5,10 +5,10 @@ slug: "gokmedrese"
 description: "## Gökmedrese..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Gök_Medrese.jpg/1200px-Gök_Medrese.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.016727,39.744291"
 draft: "false"
 weight: "10"

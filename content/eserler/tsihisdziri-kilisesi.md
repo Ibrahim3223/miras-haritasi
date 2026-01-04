@@ -5,10 +5,10 @@ slug: "tsihisdziri-kilisesi"
 description: "### Tsihisdziri Kilisesi: Gürcistan'ın Şavşat'taki Tarihî Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.368694444,41.298333333"
 draft: "false"
 weight: "999"

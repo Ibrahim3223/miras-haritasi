@@ -5,10 +5,10 @@ slug: "aksemsettin-camii-osmancik"
 description: "### Akşemsettin Camii, Osmancık..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Osmancık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.801403,40.9739113"
 draft: "false"
 weight: "999"

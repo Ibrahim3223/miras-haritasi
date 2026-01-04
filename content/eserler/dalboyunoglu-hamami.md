@@ -5,10 +5,10 @@ slug: "dalboyunoglu-hamami"
 description: "**Dalboyunoğlu Hamamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Isparta;_Hamam_von_1694.jpg/1200px-Isparta;_Hamam_von_1694.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5559887,37.7631932"
 draft: "false"
 weight: "10"

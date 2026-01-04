@@ -5,10 +5,10 @@ slug: "ege-universitesi-kagit-ve-kitap-sanatlari-muzesi"
 description: "## Ege Üniversitesi Kağıt ve Kitap Sanatları Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2185154,38.4620361"
 draft: "false"
 weight: "999"

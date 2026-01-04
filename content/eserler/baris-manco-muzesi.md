@@ -5,10 +5,10 @@ slug: "baris-manco-muzesi"
 description: "## Barış Manço Müzesi: Kadıköy'ün İkonik Yerleşimi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bar%C4%B1%C5%9F_Man%C3%A7o_museum01.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0251217,40.981739"
 draft: "false"
 weight: "999"

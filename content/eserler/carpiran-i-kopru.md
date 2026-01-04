@@ -5,10 +5,10 @@ slug: "carpiran-i-kopru"
 description: "## Çarpiran I. Köprü: Tarihi ve Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Arpiran_I._Kpr_1761631754.jpg/1200px-Arpiran_I._Kpr_1761631754.jpg"
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Baykan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.822129,38.176283"
 draft: "false"
 weight: "10"

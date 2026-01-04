@@ -5,10 +5,10 @@ slug: "pinar-camii"
 description: "## Pinar Camii: Milas'ta Bir Önemli Cami Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9652157,37.0931168"
 draft: "false"
 weight: "999"

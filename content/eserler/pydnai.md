@@ -5,10 +5,10 @@ slug: "pydnai"
 description: "### Pydnai: Muğla'nın Eski Yunanistan'a Ait Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pydnae2.jpg/1200px-Pydnae2.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.231701,36.333176"
 draft: "false"
 weight: "10"

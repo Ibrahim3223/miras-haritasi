@@ -5,10 +5,10 @@ slug: "porsuk-hoyuk-2"
 description: "### Porsuk Höyük 2: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.06395,39.7131"
 draft: "false"
 weight: "999"

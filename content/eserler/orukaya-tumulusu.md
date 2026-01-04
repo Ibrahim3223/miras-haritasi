@@ -5,10 +5,10 @@ slug: "orukaya-tumulusu"
 description: "### Örükaya Tümülüsü..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.902401,40.1054649"
 draft: "false"
 weight: "999"

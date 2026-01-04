@@ -5,10 +5,10 @@ slug: "rahibeler-manastiri"
 description: "## Rahibeler Manastırı: Göreme'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "34.845516085,38.639492163"
 draft: "false"
 weight: "999"

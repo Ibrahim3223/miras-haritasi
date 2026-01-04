@@ -5,10 +5,10 @@ slug: "tatarkoy-kocatepe-c-tumulusu"
 description: "## Tatarköy Kocatepe C Tümülüsü: Lüleburgaz'ın Gizli Güzelliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3477516,41.4966469"
 draft: "false"
 weight: "999"

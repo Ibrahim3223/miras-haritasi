@@ -5,10 +5,10 @@ slug: "sahip-ata-camii"
 description: "# Sahip Ata Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4942818,37.8679466"
 draft: "false"
 weight: "999"

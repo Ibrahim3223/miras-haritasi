@@ -5,10 +5,10 @@ slug: "hekim-hamami"
 description: "## Hekim Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7385445,38.0832127"
 draft: "false"
 weight: "999"

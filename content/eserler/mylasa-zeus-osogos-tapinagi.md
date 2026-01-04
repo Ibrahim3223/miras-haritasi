@@ -5,10 +5,10 @@ slug: "mylasa-zeus-osogos-tapinagi"
 description: "## Mylasa Zeus Osogos Tapınağı: Milas'taki Antik Bir Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.7757969,37.3120995"
 draft: "false"
 weight: "999"

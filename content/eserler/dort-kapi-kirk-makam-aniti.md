@@ -5,10 +5,10 @@ slug: "dort-kapi-kirk-makam-aniti"
 description: "### Dört Kapı Kırk Makam Anıtı: Bornova, İzmir'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

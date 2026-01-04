@@ -5,10 +5,10 @@ slug: "sekbanbasi-ibrahim-aga-kabri"
 description: "## Sekbanbaşı İbrahim Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9561996,41.0170937"
 draft: "false"
 weight: "999"

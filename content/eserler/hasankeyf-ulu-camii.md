@@ -5,10 +5,10 @@ slug: "hasankeyf-ulu-camii"
 description: "## Hasankeyf Ulu Camii: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.407972222,37.711"
 draft: "false"
 weight: "999"

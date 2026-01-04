@@ -5,10 +5,10 @@ slug: "cahit-kulebi-anit-mezari-niksar"
 description: "## Cahit Külebi Anıt Mezarı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9555969,40.5887718"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "derinkuyu-park-camii"
 description: "## Derinkuyu Park Camii..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.734555555,38.370444444"
 draft: "false"
 weight: "999"

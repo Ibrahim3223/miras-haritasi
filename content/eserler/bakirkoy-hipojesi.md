@@ -5,10 +5,10 @@ slug: "bakirkoy-hipojesi"
 description: "## Bakırköy Hipojesi: Zuhuratbaba'da Bir Antik Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Bakırköy_Hipojesi_genel_çekim_3.jpg/1200px-Bakırköy_Hipojesi_genel_çekim_3.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.864861111,40.990944444"
 draft: "false"
 weight: "10"

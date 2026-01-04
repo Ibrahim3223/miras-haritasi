@@ -5,10 +5,10 @@ slug: "yokusbasi-camii"
 description: "## Yokuşbaşı Camii tanıtımı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.439883,37.855326"
 draft: "false"
 weight: "999"

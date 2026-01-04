@@ -5,10 +5,10 @@ slug: "olympos-piskoposluk-kilisesi"
 description: "## Olympos Piskoposluk Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.4737339,36.3965111"
 draft: "false"
 weight: "999"

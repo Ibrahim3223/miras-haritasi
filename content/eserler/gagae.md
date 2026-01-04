@@ -5,10 +5,10 @@ slug: "gagae"
 description: "### Gagae Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3548,36.299"
 draft: "false"
 weight: "999"

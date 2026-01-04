@@ -5,10 +5,10 @@ slug: "ahmet-pasa-turbesi"
 description: "## Ahmet Paşa Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2101181,37.174349"
 draft: "false"
 weight: "999"

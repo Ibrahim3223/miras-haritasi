@@ -5,10 +5,10 @@ slug: "banaz-sehitligi"
 description: "## Banaz Şehitliği: Bir Anı Tutkusu..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Banaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7619896,38.7358665"
 draft: "false"
 weight: "999"

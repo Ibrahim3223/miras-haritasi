@@ -5,10 +5,10 @@ slug: "imar-hoyuk"
 description: "### Imar Höyük: Hatay'ın Eski Köyü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4465759,36.3083215"
 draft: "false"
 weight: "999"

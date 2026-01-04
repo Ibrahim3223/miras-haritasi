@@ -5,10 +5,10 @@ slug: "karaman-saat-kulesi"
 description: "### Karaman Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karaman_clocktower_4817.jpg/1200px-Karaman_clocktower_4817.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "33.2123528,37.1830635"
 draft: "false"
 weight: "10"

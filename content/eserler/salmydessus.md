@@ -5,10 +5,10 @@ slug: "salmydessus"
 description: "## Salmydessus: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.091144,41.637244"
 draft: "false"
 weight: "999"

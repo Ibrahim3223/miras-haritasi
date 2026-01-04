@@ -5,10 +5,10 @@ slug: "sebeterias-kale-kalintisi"
 description: "### Sebeterias Kale Kalıntısı..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Genç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.5278435,38.751667"
 draft: "false"
 weight: "999"

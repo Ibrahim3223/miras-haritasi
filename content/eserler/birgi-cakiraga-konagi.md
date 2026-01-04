@@ -5,10 +5,10 @@ slug: "birgi-cakiraga-konagi"
 description: "# Birgi Çakırağa Konağı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

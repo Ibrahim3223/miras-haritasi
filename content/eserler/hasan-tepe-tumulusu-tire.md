@@ -5,10 +5,10 @@ slug: "hasan-tepe-tumulusu-tire"
 description: "## Hasan Tepe Tümülüsü: İzmir'in Eski Çağları..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5788994,38.1232986"
 draft: "false"
 weight: "999"

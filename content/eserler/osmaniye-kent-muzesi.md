@@ -5,10 +5,10 @@ slug: "osmaniye-kent-muzesi"
 description: "### Osmaniye Kent Müzesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Osmaniye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.246944444,37.073055555"
 draft: "false"
 weight: "999"

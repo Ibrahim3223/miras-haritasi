@@ -5,10 +5,10 @@ slug: "ionik-akrepolis"
 description: "## İonik Akrepolis: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.342307371,37.945600636"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bozburun-tumulusu-merkezefendi"
 description: "## Bozburun Tümülüsü: Denizli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0482998,37.8302994"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmetcik-aniti"
 description: "## Mehmetçik Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Mehmetçik_Monument.jpg/1200px-Mehmetçik_Monument.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.0605,39.5747"
 draft: "false"
 weight: "10"

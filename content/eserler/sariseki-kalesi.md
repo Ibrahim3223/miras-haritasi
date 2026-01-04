@@ -5,10 +5,10 @@ slug: "sariseki-kalesi"
 description: "## Sarıseki Kalesi: Hatay'ın Gizli Anıtı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.219762633,36.659340729"
 draft: "false"
 weight: "999"

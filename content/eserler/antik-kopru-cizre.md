@@ -5,10 +5,10 @@ slug: "antik-kopru-cizre"
 description: "## Antik Köprü, Cizre..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.3288994,37.3805008"
 draft: "false"
 weight: "999"

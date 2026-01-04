@@ -5,10 +5,10 @@ slug: "syrna-karya"
 description: "### Syrna (Karya): Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.196786,36.720882"
 draft: "false"
 weight: "999"

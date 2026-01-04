@@ -5,10 +5,10 @@ slug: "cinci-hamami"
 description: "## Cinci Hamamı: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Cinci_hamamı_safranbolu_1_2007.JPG/1200px-Cinci_hamamı_safranbolu_1_2007.JPG"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.6930466,41.2453842"
 draft: "false"
 weight: "10"

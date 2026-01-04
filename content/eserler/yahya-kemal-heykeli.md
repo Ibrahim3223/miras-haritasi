@@ -5,10 +5,10 @@ slug: "yahya-kemal-heykeli"
 description: "## Yahya Kemal Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.008897,41.049137"
 draft: "false"
 weight: "999"

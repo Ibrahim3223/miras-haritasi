@@ -5,10 +5,10 @@ slug: "sahabeler-turbesi"
 description: "## Sahabeler Türbesi: Tarihe Adanan Bir Anıt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2417183,37.9148254"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eskici-baba-turbesi"
 description: "## Eskici Baba Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.057845,40.182131"
 draft: "false"
 weight: "999"

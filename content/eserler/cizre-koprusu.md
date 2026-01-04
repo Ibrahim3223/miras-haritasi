@@ -5,10 +5,10 @@ slug: "cizre-koprusu"
 description: "## Cizre Köprüsü: Bir Geçit Zamanların Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1135,37.1957"
 draft: "false"
 weight: "999"

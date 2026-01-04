@@ -5,10 +5,10 @@ slug: "seyh-garip-turbesi"
 description: "## Şeyh Garip Türbesi: Bitlis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1071739,38.3984108"
 draft: "false"
 weight: "999"

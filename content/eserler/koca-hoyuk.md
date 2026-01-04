@@ -5,10 +5,10 @@ slug: "koca-hoyuk"
 description: "## Koca Höyük: Mardin'in Gizli Zenginliği..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.671948056,37.725909212"
 draft: "false"
 weight: "999"

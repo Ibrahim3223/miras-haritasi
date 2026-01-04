@@ -5,10 +5,10 @@ slug: "cumhuriyet-aniti-altinoluk"
 description: "### Cumhuriyet Anıtı, Altınoluk..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.7443924,39.5671082"
 draft: "false"
 weight: "999"

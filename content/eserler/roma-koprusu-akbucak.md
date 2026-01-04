@@ -5,10 +5,10 @@ slug: "roma-koprusu-akbucak"
 description: "### Roma Köprüsü, Akbucak..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.19986,39.547321"
 draft: "false"
 weight: "999"

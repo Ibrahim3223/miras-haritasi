@@ -5,10 +5,10 @@ slug: "phazemon"
 description: "## Phazemon Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.66699,40.96824"
 draft: "false"
 weight: "999"

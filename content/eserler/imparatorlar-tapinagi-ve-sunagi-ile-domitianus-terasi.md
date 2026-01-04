@@ -5,10 +5,10 @@ slug: "imparatorlar-tapinagi-ve-sunagi-ile-domitianus-terasi"
 description: "# İmparatorlar Tapınağı ve Sunağı ile Domitianus Terası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Ephesus_Temple_of_Domitian.jpg/1200px-Ephesus_Temple_of_Domitian.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.342612788,37.936522611"
 draft: "false"
 weight: "10"

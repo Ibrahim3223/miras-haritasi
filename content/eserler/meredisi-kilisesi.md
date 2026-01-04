@@ -5,10 +5,10 @@ slug: "meredisi-kilisesi"
 description: "## Meredisi Kilisesi: Gölebakan'daki Bir Geçmişin Mirası..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Gölebakan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.131305555,41.051444444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "horhor-medresesi"
 description: "## Horhor Medresesi..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "İpekyolu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "43.3342819,38.5023956"
 draft: "false"
 weight: "999"

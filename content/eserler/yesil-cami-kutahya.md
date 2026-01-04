@@ -5,10 +5,10 @@ slug: "yesil-cami-kutahya"
 description: "## Yeşil Cami: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9825134,39.4173317"
 draft: "false"
 weight: "999"

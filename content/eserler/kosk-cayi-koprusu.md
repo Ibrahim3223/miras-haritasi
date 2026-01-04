@@ -5,10 +5,10 @@ slug: "kosk-cayi-koprusu"
 description: "## Köşk Çayı Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0462494,37.8558578"
 draft: "false"
 weight: "999"

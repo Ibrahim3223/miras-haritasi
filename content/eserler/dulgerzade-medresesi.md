@@ -5,10 +5,10 @@ slug: "dulgerzade-medresesi"
 description: "### Dülgerzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.951349,41.016094"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "olbia-pamfilya"
 description: "## Olbia (Pamfilya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.658713,36.879103"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pertevniyal-valide-sultan-turbesi"
 description: "## Pertevniyal Valide Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9522743,41.0099754"
 draft: "false"
 weight: "999"

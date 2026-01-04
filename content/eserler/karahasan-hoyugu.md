@@ -5,10 +5,10 @@ slug: "karahasan-hoyugu"
 description: "## Karahasan Höyüğü: Gaziantep'in Gizli Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.7047517,36.8543643"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nissibi-koprusu"
 description: "### Nissibi Köprüsü..."
 featured_image: ""
 province: "Gaziantep alt bölgesi"
-iller: '["Gaziantep alt bölgesi"]'
+iller: ["Gaziantep alt bölgesi"]
 district: "Gerger"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.974444444,37.898888888"
 draft: "false"
 weight: "999"

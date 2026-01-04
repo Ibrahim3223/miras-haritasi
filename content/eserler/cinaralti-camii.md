@@ -5,10 +5,10 @@ slug: "cinaralti-camii"
 description: "## Çınaraltı Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.4086456,38.3554764"
 draft: "false"
 weight: "999"

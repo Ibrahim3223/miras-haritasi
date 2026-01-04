@@ -5,10 +5,10 @@ slug: "sakandoz-camii"
 description: "## Sakandoz Camii: İkizdere'nin Gizli Çehresini Açıklayın..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.543636554,40.671338707"
 draft: "false"
 weight: "999"

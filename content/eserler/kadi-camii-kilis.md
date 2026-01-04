@@ -5,10 +5,10 @@ slug: "kadi-camii-kilis"
 description: "## Kadı Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1149712,36.7163467"
 draft: "false"
 weight: "999"

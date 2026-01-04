@@ -5,10 +5,10 @@ slug: "sigiryatagi-hoyuk"
 description: "**Sığıryatağı Höyük: Kırşehir'in Gizli Anıtı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2832883,38.9595954"
 draft: "false"
 weight: "999"

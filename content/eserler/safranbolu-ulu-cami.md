@@ -5,10 +5,10 @@ slug: "safranbolu-ulu-cami"
 description: "### Safranbolu Ulu Cami: Karabük'te Bir Tarihi Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Safranbolu_Ulu_Camii.jpg/1200px-Safranbolu_Ulu_Camii.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.6860542,41.2481613"
 draft: "false"
 weight: "10"

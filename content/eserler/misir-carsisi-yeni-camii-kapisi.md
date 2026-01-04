@@ -5,10 +5,10 @@ slug: "misir-carsisi-yeni-camii-kapisi"
 description: "## Mısır Çarşısı Yeni Camii Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9711246,41.0162277"
 draft: "false"
 weight: "999"

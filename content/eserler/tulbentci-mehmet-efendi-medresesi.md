@@ -5,10 +5,10 @@ slug: "tulbentci-mehmet-efendi-medresesi"
 description: "### Tülbentçi Mehmet Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9277725,41.0178223"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "atik-mustafa-pasa-camii-gunes-saati"
 description: "## Atik Mustafa Paşa Camii Güneş Saati..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/09/Atik_Mustafa_Pa%C5%9Fa_Camii_G%C3%BCne%C5%9F_Saati.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9440937,41.0386925"
 draft: "false"
 weight: "999"

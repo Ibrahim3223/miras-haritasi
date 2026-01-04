@@ -5,10 +5,10 @@ slug: "beramuniye-medresesi"
 description: "## Beramuniye Medresesi: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.0281563,38.3753433"
 draft: "false"
 weight: "999"

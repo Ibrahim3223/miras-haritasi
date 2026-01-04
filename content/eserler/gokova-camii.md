@@ -5,10 +5,10 @@ slug: "gokova-camii"
 description: "## Gökova Camii: Muğla'nın Doğası ile Birlikte Gerçekten Keyifli Bir Yer..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3816128,37.0479774"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turgutlu-saat-kulesi"
 description: "### Turgutlu Saat Kulesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.70577,38.49774"
 draft: "false"
 weight: "999"

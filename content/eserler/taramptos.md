@@ -5,10 +5,10 @@ slug: "taramptos"
 description: "# Taramptos: Muğla'nın Gizli Çırağı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.49,37.141111111"
 draft: "false"
 weight: "999"

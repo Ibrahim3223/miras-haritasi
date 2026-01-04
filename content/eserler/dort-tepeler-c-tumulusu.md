@@ -5,10 +5,10 @@ slug: "dort-tepeler-c-tumulusu"
 description: "## Dört Tepeler C Tümülüsü: Tekirdağ'ın Gizemli Eski Kenti..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7042465,41.461853"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balikesir-balya-saat-kulesi"
 description: "## Balıkesir Balya Saat Kulesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balya"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.5782871,39.7497215"
 draft: "false"
 weight: "999"

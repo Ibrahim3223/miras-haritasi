@@ -5,10 +5,10 @@ slug: "kocahoyuk-ii-tumulusu-tekirdag"
 description: "## Kocahöyük II Tümülüsü: Tekirdağ'ın Gizemi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.700780312,41.401472251"
 draft: "false"
 weight: "999"

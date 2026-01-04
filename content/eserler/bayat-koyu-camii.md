@@ -5,10 +5,10 @@ slug: "bayat-koyu-camii"
 description: "## Bayat Köyü Camii: Bir Tarihî Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bayat_village_mosque,_minbar_(Çivril,_Denizli).jpg/1200px-Bayat_village_mosque,_minbar_(Çivril,_Denizli).jpg"
 province: "Çivril"
-iller: '["Çivril"]'
+iller: ["Çivril"]
 district: "Bayat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.820861111,38.168388888"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yarbay-kaymakam-hasan-bey-sehitligi"
 description: "## Yarbay (Kaymakam) Hasan Bey Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2310772,40.0664978"
 draft: "false"
 weight: "999"

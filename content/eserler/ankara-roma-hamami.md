@@ -5,10 +5,10 @@ slug: "ankara-roma-hamami"
 description: "### Ankara Roma Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Baños_romanos,_Ankara,_Turquía,_2024-10-03,_DD_40-44_PAN.jpg/1200px-Baños_romanos,_Ankara,_Turquía,_2024-10-03,_DD_40-44_PAN.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.853,39.9465"
 draft: "false"
 weight: "10"

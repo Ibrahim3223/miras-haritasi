@@ -5,10 +5,10 @@ slug: "parli-safa-camii"
 description: "## Parlı Safa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Diyarbakır_Safa_Camii_7732.jpg/1200px-Diyarbakır_Safa_Camii_7732.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.232339,37.911536"
 draft: "false"
 weight: "10"

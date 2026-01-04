@@ -5,10 +5,10 @@ slug: "hagia-marina-kilisesi"
 description: "## Hagia Marina Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.77491,40.1520386"
 draft: "false"
 weight: "999"

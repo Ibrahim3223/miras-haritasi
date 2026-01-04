@@ -5,10 +5,10 @@ slug: "opera-izmir"
 description: "## Opera İzmir: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.083055555,38.468888888"
 draft: "false"
 weight: "999"

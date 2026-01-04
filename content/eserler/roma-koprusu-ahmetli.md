@@ -5,10 +5,10 @@ slug: "roma-koprusu-ahmetli"
 description: "## Roma Köprüsü, Ahmetli..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.94021,38.51481"
 draft: "false"
 weight: "999"

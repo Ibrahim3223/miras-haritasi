@@ -5,10 +5,10 @@ slug: "hisar-camii"
 description: "## Hisar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hisar_Mosque_(October_2018).jpg/1200px-Hisar_Mosque_(October_2018).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.133583333,38.421472222"
 draft: "false"
 weight: "10"

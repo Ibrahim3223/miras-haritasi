@@ -5,10 +5,10 @@ slug: "haci-osman-mescidi-divrigi"
 description: "### Hacı Osman Mescidi, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.1144905,39.3731308"
 draft: "false"
 weight: "999"

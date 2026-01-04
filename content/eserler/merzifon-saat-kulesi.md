@@ -5,10 +5,10 @@ slug: "merzifon-saat-kulesi"
 description: "## Merzifon Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Merzifon_Medresesi_ve_saat_kulesi.jpg/1200px-Merzifon_Medresesi_ve_saat_kulesi.jpg"
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.461767976,40.874088299"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sokollu-mehmet-pasa-camii"
 description: "## Sokollu Mehmet Paşa Camii: Beyoğlu'ndaki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg/1200px-Sokollu_Mehmet_Pasha_Mosque_Azapkapi_7408.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.96777778,41.025"
 draft: "false"
 weight: "10"

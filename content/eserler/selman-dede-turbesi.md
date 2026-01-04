@@ -5,10 +5,10 @@ slug: "selman-dede-turbesi"
 description: "# Selman Dede Türbesi: Hendek'in Önemli Tarihî Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Hendek"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7605114,40.8198013"
 draft: "false"
 weight: "999"

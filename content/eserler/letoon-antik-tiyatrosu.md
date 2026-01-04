@@ -5,10 +5,10 @@ slug: "letoon-antik-tiyatrosu"
 description: "### Letoon Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.289946,36.331893"
 draft: "false"
 weight: "999"

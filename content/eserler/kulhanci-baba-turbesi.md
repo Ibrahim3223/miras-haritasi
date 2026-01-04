@@ -5,10 +5,10 @@ slug: "kulhanci-baba-turbesi"
 description: "# Külhancı Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2724075,39.9033508"
 draft: "false"
 weight: "999"

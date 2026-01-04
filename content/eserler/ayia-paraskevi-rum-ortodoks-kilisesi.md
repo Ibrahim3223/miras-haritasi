@@ -5,10 +5,10 @@ slug: "ayia-paraskevi-rum-ortodoks-kilisesi"
 description: "### Ayia Paraskevi Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.04527778,41.16166667"
 draft: "false"
 weight: "999"

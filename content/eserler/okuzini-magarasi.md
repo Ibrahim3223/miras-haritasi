@@ -5,10 +5,10 @@ slug: "okuzini-magarasi"
 description: "### Öküzini Mağarası: Antik Dünyanın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Relief_Öküzini.jpg/1200px-Relief_Öküzini.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.576,37.089"
 draft: "false"
 weight: "10"

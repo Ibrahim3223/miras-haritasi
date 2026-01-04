@@ -5,10 +5,10 @@ slug: "sakar-baba-turbesi"
 description: "## Sakar Baba Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4036198,40.7544899"
 draft: "false"
 weight: "999"

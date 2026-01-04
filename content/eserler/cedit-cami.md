@@ -5,10 +5,10 @@ slug: "cedit-cami"
 description: "# Cedit Cami: Yakutiye'nin Tarihî Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2783127,39.9092445"
 draft: "false"
 weight: "999"

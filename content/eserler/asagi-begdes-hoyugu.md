@@ -5,10 +5,10 @@ slug: "asagi-begdes-hoyugu"
 description: "### Aşağı Beğdeş Höyüğü: Şanlıurfa'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.920208,36.8146782"
 draft: "false"
 weight: "999"

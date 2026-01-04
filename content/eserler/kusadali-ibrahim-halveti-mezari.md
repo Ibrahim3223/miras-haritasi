@@ -5,10 +5,10 @@ slug: "kusadali-ibrahim-halveti-mezari"
 description: "## Kuşadalı İbrahim Halveti Mezarı..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2485619,37.8635063"
 draft: "false"
 weight: "999"

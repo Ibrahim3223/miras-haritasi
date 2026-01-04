@@ -5,10 +5,10 @@ slug: "cungus-koprusu"
 description: "## Çüngüş Köprüsü: Geçmişi ve Özellikleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.287964,38.2124966"
 draft: "false"
 weight: "999"

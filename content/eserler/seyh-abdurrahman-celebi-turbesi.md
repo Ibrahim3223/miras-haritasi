@@ -5,10 +5,10 @@ slug: "seyh-abdurrahman-celebi-turbesi"
 description: "## Şeyh Abdurrahman Çelebi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.838333,40.653754"
 draft: "false"
 weight: "999"

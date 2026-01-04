@@ -5,10 +5,10 @@ slug: "hallan-cemi-hoyugu"
 description: "## Hallan Çemi Höyüğü..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.24166667,38.22416667"
 draft: "false"
 weight: "999"

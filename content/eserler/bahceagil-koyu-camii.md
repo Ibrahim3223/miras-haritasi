@@ -5,10 +5,10 @@ slug: "bahceagil-koyu-camii"
 description: "### Bahçeağıl Köyü Camii: Tekirdağ'ın Tarihî Bir Çağına Tanıklık Eden Ölümsüz Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Kapaklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8841457,41.3489037"
 draft: "false"
 weight: "999"

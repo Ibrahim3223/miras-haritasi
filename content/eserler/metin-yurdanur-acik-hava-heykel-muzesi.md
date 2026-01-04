@@ -5,10 +5,10 @@ slug: "metin-yurdanur-acik-hava-heykel-muzesi"
 description: "## Metin Yurdanur Açık Hava Heykel Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.5355873,39.4546394"
 draft: "false"
 weight: "999"

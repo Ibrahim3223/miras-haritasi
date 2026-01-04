@@ -5,10 +5,10 @@ slug: "priene-stadyumu"
 description: "## Priene Stadyumu: Antik Yunanının Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.298611111,37.657222222"
 draft: "false"
 weight: "999"

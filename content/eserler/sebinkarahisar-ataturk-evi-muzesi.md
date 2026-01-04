@@ -5,10 +5,10 @@ slug: "sebinkarahisar-ataturk-evi-muzesi"
 description: "### Şebinkarahisar Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Şebinkarahisar_ATATÜRK_Evi_ve_Müzesi.jpg/1200px-Şebinkarahisar_ATATÜRK_Evi_ve_Müzesi.jpg"
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.42293,40.28871"
 draft: "false"
 weight: "10"

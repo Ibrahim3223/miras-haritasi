@@ -5,10 +5,10 @@ slug: "krom-vadisi-zemberek-kilisesi"
 description: "## Krom Vadisi Zemberek Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.578397,40.556055"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hieropotamon"
 description: "## Hieropotamon: Antik Çağın Gizemli Evi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.690195,40.082671"
 draft: "false"
 weight: "999"

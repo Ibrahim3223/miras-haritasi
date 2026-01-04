@@ -5,10 +5,10 @@ slug: "serefiye-kalesi"
 description: "## Şerefiye Kalesi: Kayseri'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Pınarbaşı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.6707649,38.9431458"
 draft: "false"
 weight: "999"

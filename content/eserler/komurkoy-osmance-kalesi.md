@@ -5,10 +5,10 @@ slug: "komurkoy-osmance-kalesi"
 description: "## Kömürköy Osmançe Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.9338779,41.6261253"
 draft: "false"
 weight: "999"

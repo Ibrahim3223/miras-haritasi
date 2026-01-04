@@ -5,10 +5,10 @@ slug: "haciveyiszade-camii"
 description: "## Hacıveyiszade Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Hacı_Veyiszade_Cami_-_panoramio_(1).jpg/1200px-Hacı_Veyiszade_Cami_-_panoramio_(1).jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.488388888,37.876305555"
 draft: "false"
 weight: "10"

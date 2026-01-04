@@ -5,10 +5,10 @@ slug: "celebi-hamami"
 description: "## Çelebi Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.950787325,41.014017853"
 draft: "false"
 weight: "999"

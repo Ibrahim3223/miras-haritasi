@@ -5,10 +5,10 @@ slug: "ankara-ataturk-evi-muzesi"
 description: "## Ankara Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/AOÇ_Atatürk_evi_müzesi.JPG/1200px-AOÇ_Atatürk_evi_müzesi.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.798068,39.936122"
 draft: "false"
 weight: "10"

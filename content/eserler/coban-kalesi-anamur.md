@@ -5,10 +5,10 @@ slug: "coban-kalesi-anamur"
 description: "## Çoban Kalesi, Anamur..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.739279,36.035227"
 draft: "false"
 weight: "999"

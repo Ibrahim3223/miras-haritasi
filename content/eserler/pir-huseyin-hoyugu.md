@@ -5,10 +5,10 @@ slug: "pir-huseyin-hoyugu"
 description: "# Pir Hüseyin Höyüğü: Diyarbakır'ın Gizli Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.3875502,38.1113137"
 draft: "false"
 weight: "999"

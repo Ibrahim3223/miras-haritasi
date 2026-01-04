@@ -5,10 +5,10 @@ slug: "tevekkul-sultan-turbesi"
 description: "## Tevekkül Sultan Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9248772,36.3786354"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "porsuk-hoyuk-1"
 description: "# Porsuk Höyük 1: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.054443,39.71757"
 draft: "false"
 weight: "999"

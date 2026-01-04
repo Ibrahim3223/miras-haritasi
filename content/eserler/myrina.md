@@ -5,10 +5,10 @@ slug: "myrina"
 description: "## Myrina Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Erkmen_se_MarchesAliagaTurkey.jpg/1200px-Erkmen_se_MarchesAliagaTurkey.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.98444444,38.84527778"
 draft: "false"
 weight: "10"

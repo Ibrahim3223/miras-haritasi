@@ -5,10 +5,10 @@ slug: "sirikli-tumulusu-bekilli"
 description: "**Sırıklı Tümülüsü, Bekilli**..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Bekilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.5361996,38.2840996"
 draft: "false"
 weight: "999"

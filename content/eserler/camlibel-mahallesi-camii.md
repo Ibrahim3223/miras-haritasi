@@ -5,10 +5,10 @@ slug: "camlibel-mahallesi-camii"
 description: "## Çamlıbel Mahallesi Camii: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.226114363,40.681120382"
 draft: "false"
 weight: "999"

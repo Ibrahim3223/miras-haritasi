@@ -5,10 +5,10 @@ slug: "sazgin-hoyuk"
 description: "## Sazgın Höyük: Tarihî Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.4616652,36.9412792"
 draft: "false"
 weight: "999"

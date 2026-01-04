@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-50"
 description: "## Bin Tepeler Tümülüsü 50: Manisa'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.997032,38.548569"
 draft: "false"
 weight: "999"

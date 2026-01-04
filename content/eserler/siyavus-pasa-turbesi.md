@@ -5,10 +5,10 @@ slug: "siyavus-pasa-turbesi"
 description: "### Siyavuş Paşa Türbesi: Eyüpsultan'da Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934361,41.047505"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tatarli-hoyuk-kale-yapisi"
 description: "# Tatarlı Höyük Kale Yapısı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.0520668,37.1227493"
 draft: "false"
 weight: "999"

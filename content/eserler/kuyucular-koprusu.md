@@ -5,10 +5,10 @@ slug: "kuyucular-koprusu"
 description: "## Kuyucular Köprüsü: Aydın'ın Efsanevi Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0233231,37.8682899"
 draft: "false"
 weight: "999"

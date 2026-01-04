@@ -5,10 +5,10 @@ slug: "dede-sultan-sut-baba-kabri"
 description: "## Dede Sultan Süt Baba Kabri: Üsküdar'ın Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Dede_Sultan_Süt_Baba_Kabri.jpg/1200px-Dede_Sultan_Süt_Baba_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.020958854,41.013256147"
 draft: "false"
 weight: "10"

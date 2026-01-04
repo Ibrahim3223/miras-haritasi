@@ -5,10 +5,10 @@ slug: "cat-koyu-camii"
 description: "## Çat Köyü Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.938757254,40.870692817"
 draft: "false"
 weight: "999"

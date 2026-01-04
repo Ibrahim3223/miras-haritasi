@@ -5,10 +5,10 @@ slug: "parion"
 description: "## Parion: Bir Antik Kentin Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0703,40.4162"
 draft: "false"
 weight: "999"

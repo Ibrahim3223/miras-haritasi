@@ -5,10 +5,10 @@ slug: "prostanna"
 description: "### Prostanna: Eğirdir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.84905,37.87414"
 draft: "false"
 weight: "999"

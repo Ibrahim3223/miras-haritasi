@@ -5,10 +5,10 @@ slug: "kitanaura"
 description: "## Kitanaura Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.36638889,36.6475"
 draft: "false"
 weight: "999"

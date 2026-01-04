@@ -5,10 +5,10 @@ slug: "musalla-medresesi"
 description: "## Musalla Medresesi: İstanbul'un Gizli Çandırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9572105,41.0067902"
 draft: "false"
 weight: "999"

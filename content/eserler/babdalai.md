@@ -5,10 +5,10 @@ slug: "babdalai"
 description: "### Babadalai Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.538588,38.543079"
 draft: "false"
 weight: "999"

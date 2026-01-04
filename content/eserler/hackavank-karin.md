@@ -5,10 +5,10 @@ slug: "hackavank-karin"
 description: "**Haçkavank (Karin) Manastırı**..."
 featured_image: ""
 province: "Yakutiye"
-iller: '["Yakutiye"]'
+iller: ["Yakutiye"]
 district: "Aktoprak"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.196944444,40.060833333"
 draft: "false"
 weight: "999"

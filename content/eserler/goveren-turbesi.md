@@ -5,10 +5,10 @@ slug: "goveren-turbesi"
 description: "## Göveren Türbesi: Safranbolu'nun Birincil Anıtı..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.692586,41.350523"
 draft: "false"
 weight: "999"

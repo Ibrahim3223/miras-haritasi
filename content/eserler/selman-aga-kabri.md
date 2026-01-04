@@ -5,10 +5,10 @@ slug: "selman-aga-kabri"
 description: "## Selman Ağa Kabri: Üsküdar'ın Tarihî Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Selman_Ağa_Kabri.jpg/1200px-Selman_Ağa_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0158749,41.0256958"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "carsi-camii-sultandagi"
 description: "## Çarşı Camii, Sultandağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sultandağı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.2281322,38.5321198"
 draft: "false"
 weight: "999"

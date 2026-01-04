@@ -5,10 +5,10 @@ slug: "caglayik-kalesirti-d-tumulusu"
 description: "## Çağlayık Kalesırtı D Tümülüsü: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3268013,42.034668"
 draft: "false"
 weight: "999"

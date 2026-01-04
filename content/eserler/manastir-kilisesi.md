@@ -5,10 +5,10 @@ slug: "manastir-kilisesi"
 description: "### Manastır Kilisesi: Kürtün'un Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "38.993627,40.506359"
 draft: "false"
 weight: "999"

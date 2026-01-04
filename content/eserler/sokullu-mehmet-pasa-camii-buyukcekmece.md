@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-camii-buyukcekmece"
 description: "### Sokullu Mehmet Paşa Camii: Büyükçekmece'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sokullu_Mehmet_Paşa_Camii.JPG/1200px-Sokullu_Mehmet_Paşa_Camii.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.57611111,41.02222222"
 draft: "false"
 weight: "10"

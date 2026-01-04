@@ -5,10 +5,10 @@ slug: "yaltkaya-koyu-merkez-camii"
 description: "## Yaltkaya Köyü Merkez Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.895989267,41.07125659"
 draft: "false"
 weight: "999"

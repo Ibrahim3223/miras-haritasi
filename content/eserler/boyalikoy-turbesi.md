@@ -5,10 +5,10 @@ slug: "boyalikoy-turbesi"
 description: "## Boyalıköy Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4027958,38.7628326"
 draft: "false"
 weight: "999"

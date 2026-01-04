@@ -5,10 +5,10 @@ slug: "pergamon-demeter-tapinagi"
 description: "### Pergamon Demeter Tapınağı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.184166666,39.127222222"
 draft: "false"
 weight: "999"

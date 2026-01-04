@@ -5,10 +5,10 @@ slug: "haritacilik-muzesi"
 description: "## Haritacılık Müzesi: Ankara'nın Harita Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.882311,39.932475"
 draft: "false"
 weight: "999"

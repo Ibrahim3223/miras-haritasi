@@ -5,10 +5,10 @@ slug: "kumkapi-ayia-panayia-elpida-rum-ortodoks-kilisesi"
 description: "## Kumkapı Ayia Panayia Elpida Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Eingang_Panagia-Elpida-Kirche.jpg/1200px-Eingang_Panagia-Elpida-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.96333333,41.00444444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-dumanli"
 description: "### Roma Köprüsü, Dumanlı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Derik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.157631,37.330059"
 draft: "false"
 weight: "999"

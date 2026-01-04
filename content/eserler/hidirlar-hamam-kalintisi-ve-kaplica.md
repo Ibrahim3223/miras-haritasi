@@ -5,10 +5,10 @@ slug: "hidirlar-hamam-kalintisi-ve-kaplica"
 description: "### Hıdırlar Hamamı: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1555786,39.8449593"
 draft: "false"
 weight: "999"

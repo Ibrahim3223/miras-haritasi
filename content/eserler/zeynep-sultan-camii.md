@@ -5,10 +5,10 @@ slug: "zeynep-sultan-camii"
 description: "**Zeynep Sultan Camii: İstanbul'un Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Zeynep_Sultan_Camii.jpg/1200px-Zeynep_Sultan_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.978415,41.010074"
 draft: "false"
 weight: "10"

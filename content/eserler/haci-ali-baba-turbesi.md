@@ -5,10 +5,10 @@ slug: "haci-ali-baba-turbesi"
 description: "## Hacı Ali Baba Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.122736,36.722583"
 draft: "false"
 weight: "999"

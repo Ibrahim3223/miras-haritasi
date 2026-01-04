@@ -5,10 +5,10 @@ slug: "ataturk-orman-ciftligi-hayvanat-bahcesi"
 description: "## Atatürk Orman Çiftliği Hayvanat Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/AOC_hayvanat_bahcesi.jpg/1200px-AOC_hayvanat_bahcesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.79176,39.946488"
 draft: "false"
 weight: "10"

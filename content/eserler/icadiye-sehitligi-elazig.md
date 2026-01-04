@@ -5,10 +5,10 @@ slug: "icadiye-sehitligi-elazig"
 description: "**İcadiye Şehitliği: Elazığ'ın Onuruna Yükselen Anıt**..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2290535,38.6778297"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-turhan-mescidi"
 description: "## Hacı Turhan Mescidi: Tokat'ın Zümrütü..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5460434,40.3151703"
 draft: "false"
 weight: "999"

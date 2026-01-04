@@ -5,10 +5,10 @@ slug: "vank-manastiri"
 description: "## Vank Manastırı: Keçiören'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Keçiören"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "32.8507538,39.9653244"
 draft: "false"
 weight: "999"

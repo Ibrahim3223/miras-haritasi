@@ -5,10 +5,10 @@ slug: "evciler-mayadag-kalesi-kirklareli"
 description: "# Evciler Mayadağ Kalesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6067619,41.774025"
 draft: "false"
 weight: "999"

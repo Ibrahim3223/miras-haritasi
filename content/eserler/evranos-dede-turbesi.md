@@ -5,10 +5,10 @@ slug: "evranos-dede-turbesi"
 description: "## Evranos Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941555,41.025442"
 draft: "false"
 weight: "999"

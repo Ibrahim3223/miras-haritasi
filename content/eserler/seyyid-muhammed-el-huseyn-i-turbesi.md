@@ -5,10 +5,10 @@ slug: "seyyid-muhammed-el-huseyn-i-turbesi"
 description: "### Seyyid Muhammed El Hüseyn-i Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.956601,37.178652"
 draft: "false"
 weight: "999"

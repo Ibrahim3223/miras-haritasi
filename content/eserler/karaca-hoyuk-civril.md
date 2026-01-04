@@ -5,10 +5,10 @@ slug: "karaca-hoyuk-civril"
 description: "## Karaca Höyük: Çivril'in Tarihî Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.7194061,38.1946678"
 draft: "false"
 weight: "999"

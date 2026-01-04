@@ -5,10 +5,10 @@ slug: "haci-kasim-camii"
 description: "## Hacı Kasım Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.724321,41.003784"
 draft: "false"
 weight: "999"

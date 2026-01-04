@@ -5,10 +5,10 @@ slug: "muradiye-medresesi"
 description: "**Muradiye Medresesi: Bursa'nın Tarihi ve Kültürel Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/MURADİYE_CAMİ_MEDRESESİ_-_panoramio.jpg/1200px-MURADİYE_CAMİ_MEDRESESİ_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0457344,40.190937"
 draft: "false"
 weight: "10"

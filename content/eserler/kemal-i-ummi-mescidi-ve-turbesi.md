@@ -5,10 +5,10 @@ slug: "kemal-i-ummi-mescidi-ve-turbesi"
 description: "## Kemal-i Ümmi Mescidi ve Türbesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6763763,37.9732056"
 draft: "false"
 weight: "999"

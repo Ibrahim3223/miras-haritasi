@@ -5,10 +5,10 @@ slug: "kasturya-sinagogu"
 description: "# Kasturya Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.941638888,41.033972222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "salihler-ilicasi"
 description: "## Salihler Ilıcası: Dikili, İzmir'de Bir Ölümsüz Hamam..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.851655,39.177097"
 draft: "false"
 weight: "999"

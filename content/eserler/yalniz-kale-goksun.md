@@ -5,10 +5,10 @@ slug: "yalniz-kale-goksun"
 description: "## Yalnız Kale, Göksun..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Göksun"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.429985,37.9217339"
 draft: "false"
 weight: "999"

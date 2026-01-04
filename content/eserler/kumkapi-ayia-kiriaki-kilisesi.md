@@ -5,10 +5,10 @@ slug: "kumkapi-ayia-kiriaki-kilisesi"
 description: "## Kumkapı Ayia Kiriaki Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/St_Kyriaki_Church_-P1040037-crop.jpg/1200px-St_Kyriaki_Church_-P1040037-crop.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.96619,41.00487"
 draft: "false"
 weight: "10"

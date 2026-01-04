@@ -5,10 +5,10 @@ slug: "roma-koprusu-vekse"
 description: "## Roma Köprüsü, Vekse..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.6705733,38.8070813"
 draft: "false"
 weight: "999"

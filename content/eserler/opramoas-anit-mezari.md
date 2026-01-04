@@ -5,10 +5,10 @@ slug: "opramoas-anit-mezari"
 description: "**Opramoas Anıt Mezarı: Antalya'nın Gizli Çeşidi**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2657013,36.3872261"
 draft: "false"
 weight: "999"

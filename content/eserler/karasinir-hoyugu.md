@@ -5,10 +5,10 @@ slug: "karasinir-hoyugu"
 description: "## Karasınır Höyüğü: Konya'nın Gizli Kırmızı Taşlı Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Güneysınır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.7299908,37.2922439"
 draft: "false"
 weight: "999"

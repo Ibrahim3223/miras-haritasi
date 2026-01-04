@@ -5,10 +5,10 @@ slug: "zincirli-ali-baba-turbesi"
 description: "## Zincirli Ali Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.96548687,41.043637521"
 draft: "false"
 weight: "999"

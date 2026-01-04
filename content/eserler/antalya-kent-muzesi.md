@@ -5,10 +5,10 @@ slug: "antalya-kent-muzesi"
 description: "## Antalya Kent Müzesi: Bir Tarihî Kentin Gizemleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.709421,36.881069"
 draft: "false"
 weight: "999"

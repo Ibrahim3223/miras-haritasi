@@ -5,10 +5,10 @@ slug: "golpinar-tumulusu"
 description: "### Gölpınar Tümülüsü: Malatya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0297203,38.3037453"
 draft: "false"
 weight: "999"

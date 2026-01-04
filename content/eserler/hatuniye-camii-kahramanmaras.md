@@ -5,10 +5,10 @@ slug: "hatuniye-camii-kahramanmaras"
 description: "## Hatuniye Camii, Kahramanmaraş..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.928361111,37.583638888"
 draft: "false"
 weight: "999"

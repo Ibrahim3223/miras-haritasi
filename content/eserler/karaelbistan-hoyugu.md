@@ -5,10 +5,10 @@ slug: "karaelbistan-hoyugu"
 description: "### Karaelbistan Höyüğü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Halep Vilayeti"
-iller: '["Halep Vilayeti"]'
+iller: ["Halep Vilayeti"]
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1464237,38.2130739"
 draft: "false"
 weight: "999"

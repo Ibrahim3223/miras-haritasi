@@ -5,10 +5,10 @@ slug: "boz-hoyuk-ilgin"
 description: "## Boz Höyük, Ilgın: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ilgın"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.9145167,38.2650534"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "canfeda-hatun-camii"
 description: "## Canfeda Hatun Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Canfeda_Hatun_Mosque,_Karagümrük.jpg/1200px-Canfeda_Hatun_Mosque,_Karagümrük.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.941178,41.026421"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-gunes-saati"
 description: "## Topkapı Sarayı Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9845238,41.0133247"
 draft: "false"
 weight: "1"

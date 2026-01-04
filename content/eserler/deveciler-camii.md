@@ -5,10 +5,10 @@ slug: "deveciler-camii"
 description: "## Deveciler Camii: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7816391,41.3793068"
 draft: "false"
 weight: "999"

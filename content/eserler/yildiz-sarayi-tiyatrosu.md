@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-tiyatrosu"
 description: "## Yıldız Sarayı Tiyatrosu: İstanbul'un En Efsanevi Tiyatro Adası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.011936578,41.051353187"
 draft: "false"
 weight: "999"

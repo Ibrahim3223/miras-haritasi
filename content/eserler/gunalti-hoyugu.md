@@ -5,10 +5,10 @@ slug: "gunalti-hoyugu"
 description: "# Günaltı Höyüğü: Nizip'in Gizli Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nizip"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.9163111,37.0093942"
 draft: "false"
 weight: "999"

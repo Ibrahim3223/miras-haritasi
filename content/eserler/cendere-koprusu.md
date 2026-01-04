@@ -5,10 +5,10 @@ slug: "cendere-koprusu"
 description: "**Cendere Köprüsü: Tarihî Bir Yapıtın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Severan_Bridge,_Turkey_02.jpg/1200px-Severan_Bridge,_Turkey_02.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.60849,37.93292"
 draft: "false"
 weight: "10"

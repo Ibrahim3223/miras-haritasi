@@ -5,10 +5,10 @@ slug: "catak-mahallesi-koprusu"
 description: "## Çatak Mahallesi Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.402612,40.807249"
 draft: "false"
 weight: "999"

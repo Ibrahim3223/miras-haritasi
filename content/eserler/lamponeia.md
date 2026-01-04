@@ -5,10 +5,10 @@ slug: "lamponeia"
 description: "## Lamponeia Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.40888889,39.53583333"
 draft: "false"
 weight: "999"

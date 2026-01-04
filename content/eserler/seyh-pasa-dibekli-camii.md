@@ -5,10 +5,10 @@ slug: "seyh-pasa-dibekli-camii"
 description: "### Şeyh Paşa Dibekli Camii: Bursa'nın Tarihi Esrarlarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ŞEYH_PAŞA_DİBEKLİ_CAMİ_BURSA_OSMANGAZİ_-_panoramio.jpg/1200px-ŞEYH_PAŞA_DİBEKLİ_CAMİ_BURSA_OSMANGAZİ_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0524788,40.1854439"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "iklime-hatun-camii"
 description: "## İklime Hatun Camii: Kahramanmaraş'ın Tarihi Bir Çanak..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9280739,37.5829163"
 draft: "false"
 weight: "999"

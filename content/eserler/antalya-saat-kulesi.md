@@ -5,10 +5,10 @@ slug: "antalya-saat-kulesi"
 description: "**Antalya Saat Kulesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Antalya_Saat_Kulesi.JPG/1200px-Antalya_Saat_Kulesi.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "30.7059,36.887"
 draft: "false"
 weight: "10"

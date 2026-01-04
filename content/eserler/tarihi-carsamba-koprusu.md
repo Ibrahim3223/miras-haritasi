@@ -5,10 +5,10 @@ slug: "tarihi-carsamba-koprusu"
 description: "## Tarihi Çarşamba Köprüsü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.72453,41.198504"
 draft: "false"
 weight: "999"

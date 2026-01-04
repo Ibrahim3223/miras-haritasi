@@ -5,10 +5,10 @@ slug: "terzi-baba-turbesi"
 description: "## Terzi Baba Türbesi: Erzincan'ın Gizli Anıtı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.499279,39.7170219"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hurrem-cavus-camii"
 description: "## Hürrem Çavuş Camii: Fatih'in Gizli Mabeti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.936555555,41.021888888"
 draft: "false"
 weight: "999"

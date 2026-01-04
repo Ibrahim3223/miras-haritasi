@@ -5,10 +5,10 @@ slug: "kostutepesi"
 description: "## Köstütepesi Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Günyüzü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.8166224,39.3792911"
 draft: "false"
 weight: "999"

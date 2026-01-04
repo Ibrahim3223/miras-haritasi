@@ -5,10 +5,10 @@ slug: "asikli-sultan-turbesi"
 description: "### Aşıklı Sultan Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.773312,41.379712"
 draft: "false"
 weight: "999"

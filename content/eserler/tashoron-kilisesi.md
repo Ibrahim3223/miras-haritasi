@@ -5,10 +5,10 @@ slug: "tashoron-kilisesi"
 description: "## Taşhoron Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Armenische_oder_aramäische_Taschchoron-Kirche.jpg/1200px-Armenische_oder_aramäische_Taschchoron-Kirche.jpg"
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Malatya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.30194444,38.3525"
 draft: "false"
 weight: "10"

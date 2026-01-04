@@ -5,10 +5,10 @@ slug: "pera-palas-ataturk-muzesi"
 description: "### Pera Palas Atatürk Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.973473003,41.031046069"
 draft: "false"
 weight: "999"

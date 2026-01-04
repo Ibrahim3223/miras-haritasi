@@ -5,10 +5,10 @@ slug: "kale-peuke"
 description: "## Kale Peuke: Yenice'nin Tarihi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.983187,39.793768"
 draft: "false"
 weight: "999"

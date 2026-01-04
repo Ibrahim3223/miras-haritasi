@@ -5,10 +5,10 @@ slug: "sadabad-sarayi"
 description: "## Sadabad Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.963722219,41.07158333"
 draft: "false"
 weight: "999"

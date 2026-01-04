@@ -5,10 +5,10 @@ slug: "safalihoyuk"
 description: "## Safalıhöyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2954057,39.6402729"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-cihannuma-kosku"
 description: "### Yıldız Sarayı Cihannüma Köşkü: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0121117,41.0479202"
 draft: "false"
 weight: "999"

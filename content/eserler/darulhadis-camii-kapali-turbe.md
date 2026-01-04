@@ -5,10 +5,10 @@ slug: "darulhadis-camii-kapali-turbe"
 description: "### Darülhadis Camii Kapalı Türbe..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5484962,41.6710091"
 draft: "false"
 weight: "999"

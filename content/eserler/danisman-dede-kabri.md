@@ -5,10 +5,10 @@ slug: "danisman-dede-kabri"
 description: "# Danışman Dede Kabri: Silivri'nin Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.2439995,41.0736237"
 draft: "false"
 weight: "999"

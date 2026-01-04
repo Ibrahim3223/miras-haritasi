@@ -5,10 +5,10 @@ slug: "halife-baba-turbesi"
 description: "### Halife Baba Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9780788,37.5900078"
 draft: "false"
 weight: "999"

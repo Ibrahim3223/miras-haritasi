@@ -5,10 +5,10 @@ slug: "mardin-zinciriye-medresesi"
 description: "### Mardin Zinciriye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/MardinSultanIsaDomes.jpg/1200px-MardinSultanIsaDomes.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "40.739842,37.314096"
 draft: "false"
 weight: "10"

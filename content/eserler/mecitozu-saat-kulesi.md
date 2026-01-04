@@ -5,10 +5,10 @@ slug: "mecitozu-saat-kulesi"
 description: "## Mecitözü Saat Kulesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: ""
 draft: "false"
 weight: "999"

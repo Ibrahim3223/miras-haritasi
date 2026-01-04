@@ -5,10 +5,10 @@ slug: "omer-pasa-camii"
 description: "### Ömer Paşa Camii: Elmalı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.91417,36.74292"
 draft: "false"
 weight: "999"

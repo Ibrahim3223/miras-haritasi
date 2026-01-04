@@ -5,10 +5,10 @@ slug: "ferah-tiyatrosu"
 description: "## Ferah Tiyatrosu: İstanbul'un Eski Kent Merkezi'nde Bir Antik Tiyatro..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.9591179,41.0125046"
 draft: "false"
 weight: "999"

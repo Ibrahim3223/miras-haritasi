@@ -5,10 +5,10 @@ slug: "haci-isa-kabri"
 description: "## Hacı İsa Kabri: İstanbul'un Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9448338,41.0331955"
 draft: "false"
 weight: "999"

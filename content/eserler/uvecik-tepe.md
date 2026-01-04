@@ -5,10 +5,10 @@ slug: "uvecik-tepe"
 description: "# Üvecik Tepe: Ezine'nin Gizli Tarihi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.199306,39.900234"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "soli"
 description: "## Soli: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/ViransehirSäulen.jpg/1200px-ViransehirSäulen.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.54,36.741944444"
 draft: "false"
 weight: "10"

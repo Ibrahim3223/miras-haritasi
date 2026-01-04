@@ -5,10 +5,10 @@ slug: "ardzvaper-manastiri"
 description: "## Ardzvaper Manastırı: Erciş'in Gizli Hazinesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Erciş"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.434536,39.048233"
 draft: "false"
 weight: "999"

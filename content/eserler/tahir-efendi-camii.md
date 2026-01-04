@@ -5,10 +5,10 @@ slug: "tahir-efendi-camii"
 description: "## Tahir Efendi Camii: Üsküdar'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/20131207_Istanbul_214.jpg/1200px-20131207_Istanbul_214.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.012872,41.0091876"
 draft: "false"
 weight: "10"

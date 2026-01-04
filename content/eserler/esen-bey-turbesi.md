@@ -5,10 +5,10 @@ slug: "esen-bey-turbesi"
 description: "## Esen Bey Türbesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6807321,37.970228"
 draft: "false"
 weight: "999"

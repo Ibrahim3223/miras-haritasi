@@ -5,10 +5,10 @@ slug: "zemmeana"
 description: "### Zemmeana Arkeolojik Sit Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0826,39.108401"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "heracleium"
 description: "## Heracleium: Antik Bir Uygarlığın İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.662955,40.70093"
 draft: "false"
 weight: "999"

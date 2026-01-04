@@ -5,10 +5,10 @@ slug: "baltasigedik-mahmut-dede-turbesi"
 description: "## Baltasıgedik Mahmut Dede Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.926238,36.752978"
 draft: "false"
 weight: "999"

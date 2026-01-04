@@ -5,10 +5,10 @@ slug: "kumkeci-kalesi"
 description: "## Kumkeçi Kalesi: Balâ'da Tarih ve Kültür..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Balâ"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.50358,39.288509"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "batalhoyuk"
 description: "## Batalhöyük: Türkiye'nin Gizli Hazineleri..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.34355522,37.060071943"
 draft: "false"
 weight: "999"

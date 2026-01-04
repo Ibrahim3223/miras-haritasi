@@ -5,10 +5,10 @@ slug: "cesme-kent-muzesi"
 description: "## Çeşme Kent Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.3024006,38.3241005"
 draft: "false"
 weight: "999"

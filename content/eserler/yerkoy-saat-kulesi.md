@@ -5,10 +5,10 @@ slug: "yerkoy-saat-kulesi"
 description: "**Yerköy Saat Kulesi: Yozgat'ın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.469805555,39.637944444"
 draft: "false"
 weight: "999"

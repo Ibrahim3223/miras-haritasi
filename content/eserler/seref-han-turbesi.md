@@ -5,10 +5,10 @@ slug: "seref-han-turbesi"
 description: "### Şeref Han Türbesi: Bitlis'in Gizli Cenneti..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1070557,38.3995514"
 draft: "false"
 weight: "999"

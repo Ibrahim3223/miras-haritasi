@@ -5,10 +5,10 @@ slug: "ulukonak-kustepe-tumulusu"
 description: "## Ulukonak Kuştepe Tümülüsü: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0039825,41.6439552"
 draft: "false"
 weight: "999"

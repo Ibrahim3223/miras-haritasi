@@ -5,10 +5,10 @@ slug: "guneyce-koprusu"
 description: "### Güneyce Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.476517,40.821867"
 draft: "false"
 weight: "999"

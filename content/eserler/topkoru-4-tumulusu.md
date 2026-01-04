@@ -5,10 +5,10 @@ slug: "topkoru-4-tumulusu"
 description: "## Topkoru 4 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1621513,42.0077972"
 draft: "false"
 weight: "999"

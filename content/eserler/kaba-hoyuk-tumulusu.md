@@ -5,10 +5,10 @@ slug: "kaba-hoyuk-tumulusu"
 description: "### Kaba Höyük Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9589844,41.229454"
 draft: "false"
 weight: "999"

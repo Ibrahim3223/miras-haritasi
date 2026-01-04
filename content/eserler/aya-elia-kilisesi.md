@@ -5,10 +5,10 @@ slug: "aya-elia-kilisesi"
 description: "## Aya Elia Kilisesi: Beyoğlu'ndaki Bir Tarihsel Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Ecke_St.-Nikolaus-Kirche.jpg/1200px-Ecke_St.-Nikolaus-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9780445,41.0244446"
 draft: "false"
 weight: "10"

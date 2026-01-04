@@ -5,10 +5,10 @@ slug: "perge-roma-kapisi"
 description: "## Perge Roma Kapısı: Antik Şehirin Giriş Kapısı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8540878,36.9605446"
 draft: "false"
 weight: "999"

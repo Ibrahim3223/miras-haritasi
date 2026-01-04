@@ -5,10 +5,10 @@ slug: "seyh-mustafa-devati-turbesi"
 description: "## Şeyh Mustafa Devati Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.017926,41.025496"
 draft: "false"
 weight: "999"

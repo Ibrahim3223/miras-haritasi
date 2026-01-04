@@ -5,10 +5,10 @@ slug: "iii-ahmed-kutuphanesi"
 description: "## III. Ahmed Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Enderun_library_Topkapi_40.JPG/1200px-Enderun_library_Topkapi_40.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9845,41.013138888"
 draft: "false"
 weight: "10"

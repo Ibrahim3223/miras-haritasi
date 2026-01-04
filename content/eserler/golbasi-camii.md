@@ -5,10 +5,10 @@ slug: "golbasi-camii"
 description: "### Gölbaşı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Uzungöl_Mosque.jpg/1200px-Uzungöl_Mosque.jpg"
 province: "Çaykara İlçesi"
-iller: '["Çaykara İlçesi"]'
+iller: ["Çaykara İlçesi"]
 district: "Uzungöl"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.290054706,40.619222034"
 draft: "false"
 weight: "10"

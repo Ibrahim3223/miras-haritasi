@@ -5,10 +5,10 @@ slug: "sipas-camii"
 description: "# Sipas Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8884964,36.6401443"
 draft: "false"
 weight: "999"

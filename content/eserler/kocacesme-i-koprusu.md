@@ -5,10 +5,10 @@ slug: "kocacesme-i-koprusu"
 description: "## Kocaçeşme I Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.816721,40.6555405"
 draft: "false"
 weight: "999"

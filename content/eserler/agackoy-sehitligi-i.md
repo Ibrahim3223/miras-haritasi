@@ -5,10 +5,10 @@ slug: "agackoy-sehitligi-i"
 description: "## Ağaçköy Şehitliği I: Dumlupınar'ın Kahramanlıklarına Tanıklık Eden Anıt..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9756432,38.9061508"
 draft: "false"
 weight: "999"

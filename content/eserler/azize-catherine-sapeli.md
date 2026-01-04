@@ -5,10 +5,10 @@ slug: "azize-catherine-sapeli"
 description: "## Azize Catherine Şapeli: Göreme'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/J22_230_Agia_Katharina.jpg/1200px-J22_230_Agia_Katharina.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8460344,38.6387425"
 draft: "false"
 weight: "10"

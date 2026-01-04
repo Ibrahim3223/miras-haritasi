@@ -5,10 +5,10 @@ slug: "peynirli-camii"
 description: "## Peynirli Camii: Kayseri'nin Gizli Çehresini Açığa Çıkaran Bir Örnek..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4794769,38.715519"
 draft: "false"
 weight: "999"

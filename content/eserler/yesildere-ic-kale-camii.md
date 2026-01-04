@@ -5,10 +5,10 @@ slug: "yesildere-ic-kale-camii"
 description: "## Yeşildere İç Kale Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5142136,37.1561089"
 draft: "false"
 weight: "999"

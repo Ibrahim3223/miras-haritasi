@@ -5,10 +5,10 @@ slug: "briyas-sarayi-kalintilari"
 description: "## Briyas Sarayı Kalıntıları..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.1512032,40.9034767"
 draft: "false"
 weight: "999"

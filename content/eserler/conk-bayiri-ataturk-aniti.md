@@ -5,10 +5,10 @@ slug: "conk-bayiri-ataturk-aniti"
 description: "## Conk Bayırı Atatürk Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.308445,40.2524147"
 draft: "false"
 weight: "999"

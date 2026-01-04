@@ -5,10 +5,10 @@ slug: "husrev-pasa-medresesi"
 description: "## Hüsrev Paşa Medresesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "43.3386879,38.4984245"
 draft: "false"
 weight: "999"

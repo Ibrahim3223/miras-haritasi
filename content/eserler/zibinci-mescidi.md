@@ -5,10 +5,10 @@ slug: "zibinci-mescidi"
 description: "# Zıbıncı Mescidi: İznik'in Gizli Çağına İşaret Eden Bir Cami..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9239674,40.766346"
 draft: "false"
 weight: "999"

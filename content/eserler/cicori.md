@@ -5,10 +5,10 @@ slug: "cicori"
 description: "# Cicori Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: '["Göle"]'
+iller: ["Göle"]
 district: "Budaklı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.535833333,40.960833333"
 draft: "false"
 weight: "999"

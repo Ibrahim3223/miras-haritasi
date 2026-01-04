@@ -5,10 +5,10 @@ slug: "ahmet-ve-mehmet-efendiler-turbesi"
 description: "### Ahmet ve Mehmet Efendiler Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.530146,38.755209"
 draft: "false"
 weight: "999"

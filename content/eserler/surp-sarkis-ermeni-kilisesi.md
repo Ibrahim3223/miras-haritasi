@@ -5,10 +5,10 @@ slug: "surp-sarkis-ermeni-kilisesi"
 description: "## Surp Sarkis Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gemerek"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.0534945,39.3087194"
 draft: "false"
 weight: "999"

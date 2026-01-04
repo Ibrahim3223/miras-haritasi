@@ -5,10 +5,10 @@ slug: "argyria-biga"
 description: "## Argyria (Biga): Çanakkale'nin Gizli Kahramanları..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.222332,39.750179"
 draft: "false"
 weight: "999"

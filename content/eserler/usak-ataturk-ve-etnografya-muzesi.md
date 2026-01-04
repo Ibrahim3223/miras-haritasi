@@ -5,10 +5,10 @@ slug: "usak-ataturk-ve-etnografya-muzesi"
 description: "## Uşak Atatürk ve Etnografya Müzesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.4026546,38.6838112"
 draft: "false"
 weight: "999"

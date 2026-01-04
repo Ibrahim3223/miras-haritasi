@@ -5,10 +5,10 @@ slug: "taskopru-sultandagi"
 description: "### Taşköprü, Sultandağı: Afyonkarahisar'ın Tarihi Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sultandağı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.2914524,38.5835648"
 draft: "false"
 weight: "999"

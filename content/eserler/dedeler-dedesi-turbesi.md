@@ -5,10 +5,10 @@ slug: "dedeler-dedesi-turbesi"
 description: "## Dedeler Dedesi Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1727676,37.5247688"
 draft: "false"
 weight: "999"

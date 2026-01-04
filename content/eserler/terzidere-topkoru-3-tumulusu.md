@@ -5,10 +5,10 @@ slug: "terzidere-topkoru-3-tumulusu"
 description: "## Terzidere Topkoru 3 Tümülüsü: Tarihi ve Kültürel Mirasın Gizemli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1609039,41.9903755"
 draft: "false"
 weight: "999"

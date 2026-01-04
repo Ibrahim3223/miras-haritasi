@@ -5,10 +5,10 @@ slug: "termessos-antik-tiyatrosu"
 description: "## Termessos Antik Tiyatrosu: Antalya'nın Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Theatre_in_Termessos.jpg/1200px-Theatre_in_Termessos.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.464538888,36.982466666"
 draft: "false"
 weight: "10"

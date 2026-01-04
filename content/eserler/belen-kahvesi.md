@@ -5,10 +5,10 @@ slug: "belen-kahvesi"
 description: "### Belen Kahvesi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f0/BelenKahvesi2.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.1380787,37.2416191"
 draft: "false"
 weight: "999"

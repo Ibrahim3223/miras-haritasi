@@ -5,10 +5,10 @@ slug: "tumbelez-tepe-tumulusu"
 description: "## Tümbelez Tepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2903709,40.3977356"
 draft: "false"
 weight: "999"

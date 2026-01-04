@@ -5,10 +5,10 @@ slug: "arslantepe"
 description: "## Arslantepe: Tarihî ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Arslantepe5.jpg/1200px-Arslantepe5.jpg"
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.36111111,38.38194444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "beypazari-kalesi"
 description: "## Beypazarı Kalesi: Ankara'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "31.920717,40.171565"
 draft: "false"
 weight: "999"

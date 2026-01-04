@@ -5,10 +5,10 @@ slug: "yigma-tepe-tumulus"
 description: "### Yigma Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.18096,39.10437"
 draft: "false"
 weight: "999"

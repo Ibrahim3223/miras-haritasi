@@ -5,10 +5,10 @@ slug: "eski-kilise"
 description: "## Eski Kilise: Alanya'nın Gizli Çehresini İncelemek İçin Bir Keşif..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.9905415,36.5333672"
 draft: "false"
 weight: "999"

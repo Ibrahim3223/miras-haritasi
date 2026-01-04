@@ -5,10 +5,10 @@ slug: "haci-timur-mescidi"
 description: "## Hacı Timur Mescidi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9344282,41.0089035"
 draft: "false"
 weight: "999"

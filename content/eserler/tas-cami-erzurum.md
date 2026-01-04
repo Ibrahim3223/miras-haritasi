@@ -5,10 +5,10 @@ slug: "tas-cami-erzurum"
 description: "### Taş Cami (Erzurum)..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2806129,39.9037933"
 draft: "false"
 weight: "999"

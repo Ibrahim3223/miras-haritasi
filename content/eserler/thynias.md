@@ -5,10 +5,10 @@ slug: "thynias"
 description: "## Thynias: Demirköy'ün Gizli Örtüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.027453,41.889787"
 draft: "false"
 weight: "999"

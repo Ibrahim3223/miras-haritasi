@@ -5,10 +5,10 @@ slug: "sariabali-camii"
 description: "**Sarıabalı Camii: Serik'te Bir Tarihi Çiçek**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.6260342,36.8690125"
 draft: "false"
 weight: "999"

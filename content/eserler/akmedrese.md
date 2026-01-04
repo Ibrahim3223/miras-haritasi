@@ -5,10 +5,10 @@ slug: "akmedrese"
 description: "## Akmedrese: Tarihini ve Kültürel Mirasını Tanıtan Bir Medrese..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: ""
 draft: "false"
 weight: "999"

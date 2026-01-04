@@ -5,10 +5,10 @@ slug: "erbeyli-ilk-kursun-sehitligi-ve-sehitler-abidesi"
 description: "## Erbeyli İlk Kurşun Şehitliği ve Şehitler Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6635532,37.8662491"
 draft: "false"
 weight: "999"

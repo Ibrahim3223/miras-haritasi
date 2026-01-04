@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-mahallesi-cami"
 description: "## Fatih Sultan Mehmet Mahallesi Cami: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Istanbul_Fatih_Sultan_Mehmet_Mahallesi_Mosque_1.jpg/1200px-Istanbul_Fatih_Sultan_Mehmet_Mahallesi_Mosque_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.03188,41.09321"
 draft: "false"
 weight: "10"

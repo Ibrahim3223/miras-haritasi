@@ -5,10 +5,10 @@ slug: "hizir-baba-turbesi-kirklareli"
 description: "## Hızır Baba Türbesi, Kırklareli: Tarihî Bir Anıtın Gerçekleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Hızır_Baba_Türbesi_01.jpg/1200px-Hızır_Baba_Türbesi_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.222753,41.736713"
 draft: "false"
 weight: "10"

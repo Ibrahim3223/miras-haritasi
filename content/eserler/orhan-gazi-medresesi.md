@@ -5,10 +5,10 @@ slug: "orhan-gazi-medresesi"
 description: "## Orhan Gazi Medresesi: Bursa'nın Eski Meydanında Gizli Bir Miras..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0644321,40.1835823"
 draft: "false"
 weight: "999"

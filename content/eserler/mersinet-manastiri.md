@@ -5,10 +5,10 @@ slug: "mersinet-manastiri"
 description: "## Mersinet Manastırı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.508997,37.4787636"
 draft: "false"
 weight: "999"

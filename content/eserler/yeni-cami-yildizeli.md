@@ -5,10 +5,10 @@ slug: "yeni-cami-yildizeli"
 description: "## Yeni Cami, Yıldızeli: Sivas'ın Gizli Çiçeği..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5948868,39.8656387"
 draft: "false"
 weight: "999"

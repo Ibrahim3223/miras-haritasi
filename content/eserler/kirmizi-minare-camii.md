@@ -5,10 +5,10 @@ slug: "kirmizi-minare-camii"
 description: "## Kırmızı Minare Camii: Beyoğlu'ndaki Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.95083333,41.04194444"
 draft: "false"
 weight: "999"

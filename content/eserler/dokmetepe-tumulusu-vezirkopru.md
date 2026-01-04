@@ -5,10 +5,10 @@ slug: "dokmetepe-tumulusu-vezirkopru"
 description: "## Dökmetepe Tümülüsü: Vezirköprü'deki Eski Uygarlığın Gizemi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4877205,41.1660271"
 draft: "false"
 weight: "999"

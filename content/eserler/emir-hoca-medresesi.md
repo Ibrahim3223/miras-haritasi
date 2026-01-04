@@ -5,10 +5,10 @@ slug: "emir-hoca-medresesi"
 description: "## Emir Hoca Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "28.9602814,41.0142822"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mor-stefanos-suryani-kadim-kilisesi"
 description: "### Mor Stefanos Süryani Kadim Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.5538101,37.3179207"
 draft: "false"
 weight: "999"

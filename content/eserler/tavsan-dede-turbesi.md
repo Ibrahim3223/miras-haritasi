@@ -5,10 +5,10 @@ slug: "tavsan-dede-turbesi"
 description: "## Tavşan Dede Türbesi: Akçakoca'da Bir İnanç Eseri..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.115478,41.082007"
 draft: "false"
 weight: "999"

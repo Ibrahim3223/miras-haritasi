@@ -5,10 +5,10 @@ slug: "arzadeyin-hoyugu"
 description: "## Arzadeyin Höyüğü: Kırşehir'in Gizli Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0245536,39.2599713"
 draft: "false"
 weight: "999"

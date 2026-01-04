@@ -5,10 +5,10 @@ slug: "limyra-kalesi"
 description: "## Limyra Kalesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.1737556,36.3469048"
 draft: "false"
 weight: "999"

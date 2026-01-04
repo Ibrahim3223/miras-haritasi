@@ -5,10 +5,10 @@ slug: "calci-koyu-camii"
 description: "## Çalçı Köyü Camii: Eskişehir'de Bir Önemli Mimari Eser..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.4297619,39.9494896"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurttepe-b-tumulusu"
 description: "## Kurttepe B Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7073708,41.365509"
 draft: "false"
 weight: "999"

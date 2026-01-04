@@ -5,10 +5,10 @@ slug: "ayios-nikolaos-kilisesi"
 description: "## Ayios Nikolaos Kilisesi: İstanbul'un Gizli Çarşısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Entrance_of_Aya_Nikola_Church_in_Istanbul_(15343763776).jpg/1200px-Entrance_of_Aya_Nikola_Church_in_Istanbul_(15343763776).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.956755,41.027431"
 draft: "false"
 weight: "10"

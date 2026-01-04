@@ -5,10 +5,10 @@ slug: "palamutluk-koprusu"
 description: "### Palamutluk Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4155998,38.3182755"
 draft: "false"
 weight: "999"

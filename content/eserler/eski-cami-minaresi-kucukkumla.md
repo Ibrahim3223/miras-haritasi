@@ -5,10 +5,10 @@ slug: "eski-cami-minaresi-kucukkumla"
 description: "## Eski Cami Minaresi, Küçükkumla..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1254158,40.4778976"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "urgup-camii"
 description: "### Ürgüp Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8683243,39.9364319"
 draft: "false"
 weight: "999"

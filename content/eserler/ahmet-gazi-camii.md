@@ -5,10 +5,10 @@ slug: "ahmet-gazi-camii"
 description: "## Ahmet Gazi Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.065944444,37.539"
 draft: "false"
 weight: "999"

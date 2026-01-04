@@ -5,10 +5,10 @@ slug: "tas-kopru-ciftciibrahim"
 description: "## Taş Köprü, Çiftçiibrahim: Manisa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5753994,38.5111008"
 draft: "false"
 weight: "999"

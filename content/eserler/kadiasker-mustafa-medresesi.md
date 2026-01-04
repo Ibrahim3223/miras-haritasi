@@ -5,10 +5,10 @@ slug: "kadiasker-mustafa-medresesi"
 description: "## Kadıasker Mustafa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9480629,41.0256386"
 draft: "false"
 weight: "999"

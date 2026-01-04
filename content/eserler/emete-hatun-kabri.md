@@ -5,10 +5,10 @@ slug: "emete-hatun-kabri"
 description: "## Emete Hatun Kabri: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9286919,41.0203705"
 draft: "false"
 weight: "999"

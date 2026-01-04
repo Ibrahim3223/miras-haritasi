@@ -5,10 +5,10 @@ slug: "seyh-mehmed-nuri-efendi-turbesi"
 description: "## Şeyh Mehmed Nuri Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0197639,41.0186653"
 draft: "false"
 weight: "999"

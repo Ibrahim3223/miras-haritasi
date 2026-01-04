@@ -5,10 +5,10 @@ slug: "karniyarik-tepe-tumulusu"
 description: "## Karnıyarık Tepe Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0072231,38.5801659"
 draft: "false"
 weight: "999"

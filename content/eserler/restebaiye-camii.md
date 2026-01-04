@@ -5,10 +5,10 @@ slug: "restebaiye-camii"
 description: "## Restebaiye Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9276123,37.5900726"
 draft: "false"
 weight: "999"

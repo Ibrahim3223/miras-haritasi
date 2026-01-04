@@ -5,10 +5,10 @@ slug: "yunus-pasa-camii"
 description: "## Yunus Paşa Camii: Sakarya'nın Tarihî Cebi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Taraklı_Yunus_Paşa_Camii_02.jpg/1200px-Taraklı_Yunus_Paşa_Camii_02.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.4921513,40.3959618"
 draft: "false"
 weight: "10"

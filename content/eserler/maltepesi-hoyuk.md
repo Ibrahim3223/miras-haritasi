@@ -5,10 +5,10 @@ slug: "maltepesi-hoyuk"
 description: "## Maltepesi Höyük: Eskişehir'in Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mihalıççık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.646767,39.792533"
 draft: "false"
 weight: "999"

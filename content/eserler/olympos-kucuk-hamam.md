@@ -5,10 +5,10 @@ slug: "olympos-kucuk-hamam"
 description: "### Olympos Küçük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.4761543,36.3951988"
 draft: "false"
 weight: "999"

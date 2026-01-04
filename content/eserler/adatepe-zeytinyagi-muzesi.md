@@ -5,10 +5,10 @@ slug: "adatepe-zeytinyagi-muzesi"
 description: "## Adatepe Zeytinyağı Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.60111111,39.5475"
 draft: "false"
 weight: "999"

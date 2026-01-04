@@ -5,10 +5,10 @@ slug: "seyh-imameddin-turbesi"
 description: "### Şeyh İmameddin Türbesi: Mardin'in Gizli Çehresi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.748047534,37.313736004"
 draft: "false"
 weight: "999"

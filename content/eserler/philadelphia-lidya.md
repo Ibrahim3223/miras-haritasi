@@ -5,10 +5,10 @@ slug: "philadelphia-lidya"
 description: "## Philadelphia (Lidya)..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.51666667,38.35"
 draft: "false"
 weight: "999"

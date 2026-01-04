@@ -5,10 +5,10 @@ slug: "yildirim-beyazit-camii"
 description: "## Yıldırım Beyazıt Camii: İzmir'in Tarihi bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3476238,39.0893135"
 draft: "false"
 weight: "999"

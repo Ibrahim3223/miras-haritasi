@@ -5,10 +5,10 @@ slug: "muzareti-kilisesi"
 description: "### Muzareti Kilisesi: Çakırüzüm'un Gizli Güzelliği..."
 featured_image: ""
 province: "Göle"
-iller: '["Göle"]'
+iller: ["Göle"]
 district: "Çakırüzüm"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.566595528,40.801264034"
 draft: "false"
 weight: "999"

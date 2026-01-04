@@ -5,10 +5,10 @@ slug: "seyh-mutahhar-camii"
 description: "### Şeyh Mutahhar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Minareya_Çarling_Amed_2010.JPG/1200px-Minareya_Çarling_Amed_2010.JPG"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.237611,37.910778"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kitabeli-sutun-fetih-aniti"
 description: "## Kitabeli Sütun, Fetih Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1284008,40.8739319"
 draft: "false"
 weight: "999"

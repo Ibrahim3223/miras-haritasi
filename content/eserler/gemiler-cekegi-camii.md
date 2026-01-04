@@ -5,10 +5,10 @@ slug: "gemiler-cekegi-camii"
 description: "## Gemiler Çekeği Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.401529,40.913834"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kayalar-camii"
 description: "## Kayalar Camii: Foça'nın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Foça_Kayalar_Camii_6467.jpg/1200px-Foça_Kayalar_Camii_6467.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.752277777,38.669222222"
 draft: "false"
 weight: "10"

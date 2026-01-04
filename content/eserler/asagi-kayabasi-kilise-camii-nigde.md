@@ -5,10 +5,10 @@ slug: "asagi-kayabasi-kilise-camii-nigde"
 description: "## Aşağı Kayabaşı Kilise Camii: Bir Tarihsel ve Kültürel Miras..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6677933,37.966526"
 draft: "false"
 weight: "999"

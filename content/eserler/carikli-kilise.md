@@ -5,10 +5,10 @@ slug: "carikli-kilise"
 description: "## Çarıklı Kilise: Göreme'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Çarikli_Church-20090910-DSCF0762.jpg/1200px-Çarikli_Church-20090910-DSCF0762.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8463672,38.6389208"
 draft: "false"
 weight: "10"

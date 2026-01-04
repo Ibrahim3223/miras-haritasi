@@ -5,10 +5,10 @@ slug: "aziz-klemens-kilisesi"
 description: "## Aziz Klemens Kilisesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.85988889,39.93916667"
 draft: "false"
 weight: "999"

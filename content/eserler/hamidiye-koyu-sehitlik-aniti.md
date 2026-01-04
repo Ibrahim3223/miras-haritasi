@@ -5,10 +5,10 @@ slug: "hamidiye-koyu-sehitlik-aniti"
 description: "## Hamidiye Köyü Şehitlik Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Çatalzeytin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.18293,41.9240417"
 draft: "false"
 weight: "999"

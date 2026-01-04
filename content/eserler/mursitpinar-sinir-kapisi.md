@@ -5,10 +5,10 @@ slug: "mursitpinar-sinir-kapisi"
 description: "## Mürşitpınar Sınır Kapısı: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "38.3495,36.8995"
 draft: "false"
 weight: "999"

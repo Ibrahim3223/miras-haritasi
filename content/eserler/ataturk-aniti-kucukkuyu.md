@@ -5,10 +5,10 @@ slug: "ataturk-aniti-kucukkuyu"
 description: "## Atatürk Anıtı, Küçükkuyu: Çanakkale'nin Kahraman Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6051674,39.545475"
 draft: "false"
 weight: "999"

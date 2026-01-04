@@ -5,10 +5,10 @@ slug: "kerkoporta"
 description: "## Kerkoporta: Anadolu'nun Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Constantinoplewalls1.jpg/1200px-Constantinoplewalls1.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

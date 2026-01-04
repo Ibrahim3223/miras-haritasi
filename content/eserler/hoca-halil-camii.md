@@ -5,10 +5,10 @@ slug: "hoca-halil-camii"
 description: "## Hoca Halil Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hoca_Halil_Camii.jpg/1200px-Hoca_Halil_Camii.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.717706,41.007982"
 draft: "false"
 weight: "10"

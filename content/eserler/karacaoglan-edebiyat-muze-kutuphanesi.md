@@ -5,10 +5,10 @@ slug: "karacaoglan-edebiyat-muze-kutuphanesi"
 description: "## Karacaoğlan Edebiyat Müze Kütüphanesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.3295174,36.9797478"
 draft: "false"
 weight: "999"

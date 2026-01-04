@@ -5,10 +5,10 @@ slug: "sultan-suleyman-han-camii"
 description: "### Sultan Süleyman Han Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.454519,40.452006"
 draft: "false"
 weight: "999"

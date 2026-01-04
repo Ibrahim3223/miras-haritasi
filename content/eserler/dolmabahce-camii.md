@@ -5,10 +5,10 @@ slug: "dolmabahce-camii"
 description: "## Dolmabahçe Camii: İstanbul'un Yüzyıllık Tarihi ve Mimarisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dolmabahçe_Mosque_Mars_2013.jpg/1200px-Dolmabahçe_Mosque_Mars_2013.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.99528889,41.03672778"
 draft: "false"
 weight: "10"

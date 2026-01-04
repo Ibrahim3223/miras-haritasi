@@ -5,10 +5,10 @@ slug: "kandahar-kalesi"
 description: "## Kandahar Kalesi: Van'ın Tarihi Örenleri Arasındaki Bir Ünlü..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Muradiye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.7631874,38.9947433"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gentinos"
 description: "## Gentinos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.279146,39.876943"
 draft: "false"
 weight: "999"

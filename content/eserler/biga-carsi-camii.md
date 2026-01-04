@@ -5,10 +5,10 @@ slug: "biga-carsi-camii"
 description: "## Biga Çarşı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Biga_Çarşı_Cami_ve_Şadırvanı–IMG_5362.jpg/1200px-Biga_Çarşı_Cami_ve_Şadırvanı–IMG_5362.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2412872,40.2275162"
 draft: "false"
 weight: "10"

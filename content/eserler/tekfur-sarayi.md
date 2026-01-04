@@ -5,10 +5,10 @@ slug: "tekfur-sarayi"
 description: "## Tekfur Sarayı: İstanbul'un Gizli Çarpıntısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Palace_of_Porphyrogenitus_2007_016.jpg/1200px-Palace_of_Porphyrogenitus_2007_016.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.940278,41.033889"
 draft: "false"
 weight: "10"

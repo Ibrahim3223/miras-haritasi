@@ -5,10 +5,10 @@ slug: "aksemseddin-camii"
 description: "## Akşemseddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/51/Ankara_Bat%C4%B1kent_Yenimahalle_Ak%C5%9Femseddin_Camii_in_2011_02.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

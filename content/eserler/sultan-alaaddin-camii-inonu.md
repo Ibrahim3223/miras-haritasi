@@ -5,10 +5,10 @@ slug: "sultan-alaaddin-camii-inonu"
 description: "## Sultan Alaaddin Camii (İnönü)..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "İnönü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1412792,39.8141212"
 draft: "false"
 weight: "999"

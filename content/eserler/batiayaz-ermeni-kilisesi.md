@@ -5,10 +5,10 @@ slug: "batiayaz-ermeni-kilisesi"
 description: "## Batıayaz Ermeni Kilisesi: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.988903,36.1667557"
 draft: "false"
 weight: "999"

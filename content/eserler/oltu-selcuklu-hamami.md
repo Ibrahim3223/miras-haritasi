@@ -5,10 +5,10 @@ slug: "oltu-selcuklu-hamami"
 description: "## Oltu Selçuklu Hamamı: Tarihî Bir Mirasın Anıtsal Örneği..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.9941483,40.5430374"
 draft: "false"
 weight: "999"

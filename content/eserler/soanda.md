@@ -5,10 +5,10 @@ slug: "soanda"
 description: "## Soanda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.520165,39.299498"
 draft: "false"
 weight: "999"

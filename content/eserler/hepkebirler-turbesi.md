@@ -5,10 +5,10 @@ slug: "hepkebirler-turbesi"
 description: "## Hepkebirler Türbesi: Kastamonu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7730249,41.374836"
 draft: "false"
 weight: "999"

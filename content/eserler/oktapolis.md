@@ -5,10 +5,10 @@ slug: "oktapolis"
 description: "## Oktapolis: Muğla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.930005,36.815349"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "civil-basilica-at-aphrodisias-in-caria"
 description: "## Aphrodisias'taki Sivil Bazilika..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.723128602,37.707006468"
 draft: "false"
 weight: "999"

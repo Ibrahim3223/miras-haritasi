@@ -5,10 +5,10 @@ slug: "arasta-hamami"
 description: "## Arasta Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9768887,41.0040169"
 draft: "false"
 weight: "999"

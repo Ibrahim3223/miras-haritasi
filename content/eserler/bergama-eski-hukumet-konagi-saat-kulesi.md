@@ -5,10 +5,10 @@ slug: "bergama-eski-hukumet-konagi-saat-kulesi"
 description: "### Bergama Eski Hükümet Konağı Saat Kulesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.1767882,39.1180665"
 draft: "false"
 weight: "999"

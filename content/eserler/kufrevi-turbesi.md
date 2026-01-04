@@ -5,10 +5,10 @@ slug: "kufrevi-turbesi"
 description: "### Küfrevi Türbesi: Bitlis'in Gizli Değerleri..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1108,38.4015"
 draft: "false"
 weight: "999"

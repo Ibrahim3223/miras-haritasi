@@ -5,10 +5,10 @@ slug: "ramazan-pasa-koprusu"
 description: "### Ramazan Paşa Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4662819,37.7841415"
 draft: "false"
 weight: "999"

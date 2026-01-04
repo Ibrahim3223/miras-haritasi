@@ -5,10 +5,10 @@ slug: "nurettin-hoyugu"
 description: "## Nurettin Höyüğü: Bitlis'in Gizli Ören Yeri..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: '["Bitlis Vilayeti"]'
+iller: ["Bitlis Vilayeti"]
 district: "Malazgirt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.4162764,39.2310251"
 draft: "false"
 weight: "999"

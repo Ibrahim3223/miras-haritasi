@@ -5,10 +5,10 @@ slug: "karamesutlu-hoyuktepe-tumulusu"
 description: "### Karamesutlu Höyüktepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0821342,41.4915504"
 draft: "false"
 weight: "999"

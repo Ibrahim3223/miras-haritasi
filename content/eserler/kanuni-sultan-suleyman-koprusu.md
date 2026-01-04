@@ -5,10 +5,10 @@ slug: "kanuni-sultan-suleyman-koprusu"
 description: "## Kanuni Sultan Süleyman Köprüsü: Büyükçekmece'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BüyükçekmeceBridge_(10).jpg/1200px-BüyükçekmeceBridge_(10).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.57055556,41.02180556"
 draft: "false"
 weight: "10"

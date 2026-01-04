@@ -5,10 +5,10 @@ slug: "bayburt-kalesi"
 description: "## Bayburt Kalesi: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Bayburt_kalesi.JPG/1200px-Bayburt_kalesi.JPG"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.2294,40.2636"
 draft: "false"
 weight: "10"

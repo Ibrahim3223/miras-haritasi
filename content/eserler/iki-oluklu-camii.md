@@ -5,10 +5,10 @@ slug: "iki-oluklu-camii"
 description: "## İki Oluklu Camii: Kuşadası'nın Gizli Cenneti..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2562752,37.8567009"
 draft: "false"
 weight: "999"

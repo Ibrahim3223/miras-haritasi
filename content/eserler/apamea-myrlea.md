@@ -5,10 +5,10 @@ slug: "apamea-myrlea"
 description: "### Apamea Myrlea: Bursa'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Colonias_griegas_en_la_Prop%C3%B3ntide-es.svg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.8833,40.3764"
 draft: "false"
 weight: "999"

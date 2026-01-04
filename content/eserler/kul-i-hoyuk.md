@@ -5,10 +5,10 @@ slug: "kul-i-hoyuk"
 description: "# Kül I Höyük: Türkiye'nin Eski Medeniyetin Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8247531,39.3037591"
 draft: "false"
 weight: "999"

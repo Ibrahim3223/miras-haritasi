@@ -5,10 +5,10 @@ slug: "sapli-adasi"
 description: "## Saplı Adası Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4092,37.410283"
 draft: "false"
 weight: "999"

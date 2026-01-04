@@ -5,10 +5,10 @@ slug: "ani-katedrali"
 description: "## Ani Katedrali: Tarihî Bir Mirasın Etkileyici Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/The_Cathedral_of_Ani.jpg/1200px-The_Cathedral_of_Ani.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.572777777,40.506111111"
 draft: "false"
 weight: "10"

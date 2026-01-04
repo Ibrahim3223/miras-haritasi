@@ -5,10 +5,10 @@ slug: "paravol-mahallesi-camii"
 description: "## Paravol Mahallesi Camii: Güneysu, Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.624968448,40.971957814"
 draft: "false"
 weight: "999"

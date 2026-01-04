@@ -5,10 +5,10 @@ slug: "balaban-camii-sivrihisar"
 description: "## Balaban Camii, Sivrihisar: Eskişehir'in Tarihi bir Öreni..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5420704,39.4496384"
 draft: "false"
 weight: "999"

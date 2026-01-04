@@ -5,10 +5,10 @@ slug: "akincilar-camii"
 description: "## Akıncılar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/76/Sivas_Ak%C4%B1nc%C4%B1lar_Onar%C4%B1_K%C3%B6y%C3%BC.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3699856,37.950592"
 draft: "false"
 weight: "999"

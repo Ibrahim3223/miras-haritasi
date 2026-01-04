@@ -5,10 +5,10 @@ slug: "karyagdi-baba-kabri"
 description: "## Karyağdı Baba Kabri: Eyüpsultan'daki Bir Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.933904669,41.054854431"
 draft: "false"
 weight: "999"

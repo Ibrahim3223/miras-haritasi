@@ -5,10 +5,10 @@ slug: "felhoglu-nureddin-turbesi"
 description: "## Felâhoğlu Nureddin Türbesi..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9010315,36.9195938"
 draft: "false"
 weight: "999"

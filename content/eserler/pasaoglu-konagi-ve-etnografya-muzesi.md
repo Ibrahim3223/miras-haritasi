@@ -5,10 +5,10 @@ slug: "pasaoglu-konagi-ve-etnografya-muzesi"
 description: "## Paşaoğlu Konağı ve Etnografya Müzesi: Altınordu'nun Kültür Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.875168,40.982889"
 draft: "false"
 weight: "999"

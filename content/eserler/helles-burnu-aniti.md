@@ -5,10 +5,10 @@ slug: "helles-burnu-aniti"
 description: "# Helles Burnu Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.1790714,40.045826"
 draft: "false"
 weight: "999"

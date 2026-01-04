@@ -5,10 +5,10 @@ slug: "elmali-kalesi-nigde"
 description: "### Elmalı Kalesi: Niğde'nin Gizli Şehri..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.9694901,37.9994583"
 draft: "false"
 weight: "999"

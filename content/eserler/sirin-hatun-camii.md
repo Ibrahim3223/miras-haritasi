@@ -5,10 +5,10 @@ slug: "sirin-hatun-camii"
 description: "# Şirin Hatun Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7194138,41.002861"
 draft: "false"
 weight: "999"

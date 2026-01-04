@@ -5,10 +5,10 @@ slug: "ortan-koprusu-camlihemsin"
 description: "## Ortan Köprüsü: Rize'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.013066,41.071275"
 draft: "false"
 weight: "999"

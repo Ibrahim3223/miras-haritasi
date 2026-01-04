@@ -5,10 +5,10 @@ slug: "ahmet-arif-edebiyat-muzesi"
 description: "## Ahmet Arif Edebiyat Müzesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.2356,37.9128"
 draft: "false"
 weight: "999"

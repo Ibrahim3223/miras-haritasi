@@ -5,10 +5,10 @@ slug: "bekirli-koyu-eski-cami"
 description: "## Bekirli Köyü Eski Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3001213,41.2261429"
 draft: "false"
 weight: "999"

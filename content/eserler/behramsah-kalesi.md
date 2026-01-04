@@ -5,10 +5,10 @@ slug: "behramsah-kalesi"
 description: "# Behramşah Kalesi: Yozgat'ın Gizli Çarpıcılığı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Akdağmadeni"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.8377135,39.7425208"
 draft: "false"
 weight: "999"

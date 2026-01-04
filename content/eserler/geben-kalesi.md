@@ -5,10 +5,10 @@ slug: "geben-kalesi"
 description: "## Geben Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Andırın"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.4082489,37.8145905"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dedeninyani-tumulusu"
 description: "### Dedeninyanı Tümülüsü..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4107952,39.6974754"
 draft: "false"
 weight: "999"

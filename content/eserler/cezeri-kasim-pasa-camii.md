@@ -5,10 +5,10 @@ slug: "cezeri-kasim-pasa-camii"
 description: "### Cezeri Kasım Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Cezeri_Kasım_Paşa_Camii.jpg/1200px-Cezeri_Kasım_Paşa_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.974267069,41.010153264"
 draft: "false"
 weight: "10"

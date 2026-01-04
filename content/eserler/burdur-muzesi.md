@@ -5,10 +5,10 @@ slug: "burdur-muzesi"
 description: "## Burdur Müzesi: Tarihî Eserler ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Museum_Burdur_01.jpg/1200px-Museum_Burdur_01.jpg"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.286,37.7195"
 draft: "false"
 weight: "10"

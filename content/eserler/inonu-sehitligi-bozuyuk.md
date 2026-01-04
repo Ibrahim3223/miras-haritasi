@@ -5,10 +5,10 @@ slug: "inonu-sehitligi-bozuyuk"
 description: "## İnönü Şehitliği, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0990276,39.8793945"
 draft: "false"
 weight: "999"

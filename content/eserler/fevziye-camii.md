@@ -5,10 +5,10 @@ slug: "fevziye-camii"
 description: "## Fevziye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fevziye_camii_kapısı_*©Abdullah_Kiyga_-_panoramio.jpg/1200px-Fevziye_camii_kapısı_*©Abdullah_Kiyga_-_panoramio.jpg"
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.925583333,40.762555555"
 draft: "false"
 weight: "10"

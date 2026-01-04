@@ -5,10 +5,10 @@ slug: "bagarcik-yukari-yerlesme"
 description: "## Bağarcık Yukarı Yerleşme: Aydın'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6193466,37.539505"
 draft: "false"
 weight: "999"

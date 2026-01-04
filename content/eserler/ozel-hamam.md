@@ -5,10 +5,10 @@ slug: "ozel-hamam"
 description: "## Özel Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7848644,37.314743"
 draft: "false"
 weight: "999"

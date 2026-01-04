@@ -5,10 +5,10 @@ slug: "yenice-koyu-camii"
 description: "## Yenice Köyü Camii: Yapraklı, Çankırı'da Bir Osmanlı Dönemi Mimari Harikası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Yapraklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.847805,40.6874237"
 draft: "false"
 weight: "999"

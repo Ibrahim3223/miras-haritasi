@@ -5,10 +5,10 @@ slug: "yenice-koprusu"
 description: "### Yenice Köprüsü: Geçişin Gizemi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.135685,40.91391"
 draft: "false"
 weight: "999"

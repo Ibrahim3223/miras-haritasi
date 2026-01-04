@@ -5,10 +5,10 @@ slug: "buca-ortodoks-kilisesi"
 description: "### Buca Ortodoks Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1811733,38.3868332"
 draft: "false"
 weight: "999"

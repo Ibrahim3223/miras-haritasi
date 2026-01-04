@@ -5,10 +5,10 @@ slug: "cahidi-sultan-turbesi"
 description: "### Cahidi Sultan Türbesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3768,40.1476"
 draft: "false"
 weight: "999"

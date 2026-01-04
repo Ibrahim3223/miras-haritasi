@@ -5,10 +5,10 @@ slug: "canakkale-hamidiye-tabyasi-sehitligi"
 description: "## Çanakkale Hamidiye Tabyası Şehitliği..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4063091,40.1338081"
 draft: "false"
 weight: "999"

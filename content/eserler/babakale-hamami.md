@@ -5,10 +5,10 @@ slug: "babakale-hamami"
 description: "## Babakale Hamamı Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.0659008,39.4789009"
 draft: "false"
 weight: "999"

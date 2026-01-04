@@ -5,10 +5,10 @@ slug: "sems-bezirgan-camii"
 description: "## Şems Bezirgan Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.1188354,39.3731155"
 draft: "false"
 weight: "999"

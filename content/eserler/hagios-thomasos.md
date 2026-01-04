@@ -5,10 +5,10 @@ slug: "hagios-thomasos"
 description: "### Hagios Thomasos: Kayseri'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.799025,38.448057"
 draft: "false"
 weight: "999"

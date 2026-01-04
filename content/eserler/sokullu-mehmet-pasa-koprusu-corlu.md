@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-koprusu-corlu"
 description: "## Sokullu Mehmet Paşa Köprüsü: Ergene Nehrinin Tarihî Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Ergene"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7772503,41.1808586"
 draft: "false"
 weight: "999"

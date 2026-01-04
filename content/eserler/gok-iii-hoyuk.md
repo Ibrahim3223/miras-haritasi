@@ -5,10 +5,10 @@ slug: "gok-iii-hoyuk"
 description: "### Gök III Höyük: Türkiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3115849,39.5106733"
 draft: "false"
 weight: "999"

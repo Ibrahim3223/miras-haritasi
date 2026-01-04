@@ -5,10 +5,10 @@ slug: "lale-camii"
 description: "## Lale Camii: Kırşehir'in Muhteşem Camii..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.1628494,39.1440659"
 draft: "false"
 weight: "999"

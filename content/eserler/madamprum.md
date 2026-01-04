@@ -5,10 +5,10 @@ slug: "madamprum"
 description: "### Madamprum Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8536,37.12157"
 draft: "false"
 weight: "999"

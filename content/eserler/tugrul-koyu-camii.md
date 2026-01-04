@@ -5,10 +5,10 @@ slug: "tugrul-koyu-camii"
 description: "## Tuğrul Köyü Camii..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5563087,36.5364494"
 draft: "false"
 weight: "999"

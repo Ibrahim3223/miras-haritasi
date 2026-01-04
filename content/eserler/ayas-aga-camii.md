@@ -5,10 +5,10 @@ slug: "ayas-aga-camii"
 description: "### Ayas Ağa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8332214,40.658741"
 draft: "false"
 weight: "999"

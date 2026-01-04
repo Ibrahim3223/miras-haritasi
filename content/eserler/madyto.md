@@ -5,10 +5,10 @@ slug: "madyto"
 description: "## Madyto Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.356389,40.183889"
 draft: "false"
 weight: "999"

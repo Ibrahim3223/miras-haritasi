@@ -5,10 +5,10 @@ slug: "eskisehir-carsi-camii"
 description: "## Eskişehir Çarşı Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5192146,39.7739639"
 draft: "false"
 weight: "999"

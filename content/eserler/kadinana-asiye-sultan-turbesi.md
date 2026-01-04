@@ -5,10 +5,10 @@ slug: "kadinana-asiye-sultan-turbesi"
 description: "## Kadınana Asiye Sultan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.540083,38.754942"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alemsah-turbesi"
 description: "## Alemşah Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.1722,39.6981"
 draft: "false"
 weight: "999"

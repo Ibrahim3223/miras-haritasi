@@ -5,10 +5,10 @@ slug: "gaziantep-araban-ilce-halk-kutuphanesi"
 description: "## Gaziantep Araban İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "37.687614011,37.425044587"
 draft: "false"
 weight: "999"

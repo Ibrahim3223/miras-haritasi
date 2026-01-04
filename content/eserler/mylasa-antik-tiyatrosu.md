@@ -5,10 +5,10 @@ slug: "mylasa-antik-tiyatrosu"
 description: "## Mylasa Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7898521,37.3166199"
 draft: "false"
 weight: "999"

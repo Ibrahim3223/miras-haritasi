@@ -5,10 +5,10 @@ slug: "ali-dede-turbesi"
 description: "### Ali Dede Türbesi: Akçakoca'da Bir Tarihî Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/%C5%9Eanl%C4%B1urfa_%C5%9Eeyh_Ali_Dede_T%C3%BCrbesi_3480.jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.110991,41.056017"
 draft: "false"
 weight: "999"

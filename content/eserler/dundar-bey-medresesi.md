@@ -5,10 +5,10 @@ slug: "dundar-bey-medresesi"
 description: "## Dündar Bey Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Eğirdir_Dündar_Bey_Medresesi_and_Hızır_Bey_Camii_3009.jpg/1200px-Eğirdir_Dündar_Bey_Medresesi_and_Hızır_Bey_Camii_3009.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.8506184,37.875"
 draft: "false"
 weight: "10"

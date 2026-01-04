@@ -5,10 +5,10 @@ slug: "esrefoglu-camii"
 description: "## Eşrefoğlu Camii: Beyşehir'in Önemli Camilerinden Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Esrefoglu7.jpg/1200px-Esrefoglu7.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.7197,37.6832"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "pissia"
 description: "## Pissia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.542903,38.25813"
 draft: "false"
 weight: "999"

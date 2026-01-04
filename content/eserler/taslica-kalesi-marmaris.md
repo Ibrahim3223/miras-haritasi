@@ -5,10 +5,10 @@ slug: "taslica-kalesi-marmaris"
 description: "## Taşlıca Kalesi: Marmaris'in Gizli Çehresini İnceliyorsunuz..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1267624,36.6275864"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pazar-camii-turgutlu"
 description: "## Pazar Camii, Turgutlu..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7095509,38.4997292"
 draft: "false"
 weight: "999"

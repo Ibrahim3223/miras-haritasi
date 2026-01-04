@@ -5,10 +5,10 @@ slug: "bandirma-vapuru-ve-mill-mucadele-parki-acik-hava-muzesi"
 description: "## Bandırma Vapuru ve Millî Mücadele Parkı Açık Hava Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bandırma_Vapuru_ve_Millî_Mücadele_Parkı_Açık_Hava_Müzesi_girişi.JPG/1200px-Bandırma_Vapuru_ve_Millî_Mücadele_Parkı_Açık_Hava_Müzesi_girişi.JPG"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Canik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.367453,41.27353"
 draft: "false"
 weight: "10"

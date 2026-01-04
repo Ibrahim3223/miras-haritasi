@@ -5,10 +5,10 @@ slug: "mihrimah-sultan-camii"
 description: "**Mihrimah Sultan Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Istanbul_-_Mesquita_de_Mihrimah.JPG/1200px-Istanbul_-_Mesquita_de_Mihrimah.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.935833333,41.029166666"
 draft: "false"
 weight: "10"

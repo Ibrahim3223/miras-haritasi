@@ -5,10 +5,10 @@ slug: "begrahatuni-kilisesi"
 description: "## Begrahatuni Kilisesi..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Eskibeyrehatun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.954388888,41.122611111"
 draft: "false"
 weight: "999"

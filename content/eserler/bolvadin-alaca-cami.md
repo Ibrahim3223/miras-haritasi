@@ -5,10 +5,10 @@ slug: "bolvadin-alaca-cami"
 description: "### Bolvadin Alaca Cami Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0477543,38.7091408"
 draft: "false"
 weight: "999"

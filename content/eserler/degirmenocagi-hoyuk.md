@@ -5,10 +5,10 @@ slug: "degirmenocagi-hoyuk"
 description: "### Değirmenocağı Höyük: Mucur'un Yüzyıllarca Eski Tarihi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3114361,39.0999172"
 draft: "false"
 weight: "999"

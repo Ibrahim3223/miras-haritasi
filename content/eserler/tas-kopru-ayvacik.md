@@ -5,10 +5,10 @@ slug: "tas-kopru-ayvacik"
 description: "# Taş Köprü – Ayvacık: Turgutlu, Manisa'daki Bir Geçmiş Eser..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7842445,38.4305038"
 draft: "false"
 weight: "999"

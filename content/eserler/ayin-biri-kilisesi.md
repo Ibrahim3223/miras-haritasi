@@ -5,10 +5,10 @@ slug: "ayin-biri-kilisesi"
 description: "## Ayın Biri Kilisesi: İstanbul'un Gizemli Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9588184,41.0181808"
 draft: "false"
 weight: "999"

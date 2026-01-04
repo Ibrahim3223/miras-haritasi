@@ -5,10 +5,10 @@ slug: "seyyid-taceddin-ahmet-turbesi"
 description: "## Seyyid Taceddin Ahmet Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Seyyid_Taceddin_Ahmet_Türbesi_04.jpg/1200px-Seyyid_Taceddin_Ahmet_Türbesi_04.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.4104004,38.3528137"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "narlikapi-surp-hovhannes-kilisesi"
 description: "# Narlıkapı Surp Hovhannes Kilisesi: İstanbul'un Gizli Çarpısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Narlıkapı_Surp_Hovhannes_Kilisesi,_Fatih,_İstanbul_2025.jpg/1200px-Narlıkapı_Surp_Hovhannes_Kilisesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.929765,40.994735"
 draft: "false"
 weight: "10"

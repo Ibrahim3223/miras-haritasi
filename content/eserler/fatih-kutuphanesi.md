@@ -5,10 +5,10 @@ slug: "fatih-kutuphanesi"
 description: "## Fatih Kütüphanesi: İstanbul'un Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Fatih_Kütüphanesi.jpg/1200px-Fatih_Kütüphanesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9500313,41.0192108"
 draft: "false"
 weight: "10"

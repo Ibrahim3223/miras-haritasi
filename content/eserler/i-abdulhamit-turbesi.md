@@ -5,10 +5,10 @@ slug: "i-abdulhamit-turbesi"
 description: "**I. Abdülhamit Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/MausoleumAbdulHamid_I.jpg/1200px-MausoleumAbdulHamid_I.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.974138,41.015522"
 draft: "false"
 weight: "10"

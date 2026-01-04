@@ -5,10 +5,10 @@ slug: "mustafa-aga-mescidi-tarsus"
 description: "### Mustafa Ağa Mescidi, Tarsus..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8973999,36.9167633"
 draft: "false"
 weight: "999"

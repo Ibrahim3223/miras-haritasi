@@ -5,10 +5,10 @@ slug: "samancioglu-camii"
 description: "## Samancıoğlu Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1340218,38.2476807"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tzinobani-kilisesi"
 description: "**Tzinobani Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.496963888,41.322463888"
 draft: "false"
 weight: "999"

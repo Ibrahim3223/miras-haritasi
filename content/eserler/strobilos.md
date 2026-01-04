@@ -5,10 +5,10 @@ slug: "strobilos"
 description: "# Strobilos: Yalova'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Çiftlikköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.335621,40.654483"
 draft: "false"
 weight: "999"

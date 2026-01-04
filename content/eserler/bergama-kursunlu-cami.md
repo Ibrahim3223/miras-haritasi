@@ -5,10 +5,10 @@ slug: "bergama-kursunlu-cami"
 description: "## Bergama Kurşunlı Camii: Tarihi bir Mirasın Ekseni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Kursunlu_Mosque,_Bergama.jpg/1200px-Kursunlu_Mosque,_Bergama.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1767989,39.118371"
 draft: "false"
 weight: "10"

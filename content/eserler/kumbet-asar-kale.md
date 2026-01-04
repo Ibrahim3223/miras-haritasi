@@ -5,10 +5,10 @@ slug: "kumbet-asar-kale"
 description: "## Kümbet Asar Kale: Eskişehir'in Gizli Kalesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.6179199,39.2260208"
 draft: "false"
 weight: "999"

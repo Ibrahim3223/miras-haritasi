@@ -5,10 +5,10 @@ slug: "yesildere-merkez-camii"
 description: "## Yeşildere Merkez Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5126572,37.1566963"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mersin-saat-kulesi"
 description: "### Mersin Saat Kulesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "34.634194444,36.801083333"
 draft: "false"
 weight: "999"

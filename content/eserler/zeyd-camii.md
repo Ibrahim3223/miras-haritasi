@@ -5,10 +5,10 @@ slug: "zeyd-camii"
 description: "### Zeyd Camii: Mardin'in Tarihî Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.736391,37.31213"
 draft: "false"
 weight: "999"

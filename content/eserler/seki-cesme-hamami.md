@@ -5,10 +5,10 @@ slug: "seki-cesme-hamami"
 description: "### Seki Çeşme Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.222023,37.1800728"
 draft: "false"
 weight: "999"

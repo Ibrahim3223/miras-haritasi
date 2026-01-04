@@ -5,10 +5,10 @@ slug: "karatekin-turbesi"
 description: "## Karatekin Türbesi: Çankırı'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.616642,40.6082001"
 draft: "false"
 weight: "999"

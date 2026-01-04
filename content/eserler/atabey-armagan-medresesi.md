@@ -5,10 +5,10 @@ slug: "atabey-armagan-medresesi"
 description: "### Atabey Armağan Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c0/Atabey_Arma%C4%9Fan_Medresesi.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.7047806,36.886425"
 draft: "false"
 weight: "999"

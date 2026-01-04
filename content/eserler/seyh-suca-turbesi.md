@@ -5,10 +5,10 @@ slug: "seyh-suca-turbesi"
 description: "### Şeyh Şüca Türbesi: Antalya'nın Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7158108,36.8882294"
 draft: "false"
 weight: "999"

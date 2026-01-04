@@ -5,10 +5,10 @@ slug: "mustafa-pasa-medresesi"
 description: "## Mustafa Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9567223,41.0068626"
 draft: "false"
 weight: "999"

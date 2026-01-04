@@ -5,10 +5,10 @@ slug: "osman-kayasi"
 description: "### Osman Kayası: Çorum'un Tarihî Bir Şehri..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.62731,40.02403"
 draft: "false"
 weight: "999"

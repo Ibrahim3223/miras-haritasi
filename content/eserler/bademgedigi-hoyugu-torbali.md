@@ -5,10 +5,10 @@ slug: "bademgedigi-hoyugu-torbali"
 description: "## Bademgediği Höyüğü, Torbalı: İzmir'in Gizli Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.30915,38.180317"
 draft: "false"
 weight: "999"

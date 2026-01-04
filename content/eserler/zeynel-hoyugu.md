@@ -5,10 +5,10 @@ slug: "zeynel-hoyugu"
 description: "## Zeynel Höyüğü: Yozgat'ın Gizli Tarihi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.3058051,39.6935517"
 draft: "false"
 weight: "999"

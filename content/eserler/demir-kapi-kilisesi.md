@@ -5,10 +5,10 @@ slug: "demir-kapi-kilisesi"
 description: "## Demir Kapı Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0418816,40.188446"
 draft: "false"
 weight: "999"

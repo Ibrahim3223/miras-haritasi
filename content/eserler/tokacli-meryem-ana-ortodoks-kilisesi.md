@@ -5,10 +5,10 @@ slug: "tokacli-meryem-ana-ortodoks-kilisesi"
 description: "## Tokaçlı Meryem Ana Ortodoks Kilisesi: Altınözü'ndeki Bir Azizin Evi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Altınözü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.259819,36.1015434"
 draft: "false"
 weight: "999"

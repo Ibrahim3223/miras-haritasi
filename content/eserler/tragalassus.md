@@ -5,10 +5,10 @@ slug: "tragalassus"
 description: "## Tragalassus: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8459,36.3189"
 draft: "false"
 weight: "999"

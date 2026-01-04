@@ -5,10 +5,10 @@ slug: "baris-ve-kultur-heykeli"
 description: "# Barış ve Kültür Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Belgradkapı-heykel.JPG/1200px-Belgradkapı-heykel.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.919536836,40.99996042"
 draft: "false"
 weight: "10"

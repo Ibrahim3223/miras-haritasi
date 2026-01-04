@@ -5,10 +5,10 @@ slug: "iltekin-gazi-koprusu"
 description: "## İltekin Gazi Köprüsü: Amasya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.8113098,40.6181602"
 draft: "false"
 weight: "999"

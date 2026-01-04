@@ -5,10 +5,10 @@ slug: "kadi-mehmet-efendi-kabri"
 description: "## Kadı Mehmet Efendi Kabri: Beyoğlu'ndaki Bir Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9700584,41.0357704"
 draft: "false"
 weight: "999"

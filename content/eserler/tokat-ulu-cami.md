@@ -5,10 +5,10 @@ slug: "tokat-ulu-cami"
 description: "## Tokat Ulu Camii: Tarih ve Kültürel Mirasın Bir Zirvesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.547972222,40.316527777"
 draft: "false"
 weight: "999"

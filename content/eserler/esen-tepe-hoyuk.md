@@ -5,10 +5,10 @@ slug: "esen-tepe-hoyuk"
 description: "## Esen Tepe Höyük: Hatay'ın Gizli Mimari İncilisi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4281026,36.4611912"
 draft: "false"
 weight: "999"

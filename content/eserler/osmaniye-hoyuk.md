@@ -5,10 +5,10 @@ slug: "osmaniye-hoyuk"
 description: "## Osmaniye Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.902767,39.85335"
 draft: "false"
 weight: "999"

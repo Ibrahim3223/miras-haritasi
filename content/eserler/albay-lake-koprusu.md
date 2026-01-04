@@ -5,10 +5,10 @@ slug: "albay-lake-koprusu"
 description: "## Albay Lake Köprüsü..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.09928,40.62229"
 draft: "false"
 weight: "999"

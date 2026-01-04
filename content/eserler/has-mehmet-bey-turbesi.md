@@ -5,10 +5,10 @@ slug: "has-mehmet-bey-turbesi"
 description: "## Has Mehmet Bey Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2429237,40.1167374"
 draft: "false"
 weight: "999"

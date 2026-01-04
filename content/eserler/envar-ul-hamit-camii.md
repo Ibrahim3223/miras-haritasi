@@ -5,10 +5,10 @@ slug: "envar-ul-hamit-camii"
 description: "## Envar-ül Hamit Camii: Osmaniye'nin Göbeğinde Bir Özenli Mimarlık Eseri..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.251461,37.0725746"
 draft: "false"
 weight: "999"

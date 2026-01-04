@@ -5,10 +5,10 @@ slug: "bilecik-yasayan-sehir-muzesi"
 description: "## Bilecik Yaşayan Şehir Müzesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9775887,40.1561661"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yugucek-hoyuk"
 description: "# Yüğücek Höyük: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.720663,40.41901"
 draft: "false"
 weight: "999"

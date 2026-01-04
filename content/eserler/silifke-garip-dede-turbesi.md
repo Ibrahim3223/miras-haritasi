@@ -5,10 +5,10 @@ slug: "silifke-garip-dede-turbesi"
 description: "## Silifke Garip Dede Türbesi: Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9248631,36.373417"
 draft: "false"
 weight: "999"

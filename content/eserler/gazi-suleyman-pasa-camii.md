@@ -5,10 +5,10 @@ slug: "gazi-suleyman-pasa-camii"
 description: "## Gazi Süleyman Paşa Camii: Gelibolu'nun Tarihî Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.755575013,40.514361277"
 draft: "false"
 weight: "999"

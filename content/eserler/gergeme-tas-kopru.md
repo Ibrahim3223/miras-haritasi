@@ -5,10 +5,10 @@ slug: "gergeme-tas-kopru"
 description: "# Gergeme Taş Köprü..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.818523,38.849251"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hidirlik-mescidi-aksehir"
 description: "## Hıdırlık Mescidi, Akşehir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hıdırlık_Mescidi,_2025,_03.jpg/1200px-Hıdırlık_Mescidi,_2025,_03.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.414802,38.348798"
 draft: "false"
 weight: "10"

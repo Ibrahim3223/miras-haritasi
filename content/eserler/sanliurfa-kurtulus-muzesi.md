@@ -5,10 +5,10 @@ slug: "sanliurfa-kurtulus-muzesi"
 description: "## Şanlıurfa Kurtuluş Müzesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.788098,37.157948"
 draft: "false"
 weight: "999"

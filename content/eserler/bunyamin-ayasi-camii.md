@@ -5,10 +5,10 @@ slug: "bunyamin-ayasi-camii"
 description: "## Bünyamin Ayaşi Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3341637,40.0157967"
 draft: "false"
 weight: "999"

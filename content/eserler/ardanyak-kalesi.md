@@ -5,10 +5,10 @@ slug: "ardanyak-kalesi"
 description: "## Ardanyak Kalesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır eyaleti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.43948,41.054436"
 draft: "false"
 weight: "999"

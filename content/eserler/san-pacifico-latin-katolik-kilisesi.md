@@ -5,10 +5,10 @@ slug: "san-pacifico-latin-katolik-kilisesi"
 description: "## San Pacifico Latin Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1277485,40.8721581"
 draft: "false"
 weight: "999"

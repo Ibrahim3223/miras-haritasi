@@ -5,10 +5,10 @@ slug: "tavsanli-hoyuk"
 description: "## Tavşanlı Höyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.485383,39.529617"
 draft: "false"
 weight: "999"

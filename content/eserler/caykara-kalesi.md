@@ -5,10 +5,10 @@ slug: "caykara-kalesi"
 description: "## Çaykara Kalesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.2565002,40.7450294"
 draft: "false"
 weight: "999"

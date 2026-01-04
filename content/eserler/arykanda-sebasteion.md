@@ -5,10 +5,10 @@ slug: "arykanda-sebasteion"
 description: "## Arykanda Sebasteion: Antik Yunanistan'ın Gizli Çehresini İleri Söyleyen Bir Kilise..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.056942,36.5147171"
 draft: "false"
 weight: "999"

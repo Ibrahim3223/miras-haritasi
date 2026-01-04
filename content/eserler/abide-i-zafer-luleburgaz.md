@@ -5,10 +5,10 @@ slug: "abide-i-zafer-luleburgaz"
 description: "## Abide-i Zafer, Lüleburgaz: Tarihin ve Zaferin Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3335495,41.355896"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-kiriaki-kilisesi"
 description: "## Aya Kiriaki Kilisesi: Kırklareli'nin Gizli Bir Cezvesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.0697765,41.8323059"
 draft: "false"
 weight: "999"

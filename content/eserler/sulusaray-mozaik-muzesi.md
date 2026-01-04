@@ -5,10 +5,10 @@ slug: "sulusaray-mozaik-muzesi"
 description: "## Sulusaray Mozaik Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Sulusaray"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.09446,39.996232"
 draft: "false"
 weight: "999"

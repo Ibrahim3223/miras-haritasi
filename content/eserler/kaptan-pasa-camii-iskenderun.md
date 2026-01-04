@@ -5,10 +5,10 @@ slug: "kaptan-pasa-camii-iskenderun"
 description: "## Kaptan Paşa Camii: İskenderun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1717033,36.5896378"
 draft: "false"
 weight: "999"

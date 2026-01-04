@@ -5,10 +5,10 @@ slug: "ciftepinarlar-camii"
 description: "## Çiftepınarlar Camii: Düzce'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.1528816,40.9070702"
 draft: "false"
 weight: "999"

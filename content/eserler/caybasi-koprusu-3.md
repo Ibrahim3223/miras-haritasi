@@ -5,10 +5,10 @@ slug: "caybasi-koprusu-3"
 description: "## Çaybaşı Köprüsü-3: Manisa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4228935,38.6056709"
 draft: "false"
 weight: "999"

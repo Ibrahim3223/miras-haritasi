@@ -5,10 +5,10 @@ slug: "yumruktepe"
 description: "## Yumruktepe Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Beyköy_02.jpg/1200px-Beyköy_02.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.473028,39.047444"
 draft: "false"
 weight: "10"

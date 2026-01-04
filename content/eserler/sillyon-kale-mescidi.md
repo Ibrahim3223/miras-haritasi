@@ -5,10 +5,10 @@ slug: "sillyon-kale-mescidi"
 description: "## Sillyon Kale Mescidi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.987135944,36.992923917"
 draft: "false"
 weight: "999"

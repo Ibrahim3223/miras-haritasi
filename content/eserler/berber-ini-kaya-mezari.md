@@ -5,10 +5,10 @@ slug: "berber-ini-kaya-mezari"
 description: "### Berber İni Kaya Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7660122,37.2857323"
 draft: "false"
 weight: "999"

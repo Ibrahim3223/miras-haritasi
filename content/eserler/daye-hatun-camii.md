@@ -5,10 +5,10 @@ slug: "daye-hatun-camii"
 description: "## Daye Hatun Camii: İstanbul'un Gizli Çağı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.972064,41.080713"
 draft: "false"
 weight: "999"

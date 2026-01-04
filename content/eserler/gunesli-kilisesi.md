@@ -5,10 +5,10 @@ slug: "gunesli-kilisesi"
 description: "### Güneşli Kilisesi: Kayseri'nin Eski Kenti Kocasinan'da Gizli Bir Miras..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.6192513,38.8970604"
 draft: "false"
 weight: "999"

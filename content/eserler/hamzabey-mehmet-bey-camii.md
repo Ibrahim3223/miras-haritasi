@@ -5,10 +5,10 @@ slug: "hamzabey-mehmet-bey-camii"
 description: "### Hamzabey Mehmet Bey Camii: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5258389,40.1338882"
 draft: "false"
 weight: "999"

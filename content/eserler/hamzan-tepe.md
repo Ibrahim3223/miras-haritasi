@@ -5,10 +5,10 @@ slug: "hamzan-tepe"
 description: "**Hamzan Tepe: Şanlıurfa'nın Gizli Öyküsü**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.8014984,37.0827751"
 draft: "false"
 weight: "999"

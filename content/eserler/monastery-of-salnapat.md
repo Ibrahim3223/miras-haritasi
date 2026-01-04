@@ -5,10 +5,10 @@ slug: "monastery-of-salnapat"
 description: "## Monastery of Salnapat: Van'ın Gizli Mabeti..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

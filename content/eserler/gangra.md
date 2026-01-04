@@ -5,10 +5,10 @@ slug: "gangra"
 description: "## Gangra Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6172,40.603"
 draft: "false"
 weight: "999"

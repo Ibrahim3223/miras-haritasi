@@ -5,10 +5,10 @@ slug: "mevlut-efendi-camii"
 description: "### Mevlüt Efendi Camii: Ardahan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Ardahan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.699888888,41.117972222"
 draft: "false"
 weight: "999"

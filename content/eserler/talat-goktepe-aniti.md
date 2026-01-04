@@ -5,10 +5,10 @@ slug: "talat-goktepe-aniti"
 description: "## Talat Göktepe Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3025665,40.2472115"
 draft: "false"
 weight: "999"

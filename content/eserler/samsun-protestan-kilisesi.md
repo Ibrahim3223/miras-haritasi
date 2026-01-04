@@ -5,10 +5,10 @@ slug: "samsun-protestan-kilisesi"
 description: "## Samsun Protestan Kilisesi: Tarihi ve Kültürel Mirasın Parıldayışı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

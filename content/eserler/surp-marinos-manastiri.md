@@ -5,10 +5,10 @@ slug: "surp-marinos-manastiri"
 description: "## Surp Marinos Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.356671012,38.345607585"
 draft: "false"
 weight: "999"

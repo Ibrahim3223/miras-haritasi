@@ -5,10 +5,10 @@ slug: "andriake-a-kilisesi"
 description: "## Andriake A Kilisesi: Demre'nin Hellenistik Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9586926,36.2273674"
 draft: "false"
 weight: "999"

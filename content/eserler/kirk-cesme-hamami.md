@@ -5,10 +5,10 @@ slug: "kirk-cesme-hamami"
 description: "### Kırk Çeşme Hamamı: Erzurum'un Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2748901,39.9089472"
 draft: "false"
 weight: "999"

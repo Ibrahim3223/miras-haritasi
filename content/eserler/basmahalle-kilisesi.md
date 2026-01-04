@@ -5,10 +5,10 @@ slug: "basmahalle-kilisesi"
 description: "## Başmahalle Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.9723701,40.5096054"
 draft: "false"
 weight: "999"

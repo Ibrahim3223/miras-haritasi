@@ -5,10 +5,10 @@ slug: "halide-edip-adivar-ve-kadin-kahramanlar-muzesi"
 description: "## Halide Edip Adıvar ve Kadın Kahramanlar Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.0764809,39.5028534"
 draft: "false"
 weight: "999"

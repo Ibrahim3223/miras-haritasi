@@ -5,10 +5,10 @@ slug: "arapzade-camii"
 description: "# Arapzade Camii: Tavşanlı'nın Değerli Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arapzade_Mosque_%C4%B0zmit%2C_Kocaeli_22.11.2025_05.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4912071,39.5455742"
 draft: "false"
 weight: "999"

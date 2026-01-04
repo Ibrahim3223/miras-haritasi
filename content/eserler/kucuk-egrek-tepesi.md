@@ -5,10 +5,10 @@ slug: "kucuk-egrek-tepesi"
 description: "## Küçük Eğrek Tepesi Arkeolojik Sit..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8131149,39.5786241"
 draft: "false"
 weight: "999"

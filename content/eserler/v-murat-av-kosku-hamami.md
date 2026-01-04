@@ -5,10 +5,10 @@ slug: "v-murat-av-kosku-hamami"
 description: "## V. Murat Av Köşkü Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0532856,40.9875755"
 draft: "false"
 weight: "999"

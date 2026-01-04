@@ -5,10 +5,10 @@ slug: "uzunkoy-kalesi"
 description: "### Uzunköy Kalesi: Mardin'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Yeşilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.853874683,37.310909641"
 draft: "false"
 weight: "999"

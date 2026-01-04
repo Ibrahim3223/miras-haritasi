@@ -5,10 +5,10 @@ slug: "imbros"
 description: "# İmbros: Gökçeada'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "25.900805555,40.233305555"
 draft: "false"
 weight: "999"

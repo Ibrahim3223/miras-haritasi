@@ -5,10 +5,10 @@ slug: "dareioukome"
 description: "### Dareioukome: İncil'in Kaynağı Olarak Gerçekte Bir Efsanadan Daha Fazlası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.624222,38.606597"
 draft: "false"
 weight: "999"

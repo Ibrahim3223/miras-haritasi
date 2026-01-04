@@ -5,10 +5,10 @@ slug: "hierapolis-aziz-philippus-mezari"
 description: "## Hierapolis Aziz Philippus Mezarı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1306362,37.9307594"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "berberler-kahvesi-mescidi-karabaglar-yaylasi"
 description: "## Berberler Kahvesi Mescidi, Karabağlar Yaylası: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3964996,37.1912003"
 draft: "false"
 weight: "999"

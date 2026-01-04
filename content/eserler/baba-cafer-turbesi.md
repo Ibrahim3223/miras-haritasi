@@ -5,10 +5,10 @@ slug: "baba-cafer-turbesi"
 description: "## Baba Cafer Türbesi: Fatih'te Bir Anıtın Tarihçesi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.969108,41.018802"
 draft: "false"
 weight: "999"

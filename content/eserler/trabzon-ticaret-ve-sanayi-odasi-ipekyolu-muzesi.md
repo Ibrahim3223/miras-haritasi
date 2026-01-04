@@ -5,10 +5,10 @@ slug: "trabzon-ticaret-ve-sanayi-odasi-ipekyolu-muzesi"
 description: "## Trabzon Ticaret ve Sanayi Odası İpekyolu Müzesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.719591,41.008633"
 draft: "false"
 weight: "999"

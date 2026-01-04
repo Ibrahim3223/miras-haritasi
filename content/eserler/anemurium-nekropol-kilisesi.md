@@ -5,10 +5,10 @@ slug: "anemurium-nekropol-kilisesi"
 description: "## Anemurium Nekropol Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.8028488,36.0255394"
 draft: "false"
 weight: "999"

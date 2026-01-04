@@ -5,10 +5,10 @@ slug: "yalikoy-vakif-camii"
 description: "# Yalıköy Vakıf Camii: Ordu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.6127472,41.0508614"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kaz-ova-koprusu"
 description: "## Kaz Ova Köprüsü: Edirne'nin Tarihi Bir Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6308784,41.3621368"
 draft: "false"
 weight: "999"

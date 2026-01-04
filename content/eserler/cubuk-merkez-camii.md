@@ -5,10 +5,10 @@ slug: "cubuk-merkez-camii"
 description: "### Çubuk Merkez Camii: Ankara'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.030385066,40.239495048"
 draft: "false"
 weight: "999"

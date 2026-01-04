@@ -5,10 +5,10 @@ slug: "emir-bayindir-koprusu"
 description: "## Emir Bayındır Köprüsü: Ahlat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.4539719,38.7458878"
 draft: "false"
 weight: "999"

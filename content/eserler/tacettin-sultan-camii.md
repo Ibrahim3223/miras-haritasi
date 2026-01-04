@@ -5,10 +5,10 @@ slug: "tacettin-sultan-camii"
 description: "## Tacettin Sultan Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8651428,39.9327126"
 draft: "false"
 weight: "999"

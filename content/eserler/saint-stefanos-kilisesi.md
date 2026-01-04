@@ -5,10 +5,10 @@ slug: "saint-stefanos-kilisesi"
 description: "### Saint Stefanos Kilisesi: Van'ın Eski Kentinde Gizli Bir Cennet..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Muradiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.7397728,39.0016327"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vijne-koprusu"
 description: "## Vijne Köprüsü: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Gölbaşı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.8326467,37.8336621"
 draft: "false"
 weight: "999"

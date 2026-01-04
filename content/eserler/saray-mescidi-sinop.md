@@ -5,10 +5,10 @@ slug: "saray-mescidi-sinop"
 description: "## Saray Mescidi: Sinop'un Tarihi Camii..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1494598,42.0249901"
 draft: "false"
 weight: "999"

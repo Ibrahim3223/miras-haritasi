@@ -5,10 +5,10 @@ slug: "cimenlik-kalesi-fatih-camii"
 description: "### Çimenlik Kalesi Fatih Camii: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3992729,40.1466599"
 draft: "false"
 weight: "999"

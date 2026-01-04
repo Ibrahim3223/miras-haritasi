@@ -5,10 +5,10 @@ slug: "macune-koprusu"
 description: "## Macune Köprüsü: Akhisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7877102,38.930584"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "toklu-dede-mescidi"
 description: "## Toklu Dede Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Naos_tis_Hagias_Theklis.jpg/1200px-Naos_tis_Hagias_Theklis.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.942472222,41.039527777"
 draft: "false"
 weight: "10"

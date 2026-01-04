@@ -5,10 +5,10 @@ slug: "kaunos-manastir-kompleksi"
 description: "### Kaunos Manastır Kompleksi Nedir?..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.6210213,36.8248596"
 draft: "false"
 weight: "999"

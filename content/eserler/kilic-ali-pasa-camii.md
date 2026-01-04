@@ -5,10 +5,10 @@ slug: "kilic-ali-pasa-camii"
 description: "## Kılıç Ali Paşa Camii: Beyoğlu'ndaki Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/İstanbul_4939.jpg/1200px-İstanbul_4939.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.980928,41.026373"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "camlica-danalet-camii"
 description: "### Çamlıca Danalet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.6532575,40.9801037"
 draft: "false"
 weight: "999"

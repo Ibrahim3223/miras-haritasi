@@ -5,10 +5,10 @@ slug: "dalyankoy-kilisesi"
 description: "## Dalyanköy Kilisesi: Çeşme'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.3101006,38.3530998"
 draft: "false"
 weight: "999"

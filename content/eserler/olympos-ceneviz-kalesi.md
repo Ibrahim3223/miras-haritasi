@@ -5,10 +5,10 @@ slug: "olympos-ceneviz-kalesi"
 description: "**Olympos Ceneviz Kalesi: Antalya'nın Tarihi Bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Olympos_Genoan_fortress_in_2016_0552.jpg/1200px-Olympos_Genoan_fortress_in_2016_0552.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.4781799,36.3946304"
 draft: "false"
 weight: "10"

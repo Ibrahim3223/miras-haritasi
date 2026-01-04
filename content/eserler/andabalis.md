@@ -5,10 +5,10 @@ slug: "andabalis"
 description: "## Andabalis Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.67349,38.0394955"
 draft: "false"
 weight: "999"

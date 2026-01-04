@@ -5,10 +5,10 @@ slug: "uryanizade-dede-turbesi"
 description: "**Uryanizade Dede Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9563274,41.0124893"
 draft: "false"
 weight: "999"

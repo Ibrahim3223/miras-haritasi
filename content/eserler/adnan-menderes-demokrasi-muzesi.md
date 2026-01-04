@@ -5,10 +5,10 @@ slug: "adnan-menderes-demokrasi-muzesi"
 description: "## Adnan Menderes Demokrasi Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.834152,37.762262"
 draft: "false"
 weight: "999"

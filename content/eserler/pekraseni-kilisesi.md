@@ -5,10 +5,10 @@ slug: "pekraseni-kilisesi"
 description: "### Pekraşeni Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Arpaçay"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.222861111,40.990694444"
 draft: "false"
 weight: "999"

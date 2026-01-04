@@ -5,10 +5,10 @@ slug: "muratli-koyu-camisi"
 description: "### Muratlı Köyü Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Muratlı_Köyü_Camisi.jpg/1200px-Muratlı_Köyü_Camisi.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.71035,41.47838"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cimdin-kale"
 description: "## Çimdin Kale: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Viranşehir"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.4704857,37.1626015"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alexandreion-priene"
 description: "# Alexandreion (Priene)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Alexandreion_Priene_1.jpg/1200px-Alexandreion_Priene_1.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.294722222,37.658611111"
 draft: "false"
 weight: "10"

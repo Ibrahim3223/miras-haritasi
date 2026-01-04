@@ -5,10 +5,10 @@ slug: "bli-hoca-camii"
 description: "### Bâli Hoca Camii: Eyüp'te Bir Klasik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9306984,41.0493164"
 draft: "false"
 weight: "999"

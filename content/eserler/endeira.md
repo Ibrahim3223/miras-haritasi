@@ -5,10 +5,10 @@ slug: "endeira"
 description: "## Endeira Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.6385675,40.9676475"
 draft: "false"
 weight: "999"

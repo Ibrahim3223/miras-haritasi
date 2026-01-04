@@ -5,10 +5,10 @@ slug: "nasuh-pasa-hamami"
 description: "## Nasuh Paşa Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/NASUH_PAŞA_BATH_HAMAMI_BURSA_-_panoramio.jpg/1200px-NASUH_PAŞA_BATH_HAMAMI_BURSA_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0683191,40.181461"
 draft: "false"
 weight: "10"

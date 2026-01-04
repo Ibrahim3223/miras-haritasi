@@ -5,10 +5,10 @@ slug: "madenkaya-kalesi-canakkale"
 description: "### Madenkaya Kalesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.5606136,40.0469894"
 draft: "false"
 weight: "999"

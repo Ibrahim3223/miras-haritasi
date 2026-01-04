@@ -5,10 +5,10 @@ slug: "hasan-basri-hazretleri-turbesi"
 description: "## Hasan Basri Hazretleri Türbesi: Battalgazi'nin Gizli Çehresi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.3804741,38.4163666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-gazi-medresesi"
 description: "### Ahmet Gazi Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7882538,37.2729416"
 draft: "false"
 weight: "999"

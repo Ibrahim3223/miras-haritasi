@@ -5,10 +5,10 @@ slug: "candir-kucuk-hoyuk"
 description: "## Çandır Küçük Höyük: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.98815,38.183383"
 draft: "false"
 weight: "999"

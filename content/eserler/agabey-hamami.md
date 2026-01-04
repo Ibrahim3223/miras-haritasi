@@ -5,10 +5,10 @@ slug: "agabey-hamami"
 description: "## Ağabey Hamamı: Kadıköy'de Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0281944,40.990448"
 draft: "false"
 weight: "999"

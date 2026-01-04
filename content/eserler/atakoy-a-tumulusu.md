@@ -5,10 +5,10 @@ slug: "atakoy-a-tumulusu"
 description: "## Ataköy A Tümülüsü: Pınarhisar'daki Antik Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.455822,41.6004677"
 draft: "false"
 weight: "999"

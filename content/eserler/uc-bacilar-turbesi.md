@@ -5,10 +5,10 @@ slug: "uc-bacilar-turbesi"
 description: "## Üç Bacılar Türbesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1065254,38.4061089"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "darulhadis-camii-acik-turbe"
 description: "## Darülhadis Camii Açık Türbe..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.54842,41.6710358"
 draft: "false"
 weight: "999"

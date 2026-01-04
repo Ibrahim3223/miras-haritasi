@@ -5,10 +5,10 @@ slug: "akarassus"
 description: "## Akarassus: Antik Bir Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.921523,36.734861"
 draft: "false"
 weight: "999"

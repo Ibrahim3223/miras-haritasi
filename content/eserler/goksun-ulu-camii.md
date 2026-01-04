@@ -5,10 +5,10 @@ slug: "goksun-ulu-camii"
 description: "## Göksun Ulu Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Göksun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.494611111,38.02025"
 draft: "false"
 weight: "999"

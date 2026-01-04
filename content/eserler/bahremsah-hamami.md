@@ -5,10 +5,10 @@ slug: "bahremsah-hamami"
 description: "## Bahremşah Hamamı: Divriği'nin Gizli Şeytanı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.1205597,39.3715591"
 draft: "false"
 weight: "999"

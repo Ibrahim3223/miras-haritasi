@@ -5,10 +5,10 @@ slug: "yavasca-sahin-ali-pasa-kabri"
 description: "### Şahin Ali Paşa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9677582,41.0158157"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "miski-ali-efe-darulhadisi"
 description: "## Miski Ali Efe Darülhadisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.949673,41.022497"
 draft: "false"
 weight: "999"

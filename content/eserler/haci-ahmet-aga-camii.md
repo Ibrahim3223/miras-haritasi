@@ -5,10 +5,10 @@ slug: "haci-ahmet-aga-camii"
 description: "## Hacı Ahmet Ağa Camii: Zonguldak'ta Bir Kültür Mirası..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9538536,41.2186813"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nuruosmaniye-medresesi"
 description: "## Nuruosmaniye Medresesi: İstanbul'un Gizemli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.970942,41.009708"
 draft: "false"
 weight: "999"

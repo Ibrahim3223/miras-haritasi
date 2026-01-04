@@ -5,10 +5,10 @@ slug: "theodosius-limani"
 description: "### Theodosius Limanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.95222222,41.00466667"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karamanoglu-camii"
 description: "# Karamanoğlu Camii: Ürgüp'ün Gizli Bir Çeşidi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.910194444,38.632638888"
 draft: "false"
 weight: "999"

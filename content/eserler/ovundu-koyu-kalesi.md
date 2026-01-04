@@ -5,10 +5,10 @@ slug: "ovundu-koyu-kalesi"
 description: "### Övündü Köyü Kalesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.3377991,40.5245628"
 draft: "false"
 weight: "999"

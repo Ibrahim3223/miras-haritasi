@@ -5,10 +5,10 @@ slug: "ikiztepe-tumulusu"
 description: "**İkiztepe Tümülüsü: İzmir'in Gizli Anıtı**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.17222,39.10552"
 draft: "false"
 weight: "999"

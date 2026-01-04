@@ -5,10 +5,10 @@ slug: "asagi-barakli-camii"
 description: "## Aşağı Baraklı Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Taşova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1176949,40.7084999"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "patara-pseudoperipteros-tapinak-mezar"
 description: "## Patara Pseudoperipteros Tapınak Mezar..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3111992,36.2666359"
 draft: "false"
 weight: "999"

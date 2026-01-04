@@ -5,10 +5,10 @@ slug: "taskemer-koprusu-6"
 description: "## Taşkemer Köprüsü 6..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9694939,37.3055"
 draft: "false"
 weight: "999"

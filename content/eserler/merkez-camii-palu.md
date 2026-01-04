@@ -5,10 +5,10 @@ slug: "merkez-camii-palu"
 description: "## Merkez Camii, Palu..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.9493942,38.7048836"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayvali-masat-hoyuk"
 description: "## Ayvalı Maşat Höyük: Isparta'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.064392,38.413369"
 draft: "false"
 weight: "999"

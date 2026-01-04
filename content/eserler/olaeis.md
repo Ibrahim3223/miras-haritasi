@@ -5,10 +5,10 @@ slug: "olaeis"
 description: "## Olaeis: Antik Kentin Efsanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.333333333,37.083333333"
 draft: "false"
 weight: "999"

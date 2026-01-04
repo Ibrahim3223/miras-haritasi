@@ -5,10 +5,10 @@ slug: "seyyid-mahmut-cagirgan-baba-turbesi"
 description: "## Seyyid Mahmut Çağırgan Baba Türbesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.902334,40.372562"
 draft: "false"
 weight: "999"

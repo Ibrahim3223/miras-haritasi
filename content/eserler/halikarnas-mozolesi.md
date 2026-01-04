@@ -5,10 +5,10 @@ slug: "halikarnas-mozolesi"
 description: "### Halikarnas Mozolesi: Muhteşem bir Antik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg/1200px-The_ruins_of_the_Mausoleum_at_Halicarnassus.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.424097,37.037942"
 draft: "false"
 weight: "10"

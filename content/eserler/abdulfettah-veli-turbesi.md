@@ -5,10 +5,10 @@ slug: "abdulfettah-veli-turbesi"
 description: "## Abdülfettah Veli Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.774740126,41.376695413"
 draft: "false"
 weight: "999"

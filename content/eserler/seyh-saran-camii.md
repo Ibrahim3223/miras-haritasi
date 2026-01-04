@@ -5,10 +5,10 @@ slug: "seyh-saran-camii"
 description: "### Şeyh Şaran Camii..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.749769,37.314657"
 draft: "false"
 weight: "999"

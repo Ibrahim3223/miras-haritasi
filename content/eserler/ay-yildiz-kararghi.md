@@ -5,10 +5,10 @@ slug: "ay-yildiz-kararghi"
 description: "**Ay Yıldız Karargâhı: Etimesgut'ta Bir Tarih Öreni**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Etimesgut"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "32.687222222,39.924444444"
 draft: "false"
 weight: "999"

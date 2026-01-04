@@ -5,10 +5,10 @@ slug: "uskubiye-mescidi"
 description: "# Üskübiye Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Alemdar_-_Üskübiye_Mescidi_-_20250413191417.jpg/1200px-Alemdar_-_Üskübiye_Mescidi_-_20250413191417.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.977483,41.009111"
 draft: "false"
 weight: "10"

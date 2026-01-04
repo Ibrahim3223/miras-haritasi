@@ -5,10 +5,10 @@ slug: "esbeki-manastiri"
 description: "# Esbeki Manastırı: Artvin'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Esbeki1.png/1200px-Esbeki1.png"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.7989,40.7237"
 draft: "false"
 weight: "10"

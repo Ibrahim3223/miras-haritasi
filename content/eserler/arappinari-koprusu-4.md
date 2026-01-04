@@ -5,10 +5,10 @@ slug: "arappinari-koprusu-4"
 description: "### Arappınarı Köprüsü 4: Tarihî Bir Gemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7390194,38.0810204"
 draft: "false"
 weight: "999"

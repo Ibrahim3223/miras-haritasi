@@ -5,10 +5,10 @@ slug: "tascilar-mahallesi-camii"
 description: "## Taşçılar Mahallesi Camii..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.446910311,40.918370761"
 draft: "false"
 weight: "999"

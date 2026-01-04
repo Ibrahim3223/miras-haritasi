@@ -5,10 +5,10 @@ slug: "evci-koyu-camii"
 description: "## Evci Köyü Camii..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8215103,40.0669937"
 draft: "false"
 weight: "999"

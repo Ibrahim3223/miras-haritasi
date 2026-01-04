@@ -5,10 +5,10 @@ slug: "yarimca-koprusu"
 description: "**Yarımca Köprüsü**..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Yavuzeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.6692009,37.3272018"
 draft: "false"
 weight: "999"

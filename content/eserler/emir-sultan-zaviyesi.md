@@ -5,10 +5,10 @@ slug: "emir-sultan-zaviyesi"
 description: "## Emir Sultan Zaviyesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1432419,38.4188614"
 draft: "false"
 weight: "999"

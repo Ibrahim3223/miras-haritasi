@@ -5,10 +5,10 @@ slug: "gumushacikoy-saat-kulesi"
 description: "### Gümüşhacıköy Saat Kulesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Gümüşhacıköy"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.216694444,40.873"
 draft: "false"
 weight: "999"

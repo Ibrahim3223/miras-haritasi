@@ -5,10 +5,10 @@ slug: "dolu-baba-turbesi"
 description: "## Dolu Baba Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.045006,40.118898"
 draft: "false"
 weight: "999"

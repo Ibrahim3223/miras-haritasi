@@ -5,10 +5,10 @@ slug: "usak-kent-tarihi-muzesi"
 description: "## Uşak Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.407741,38.678606"
 draft: "false"
 weight: "999"

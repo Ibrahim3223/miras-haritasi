@@ -5,10 +5,10 @@ slug: "kadikalesi"
 description: "## Kadıkalesi: Kuşadası'nın Gizli Mirası..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2703,37.79147"
 draft: "false"
 weight: "999"

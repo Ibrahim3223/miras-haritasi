@@ -5,10 +5,10 @@ slug: "bakkallar-mescidi-karabaglar-yaylasi"
 description: "## Bakkallar Mescidi, Karabağlar Yaylası: Bir Tarihî Cami'nin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3920002,37.1819992"
 draft: "false"
 weight: "999"

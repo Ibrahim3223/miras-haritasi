@@ -5,10 +5,10 @@ slug: "selimiye-vakif-muzesi"
 description: "### Selimiye Vakıf Müzesi: Edirne'nin İhtişamlı Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5592442,41.6773911"
 draft: "false"
 weight: "999"

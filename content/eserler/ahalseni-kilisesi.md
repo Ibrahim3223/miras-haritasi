@@ -5,10 +5,10 @@ slug: "ahalseni-kilisesi"
 description: "### Ahalşeni Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Hanak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.953359,41.288686"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taslihoyuk"
 description: "## Taşlıhöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2005451,37.0560701"
 draft: "false"
 weight: "999"

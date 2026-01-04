@@ -5,10 +5,10 @@ slug: "krom-vadisi-ziganetli-kilisesi"
 description: "# Krom Vadisi Ziganetli Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.505194,40.534666"
 draft: "false"
 weight: "999"

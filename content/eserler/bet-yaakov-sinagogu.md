@@ -5,10 +5,10 @@ slug: "bet-yaakov-sinagogu"
 description: "**Bet Yaakov Sinagogu**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Beth_Yaakov_Synagogue,_Kuzguncuk.jpg/1200px-Beth_Yaakov_Synagogue,_Kuzguncuk.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.029594444,41.036377777"
 draft: "false"
 weight: "10"

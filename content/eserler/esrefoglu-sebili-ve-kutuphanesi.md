@@ -5,10 +5,10 @@ slug: "esrefoglu-sebili-ve-kutuphanesi"
 description: "## Eşrefoğlu Sebili ve Kütüphanesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "31.718473791,37.683706402"
 draft: "false"
 weight: "999"

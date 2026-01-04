@@ -5,10 +5,10 @@ slug: "mehmet-hasircilar-camii"
 description: "## Mehmet Hasırcılar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Fatih_University_Mehmet_Hasircilar_Mosque_-_Sept_2013d.jpg/1200px-Fatih_University_Mehmet_Hasircilar_Mosque_-_Sept_2013d.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.619923477,41.092262049"
 draft: "false"
 weight: "10"

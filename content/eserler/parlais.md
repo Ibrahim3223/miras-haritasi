@@ -5,10 +5,10 @@ slug: "parlais"
 description: "## Parlais Arkeolojik Sit: Isparta'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.783333,38.016667"
 draft: "false"
 weight: "999"

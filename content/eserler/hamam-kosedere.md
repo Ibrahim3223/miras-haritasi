@@ -5,10 +5,10 @@ slug: "hamam-kosedere"
 description: "## Hamam, Kösedere..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.1838722,39.6291237"
 draft: "false"
 weight: "999"

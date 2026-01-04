@@ -5,10 +5,10 @@ slug: "hisarlik"
 description: "## Hisarlık: Edirne'nin Gizli Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_(2).jpg/1200px-Walls_of_Troy_(2).jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.862758,41.628771"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ipeklikuyu-hoyugu"
 description: "### İpeklikuyu Höyüğü: İzmir'in Gizli Cevheri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2212772,38.446312"
 draft: "false"
 weight: "999"

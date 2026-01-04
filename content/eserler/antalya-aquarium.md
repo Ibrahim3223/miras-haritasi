@@ -5,10 +5,10 @@ slug: "antalya-aquarium"
 description: "**Antalya Akvaryum: Su ve Yaşamın Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Antalya_Aquarium.jpg/1200px-Antalya_Aquarium.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.660675,36.878907"
 draft: "false"
 weight: "10"

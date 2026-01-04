@@ -5,10 +5,10 @@ slug: "asude-hatun-turbesi"
 description: "## Asude Hatun Türbesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.955416,41.023839"
 draft: "false"
 weight: "999"

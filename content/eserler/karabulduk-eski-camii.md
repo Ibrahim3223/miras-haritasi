@@ -5,10 +5,10 @@ slug: "karabulduk-eski-camii"
 description: "## Karabulduk Eski Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.561981,40.830755"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aunesis"
 description: "## Aunesis Arkeolojik Sit: Tarih, Mimari Özellikler ve Ziyaret Bilgileri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.920471,36.570274"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yusuf-ziya-pasa-camii"
 description: "## Yusuf Ziya Paşa Camii..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Keban"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7380447,38.793911"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "catalkaya-kusadasi"
 description: "# Çatalkaya Arkeolojik Sit, Kuşadası..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.334211,37.825908"
 draft: "false"
 weight: "999"

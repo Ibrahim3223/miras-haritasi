@@ -5,10 +5,10 @@ slug: "lutfipasahamami"
 description: "## Lütfi Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9386768,41.014286"
 draft: "false"
 weight: "999"

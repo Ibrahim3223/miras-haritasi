@@ -5,10 +5,10 @@ slug: "kasrik-koprusu"
 description: "## Kasrik Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kasrik_Köprüsü.jpg/1200px-Kasrik_Köprüsü.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.8900623,38.223032"
 draft: "false"
 weight: "999"

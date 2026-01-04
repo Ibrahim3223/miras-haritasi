@@ -5,10 +5,10 @@ slug: "halil-bey-camii"
 description: "## Halil Bey Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

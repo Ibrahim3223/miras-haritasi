@@ -5,10 +5,10 @@ slug: "necati-korkmaz-mikro-minyatur-sanat-muzesi"
 description: "## Necati Korkmaz Mikro Minyatür Sanat Müzesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2582817,37.8591232"
 draft: "false"
 weight: "999"

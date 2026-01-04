@@ -5,10 +5,10 @@ slug: "filir-kalesi"
 description: "## Filir Kalesi: Anamur'un Gizli Kalesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.6499825,36.1325493"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "denizgoren-koprusu"
 description: "### Denizgören Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.36565,40.969633"
 draft: "false"
 weight: "999"

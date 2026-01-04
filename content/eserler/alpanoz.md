@@ -5,10 +5,10 @@ slug: "alpanoz"
 description: "## Alpanoz: Seyitgazi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.628148,39.556237"
 draft: "false"
 weight: "999"

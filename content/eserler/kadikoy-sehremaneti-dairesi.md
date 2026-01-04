@@ -5,10 +5,10 @@ slug: "kadikoy-sehremaneti-dairesi"
 description: "## Kadıköy Şehremaneti Dairesi: Kadıköy'in Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0221558,40.9906845"
 draft: "false"
 weight: "999"

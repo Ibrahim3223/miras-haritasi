@@ -5,10 +5,10 @@ slug: "acemoglu-camii"
 description: "## Acemoğlu Camii: Fatih'in Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.959105,41.012052"
 draft: "false"
 weight: "999"

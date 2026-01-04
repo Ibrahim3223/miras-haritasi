@@ -5,10 +5,10 @@ slug: "gure-koyu-camii"
 description: "## Güre Köyü Camii: Balıkesir'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8958035,39.6127739"
 draft: "false"
 weight: "999"

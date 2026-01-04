@@ -5,10 +5,10 @@ slug: "ezger-sinagogu"
 description: "## Ezger Sinagogu: Beyoğlu'ndaki Yörük Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.951138888,41.039277777"
 draft: "false"
 weight: "999"

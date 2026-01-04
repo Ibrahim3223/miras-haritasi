@@ -5,10 +5,10 @@ slug: "side-muzesi"
 description: "## Side Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Side_museum_garden_and_halls_4060.jpg/1200px-Side_museum_garden_and_halls_4060.jpg"
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.3909969,36.7690659"
 draft: "false"
 weight: "10"

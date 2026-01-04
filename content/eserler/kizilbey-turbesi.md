@@ -5,10 +5,10 @@ slug: "kizilbey-turbesi"
 description: "## Kızılbey Türbesi: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8538895,39.9398651"
 draft: "false"
 weight: "999"

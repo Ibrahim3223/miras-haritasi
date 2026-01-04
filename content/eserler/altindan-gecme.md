@@ -5,10 +5,10 @@ slug: "altindan-gecme"
 description: "## Altından Geçme Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Altından_Geçme_2021-12-26.jpg/1200px-Altından_Geçme_2021-12-26.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9,36.91666667"
 draft: "false"
 weight: "10"

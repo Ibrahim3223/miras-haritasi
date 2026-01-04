@@ -5,10 +5,10 @@ slug: "sivricetepe-kalesi-canakkale"
 description: "## Sivricetepe Kalesi: Çanakkale'nin Gizli Çehresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.6331768,40.0464096"
 draft: "false"
 weight: "999"

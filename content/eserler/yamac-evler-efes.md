@@ -5,10 +5,10 @@ slug: "yamac-evler-efes"
 description: "## Yamaç Evler: Efes'in Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ephesus_-_Terrace_Houses.jpg/1200px-Ephesus_-_Terrace_Houses.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34138889,37.93805556"
 draft: "false"
 weight: "10"

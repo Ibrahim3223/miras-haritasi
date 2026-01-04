@@ -5,10 +5,10 @@ slug: "meydan-medresesi"
 description: "**Meydan Medresesi: Hakkâri'nin Tarihi Bir Mirası**..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "43.7439041,37.5674515"
 draft: "false"
 weight: "999"

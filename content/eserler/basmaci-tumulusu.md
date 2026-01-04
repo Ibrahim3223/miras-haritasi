@@ -5,10 +5,10 @@ slug: "basmaci-tumulusu"
 description: "## Basmacı Tümülüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Merkez (Uşak)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.155934755,38.680149168"
 draft: "false"
 weight: "999"

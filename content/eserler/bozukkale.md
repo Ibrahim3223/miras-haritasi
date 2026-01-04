@@ -5,10 +5,10 @@ slug: "bozukkale"
 description: "### Bozukkale: Marmaris'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Bozukkale.jpg/1200px-Bozukkale.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.0157375,36.5659447"
 draft: "false"
 weight: "10"

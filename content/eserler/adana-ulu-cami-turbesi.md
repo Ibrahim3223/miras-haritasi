@@ -5,10 +5,10 @@ slug: "adana-ulu-cami-turbesi"
 description: "## Adana Ulu Cami Türbesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.331165947,36.984733462"
 draft: "false"
 weight: "999"

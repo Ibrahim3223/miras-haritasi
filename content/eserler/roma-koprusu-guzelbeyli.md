@@ -5,10 +5,10 @@ slug: "roma-koprusu-guzelbeyli"
 description: "## Roma Köprüsü, Güzelbeyli: Aydın'ın Tarihi Bir Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.6717072,37.7067184"
 draft: "false"
 weight: "999"

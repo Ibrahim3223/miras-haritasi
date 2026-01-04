@@ -5,10 +5,10 @@ slug: "ayios-atanasios-kilisesi"
 description: "### Ayios Atanasios Kilisesi: Beyoğlu, İstanbul'un Gizli Çehresini İyice Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.975132,41.045565"
 draft: "false"
 weight: "999"

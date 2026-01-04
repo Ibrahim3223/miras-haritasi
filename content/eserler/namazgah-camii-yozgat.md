@@ -5,10 +5,10 @@ slug: "namazgah-camii-yozgat"
 description: "## Namazgah Camii, Yozgat..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8000641,39.8149872"
 draft: "false"
 weight: "999"

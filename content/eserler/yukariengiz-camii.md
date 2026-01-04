@@ -5,10 +5,10 @@ slug: "yukariengiz-camii"
 description: "## Yukarıengiz Camii: Samsun'un Tarihi Bir Çanak..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "19 Mayıs"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.0653992,41.4852982"
 draft: "false"
 weight: "999"

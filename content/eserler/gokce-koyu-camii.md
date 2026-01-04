@@ -5,10 +5,10 @@ slug: "gokce-koyu-camii"
 description: "### Gökçe Köyü Camii: Karaman'ın Gizli Çatısı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2904587,37.0651093"
 draft: "false"
 weight: "999"

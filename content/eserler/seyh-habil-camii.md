@@ -5,10 +5,10 @@ slug: "seyh-habil-camii"
 description: "## Şeyh Habil Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.8069992,41.1806984"
 draft: "false"
 weight: "999"

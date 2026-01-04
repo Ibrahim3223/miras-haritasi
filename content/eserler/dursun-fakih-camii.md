@@ -5,10 +5,10 @@ slug: "dursun-fakih-camii"
 description: "### Dursun Fakih Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4910622,37.8699112"
 draft: "false"
 weight: "999"

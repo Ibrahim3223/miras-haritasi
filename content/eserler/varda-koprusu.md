@@ -5,10 +5,10 @@ slug: "varda-koprusu"
 description: "## Varda Köprüsü: Adana'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Varda_Demiryolu_Koprusu.jpg/1200px-Varda_Demiryolu_Koprusu.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karaisalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.97678,37.2434"
 draft: "false"
 weight: "10"

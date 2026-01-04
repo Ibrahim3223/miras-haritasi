@@ -5,10 +5,10 @@ slug: "sadi-kilisesi"
 description: "### Şadı Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çanakçı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.000104,40.884028"
 draft: "false"
 weight: "999"

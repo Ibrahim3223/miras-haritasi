@@ -5,10 +5,10 @@ slug: "tasagil-koyu-camii"
 description: "## Taşağıl Köyü Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1235771,41.5226479"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-erhanin-mezari"
 description: "# Ahmet Erhan'ın Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Grave_of_Ahmet_Erhan_2.jpg/1200px-Grave_of_Ahmet_Erhan_2.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.77778,39.99753"
 draft: "false"
 weight: "10"

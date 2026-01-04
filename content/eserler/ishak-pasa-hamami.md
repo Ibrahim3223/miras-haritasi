@@ -5,10 +5,10 @@ slug: "ishak-pasa-hamami"
 description: "**İshak Paşa Hamamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/İshak_Paşa_Hamamı.jpg/1200px-İshak_Paşa_Hamamı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.981254,41.006545"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ahmet-sayin-mezari"
 description: "### Ahmet Say'ın Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Grave_of_Ahmet_Say.jpg/1200px-Grave_of_Ahmet_Say.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

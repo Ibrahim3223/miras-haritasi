@@ -5,10 +5,10 @@ slug: "malta-hacli-kilise"
 description: "## Malta Haçlı Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Malta_Haçlı_Kilise.JPG/1200px-Malta_Haçlı_Kilise.JPG"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.84610851,38.638401983"
 draft: "false"
 weight: "10"

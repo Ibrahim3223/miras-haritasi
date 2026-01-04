@@ -5,10 +5,10 @@ slug: "dagli-kalesi"
 description: "### Dağlı Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dağlı_Castle,_Mersin_Province.jpg/1200px-Dağlı_Castle,_Mersin_Province.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.2547833,36.7067106"
 draft: "false"
 weight: "10"

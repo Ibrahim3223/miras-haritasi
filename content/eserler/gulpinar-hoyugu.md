@@ -5,10 +5,10 @@ slug: "gulpinar-hoyugu"
 description: "### Gülpınar Höyüğü: Çanakkale'nin Gizli Tarihi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

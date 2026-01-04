@@ -5,10 +5,10 @@ slug: "skew-bridge-mezarligi"
 description: "## Skew Bridge Mezarlığı: Bir Savaşın Eşiğinde Kaderin Düzenleneni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Skew_Bridge_Commonwealth_War_Graves_Commission_Cemetery.jpg/1200px-Skew_Bridge_Commonwealth_War_Graves_Commission_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.19982,40.05973"
 draft: "false"
 weight: "10"

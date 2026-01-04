@@ -5,10 +5,10 @@ slug: "kizil-tumulus"
 description: "## Kızıl Tümülüs: Kayseri'nin Gizemi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Felahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.5030785,39.1059265"
 draft: "false"
 weight: "999"

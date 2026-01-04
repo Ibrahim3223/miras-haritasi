@@ -5,10 +5,10 @@ slug: "musa-dede-turbesi"
 description: "## Musa Dede Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9937321,36.5602816"
 draft: "false"
 weight: "999"

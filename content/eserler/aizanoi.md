@@ -5,10 +5,10 @@ slug: "aizanoi"
 description: "**Aizanoi: Antik Bir Kentin Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Aizanoi_Zeus_temple_2120.jpg/1200px-Aizanoi_Zeus_temple_2120.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Çavdarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6105,39.2043"
 draft: "false"
 weight: "10"

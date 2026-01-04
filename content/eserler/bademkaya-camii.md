@@ -5,10 +5,10 @@ slug: "bademkaya-camii"
 description: "### Bademkaya Camii: Artvin'in Tarihi ve Kültürel Miraslarından biri..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.6938606,41.0172794"
 draft: "false"
 weight: "999"

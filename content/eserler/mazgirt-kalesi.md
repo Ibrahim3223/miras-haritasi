@@ -5,10 +5,10 @@ slug: "mazgirt-kalesi"
 description: "## Mazgirt Kalesi: Tunceli'nin Eski Bir Zirvesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.600692,39.023626"
 draft: "false"
 weight: "999"

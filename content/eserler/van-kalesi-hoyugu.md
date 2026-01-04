@@ -5,10 +5,10 @@ slug: "van-kalesi-hoyugu"
 description: "**Van Kalesi Höyüğü: Tarihî ve Kültürel Mirasın Tanıklığı**..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "İpekyolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.3342385,38.5057441"
 draft: "false"
 weight: "999"

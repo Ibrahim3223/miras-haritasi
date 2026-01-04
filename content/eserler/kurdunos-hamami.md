@@ -5,10 +5,10 @@ slug: "kurdunos-hamami"
 description: "## Kurdunos Hamamı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.6541786,37.9813385"
 draft: "false"
 weight: "999"

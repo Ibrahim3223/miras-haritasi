@@ -5,10 +5,10 @@ slug: "cardak-uvecik"
 description: "## Çardak, Üvecik: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.538707,40.264387"
 draft: "false"
 weight: "999"

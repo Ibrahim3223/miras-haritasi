@@ -5,10 +5,10 @@ slug: "izzet-pasa-camii-erzincan"
 description: "## Erzincan'ın Tarihi İmkânı: İzzet Paşa Camii..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4912682,39.7233467"
 draft: "false"
 weight: "999"

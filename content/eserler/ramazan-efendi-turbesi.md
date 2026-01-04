@@ -5,10 +5,10 @@ slug: "ramazan-efendi-turbesi"
 description: "### Ramazan Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.931301,41.004895"
 draft: "false"
 weight: "999"

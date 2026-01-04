@@ -5,10 +5,10 @@ slug: "bozdag-hamami"
 description: "# Bozdağ Hamamı: Ödemiş'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.0741005,38.3392982"
 draft: "false"
 weight: "999"

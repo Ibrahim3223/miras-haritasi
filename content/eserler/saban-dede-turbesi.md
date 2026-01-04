@@ -5,10 +5,10 @@ slug: "saban-dede-turbesi"
 description: "## Şaban Dede Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1858101,37.8811531"
 draft: "false"
 weight: "999"

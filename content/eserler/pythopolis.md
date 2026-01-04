@@ -5,10 +5,10 @@ slug: "pythopolis"
 description: "## Pythopolis: Bursa'nın Gizli Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Orhangazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.413577,40.396001"
 draft: "false"
 weight: "999"

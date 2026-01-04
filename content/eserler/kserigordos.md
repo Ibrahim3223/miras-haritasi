@@ -5,10 +5,10 @@ slug: "kserigordos"
 description: "**Kserigordos: Eski Yunanistan'ın Gizli Kaleyi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.804166666,40.3925"
 draft: "false"
 weight: "999"

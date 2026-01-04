@@ -5,10 +5,10 @@ slug: "sagsak-hoyugu"
 description: "## Sağsak Höyüğü: Çumra'nın Tarihi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.58803,37.60809"
 draft: "false"
 weight: "999"

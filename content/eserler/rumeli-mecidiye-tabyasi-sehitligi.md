@@ -5,10 +5,10 @@ slug: "rumeli-mecidiye-tabyasi-sehitligi"
 description: "### Rumeli Mecidiye Tabyası Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3748798,40.1413498"
 draft: "false"
 weight: "999"

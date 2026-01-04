@@ -5,10 +5,10 @@ slug: "maden-hukmet-konagi"
 description: "### Maden Hükûmet Konağı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "39.666027777,38.393"
 draft: "false"
 weight: "999"

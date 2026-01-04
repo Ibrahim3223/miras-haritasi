@@ -5,10 +5,10 @@ slug: "semystra"
 description: "## Semystra: Antik Uygarlığın İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.94536,41.065398"
 draft: "false"
 weight: "999"

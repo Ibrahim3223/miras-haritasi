@@ -5,10 +5,10 @@ slug: "bayburt-kalesi-kilisesi"
 description: "## Bayburt Kalesi Kilisesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.234232,40.258296"
 draft: "false"
 weight: "999"

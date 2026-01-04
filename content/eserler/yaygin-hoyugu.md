@@ -5,10 +5,10 @@ slug: "yaygin-hoyugu"
 description: "## Yaygın Höyüğü: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.5132828,38.2910957"
 draft: "false"
 weight: "999"

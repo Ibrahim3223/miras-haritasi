@@ -5,10 +5,10 @@ slug: "hoyuklu"
 description: "## Höyüklü: Kırşehir'in Gizli Çağıtları..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8182006,39.2302835"
 draft: "false"
 weight: "999"

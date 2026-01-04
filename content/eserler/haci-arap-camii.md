@@ -5,10 +5,10 @@ slug: "haci-arap-camii"
 description: "## Hacı Arap Camii: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6047001,37.7238007"
 draft: "false"
 weight: "999"

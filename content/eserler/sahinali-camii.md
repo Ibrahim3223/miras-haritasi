@@ -5,10 +5,10 @@ slug: "sahinali-camii"
 description: "## Şahinali Camii: Niğde'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.681015,37.9698982"
 draft: "false"
 weight: "999"

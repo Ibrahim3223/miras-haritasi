@@ -5,10 +5,10 @@ slug: "elmali-muzesi"
 description: "### Elmalı Müzesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9168873,36.7400894"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "xanthos-akropol-bazilikasi"
 description: "# Xanthos Akropol Bazilikası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.32052,36.359032"
 draft: "false"
 weight: "999"

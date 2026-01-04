@@ -5,10 +5,10 @@ slug: "temnos"
 description: "### Temnos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0667,38.6"
 draft: "false"
 weight: "999"

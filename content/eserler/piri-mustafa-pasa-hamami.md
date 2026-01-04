@@ -5,10 +5,10 @@ slug: "piri-mustafa-pasa-hamami"
 description: "## Piri Mustafa Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.953202,41.022246"
 draft: "false"
 weight: "999"

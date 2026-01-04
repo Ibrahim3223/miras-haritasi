@@ -5,10 +5,10 @@ slug: "kurupinar-avdan"
 description: "### Kurupınar Avdan: Odunpazarı'nın Gizli İncisi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.495667,39.5555"
 draft: "false"
 weight: "999"

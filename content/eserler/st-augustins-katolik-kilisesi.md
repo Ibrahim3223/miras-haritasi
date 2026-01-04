@@ -5,10 +5,10 @@ slug: "st-augustins-katolik-kilisesi"
 description: "# St. Augustins Katolik Kilisesi: Kadıköy'deki Tarihi Bir Ziyaretçi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0417423,40.9712982"
 draft: "false"
 weight: "999"

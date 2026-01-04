@@ -5,10 +5,10 @@ slug: "melik-mehemmed-gazi-turbesi"
 description: "### Melik Mehemmed Gazi Türbesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Akkuş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.149896,40.826897"
 draft: "false"
 weight: "999"

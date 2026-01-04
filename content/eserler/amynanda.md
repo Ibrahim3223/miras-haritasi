@@ -5,10 +5,10 @@ slug: "amynanda"
 description: "## Amynanda: Muğla'nın Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.646111111,37.002222222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "icme-yarismasinin-evi"
 description: "## İçme Yarışmasının Evi: Samandağ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.92265278,36.12075278"
 draft: "false"
 weight: "999"

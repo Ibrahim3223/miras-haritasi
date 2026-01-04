@@ -5,10 +5,10 @@ slug: "haci-dede-camii"
 description: "### Hacı Dede Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7730293,41.3707962"
 draft: "false"
 weight: "999"

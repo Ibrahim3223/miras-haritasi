@@ -5,10 +5,10 @@ slug: "ii-kilicarslan-kosku"
 description: "**II. Kılıçarslan Köşkü: Konya'nın Gizli Çehresini İfşa Eden Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/II._Klarslan_Kk_2025-10-24_1761321701.jpg/1200px-II._Klarslan_Kk_2025-10-24_1761321701.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "32.4926987,37.8741341"
 draft: "false"
 weight: "10"

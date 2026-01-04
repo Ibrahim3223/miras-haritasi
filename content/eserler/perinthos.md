@@ -5,10 +5,10 @@ slug: "perinthos"
 description: "## Perinthos: Marmara'nın Korunmasız Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.848611,40.994444"
 draft: "false"
 weight: "999"

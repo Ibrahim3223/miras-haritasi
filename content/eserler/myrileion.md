@@ -5,10 +5,10 @@ slug: "myrileion"
 description: "### Myrileion: İstanbul'un Gizli Harikalılarından BİRİ..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.108786,41.214643"
 draft: "false"
 weight: "999"

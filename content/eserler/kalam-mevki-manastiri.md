@@ -5,10 +5,10 @@ slug: "kalam-mevki-manastiri"
 description: "### Kalam Mevki Manastırı: Gökçeada'nın Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7460003,40.1407013"
 draft: "false"
 weight: "999"

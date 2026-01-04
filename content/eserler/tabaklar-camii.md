@@ -5,10 +5,10 @@ slug: "tabaklar-camii"
 description: "## Tabaklar Camii: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tabaklar_Mosque_outside.jpg/1200px-Tabaklar_Mosque_outside.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.020488711,41.017613092"
 draft: "false"
 weight: "10"

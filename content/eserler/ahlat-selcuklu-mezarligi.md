@@ -5,10 +5,10 @@ slug: "ahlat-selcuklu-mezarligi"
 description: "## Ahlat Selçuklu Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Ancient_tombstones_in_the_historical_cemetery_of_Selcuk_Turks_from_12th_century,_in_the_town_of_Ahlat,_Turkey.jpg/1200px-Ancient_tombstones_in_the_historical_cemetery_of_Selcuk_Turks_from_12th_century,_in_the_town_of_Ahlat,_Turkey.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.4577594,38.7425195"
 draft: "false"
 weight: "10"

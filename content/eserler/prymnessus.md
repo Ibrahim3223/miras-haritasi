@@ -5,10 +5,10 @@ slug: "prymnessus"
 description: "## Prymnessus Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.569147,38.697462"
 draft: "false"
 weight: "999"

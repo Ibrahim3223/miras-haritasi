@@ -5,10 +5,10 @@ slug: "mit-casusluk-muzesi"
 description: "## MİT Casusluk Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.80555556,39.95805556"
 draft: "false"
 weight: "999"

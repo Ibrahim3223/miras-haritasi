@@ -5,10 +5,10 @@ slug: "zimbilli-tepesi-hoyugu"
 description: "# Zımbıllı Tepesi Höyüğü: Kastamonu'nun Gizli Kalmış Hazineleri..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.214062,41.5182061"
 draft: "false"
 weight: "999"

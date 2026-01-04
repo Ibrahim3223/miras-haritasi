@@ -5,10 +5,10 @@ slug: "malos"
 description: "## Malos: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.34095,40.126533"
 draft: "false"
 weight: "999"

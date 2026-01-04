@@ -5,10 +5,10 @@ slug: "yitirmez-koyu-kilisesi"
 description: "## Yitirmez Köyü Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.6748695,40.4524345"
 draft: "false"
 weight: "999"

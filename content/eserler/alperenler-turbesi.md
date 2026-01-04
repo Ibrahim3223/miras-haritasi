@@ -5,10 +5,10 @@ slug: "alperenler-turbesi"
 description: "## Alperenler Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Alpərənlər_türbəsi_və_Qars_qalası.jpg/1200px-Alpərənlər_türbəsi_və_Qars_qalası.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.088725,40.612477"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "hamidiye-camii-kadirli"
 description: "## Hamidiye Camii, Kadirli..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Kadirli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.098285554,37.37267321"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmudiye-kislasi-hamami"
 description: "### Mahmudiye Kışlası Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5415058,41.6947632"
 draft: "false"
 weight: "999"

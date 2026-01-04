@@ -5,10 +5,10 @@ slug: "asarkale-sayrakci"
 description: "## Asarkale, Sayrakçı: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5282421,37.6139717"
 draft: "false"
 weight: "999"

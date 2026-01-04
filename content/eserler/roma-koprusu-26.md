@@ -5,10 +5,10 @@ slug: "roma-koprusu-26"
 description: "## Roma Köprüsü 26: Çavdarhisar'da Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Roma_Köprüsü_-_Aizanoi_Antik_Kent.jpg/1200px-Roma_Köprüsü_-_Aizanoi_Antik_Kent.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Çavdarhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.610227,39.19868"
 draft: "false"
 weight: "10"

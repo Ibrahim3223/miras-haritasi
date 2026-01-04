@@ -5,10 +5,10 @@ slug: "domuztepe-hoyugu-osmaniye"
 description: "## Domuztepe Höyüğü: Kahramanmaraş'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Domuztepe_from_NE..jpg/1200px-Domuztepe_from_NE..jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.03568056,37.32098056"
 draft: "false"
 weight: "10"

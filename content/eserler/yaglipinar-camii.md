@@ -5,10 +5,10 @@ slug: "yaglipinar-camii"
 description: "### Yağlıpınar Camii: Gölbaşı'ndaki Bir Önemli Cami..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.802266178,39.654426557"
 draft: "false"
 weight: "999"

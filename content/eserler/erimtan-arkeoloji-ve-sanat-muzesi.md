@@ -5,10 +5,10 @@ slug: "erimtan-arkeoloji-ve-sanat-muzesi"
 description: "## Erimtan Arkeoloji ve Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Erimtan.jpg/1200px-Erimtan.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.863055555,39.938055555"
 draft: "false"
 weight: "10"

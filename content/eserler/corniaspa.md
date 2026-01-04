@@ -5,10 +5,10 @@ slug: "corniaspa"
 description: "**Corniaspa: Antik Çağ'ın Gizemi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.76749,39.869697"
 draft: "false"
 weight: "999"

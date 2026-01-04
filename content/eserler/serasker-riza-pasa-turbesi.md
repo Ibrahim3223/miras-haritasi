@@ -5,10 +5,10 @@ slug: "serasker-riza-pasa-turbesi"
 description: "### Serasker Rıza Paşa Türbesi: Fatih'teki Bir Tarihi Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9288235,41.0035934"
 draft: "false"
 weight: "999"

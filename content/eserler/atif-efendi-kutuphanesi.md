@@ -5,10 +5,10 @@ slug: "atif-efendi-kutuphanesi"
 description: "## Atıf Efendi Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Atif_Efendi_Kapi.JPG/1200px-Atif_Efendi_Kapi.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.959963888,41.017155555"
 draft: "false"
 weight: "10"

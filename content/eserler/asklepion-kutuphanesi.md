@@ -5,10 +5,10 @@ slug: "asklepion-kutuphanesi"
 description: "## Asklepion Kütüphanesi: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.166357,39.1191521"
 draft: "false"
 weight: "999"

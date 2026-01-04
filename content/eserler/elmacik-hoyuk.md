@@ -5,10 +5,10 @@ slug: "elmacik-hoyuk"
 description: "# Elmacık Höyük: Uşak'taki Antik Bir Yerleşim..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.396089,38.579203"
 draft: "false"
 weight: "999"

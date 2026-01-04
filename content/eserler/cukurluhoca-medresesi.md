@@ -5,10 +5,10 @@ slug: "cukurluhoca-medresesi"
 description: "## Çukurluhoca Medresesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "40.77256,40.944685"
 draft: "false"
 weight: "999"

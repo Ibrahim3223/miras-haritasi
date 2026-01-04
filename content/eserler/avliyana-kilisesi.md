@@ -5,10 +5,10 @@ slug: "avliyana-kilisesi"
 description: "### Avliyana Kilisesi: Torul'un Tarihi Harikası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.1346359,40.4513054"
 draft: "false"
 weight: "999"

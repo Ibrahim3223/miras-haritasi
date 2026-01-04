@@ -5,10 +5,10 @@ slug: "yenikoy-aya-nikola-rum-ortodoks-kilisesi"
 description: "## Yeniköy Aya Nikola Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.06805556,41.12027778"
 draft: "false"
 weight: "999"

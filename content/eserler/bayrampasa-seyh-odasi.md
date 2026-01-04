@@ -5,10 +5,10 @@ slug: "bayrampasa-seyh-odasi"
 description: "**Bayrampaşa Şeyh Odası: İstanbul'un Gizli Medresesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.942368,41.00832"
 draft: "false"
 weight: "999"

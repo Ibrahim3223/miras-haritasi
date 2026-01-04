@@ -5,10 +5,10 @@ slug: "dascusa"
 description: "# Dascusa Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.7333,38.93785"
 draft: "false"
 weight: "999"

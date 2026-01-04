@@ -5,10 +5,10 @@ slug: "demirkapi-kislasi-karargah-binasi"
 description: "# Demirkapı Kışlası Karargah Binası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "28.9827919,41.0150757"
 draft: "false"
 weight: "999"

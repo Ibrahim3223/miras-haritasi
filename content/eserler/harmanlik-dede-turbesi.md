@@ -5,10 +5,10 @@ slug: "harmanlik-dede-turbesi"
 description: "## Harmanlık Dede Türbesi: Bursa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1175861,40.4771118"
 draft: "false"
 weight: "999"

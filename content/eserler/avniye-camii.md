@@ -5,10 +5,10 @@ slug: "avniye-camii"
 description: "**Avniye Camii: Mersin'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6216469,36.7934494"
 draft: "false"
 weight: "999"

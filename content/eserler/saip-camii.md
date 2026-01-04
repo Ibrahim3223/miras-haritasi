@@ -5,10 +5,10 @@ slug: "saip-camii"
 description: "# Saip Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5190163,38.6230774"
 draft: "false"
 weight: "999"

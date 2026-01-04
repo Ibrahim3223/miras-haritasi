@@ -5,10 +5,10 @@ slug: "hisarlik-camii"
 description: "### Hisarlık Camii: Bozkır, Konya'nın Tarihi Çaprazı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Bozkır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.344845,37.153338"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alabanda-oda-mezari"
 description: "## Alabanda Oda Mezarı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.985323,37.5959549"
 draft: "false"
 weight: "999"

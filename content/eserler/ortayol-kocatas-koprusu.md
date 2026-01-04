@@ -5,10 +5,10 @@ slug: "ortayol-kocatas-koprusu"
 description: "### Ortayol Kocataş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9177,41.092567"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "menekse-catagi-hoyugu"
 description: "### Menekşe Çatağı Höyüğü: Tekirdağ'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

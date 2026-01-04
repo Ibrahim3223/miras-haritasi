@@ -5,10 +5,10 @@ slug: "roma-koprusu-gulek"
 description: "## Roma Köprüsü, Gülek..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.754112,37.261925"
 draft: "false"
 weight: "999"

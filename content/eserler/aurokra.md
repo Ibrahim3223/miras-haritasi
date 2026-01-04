@@ -5,10 +5,10 @@ slug: "aurokra"
 description: "## Aurokra Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.19882,38.531995"
 draft: "false"
 weight: "999"

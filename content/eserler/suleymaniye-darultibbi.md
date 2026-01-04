@@ -5,10 +5,10 @@ slug: "suleymaniye-darultibbi"
 description: "### Süleymaniye Darültıbbı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.962286,41.016048"
 draft: "false"
 weight: "1"

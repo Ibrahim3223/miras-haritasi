@@ -5,10 +5,10 @@ slug: "arykanda-yukari-hamam"
 description: "## Arykanda Yukarı Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0586586,36.5140686"
 draft: "false"
 weight: "999"

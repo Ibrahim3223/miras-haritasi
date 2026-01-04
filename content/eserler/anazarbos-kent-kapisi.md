@@ -5,10 +5,10 @@ slug: "anazarbos-kent-kapisi"
 description: "## Anazarbos Kent Kapısı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8972664,37.2493286"
 draft: "false"
 weight: "999"

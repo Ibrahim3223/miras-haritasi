@@ -5,10 +5,10 @@ slug: "debbag-yunus-camii"
 description: "### Debbağ Yunus Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.953228,41.0272446"
 draft: "false"
 weight: "999"

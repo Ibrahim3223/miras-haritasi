@@ -5,10 +5,10 @@ slug: "topcu-basi-esed-aga-kabri"
 description: "## Topçu Başı Esed Ağa Kabri: Zeytinburnu'nun Tarihî Öncüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Topçu_Başı_Esed_Ağa_Kabri.jpg/1200px-Topçu_Başı_Esed_Ağa_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9135857,41.0048218"
 draft: "false"
 weight: "10"

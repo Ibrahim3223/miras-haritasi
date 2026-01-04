@@ -5,10 +5,10 @@ slug: "cavus-hamami"
 description: "**Çavuş Hamamı: Niksar'da Bir Tarihsel Eğlence Merkezi**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.9633942,40.5892258"
 draft: "false"
 weight: "999"

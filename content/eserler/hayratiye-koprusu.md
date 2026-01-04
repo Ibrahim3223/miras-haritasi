@@ -5,10 +5,10 @@ slug: "hayratiye-koprusu"
 description: "## Hayratiye Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9665489,41.0247841"
 draft: "false"
 weight: "999"

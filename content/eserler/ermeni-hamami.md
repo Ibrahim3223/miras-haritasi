@@ -5,10 +5,10 @@ slug: "ermeni-hamami"
 description: "# Ermeni Hamamı: Sivrihisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.5325489,39.4540558"
 draft: "false"
 weight: "999"

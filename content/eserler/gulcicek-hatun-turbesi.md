@@ -5,10 +5,10 @@ slug: "gulcicek-hatun-turbesi"
 description: "## Gülçiçek Hatun Türbesi: Bursa'nın Gizli Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bursa_Gülçiçek_Hatun_tomb_2014_0036.jpg/1200px-Bursa_Gülçiçek_Hatun_tomb_2014_0036.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0498638,40.1890297"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cintepe-hoyugu-havza"
 description: "## Cintepe Höyüğü: Havza'nın Gizemli Anıtı..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.793145,40.994979"
 draft: "false"
 weight: "999"

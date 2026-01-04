@@ -5,10 +5,10 @@ slug: "seleucia-antik-tiyatro"
 description: "## Seleucia Antik Tiyatro: Mersin'in Gizli Hazineleri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9237251,36.3749084"
 draft: "false"
 weight: "999"

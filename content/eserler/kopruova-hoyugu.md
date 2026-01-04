@@ -5,10 +5,10 @@ slug: "kopruova-hoyugu"
 description: "## Köprüova Höyüğü: Aydın'ın Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7572994,37.9482994"
 draft: "false"
 weight: "999"

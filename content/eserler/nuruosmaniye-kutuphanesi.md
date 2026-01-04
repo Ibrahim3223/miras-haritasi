@@ -5,10 +5,10 @@ slug: "nuruosmaniye-kutuphanesi"
 description: "## Nuruosmaniye Kütüphanesi: İstanbul'un Eski Kentinde Gizli Bir İyilik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.970873,41.010761"
 draft: "false"
 weight: "999"

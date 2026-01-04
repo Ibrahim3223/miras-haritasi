@@ -5,10 +5,10 @@ slug: "asagi-sogutlu-camii"
 description: "### Aşağı Söğütlü Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.8828011,41.2262993"
 draft: "false"
 weight: "999"

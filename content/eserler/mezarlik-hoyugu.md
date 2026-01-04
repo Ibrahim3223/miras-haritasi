@@ -5,10 +5,10 @@ slug: "mezarlik-hoyugu"
 description: "## Mezarlık Höyüğü: Balâ, Ankara'da Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.2770273,39.3302166"
 draft: "false"
 weight: "999"

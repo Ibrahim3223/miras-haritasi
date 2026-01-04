@@ -5,10 +5,10 @@ slug: "kopruhisar-hoyuk"
 description: "## Köprühisar Höyük..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.79054,40.279002"
 draft: "false"
 weight: "999"

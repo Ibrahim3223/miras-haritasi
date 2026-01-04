@@ -5,10 +5,10 @@ slug: "surp-hrestagabet-manastiri"
 description: "### Surp Hreştagabet Manastırı: Erzincan'ın Gizli Cenneti..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.030556,39.611111"
 draft: "false"
 weight: "999"

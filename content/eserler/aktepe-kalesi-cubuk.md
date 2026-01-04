@@ -5,10 +5,10 @@ slug: "aktepe-kalesi-cubuk"
 description: "## Aktepe Kalesi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.990988,40.390015"
 draft: "false"
 weight: "999"

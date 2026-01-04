@@ -5,10 +5,10 @@ slug: "nebi-yahya-nebi-hamza-turbesi"
 description: "### Nebi Yahya Nebi Hamza Türbesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.9852448,36.0630989"
 draft: "false"
 weight: "999"

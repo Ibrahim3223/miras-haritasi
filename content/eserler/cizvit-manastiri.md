@@ -5,10 +5,10 @@ slug: "cizvit-manastiri"
 description: "## Cizvit Manastırı: Kadıköy'ün Tarihi Çığırından Bir Parçacığı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0913525,40.9538498"
 draft: "false"
 weight: "999"

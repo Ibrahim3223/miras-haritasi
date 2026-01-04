@@ -5,10 +5,10 @@ slug: "taskopru-mustafakemalpasa"
 description: "**Taşköprü, Mustafakemalpaşa**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2076225,40.0021706"
 draft: "false"
 weight: "999"

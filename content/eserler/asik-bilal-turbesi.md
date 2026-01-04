@@ -5,10 +5,10 @@ slug: "asik-bilal-turbesi"
 description: "### Aşık Bilal Türbesi: Karacasu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.737154,37.7481651"
 draft: "false"
 weight: "999"

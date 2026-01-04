@@ -5,10 +5,10 @@ slug: "ayakli-hoyugu-cine"
 description: "## Ayaklı Höyüğü, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.048378,37.595974"
 draft: "false"
 weight: "999"

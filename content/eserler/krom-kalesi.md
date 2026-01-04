@@ -5,10 +5,10 @@ slug: "krom-kalesi"
 description: "## Krom Kalesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.5785408,40.5673752"
 draft: "false"
 weight: "999"

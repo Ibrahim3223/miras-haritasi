@@ -5,10 +5,10 @@ slug: "civitcioglu-medresesi"
 description: "## Çivitçioğlu Medresesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.6176987,40.602684"
 draft: "false"
 weight: "999"

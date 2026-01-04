@@ -5,10 +5,10 @@ slug: "armaxa"
 description: "## Armaxa: Eski Çağ'ın Gizemli Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.075031,39.1852"
 draft: "false"
 weight: "999"

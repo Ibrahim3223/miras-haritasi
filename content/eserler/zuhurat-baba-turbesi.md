@@ -5,10 +5,10 @@ slug: "zuhurat-baba-turbesi"
 description: "### Zuhurat Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.867704,40.982305"
 draft: "false"
 weight: "999"

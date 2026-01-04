@@ -5,10 +5,10 @@ slug: "begendik-koprusu"
 description: "### Beğendik Köprüsü: Pervari'nin Tarihi bir Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Be%C4%9FendikBridgePlan.png"
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Pervari"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.649166666,37.964722222"
 draft: "false"
 weight: "999"

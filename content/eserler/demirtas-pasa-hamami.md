@@ -5,10 +5,10 @@ slug: "demirtas-pasa-hamami"
 description: "## Demirtaş Paşa Hamamı: Bursa'nın Bir Güzelliği..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0710904,40.1883152"
 draft: "false"
 weight: "999"

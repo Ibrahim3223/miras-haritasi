@@ -5,10 +5,10 @@ slug: "mochadion"
 description: "### Mochadion: Beykoz'un Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.119903,41.198455"
 draft: "false"
 weight: "999"

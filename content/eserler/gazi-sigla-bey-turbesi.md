@@ -5,10 +5,10 @@ slug: "gazi-sigla-bey-turbesi"
 description: "## Gazi Sığla Bey Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3679619,37.9477539"
 draft: "false"
 weight: "999"

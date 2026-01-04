@@ -5,10 +5,10 @@ slug: "mustafa-aslan-efendi-turbesi"
 description: "## Mustafa Aslan Efendi Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6139565,39.8104057"
 draft: "false"
 weight: "999"

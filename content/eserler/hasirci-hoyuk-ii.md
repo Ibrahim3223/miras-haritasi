@@ -5,10 +5,10 @@ slug: "hasirci-hoyuk-ii"
 description: "## Hasırcı Höyük II: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3482704,38.4736061"
 draft: "false"
 weight: "999"

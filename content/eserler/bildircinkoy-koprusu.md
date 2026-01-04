@@ -5,10 +5,10 @@ slug: "bildircinkoy-koprusu"
 description: "### Bıldırcınköy Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.497217,41.007867"
 draft: "false"
 weight: "999"

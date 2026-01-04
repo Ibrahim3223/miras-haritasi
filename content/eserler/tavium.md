@@ -5,10 +5,10 @@ slug: "tavium"
 description: "## Tavium: Yozgat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5068,39.8589"
 draft: "false"
 weight: "999"

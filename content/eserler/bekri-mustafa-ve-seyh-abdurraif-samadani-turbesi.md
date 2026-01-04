@@ -5,10 +5,10 @@ slug: "bekri-mustafa-ve-seyh-abdurraif-samadani-turbesi"
 description: "## Bekri Mustafa ve Şeyh Abdürraif Şamadani Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Bekri_Mustafa_ve_%C5%9Eeyh_Abd%C3%BCrraif_%C5%9Eamadani_T%C3%BCrbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.96885,41.018884"
 draft: "false"
 weight: "999"

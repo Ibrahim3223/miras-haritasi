@@ -5,10 +5,10 @@ slug: "abbas-camii"
 description: "### Abbas Camii: Buldan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8262787,38.0453186"
 draft: "false"
 weight: "999"

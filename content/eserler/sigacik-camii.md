@@ -5,10 +5,10 @@ slug: "sigacik-camii"
 description: "### Giriş..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7852001,38.1939011"
 draft: "false"
 weight: "999"

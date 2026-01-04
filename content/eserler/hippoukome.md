@@ -5,10 +5,10 @@ slug: "hippoukome"
 description: "# Hippoukome: Antik Yunanistan'ın Gizli Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0269935,36.8335245"
 draft: "false"
 weight: "999"

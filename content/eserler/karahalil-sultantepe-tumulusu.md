@@ -5,10 +5,10 @@ slug: "karahalil-sultantepe-tumulusu"
 description: "## Karahalil Sultantepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0431652,41.5864601"
 draft: "false"
 weight: "999"

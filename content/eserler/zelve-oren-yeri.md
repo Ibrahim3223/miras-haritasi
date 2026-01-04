@@ -5,10 +5,10 @@ slug: "zelve-oren-yeri"
 description: "# Zelve Ören Yeri: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Zelve_Cappadocia.JPG/1200px-Zelve_Cappadocia.JPG"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.86416667,38.66916667"
 draft: "false"
 weight: "10"

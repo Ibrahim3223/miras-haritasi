@@ -5,10 +5,10 @@ slug: "kurttepe-c-tumulusu"
 description: "## Kurttepe C Tümülüsü: Edirne'nin Gizli Ören Yeri..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7081318,41.3656502"
 draft: "false"
 weight: "999"

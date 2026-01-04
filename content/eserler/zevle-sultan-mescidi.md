@@ -5,10 +5,10 @@ slug: "zevle-sultan-mescidi"
 description: "## Zevle Sultan Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4890938,37.8733788"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "magydos"
 description: "## Magydos: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.793611111,36.852777777"
 draft: "false"
 weight: "999"

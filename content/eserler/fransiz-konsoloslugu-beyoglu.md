@@ -5,10 +5,10 @@ slug: "fransiz-konsoloslugu-beyoglu"
 description: "### Fransız Konsolosluğu, Beyoğlu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9837303,41.0364647"
 draft: "false"
 weight: "999"

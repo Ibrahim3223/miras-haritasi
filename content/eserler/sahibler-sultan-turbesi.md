@@ -5,10 +5,10 @@ slug: "sahibler-sultan-turbesi"
 description: "## Sahibler Sultan Türbesi: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.538813,38.753898"
 draft: "false"
 weight: "999"

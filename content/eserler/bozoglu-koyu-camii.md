@@ -5,10 +5,10 @@ slug: "bozoglu-koyu-camii"
 description: "## Bozoğlu Köyü Camii Tanıtımı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.9200401,40.7843628"
 draft: "false"
 weight: "999"

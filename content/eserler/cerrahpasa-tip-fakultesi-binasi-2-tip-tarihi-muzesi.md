@@ -5,10 +5,10 @@ slug: "cerrahpasa-tip-fakultesi-binasi-2-tip-tarihi-muzesi"
 description: "## Cerrahpaşa Tıp Fakültesi Binası 2, Tıp Tarihi Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9402199,41.0062485"
 draft: "false"
 weight: "999"

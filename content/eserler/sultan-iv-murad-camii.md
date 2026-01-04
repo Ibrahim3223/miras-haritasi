@@ -5,10 +5,10 @@ slug: "sultan-iv-murad-camii"
 description: "### Sultan IV. Murad Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "İç Anadolu Bölgesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8936081,40.8116417"
 draft: "false"
 weight: "999"

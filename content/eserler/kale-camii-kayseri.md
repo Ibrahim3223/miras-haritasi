@@ -5,10 +5,10 @@ slug: "kale-camii-kayseri"
 description: "### Kale Camii, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4883575,38.7213898"
 draft: "false"
 weight: "999"

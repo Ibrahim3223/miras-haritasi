@@ -5,10 +5,10 @@ slug: "sekerli-camii"
 description: "## Şekerli Camii: Kahramanmaraş'ta Bir Tarihî Cennet..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9308319,37.583374"
 draft: "false"
 weight: "999"

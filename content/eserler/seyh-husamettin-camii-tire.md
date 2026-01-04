@@ -5,10 +5,10 @@ slug: "seyh-husamettin-camii-tire"
 description: "## Şeyh Hüsamettin Camii: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7347164,38.086937"
 draft: "false"
 weight: "999"

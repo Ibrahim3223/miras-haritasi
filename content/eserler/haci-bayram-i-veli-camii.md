@@ -5,10 +5,10 @@ slug: "haci-bayram-i-veli-camii"
 description: "**Hacı Bayram-ı Veli Camii: Balıkesir'in Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.775873,39.223454"
 draft: "false"
 weight: "999"

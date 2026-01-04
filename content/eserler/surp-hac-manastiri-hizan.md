@@ -5,10 +5,10 @@ slug: "surp-hac-manastiri-hizan"
 description: "### Surp Haç Manastırı (Hizan)..."
 featured_image: ""
 province: "Hizan"
-iller: '["Hizan"]'
+iller: ["Hizan"]
 district: "Q16399792"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.518888888,38.19"
 draft: "false"
 weight: "999"

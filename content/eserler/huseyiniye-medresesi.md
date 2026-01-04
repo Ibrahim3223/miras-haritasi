@@ -5,10 +5,10 @@ slug: "huseyiniye-medresesi"
 description: "## Hüseyiniye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.952243,41.022091"
 draft: "false"
 weight: "999"

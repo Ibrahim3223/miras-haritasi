@@ -5,10 +5,10 @@ slug: "caneva-koprusu"
 description: "## Çaneva Köprüsü: Hemşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9029338,41.0402693"
 draft: "false"
 weight: "999"

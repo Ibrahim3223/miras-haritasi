@@ -5,10 +5,10 @@ slug: "onobara"
 description: "# Onobara Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Konyaaltı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.502799,36.794221"
 draft: "false"
 weight: "999"

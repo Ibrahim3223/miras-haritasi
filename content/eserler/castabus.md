@@ -5,10 +5,10 @@ slug: "castabus"
 description: "## Castabus: Muğla'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.15674,36.78458"
 draft: "false"
 weight: "999"

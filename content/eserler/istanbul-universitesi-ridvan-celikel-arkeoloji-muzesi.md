@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-ridvan-celikel-arkeoloji-muzesi"
 description: "## İstanbul Üniversitesi Rıdvan Çelikel Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/İstanbul_Üniversitesi_Rıdvan_Çelikel_Arkeoloji_Müzesi.jpg/1200px-İstanbul_Üniversitesi_Rıdvan_Çelikel_Arkeoloji_Müzesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.959835,41.009536"
 draft: "false"
 weight: "10"

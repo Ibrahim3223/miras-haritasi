@@ -5,10 +5,10 @@ slug: "tutunculer-koyu-koprusu"
 description: "## Tütüncüler Köyü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.886917,41.122767"
 draft: "false"
 weight: "999"

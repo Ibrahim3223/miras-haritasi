@@ -5,10 +5,10 @@ slug: "eskisehir-surp-yerrortutyun-kilisesi"
 description: "**Eskişehir Surp Yerrortutyun Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg/1200px-Heilige-Dreieinigkeits-Kirche;_Sivrihisar,_Eskişehir;_01.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Eskişehir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.5191,39.7771"
 draft: "false"
 weight: "999"

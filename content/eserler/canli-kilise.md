@@ -5,10 +5,10 @@ slug: "canli-kilise"
 description: "**Çanlı Kilise: Aksaray'ın Tarihi bir Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Canli-kilise.JPG/1200px-Canli-kilise.JPG"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.13527778,38.29861111"
 draft: "false"
 weight: "10"

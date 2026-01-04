@@ -5,10 +5,10 @@ slug: "haci-sinan-camii-bayindir"
 description: "## Hacı Sinan Camii: Bayındır'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hacı_Sinan_Camii.jpg/1200px-Hacı_Sinan_Camii.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6473942,38.2243462"
 draft: "false"
 weight: "10"

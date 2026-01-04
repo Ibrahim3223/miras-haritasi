@@ -5,10 +5,10 @@ slug: "yanikagil-koyu-cami"
 description: "**Yanıkağıl Köyü Cami**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9032936,41.2914658"
 draft: "false"
 weight: "999"

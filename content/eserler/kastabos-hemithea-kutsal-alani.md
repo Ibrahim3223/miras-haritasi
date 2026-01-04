@@ -5,10 +5,10 @@ slug: "kastabos-hemithea-kutsal-alani"
 description: "## Kastabos Hemithea Kutsal Alanı: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.1546116,36.7843704"
 draft: "false"
 weight: "999"

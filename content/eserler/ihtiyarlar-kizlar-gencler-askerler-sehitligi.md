@@ -5,10 +5,10 @@ slug: "ihtiyarlar-kizlar-gencler-askerler-sehitligi"
 description: "## İhtiyarlar, Kızlar, Gençler, Askerler Şehitliği..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.3090324,39.9138794"
 draft: "false"
 weight: "999"

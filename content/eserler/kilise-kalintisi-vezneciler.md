@@ -5,10 +5,10 @@ slug: "kilise-kalintisi-vezneciler"
 description: "## Kilise Kalıntısı, Vezneciler..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9598351,41.0117683"
 draft: "false"
 weight: "999"

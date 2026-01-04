@@ -5,10 +5,10 @@ slug: "fetih-mescidi"
 description: "**Fetih Mescidi**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.429623671,38.606833676"
 draft: "false"
 weight: "999"

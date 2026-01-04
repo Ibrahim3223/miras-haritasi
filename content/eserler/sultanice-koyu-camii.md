@@ -5,10 +5,10 @@ slug: "sultanice-koyu-camii"
 description: "## Sultaniçe Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.1543922,40.625351"
 draft: "false"
 weight: "999"

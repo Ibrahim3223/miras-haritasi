@@ -5,10 +5,10 @@ slug: "nimelceys-kabri-3-cankurtaran"
 description: "## Nimelceyş Kabri 3, Cankurtaran:İstanbul'un Tarihsel Zemininde Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9812984,41.0047417"
 draft: "false"
 weight: "999"

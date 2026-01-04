@@ -5,10 +5,10 @@ slug: "kalpe"
 description: "## Kalpe Arkeolojik Sit..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kandıra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1958,41.1501"
 draft: "false"
 weight: "999"

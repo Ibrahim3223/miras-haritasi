@@ -5,10 +5,10 @@ slug: "anemurium-liman-hamami"
 description: "## Anemurium Liman Hamamı: Mersin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8035316,36.022419"
 draft: "false"
 weight: "999"

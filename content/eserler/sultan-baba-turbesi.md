@@ -5,10 +5,10 @@ slug: "sultan-baba-turbesi"
 description: "## Sultan Baba Türbesi: Bitlis'in Tarihi Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1075,38.4014"
 draft: "false"
 weight: "999"

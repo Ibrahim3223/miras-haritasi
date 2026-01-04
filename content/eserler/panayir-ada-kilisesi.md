@@ -5,10 +5,10 @@ slug: "panayir-ada-kilisesi"
 description: "## Panayır Ada Kilisesi: Didim'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3329163,37.330101"
 draft: "false"
 weight: "999"

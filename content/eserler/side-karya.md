@@ -5,10 +5,10 @@ slug: "side-karya"
 description: "## Side (Karya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8498358,37.2332356"
 draft: "false"
 weight: "999"

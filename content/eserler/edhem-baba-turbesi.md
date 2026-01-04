@@ -5,10 +5,10 @@ slug: "edhem-baba-turbesi"
 description: "## Edhem Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935743,41.042302"
 draft: "false"
 weight: "999"

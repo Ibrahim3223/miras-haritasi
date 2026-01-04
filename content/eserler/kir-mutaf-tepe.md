@@ -5,10 +5,10 @@ slug: "kir-mutaf-tepe"
 description: "### Kır Mutaf Tepe: Manisa'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9841957,38.5845184"
 draft: "false"
 weight: "999"

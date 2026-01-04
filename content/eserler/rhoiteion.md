@@ -5,10 +5,10 @@ slug: "rhoiteion"
 description: "## Rhoiteion: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.3,40.0092"
 draft: "false"
 weight: "999"

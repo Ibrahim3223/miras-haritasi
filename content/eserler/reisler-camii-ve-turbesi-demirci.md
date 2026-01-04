@@ -5,10 +5,10 @@ slug: "reisler-camii-ve-turbesi-demirci"
 description: "## Reisler Camii ve Türbesi, Demirci..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6372261,39.0044403"
 draft: "false"
 weight: "999"

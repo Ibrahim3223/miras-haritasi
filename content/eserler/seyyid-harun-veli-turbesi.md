@@ -5,10 +5,10 @@ slug: "seyyid-harun-veli-turbesi"
 description: "## Seyyid Harun Veli Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.8463345,37.4168777"
 draft: "false"
 weight: "999"

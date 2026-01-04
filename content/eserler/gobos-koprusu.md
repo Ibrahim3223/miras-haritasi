@@ -5,10 +5,10 @@ slug: "gobos-koprusu"
 description: "## Goboş Köprüsü: Karadeniz'in Gizli Kıymeti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.98985,41.007183"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sabanin-hoyukleri-4-tumulusu"
 description: "## Şabanın Höyükleri 4 Tümülüsü: Kırklareli'nin Gizli Tarihçesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2602406,42.0199013"
 draft: "false"
 weight: "999"

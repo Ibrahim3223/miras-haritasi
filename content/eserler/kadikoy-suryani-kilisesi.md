@@ -5,10 +5,10 @@ slug: "kadikoy-suryani-kilisesi"
 description: "## Kadıköy Süryani Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.025539,40.983665"
 draft: "false"
 weight: "999"

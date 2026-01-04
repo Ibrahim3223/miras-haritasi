@@ -5,10 +5,10 @@ slug: "rabia-ana-turbesi"
 description: "## Rabia Ana Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2792091,39.9024696"
 draft: "false"
 weight: "999"

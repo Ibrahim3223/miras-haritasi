@@ -5,10 +5,10 @@ slug: "sehzade-mahmut-turbesi"
 description: "## Şehzade Mahmut Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/MURADİYE_TÜRBELER_-_panoramio.jpg/1200px-MURADİYE_TÜRBELER_-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9574289,41.0133714"
 draft: "false"
 weight: "999"

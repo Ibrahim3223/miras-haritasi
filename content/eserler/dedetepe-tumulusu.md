@@ -5,10 +5,10 @@ slug: "dedetepe-tumulusu"
 description: "## Dedetepe Tümülüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5506859,38.5648193"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirklareli-saglik-tarihi-evi"
 description: "### Kırklareli Sağlık Tarihi Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kırklareli_-_Kırklareli_Sağlık_Tarihi_Evi_-_20250601153635.jpg/1200px-Kırklareli_-_Kırklareli_Sağlık_Tarihi_Evi_-_20250601153635.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2254276,41.7388687"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mersin-su-muzesi"
 description: "## Mersin Su Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mersin_Water_Museum_ventilation.jpg/1200px-Mersin_Water_Museum_ventilation.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.6045,36.8141"
 draft: "false"
 weight: "10"

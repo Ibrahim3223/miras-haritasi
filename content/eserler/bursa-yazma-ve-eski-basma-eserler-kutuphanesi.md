@@ -5,10 +5,10 @@ slug: "bursa-yazma-ve-eski-basma-eserler-kutuphanesi"
 description: "## Bursa Yazma ve Eski Basma Eserler Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "panagia-kilisesi-vekse"
 description: "### Panagia Kilisesi (Vekse): Kayseri'nin Hristiyan Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.672444,38.804334"
 draft: "false"
 weight: "999"

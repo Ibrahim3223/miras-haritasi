@@ -5,10 +5,10 @@ slug: "karabuk-kardemir-demir-celik-muzesi"
 description: "## Karabük Kardemir Demir-Çelik Müzesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Karabük"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.633333333,41.183333333"
 draft: "false"
 weight: "999"

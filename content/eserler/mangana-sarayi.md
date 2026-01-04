@@ -5,10 +5,10 @@ slug: "mangana-sarayi"
 description: "### Mangana Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.986542127,41.00976706"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gavur-koprusu"
 description: "## Gavur Köprüsü: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3583832,38.4665337"
 draft: "false"
 weight: "999"

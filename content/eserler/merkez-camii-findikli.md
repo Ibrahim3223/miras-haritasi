@@ -5,10 +5,10 @@ slug: "merkez-camii-findikli"
 description: "## Merkez Camii, Fındıklı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.142852815,41.272476828"
 draft: "false"
 weight: "999"

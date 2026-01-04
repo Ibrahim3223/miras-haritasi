@@ -5,10 +5,10 @@ slug: "gulcicek-hatun-mescidi"
 description: "## Gülçiçek Hatun Mescidi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0500183,40.1889687"
 draft: "false"
 weight: "999"

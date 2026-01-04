@@ -5,10 +5,10 @@ slug: "cumhurbaskanligi-sarayi"
 description: "## Cumhurbaşkanlığı Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Presidential_Palace_Main.jpg/1200px-Presidential_Palace_Main.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "32.7989,39.9311"
 draft: "false"
 weight: "10"

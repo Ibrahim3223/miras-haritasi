@@ -5,10 +5,10 @@ slug: "cibali-kapisi"
 description: "## Cibali Kapısı: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.958611,41.026188"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gurcutepe"
 description: "## Gürcütepe: Şanlıurfa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.8459282,37.1198654"
 draft: "false"
 weight: "999"

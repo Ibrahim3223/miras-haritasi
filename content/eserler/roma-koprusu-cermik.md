@@ -5,10 +5,10 @@ slug: "roma-koprusu-cermik"
 description: "## Roma Köprüsü, Çermik..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.463665,38.0552649"
 draft: "false"
 weight: "999"

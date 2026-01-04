@@ -5,10 +5,10 @@ slug: "yukari-mumcu-camii"
 description: "### Yukarı Mumcu Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2691879,39.9065666"
 draft: "false"
 weight: "999"

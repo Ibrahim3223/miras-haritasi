@@ -5,10 +5,10 @@ slug: "agalar-camii-serinhisar"
 description: "## Ağalar Camii: Serinhisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Serinhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2599888,37.5773735"
 draft: "false"
 weight: "999"

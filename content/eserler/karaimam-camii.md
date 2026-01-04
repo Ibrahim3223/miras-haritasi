@@ -5,10 +5,10 @@ slug: "karaimam-camii"
 description: "## Karaimam Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4779481,38.718086879"
 draft: "false"
 weight: "999"

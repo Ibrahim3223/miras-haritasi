@@ -5,10 +5,10 @@ slug: "saban-aga-camisi"
 description: "## Şaban Ağa Camisi: Muğla'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Stratonicea_Şaban_Ağa_Mosque_in_2015_4014.jpg/1200px-Stratonicea_Şaban_Ağa_Mosque_in_2015_4014.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0631695,37.3134766"
 draft: "false"
 weight: "10"

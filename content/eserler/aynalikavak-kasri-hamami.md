@@ -5,10 +5,10 @@ slug: "aynalikavak-kasri-hamami"
 description: "## Aynalıkavak Kasrı Hamamı Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9539642,41.0380402"
 draft: "false"
 weight: "999"

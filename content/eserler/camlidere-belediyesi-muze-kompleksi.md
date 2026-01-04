@@ -5,10 +5,10 @@ slug: "camlidere-belediyesi-muze-kompleksi"
 description: "### Çamlıdere Belediyesi Müze Kompleksi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.475810911,40.490349378"
 draft: "false"
 weight: "999"

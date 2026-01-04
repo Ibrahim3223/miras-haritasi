@@ -5,10 +5,10 @@ slug: "kalanlar-koprusu"
 description: "## Kalanlar Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.0231895,38.3729286"
 draft: "false"
 weight: "999"

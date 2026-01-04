@@ -5,10 +5,10 @@ slug: "konya-etnografya-muzesi"
 description: "## Konya Etnografya Müzesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.49138889,37.86666667"
 draft: "false"
 weight: "999"

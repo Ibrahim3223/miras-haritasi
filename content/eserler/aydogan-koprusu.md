@@ -5,10 +5,10 @@ slug: "aydogan-koprusu"
 description: "## Aydoğan Köprüsü: Siirt'te Bir Geçit Yaşıtlığı..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Siirt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.9060854,38.0234077"
 draft: "false"
 weight: "999"

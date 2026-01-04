@@ -5,10 +5,10 @@ slug: "kocapinar-koyu-kilisesi-2"
 description: "## Kocapınar Köyü Kilisesi 2: Gümüşhane'nin Gizli Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Gümüşhane"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.606968,40.475763"
 draft: "false"
 weight: "999"

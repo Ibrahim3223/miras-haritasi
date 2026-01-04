@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii-urla"
 description: "# Rüstem Paşa Camii (Urla)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7618198,38.331501"
 draft: "false"
 weight: "999"

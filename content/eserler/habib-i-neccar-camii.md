@@ -5,10 +5,10 @@ slug: "habib-i-neccar-camii"
 description: "## Habib-i Neccar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Habib-i-Neccar_Camii-composite.jpg/1200px-Habib-i-Neccar_Camii-composite.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1656367,36.2016763"
 draft: "false"
 weight: "10"

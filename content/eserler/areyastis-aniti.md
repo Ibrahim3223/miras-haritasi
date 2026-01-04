@@ -5,10 +5,10 @@ slug: "areyastis-aniti"
 description: "## Areyastis Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7096539,39.2178192"
 draft: "false"
 weight: "999"

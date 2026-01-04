@@ -5,10 +5,10 @@ slug: "zagnos-pasa-koprusu"
 description: "## Zağnos Paşa Köprüsü: Ortahisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.71762,41.004488"
 draft: "false"
 weight: "999"

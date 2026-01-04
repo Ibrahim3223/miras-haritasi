@@ -5,10 +5,10 @@ slug: "geyikli-baba-turbesi"
 description: "### Geyikli Baba Türbesi: Bursa'nın Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Geyikli_Baba_Türbesi_2.jpg/1200px-Geyikli_Baba_Türbesi_2.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Kestel"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.371,40.1084"
 draft: "false"
 weight: "10"

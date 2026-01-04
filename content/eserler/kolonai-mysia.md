@@ -5,10 +5,10 @@ slug: "kolonai-mysia"
 description: "### Kolonai (Mysia): Türkiye'nin Eski Çağ Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9108,40.2808"
 draft: "false"
 weight: "999"

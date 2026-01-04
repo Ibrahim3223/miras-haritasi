@@ -5,10 +5,10 @@ slug: "kissa"
 description: "## Kissa Arkeolojik Sit..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.424809,41.386719"
 draft: "false"
 weight: "999"

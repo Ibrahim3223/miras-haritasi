@@ -5,10 +5,10 @@ slug: "domurcali-omerhoyuk-tumulusu"
 description: "## Domurcalı Ömerhöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8148518,41.8204002"
 draft: "false"
 weight: "999"

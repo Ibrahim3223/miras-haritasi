@@ -5,10 +5,10 @@ slug: "otantika-etnografya-muzesi"
 description: "## Otantika Etnografya Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.426145,37.765777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gelezo-kilisesi"
 description: "## Gelezo Kilisesi: Hakkâri'nin Gizemli Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.9495392,37.5568962"
 draft: "false"
 weight: "999"

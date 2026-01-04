@@ -5,10 +5,10 @@ slug: "han-camii-kayseri"
 description: "# Han Camii, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4930573,38.7171478"
 draft: "false"
 weight: "999"

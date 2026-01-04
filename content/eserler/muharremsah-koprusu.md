@@ -5,10 +5,10 @@ slug: "muharremsah-koprusu"
 description: "### Muharremşah Köprüsü: Uşak'ta Bir Tarihi Köprü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4768372,38.6446342"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "meryem-ana-kilisesi"
 description: "### Meryem Ana Kilisesi: Ayvansaray'ın Tarihi Şehadeti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SaintMaryOfBlachernae20072612_01.jpg/1200px-SaintMaryOfBlachernae20072612_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.942831,41.038742"
 draft: "false"
 weight: "10"

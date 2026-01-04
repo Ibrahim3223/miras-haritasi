@@ -5,10 +5,10 @@ slug: "mustafa-pasa-hamami"
 description: "### Mustafa Paşa Hamamı: Tokat'ta Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5461909,40.3163"
 draft: "false"
 weight: "999"

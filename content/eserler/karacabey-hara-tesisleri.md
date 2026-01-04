@@ -5,10 +5,10 @@ slug: "karacabey-hara-tesisleri"
 description: "## Karacabey Hara Tesisleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3451995,40.0975686"
 draft: "false"
 weight: "999"

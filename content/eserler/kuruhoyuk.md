@@ -5,10 +5,10 @@ slug: "kuruhoyuk"
 description: "## Kuruhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5664591,39.3297519"
 draft: "false"
 weight: "999"

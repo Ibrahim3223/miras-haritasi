@@ -5,10 +5,10 @@ slug: "adada"
 description: "### Adada: Isparta'nın Gizli Öreni..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Sütçüler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.985311111,37.575161111"
 draft: "false"
 weight: "999"

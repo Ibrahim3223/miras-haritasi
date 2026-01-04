@@ -5,10 +5,10 @@ slug: "hadath"
 description: "### Hadath Arkeolojik Sit: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.46,37.707"
 draft: "false"
 weight: "999"

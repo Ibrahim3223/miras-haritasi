@@ -5,10 +5,10 @@ slug: "harbi-mescidi-haziresi"
 description: "## Harbi Mescidi Haziresi: Fatih'in Efsanevi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.927002,41.0204964"
 draft: "false"
 weight: "999"

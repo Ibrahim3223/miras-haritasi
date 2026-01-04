@@ -5,10 +5,10 @@ slug: "huzur-camii"
 description: "## Huzur Camii: Antalya'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Kemer_-_panoramio_(51).jpg/1200px-Kemer_-_panoramio_(51).jpg"
 province: "Kemer district (Antalya)"
-iller: '["Kemer district (Antalya)"]'
+iller: ["Kemer district (Antalya)"]
 district: "Yeni (Kemer)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.556685569,36.601933564"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kalekoy-koprusu"
 description: "### Kaleköy Köprüsü: Rize'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9608,40.7952928"
 draft: "false"
 weight: "999"

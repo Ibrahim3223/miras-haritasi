@@ -5,10 +5,10 @@ slug: "islambeyli-tas-kopru"
 description: "## İslambeyli Taş Köprü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6264877,41.7152023"
 draft: "false"
 weight: "999"

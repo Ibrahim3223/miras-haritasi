@@ -5,10 +5,10 @@ slug: "balikesir-kuvay-i-milliye-muzesi"
 description: "## Balıkesir Kuvay-ı Milliye Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Balıkesir_Museum.JPG/1200px-Balıkesir_Museum.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balıkesir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.879444444,39.645833333"
 draft: "false"
 weight: "10"

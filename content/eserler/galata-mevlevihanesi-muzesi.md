@@ -5,10 +5,10 @@ slug: "galata-mevlevihanesi-muzesi"
 description: "### Galata Mevlevihanesi Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9751,41.028"
 draft: "false"
 weight: "999"

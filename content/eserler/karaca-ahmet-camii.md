@@ -5,10 +5,10 @@ slug: "karaca-ahmet-camii"
 description: "## Karaca Ahmet Camii: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.571867,41.6799545"
 draft: "false"
 weight: "999"

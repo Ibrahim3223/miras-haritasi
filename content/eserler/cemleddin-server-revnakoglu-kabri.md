@@ -5,10 +5,10 @@ slug: "cemleddin-server-revnakoglu-kabri"
 description: "## Cemâleddin Server Revnakoğlu Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9333744,41.0298653"
 draft: "false"
 weight: "999"

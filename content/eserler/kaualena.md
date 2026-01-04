@@ -5,10 +5,10 @@ slug: "kaualena"
 description: "## Kaualena Arkeolojik Sit..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Elmacık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.384641,38.596028"
 draft: "false"
 weight: "999"

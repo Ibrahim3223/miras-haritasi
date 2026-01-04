@@ -5,10 +5,10 @@ slug: "kucuktashane-camii"
 description: "# Küçüktaşhane Camii: Rize'nin Gizli Çalıksızı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.753996474,41.110767684"
 draft: "false"
 weight: "999"

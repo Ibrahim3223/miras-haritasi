@@ -5,10 +5,10 @@ slug: "suna-ve-inan-kirac-kaleici-muzesi"
 description: "# Suna ve İnan Kıraç Kaleiçi Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.707515,36.884171"
 draft: "false"
 weight: "999"

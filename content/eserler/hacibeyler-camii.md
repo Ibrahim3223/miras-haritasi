@@ -5,10 +5,10 @@ slug: "hacibeyler-camii"
 description: "## Hacıbeyler Camii: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2135468,37.1834755"
 draft: "false"
 weight: "999"

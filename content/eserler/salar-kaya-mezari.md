@@ -5,10 +5,10 @@ slug: "salar-kaya-mezari"
 description: "## Salar Kaya Mezarı: Boyabat'taki Tarihî Bir Anıt..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Boyabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6857681,41.5327339"
 draft: "false"
 weight: "999"

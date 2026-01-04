@@ -5,10 +5,10 @@ slug: "kale-mescidi-afyonkarahisar"
 description: "## Kale Mescidi, Afyonkarahisar..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5305443,38.7548752"
 draft: "false"
 weight: "999"

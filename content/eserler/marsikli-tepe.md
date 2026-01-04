@@ -5,10 +5,10 @@ slug: "marsikli-tepe"
 description: "## Marsıklı Tepe: Hatay'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4104483,36.2301548"
 draft: "false"
 weight: "999"

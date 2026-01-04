@@ -5,10 +5,10 @@ slug: "turbe-yazirli-mahallesi"
 description: "## Türbe (Yazırlı Mahallesi)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3742733,37.8513641"
 draft: "false"
 weight: "999"

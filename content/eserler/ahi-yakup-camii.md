@@ -5,10 +5,10 @@ slug: "ahi-yakup-camii"
 description: "## Ahi Yakup Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8592911,39.9448204"
 draft: "false"
 weight: "999"

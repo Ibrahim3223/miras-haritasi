@@ -5,10 +5,10 @@ slug: "ahi-izzettin-turbesi"
 description: "## Ahi İzzettin Türbesi: Kütahya'nın Zümrüt Mülkünün Gizemi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9742813,39.4199677"
 draft: "false"
 weight: "999"

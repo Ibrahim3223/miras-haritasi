@@ -5,10 +5,10 @@ slug: "ahmetbey-mahmutcuk-yolu-tumulusu"
 description: "### Ahmetbey Mahmutçuk Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.59659,41.461422"
 draft: "false"
 weight: "999"

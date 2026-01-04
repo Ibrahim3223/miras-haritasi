@@ -5,10 +5,10 @@ slug: "medet-hoyuk"
 description: "## Medet Höyük: Tavas'ın Gizli İncisi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.014967,37.5102"
 draft: "false"
 weight: "999"

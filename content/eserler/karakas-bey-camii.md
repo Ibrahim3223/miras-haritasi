@@ -5,10 +5,10 @@ slug: "karakas-bey-camii"
 description: "## Karakaş Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Karakaşbey_Camii_01.jpg/1200px-Karakaşbey_Camii_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.221459257,41.734403854"
 draft: "false"
 weight: "10"

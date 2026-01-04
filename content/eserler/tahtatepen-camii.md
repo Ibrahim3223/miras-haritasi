@@ -5,10 +5,10 @@ slug: "tahtatepen-camii"
 description: "## Tahtatepen Camii: Konya'nın Gizli Çandırı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4993286,37.8643761"
 draft: "false"
 weight: "999"

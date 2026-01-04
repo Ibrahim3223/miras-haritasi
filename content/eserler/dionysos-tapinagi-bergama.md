@@ -5,10 +5,10 @@ slug: "dionysos-tapinagi-bergama"
 description: "## Dionysos Tapınağı (Bergama)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pergamon_Dionysos_temple_0036.jpg/1200px-Pergamon_Dionysos_temple_0036.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1825,39.132222222"
 draft: "false"
 weight: "10"

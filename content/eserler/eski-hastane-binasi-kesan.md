@@ -5,10 +5,10 @@ slug: "eski-hastane-binasi-kesan"
 description: "### Eski Hastane Binası, Keşan..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.6380043,40.8496056"
 draft: "false"
 weight: "999"

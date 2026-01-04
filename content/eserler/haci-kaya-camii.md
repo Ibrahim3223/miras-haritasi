@@ -5,10 +5,10 @@ slug: "haci-kaya-camii"
 description: "## Hacı Kaya Camii: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8793736,39.6503143"
 draft: "false"
 weight: "999"

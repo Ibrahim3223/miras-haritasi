@@ -5,10 +5,10 @@ slug: "ani-surp-stephanos-kilisesi"
 description: "## Ani Surp Stephanos Kilisesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5708122,40.5105057"
 draft: "false"
 weight: "999"

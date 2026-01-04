@@ -5,10 +5,10 @@ slug: "kastamonu-sapka-muzesi"
 description: "## Kastamonu Şapka Müzesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7646332,41.3660202"
 draft: "false"
 weight: "999"

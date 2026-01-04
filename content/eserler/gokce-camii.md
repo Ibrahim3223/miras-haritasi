@@ -5,10 +5,10 @@ slug: "gokce-camii"
 description: "## Gökçe Camii: Sivas'ta Bir Tarihî Anıtın Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.1119537,39.372242"
 draft: "false"
 weight: "999"

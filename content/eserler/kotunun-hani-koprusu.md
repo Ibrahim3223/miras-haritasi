@@ -5,10 +5,10 @@ slug: "kotunun-hani-koprusu"
 description: "## Kötünün Hanı Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.7438812,39.0349922"
 draft: "false"
 weight: "999"

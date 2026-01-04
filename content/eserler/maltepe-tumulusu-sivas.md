@@ -5,10 +5,10 @@ slug: "maltepe-tumulusu-sivas"
 description: "## Maltepe Tümülüsü: Sivas'ta Bir İhtişam..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1013412,39.7874413"
 draft: "false"
 weight: "999"

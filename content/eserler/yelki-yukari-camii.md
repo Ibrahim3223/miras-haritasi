@@ -5,10 +5,10 @@ slug: "yelki-yukari-camii"
 description: "### Yelki Yukarı Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8745403,38.340519"
 draft: "false"
 weight: "999"

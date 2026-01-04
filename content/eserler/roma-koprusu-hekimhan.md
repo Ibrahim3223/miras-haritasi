@@ -5,10 +5,10 @@ slug: "roma-koprusu-hekimhan"
 description: "### Roma Köprüsü, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.8590317,38.9756851"
 draft: "false"
 weight: "999"

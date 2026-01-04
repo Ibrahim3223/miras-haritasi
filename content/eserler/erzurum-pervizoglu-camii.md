@@ -5,10 +5,10 @@ slug: "erzurum-pervizoglu-camii"
 description: "**Erzurum Pervizoğlu Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Erzurum_Pervizoğlu_Camii.jpg/1200px-Erzurum_Pervizoğlu_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.274361111,39.909277777"
 draft: "false"
 weight: "10"

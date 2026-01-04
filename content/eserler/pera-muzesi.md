@@ -5,10 +5,10 @@ slug: "pera-muzesi"
 description: "### Pera Müzesi: İstanbul'un En Önemli Kültür Miraslarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Istanbul_Beyoglu_Pera_museum.jpg/1200px-Istanbul_Beyoglu_Pera_museum.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.975194444,41.031805555"
 draft: "false"
 weight: "10"

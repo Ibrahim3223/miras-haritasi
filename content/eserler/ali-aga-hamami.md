@@ -5,10 +5,10 @@ slug: "ali-aga-hamami"
 description: "## Ali Ağa Hamamı Tanıtımı..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Karadeniz Ereğli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.4222431,41.2802696"
 draft: "false"
 weight: "999"

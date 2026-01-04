@@ -5,10 +5,10 @@ slug: "jubin-aziz-georg-manastiri"
 description: "## Jubin Aziz Georg Manastırı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "36.15,36.2"
 draft: "false"
 weight: "999"

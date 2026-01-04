@@ -5,10 +5,10 @@ slug: "thera-antik-tiyatrosu"
 description: "**Thera Antik Tiyatrosu**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3566551,37.1174812"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tepsi-minare"
 description: "### Tepsi Minare: Erzurum'un Ünlü Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tepsi_Minaret_at_Erzurum_Citadel_-_Erzurum_Kalesi_Tepsi_Minare_01.jpg/1200px-Tepsi_Minaret_at_Erzurum_Citadel_-_Erzurum_Kalesi_Tepsi_Minare_01.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "41.276166666,39.907527777"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mahmut-calik-ve-ahmet-calik-tekstil-muzesi"
 description: "## Malatya'nın Tekstil Mirası: Mahmut Çalık ve Ahmet Çalık Tekstil Müzesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Malatya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yapi-kalintisi-akcakecili"
 description: "## Ezine'nin Tarihi Hamamı: Akçakeçili Hamamı'nın İzleri..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.1872654,39.7103958"
 draft: "false"
 weight: "999"

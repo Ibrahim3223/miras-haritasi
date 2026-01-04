@@ -5,10 +5,10 @@ slug: "dombay-hoyuk-dikili"
 description: "## Dombay Höyük, Dikili: İzmir'in Gizli Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.813333333,39.165983333"
 draft: "false"
 weight: "999"

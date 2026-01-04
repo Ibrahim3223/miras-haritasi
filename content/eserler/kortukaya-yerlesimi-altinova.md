@@ -5,10 +5,10 @@ slug: "kortukaya-yerlesimi-altinova"
 description: "## Körtükaya Yerleşimi: Altınova'nın Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.807968,39.233571"
 draft: "false"
 weight: "999"

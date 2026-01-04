@@ -5,10 +5,10 @@ slug: "akkent-kalesi"
 description: "## Akkent Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.047123,38.9234505"
 draft: "false"
 weight: "999"

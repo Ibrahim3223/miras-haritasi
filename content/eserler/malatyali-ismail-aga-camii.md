@@ -5,10 +5,10 @@ slug: "malatyali-ismail-aga-camii"
 description: "## Malatyalı İsmail Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Malatyalı_İsmail_Ağa_Camii.jpg/1200px-Malatyalı_İsmail_Ağa_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.016833333,41.018638888"
 draft: "false"
 weight: "10"

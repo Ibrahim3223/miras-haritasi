@@ -5,10 +5,10 @@ slug: "alamadan-dede-turbesi"
 description: "## Alamadan Dede Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Tire_Alamadan_Dede_T%C3%BCrbesi_5481.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.726354,38.083517"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "evrensekiz-mercimektepe-tumulusu"
 description: "### Evrensekiz Mercimektepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4676857,41.4142113"
 draft: "false"
 weight: "999"

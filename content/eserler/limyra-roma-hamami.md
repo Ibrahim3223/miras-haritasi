@@ -5,10 +5,10 @@ slug: "limyra-roma-hamami"
 description: "## Limyra Roma Hamamı: Antalya'nın Eski Çağdan Kalan Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.1719856,36.3418846"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "asci-baba-turbesi"
 description: "# Aşçı Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.408415746,38.269236907"
 draft: "false"
 weight: "999"

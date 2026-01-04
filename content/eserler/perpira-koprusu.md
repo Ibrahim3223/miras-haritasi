@@ -5,10 +5,10 @@ slug: "perpira-koprusu"
 description: "## Perpıra Köprüsü..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Batman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.152431,37.98867"
 draft: "false"
 weight: "999"

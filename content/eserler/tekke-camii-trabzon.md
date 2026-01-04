@@ -5,10 +5,10 @@ slug: "tekke-camii-trabzon"
 description: "**Tekke Camii: Trabzon'un Gizli Çehresinin En Güzel Anıtları Arasındaki Bir Zenginlik**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7293739,41.0037651"
 draft: "false"
 weight: "999"

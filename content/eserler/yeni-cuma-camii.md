@@ -5,10 +5,10 @@ slug: "yeni-cuma-camii"
 description: "## Yeni Cuma Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trebisonda,_ex-chiesa_di_sant'eugenio,_oggi_nuova_moschea_del_venerdì,_esterno_02.jpg/1200px-Trebisonda,_ex-chiesa_di_sant'eugenio,_oggi_nuova_moschea_del_venerdì,_esterno_02.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7225,41.0011"
 draft: "false"
 weight: "10"

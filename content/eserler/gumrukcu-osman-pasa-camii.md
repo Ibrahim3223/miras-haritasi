@@ -5,10 +5,10 @@ slug: "gumrukcu-osman-pasa-camii"
 description: "# Gümrükçü Osman Paşa Camii..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4710083,39.0562668"
 draft: "false"
 weight: "999"

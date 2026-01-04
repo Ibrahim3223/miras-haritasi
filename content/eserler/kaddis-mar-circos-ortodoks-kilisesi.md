@@ -5,10 +5,10 @@ slug: "kaddis-mar-circos-ortodoks-kilisesi"
 description: "## Kaddis Mar Circos Ortodoks Kilisesi: Altınözü'nün Gizli Cenneti..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Altınözü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.2532501,36.1200676"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balaban-tekkesi-mescidi"
 description: "## Balaban Tekkesi Mescidi: Üsküdar'da bir Mimar Sinan Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Balaban_Tekkesi.JPG/1200px-Balaban_Tekkesi.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.013972222,41.025277777"
 draft: "false"
 weight: "10"

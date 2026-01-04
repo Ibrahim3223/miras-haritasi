@@ -5,10 +5,10 @@ slug: "mylios"
 description: "## Mylios: Bucak'taki Antik Arkeolojik Miras..."
 featured_image: ""
 province: "Bucak"
-iller: '["Bucak"]'
+iller: ["Bucak"]
 district: "Kocaaliler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.754391,37.303356"
 draft: "false"
 weight: "999"

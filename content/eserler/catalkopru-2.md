@@ -5,10 +5,10 @@ slug: "catalkopru-2"
 description: "## Çatalköprü 2: Manisa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7338524,38.4326363"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmut-bey-cami"
 description: "# Mahmut Bey Camii: Kastamonu'da Bir Osmanlı Dönemi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Mahmut_Bey_Mosque_1642.jpg/1200px-Mahmut_Bey_Mosque_1642.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.688017,41.480531"
 draft: "false"
 weight: "10"

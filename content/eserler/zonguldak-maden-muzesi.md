@@ -5,10 +5,10 @@ slug: "zonguldak-maden-muzesi"
 description: "## Zonguldak Maden Müzesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Zonguldak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.798962,41.456073"
 draft: "false"
 weight: "999"

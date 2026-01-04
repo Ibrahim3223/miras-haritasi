@@ -5,10 +5,10 @@ slug: "cebeli-koyu-kilisesi"
 description: "**Cebeli Köyü Kilisesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.3928642,40.5709114"
 draft: "false"
 weight: "999"

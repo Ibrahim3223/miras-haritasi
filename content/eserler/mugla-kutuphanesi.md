@@ -5,10 +5,10 @@ slug: "mugla-kutuphanesi"
 description: "## Muğla Kütüphanesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.365799,37.2179489"
 draft: "false"
 weight: "999"

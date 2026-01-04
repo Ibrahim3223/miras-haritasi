@@ -5,10 +5,10 @@ slug: "guzelcekoy-mevki-manastiri"
 description: "# Gökçeada'da Gizli Bir Miras: Güzelceköy Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9433002,40.1842003"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arslan-bey-camii"
 description: "## Arslan Bey Camii: Kütahya'nın Tarihi Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/16/Arslan_Bey_Toguz.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9802723,39.4230347"
 draft: "false"
 weight: "999"

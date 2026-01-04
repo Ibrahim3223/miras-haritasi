@@ -5,10 +5,10 @@ slug: "cokradan-kasabasi-camii"
 description: "# Çokayran Kasabası Camii: Yozgat'ta Bir Önemli Cami..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Çayıralan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.575569098,39.331621253"
 draft: "false"
 weight: "999"

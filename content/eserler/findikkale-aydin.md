@@ -5,10 +5,10 @@ slug: "findikkale-aydin"
 description: "# Fındıkkale, Aydın: Kuşadası'nın Tarihî Kale Kahramanı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3111649,37.698719"
 draft: "false"
 weight: "999"

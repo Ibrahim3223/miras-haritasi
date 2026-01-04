@@ -5,10 +5,10 @@ slug: "ankara-universitesi-eczacilik-fakultesi-muzesi"
 description: "## Ankara Üniversitesi Eczacılık Fakültesi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.834463288,39.93594835"
 draft: "false"
 weight: "999"

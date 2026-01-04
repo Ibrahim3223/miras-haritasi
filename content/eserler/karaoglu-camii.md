@@ -5,10 +5,10 @@ slug: "karaoglu-camii"
 description: "## Karaoğlu Camii: Bir Ödemiş Kentinin Gizli Cenneti..."
 featured_image: ""
 province: "Ödemiş"
-iller: '["Ödemiş"]'
+iller: ["Ödemiş"]
 district: "Birgi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.066206,38.2547569"
 draft: "false"
 weight: "999"

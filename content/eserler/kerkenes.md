@@ -5,10 +5,10 @@ slug: "kerkenes"
 description: "## Kerkenes: Yozgat'ın Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kerkenes.jpg/1200px-Kerkenes.jpg"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.06555556,39.75"
 draft: "false"
 weight: "10"

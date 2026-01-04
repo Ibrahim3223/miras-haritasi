@@ -5,10 +5,10 @@ slug: "umurca-tumulusu-5"
 description: "## Umurca Tümülüsü 5: Lüleburgaz'ın Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3970356,41.4195786"
 draft: "false"
 weight: "999"

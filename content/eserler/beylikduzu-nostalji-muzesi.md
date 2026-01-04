@@ -5,10 +5,10 @@ slug: "beylikduzu-nostalji-muzesi"
 description: "## Beylikdüzü Nostalji Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beylikdüzü"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.6451664,40.9974136"
 draft: "false"
 weight: "999"

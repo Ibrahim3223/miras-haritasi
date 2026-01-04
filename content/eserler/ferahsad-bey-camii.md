@@ -5,10 +5,10 @@ slug: "ferahsad-bey-camii"
 description: "## Ferahşad Bey Camii: Demirdövenlerin Şehri Bayburt'un Zihniyetini Tanıtan Bir Miras..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7508354,40.1334038"
 draft: "false"
 weight: "999"

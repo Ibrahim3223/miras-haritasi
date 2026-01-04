@@ -5,10 +5,10 @@ slug: "karatay-medresesi"
 description: "## Karatay Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Karatay_medresesi.jpg/1200px-Karatay_medresesi.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.492897,37.8750305"
 draft: "false"
 weight: "10"

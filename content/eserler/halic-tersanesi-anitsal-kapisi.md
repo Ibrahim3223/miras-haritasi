@@ -5,10 +5,10 @@ slug: "halic-tersanesi-anitsal-kapisi"
 description: "# Haliç Tersanesi Anıtsal Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9684505,41.0266838"
 draft: "false"
 weight: "999"

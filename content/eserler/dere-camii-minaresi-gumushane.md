@@ -5,10 +5,10 @@ slug: "dere-camii-minaresi-gumushane"
 description: "# Dere Camii Minaresi: Gümüşhane'de Bir Tarihi Çıkın..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.457634,40.45364"
 draft: "false"
 weight: "999"

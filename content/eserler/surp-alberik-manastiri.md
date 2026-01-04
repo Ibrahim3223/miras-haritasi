@@ -5,10 +5,10 @@ slug: "surp-alberik-manastiri"
 description: "### Surp Alberik Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Mutki"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.598053,38.5788765"
 draft: "false"
 weight: "999"

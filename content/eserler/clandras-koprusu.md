@@ -5,10 +5,10 @@ slug: "clandras-koprusu"
 description: "## Clandras Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Lydian_Cilandiras_Bridge_Karahalli_Usak_Province_Turkey.jpg/1200px-Lydian_Cilandiras_Bridge_Karahalli_Usak_Province_Turkey.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Karahallı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.48479,38.40785"
 draft: "false"
 weight: "10"

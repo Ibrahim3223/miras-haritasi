@@ -5,10 +5,10 @@ slug: "muze-kumbaram"
 description: "## Ankara Müze Kumbaram..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.722751374,39.812249593"
 draft: "false"
 weight: "999"

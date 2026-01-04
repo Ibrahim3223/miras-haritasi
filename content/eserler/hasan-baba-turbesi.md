@@ -5,10 +5,10 @@ slug: "hasan-baba-turbesi"
 description: "# Hasan Baba Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.880843,39.649017"
 draft: "false"
 weight: "999"

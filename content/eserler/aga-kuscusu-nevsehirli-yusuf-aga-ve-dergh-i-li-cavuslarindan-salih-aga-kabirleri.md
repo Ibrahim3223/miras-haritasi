@@ -5,10 +5,10 @@ slug: "aga-kuscusu-nevsehirli-yusuf-aga-ve-dergh-i-li-cavuslarindan-salih-aga-ka
 description: "### Ağa Kuşçusu Nevşehirli Yusuf Ağa ve Dergâh-ı Âli Çavuşlarından Salih Ağa Kabirleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0306377,40.9981956"
 draft: "false"
 weight: "999"

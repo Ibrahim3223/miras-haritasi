@@ -5,10 +5,10 @@ slug: "aptioglu-koprusu"
 description: "## Aptioğlu Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9244102,41.047647"
 draft: "false"
 weight: "999"

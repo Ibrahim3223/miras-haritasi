@@ -5,10 +5,10 @@ slug: "kadi-mahmud-camii"
 description: "## Kadı Mahmud Camii: Tarihî Bir Miras..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.4752681,38.7406963"
 draft: "false"
 weight: "999"

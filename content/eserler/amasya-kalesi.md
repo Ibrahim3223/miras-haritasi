@@ -5,10 +5,10 @@ slug: "amasya-kalesi"
 description: "## Amasya Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amasya_Kalesi_01.jpg/1200px-Amasya_Kalesi_01.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.82667,40.65528"
 draft: "false"
 weight: "10"

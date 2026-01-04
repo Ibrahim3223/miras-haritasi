@@ -5,10 +5,10 @@ slug: "buyuk-utku-aniti"
 description: "## Büyük Utku Anıtı: Afyonkarahisar'ın Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Atatürk_ve_Büyük_Utku_Anıtı.jpg/1200px-Atatürk_ve_Büyük_Utku_Anıtı.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5377026,38.7575188"
 draft: "false"
 weight: "10"

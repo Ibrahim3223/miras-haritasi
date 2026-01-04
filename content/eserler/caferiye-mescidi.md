@@ -5,10 +5,10 @@ slug: "caferiye-mescidi"
 description: "## Caferiye Mescidi: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1641693,36.1999626"
 draft: "false"
 weight: "999"

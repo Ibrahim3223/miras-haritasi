@@ -5,10 +5,10 @@ slug: "tokali-kilise"
 description: "## Tokalı Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/J22_235_Tokalı_Kilise.jpg/1200px-J22_235_Tokalı_Kilise.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8446297,38.6411058"
 draft: "false"
 weight: "10"

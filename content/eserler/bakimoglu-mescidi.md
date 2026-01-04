@@ -5,10 +5,10 @@ slug: "bakimoglu-mescidi"
 description: "### Bakımoğlu Mescidi: Seyhan'ın Tarihi Bir Çehresini Taşıyor..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3323593,36.9839973"
 draft: "false"
 weight: "999"

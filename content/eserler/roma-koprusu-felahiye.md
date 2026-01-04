@@ -5,10 +5,10 @@ slug: "roma-koprusu-felahiye"
 description: "## Roma Köprüsü, Felahiye..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Felahiye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.345341,38.956581"
 draft: "false"
 weight: "999"

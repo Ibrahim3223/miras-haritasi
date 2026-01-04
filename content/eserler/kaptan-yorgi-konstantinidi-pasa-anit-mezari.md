@@ -5,10 +5,10 @@ slug: "kaptan-yorgi-konstantinidi-pasa-anit-mezari"
 description: "## Kaptan Yorgi Konstantinidi Paşa Anıt Mezarı..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.3878822,40.9227448"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultan-ahmet-camii"
 description: "## Sultan Ahmet Camii: İstanbul'un En Güzel Camileri Arasındaki Klasikleşmiş Örneği..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg/1200px-Exterior_of_Sultan_Ahmed_I_Mosque_in_Istanbul,_Turkey_002.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eminönü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9768247,41.0053851"
 draft: "false"
 weight: "1"

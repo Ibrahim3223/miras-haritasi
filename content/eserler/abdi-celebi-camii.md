@@ -5,10 +5,10 @@ slug: "abdi-celebi-camii"
 description: "## Abdi Çelebi Camii: Fatih, İstanbul'un Gizli Çehresini Bekliyor..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.932498,41.001434"
 draft: "false"
 weight: "999"

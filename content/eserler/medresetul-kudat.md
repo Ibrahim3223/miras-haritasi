@@ -5,10 +5,10 @@ slug: "medresetul-kudat"
 description: "### Medresetü'l-Kudat: İstanbul'un Altın Çağı'nın Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9624138,41.0130463"
 draft: "false"
 weight: "999"

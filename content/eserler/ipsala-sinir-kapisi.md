@@ -5,10 +5,10 @@ slug: "ipsala-sinir-kapisi"
 description: "## İpsala Sınır Kapısı: Edirne'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/İpsalasınırkapısı.JPG/1200px-İpsalasınırkapısı.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "26.3303,40.9333"
 draft: "false"
 weight: "10"

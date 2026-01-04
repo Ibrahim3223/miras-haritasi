@@ -5,10 +5,10 @@ slug: "asli-nemutlu-heykeli"
 description: "## Aslı Nemutlu Heykeli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2021_09_20_Asli_Nemutlu.jpg/1200px-2021_09_20_Asli_Nemutlu.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.039255,40.979717"
 draft: "false"
 weight: "10"

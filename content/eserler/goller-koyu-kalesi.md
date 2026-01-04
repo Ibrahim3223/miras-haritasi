@@ -5,10 +5,10 @@ slug: "goller-koyu-kalesi"
 description: "## Göller Köyü Kalesi: Ordu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Çatalpınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.4480705,40.9014397"
 draft: "false"
 weight: "999"

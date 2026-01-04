@@ -5,10 +5,10 @@ slug: "aya-konstantin-manastiri"
 description: "## Aya Konstantin Manastırı: Gökçeada'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7887001,40.2032013"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sardes-hamam-kalintisi"
 description: "## Sardes Hamam Kalıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.0555058,38.4844971"
 draft: "false"
 weight: "999"

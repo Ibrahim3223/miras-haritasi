@@ -5,10 +5,10 @@ slug: "elgiz-muzesi"
 description: "## Elgiz Müzesi: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.02044444,41.10983333"
 draft: "false"
 weight: "999"

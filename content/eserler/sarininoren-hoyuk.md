@@ -5,10 +5,10 @@ slug: "sarininoren-hoyuk"
 description: "## Sarınınören Höyük: Yozgat'taki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.0314924,39.5852701"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aynali-cesme-cami"
 description: "## Aynalı Çeşme Cami: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9405727,41.0137024"
 draft: "false"
 weight: "999"

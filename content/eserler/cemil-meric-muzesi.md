@@ -5,10 +5,10 @@ slug: "cemil-meric-muzesi"
 description: "## Cemil Meriç Müzesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.5716629,36.2667427"
 draft: "false"
 weight: "999"

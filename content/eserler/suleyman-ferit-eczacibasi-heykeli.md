@@ -5,10 +5,10 @@ slug: "suleyman-ferit-eczacibasi-heykeli"
 description: "# Süleyman Ferit Eczacıbaşı Heykeli..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1288834,38.4153748"
 draft: "false"
 weight: "999"

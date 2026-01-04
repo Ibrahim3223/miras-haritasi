@@ -5,10 +5,10 @@ slug: "cumalikizik-hamami"
 description: "### Cumalıkızık Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1712608,40.1753235"
 draft: "false"
 weight: "999"

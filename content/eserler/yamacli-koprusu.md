@@ -5,10 +5,10 @@ slug: "yamacli-koprusu"
 description: "### Yamaçlı Köprüsü: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.7052,38.554871"
 draft: "false"
 weight: "999"

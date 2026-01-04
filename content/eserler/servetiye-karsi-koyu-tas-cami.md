@@ -5,10 +5,10 @@ slug: "servetiye-karsi-koyu-tas-cami"
 description: "## Servetiye Karşı Köyü Taş Cami..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Başiskele"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9249611,40.6373863"
 draft: "false"
 weight: "999"

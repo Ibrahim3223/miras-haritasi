@@ -5,10 +5,10 @@ slug: "ideli-kilisesi"
 description: "## İdeli Kilisesi: Oltu'da Gizlenen Tarihî Bir Anıt..."
 featured_image: ""
 province: "Oltu"
-iller: '["Oltu"]'
+iller: ["Oltu"]
 district: "İğdeli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.838897,40.544506"
 draft: "false"
 weight: "999"

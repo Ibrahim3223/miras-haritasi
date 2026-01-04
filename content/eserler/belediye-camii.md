@@ -5,10 +5,10 @@ slug: "belediye-camii"
 description: "## Belediye Camii: Silvan'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/63/%C3%87a%C4%9Fda%C5%9F_Atan_%2714.JPG"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.0033722,38.1415138"
 draft: "false"
 weight: "999"

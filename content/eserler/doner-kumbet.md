@@ -5,10 +5,10 @@ slug: "doner-kumbet"
 description: "## Döner Kümbet: Kayseri'nin Tarihî Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Döner_Kümbet_2485.jpg/1200px-Döner_Kümbet_2485.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.495743,38.714116"
 draft: "false"
 weight: "10"

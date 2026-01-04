@@ -5,10 +5,10 @@ slug: "soguksu-hamam-kalintisi"
 description: "**Soğuksu Hamam Kalıntısı**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.0505543,40.0005455"
 draft: "false"
 weight: "999"

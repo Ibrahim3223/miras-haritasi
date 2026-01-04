@@ -5,10 +5,10 @@ slug: "uc-kemer-koprusu"
 description: "## Üç Kemer Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Three_Arch_Bridge,_Bergama.jpg/1200px-Three_Arch_Bridge,_Bergama.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.184227,39.1203117"
 draft: "false"
 weight: "10"

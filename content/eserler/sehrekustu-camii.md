@@ -5,10 +5,10 @@ slug: "sehrekustu-camii"
 description: "## Şehreküstü Camii: Tarihi ve Kültürel Mirasın Gizli Çehresini Açığa Çıkaran Bir Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/20241220_Şehreküstü_Camii_02.jpg/1200px-20241220_Şehreküstü_Camii_02.jpg"
 province: "Orhangazi (ilçe)"
-iller: '["Orhangazi (ilçe)"]'
+iller: ["Orhangazi (ilçe)"]
 district: "Şehreküstü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0607338,40.1876335"
 draft: "false"
 weight: "10"

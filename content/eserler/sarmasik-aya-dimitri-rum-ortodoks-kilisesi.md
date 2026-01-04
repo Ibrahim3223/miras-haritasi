@@ -5,10 +5,10 @@ slug: "sarmasik-aya-dimitri-rum-ortodoks-kilisesi"
 description: "## Sarmaşık Aya Dimitri Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Sarmaşık_Aya_Dimitri_Rum_Ortodoks_Kilisesi_04.jpg/1200px-Sarmaşık_Aya_Dimitri_Rum_Ortodoks_Kilisesi_04.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.935711648,41.028132981"
 draft: "false"
 weight: "10"

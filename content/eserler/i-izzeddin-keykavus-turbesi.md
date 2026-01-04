@@ -5,10 +5,10 @@ slug: "i-izzeddin-keykavus-turbesi"
 description: "## I. İzzeddin Keykavus Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0148811,39.7481537"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alexandria-troas-samian-ware-discovery-site"
 description: "### Alexandria Troas (Samian Ware Discovery Site)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.16,39.76"
 draft: "false"
 weight: "999"

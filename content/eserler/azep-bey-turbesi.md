@@ -5,10 +5,10 @@ slug: "azep-bey-turbesi"
 description: "### Azep Bey Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0449104,40.188591"
 draft: "false"
 weight: "999"

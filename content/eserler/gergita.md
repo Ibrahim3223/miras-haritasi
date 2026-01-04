@@ -5,10 +5,10 @@ slug: "gergita"
 description: "### Gergita..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.67097,39.19355"
 draft: "false"
 weight: "999"

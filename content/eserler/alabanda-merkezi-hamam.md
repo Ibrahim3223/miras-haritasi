@@ -5,10 +5,10 @@ slug: "alabanda-merkezi-hamam"
 description: "### Alabanda Merkezi Hamam..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9824944,37.5947189"
 draft: "false"
 weight: "999"

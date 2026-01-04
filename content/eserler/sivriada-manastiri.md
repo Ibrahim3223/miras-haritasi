@@ -5,10 +5,10 @@ slug: "sivriada-manastiri"
 description: "## Sivriada Manastırı: Adalar'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.9732227,40.8753395"
 draft: "false"
 weight: "999"

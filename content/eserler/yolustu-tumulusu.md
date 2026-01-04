@@ -5,10 +5,10 @@ slug: "yolustu-tumulusu"
 description: "## Yolüstü Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5622349,41.7954407"
 draft: "false"
 weight: "999"

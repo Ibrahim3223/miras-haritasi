@@ -5,10 +5,10 @@ slug: "dibekli-koyu-kemer-kopru"
 description: "# Dibekli Köyü Kemer Köprü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.37127,40.47223"
 draft: "false"
 weight: "999"

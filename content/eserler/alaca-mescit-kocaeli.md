@@ -5,10 +5,10 @@ slug: "alaca-mescit-kocaeli"
 description: "### Alaca Mescit, Kocaeli..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9252777,40.7677269"
 draft: "false"
 weight: "999"

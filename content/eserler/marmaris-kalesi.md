@@ -5,10 +5,10 @@ slug: "marmaris-kalesi"
 description: "# Marmaris Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Marmaris_Castle.jpg/1200px-Marmaris_Castle.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.2744,36.8506"
 draft: "false"
 weight: "10"

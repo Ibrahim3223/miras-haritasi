@@ -5,10 +5,10 @@ slug: "karsibaglar-1-tumulusu"
 description: "## Karşıbağlar 1 Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7377758,41.5621758"
 draft: "false"
 weight: "999"

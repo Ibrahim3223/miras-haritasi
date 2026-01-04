@@ -5,10 +5,10 @@ slug: "kyon"
 description: "### Kyon Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Kavaklıdere"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.460502,37.411146"
 draft: "false"
 weight: "999"

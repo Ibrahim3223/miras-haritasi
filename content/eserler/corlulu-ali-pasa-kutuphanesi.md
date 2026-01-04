@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-kutuphanesi"
 description: "## Çorlulu Ali Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.968568,41.009035"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "khalketor"
 description: "## Khalketor: Milas'ın Gizli Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.685712,37.349058"
 draft: "false"
 weight: "999"

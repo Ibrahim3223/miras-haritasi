@@ -5,10 +5,10 @@ slug: "muhammed-kattali-turbesi"
 description: "### Muhammed Kattali Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.614771,38.566466"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cetibeli-asari"
 description: "## Marmaris'in Gizli Çehresi: Çetibeli Asarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.2891102,36.9974937"
 draft: "false"
 weight: "999"

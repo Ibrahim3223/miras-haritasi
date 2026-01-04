@@ -5,10 +5,10 @@ slug: "beta-yeni-han-1554-kahve-muzesi"
 description: "## Beta Yeni Han 1554 Kahve Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.970135217,41.016705102"
 draft: "false"
 weight: "999"

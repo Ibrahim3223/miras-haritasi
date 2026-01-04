@@ -5,10 +5,10 @@ slug: "tepecik-ciftlik-hoyugu"
 description: "## Tepecik – Çiftlik Höyüğü: Niğde'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Çiftlik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.49361111,38.17194444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selaniko-sinagogu"
 description: "## Selanikli Sinagogu: Ayvansaray'daki Bir Tarihi Öncü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.946611111,41.034"
 draft: "false"
 weight: "999"

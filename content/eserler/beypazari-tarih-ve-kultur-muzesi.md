@@ -5,10 +5,10 @@ slug: "beypazari-tarih-ve-kultur-muzesi"
 description: "## Beypazarı Tarih ve Kültür Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.916234,40.169696"
 draft: "false"
 weight: "999"

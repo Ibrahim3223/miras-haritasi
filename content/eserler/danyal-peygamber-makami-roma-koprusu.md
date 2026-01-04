@@ -5,10 +5,10 @@ slug: "danyal-peygamber-makami-roma-koprusu"
 description: "## Danyal Peygamber Makamı Roma Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.897225653,36.917101044"
 draft: "false"
 weight: "999"

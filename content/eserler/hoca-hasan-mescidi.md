@@ -5,10 +5,10 @@ slug: "hoca-hasan-mescidi"
 description: "## Hoca Hasan Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Konya_Hoca_Hasan_mosque_4659.jpg/1200px-Konya_Hoca_Hasan_mosque_4659.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.486221653,37.870251415"
 draft: "false"
 weight: "10"

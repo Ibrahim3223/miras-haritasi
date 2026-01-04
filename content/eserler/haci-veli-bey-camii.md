@@ -5,10 +5,10 @@ slug: "haci-veli-bey-camii"
 description: "## Hacı Veli Bey Camii..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9263916,37.5909424"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-toros-kilisesi"
 description: "### Surp Toros Kilisesi: Kayseri'nin Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.486741,38.382015"
 draft: "false"
 weight: "999"

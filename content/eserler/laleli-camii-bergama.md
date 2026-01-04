@@ -5,10 +5,10 @@ slug: "laleli-camii-bergama"
 description: "### Laleli Camii, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1742954,39.1215363"
 draft: "false"
 weight: "999"

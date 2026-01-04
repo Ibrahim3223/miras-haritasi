@@ -5,10 +5,10 @@ slug: "melek-ahmed-pasa-hamami"
 description: "### Melek Ahmed Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Himama_Melik_Ehmed_2010.JPG/1200px-Himama_Melik_Ehmed_2010.JPG"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.233611111,37.910722222"
 draft: "false"
 weight: "10"

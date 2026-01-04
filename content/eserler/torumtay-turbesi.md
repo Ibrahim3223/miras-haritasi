@@ -5,10 +5,10 @@ slug: "torumtay-turbesi"
 description: "## Torumtay Türbesi: Amasya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.820111111,40.649777777"
 draft: "false"
 weight: "999"

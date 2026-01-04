@@ -5,10 +5,10 @@ slug: "st-georges-kilisesi"
 description: "## St. George's Kilisesi: Osmanlı Dönemi'nin Aziz George'a Adanmış Örgütlü Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9623566,41.1908836"
 draft: "false"
 weight: "999"

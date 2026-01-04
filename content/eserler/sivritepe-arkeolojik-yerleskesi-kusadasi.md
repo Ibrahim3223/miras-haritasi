@@ -5,10 +5,10 @@ slug: "sivritepe-arkeolojik-yerleskesi-kusadasi"
 description: "### Sivritepe Arkeolojik Yerleşkesi, Kuşadası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2758999,37.7132988"
 draft: "false"
 weight: "999"

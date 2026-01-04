@@ -5,10 +5,10 @@ slug: "sarkisla-ulu-camii"
 description: "**Şarkışla Ulu Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Şarkışla_Ulu_Cami.jpg/1200px-Şarkışla_Ulu_Cami.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Şarkışla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.408055555,39.352555555"
 draft: "false"
 weight: "10"

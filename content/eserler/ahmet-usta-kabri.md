@@ -5,10 +5,10 @@ slug: "ahmet-usta-kabri"
 description: "## Ahmet Usta Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9221077,40.9939651"
 draft: "false"
 weight: "999"

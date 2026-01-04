@@ -5,10 +5,10 @@ slug: "balaban-bey-camii"
 description: "## Balaban Bey Camii: Kiğı'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Piltanmosque.jpg"
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Kiğı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.3492622,39.3164406"
 draft: "false"
 weight: "999"

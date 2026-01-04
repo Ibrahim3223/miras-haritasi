@@ -5,10 +5,10 @@ slug: "yeni-cami-alaca"
 description: "## Yeni Cami (Alaca)..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8420219,40.1699409"
 draft: "false"
 weight: "999"

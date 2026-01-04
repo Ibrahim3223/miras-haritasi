@@ -5,10 +5,10 @@ slug: "kristal-kule"
 description: "## Kristal Kule: Şişli'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/QNB_Finansbank_Kristal_Kule_2.jpg/1200px-QNB_Finansbank_Kristal_Kule_2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "29.008611111,41.082777777"
 draft: "false"
 weight: "10"

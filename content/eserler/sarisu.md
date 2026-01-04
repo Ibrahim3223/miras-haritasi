@@ -5,10 +5,10 @@ slug: "sarisu"
 description: "# Sarısu Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.911953,39.61967"
 draft: "false"
 weight: "999"

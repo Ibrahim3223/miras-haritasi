@@ -5,10 +5,10 @@ slug: "alti-parmak-turbesi"
 description: "## Altı Parmak Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.050967,40.189339"
 draft: "false"
 weight: "999"

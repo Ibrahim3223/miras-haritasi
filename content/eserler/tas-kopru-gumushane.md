@@ -5,10 +5,10 @@ slug: "tas-kopru-gumushane"
 description: "**Taş Köprü, Gümüşhane: Tarihi ve Kültürel Mirasın Bir Örneği**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.4658051,40.4617958"
 draft: "false"
 weight: "999"

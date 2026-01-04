@@ -5,10 +5,10 @@ slug: "ayios-kiryakos-kilisesi"
 description: "### Ayios Kiryakos Kilisesi: İstanbul'un Gizli Çehresinde Bir Kilise..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.938647,41.033426"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tece-kalesi"
 description: "## Tece Kalesi: Mersin'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Tece_Castle.jpg/1200px-Tece_Castle.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.45,36.71666667"
 draft: "false"
 weight: "10"

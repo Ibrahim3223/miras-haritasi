@@ -5,10 +5,10 @@ slug: "burdur-saden-kutuphanesi"
 description: "## Burdur Saden Kütüphanesi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.2894993,37.7149582"
 draft: "false"
 weight: "999"

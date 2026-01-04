@@ -5,10 +5,10 @@ slug: "maden-camii-gumushacikoy"
 description: "## Maden Camii: Gümüşhacıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Gümüşhacıköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1702614,40.8442192"
 draft: "false"
 weight: "999"

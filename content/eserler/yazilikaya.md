@@ -5,10 +5,10 @@ slug: "yazilikaya"
 description: "# Yazılıkaya: Tarih ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Chamber_A,_Yazilikaya_01.jpg/1200px-Chamber_A,_Yazilikaya_01.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.63278,40.025"
 draft: "false"
 weight: "10"

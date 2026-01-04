@@ -5,10 +5,10 @@ slug: "bostancibasi-ali-aga-camii"
 description: "## Bostancıbaşı Ali Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.970164,41.004955"
 draft: "false"
 weight: "999"

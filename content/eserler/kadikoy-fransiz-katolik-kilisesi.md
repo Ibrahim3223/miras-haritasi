@@ -5,10 +5,10 @@ slug: "kadikoy-fransiz-katolik-kilisesi"
 description: "### Kadıköy Fransız Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Notre_Dame_de_l'Assomption_Istanbul_05_08_2016.jpg/1200px-Notre_Dame_de_l'Assomption_Istanbul_05_08_2016.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.02552778,40.98433333"
 draft: "false"
 weight: "10"

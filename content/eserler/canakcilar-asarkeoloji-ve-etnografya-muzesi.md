@@ -5,10 +5,10 @@ slug: "canakcilar-asarkeoloji-ve-etnografya-muzesi"
 description: "## Çanakçılar A.Ş. Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Gökçebey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.14016,41.304922"
 draft: "false"
 weight: "999"

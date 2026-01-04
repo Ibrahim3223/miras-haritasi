@@ -5,10 +5,10 @@ slug: "naras-koprusu"
 description: "**Naras Köprüsü**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.447291,36.825217"
 draft: "false"
 weight: "999"

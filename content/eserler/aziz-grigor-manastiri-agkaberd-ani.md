@@ -5,10 +5,10 @@ slug: "aziz-grigor-manastiri-agkaberd-ani"
 description: "## Aziz Grigor Manastırı (Ağkaberd, Ani)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/20110419_Kizkale_church_Ani_Turkey.jpg/1200px-20110419_Kizkale_church_Ani_Turkey.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5684742,40.496407"
 draft: "false"
 weight: "10"

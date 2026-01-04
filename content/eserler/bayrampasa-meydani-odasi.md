@@ -5,10 +5,10 @@ slug: "bayrampasa-meydani-odasi"
 description: "## Bayrampaşa Meydanı Odası: Fatih'te Bir Medrese'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.942263,41.008271"
 draft: "false"
 weight: "999"

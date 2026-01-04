@@ -5,10 +5,10 @@ slug: "yoldere-koyu-koprusu"
 description: "### Yoldere Köyü Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.4748215,41.3988151"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "salom-sinagogu"
 description: "# Şalom Sinagogu: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.136,38.420416666"
 draft: "false"
 weight: "999"

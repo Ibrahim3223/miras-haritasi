@@ -5,10 +5,10 @@ slug: "sapel-aydos-kalesi"
 description: "## Şapel, Aydos Kalesi: İstanbul'un Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sultanbeyli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.2585812,40.9497643"
 draft: "false"
 weight: "999"

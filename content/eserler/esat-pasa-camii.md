@@ -5,10 +5,10 @@ slug: "esat-pasa-camii"
 description: "# Esat Paşa Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2744102,39.9077225"
 draft: "false"
 weight: "999"

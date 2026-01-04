@@ -5,10 +5,10 @@ slug: "arneai"
 description: "## Arneai Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8691976,36.4418699"
 draft: "false"
 weight: "999"

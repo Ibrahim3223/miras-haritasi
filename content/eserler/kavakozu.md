@@ -5,10 +5,10 @@ slug: "kavakozu"
 description: "## Kavaközü Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.5714,39.635267"
 draft: "false"
 weight: "999"

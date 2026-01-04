@@ -5,10 +5,10 @@ slug: "seyhler-camii"
 description: "## Şeyhler Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2732201,39.9032021"
 draft: "false"
 weight: "999"

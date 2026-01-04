@@ -5,10 +5,10 @@ slug: "cemka-hoyuk"
 description: "### Çemka Höyük..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Dargeçit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.8406181,37.5228539"
 draft: "false"
 weight: "999"

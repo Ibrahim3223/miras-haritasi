@@ -5,10 +5,10 @@ slug: "balcili-camii"
 description: "### Balcılı Camii: Artvin'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Balc%C4%B1l%C4%B1_-_%E1%83%91%E1%83%90%E1%83%9A%E1%83%AE%E1%83%98.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.466667,40.983333"
 draft: "false"
 weight: "999"

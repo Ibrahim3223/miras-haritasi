@@ -5,10 +5,10 @@ slug: "kasikci-mustafa-efendi-kabristani"
 description: "## Kaşıkçı Mustafa Efendi Kabristanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9426231,41.0126381"
 draft: "false"
 weight: "999"

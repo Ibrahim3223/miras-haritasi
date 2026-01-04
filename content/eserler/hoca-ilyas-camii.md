@@ -5,10 +5,10 @@ slug: "hoca-ilyas-camii"
 description: "## Hoca İlyas Camii: Edirne'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5447371,41.678014382"
 draft: "false"
 weight: "999"

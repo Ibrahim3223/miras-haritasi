@@ -5,10 +5,10 @@ slug: "tire-ulu-camii"
 description: "## Tire Ulu Camii: Tarih ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tire_Ulu_Cami.jpg/1200px-Tire_Ulu_Cami.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.736361111,38.08375"
 draft: "false"
 weight: "10"

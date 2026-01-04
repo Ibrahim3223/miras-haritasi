@@ -5,10 +5,10 @@ slug: "dokimeion"
 description: "## Dokimeion Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.75,38.86666667"
 draft: "false"
 weight: "999"

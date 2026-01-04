@@ -5,10 +5,10 @@ slug: "lazlar-hamami"
 description: "## Lazlar Hamamı..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8820133,39.6493034"
 draft: "false"
 weight: "999"

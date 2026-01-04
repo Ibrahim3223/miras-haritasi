@@ -5,10 +5,10 @@ slug: "dikmetas-hoyugu"
 description: "## Dikmetaş Höyüğü..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7962115,40.0179676"
 draft: "false"
 weight: "999"

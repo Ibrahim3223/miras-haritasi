@@ -5,10 +5,10 @@ slug: "roma-koprusu-hacieyuplu"
 description: "# Roma Köprüsü, Hacıeyüplü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0357285,37.8415871"
 draft: "false"
 weight: "999"

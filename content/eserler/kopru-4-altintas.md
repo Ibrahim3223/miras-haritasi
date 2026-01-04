@@ -5,10 +5,10 @@ slug: "kopru-4-altintas"
 description: "## Köprü 4, Altıntaş..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3168774,37.6149292"
 draft: "false"
 weight: "999"

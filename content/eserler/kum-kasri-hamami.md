@@ -5,10 +5,10 @@ slug: "kum-kasri-hamami"
 description: "## Kum Kasrı Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5564327,41.6911011"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "poyrazli-hoyuk"
 description: "### Poyrazlı Höyük: Boğazlıyan'ın Gizli Kâsabı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0917777,39.3978939"
 draft: "false"
 weight: "999"

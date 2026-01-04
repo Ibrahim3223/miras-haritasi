@@ -5,10 +5,10 @@ slug: "zemruta"
 description: "## Zemruta: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9296946,38.1921715"
 draft: "false"
 weight: "999"

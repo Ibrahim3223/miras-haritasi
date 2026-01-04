@@ -5,10 +5,10 @@ slug: "el-hisn-camii"
 description: "## El-Hisn Camii: Tarihi ve Kültürel Mirasının Örnekleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "atikhisar-tumulusu"
 description: "## Atikhisar Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5095253,40.1289215"
 draft: "false"
 weight: "999"

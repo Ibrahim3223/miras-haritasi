@@ -5,10 +5,10 @@ slug: "aziziye-camii-balikesir"
 description: "**Aziziye Camii, Balıkesir**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8737946,39.6521301"
 draft: "false"
 weight: "999"

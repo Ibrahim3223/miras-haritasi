@@ -5,10 +5,10 @@ slug: "hosvan-kilisesi"
 description: "## Hoşvan Kilisesi: Yeşilbağlar'daki Gizli Çan Kulesi..."
 featured_image: ""
 province: "Olur"
-iller: '["Olur"]'
+iller: ["Olur"]
 district: "Yeşilbağlar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.126955555,40.795083333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdullah-el-ensari-hazretleri-kabri"
 description: "## Abdullah El Ensari Hazretleri Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.944319,41.033305"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-hovhannes-migirdic-kilisesi"
 description: "## Surp Hovhannes Mıgırdiç Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.07,41.125278"
 draft: "false"
 weight: "999"

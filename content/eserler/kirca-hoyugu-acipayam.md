@@ -5,10 +5,10 @@ slug: "kirca-hoyugu-acipayam"
 description: "## Kırca Höyüğü, Acıpayam..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.3800793,37.4721069"
 draft: "false"
 weight: "999"

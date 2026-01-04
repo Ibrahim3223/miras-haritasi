@@ -5,10 +5,10 @@ slug: "veled-i-vezir-camii"
 description: "## Veled-i Vezir Camii: Bursa'nın Gizli Çehresini keşfedin..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0583553,40.1820412"
 draft: "false"
 weight: "999"

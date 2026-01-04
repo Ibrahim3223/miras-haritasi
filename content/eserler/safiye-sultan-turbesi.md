@@ -5,10 +5,10 @@ slug: "safiye-sultan-turbesi"
 description: "## Safiye Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Safiye_Sultan_Türbesi.jpg/1200px-Safiye_Sultan_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9288197,41.0034599"
 draft: "false"
 weight: "10"

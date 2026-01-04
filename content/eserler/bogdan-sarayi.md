@@ -5,10 +5,10 @@ slug: "bogdan-sarayi"
 description: "## Boğdan Sarayı: İstanbul'un Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Boğdan_Sarayı_Şapeli_3.JPG/1200px-Boğdan_Sarayı_Şapeli_3.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.94212,41.02975"
 draft: "false"
 weight: "10"

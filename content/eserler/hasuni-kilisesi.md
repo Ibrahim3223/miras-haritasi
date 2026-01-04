@@ -5,10 +5,10 @@ slug: "hasuni-kilisesi"
 description: "## Hasuni Kilisesi: Tarihi ve Kültürel Mirasın Özleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.0895729,38.1366158"
 draft: "false"
 weight: "999"

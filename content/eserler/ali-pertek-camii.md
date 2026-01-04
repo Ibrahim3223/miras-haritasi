@@ -5,10 +5,10 @@ slug: "ali-pertek-camii"
 description: "## Ali Pertev Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Istanbul_Ali_Pertek_Mosque.jpg/1200px-Istanbul_Ali_Pertek_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.05674,41.08858"
 draft: "false"
 weight: "10"

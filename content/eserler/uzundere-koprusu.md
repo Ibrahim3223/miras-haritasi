@@ -5,10 +5,10 @@ slug: "uzundere-koprusu"
 description: "# Uzundere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7971916,40.9089012"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yesil-turbe"
 description: "## Yeşil Türbe: Bursa'nın Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Turkey-1353_(2216628788).jpg/1200px-Turkey-1353_(2216628788).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Bursa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.07472222,40.18138889"
 draft: "false"
 weight: "10"

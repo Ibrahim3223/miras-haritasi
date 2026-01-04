@@ -5,10 +5,10 @@ slug: "celtikci-camii"
 description: "## Çeltikçi Camii: Aydın'ın Söke İlçesi'ndeki Tarihi Bir Anıtsal Yapı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4058456,37.7479591"
 draft: "false"
 weight: "999"

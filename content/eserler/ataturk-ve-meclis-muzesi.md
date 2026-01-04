@@ -5,10 +5,10 @@ slug: "ataturk-ve-meclis-muzesi"
 description: "## Atatürk ve Meclis Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.854394,39.912038"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hancerli-camii"
 description: "## Hançerli Camii: İlkadım'da Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.330388888,41.297194444"
 draft: "false"
 weight: "999"

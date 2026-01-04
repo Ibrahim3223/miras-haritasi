@@ -5,10 +5,10 @@ slug: "makrevis-koprusu"
 description: "## Makrevis Köprüsü: Çamlıhemşin'in Tarihi Bir Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0079533,41.0334982"
 draft: "false"
 weight: "999"

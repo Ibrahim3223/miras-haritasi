@@ -5,10 +5,10 @@ slug: "aya-todori-sapeli"
 description: "## Aya Todori Şapeli: Adalar'daki Bir Kilise'nin Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.136070704,40.869118183"
 draft: "false"
 weight: "999"

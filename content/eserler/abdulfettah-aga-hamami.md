@@ -5,10 +5,10 @@ slug: "abdulfettah-aga-hamami"
 description: "### Abdülfettah Ağa Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6582642,37.4007187"
 draft: "false"
 weight: "999"

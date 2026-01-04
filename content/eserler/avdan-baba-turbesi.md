@@ -5,10 +5,10 @@ slug: "avdan-baba-turbesi"
 description: "## Avdan Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.7931385,37.5799828"
 draft: "false"
 weight: "999"

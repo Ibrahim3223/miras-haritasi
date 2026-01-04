@@ -5,10 +5,10 @@ slug: "kursunlu-medresesi"
 description: "## Kurşunlu Medresesi: Erzurum'un Gizli Cenneti..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "41.2756767,39.9086304"
 draft: "false"
 weight: "999"

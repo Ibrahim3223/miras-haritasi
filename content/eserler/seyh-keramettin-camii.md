@@ -5,10 +5,10 @@ slug: "seyh-keramettin-camii"
 description: "## Şeyh Keramettin Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mosque_of_Sheikh_Keramettin.jpg/1200px-Mosque_of_Sheikh_Keramettin.jpg"
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.386416,40.917038"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-medresesi"
 description: "## Çoban Mustafa Paşa Medresesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.4323769,40.8000565"
 draft: "false"
 weight: "999"

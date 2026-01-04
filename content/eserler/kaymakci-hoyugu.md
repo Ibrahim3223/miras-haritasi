@@ -5,10 +5,10 @@ slug: "kaymakci-hoyugu"
 description: "### Kaymakçı Höyüğü: Manisa'nın Gizli Klasik Çağ Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9313,38.6234"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gecit-koprusu"
 description: "## Geçit Köprüsü: Bursa'nın Tarihi ve İhtişamlı Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9359875,40.2797356"
 draft: "false"
 weight: "999"

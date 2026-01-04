@@ -5,10 +5,10 @@ slug: "meydankapi-hoyugu"
 description: "## Meydankapı Höyüğü: Harran'ın Tarihî Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.1578493,36.7849233"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koroglu-kalesi-kagizman"
 description: "## Köroğlu Kalesi..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: '["Kars Oblastı"]'
+iller: ["Kars Oblastı"]
 district: "Kağızman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.9853325,40.2405243"
 draft: "false"
 weight: "999"

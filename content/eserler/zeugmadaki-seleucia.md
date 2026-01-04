@@ -5,10 +5,10 @@ slug: "zeugmadaki-seleucia"
 description: "## Zeugma'daki Seleucia: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0945,37.4422"
 draft: "false"
 weight: "1"

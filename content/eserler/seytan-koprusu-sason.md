@@ -5,10 +5,10 @@ slug: "seytan-koprusu-sason"
 description: "## Şeytan Köprüsü, Sason..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.338974,38.464111"
 draft: "false"
 weight: "999"

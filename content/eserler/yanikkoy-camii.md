@@ -5,10 +5,10 @@ slug: "yanikkoy-camii"
 description: "## Yanıkköy Camii: Menemen'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0815125,38.6547356"
 draft: "false"
 weight: "999"

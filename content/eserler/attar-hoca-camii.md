@@ -5,10 +5,10 @@ slug: "attar-hoca-camii"
 description: "## Attar Hoca Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4205437,38.6086617"
 draft: "false"
 weight: "999"

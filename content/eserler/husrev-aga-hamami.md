@@ -5,10 +5,10 @@ slug: "husrev-aga-hamami"
 description: "# Hüsrev Ağa Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4379692,38.6153526"
 draft: "false"
 weight: "999"

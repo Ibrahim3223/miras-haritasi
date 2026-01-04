@@ -5,10 +5,10 @@ slug: "agios-efstatios-kilisesi"
 description: "### Agios Efstatios Kilisesi: İncesu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "İncesu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.175013,38.623112"
 draft: "false"
 weight: "999"

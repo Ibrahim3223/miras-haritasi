@@ -5,10 +5,10 @@ slug: "yayalar-koyu-camii"
 description: "## Yayalar Köyü Camii: Pendik'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Yayalar_Ky_Camii_1761580478.jpg/1200px-Yayalar_Ky_Camii_1761580478.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2683182,40.9034348"
 draft: "false"
 weight: "10"

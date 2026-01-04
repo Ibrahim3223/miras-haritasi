@@ -5,10 +5,10 @@ slug: "germir-asagi-cami"
 description: "## Germir Aşağı Cami..."
 featured_image: ""
 province: "Melikgazi"
-iller: '["Melikgazi"]'
+iller: ["Melikgazi"]
 district: "Germir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5608482,38.7397652"
 draft: "false"
 weight: "999"

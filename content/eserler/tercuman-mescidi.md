@@ -5,10 +5,10 @@ slug: "tercuman-mescidi"
 description: "### Tercüman Mescidi: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4990768,37.8756981"
 draft: "false"
 weight: "999"

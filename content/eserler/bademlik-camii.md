@@ -5,10 +5,10 @@ slug: "bademlik-camii"
 description: "## Bademlik Camii: Edirne'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Bademlik_mosque_in_2024_0161.jpg/1200px-Bademlik_mosque_in_2024_0161.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5393963,41.6872787"
 draft: "false"
 weight: "10"

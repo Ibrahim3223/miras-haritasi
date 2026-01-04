@@ -5,10 +5,10 @@ slug: "ziyre-koprusu"
 description: "### Ziyâre Köprüsü: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.8389015,40.6695251"
 draft: "false"
 weight: "999"

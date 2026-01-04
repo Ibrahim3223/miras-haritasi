@@ -5,10 +5,10 @@ slug: "haci-seyyit-mescidi"
 description: "### Hacı Seyyit Mescidi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8641319,39.9322891"
 draft: "false"
 weight: "999"

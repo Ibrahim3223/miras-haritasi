@@ -5,10 +5,10 @@ slug: "balim-sultan-turbesi"
 description: "### Balım Sultan Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7074135,38.0676096"
 draft: "false"
 weight: "999"

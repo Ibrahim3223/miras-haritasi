@@ -5,10 +5,10 @@ slug: "mal-tepesi-hoyuk"
 description: "## Mal Tepesi Höyük..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mihalıççık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.6443244,39.9672123"
 draft: "false"
 weight: "999"

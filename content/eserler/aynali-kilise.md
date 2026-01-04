@@ -5,10 +5,10 @@ slug: "aynali-kilise"
 description: "## Aynalı Kilise: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Aynalı_Kilise_9897.jpg/1200px-Aynalı_Kilise_9897.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8539933,38.6349589"
 draft: "false"
 weight: "10"

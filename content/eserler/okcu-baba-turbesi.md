@@ -5,10 +5,10 @@ slug: "okcu-baba-turbesi"
 description: "## Okçu Baba Türbesi: Bursa'nın Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.05862,40.1853029"
 draft: "false"
 weight: "999"

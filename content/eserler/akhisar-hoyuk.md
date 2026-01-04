@@ -5,10 +5,10 @@ slug: "akhisar-hoyuk"
 description: "## Akhisar Höyük: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.833133,38.889367"
 draft: "false"
 weight: "999"

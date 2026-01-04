@@ -5,10 +5,10 @@ slug: "araplar-camii-bursa"
 description: "## Araplar Camii, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0586128,40.180088"
 draft: "false"
 weight: "999"

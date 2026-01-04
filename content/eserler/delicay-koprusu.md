@@ -5,10 +5,10 @@ slug: "delicay-koprusu"
 description: "## Deliçay Köprüsü: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.15507455,37.163728719"
 draft: "false"
 weight: "999"

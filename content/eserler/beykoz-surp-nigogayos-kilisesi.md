@@ -5,10 +5,10 @@ slug: "beykoz-surp-nigogayos-kilisesi"
 description: "## Beykoz Surp Nigoğayos Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Beykoz_Surp_Nigoayos_Kilisesi_1761588400.jpg/1200px-Beykoz_Surp_Nigoayos_Kilisesi_1761588400.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.094754,41.133976"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "aksaray-ulu-camii"
 description: "### Aksaray Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Aksaray_ulu_camii.jpg/1200px-Aksaray_ulu_camii.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.029194444,38.373305555"
 draft: "false"
 weight: "10"

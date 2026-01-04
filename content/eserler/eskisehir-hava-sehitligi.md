@@ -5,10 +5,10 @@ slug: "eskisehir-hava-sehitligi"
 description: "### Eskişehir Hava Şehitliği..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5129642,39.7681503"
 draft: "false"
 weight: "999"

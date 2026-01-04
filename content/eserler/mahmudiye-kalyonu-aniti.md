@@ -5,10 +5,10 @@ slug: "mahmudiye-kalyonu-aniti"
 description: "## Mahmudiye Kalyonu Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3026009,38.3232002"
 draft: "false"
 weight: "999"

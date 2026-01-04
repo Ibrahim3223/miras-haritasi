@@ -5,10 +5,10 @@ slug: "yelli-medresesi"
 description: "## Yelli Medresesi: Milas'ta Bir Klasik Osmanlı Medresesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7925243,37.2700729"
 draft: "false"
 weight: "999"

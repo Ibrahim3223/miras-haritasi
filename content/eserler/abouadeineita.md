@@ -5,10 +5,10 @@ slug: "abouadeineita"
 description: "### Abouadeineita: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.542331,39.528949"
 draft: "false"
 weight: "999"

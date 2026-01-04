@@ -5,10 +5,10 @@ slug: "ali-pasa-sarayi"
 description: "### Ali Paşa Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9662933,41.0136681"
 draft: "false"
 weight: "999"

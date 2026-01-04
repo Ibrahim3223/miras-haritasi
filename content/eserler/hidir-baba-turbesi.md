@@ -5,10 +5,10 @@ slug: "hidir-baba-turbesi"
 description: "## Hıdır Baba Türbesi: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.52042747,41.68620556"
 draft: "false"
 weight: "999"

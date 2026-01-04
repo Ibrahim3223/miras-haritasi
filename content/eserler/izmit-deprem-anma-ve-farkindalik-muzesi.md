@@ -5,10 +5,10 @@ slug: "izmit-deprem-anma-ve-farkindalik-muzesi"
 description: "## İzmit Deprem Anma ve Farkındalık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Izmit_deprem_müzesi_(1)_04.jpg/1200px-Izmit_deprem_müzesi_(1)_04.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.953462,40.782758"
 draft: "false"
 weight: "10"

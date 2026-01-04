@@ -5,10 +5,10 @@ slug: "ceramus"
 description: "## Ceramus..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Ören_(Milas),_röm._Ruinen_von_Keramos.JPG/1200px-Ören_(Milas),_röm._Ruinen_von_Keramos.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.951332,37.042418"
 draft: "false"
 weight: "10"

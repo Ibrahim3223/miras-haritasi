@@ -5,10 +5,10 @@ slug: "incebucak-hoyuk"
 description: "## Incebucak Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7240238,39.291929"
 draft: "false"
 weight: "999"

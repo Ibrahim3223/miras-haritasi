@@ -5,10 +5,10 @@ slug: "atik-valide-sultan-hamami-uskudar"
 description: "## Atik Valide Sultan Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.015949,41.023804"
 draft: "false"
 weight: "999"

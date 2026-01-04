@@ -5,10 +5,10 @@ slug: "emir-sultan-mescidi"
 description: "### Emir Sultan Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.489447023,38.717821551"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "araporen"
 description: "## Arapören Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.844967,39.552867"
 draft: "false"
 weight: "999"

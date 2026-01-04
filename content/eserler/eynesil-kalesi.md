@@ -5,10 +5,10 @@ slug: "eynesil-kalesi"
 description: "## Eynesil Kalesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Eynesil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.16347,41.078251"
 draft: "false"
 weight: "999"

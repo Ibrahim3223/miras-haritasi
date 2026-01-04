@@ -5,10 +5,10 @@ slug: "molla-gurani-camii-haziresi"
 description: "## Molla Gürani Camii Haziresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941087,41.011229"
 draft: "false"
 weight: "999"

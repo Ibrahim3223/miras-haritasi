@@ -5,10 +5,10 @@ slug: "behram-pasa-camii"
 description: "### Behram Paşa Camii: Diyarbakır'daki Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Diyarbakır_Behram_Paşa_Camisi.jpg/1200px-Diyarbakır_Behram_Paşa_Camisi.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2342,37.9094"
 draft: "false"
 weight: "10"

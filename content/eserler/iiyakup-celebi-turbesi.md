@@ -5,10 +5,10 @@ slug: "iiyakup-celebi-turbesi"
 description: "## II. Yakup Çelebi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9750271,39.4174156"
 draft: "false"
 weight: "999"

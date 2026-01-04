@@ -5,10 +5,10 @@ slug: "daba-manastiri"
 description: "## Daba Manastırı..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Çimenli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.983388888,41.1975"
 draft: "false"
 weight: "999"

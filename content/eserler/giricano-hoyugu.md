@@ -5,10 +5,10 @@ slug: "giricano-hoyugu"
 description: "## Giricano Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.7498665,37.8169594"
 draft: "false"
 weight: "999"

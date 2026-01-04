@@ -5,10 +5,10 @@ slug: "orcun-hamami"
 description: "## Örcün Hamamı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gölcük"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.7901421,40.7049217"
 draft: "false"
 weight: "999"

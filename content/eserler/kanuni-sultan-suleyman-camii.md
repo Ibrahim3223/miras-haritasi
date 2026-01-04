@@ -5,10 +5,10 @@ slug: "kanuni-sultan-suleyman-camii"
 description: "## Kanuni Sultan Süleyman Camii: Hatay'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Belen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1930237,36.4923134"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turbe-pirlibey-mahallesi"
 description: "## Türbe (Pirlibey Mahallesi)..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.4371471,37.8681297"
 draft: "false"
 weight: "999"

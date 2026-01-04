@@ -5,10 +5,10 @@ slug: "canakkale-onsekiz-mart-universitesi-muhendislik-fakultesi-yer-bilimleri-v
 description: "## Çanakkale Onsekiz Mart Üniversitesi Mühendislik Fakültesi Yer Bilimleri ve Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.4209808,40.1130524"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "odeki-kilisesi"
 description: "### Odeki Kilisesi: Tortum'un Gizli Cenneti..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Aşağı Serdarlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.358194444,40.504083333"
 draft: "false"
 weight: "999"

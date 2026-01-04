@@ -5,10 +5,10 @@ slug: "muze-hastane"
 description: "### Müze Hastane: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4291172,37.0402679"
 draft: "false"
 weight: "999"

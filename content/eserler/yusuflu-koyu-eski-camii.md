@@ -5,10 +5,10 @@ slug: "yusuflu-koyu-eski-camii"
 description: "**Yusuflu Köyü Eski Camii: Bir Geçmişin İzleri Bayındır'da**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7001629,38.217514"
 draft: "false"
 weight: "999"

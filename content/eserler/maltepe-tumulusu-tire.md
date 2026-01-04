@@ -5,10 +5,10 @@ slug: "maltepe-tumulusu-tire"
 description: "## Maltepe Tümülüsü: Tarih, Kültür ve Mimari Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7196217,38.1023788"
 draft: "false"
 weight: "999"

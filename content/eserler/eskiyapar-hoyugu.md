@@ -5,10 +5,10 @@ slug: "eskiyapar-hoyugu"
 description: "## Eskiyapar Höyüğü: Çorum'un Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eskiyapar_05.jpg/1200px-Eskiyapar_05.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.773056,40.158056"
 draft: "false"
 weight: "10"

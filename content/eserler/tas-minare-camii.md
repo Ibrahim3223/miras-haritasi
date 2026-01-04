@@ -5,10 +5,10 @@ slug: "tas-minare-camii"
 description: "## Taş Minare Camii: Karabük'te Bir Zenginlik Abidesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Taş_Minare_Camii.jpg/1200px-Taş_Minare_Camii.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.6887741,41.2501144"
 draft: "false"
 weight: "10"

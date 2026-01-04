@@ -5,10 +5,10 @@ slug: "bilecik-muzesi"
 description: "## Bilecik Müzesi: Bir Tarihî Kentin Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.981944444,40.143611111"
 draft: "false"
 weight: "999"

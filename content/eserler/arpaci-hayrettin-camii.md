@@ -5,10 +5,10 @@ slug: "arpaci-hayrettin-camii"
 description: "## Arpacı Hayrettin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Arpacı_Hayrettin_Camii_IMG_6408.jpg/1200px-Arpacı_Hayrettin_Camii_IMG_6408.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.935841,41.042113"
 draft: "false"
 weight: "10"

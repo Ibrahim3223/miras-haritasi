@@ -5,10 +5,10 @@ slug: "semiz-ali-pasa-camii"
 description: "## Semiz Ali Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cedid_Ali_Paşa_Camii_219.jpg/1200px-Cedid_Ali_Paşa_Camii_219.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0972462,41.4280281"
 draft: "false"
 weight: "10"

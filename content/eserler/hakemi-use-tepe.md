@@ -5,10 +5,10 @@ slug: "hakemi-use-tepe"
 description: "**Hakemi Use Tepe: Diyarbakır'ın Gizli Mirası**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.7426529,37.8029175"
 draft: "false"
 weight: "999"

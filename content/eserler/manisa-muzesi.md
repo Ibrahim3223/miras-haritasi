@@ -5,10 +5,10 @@ slug: "manisa-muzesi"
 description: "## Manisa Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Archaeological_Museum_of_Manisa,_Turkey_(31282853424).jpg/1200px-Archaeological_Museum_of_Manisa,_Turkey_(31282853424).jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.40077771,38.614753923"
 draft: "false"
 weight: "10"

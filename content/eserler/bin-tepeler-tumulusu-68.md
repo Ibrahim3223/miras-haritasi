@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-68"
 description: "### Bin Tepeler Tümülüsü 68: Manisa'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9514294,38.558239"
 draft: "false"
 weight: "999"

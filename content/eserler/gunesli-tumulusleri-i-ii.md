@@ -5,10 +5,10 @@ slug: "gunesli-tumulusleri-i-ii"
 description: "## Güneşli Tümülüsleri I-II: Akçadağ'ın Gizemi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.7194939,38.429409"
 draft: "false"
 weight: "999"

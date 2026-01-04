@@ -5,10 +5,10 @@ slug: "turgutoglu-pir-huseyin-turbesi"
 description: "## Turgutoğlu Pir Hüseyin Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4833069,37.8696098"
 draft: "false"
 weight: "999"

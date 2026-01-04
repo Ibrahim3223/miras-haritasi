@@ -5,10 +5,10 @@ slug: "firuzbey-camii"
 description: "### Firuzbey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Milas_Firuz_Paşa_Camii_5205.jpg/1200px-Milas_Firuz_Paşa_Camii_5205.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.780083333,37.317888888"
 draft: "false"
 weight: "10"

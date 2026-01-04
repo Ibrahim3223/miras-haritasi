@@ -5,10 +5,10 @@ slug: "guzelce-kale"
 description: "## Güzelce Kale: Ankara'nın Gizli Tarihi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Haymana"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.7207985,39.3104362"
 draft: "false"
 weight: "999"

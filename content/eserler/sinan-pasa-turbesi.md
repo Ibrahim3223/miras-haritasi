@@ -5,10 +5,10 @@ slug: "sinan-pasa-turbesi"
 description: "### Sinan Paşa Türbesi: Konya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5048065,37.8704529"
 draft: "false"
 weight: "999"

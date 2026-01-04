@@ -5,10 +5,10 @@ slug: "cayirkoy-hoyuk"
 description: "## Çayırköy Höyük: Bursa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.91225,40.210483"
 draft: "false"
 weight: "999"

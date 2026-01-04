@@ -5,10 +5,10 @@ slug: "cestepe-fener-kulesi"
 description: "## Çeştepe Fener Kulesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Karadeniz Ereğli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.3966866,41.2964973"
 draft: "false"
 weight: "999"

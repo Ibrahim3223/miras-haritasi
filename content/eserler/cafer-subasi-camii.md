@@ -5,10 +5,10 @@ slug: "cafer-subasi-camii"
 description: "## Cafer Subaşı Camii: Balat'ta Bir Keşif..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9504128,41.0283928"
 draft: "false"
 weight: "999"

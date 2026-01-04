@@ -5,10 +5,10 @@ slug: "sogukpinar-camii"
 description: "## Soğukpınar Camii: Bilecik'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.033226,39.9045753"
 draft: "false"
 weight: "999"

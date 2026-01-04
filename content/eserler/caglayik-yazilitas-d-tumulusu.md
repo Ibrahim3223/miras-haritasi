@@ -5,10 +5,10 @@ slug: "caglayik-yazilitas-d-tumulusu"
 description: "## Çağlayık Yazılıtaş D Tümülüsü: Tarihî ve Kültürel Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.378809,42.003994"
 draft: "false"
 weight: "999"

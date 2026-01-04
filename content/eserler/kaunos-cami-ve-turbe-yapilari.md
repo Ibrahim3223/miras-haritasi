@@ -5,10 +5,10 @@ slug: "kaunos-cami-ve-turbe-yapilari"
 description: "## Kaunos Cami ve Türbe Yapıları..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6208725,36.8248863"
 draft: "false"
 weight: "999"

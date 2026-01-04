@@ -5,10 +5,10 @@ slug: "haydar-cavus-camii"
 description: "## Haydar Çavuş Camii: Bandırma'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Haydar_Çavuş–IMG_6345.jpg/1200px-Haydar_Çavuş–IMG_6345.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "10"

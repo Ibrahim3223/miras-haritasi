@@ -5,10 +5,10 @@ slug: "borualan-sinir-kapisi"
 description: "### Borualan Sınır Kapısı: Iğdır'in Gizli Çehresi..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Aralık"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.61351,39.781"
 draft: "false"
 weight: "999"

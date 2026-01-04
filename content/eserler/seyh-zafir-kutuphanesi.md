@@ -5,10 +5,10 @@ slug: "seyh-zafir-kutuphanesi"
 description: "# Şeyh Zafir Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0084743,41.0455208"
 draft: "false"
 weight: "999"

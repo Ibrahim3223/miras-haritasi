@@ -5,10 +5,10 @@ slug: "sultan-alaeddin-camii-sereflikochisar"
 description: "## Sultan Alaeddin Camii (Şereflikoçhisar)..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Şereflikoçhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.546936,38.9381218"
 draft: "false"
 weight: "999"

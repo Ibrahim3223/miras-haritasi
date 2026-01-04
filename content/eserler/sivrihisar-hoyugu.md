@@ -5,10 +5,10 @@ slug: "sivrihisar-hoyugu"
 description: "# Sivrihisar Höyüğü..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.539555193,39.43974974"
 draft: "false"
 weight: "999"

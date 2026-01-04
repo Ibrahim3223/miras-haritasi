@@ -5,10 +5,10 @@ slug: "manisa-saray-hamami-kalintisi-2"
 description: "# Manisa Saray Hamamı Kalıntısı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4343643,38.6154022"
 draft: "false"
 weight: "999"

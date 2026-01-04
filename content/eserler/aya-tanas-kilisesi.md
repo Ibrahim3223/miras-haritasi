@@ -5,10 +5,10 @@ slug: "aya-tanas-kilisesi"
 description: "## Aya Tanaş Kilisesi: Kırklareli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2216854,41.7311859"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balalan-camii"
 description: "## Balalan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7b/FamagustaDistrictPlatanissos.png"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.534404,41.04008"
 draft: "false"
 weight: "999"

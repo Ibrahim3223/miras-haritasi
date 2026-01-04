@@ -5,10 +5,10 @@ slug: "aya-dardara-kilisesi"
 description: "## Aya Dardara Kilisesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.4658813,40.8746643"
 draft: "false"
 weight: "999"

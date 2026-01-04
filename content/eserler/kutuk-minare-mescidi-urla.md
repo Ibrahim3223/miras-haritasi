@@ -5,10 +5,10 @@ slug: "kutuk-minare-mescidi-urla"
 description: "## Kütük Minare Mescidi: Urla'nın Tarihî Bir Çeşidi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7718945,38.3222542"
 draft: "false"
 weight: "999"

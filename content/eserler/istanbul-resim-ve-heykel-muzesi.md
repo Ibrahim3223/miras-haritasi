@@ -5,10 +5,10 @@ slug: "istanbul-resim-ve-heykel-muzesi"
 description: "## İstanbul Resim ve Heykel Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/138BS20220515D0016-ed-ea.jpg/1200px-138BS20220515D0016-ed-ea.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9842993,41.027851"
 draft: "false"
 weight: "10"

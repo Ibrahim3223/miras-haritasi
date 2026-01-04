@@ -5,10 +5,10 @@ slug: "guney-mahalle-asagi-camii"
 description: "### Güney Mahalle Aşağı Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.549437139,40.7875753"
 draft: "false"
 weight: "999"

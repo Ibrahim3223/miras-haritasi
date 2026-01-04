@@ -5,10 +5,10 @@ slug: "gunatle-manastiri"
 description: "### Gunatle Manastırı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Susuz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.298666666,41.244916666"
 draft: "false"
 weight: "999"

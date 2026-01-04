@@ -5,10 +5,10 @@ slug: "ahrandi-tumulusu"
 description: "## Ahrandı Tümülüsü: Ödemiş'in Gizli Kaya Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0053005,38.2456017"
 draft: "false"
 weight: "999"

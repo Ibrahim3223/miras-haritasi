@@ -5,10 +5,10 @@ slug: "vosgeperan-ermeni-katolik-kilisesi"
 description: "## Vosgeperan Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9831138,41.0364375"
 draft: "false"
 weight: "999"

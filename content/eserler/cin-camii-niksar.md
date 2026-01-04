@@ -5,10 +5,10 @@ slug: "cin-camii-niksar"
 description: "## Cin Camii, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9567528,40.5905991"
 draft: "false"
 weight: "999"

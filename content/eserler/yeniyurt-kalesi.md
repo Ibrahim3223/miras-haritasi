@@ -5,10 +5,10 @@ slug: "yeniyurt-kalesi"
 description: "# Yeniyurt Kalesi: Mersin'in Gizli Kırlangıçları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Yeniyurt_Kale_03.jpg/1200px-Yeniyurt_Kale_03.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.130277777,36.626388888"
 draft: "false"
 weight: "10"

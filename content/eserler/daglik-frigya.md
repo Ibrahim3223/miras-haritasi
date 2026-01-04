@@ -5,10 +5,10 @@ slug: "daglik-frigya"
 description: "### Dağlık Frigya: Eskişehir'in Gizli Zenginliği..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7138424,39.2010269"
 draft: "false"
 weight: "999"

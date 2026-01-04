@@ -5,10 +5,10 @@ slug: "avanos-tumulusu"
 description: "# Avanos Tümülüsü: Tarihi ve Kültürel Mirasın Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8541794,38.7813148"
 draft: "false"
 weight: "999"

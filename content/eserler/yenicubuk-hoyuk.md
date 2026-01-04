@@ -5,10 +5,10 @@ slug: "yenicubuk-hoyuk"
 description: "# Yeniçubuk Höyük: Sivas'taki Antik Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gemerek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0879395,39.2021961"
 draft: "false"
 weight: "999"

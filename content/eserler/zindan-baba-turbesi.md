@@ -5,10 +5,10 @@ slug: "zindan-baba-turbesi"
 description: "## Zindan Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Lüleburgaz_-_Zindan_Baba_Tomb_-_20250531164651.jpg/1200px-Lüleburgaz_-_Zindan_Baba_Tomb_-_20250531164651.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3507233,41.4084511"
 draft: "false"
 weight: "10"

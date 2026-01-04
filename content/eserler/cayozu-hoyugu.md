@@ -5,10 +5,10 @@ slug: "cayozu-hoyugu"
 description: "## Çayözü Höyüğü: Tarihî Bir Mirasın Geri Bıraktığı İzler..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Akpınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7494179,39.5249999"
 draft: "false"
 weight: "999"

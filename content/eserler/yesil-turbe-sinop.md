@@ -5,10 +5,10 @@ slug: "yesil-turbe-sinop"
 description: "## Yeşil Türbe: Sinop'un Gizli Anıtı..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.148892,42.02632"
 draft: "false"
 weight: "999"

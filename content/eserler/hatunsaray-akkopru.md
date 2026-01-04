@@ -5,10 +5,10 @@ slug: "hatunsaray-akkopru"
 description: "## Hatunsaray Akköprü: Konya'nın Tarihi Bir Harikası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3513618,37.5963038"
 draft: "false"
 weight: "999"

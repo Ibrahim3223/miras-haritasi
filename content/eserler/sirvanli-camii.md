@@ -5,10 +5,10 @@ slug: "sirvanli-camii"
 description: "**Şirvanlı Camii**..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.838089,40.6565094"
 draft: "false"
 weight: "999"

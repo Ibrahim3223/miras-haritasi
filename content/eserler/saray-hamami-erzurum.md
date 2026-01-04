@@ -5,10 +5,10 @@ slug: "saray-hamami-erzurum"
 description: "# Saray Hamamı, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2797089,39.9044495"
 draft: "false"
 weight: "999"

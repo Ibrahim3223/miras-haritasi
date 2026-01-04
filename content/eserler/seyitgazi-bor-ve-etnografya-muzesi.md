@@ -5,10 +5,10 @@ slug: "seyitgazi-bor-ve-etnografya-muzesi"
 description: "## Seyitgazi Bor ve Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.6914921,39.4447632"
 draft: "false"
 weight: "999"

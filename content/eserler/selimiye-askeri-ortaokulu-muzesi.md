@@ -5,10 +5,10 @@ slug: "selimiye-askeri-ortaokulu-muzesi"
 description: "## Selimiye Askeri Ortaokulu Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

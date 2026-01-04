@@ -5,10 +5,10 @@ slug: "krom-vadisi-kayaalti-kilisesi"
 description: "## Krom Vadisi Kayaaltı Kilisesi: Trabzon'un Gizli Gözdeleri Arasında Bir Çanak..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.599447,40.552893"
 draft: "false"
 weight: "999"

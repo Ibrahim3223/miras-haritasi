@@ -5,10 +5,10 @@ slug: "cermik-kalesi"
 description: "## Çermik Kalesi: Tarihî Bir Ören..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.4428749,38.1363564"
 draft: "false"
 weight: "999"

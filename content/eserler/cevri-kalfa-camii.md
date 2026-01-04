@@ -5,10 +5,10 @@ slug: "cevri-kalfa-camii"
 description: "## Cevri Kalfa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.027578,41.015298"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalayciktepe-hoyugu"
 description: "## Kalaycıktepe Höyüğü: Tunceli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehzade-mustafa-turbesi"
 description: "## Şehzade Mustafa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Şehzade_Mustafa_Türbesi.jpg/1200px-Şehzade_Mustafa_Türbesi.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0458145,40.1903648"
 draft: "false"
 weight: "10"

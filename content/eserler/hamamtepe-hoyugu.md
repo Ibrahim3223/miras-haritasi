@@ -5,10 +5,10 @@ slug: "hamamtepe-hoyugu"
 description: "# Hamamtepe Höyüğü: Gelibolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5062332,40.3638496"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tudegin-hoyugu"
 description: "## Tudeğin Höyüğü: Kahramanmaraş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0209805,38.283604"
 draft: "false"
 weight: "999"

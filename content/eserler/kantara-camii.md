@@ -5,10 +5,10 @@ slug: "kantara-camii"
 description: "## Kantara Camii: Hatay'daki Bir Tarihi ve Kültürel Harikası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1661034,36.198555"
 draft: "false"
 weight: "999"

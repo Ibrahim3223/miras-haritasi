@@ -5,10 +5,10 @@ slug: "meryem-ana-manastiri"
 description: "## Meryem Ana Manastırı: Şebinkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.50634766,40.2761879"
 draft: "false"
 weight: "999"

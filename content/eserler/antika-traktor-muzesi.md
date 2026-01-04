@@ -5,10 +5,10 @@ slug: "antika-traktor-muzesi"
 description: "## Antika Traktör Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antika_Traktör_Müzesi_3.jpg/1200px-Antika_Traktör_Müzesi_3.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.666838,40.407086"
 draft: "false"
 weight: "10"

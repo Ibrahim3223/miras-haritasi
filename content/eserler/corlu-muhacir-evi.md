@@ -5,10 +5,10 @@ slug: "corlu-muhacir-evi"
 description: "### Çorlu Muhacir Evi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.8018742,41.1637077"
 draft: "false"
 weight: "999"

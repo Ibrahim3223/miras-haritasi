@@ -5,10 +5,10 @@ slug: "uyucektepe-hoyuk"
 description: "### Üyücektepe Höyük..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Savaştepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.621767,39.340352"
 draft: "false"
 weight: "999"

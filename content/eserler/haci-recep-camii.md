@@ -5,10 +5,10 @@ slug: "haci-recep-camii"
 description: "### Hacı Recep Camii: Beyoğlu'ndaki Bir Tarihi Özellik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9867935,41.0333595"
 draft: "false"
 weight: "999"

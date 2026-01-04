@@ -5,10 +5,10 @@ slug: "tlos"
 description: "## Tlos Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tlos_ruins_Turkey.jpg/1200px-Tlos_ruins_Turkey.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.42079,36.55389"
 draft: "false"
 weight: "10"

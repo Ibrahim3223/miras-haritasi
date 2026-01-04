@@ -5,10 +5,10 @@ slug: "serve-sinir-kapisi"
 description: "## Serve Sınır Kapısı: Geçmişin Kervansaraylarından Bir Örnek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.5,37.81666667"
 draft: "false"
 weight: "999"

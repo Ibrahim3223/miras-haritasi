@@ -5,10 +5,10 @@ slug: "atabey-cami"
 description: "## Atabey Cami: Isparta'nın Büyüleyici Cami Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Atabeyler_Toplant%C4%B1s%C4%B1_-_Dr._Ebubekir_Atabey.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.636059,37.950812"
 draft: "false"
 weight: "999"

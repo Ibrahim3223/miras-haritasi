@@ -5,10 +5,10 @@ slug: "sultan-memduh-turbesi"
 description: "## Sultan Memduh Türbesi..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Tillo"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.0082,37.9467"
 draft: "false"
 weight: "999"

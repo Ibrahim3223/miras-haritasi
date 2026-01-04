@@ -5,10 +5,10 @@ slug: "batman-muzesi"
 description: "## Batman Müzesi: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Batman_Müzesi.jpg/1200px-Batman_Müzesi.jpg"
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.1411,37.8986"
 draft: "false"
 weight: "10"

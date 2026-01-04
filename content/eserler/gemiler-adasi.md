@@ -5,10 +5,10 @@ slug: "gemiler-adasi"
 description: "## Gemiler Adası: Muğla'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Gemiler_Adası_kalıntıları.jpg/1200px-Gemiler_Adası_kalıntıları.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.069352,36.553448"
 draft: "false"
 weight: "10"

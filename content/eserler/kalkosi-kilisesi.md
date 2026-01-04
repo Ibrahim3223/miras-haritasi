@@ -5,10 +5,10 @@ slug: "kalkosi-kilisesi"
 description: "## Kalkosi Kilisesi: Bir Doğu Anadolu'nun Gizli Çehresini İleri Sürleyen Tarihî Eser..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "İkizpınar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.342533333,40.608836111"
 draft: "false"
 weight: "999"

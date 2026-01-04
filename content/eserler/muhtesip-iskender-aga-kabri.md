@@ -5,10 +5,10 @@ slug: "muhtesip-iskender-aga-kabri"
 description: "## Muhtesip İskender Ağa Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9396553,41.022934"
 draft: "false"
 weight: "999"

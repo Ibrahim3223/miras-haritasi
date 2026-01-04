@@ -5,10 +5,10 @@ slug: "guvercinlik-koyu-kaya-mezari-1-havza"
 description: "**Güvercinlik Köyü Kaya Mezarı 1, Havza**..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.825734,41.037901"
 draft: "false"
 weight: "999"

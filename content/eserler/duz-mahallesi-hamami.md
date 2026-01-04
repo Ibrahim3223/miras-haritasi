@@ -5,10 +5,10 @@ slug: "duz-mahallesi-hamami"
 description: "**Düz Mahallesi Hamamı: Altınordu'nun Tarihi Mirası**..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.87785,40.986466"
 draft: "false"
 weight: "999"

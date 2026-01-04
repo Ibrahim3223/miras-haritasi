@@ -5,10 +5,10 @@ slug: "elbistan-sehir-muzesi"
 description: "## Elbistan Şehir Müzesi Tanıtımı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Elbistan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

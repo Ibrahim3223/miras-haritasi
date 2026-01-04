@@ -5,10 +5,10 @@ slug: "akarca-koprusu"
 description: "### Akarca Köprüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.922027777,41.335222222"
 draft: "false"
 weight: "999"

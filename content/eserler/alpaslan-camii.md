@@ -5,10 +5,10 @@ slug: "alpaslan-camii"
 description: "## Alpaslan Camii: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/68/Alpaslan_Camii%2C_2019_01.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7701149,41.3730583"
 draft: "false"
 weight: "999"

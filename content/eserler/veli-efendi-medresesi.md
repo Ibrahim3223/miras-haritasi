@@ -5,10 +5,10 @@ slug: "veli-efendi-medresesi"
 description: "## Veli Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.94807,41.020021"
 draft: "false"
 weight: "999"

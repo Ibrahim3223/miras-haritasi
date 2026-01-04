@@ -5,10 +5,10 @@ slug: "pasa-kapisi-edirne"
 description: "## Paşa Kapısı, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5525398,41.6795235"
 draft: "false"
 weight: "999"

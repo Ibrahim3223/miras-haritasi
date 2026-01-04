@@ -5,10 +5,10 @@ slug: "mahzemin-hoyuk"
 description: "**Mahzemin Höyük: Kayseri'nin Gizemli Mirası**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.320571345,38.858685763"
 draft: "false"
 weight: "999"

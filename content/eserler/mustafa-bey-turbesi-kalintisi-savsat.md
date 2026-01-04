@@ -5,10 +5,10 @@ slug: "mustafa-bey-turbesi-kalintisi-savsat"
 description: "# Mustafa Bey Türbesi Kalıntısı, Şavşat..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4445,41.2686996"
 draft: "false"
 weight: "999"

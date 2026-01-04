@@ -5,10 +5,10 @@ slug: "sarapnel-vadisi-mezarligi"
 description: "# Şarapnel Vadisi Mezarlığı: Eceabat'ta Bir Savaş Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Shrapnel_Valley_Commonwealth_War_Graves_Commission_Cemetery.jpg/1200px-Shrapnel_Valley_Commonwealth_War_Graves_Commission_Cemetery.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.27837,40.23394"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "uluderbent-koprusu"
 description: "## Uluderbent Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5441074,38.1846809"
 draft: "false"
 weight: "999"

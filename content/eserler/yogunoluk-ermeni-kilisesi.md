@@ -5,10 +5,10 @@ slug: "yogunoluk-ermeni-kilisesi"
 description: "## Yoğunoluk Ermeni Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.9746246,36.137249"
 draft: "false"
 weight: "999"

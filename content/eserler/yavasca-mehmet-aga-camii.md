@@ -5,10 +5,10 @@ slug: "yavasca-mehmet-aga-camii"
 description: "## Yavaşça Mehmet Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.932066,41.0175056"
 draft: "false"
 weight: "999"

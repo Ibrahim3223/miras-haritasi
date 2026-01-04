@@ -5,10 +5,10 @@ slug: "eroglu-nuri-yahsi-turbesi"
 description: "### Eroğlu Nuri Yahşi Türbesi: Finike'nin Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.032628,36.416933"
 draft: "false"
 weight: "999"

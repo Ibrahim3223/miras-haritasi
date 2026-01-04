@@ -5,10 +5,10 @@ slug: "saliha-hatun-turbesi"
 description: "### Saliha Hatun Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.93265219,38.46173171"
 draft: "false"
 weight: "999"

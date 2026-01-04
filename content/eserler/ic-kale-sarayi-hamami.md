@@ -5,10 +5,10 @@ slug: "ic-kale-sarayi-hamami"
 description: "### İç Kale Sarayı Hamamı..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.7192612,41.0014267"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rahmioglu-camii"
 description: "# Rahmioğlu Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.9455986,41.2145004"
 draft: "false"
 weight: "999"

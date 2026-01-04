@@ -5,10 +5,10 @@ slug: "arilla"
 description: "### Arilla: Manisa'nın Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Jose_Luis_Arilla_y_Manolo_Santana.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.086448,38.627775"
 draft: "false"
 weight: "999"

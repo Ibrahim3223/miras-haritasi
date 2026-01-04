@@ -5,10 +5,10 @@ slug: "alanbasi-havbagligi-camii"
 description: "# Alanbaşı Havbağlığı Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4105998,40.6898"
 draft: "false"
 weight: "999"

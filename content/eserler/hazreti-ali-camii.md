@@ -5,10 +5,10 @@ slug: "hazreti-ali-camii"
 description: "## Hazreti Ali Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Mosque_in_Istanbul_00.JPG/1200px-Mosque_in_Istanbul_00.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.047899211,41.024875314"
 draft: "false"
 weight: "10"

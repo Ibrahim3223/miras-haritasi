@@ -5,10 +5,10 @@ slug: "sykai"
 description: "## Sykai Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.972982,41.023019"
 draft: "false"
 weight: "999"

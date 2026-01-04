@@ -5,10 +5,10 @@ slug: "tacul-vezir-turbesi"
 description: "## Tacül Vezir Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4893608,37.8762093"
 draft: "false"
 weight: "999"

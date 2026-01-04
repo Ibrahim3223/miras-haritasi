@@ -5,10 +5,10 @@ slug: "balat-hamami"
 description: "**Balat Hamamı: Ayvansaray'daki Tarihsel Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Çavuşbaşı_Hamamı,_Balat_-_3.jpg/1200px-Çavuşbaşı_Hamamı,_Balat_-_3.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.945748,41.034196"
 draft: "false"
 weight: "10"

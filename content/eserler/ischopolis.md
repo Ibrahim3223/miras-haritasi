@@ -5,10 +5,10 @@ slug: "ischopolis"
 description: "### Ischopolis: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.195035,40.937989"
 draft: "false"
 weight: "999"

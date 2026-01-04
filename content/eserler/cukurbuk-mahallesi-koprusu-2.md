@@ -5,10 +5,10 @@ slug: "cukurbuk-mahallesi-koprusu-2"
 description: "**Çukurbük Mahallesi Köprüsü 2**..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.156907,41.078407"
 draft: "false"
 weight: "999"

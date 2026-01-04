@@ -5,10 +5,10 @@ slug: "azep-askeri-kabri-molla-husrev"
 description: "### Azep Askeri Kabri, Molla Hüsrev..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.958019,41.01615"
 draft: "false"
 weight: "999"

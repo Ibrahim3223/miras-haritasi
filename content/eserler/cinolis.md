@@ -5,10 +5,10 @@ slug: "cinolis"
 description: "## Cinolis Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.178403,41.961269"
 draft: "false"
 weight: "999"

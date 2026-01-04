@@ -5,10 +5,10 @@ slug: "mirdese-kalesi"
 description: "### Mirdese Kalesi: Tarihî Bir Kahraman'ın Kalıntıları..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.249165,37.728906"
 draft: "false"
 weight: "999"

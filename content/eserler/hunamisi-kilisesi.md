@@ -5,10 +5,10 @@ slug: "hunamisi-kilisesi"
 description: "# Hunamisi Kilisesi..."
 featured_image: ""
 province: "Posof"
-iller: '["Posof"]'
+iller: ["Posof"]
 district: "Söğütlükaya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.679638888,41.475944444"
 draft: "false"
 weight: "999"

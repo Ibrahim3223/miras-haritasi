@@ -5,10 +5,10 @@ slug: "kizil-minare-mescidi"
 description: "## Kızıl Minare Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.950611111,41.012444444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-muhammed-camii"
 description: "## Şeyh Muhammed Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Antakya_Seyh_Muhammed_mosque_in_2019_01.jpg/1200px-Antakya_Seyh_Muhammed_mosque_in_2019_01.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1676025,36.2035675"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "dalakci-hoyuk"
 description: "## Dalakçı Höyük: Mucur'un Gizli Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3034879,39.1736541"
 draft: "false"
 weight: "999"

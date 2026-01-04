@@ -5,10 +5,10 @@ slug: "haki-baba-camii"
 description: "## Haki Baba Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4128304,38.607338"
 draft: "false"
 weight: "999"

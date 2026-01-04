@@ -5,10 +5,10 @@ slug: "ali-baba-turbesi"
 description: "**Ali Baba Türbesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e2/Aksaray_K%C3%BClhani_Ali_Baba_Mausoleum_3088.jpg"
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.3633,38.4091"
 draft: "false"
 weight: "999"

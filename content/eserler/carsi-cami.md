@@ -5,10 +5,10 @@ slug: "carsi-cami"
 description: "## Çarşı Cami: Adıyaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.278100589,37.759025589"
 draft: "false"
 weight: "999"

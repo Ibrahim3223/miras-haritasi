@@ -5,10 +5,10 @@ slug: "kapadokyadaki-yeralti-sehirleri"
 description: "## Kapadokya'daki Yeraltı Şehirleri..."
 featured_image: ""
 province: "İç Anadolu Bölgesi"
-iller: '["İç Anadolu Bölgesi"]'
+iller: ["İç Anadolu Bölgesi"]
 district: "Kapadokya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "1"

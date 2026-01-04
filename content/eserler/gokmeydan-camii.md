@@ -5,10 +5,10 @@ slug: "gokmeydan-camii"
 description: "### Gökmeydan Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1081924,38.4078598"
 draft: "false"
 weight: "999"

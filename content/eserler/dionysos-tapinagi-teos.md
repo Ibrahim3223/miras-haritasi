@@ -5,10 +5,10 @@ slug: "dionysos-tapinagi-teos"
 description: "## Dionysos Tapınağı (Teos)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Teos.jpg/1200px-Teos.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.785,38.177222222"
 draft: "false"
 weight: "10"

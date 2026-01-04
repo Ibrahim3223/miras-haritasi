@@ -5,10 +5,10 @@ slug: "ortan-koyu-camii"
 description: "## Ortan Köyü Camii: Çamlıhemşin'in Tarihi Bir Rahmeti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.998457515,41.013904199"
 draft: "false"
 weight: "999"

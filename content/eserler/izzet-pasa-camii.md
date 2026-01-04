@@ -5,10 +5,10 @@ slug: "izzet-pasa-camii"
 description: "**İzzet Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Elazig_Izzetpascha-Moschee.jpg/1200px-Elazig_Izzetpascha-Moschee.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.22361111,38.67472222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tortum-kalesi-kilisesi"
 description: "### Tortum Kalesi Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Tortum ilçesi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.469888888,40.34055"
 draft: "false"
 weight: "999"

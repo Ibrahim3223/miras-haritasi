@@ -5,10 +5,10 @@ slug: "nisanci-hamza-pasa-turbesi"
 description: "## Nişancı Hamza Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Nişancı_Hamza_Paşa_Türbesi.jpg/1200px-Nişancı_Hamza_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0198479,41.0139008"
 draft: "false"
 weight: "10"

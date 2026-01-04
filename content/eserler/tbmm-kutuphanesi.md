@@ -5,10 +5,10 @@ slug: "tbmm-kutuphanesi"
 description: "## TBMM Kütüphanesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "32.851111111,39.911666666"
 draft: "false"
 weight: "999"

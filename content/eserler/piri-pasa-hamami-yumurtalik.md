@@ -5,10 +5,10 @@ slug: "piri-pasa-hamami-yumurtalik"
 description: "## Piri Paşa Hamamı, Yumurtalık..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yumurtalık"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.786555234,36.771270828"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "halife-camii"
 description: "## Halife Camii: Mardin'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.728505,37.312521"
 draft: "false"
 weight: "999"

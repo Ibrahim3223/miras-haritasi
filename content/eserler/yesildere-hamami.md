@@ -5,10 +5,10 @@ slug: "yesildere-hamami"
 description: "### Yeşildere Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.511832496,37.155249186"
 draft: "false"
 weight: "999"

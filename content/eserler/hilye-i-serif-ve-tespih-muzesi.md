@@ -5,10 +5,10 @@ slug: "hilye-i-serif-ve-tespih-muzesi"
 description: "**Hilye-i Şerif ve Tespih Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.966288823,41.017163222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "terlemez-baba-turbesi"
 description: "**Terlemez Baba Türbesi**..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.036335,38.380146"
 draft: "false"
 weight: "999"

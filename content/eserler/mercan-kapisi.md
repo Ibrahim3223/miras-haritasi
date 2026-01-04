@@ -5,10 +5,10 @@ slug: "mercan-kapisi"
 description: "## Mercan Kapısı: Fatih'te Gerçekleşen Bir Mimari Harikadan Kalma..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.968695,41.011423"
 draft: "false"
 weight: "999"

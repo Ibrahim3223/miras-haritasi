@@ -5,10 +5,10 @@ slug: "saint-george-kilisesi"
 description: "## Saint George Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Diyarbakir-St._George_Church_ruine.jpeg/1200px-Diyarbakir-St._George_Church_ruine.jpeg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.2423945,37.9159757"
 draft: "false"
 weight: "10"

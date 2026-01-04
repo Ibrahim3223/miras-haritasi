@@ -5,10 +5,10 @@ slug: "ucmakdere-koprusu"
 description: "## Uçmakdere Köprüsü: Kırklareli'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7378407,41.5907249"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kasimpasa-turbesi-menderes"
 description: "# Kasımpaşa Türbesi: İzmirlinin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1292572,38.2531357"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmut-pasa-medresesi"
 description: "## Mahmut Paşa Medresesi: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9720631,41.0111313"
 draft: "false"
 weight: "999"

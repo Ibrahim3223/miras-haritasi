@@ -5,10 +5,10 @@ slug: "samsamhoyuk"
 description: "## Samsamhöyük: Konya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.7614858,39.1138392"
 draft: "false"
 weight: "999"

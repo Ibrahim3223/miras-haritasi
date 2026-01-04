@@ -5,10 +5,10 @@ slug: "sigeion"
 description: "## Sigeion: Tarihi bir Kentin Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Troade-sigeo.svg/1200px-Troade-sigeo.svg.png"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.18055556,39.99"
 draft: "false"
 weight: "10"

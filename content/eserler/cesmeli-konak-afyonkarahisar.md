@@ -5,10 +5,10 @@ slug: "cesmeli-konak-afyonkarahisar"
 description: "**Çeşmeli Konak, Afyonkarahisar: Tarihi Bir Müze**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5358887,38.7593994"
 draft: "false"
 weight: "999"

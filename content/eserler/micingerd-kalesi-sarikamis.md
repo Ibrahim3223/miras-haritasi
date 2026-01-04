@@ -5,10 +5,10 @@ slug: "micingerd-kalesi-sarikamis"
 description: "## Micingerd Kalesi: Sarıkamış'taki Tarihi Bir Miras..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Sarıkamış"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.3692398,40.1947212"
 draft: "false"
 weight: "999"

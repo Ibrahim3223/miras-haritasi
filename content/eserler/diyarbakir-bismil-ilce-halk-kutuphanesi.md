@@ -5,10 +5,10 @@ slug: "diyarbakir-bismil-ilce-halk-kutuphanesi"
 description: "### Diyarbakır Bismil İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

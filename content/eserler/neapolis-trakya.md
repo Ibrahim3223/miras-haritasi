@@ -5,10 +5,10 @@ slug: "neapolis-trakya"
 description: "## Neapolis (Trakya) Arkeolojik Sit..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.181904,40.636065"
 draft: "false"
 weight: "999"

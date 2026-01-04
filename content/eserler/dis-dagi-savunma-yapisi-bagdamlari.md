@@ -5,10 +5,10 @@ slug: "dis-dagi-savunma-yapisi-bagdamlari"
 description: "# Diş Dağı Savunma Yapısı, Bağdamları..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8492947,37.1353035"
 draft: "false"
 weight: "999"

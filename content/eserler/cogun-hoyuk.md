@@ -5,10 +5,10 @@ slug: "cogun-hoyuk"
 description: "## Çoğun Höyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1139252,39.3040236"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ekslibris-muzesi"
 description: "## Ekslibris Müzesi: İstanbul'un Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.044124268,41.022397554"
 draft: "false"
 weight: "999"

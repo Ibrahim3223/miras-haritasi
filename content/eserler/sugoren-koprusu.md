@@ -5,10 +5,10 @@ slug: "sugoren-koprusu"
 description: "### Sugören Köprüsü: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Şalpazarı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.17323,40.942747"
 draft: "false"
 weight: "999"

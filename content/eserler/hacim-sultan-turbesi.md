@@ -5,10 +5,10 @@ slug: "hacim-sultan-turbesi"
 description: "### Hacım Sultan Türbesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Sivaslı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.5311222,38.5374947"
 draft: "false"
 weight: "999"

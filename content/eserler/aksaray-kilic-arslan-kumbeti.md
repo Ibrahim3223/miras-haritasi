@@ -5,10 +5,10 @@ slug: "aksaray-kilic-arslan-kumbeti"
 description: "### Aksaray Kılıç Arslan Kümbeti: Anıtsal Bir Miras..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.0540466,38.3733521"
 draft: "false"
 weight: "999"

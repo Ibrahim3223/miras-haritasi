@@ -5,10 +5,10 @@ slug: "turabi-baba-turbesi"
 description: "### Turabi Baba Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Turabi_Baba_Türbesi_01.jpg/1200px-Turabi_Baba_Türbesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.966476384,41.03227093"
 draft: "false"
 weight: "10"

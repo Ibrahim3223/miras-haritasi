@@ -5,10 +5,10 @@ slug: "mesudiye-camii-kutahya"
 description: "## Mesudiye Camii: Kütahya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.977911,39.420517"
 draft: "false"
 weight: "999"

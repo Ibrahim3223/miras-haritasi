@@ -5,10 +5,10 @@ slug: "serefiye-camii"
 description: "**Şerefiye Camii Tanıtımı**..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.3958073,40.7776222"
 draft: "false"
 weight: "999"

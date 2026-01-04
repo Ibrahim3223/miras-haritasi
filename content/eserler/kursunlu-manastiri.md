@@ -5,10 +5,10 @@ slug: "kursunlu-manastiri"
 description: "## Kurşunlu Manastırı: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.2679825,40.3994865"
 draft: "false"
 weight: "999"

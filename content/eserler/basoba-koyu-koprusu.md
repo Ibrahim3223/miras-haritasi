@@ -5,10 +5,10 @@ slug: "basoba-koyu-koprusu"
 description: "### Başoba Köyü Köprüsü: Hopa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.4894445,41.4143438"
 draft: "false"
 weight: "999"

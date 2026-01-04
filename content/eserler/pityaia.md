@@ -5,10 +5,10 @@ slug: "pityaia"
 description: "## Pityaia Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8171,38.9758"
 draft: "false"
 weight: "999"

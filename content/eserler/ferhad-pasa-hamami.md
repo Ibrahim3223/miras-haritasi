@@ -5,10 +5,10 @@ slug: "ferhad-pasa-hamami"
 description: "### Ferhad Paşa Hamamı: Çatalca'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.4638901,41.138588"
 draft: "false"
 weight: "999"

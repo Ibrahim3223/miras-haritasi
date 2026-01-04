@@ -5,10 +5,10 @@ slug: "mindos-kalesi"
 description: "## Mindos Kalesi: Konya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Halkapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.264362,37.380974"
 draft: "false"
 weight: "999"

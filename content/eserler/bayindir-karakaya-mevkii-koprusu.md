@@ -5,10 +5,10 @@ slug: "bayindir-karakaya-mevkii-koprusu"
 description: "## Bayındır Karakaya Mevkii Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3813,37.9998016"
 draft: "false"
 weight: "999"

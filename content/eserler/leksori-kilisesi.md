@@ -5,10 +5,10 @@ slug: "leksori-kilisesi"
 description: "## Leksori Kilisesi: İncelemesi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Sındıran"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.326305555,40.618027777"
 draft: "false"
 weight: "999"

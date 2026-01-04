@@ -5,10 +5,10 @@ slug: "karakurt-turbesi"
 description: "## Karakurt Türbesi: Kırşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9875412,39.1172142"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akcakoy-mezarlik-ustu-d-tumulusu"
 description: "### Akçaköy Mezarlık Üstü D Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5711899,41.3697662"
 draft: "false"
 weight: "999"

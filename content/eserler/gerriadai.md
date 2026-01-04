@@ -5,10 +5,10 @@ slug: "gerriadai"
 description: "# Gerriadai: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.788552,38.195953"
 draft: "false"
 weight: "999"

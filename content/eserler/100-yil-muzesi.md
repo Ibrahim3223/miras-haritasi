@@ -5,10 +5,10 @@ slug: "100-yil-muzesi"
 description: "## 100. Yıl Müzesi: Ankara'nın Kültür Mirası..."
 featured_image: "https://www.kulturportali.gov.tr/repoKulturPortali/large/SehirRehberi//GezilecekYer/20200321162728867_Ankara%20Olgunlasma%20Enstitusu%20100.%20Yil%20Muzesi.jpg?format=jpg&quality=50"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.854214494,39.932097768"
 draft: "false"
 weight: "999"

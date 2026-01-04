@@ -5,10 +5,10 @@ slug: "adatepe-koyu-camii"
 description: "## Adatepe Köyü Camii: Ayvacık'ta Bir Ölümsüz Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Adatepe_Köyü_Camii_(27072023)_-_53075211215.jpg/1200px-Adatepe_Köyü_Camii_(27072023)_-_53075211215.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6206913,39.5700836"
 draft: "false"
 weight: "10"

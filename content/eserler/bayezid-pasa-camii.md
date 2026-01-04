@@ -5,10 +5,10 @@ slug: "bayezid-pasa-camii"
 description: "### Bayezid Paşa Camii..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.836888888,40.658027777"
 draft: "false"
 weight: "999"

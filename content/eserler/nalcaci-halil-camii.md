@@ -5,10 +5,10 @@ slug: "nalcaci-halil-camii"
 description: "## Nalçacı Halil Camii: Üsküdar'ın Tarihi Bir Çağına Tanıklık Eden Mimari Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nalçacı_Halil_Camii.jpg/1200px-Nalçacı_Halil_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.019861111,41.016472222"
 draft: "false"
 weight: "10"

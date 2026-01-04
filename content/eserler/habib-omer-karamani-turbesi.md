@@ -5,10 +5,10 @@ slug: "habib-omer-karamani-turbesi"
 description: "### Habib Ömer Karamani Türbesi: Amasya'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8355,40.6546"
 draft: "false"
 weight: "999"

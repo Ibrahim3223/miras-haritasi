@@ -5,10 +5,10 @@ slug: "dortgozlu-kopru"
 description: "## Dörtgözlü Köprü: Pazar, Rize'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9028131,41.1314861"
 draft: "false"
 weight: "999"

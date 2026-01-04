@@ -5,10 +5,10 @@ slug: "koroglu-kalesi-ispir"
 description: "### Köroğlu Kalesi, İspir: Tarih ve Kültürel Mirasın Parıltısı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "İspir"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.0969162,40.40868"
 draft: "false"
 weight: "999"

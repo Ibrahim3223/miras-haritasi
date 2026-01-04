@@ -5,10 +5,10 @@ slug: "basdegirmen-koprusu"
 description: "## Başdeğirmen Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0159206,37.9333992"
 draft: "false"
 weight: "999"

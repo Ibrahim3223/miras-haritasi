@@ -5,10 +5,10 @@ slug: "acar-hamami"
 description: "## Acar Hamamı: Kahramanmaraş'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.9249496,37.5881577"
 draft: "false"
 weight: "999"

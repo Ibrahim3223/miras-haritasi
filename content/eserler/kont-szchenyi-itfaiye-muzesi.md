@@ -5,10 +5,10 @@ slug: "kont-szchenyi-itfaiye-muzesi"
 description: "## Kont Szchenyi İtfaiye Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9536419,41.0163002"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "babam-sultan-turbesi"
 description: "## Babam Sultan Türbesi: Sakarya'da Bir Geçmişe Yolculuk..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Pamukova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1648843,40.5146051"
 draft: "false"
 weight: "999"

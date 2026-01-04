@@ -5,10 +5,10 @@ slug: "bahce-kalesi"
 description: "## Bahçe Kalesi: Osmaniye'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Bah%C3%A7e%2C_Osmaniye_Bah%C3%A7e_kalesi.jpg"
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Bahçe"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.5835495,37.2009277"
 draft: "false"
 weight: "999"

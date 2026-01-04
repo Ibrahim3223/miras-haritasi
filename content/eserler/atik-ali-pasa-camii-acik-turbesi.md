@@ -5,10 +5,10 @@ slug: "atik-ali-pasa-camii-acik-turbesi"
 description: "# Atik Ali Paşa Camii Açık Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.970802,41.008694"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "urumi-kilisesi"
 description: "## Urumi Kilisesi: Tarihî Mirasın Gizemli Anıtı..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Bağdaşen"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.351861111,41.064888888"
 draft: "false"
 weight: "999"

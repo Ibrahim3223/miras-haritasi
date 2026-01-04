@@ -5,10 +5,10 @@ slug: "pir-ahmet-camii-karaman"
 description: "### Pir Ahmet Camii Karaman: Karaman'ın Tarihi Bir Örneği..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2073631,37.1808662"
 draft: "false"
 weight: "999"

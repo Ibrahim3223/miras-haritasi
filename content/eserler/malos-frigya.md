@@ -5,10 +5,10 @@ slug: "malos-frigya"
 description: "## Malos (Frigya)..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.753551,39.0892335"
 draft: "false"
 weight: "999"

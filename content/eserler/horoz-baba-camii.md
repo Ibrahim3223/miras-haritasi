@@ -5,10 +5,10 @@ slug: "horoz-baba-camii"
 description: "### Aksaray'da Bir Rönesans: Horoz Baba Camii..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0282745,38.3778076"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ioannis-prodromos-rum-kilisesi"
 description: "## İoannis Prodromos Rum Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.06127,41.171875"
 draft: "false"
 weight: "999"

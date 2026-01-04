@@ -5,10 +5,10 @@ slug: "lausus-sarayi"
 description: "### Lausus Sarayı: İstanbul'un Gizli Çatısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Palace_of_Lausus.jpg/1200px-Palace_of_Lausus.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9754,41.0078"
 draft: "false"
 weight: "10"

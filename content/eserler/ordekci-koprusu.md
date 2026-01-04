@@ -5,10 +5,10 @@ slug: "ordekci-koprusu"
 description: "## Ördekçi Köprüsü: Ankara'nın Tarihsel Değerlerindendir..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.861131696,39.943960401"
 draft: "false"
 weight: "999"

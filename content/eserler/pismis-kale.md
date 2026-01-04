@@ -5,10 +5,10 @@ slug: "pismis-kale"
 description: "### Pişmiş Kale..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.725702,39.215775"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sangarus"
 description: "## Sangarus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.062942,40.639267"
 draft: "false"
 weight: "999"

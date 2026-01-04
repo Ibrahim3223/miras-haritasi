@@ -5,10 +5,10 @@ slug: "seyh-mustafa-kabuli-efendi-turbesi"
 description: "## Şeyh Mustafa Kabuli Efendi Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.562807,41.679222"
 draft: "false"
 weight: "999"

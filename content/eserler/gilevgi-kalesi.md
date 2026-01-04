@@ -5,10 +5,10 @@ slug: "gilevgi-kalesi"
 description: "## Gilevgi Kalesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.043423846,36.863584571"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kendirli-kilisesi"
 description: "## Kendirli Kilisesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.3756828,37.0627899"
 draft: "false"
 weight: "999"

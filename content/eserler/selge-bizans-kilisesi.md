@@ -5,10 +5,10 @@ slug: "selge-bizans-kilisesi"
 description: "## Selge Bizans Kilisesi: Antalya'nın Gizli Çehresi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.1254711,37.2254639"
 draft: "false"
 weight: "999"

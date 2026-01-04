@@ -5,10 +5,10 @@ slug: "hierapolis-frigya-pentapolis"
 description: "**Hierapolis (Frigya Pentapolis)**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.197699,38.461767"
 draft: "false"
 weight: "999"

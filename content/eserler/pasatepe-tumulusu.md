@@ -5,10 +5,10 @@ slug: "pasatepe-tumulusu"
 description: "## Paşatepe Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.2459297,39.9460487"
 draft: "false"
 weight: "999"

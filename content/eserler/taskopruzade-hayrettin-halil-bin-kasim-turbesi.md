@@ -5,10 +5,10 @@ slug: "taskopruzade-hayrettin-halil-bin-kasim-turbesi"
 description: "## Taşköprüzade Hayrettin Halil Bin Kasım Türbesi: Küre'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Küre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7106094,41.8043861"
 draft: "false"
 weight: "999"

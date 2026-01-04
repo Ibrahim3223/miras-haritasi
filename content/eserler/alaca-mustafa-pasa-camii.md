@@ -5,10 +5,10 @@ slug: "alaca-mustafa-pasa-camii"
 description: "### Alaca Mustafa Paşa Camii: Edirne'nin Gizli Çehresi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3832684,40.9216347"
 draft: "false"
 weight: "999"

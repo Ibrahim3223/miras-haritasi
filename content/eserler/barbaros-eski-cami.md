@@ -5,10 +5,10 @@ slug: "barbaros-eski-cami"
 description: "# Barbaros Eski Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5821342,38.3241501"
 draft: "false"
 weight: "999"

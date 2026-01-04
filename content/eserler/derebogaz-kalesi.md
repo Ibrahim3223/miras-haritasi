@@ -5,10 +5,10 @@ slug: "derebogaz-kalesi"
 description: "# Dereboğaz Kalesi: Tarihi ve Ünlü Yerinin Gizemi..."
 featured_image: ""
 province: "Bitlis Vilayeti"
-iller: '["Bitlis Vilayeti"]'
+iller: ["Bitlis Vilayeti"]
 district: "Malazgirt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.4801674,39.1058655"
 draft: "false"
 weight: "999"

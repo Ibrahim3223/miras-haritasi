@@ -5,10 +5,10 @@ slug: "minareli-camii-darkale"
 description: "## Minareli Camii, Darkale..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5986748,39.1611557"
 draft: "false"
 weight: "999"

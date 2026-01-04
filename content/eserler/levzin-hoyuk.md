@@ -5,10 +5,10 @@ slug: "levzin-hoyuk"
 description: "# Levzin Höyük Arkeolojik Sit..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.922401428,37.581997288"
 draft: "false"
 weight: "999"

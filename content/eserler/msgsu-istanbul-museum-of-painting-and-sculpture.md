@@ -5,10 +5,10 @@ slug: "msgsu-istanbul-museum-of-painting-and-sculpture"
 description: "## MSGSU İstanbul Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yaka-kalesi"
 description: "## Yaka Kalesi: Mersin'in Tarihsel Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Yaka_Castle,_Mersin,_Turkey.JPG/1200px-Yaka_Castle,_Mersin,_Turkey.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.734444444,36.861111111"
 draft: "false"
 weight: "10"

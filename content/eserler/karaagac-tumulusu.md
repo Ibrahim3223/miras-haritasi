@@ -5,10 +5,10 @@ slug: "karaagac-tumulusu"
 description: "## Karaağaç Tümülüsü: Bozüyük'ün Gizli Çağı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0067005,39.8330612"
 draft: "false"
 weight: "999"

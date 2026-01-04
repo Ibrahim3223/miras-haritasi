@@ -5,10 +5,10 @@ slug: "roma-koprusu-erikli"
 description: "## Roma Köprüsü, Erikli..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Araklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9510095,40.6069794"
 draft: "false"
 weight: "999"

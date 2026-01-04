@@ -5,10 +5,10 @@ slug: "hekimbasi-omer-efendi-medresesi"
 description: "### Hekimbaşı Ömer Efendi Medresesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9408493,41.0119743"
 draft: "false"
 weight: "999"

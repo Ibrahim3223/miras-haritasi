@@ -5,10 +5,10 @@ slug: "asagi-igirbigir-kalesi"
 description: "# Aşağı Iğırbığır Kalesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Horasan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.5082512,39.9912605"
 draft: "false"
 weight: "999"

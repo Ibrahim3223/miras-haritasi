@@ -5,10 +5,10 @@ slug: "eski-cami-tekirdag"
 description: "# Eski Cami, Tekirdağ: Tarih ve Kültürel Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5133171,40.9778404"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-saray-mozaikleri-muzesi"
 description: "## Büyük Saray Mozaikleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mosaic_museum_Istanbul_2007_021.jpg/1200px-Mosaic_museum_Istanbul_2007_021.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97666667,41.00444444"
 draft: "false"
 weight: "10"

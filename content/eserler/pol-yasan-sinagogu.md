@@ -5,10 +5,10 @@ slug: "pol-yasan-sinagogu"
 description: "## Pol Yaşan Sinagogu: Ayvansaray'da Bir Geçmiş Ören..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.946472222,41.035138888"
 draft: "false"
 weight: "999"

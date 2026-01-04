@@ -5,10 +5,10 @@ slug: "balak-gazi-aniti"
 description: "# Balak Gazi Anıtı..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2503166,38.7015228"
 draft: "false"
 weight: "999"

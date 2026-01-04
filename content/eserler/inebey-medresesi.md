@@ -5,10 +5,10 @@ slug: "inebey-medresesi"
 description: "## İnebey Medresesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0610638,40.1826553"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uyuk"
 description: "### Üyük Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Hocalar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.982283,38.6038"
 draft: "false"
 weight: "999"

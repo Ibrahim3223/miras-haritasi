@@ -5,10 +5,10 @@ slug: "narli-camii"
 description: "## Narlı Camii: Edremit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.677824,39.5772324"
 draft: "false"
 weight: "999"

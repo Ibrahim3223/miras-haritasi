@@ -5,10 +5,10 @@ slug: "haci-lutfullah-camii"
 description: "## Hacı Lütfullah Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7929726,37.1439743"
 draft: "false"
 weight: "999"

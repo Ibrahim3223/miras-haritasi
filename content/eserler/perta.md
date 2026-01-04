@@ -5,10 +5,10 @@ slug: "perta"
 description: "## Perta: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Altınekin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.076657,38.167719"
 draft: "false"
 weight: "999"

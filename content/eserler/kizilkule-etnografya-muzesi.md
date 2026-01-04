@@ -5,10 +5,10 @@ slug: "kizilkule-etnografya-muzesi"
 description: "**Kızılkule Etnografya Müzesi**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

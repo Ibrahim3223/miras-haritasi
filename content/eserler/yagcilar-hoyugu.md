@@ -5,10 +5,10 @@ slug: "yagcilar-hoyugu"
 description: "## Yağcılar Höyüğü: Muş'un Gizli Mirası..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.4545904,38.9293261"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cumaonu-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6085167,37.7252426"
 draft: "false"
 weight: "999"

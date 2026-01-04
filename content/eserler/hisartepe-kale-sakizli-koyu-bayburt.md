@@ -5,10 +5,10 @@ slug: "hisartepe-kale-sakizli-koyu-bayburt"
 description: "## Hisartepe Kale (Sakızlı Köyü), Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.037444,40.158333"
 draft: "false"
 weight: "999"

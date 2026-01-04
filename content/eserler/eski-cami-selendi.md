@@ -5,10 +5,10 @@ slug: "eski-cami-selendi"
 description: "## Eski Cami, Selendi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Selendi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8691959,38.7442703"
 draft: "false"
 weight: "999"

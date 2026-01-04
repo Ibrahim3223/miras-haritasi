@@ -5,10 +5,10 @@ slug: "bakmaca-turbesi"
 description: "## Bakmaca Türbesi: İnegöl'de Gizli Bir Anıt..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.682394,40.0131454"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "imam-husrev-baba-kabri"
 description: "## İmam Hüsrev Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9679565,41.0392799"
 draft: "false"
 weight: "999"

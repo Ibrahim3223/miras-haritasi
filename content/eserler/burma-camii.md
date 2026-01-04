@@ -5,10 +5,10 @@ slug: "burma-camii"
 description: "## Burma Camii: Uşak'ta Bir Görsel Şölen..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Burma_Camii1.jpg/1200px-Burma_Camii1.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4064,38.67949"
 draft: "false"
 weight: "10"

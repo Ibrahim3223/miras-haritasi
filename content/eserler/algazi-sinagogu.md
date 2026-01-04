@@ -5,10 +5,10 @@ slug: "algazi-sinagogu"
 description: "## Algazi Sinagogu: İzmir'in Tarihî ve Kültürel Mirasının Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Algazi_Sinagogu.jpg/1200px-Algazi_Sinagogu.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.135916666,38.420222222"
 draft: "false"
 weight: "10"

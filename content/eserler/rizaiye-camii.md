@@ -5,10 +5,10 @@ slug: "rizaiye-camii"
 description: "## Rızaiye Camii: Sındırgı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1763382,39.234436"
 draft: "false"
 weight: "999"

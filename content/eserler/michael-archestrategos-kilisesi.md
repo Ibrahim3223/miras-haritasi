@@ -5,10 +5,10 @@ slug: "michael-archestrategos-kilisesi"
 description: "## Michael Archestrategos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.4395161,40.2033691"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amine-hatun-camii"
 description: "## Amine Hatun Camii: Bakırköy'de Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Amine_Hatun_Camii.jpg/1200px-Amine_Hatun_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8759384,40.9820671"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "pelekete-manastiri-tirilye"
 description: "## Pelekete Manastırı (Tirilye)..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.753327777,40.389436111"
 draft: "false"
 weight: "999"

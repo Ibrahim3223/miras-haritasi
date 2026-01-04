@@ -5,10 +5,10 @@ slug: "yenice-mezarlik-tepesi-tumulusu"
 description: "## Yenice Mezarlık Tepesi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6374836,41.7316017"
 draft: "false"
 weight: "999"

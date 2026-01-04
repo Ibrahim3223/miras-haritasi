@@ -5,10 +5,10 @@ slug: "karballa-manastiri"
 description: "## Karballa Manastırı: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "34.372986,38.2782706"
 draft: "false"
 weight: "999"

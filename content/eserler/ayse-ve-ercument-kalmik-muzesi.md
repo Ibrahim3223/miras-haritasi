@@ -5,10 +5,10 @@ slug: "ayse-ve-ercument-kalmik-muzesi"
 description: "### Ayşe ve Ercüment Kalmık Müzesi: Beyoğlu'ndaki Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9878778,41.0345815"
 draft: "false"
 weight: "999"

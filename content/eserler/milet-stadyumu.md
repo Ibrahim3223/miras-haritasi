@@ -5,10 +5,10 @@ slug: "milet-stadyumu"
 description: "## Milet Stadyumu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Milet_stadtmitte_1997.jpg/1200px-Milet_stadtmitte_1997.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.274444444,37.528055555"
 draft: "false"
 weight: "10"

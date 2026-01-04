@@ -5,10 +5,10 @@ slug: "ayran-tasi"
 description: "## Ayran Taşı: Ankara'nın Gizli Çarpık Taşı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.731917183,40.39864802"
 draft: "false"
 weight: "999"

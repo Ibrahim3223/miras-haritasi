@@ -5,10 +5,10 @@ slug: "cukurpinar-domuzpinari-5-tumulusu"
 description: "### Çukurpınar Domuzpınarı 5 Tümülüsü: Kırklareli'nin Gizli Çarpısı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4409676,41.8453789"
 draft: "false"
 weight: "999"

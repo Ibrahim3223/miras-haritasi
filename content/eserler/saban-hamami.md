@@ -5,10 +5,10 @@ slug: "saban-hamami"
 description: "## Şaban Hamamı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.7900543,37.1474037"
 draft: "false"
 weight: "999"

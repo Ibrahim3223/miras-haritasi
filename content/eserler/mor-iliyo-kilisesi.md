@@ -5,10 +5,10 @@ slug: "mor-iliyo-kilisesi"
 description: "## Mor İliyo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.7283249,37.2874794"
 draft: "false"
 weight: "999"

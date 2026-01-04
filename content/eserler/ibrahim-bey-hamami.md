@@ -5,10 +5,10 @@ slug: "ibrahim-bey-hamami"
 description: "# İbrahim Bey Hamamı: Didim'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.278162,37.5292816"
 draft: "false"
 weight: "999"

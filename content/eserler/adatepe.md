@@ -5,10 +5,10 @@ slug: "adatepe"
 description: "## Adatepe Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.54912,41.779056"
 draft: "false"
 weight: "999"

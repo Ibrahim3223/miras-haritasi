@@ -5,10 +5,10 @@ slug: "hizirilyas-koprusu"
 description: "### Hızırilyas Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.455513,40.449666"
 draft: "false"
 weight: "999"

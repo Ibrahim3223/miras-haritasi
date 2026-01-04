@@ -5,10 +5,10 @@ slug: "hundi-hatun-camii"
 description: "## Hundi Hatun Camii: Pınarhisar'ın Tarihi Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.514805555,41.627111111"
 draft: "false"
 weight: "999"

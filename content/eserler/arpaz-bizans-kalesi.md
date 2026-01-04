@@ -5,10 +5,10 @@ slug: "arpaz-bizans-kalesi"
 description: "## Arpaz Bizans Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.352747,37.8022385"
 draft: "false"
 weight: "999"

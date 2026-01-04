@@ -5,10 +5,10 @@ slug: "kalukkaracukur-camii"
 description: "### Kalukkaraçukur Camii: Alaçam'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.550499,41.5203018"
 draft: "false"
 weight: "999"

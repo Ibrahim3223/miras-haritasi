@@ -5,10 +5,10 @@ slug: "alpagut-koyu-camii"
 description: "## Alpagut Köyü Camii: Bilecik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.8166676,40.1986313"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kasim-cavus-kabri"
 description: "## Kasım Çavuş Kabri: Eyüpsultan'ın Tarihsel Mirasının Değerli Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.929801767,41.050269639"
 draft: "false"
 weight: "999"

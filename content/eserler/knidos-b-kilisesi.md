@@ -5,10 +5,10 @@ slug: "knidos-b-kilisesi"
 description: "### Knidos B Kilisesi: Datça'nın Gizli Çehresi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3743267,36.6871109"
 draft: "false"
 weight: "999"

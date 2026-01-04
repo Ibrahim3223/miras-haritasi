@@ -5,10 +5,10 @@ slug: "ismet-inonu-heykeli-ziraat"
 description: "## İsmet İnönü Heykeli, Ziraat..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8600578,39.9560242"
 draft: "false"
 weight: "999"

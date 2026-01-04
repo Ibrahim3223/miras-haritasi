@@ -5,10 +5,10 @@ slug: "ismail-ebul-iz-el-cezeri-muzesi"
 description: "**İsmail Ebul-iz El Cezeri Müzesi**..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "42.185589,37.332126"
 draft: "false"
 weight: "999"

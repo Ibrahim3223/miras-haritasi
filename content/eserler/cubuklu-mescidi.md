@@ -5,10 +5,10 @@ slug: "cubuklu-mescidi"
 description: "**Çubuklu Mescidi: Altındağ'un Tarihî Bir Örneği**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8704338,39.9377785"
 draft: "false"
 weight: "999"

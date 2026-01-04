@@ -5,10 +5,10 @@ slug: "pazarkule-sinir-kapisi"
 description: "### Pazarkule Sınır Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Turkey-Greece_Border_Edirne.jpg/1200px-Turkey-Greece_Border_Edirne.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "26.490277777,41.653888888"
 draft: "false"
 weight: "10"

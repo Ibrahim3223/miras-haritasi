@@ -5,10 +5,10 @@ slug: "karaabalar-haydutlu-tumulusu"
 description: "## Karaabalar Haydutlu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2564583,42.0594711"
 draft: "false"
 weight: "999"

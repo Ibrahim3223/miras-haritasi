@@ -5,10 +5,10 @@ slug: "ampuri-kilisesi"
 description: "## Ampuri Kilisesi: Kenardere'nin Tarihî Mirası..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Kenardere"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.166527777,41.2865"
 draft: "false"
 weight: "999"

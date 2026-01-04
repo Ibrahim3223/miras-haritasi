@@ -5,10 +5,10 @@ slug: "zubeyde-ve-leyla-hanim-turbesi"
 description: "## Zübeyde ve Leyla Hanım Türbesi: Diyarbakır'ın Tarihî Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.236479,37.914928"
 draft: "false"
 weight: "999"

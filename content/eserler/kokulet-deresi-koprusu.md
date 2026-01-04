@@ -5,10 +5,10 @@ slug: "kokulet-deresi-koprusu"
 description: "### Kokulet Deresi Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Murgul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.623538,41.3093727"
 draft: "false"
 weight: "999"

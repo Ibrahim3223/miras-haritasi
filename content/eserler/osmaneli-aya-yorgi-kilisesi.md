@@ -5,10 +5,10 @@ slug: "osmaneli-aya-yorgi-kilisesi"
 description: "## Osmaneli Aya Yorgi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Osmaneli_Aya_Yorgi_Kilisesi_1_(cropped).jpg/1200px-Osmaneli_Aya_Yorgi_Kilisesi_1_(cropped).jpg"
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Osmaneli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.0125,40.355278"
 draft: "false"
 weight: "10"

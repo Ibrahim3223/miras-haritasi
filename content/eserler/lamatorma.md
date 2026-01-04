@@ -5,10 +5,10 @@ slug: "lamatorma"
 description: "# Lamatorma: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.0162235,36.734871"
 draft: "false"
 weight: "999"

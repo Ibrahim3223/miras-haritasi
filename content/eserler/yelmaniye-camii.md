@@ -5,10 +5,10 @@ slug: "yelmaniye-camii"
 description: "## Yelmaniye Camii: Tunceli'nin Gizli Çağından Kalan Bir İncil..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Çemişgezek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.9135818,39.062603"
 draft: "false"
 weight: "999"

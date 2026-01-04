@@ -5,10 +5,10 @@ slug: "hoca-hasan-medresesi"
 description: "## Hoca Hasan Medresesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.4815178,38.7215958"
 draft: "false"
 weight: "999"

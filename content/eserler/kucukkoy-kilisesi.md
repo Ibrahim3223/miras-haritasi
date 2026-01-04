@@ -5,10 +5,10 @@ slug: "kucukkoy-kilisesi"
 description: "## Küçükköy Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Kirche_Küçükköy_11.jpg/1200px-Kirche_Küçükköy_11.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Küçükköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.586667,37.9985"
 draft: "false"
 weight: "10"

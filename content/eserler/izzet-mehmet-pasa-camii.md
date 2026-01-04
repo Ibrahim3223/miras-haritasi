@@ -5,10 +5,10 @@ slug: "izzet-mehmet-pasa-camii"
 description: "## İzzet Mehmet Paşa Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/İzzet_Mehmet_Mosque_in_Safranbolu,_Karabük_Province.jpg/1200px-İzzet_Mehmet_Mosque_in_Safranbolu,_Karabük_Province.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.68594,41.24833"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "hoca-cesme-hoyugu"
 description: "### Hoca Çeşme Höyüğü: Edirne'nin Gizli Cezayiri..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.0984097,40.7210808"
 draft: "false"
 weight: "999"

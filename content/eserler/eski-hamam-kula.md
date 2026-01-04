@@ -5,10 +5,10 @@ slug: "eski-hamam-kula"
 description: "## Eski Hamam, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.523941,38.6238174"
 draft: "false"
 weight: "999"

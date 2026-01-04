@@ -5,10 +5,10 @@ slug: "kisik-camii"
 description: "## Kısık Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.423443,38.613718"
 draft: "false"
 weight: "999"

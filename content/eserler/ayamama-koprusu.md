@@ -5,10 +5,10 @@ slug: "ayamama-koprusu"
 description: "### Ayamama Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.836585,40.986969"
 draft: "false"
 weight: "999"

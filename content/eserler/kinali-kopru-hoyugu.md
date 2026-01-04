@@ -5,10 +5,10 @@ slug: "kinali-kopru-hoyugu"
 description: "### Kınalı Köprü Höyüğü: Silivri'nin Gizli Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.1003647,41.0664177"
 draft: "false"
 weight: "999"

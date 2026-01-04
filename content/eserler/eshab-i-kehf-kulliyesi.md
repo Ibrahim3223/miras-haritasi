@@ -5,10 +5,10 @@ slug: "eshab-i-kehf-kulliyesi"
 description: "## Eshab-ı Kehf Külliyesi: Afşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.8546066,38.2490997"
 draft: "false"
 weight: "999"

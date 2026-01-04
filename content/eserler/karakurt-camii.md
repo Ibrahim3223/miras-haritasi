@@ -5,10 +5,10 @@ slug: "karakurt-camii"
 description: "### Karakurt Camii: Kırşehir'in Tarihî ve Mimari Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir ili genel seçim sonuçları"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.9874458,39.1172218"
 draft: "false"
 weight: "999"

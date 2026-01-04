@@ -5,10 +5,10 @@ slug: "uzun-yusuf-kabri"
 description: "## Uzun Yusuf Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9280853,41.0104713"
 draft: "false"
 weight: "999"

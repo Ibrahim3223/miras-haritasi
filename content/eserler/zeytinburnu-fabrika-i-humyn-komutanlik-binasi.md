@@ -5,10 +5,10 @@ slug: "zeytinburnu-fabrika-i-humyn-komutanlik-binasi"
 description: "## Zeytinburnu Fabrika-i Hümâyûn Komutanlık Binası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "28.9045734,40.9833908"
 draft: "false"
 weight: "999"

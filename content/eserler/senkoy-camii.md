@@ -5,10 +5,10 @@ slug: "senkoy-camii"
 description: "## Şenköy Camii: Çamlıhemşin'in Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.960768,40.945688"
 draft: "false"
 weight: "999"

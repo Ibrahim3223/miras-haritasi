@@ -5,10 +5,10 @@ slug: "cedit-kale-foca"
 description: "## Cedit Kale, Foça: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.7348633,38.6666985"
 draft: "false"
 weight: "999"

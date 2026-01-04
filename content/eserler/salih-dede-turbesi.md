@@ -5,10 +5,10 @@ slug: "salih-dede-turbesi"
 description: "# Salih Dede Türbesi: Üsküdar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0125599,41.0150604"
 draft: "false"
 weight: "999"

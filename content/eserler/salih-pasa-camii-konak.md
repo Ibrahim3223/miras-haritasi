@@ -5,10 +5,10 @@ slug: "salih-pasa-camii-konak"
 description: "## Salih Paşa Camii, Konak: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1359997,38.4085999"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yukaritasli-camii"
 description: "## Yukarıtaslı Camii: Çorum'un Gizli Şarkısı..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.4762154,40.7381935"
 draft: "false"
 weight: "999"

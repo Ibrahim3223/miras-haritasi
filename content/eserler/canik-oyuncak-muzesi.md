@@ -5,10 +5,10 @@ slug: "canik-oyuncak-muzesi"
 description: "## Canik Oyuncak Müzesi: Samsun'un Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Canik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

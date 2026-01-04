@@ -5,10 +5,10 @@ slug: "haci-hafiz-yusuf-yilmaz-camii"
 description: "### Hacı Hafız Yusuf Yılmaz Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

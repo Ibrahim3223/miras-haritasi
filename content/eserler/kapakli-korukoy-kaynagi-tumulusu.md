@@ -5,10 +5,10 @@ slug: "kapakli-korukoy-kaynagi-tumulusu"
 description: "## Kapaklı Koruköy Kaynağı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3481045,41.8804474"
 draft: "false"
 weight: "999"

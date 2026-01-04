@@ -5,10 +5,10 @@ slug: "belen-ermeni-kilisesi"
 description: "### Belen Ermeni Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Belen"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.1947479,36.4921722"
 draft: "false"
 weight: "999"

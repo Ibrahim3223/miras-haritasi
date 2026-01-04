@@ -5,10 +5,10 @@ slug: "alincik-koyu-turbesi"
 description: "## Alıncık Köyü Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.8740788,39.0482979"
 draft: "false"
 weight: "999"

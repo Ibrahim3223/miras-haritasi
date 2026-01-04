@@ -5,10 +5,10 @@ slug: "yazikoy-kalesi"
 description: "## Yazıköy Kalesi: Datça'nın Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4482002,36.6883621"
 draft: "false"
 weight: "999"

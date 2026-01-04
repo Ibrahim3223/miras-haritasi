@@ -5,10 +5,10 @@ slug: "sarikavak-hoyugu"
 description: "## Sarıkavak Höyüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Sarkavak_Hy_1761902516.jpg/1200px-Sarkavak_Hy_1761902516.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dazkırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8034401,37.8748016"
 draft: "false"
 weight: "10"

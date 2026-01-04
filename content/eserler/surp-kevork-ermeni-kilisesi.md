@@ -5,10 +5,10 @@ slug: "surp-kevork-ermeni-kilisesi"
 description: "## Surp Kevork Ermeni Kilisesi: Sivas'taki Bir Tarihî Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.9969444,39.7746658"
 draft: "false"
 weight: "999"

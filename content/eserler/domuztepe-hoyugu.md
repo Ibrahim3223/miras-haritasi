@@ -5,10 +5,10 @@ slug: "domuztepe-hoyugu"
 description: "## Domuztepe Höyüğü: Osmaniye'nin Eski Mirası..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Düziçi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.2551384,37.2900314"
 draft: "false"
 weight: "999"

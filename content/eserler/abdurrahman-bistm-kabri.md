@@ -5,10 +5,10 @@ slug: "abdurrahman-bistm-kabri"
 description: "### Abdurrahman Bistâmî Kabri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0570621,40.1828995"
 draft: "false"
 weight: "999"

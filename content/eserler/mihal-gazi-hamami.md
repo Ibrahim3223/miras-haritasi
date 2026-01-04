@@ -5,10 +5,10 @@ slug: "mihal-gazi-hamami"
 description: "**Mihal Gazi Hamamı**..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Gölpazarı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.3179626,40.2832146"
 draft: "false"
 weight: "999"

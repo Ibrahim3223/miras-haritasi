@@ -5,10 +5,10 @@ slug: "gulhane-kapisi"
 description: "## Gülhane Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9855442,41.0140572"
 draft: "false"
 weight: "999"

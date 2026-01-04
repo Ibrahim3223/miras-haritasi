@@ -5,10 +5,10 @@ slug: "haci-veli-camii"
 description: "## Hacı Veli Camii: Gaziantep'te Bir Tarihî Çanak..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3859863,37.0606346"
 draft: "false"
 weight: "999"

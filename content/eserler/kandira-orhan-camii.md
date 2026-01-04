@@ -5,10 +5,10 @@ slug: "kandira-orhan-camii"
 description: "## Kandıra Orhan Camii: Kocaeli'nin Büyüleyici Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1477089,41.0705338"
 draft: "false"
 weight: "999"

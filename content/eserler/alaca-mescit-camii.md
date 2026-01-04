@@ -5,10 +5,10 @@ slug: "alaca-mescit-camii"
 description: "### Alaca Mescit Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alaca_Mescit_Camii_2025_-_i%C3%A7_pan2.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5445824,40.316021"
 draft: "false"
 weight: "999"

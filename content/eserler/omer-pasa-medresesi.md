@@ -5,10 +5,10 @@ slug: "omer-pasa-medresesi"
 description: "## Ömer Paşa Medresesi: Antalya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.9138966,36.7432632"
 draft: "false"
 weight: "999"

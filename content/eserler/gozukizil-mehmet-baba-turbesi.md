@@ -5,10 +5,10 @@ slug: "gozukizil-mehmet-baba-turbesi"
 description: "## Gözükızıl Mehmet Baba Türbesi: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.388936,37.057903"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gulbahar-hatun-medresesi"
 description: "## Gülbahar Hatun Medresesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "39.7164268,41.0036354"
 draft: "false"
 weight: "999"

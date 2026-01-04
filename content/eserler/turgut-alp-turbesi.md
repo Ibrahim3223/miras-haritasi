@@ -5,10 +5,10 @@ slug: "turgut-alp-turbesi"
 description: "**Turgut Alp Türbesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3835602,40.044014"
 draft: "false"
 weight: "999"

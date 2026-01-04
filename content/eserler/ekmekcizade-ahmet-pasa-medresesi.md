@@ -5,10 +5,10 @@ slug: "ekmekcizade-ahmet-pasa-medresesi"
 description: "### Ekmekçizade Ahmet Paşa Medresesi: Fatih'te Bir Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ekmekçizade_Ahmet_Paşa_Medresesi1.jpg/1200px-Ekmekçizade_Ahmet_Paşa_Medresesi1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.95901,41.014976"
 draft: "false"
 weight: "10"

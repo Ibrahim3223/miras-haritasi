@@ -5,10 +5,10 @@ slug: "halil-hamid-pasa-kutuphanesi"
 description: "## Halil Hamid Paşa Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

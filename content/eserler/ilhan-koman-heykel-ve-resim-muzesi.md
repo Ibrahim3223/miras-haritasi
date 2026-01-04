@@ -5,10 +5,10 @@ slug: "ilhan-koman-heykel-ve-resim-muzesi"
 description: "## İlhan Koman Heykel ve Resim Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Karaağaç_Tren_İstasyonu,_Trakya_Üniversitesi_Karaağaç_Yerleşkesi_2015-1.jpg/1200px-Karaağaç_Tren_İstasyonu,_Trakya_Üniversitesi_Karaağaç_Yerleşkesi_2015-1.jpg"
 province: "Edirne (ilçe)"
-iller: '["Edirne (ilçe)"]'
+iller: ["Edirne (ilçe)"]
 district: "Karaağaç"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.522694444,41.651666666"
 draft: "false"
 weight: "10"

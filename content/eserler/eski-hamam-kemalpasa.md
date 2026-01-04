@@ -5,10 +5,10 @@ slug: "eski-hamam-kemalpasa"
 description: "## Eski Hamam, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4151878,38.4247513"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istanbul-arkeoloji-muzeleri"
 description: "### İstanbul Arkeoloji Müzeleri: Tarih, Kültür ve Sanatın Karşımızda..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Istanbularcheology.jpg/1200px-Istanbularcheology.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.981388888,41.011669444"
 draft: "false"
 weight: "10"

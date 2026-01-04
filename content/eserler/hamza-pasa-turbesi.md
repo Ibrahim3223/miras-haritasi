@@ -5,10 +5,10 @@ slug: "hamza-pasa-turbesi"
 description: "### Hamza Paşa Türbesi: Trabzon'un Önemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hamza_Paşa_Türbesi.jpg/1200px-Hamza_Paşa_Türbesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.7131042,41.0044098"
 draft: "false"
 weight: "10"

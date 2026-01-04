@@ -5,10 +5,10 @@ slug: "karagoz-camii-gaziantep"
 description: "## Karagöz Camii: Gaziantep'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.38377,37.063385"
 draft: "false"
 weight: "999"

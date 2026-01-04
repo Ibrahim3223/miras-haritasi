@@ -5,10 +5,10 @@ slug: "tabaklar-hamami"
 description: "## Tabaklar Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/TR_Bolu_asv2021-10_img01_hamam_shoe_shop.jpg/1200px-TR_Bolu_asv2021-10_img01_hamam_shoe_shop.jpg"
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.60525,40.730833333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "korasion"
 description: "## Korasion: Silifke'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.07638889,36.40888889"
 draft: "false"
 weight: "999"

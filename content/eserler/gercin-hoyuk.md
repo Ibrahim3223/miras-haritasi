@@ -5,10 +5,10 @@ slug: "gercin-hoyuk"
 description: "## Gercin Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.7514229,37.1353493"
 draft: "false"
 weight: "999"

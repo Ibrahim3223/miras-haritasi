@@ -5,10 +5,10 @@ slug: "synaus"
 description: "## Synaus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.97761,39.092739"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haznedarli-camii"
 description: "## Haznedarlı Camii: Kahramanmaraş'taki Tarihî Bir Cennet..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9433365,37.5837555"
 draft: "false"
 weight: "999"

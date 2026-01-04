@@ -5,10 +5,10 @@ slug: "imaret-hamami"
 description: "## İmaret Hamamı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5403824,38.7540321"
 draft: "false"
 weight: "999"

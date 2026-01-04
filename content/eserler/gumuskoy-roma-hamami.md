@@ -5,10 +5,10 @@ slug: "gumuskoy-roma-hamami"
 description: "## Gümüşköy Roma Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4848995,37.8606987"
 draft: "false"
 weight: "999"

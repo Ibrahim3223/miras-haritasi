@@ -5,10 +5,10 @@ slug: "dayezade-yusuf-aga-mescidi"
 description: "## Dayezade Yusuf Ağa Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9834521,41.0282637"
 draft: "false"
 weight: "999"

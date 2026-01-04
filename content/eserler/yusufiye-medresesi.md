@@ -5,10 +5,10 @@ slug: "yusufiye-medresesi"
 description: "# Yusufiye Medresesi: Bitlis'in Gizli Çehresi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.111351,38.3995171"
 draft: "false"
 weight: "999"

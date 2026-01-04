@@ -5,10 +5,10 @@ slug: "koimesis-tes-teotokos-kilisesi"
 description: "## Koimesis Tes Teotokos Kilisesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.9043617,40.5055351"
 draft: "false"
 weight: "999"

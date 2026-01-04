@@ -5,10 +5,10 @@ slug: "gungormez-minareli-mescit"
 description: "## Güngörmez Minareli Mescit..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.486705157,38.7200222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gozpinar-sehitligi"
 description: "## Gözpınar Şehitliği: Aydın'ın Anıtsal Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8041,37.9140282"
 draft: "false"
 weight: "999"

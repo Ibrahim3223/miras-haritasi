@@ -5,10 +5,10 @@ slug: "beyazit-bestami-camii"
 description: "## Beyazıt Bestami Camii..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.891083333,40.302194444"
 draft: "false"
 weight: "999"

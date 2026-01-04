@@ -5,10 +5,10 @@ slug: "elcili-koprusu"
 description: "## Elçili Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6176987,41.455574"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "avdalli-kalesi"
 description: "# Avdallı Kalesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Halkapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.241848,37.4548"
 draft: "false"
 weight: "999"

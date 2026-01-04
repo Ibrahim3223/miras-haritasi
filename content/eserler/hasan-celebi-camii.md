@@ -5,10 +5,10 @@ slug: "hasan-celebi-camii"
 description: "## Hasan Çelebi Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8413448,37.8511848"
 draft: "false"
 weight: "999"

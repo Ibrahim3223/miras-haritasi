@@ -5,10 +5,10 @@ slug: "tabakhane-koprusu"
 description: "### Tabakhane Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Tabakhane_Bridge,_Trabzon.jpg/1200px-Tabakhane_Bridge,_Trabzon.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.860836,39.9430199"
 draft: "false"
 weight: "999"

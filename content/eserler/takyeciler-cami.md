@@ -5,10 +5,10 @@ slug: "takyeciler-cami"
 description: "### Takyeciler Cami'nin Gizemi: Tokat'ta Bir Tarihî Harikası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.546305555,40.316083333"
 draft: "false"
 weight: "999"

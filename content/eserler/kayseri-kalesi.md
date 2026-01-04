@@ -5,10 +5,10 @@ slug: "kayseri-kalesi"
 description: "## Kayseri Kalesi: Tarih ve Kültürel Mirasın İkisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/00_0825_Stadtmauern_von_Kayseri.jpg/1200px-00_0825_Stadtmauern_von_Kayseri.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.4888,38.7211"
 draft: "false"
 weight: "10"

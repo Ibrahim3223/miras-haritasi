@@ -5,10 +5,10 @@ slug: "saniye-hatun-koprusu"
 description: "**Saniye Hatun Köprüsü: Mamak, Ankara'nın Gizli Çeşmidi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.897643352,39.934571196"
 draft: "false"
 weight: "999"

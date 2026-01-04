@@ -5,10 +5,10 @@ slug: "poyraci-mescidi"
 description: "### Poyracı Mescidi: Altındağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.861557,39.9317932"
 draft: "false"
 weight: "999"

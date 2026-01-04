@@ -5,10 +5,10 @@ slug: "hisar-maden-koyu-kilisesi"
 description: "## Hisar (Maden) Köyü Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.405979,40.746604"
 draft: "false"
 weight: "999"

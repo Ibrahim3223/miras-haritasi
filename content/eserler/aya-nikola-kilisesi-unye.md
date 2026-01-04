@@ -5,10 +5,10 @@ slug: "aya-nikola-kilisesi-unye"
 description: "### Aya Nikola Kilisesi: Ünye'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Aya_Nikola_island%2C_%C3%9Cnye%2C_Turkey.jpg"
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.280682,41.146298"
 draft: "false"
 weight: "999"

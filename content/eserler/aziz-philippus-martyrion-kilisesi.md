@@ -5,10 +5,10 @@ slug: "aziz-philippus-martyrion-kilisesi"
 description: "## Aziz Philippus Martyrion Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Kilise_tanımı.jpg/1200px-Kilise_tanımı.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1301098,37.9312439"
 draft: "false"
 weight: "10"

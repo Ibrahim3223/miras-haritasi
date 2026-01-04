@@ -5,10 +5,10 @@ slug: "mentesoglu-koprusu"
 description: "## Menteşoğlu Köprüsü..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1080894,38.4031105"
 draft: "false"
 weight: "999"

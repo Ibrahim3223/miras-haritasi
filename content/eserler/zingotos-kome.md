@@ -5,10 +5,10 @@ slug: "zingotos-kome"
 description: "## Zingotos Kome: Türkiye'nin Antikçağından Bir İhtişam..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.097667,39.218945"
 draft: "false"
 weight: "999"

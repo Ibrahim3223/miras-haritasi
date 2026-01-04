@@ -5,10 +5,10 @@ slug: "emekyemez-camii"
 description: "### Emekyemez Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Emekyemez_Camii.jpg/1200px-Emekyemez_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.971043,41.026357"
 draft: "false"
 weight: "10"

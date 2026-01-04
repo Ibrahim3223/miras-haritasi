@@ -5,10 +5,10 @@ slug: "izmir-milli-kutuphane"
 description: "### İzmir Milli Kütüphane: Bir Kültürel Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/İzmir_Milli_Kütüphanesi3.jpg/1200px-İzmir_Milli_Kütüphanesi3.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.129444444,38.416388888"
 draft: "false"
 weight: "10"

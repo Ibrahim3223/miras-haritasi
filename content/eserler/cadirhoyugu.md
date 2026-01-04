@@ -5,10 +5,10 @@ slug: "cadirhoyugu"
 description: "## Çadırhöyüğü: Bünyan, Kayseri'nin Gizli İncisi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0346508,38.8776245"
 draft: "false"
 weight: "999"

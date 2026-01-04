@@ -5,10 +5,10 @@ slug: "kesik-kopru-ergenli"
 description: "## Kesik Köprü, Ergenli: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6886005,38.226799"
 draft: "false"
 weight: "999"

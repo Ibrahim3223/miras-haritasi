@@ -5,10 +5,10 @@ slug: "kilickaya-kalesi-yusufeli"
 description: "## Kılıçkaya Kalesi: Artvin'in Gizli Hazineleri..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.4819489,40.6631317"
 draft: "false"
 weight: "999"

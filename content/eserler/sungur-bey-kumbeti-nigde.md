@@ -5,10 +5,10 @@ slug: "sungur-bey-kumbeti-nigde"
 description: "## Sungur Bey Kümbeti, Niğde..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6775665,37.96558"
 draft: "false"
 weight: "999"

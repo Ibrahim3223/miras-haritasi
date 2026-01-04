@@ -5,10 +5,10 @@ slug: "liman-baba-turbesi"
 description: "## Liman Baba Türbesi: Demirköy'ün Kültürel Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.029948,41.887666"
 draft: "false"
 weight: "999"

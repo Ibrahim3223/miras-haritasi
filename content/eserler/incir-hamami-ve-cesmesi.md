@@ -5,10 +5,10 @@ slug: "incir-hamami-ve-cesmesi"
 description: "## İncir Hamamı ve Çeşmesi: Bir Tarihsel ve Kültürel Miras..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Bucak"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5347824,37.4772377"
 draft: "false"
 weight: "999"

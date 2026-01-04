@@ -5,10 +5,10 @@ slug: "aghmaghara"
 description: "## Aghmaghara Kilisesi: Kars'taki Bir Geçmişe Dokunan Eser..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bend-i-mahi-koprusu"
 description: "## Bend-i Mahi Köprüsü..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.6832392,38.943339"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zephyrium"
 description: "## Zephyrium: Antik Bir Liman Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.448145,42.012657"
 draft: "false"
 weight: "999"

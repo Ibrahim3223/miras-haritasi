@@ -5,10 +5,10 @@ slug: "adil-bey-turbesi"
 description: "# Adil Bey Türbesi: Kastamonu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.8114967,41.2261772"
 draft: "false"
 weight: "999"

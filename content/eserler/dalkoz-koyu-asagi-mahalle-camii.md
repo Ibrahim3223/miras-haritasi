@@ -5,10 +5,10 @@ slug: "dalkoz-koyu-asagi-mahalle-camii"
 description: "### Dalkoz Köyü Aşağı Mahalle Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.234390094,40.951898054"
 draft: "false"
 weight: "999"

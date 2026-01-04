@@ -5,10 +5,10 @@ slug: "mama-hatun-turbesi-tercan"
 description: "### Mama Hatun Türbesi: Tercan'daki Bir Kültür Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Tercan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.386641,39.777762"
 draft: "false"
 weight: "999"

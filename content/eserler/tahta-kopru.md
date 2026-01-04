@@ -5,10 +5,10 @@ slug: "tahta-kopru"
 description: "## Tahta Köprü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.460453,38.6394157"
 draft: "false"
 weight: "999"

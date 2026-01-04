@@ -5,10 +5,10 @@ slug: "koclu-hoyuk"
 description: "### Koçlu Höyük: Gaziantep'in Gizli Tarihi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.4139486,37.3178695"
 draft: "false"
 weight: "999"

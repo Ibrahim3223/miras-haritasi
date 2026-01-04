@@ -5,10 +5,10 @@ slug: "apsoda"
 description: "## Apsoda: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Apsoda.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.745892,40.214551"
 draft: "false"
 weight: "999"

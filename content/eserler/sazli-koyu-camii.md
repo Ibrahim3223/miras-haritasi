@@ -5,10 +5,10 @@ slug: "sazli-koyu-camii"
 description: "## Sazlı Köyü Camii: Sinop'un Gizli Cenneti..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8695412,41.7193985"
 draft: "false"
 weight: "999"

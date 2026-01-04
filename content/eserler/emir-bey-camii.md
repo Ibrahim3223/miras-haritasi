@@ -5,10 +5,10 @@ slug: "emir-bey-camii"
 description: "## Emir Bey Camii: Çorum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Bayat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.2556877,40.6448441"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kydramos-tumulus-ii"
 description: "### Kydramos Tümülüs II..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.12863685,37.345200079"
 draft: "false"
 weight: "999"

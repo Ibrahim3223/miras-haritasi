@@ -5,10 +5,10 @@ slug: "korideti-kilisesi"
 description: "## Korideti Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Murgul"
-iller: '["Murgul"]'
+iller: ["Murgul"]
 district: "Çimenli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.60125,41.296333333"
 draft: "false"
 weight: "999"

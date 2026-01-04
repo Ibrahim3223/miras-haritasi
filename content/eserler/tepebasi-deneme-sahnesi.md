@@ -5,10 +5,10 @@ slug: "tepebasi-deneme-sahnesi"
 description: "### Tepebaşı Deneme Sahnesi: Beyoğlu'ndaki Antik Tiyatro..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.974472222,41.032472222"
 draft: "false"
 weight: "999"

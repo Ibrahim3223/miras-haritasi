@@ -5,10 +5,10 @@ slug: "kumyer-kalesi"
 description: "## Kumyer Kalesi: Tarihçenin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3857117,36.689518"
 draft: "false"
 weight: "999"

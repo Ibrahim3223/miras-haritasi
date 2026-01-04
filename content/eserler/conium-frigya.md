@@ -5,10 +5,10 @@ slug: "conium-frigya"
 description: "### Conium (Frigya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.05891,38.947498"
 draft: "false"
 weight: "999"

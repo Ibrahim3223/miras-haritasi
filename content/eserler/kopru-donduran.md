@@ -5,10 +5,10 @@ slug: "kopru-donduran"
 description: "## Donduran Köprüsü: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2439003,37.8272018"
 draft: "false"
 weight: "999"

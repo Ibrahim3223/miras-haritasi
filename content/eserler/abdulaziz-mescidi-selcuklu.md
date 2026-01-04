@@ -5,10 +5,10 @@ slug: "abdulaziz-mescidi-selcuklu"
 description: "## Abdülaziz Mescidi: Selçuklu Döneminin Değerli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4886398,37.8692741"
 draft: "false"
 weight: "999"

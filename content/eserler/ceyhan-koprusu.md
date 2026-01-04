@@ -5,10 +5,10 @@ slug: "ceyhan-koprusu"
 description: "## Ceyhan Köprüsü: Kahramanmaraş'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ceyhan_koprusu.jpg/1200px-Ceyhan_koprusu.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.798,37.6225"
 draft: "false"
 weight: "10"

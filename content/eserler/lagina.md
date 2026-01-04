@@ -5,10 +5,10 @@ slug: "lagina"
 description: "### Lagina Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Lagina-1-CTH.JPG/1200px-Lagina-1-CTH.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Muğla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.03944444,37.37861111"
 draft: "false"
 weight: "10"

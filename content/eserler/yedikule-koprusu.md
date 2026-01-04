@@ -5,10 +5,10 @@ slug: "yedikule-koprusu"
 description: "**Yedikule Köprüsü: İstanbul'un Tarihî Köprüsü**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9217529,40.9936905"
 draft: "false"
 weight: "999"

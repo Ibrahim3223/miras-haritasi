@@ -5,10 +5,10 @@ slug: "camurlu-hoyuk"
 description: "# Çamurlu Höyük: Yozgat'ta Gizemli Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1011242,39.6433188"
 draft: "false"
 weight: "999"

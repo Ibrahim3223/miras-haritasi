@@ -5,10 +5,10 @@ slug: "kaynakobasi-hoyuk"
 description: "## Kaynakobası Höyük: Eskişehir'in Gizli Kahramanı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9591,39.71045"
 draft: "false"
 weight: "999"

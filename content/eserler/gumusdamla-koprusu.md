@@ -5,10 +5,10 @@ slug: "gumusdamla-koprusu"
 description: "### Gümüşdamla Köprüsü..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Aydıntepe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.1745338,40.4187317"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "avyeri-tumulusu"
 description: "## Avyeri Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4856758,41.8208046"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aytepe-tumulusu"
 description: "## Aytepe Tümülüsü: İzmit'in Gizli Örenleri..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.938076,40.8194237"
 draft: "false"
 weight: "999"

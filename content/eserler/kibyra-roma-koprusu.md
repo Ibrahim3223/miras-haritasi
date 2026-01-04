@@ -5,10 +5,10 @@ slug: "kibyra-roma-koprusu"
 description: "### Kibyra Roma Köprüsü..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4943008,37.1573982"
 draft: "false"
 weight: "999"

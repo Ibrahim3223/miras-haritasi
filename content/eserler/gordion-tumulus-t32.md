@@ -5,10 +5,10 @@ slug: "gordion-tumulus-t32"
 description: "**Gordion Tümülüs T32: Polatlı'da Antik Mirasın Gizemi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.995258,39.651447"
 draft: "false"
 weight: "999"

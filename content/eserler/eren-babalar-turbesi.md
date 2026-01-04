@@ -5,10 +5,10 @@ slug: "eren-babalar-turbesi"
 description: "## Eren Babalar Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4044113,40.7522888"
 draft: "false"
 weight: "999"

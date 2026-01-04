@@ -5,10 +5,10 @@ slug: "dokumcu-gul-baba-kabri"
 description: "# Dökümcü Gül Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.926525,41.046838"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pinarlar-koprusu"
 description: "## Pınarlar Köprüsü: Geçişin Gizemi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.368425,40.652788"
 draft: "false"
 weight: "999"

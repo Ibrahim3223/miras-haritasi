@@ -5,10 +5,10 @@ slug: "husrev-gerede-aniti"
 description: "## Hüsrev Gerede Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9945049,41.0485497"
 draft: "false"
 weight: "999"

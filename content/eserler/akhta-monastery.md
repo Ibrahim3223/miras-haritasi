@@ -5,10 +5,10 @@ slug: "akhta-monastery"
 description: "## Akhta Manastırı: Diyarbakır'da Bir Eski Manastırın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

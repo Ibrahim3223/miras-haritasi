@@ -5,10 +5,10 @@ slug: "gunes-saati-ayasofya-camii-avlusu"
 description: "## Güneş Saati, Ayasofya Camii Avlusu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9789963,41.0084152"
 draft: "false"
 weight: "1"

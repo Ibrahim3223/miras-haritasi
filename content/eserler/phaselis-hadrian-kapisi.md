@@ -5,10 +5,10 @@ slug: "phaselis-hadrian-kapisi"
 description: "## Phaselis Hadrian Kapısı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5511284,36.5229149"
 draft: "false"
 weight: "999"

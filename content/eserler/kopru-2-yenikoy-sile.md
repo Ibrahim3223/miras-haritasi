@@ -5,10 +5,10 @@ slug: "kopru-2-yenikoy-sile"
 description: "## Köprü 2, Yeniköy-Şile: İstanbul'un Doğası ile Birleşen Gizemli Köprü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.6499882,41.1230392"
 draft: "false"
 weight: "999"

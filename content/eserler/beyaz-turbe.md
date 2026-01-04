@@ -5,10 +5,10 @@ slug: "beyaz-turbe"
 description: "### Beyaz Türbe: Diyarbakır'ın Tarihi Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2432861,37.9119873"
 draft: "false"
 weight: "999"

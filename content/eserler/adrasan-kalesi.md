@@ -5,10 +5,10 @@ slug: "adrasan-kalesi"
 description: "## Adrasan Kalesi: Kumluca, Antalya'nın Gizli Çehresinde Yükselen Tarihi Bir Miras..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.4670982,36.3174286"
 draft: "false"
 weight: "999"

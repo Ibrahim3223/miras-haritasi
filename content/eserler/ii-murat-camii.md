@@ -5,10 +5,10 @@ slug: "ii-murat-camii"
 description: "## II. Murat Camii Tanıtımı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2718906,37.7486877"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "agios-prokopios-kilisesi"
 description: "**Agios Prokopios Kilisesi: Kayseri'nin Gizli Cenneti**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.71997,38.816335"
 draft: "false"
 weight: "999"

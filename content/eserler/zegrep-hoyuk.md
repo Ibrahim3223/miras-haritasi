@@ -5,10 +5,10 @@ slug: "zegrep-hoyuk"
 description: "## Zeğrep Höyük: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5070186,39.858918"
 draft: "false"
 weight: "999"

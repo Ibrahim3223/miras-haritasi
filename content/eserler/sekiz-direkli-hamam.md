@@ -5,10 +5,10 @@ slug: "sekiz-direkli-hamam"
 description: "## Sekiz Direkli Hamam: Ortahisar, Trabzon'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.7189574,41.0082239"
 draft: "false"
 weight: "999"

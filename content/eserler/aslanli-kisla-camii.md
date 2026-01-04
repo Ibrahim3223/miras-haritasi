@@ -5,10 +5,10 @@ slug: "aslanli-kisla-camii"
 description: "### Aslanlı Kışla Camii: Konya'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Mevlana_K%C3%BClt%C3%BCr_Merkezi%2C_%C3%87imenlik_Mah.%2C_Aslanl%C4%B1_K%C4%B1%C5%9Fla_Cad.%2C_Selimiye-Konya%2C_T%C3%BCrkiye_-_panoramio_%281%29.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5150566,37.8676872"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "matiate"
 description: "# Matiate Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Matiate1.jpg/1200px-Matiate1.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.353055555,37.416666666"
 draft: "false"
 weight: "10"

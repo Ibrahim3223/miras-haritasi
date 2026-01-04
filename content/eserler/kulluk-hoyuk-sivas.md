@@ -5,10 +5,10 @@ slug: "kulluk-hoyuk-sivas"
 description: "## Küllük Höyük, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8274841,39.6460152"
 draft: "false"
 weight: "999"

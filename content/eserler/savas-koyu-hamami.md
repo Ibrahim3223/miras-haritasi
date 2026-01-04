@@ -5,10 +5,10 @@ slug: "savas-koyu-hamami"
 description: "## Savaş Köyü Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.444532998,38.318883866"
 draft: "false"
 weight: "999"

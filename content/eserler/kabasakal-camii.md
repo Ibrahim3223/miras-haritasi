@@ -5,10 +5,10 @@ slug: "kabasakal-camii"
 description: "## Kabasakal Camii: Menteşe'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.2840118,37.1370354"
 draft: "false"
 weight: "999"

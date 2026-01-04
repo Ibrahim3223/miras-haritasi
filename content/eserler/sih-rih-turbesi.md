@@ -5,10 +5,10 @@ slug: "sih-rih-turbesi"
 description: "## Şıh Rih Türbesi: Mersin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7363701,36.859726"
 draft: "false"
 weight: "999"

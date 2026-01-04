@@ -5,10 +5,10 @@ slug: "ancoz"
 description: "**Ancoz: Adıyaman'ın Gizli Öreni**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Ancoz9-3.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.766838,37.686273"
 draft: "false"
 weight: "999"

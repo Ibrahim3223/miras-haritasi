@@ -5,10 +5,10 @@ slug: "hizirbey-camii-sivrihisar"
 description: "### Hızırbey Camii Tanıtımı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.538105,39.4518509"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-hamam-2"
 description: "## Eski Hamam 2: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.8372498,38.7405815"
 draft: "false"
 weight: "999"

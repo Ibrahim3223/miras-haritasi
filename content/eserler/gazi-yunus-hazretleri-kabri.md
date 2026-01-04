@@ -5,10 +5,10 @@ slug: "gazi-yunus-hazretleri-kabri"
 description: "### Gazi Yunus Hazretleri Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0837917,41.1382179"
 draft: "false"
 weight: "999"

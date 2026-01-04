@@ -5,10 +5,10 @@ slug: "bursa-darphanesi"
 description: "### Bursa Darphanesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0605946,40.1779861"
 draft: "false"
 weight: "999"

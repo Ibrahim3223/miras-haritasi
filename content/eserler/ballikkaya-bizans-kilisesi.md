@@ -5,10 +5,10 @@ slug: "ballikkaya-bizans-kilisesi"
 description: "### Ballıkkaya Bizans Kilisesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4904003,37.5522003"
 draft: "false"
 weight: "999"

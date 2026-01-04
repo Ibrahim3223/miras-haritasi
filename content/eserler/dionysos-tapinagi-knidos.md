@@ -5,10 +5,10 @@ slug: "dionysos-tapinagi-knidos"
 description: "# Dionysos Tapınağı (Knidos)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Храм_Диониса._Античный_город_Книд_(Книдос)._Mugla._Turkey._Июнь_2015_-_panoramio.jpg/1200px-Храм_Диониса._Античный_город_Книд_(Книдос)._Mugla._Turkey._Июнь_2015_-_panoramio.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.374166666,36.686111111"
 draft: "false"
 weight: "10"

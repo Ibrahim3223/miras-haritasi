@@ -5,10 +5,10 @@ slug: "hamal-heykeli"
 description: "## Hamal Heykeli: İstanbul'un Tarihi Anıtlarından biri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Hamal_monument_in_2024_6585.jpg/1200px-Hamal_monument_in_2024_6585.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9728832,41.0144691"
 draft: "false"
 weight: "10"

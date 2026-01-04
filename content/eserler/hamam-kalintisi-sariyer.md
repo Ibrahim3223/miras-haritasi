@@ -5,10 +5,10 @@ slug: "hamam-kalintisi-sariyer"
 description: "## Hamam Kalıntısı, Sarıyer: Bir Geçmişi Yansıtan Eser..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0223904,41.2192955"
 draft: "false"
 weight: "999"

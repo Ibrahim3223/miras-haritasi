@@ -5,10 +5,10 @@ slug: "ozay-gonlumun-mezari"
 description: "# Özay Gönlüm'ün Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Grave_of_Özay_Gönlüm.jpg/1200px-Grave_of_Özay_Gönlüm.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

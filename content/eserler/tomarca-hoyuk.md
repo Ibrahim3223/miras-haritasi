@@ -5,10 +5,10 @@ slug: "tomarca-hoyuk"
 description: "## Tomarca Höyük: Eski Şehir Kalıntıları..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.320255,39.508159"
 draft: "false"
 weight: "999"

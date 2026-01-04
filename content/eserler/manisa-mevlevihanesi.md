@@ -5,10 +5,10 @@ slug: "manisa-mevlevihanesi"
 description: "## Manisa Mevlevihanesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.439916666,38.608416666"
 draft: "false"
 weight: "999"

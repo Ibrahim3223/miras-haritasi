@@ -5,10 +5,10 @@ slug: "troya-muzesi"
 description: "## Troya Müzesi: Çanakkale'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Museum_of_Troy_(53022400001).jpg/1200px-Museum_of_Troy_(53022400001).jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.24916667,39.95527778"
 draft: "false"
 weight: "10"

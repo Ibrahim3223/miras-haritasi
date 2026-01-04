@@ -5,10 +5,10 @@ slug: "kizlar-manastiri"
 description: "## Kızlar Manastırı: Trabzon'da Bir Kutsal Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Trabzon,Kizlar1.jpg/1200px-Trabzon,Kizlar1.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.729,40.9985"
 draft: "false"
 weight: "10"

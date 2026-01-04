@@ -5,10 +5,10 @@ slug: "ahmetbey-eskibaglik-tumulusu"
 description: "## Ahmetbey Eskibağlık Tümülüsü: Lüleburgaz'ın Gizli Öreni..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5809021,41.4557877"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kutnus-hoyuk"
 description: "## Kütnüs Höyük: Silopi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Silopi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.345711,37.2617676"
 draft: "false"
 weight: "999"

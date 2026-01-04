@@ -5,10 +5,10 @@ slug: "eumania"
 description: "### Eumania Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.85059,38.32585"
 draft: "false"
 weight: "999"

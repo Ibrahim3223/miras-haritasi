@@ -5,10 +5,10 @@ slug: "fenari-isa-camii"
 description: "## Fenari İsa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/20111224_exterior_Fenari_Isa_Mosque_Fatih_Istanbul_Turkey_1.jpg/1200px-20111224_exterior_Fenari_Isa_Mosque_Fatih_Istanbul_Turkey_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.944,41.01538056"
 draft: "false"
 weight: "10"

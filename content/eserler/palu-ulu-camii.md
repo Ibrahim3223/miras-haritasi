@@ -5,10 +5,10 @@ slug: "palu-ulu-camii"
 description: "## Palu Ulu Camii: Elazığ'ın Gizli Çehresini Yansıtan bir Klasik..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.953975,38.6997559"
 draft: "false"
 weight: "999"

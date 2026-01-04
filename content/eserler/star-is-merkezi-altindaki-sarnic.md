@@ -5,10 +5,10 @@ slug: "star-is-merkezi-altindaki-sarnic"
 description: "## Star İş Merkezi Altındaki Sarnıç: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.961663329,41.008814482"
 draft: "false"
 weight: "999"

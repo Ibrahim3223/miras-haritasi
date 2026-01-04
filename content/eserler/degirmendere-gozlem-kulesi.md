@@ -5,10 +5,10 @@ slug: "degirmendere-gozlem-kulesi"
 description: "## Değirmendere Gözlem Kulesi: Osmaniye'nin Gizli Çehresini İnceleyin..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Kadirli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.2389755,37.6548042"
 draft: "false"
 weight: "999"

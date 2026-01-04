@@ -5,10 +5,10 @@ slug: "aya-zoni-kilisesi-karakoy"
 description: "### Aya Zoni Kilisesi, Karaköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.979014297,41.024816748"
 draft: "false"
 weight: "999"

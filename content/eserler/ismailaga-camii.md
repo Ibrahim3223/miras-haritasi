@@ -5,10 +5,10 @@ slug: "ismailaga-camii"
 description: "## İsmailağa Camii: İstanbul'un Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ismail_Aga_Mosque_2493.jpg/1200px-Ismail_Aga_Mosque_2493.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.947861387,41.026794411"
 draft: "false"
 weight: "10"

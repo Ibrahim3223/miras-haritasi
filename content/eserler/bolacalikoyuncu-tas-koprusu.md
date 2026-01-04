@@ -5,10 +5,10 @@ slug: "bolacalikoyuncu-tas-koprusu"
 description: "## Bolacalıkoyuncu Taş Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.9018974,36.3361816"
 draft: "false"
 weight: "999"

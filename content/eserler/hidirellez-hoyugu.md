@@ -5,10 +5,10 @@ slug: "hidirellez-hoyugu"
 description: "### Hıdırellez Höyüğü: Kayseri'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4384045,38.8243985"
 draft: "false"
 weight: "999"

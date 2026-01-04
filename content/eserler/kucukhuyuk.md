@@ -5,10 +5,10 @@ slug: "kucukhuyuk"
 description: "## Küçükhüyük: Afyonkarahisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.317633,38.7685"
 draft: "false"
 weight: "999"

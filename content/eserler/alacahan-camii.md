@@ -5,10 +5,10 @@ slug: "alacahan-camii"
 description: "## Alacahan Camii: Kangal'ın Yüceliğini Tasvir Eden Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Trabzon_alacahan.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.596296,39.1054703"
 draft: "false"
 weight: "999"

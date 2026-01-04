@@ -5,10 +5,10 @@ slug: "dabakhane-mescidi"
 description: "## Dabakhane Mescidi: Elazığ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.2593079,38.7055168"
 draft: "false"
 weight: "999"

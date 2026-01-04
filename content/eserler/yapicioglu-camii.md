@@ -5,10 +5,10 @@ slug: "yapicioglu-camii"
 description: "## Yapıcıoğlu Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.134583333,38.410611111"
 draft: "false"
 weight: "999"

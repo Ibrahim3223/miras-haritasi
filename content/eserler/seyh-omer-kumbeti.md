@@ -5,10 +5,10 @@ slug: "seyh-omer-kumbeti"
 description: "### Şeyh Ömer Kümbeti: Gülnar'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Gülnar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.303221637,36.336678948"
 draft: "false"
 weight: "999"

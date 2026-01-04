@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-kutuphanesi"
 description: "## Damat İbrahim Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.9581642,41.0132828"
 draft: "false"
 weight: "999"

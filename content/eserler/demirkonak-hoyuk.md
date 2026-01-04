@@ -5,10 +5,10 @@ slug: "demirkonak-hoyuk"
 description: "**Demirkonak Höyük: Sivas'ın Gizli Öreni**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gölova (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6681414,40.0209226"
 draft: "false"
 weight: "999"

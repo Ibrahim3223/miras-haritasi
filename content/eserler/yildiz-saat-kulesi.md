@@ -5,10 +5,10 @@ slug: "yildiz-saat-kulesi"
 description: "### Yıldız Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Istanbul_asv2021-10_img13_Yıldız_Clock_Tower.jpg/1200px-Istanbul_asv2021-10_img13_Yıldız_Clock_Tower.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "29.009833333,41.049888888"
 draft: "false"
 weight: "10"

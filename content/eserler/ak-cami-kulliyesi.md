@@ -5,10 +5,10 @@ slug: "ak-cami-kulliyesi"
 description: "## Ak Cami Külliyesi: Bozyazı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Bozyazı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.9340515,36.1473885"
 draft: "false"
 weight: "999"

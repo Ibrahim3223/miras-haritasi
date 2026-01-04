@@ -5,10 +5,10 @@ slug: "kibyra-antik-tiyatrosu"
 description: "### Kibyra Antik Tiyatrosu: Gölhisar'ın Gizli Öreni..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Gölhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.488914,37.160555"
 draft: "false"
 weight: "999"

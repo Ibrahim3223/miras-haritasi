@@ -5,10 +5,10 @@ slug: "yaprakhisar-koprusu"
 description: "### Yaprakhisar Köprüsü: Aksaray'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.268814,38.296772"
 draft: "false"
 weight: "999"

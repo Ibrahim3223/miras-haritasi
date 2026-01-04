@@ -5,10 +5,10 @@ slug: "poyrazkoy-kalesi"
 description: "### Poyrazköy Kalesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.130701,41.2081472"
 draft: "false"
 weight: "999"

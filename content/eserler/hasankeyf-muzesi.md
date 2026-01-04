@@ -5,10 +5,10 @@ slug: "hasankeyf-muzesi"
 description: "## Hasankeyf Müzesi: Tarih ve Kültür Mirasının Gizli Hazineleri..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

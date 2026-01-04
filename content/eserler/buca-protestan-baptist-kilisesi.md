@@ -5,10 +5,10 @@ slug: "buca-protestan-baptist-kilisesi"
 description: "## Buca Protestan Baptist Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Buca_Protestan_Baptist_Kilisesi_-3.jpg/1200px-Buca_Protestan_Baptist_Kilisesi_-3.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.177416666,38.386833333"
 draft: "false"
 weight: "10"

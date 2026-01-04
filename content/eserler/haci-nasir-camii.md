@@ -5,10 +5,10 @@ slug: "haci-nasir-camii"
 description: "## Hacı Nasır Camii: Gaziantep'in Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3865166,37.0611839"
 draft: "false"
 weight: "999"

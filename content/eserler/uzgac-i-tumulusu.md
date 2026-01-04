@@ -5,10 +5,10 @@ slug: "uzgac-i-tumulusu"
 description: "## Uzgaç I Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4431648,41.7953148"
 draft: "false"
 weight: "999"

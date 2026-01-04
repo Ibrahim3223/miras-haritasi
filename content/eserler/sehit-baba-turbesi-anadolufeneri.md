@@ -5,10 +5,10 @@ slug: "sehit-baba-turbesi-anadolufeneri"
 description: "## Şehit Baba Türbesi, Anadolufeneri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1540184,41.21772"
 draft: "false"
 weight: "999"

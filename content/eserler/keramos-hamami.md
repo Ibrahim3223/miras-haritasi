@@ -5,10 +5,10 @@ slug: "keramos-hamami"
 description: "## Keramos Hamamı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.955020495,37.041567849"
 draft: "false"
 weight: "999"

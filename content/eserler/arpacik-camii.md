@@ -5,10 +5,10 @@ slug: "arpacik-camii"
 description: "## Arpacık Camii: Artvin'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/-2019-11-22_Two_jars_of_pickled_shallots%2C_Trimingham_%281%29.JPG"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7401,40.7511"
 draft: "false"
 weight: "999"

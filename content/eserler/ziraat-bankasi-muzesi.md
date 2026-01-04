@@ -5,10 +5,10 @@ slug: "ziraat-bankasi-muzesi"
 description: "# Ziraat Bankası Müzesi: Türkiye'nin Agronomi ve Tarım Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Ankara_asv2021-10_img23_Ziraat_Bank_Museum.jpg/1200px-Ankara_asv2021-10_img23_Ziraat_Bank_Museum.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.85410278,39.93933611"
 draft: "false"
 weight: "10"

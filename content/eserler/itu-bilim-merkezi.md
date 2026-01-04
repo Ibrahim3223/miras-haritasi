@@ -5,10 +5,10 @@ slug: "itu-bilim-merkezi"
 description: "## İTÜ Bilim Merkezi: Bilim ve Teknolojiyi Yaşayan Bir Müze..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

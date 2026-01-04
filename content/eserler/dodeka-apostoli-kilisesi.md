@@ -5,10 +5,10 @@ slug: "dodeka-apostoli-kilisesi"
 description: "# Dodeka Apostoli Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.979935,41.05397"
 draft: "false"
 weight: "999"

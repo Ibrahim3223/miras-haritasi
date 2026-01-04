@@ -5,10 +5,10 @@ slug: "eski-hamam-foca"
 description: "### Eski Hamam, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7544498,38.6672897"
 draft: "false"
 weight: "999"

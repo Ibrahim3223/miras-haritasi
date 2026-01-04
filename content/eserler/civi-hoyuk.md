@@ -5,10 +5,10 @@ slug: "civi-hoyuk"
 description: "## Çivi Höyük: Çankırı'nın Gizli Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7317314,40.6290665"
 draft: "false"
 weight: "999"

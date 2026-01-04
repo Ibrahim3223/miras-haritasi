@@ -5,10 +5,10 @@ slug: "tomb-of-ajax-the-great"
 description: "### Tomb of Ajax the Great..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.242033997,39.991605569"
 draft: "false"
 weight: "999"

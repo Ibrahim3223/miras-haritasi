@@ -5,10 +5,10 @@ slug: "kayadibi-mahallesi-kilisesi"
 description: "**Kayadibi Mahallesi Kilisesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.147001,40.564665"
 draft: "false"
 weight: "999"

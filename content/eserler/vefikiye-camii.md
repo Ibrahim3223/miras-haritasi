@@ -5,10 +5,10 @@ slug: "vefikiye-camii"
 description: "## Vefikiye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vefikiye_camii_bursa_-_panoramio.jpg/1200px-Vefikiye_camii_bursa_-_panoramio.jpg"
 province: "Yıldırım"
-iller: '["Yıldırım"]'
+iller: ["Yıldırım"]
 district: "Mollaarap"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.070623172,40.174403644"
 draft: "false"
 weight: "10"

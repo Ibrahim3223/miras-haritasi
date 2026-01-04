@@ -5,10 +5,10 @@ slug: "alanya-oba-medresesi"
 description: "### Alanya Oba Medresesi: Türk Kültür Mirasının bir Parçası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.0528717,36.550766"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "azebler-namazgahi"
 description: "## Azebler Namazgahı: Tarihî Bir Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

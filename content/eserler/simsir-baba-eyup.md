@@ -5,10 +5,10 @@ slug: "simsir-baba-eyup"
 description: "### Şimşir Baba Anıtını Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9322109,41.0492935"
 draft: "false"
 weight: "999"

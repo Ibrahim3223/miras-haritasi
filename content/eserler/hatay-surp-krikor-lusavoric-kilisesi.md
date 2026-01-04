@@ -5,10 +5,10 @@ slug: "hatay-surp-krikor-lusavoric-kilisesi"
 description: "## Hatay Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Kırıkhan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.364485,36.497163"
 draft: "false"
 weight: "999"

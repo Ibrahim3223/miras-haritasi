@@ -5,10 +5,10 @@ slug: "kopru-akcaova"
 description: "### Köprü, Akçaova: Muğla'nın Eski Kenti Menteşe'de Gizli Bir Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2875996,37.2406998"
 draft: "false"
 weight: "999"

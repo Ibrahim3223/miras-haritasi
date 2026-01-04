@@ -5,10 +5,10 @@ slug: "kopru-aziz-philippus-kutsal-alani"
 description: "### Köprü, Aziz Philippus Kutsal Alanı: Pamukkale'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.1294556,37.9300308"
 draft: "false"
 weight: "999"

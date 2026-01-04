@@ -5,10 +5,10 @@ slug: "kitanaura-koprusu"
 description: "## Kitanaura Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.3638992,36.6469002"
 draft: "false"
 weight: "999"

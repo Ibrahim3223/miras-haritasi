@@ -5,10 +5,10 @@ slug: "ibiktepe-hoyugu"
 description: "# İbiktepe Höyüğü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8521614,40.3528328"
 draft: "false"
 weight: "999"

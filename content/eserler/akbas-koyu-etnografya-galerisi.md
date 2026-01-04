@@ -5,10 +5,10 @@ slug: "akbas-koyu-etnografya-galerisi"
 description: "**Akbaş Köyü Etnografya Galerisi**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.5276031,39.6540871"
 draft: "false"
 weight: "999"

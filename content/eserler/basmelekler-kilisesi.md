@@ -5,10 +5,10 @@ slug: "basmelekler-kilisesi"
 description: "## Başmelekler Kilisesi: Mudanya'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Kilise-Tirilye-Bursa_-_panoramio.jpg/1200px-Kilise-Tirilye-Bursa_-_panoramio.jpg"
 province: "Mudanya"
-iller: '["Mudanya"]'
+iller: ["Mudanya"]
 district: "Kumyaka"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.827083333,40.385277777"
 draft: "false"
 weight: "10"

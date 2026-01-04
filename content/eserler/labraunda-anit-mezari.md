@@ -5,10 +5,10 @@ slug: "labraunda-anit-mezari"
 description: "## Labraunda Anıt Mezarı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8197327,37.4197655"
 draft: "false"
 weight: "999"

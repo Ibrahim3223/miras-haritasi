@@ -5,10 +5,10 @@ slug: "yapildak-tumulusu"
 description: "## Yapıldak Tümülüsü..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.6433907,39.1939621"
 draft: "false"
 weight: "999"

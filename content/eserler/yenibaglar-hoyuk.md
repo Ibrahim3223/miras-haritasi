@@ -5,10 +5,10 @@ slug: "yenibaglar-hoyuk"
 description: "### Yenibağlar Höyük: Denizli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Bozkurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.5562,37.8180008"
 draft: "false"
 weight: "999"

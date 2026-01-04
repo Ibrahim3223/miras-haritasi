@@ -5,10 +5,10 @@ slug: "selime-sultan-turbesi"
 description: "# Selime Sultan Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.2592239,38.3004189"
 draft: "false"
 weight: "999"

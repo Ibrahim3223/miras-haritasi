@@ -5,10 +5,10 @@ slug: "ilyas-tepe-tumulus"
 description: "## Ilyas Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.19862,39.13085"
 draft: "false"
 weight: "999"

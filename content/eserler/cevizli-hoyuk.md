@@ -5,10 +5,10 @@ slug: "cevizli-hoyuk"
 description: "## Cevizli Höyük Tanıtımı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.2193209,39.2587948"
 draft: "false"
 weight: "999"

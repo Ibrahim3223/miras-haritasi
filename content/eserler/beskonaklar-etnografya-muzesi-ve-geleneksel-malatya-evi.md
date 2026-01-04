@@ -5,10 +5,10 @@ slug: "beskonaklar-etnografya-muzesi-ve-geleneksel-malatya-evi"
 description: "## Beşkonaklar Etnografya Müzesi ve Geleneksel Malatya Evi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

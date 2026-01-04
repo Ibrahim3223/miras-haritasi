@@ -5,10 +5,10 @@ slug: "dogan-bey-camii"
 description: "### Doğan Bey Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7410679,38.0838585"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sardes-kilisesi"
 description: "### Sardes Kilisesi: İncil'in Kaynağı ve Ege'nin Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0317364,38.4788132"
 draft: "false"
 weight: "999"

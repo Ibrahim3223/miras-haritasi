@@ -5,10 +5,10 @@ slug: "serefeddin-sabuncuoglu-tip-muzesi"
 description: "## Şerefeddin Sabuncuoğlu Tıp Müzesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.8355026,40.6538467"
 draft: "false"
 weight: "999"

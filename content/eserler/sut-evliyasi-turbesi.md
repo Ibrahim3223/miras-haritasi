@@ -5,10 +5,10 @@ slug: "sut-evliyasi-turbesi"
 description: "## Süt Evliyası Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0270386,39.7477608"
 draft: "false"
 weight: "999"

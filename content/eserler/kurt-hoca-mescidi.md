@@ -5,10 +5,10 @@ slug: "kurt-hoca-mescidi"
 description: "## Kürt Hoca Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.556359003,41.669711892"
 draft: "false"
 weight: "999"

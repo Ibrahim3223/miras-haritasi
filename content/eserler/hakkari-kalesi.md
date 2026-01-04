@@ -5,10 +5,10 @@ slug: "hakkari-kalesi"
 description: "**Hakkâri Kalesi: Tarihî ve Kültürel Miras**..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.739256,37.569548"
 draft: "false"
 weight: "999"

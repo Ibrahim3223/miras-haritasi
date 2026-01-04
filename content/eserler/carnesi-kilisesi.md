@@ -5,10 +5,10 @@ slug: "carnesi-kilisesi"
 description: "## Çarnesi Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Kaleboynu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.362083333,40.419505555"
 draft: "false"
 weight: "999"

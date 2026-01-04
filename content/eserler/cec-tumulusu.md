@@ -5,10 +5,10 @@ slug: "cec-tumulusu"
 description: "## Çeç Tümülüsü: Avanos'un Gizli Şehri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7675,38.717805555"
 draft: "false"
 weight: "999"

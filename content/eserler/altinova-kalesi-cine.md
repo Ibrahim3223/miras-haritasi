@@ -5,10 +5,10 @@ slug: "altinova-kalesi-cine"
 description: "## Altınova Kalesi: Aydın'ın Gizli Güzelliği..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.0028,37.6931"
 draft: "false"
 weight: "999"

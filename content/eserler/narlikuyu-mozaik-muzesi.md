@@ -5,10 +5,10 @@ slug: "narlikuyu-mozaik-muzesi"
 description: "## Narlıkuyu Mozaik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Narlıkuyu_Mozaik_Müzesi.jpg/1200px-Narlıkuyu_Mozaik_Müzesi.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.11333333,36.44388889"
 draft: "false"
 weight: "10"

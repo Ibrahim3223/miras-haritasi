@@ -5,10 +5,10 @@ slug: "mahmud-ensari-turbesi-adiyaman"
 description: "## Mahmud Ensari Türbesi Adıyaman..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.3555054,37.7560776"
 draft: "false"
 weight: "999"

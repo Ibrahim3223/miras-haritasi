@@ -5,10 +5,10 @@ slug: "hoca-sinan-kabri"
 description: "## Hoca Sinan Kabri: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9666271,41.015831"
 draft: "false"
 weight: "999"

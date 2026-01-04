@@ -5,10 +5,10 @@ slug: "serhat-koyu-eski-camii"
 description: "## Serhat Köyü Eski Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.702719386,39.738164636"
 draft: "false"
 weight: "999"

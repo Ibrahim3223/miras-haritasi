@@ -5,10 +5,10 @@ slug: "setenonu-hamami"
 description: "## Setenönü Hamamı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.484745,38.7160301"
 draft: "false"
 weight: "999"

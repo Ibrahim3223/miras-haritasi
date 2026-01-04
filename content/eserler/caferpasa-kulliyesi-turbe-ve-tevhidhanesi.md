@@ -5,10 +5,10 @@ slug: "caferpasa-kulliyesi-turbe-ve-tevhidhanesi"
 description: "## Caferpaşa Külliyesi Türbe ve Tevhidhanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934506,41.046335"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yakup-aga-camii-kastamonu"
 description: "## Yakup Ağa Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7723083,41.3766975"
 draft: "false"
 weight: "999"

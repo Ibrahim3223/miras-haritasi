@@ -5,10 +5,10 @@ slug: "seyhoglu-camii"
 description: "# Şeyhoğlu Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6128387,40.604538"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sivriler-2-tumulusu"
 description: "## Sivriler 2 Tümülüsü: Demirköy'de Gizli Tarih..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9356308,41.8151512"
 draft: "false"
 weight: "999"

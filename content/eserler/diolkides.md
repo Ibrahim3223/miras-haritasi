@@ -5,10 +5,10 @@ slug: "diolkides"
 description: "**Diolkides**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.860234,40.72268"
 draft: "false"
 weight: "999"

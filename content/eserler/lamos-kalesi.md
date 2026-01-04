@@ -5,10 +5,10 @@ slug: "lamos-kalesi"
 description: "### Lamos Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/LamosKalesi1.jpg/1200px-LamosKalesi1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.24111111,36.55722222"
 draft: "false"
 weight: "10"

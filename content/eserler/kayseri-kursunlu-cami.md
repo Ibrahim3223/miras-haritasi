@@ -5,10 +5,10 @@ slug: "kayseri-kursunlu-cami"
 description: "## Kayseri Kurşunlu Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kayseri_Kurşunlu_Camii_front_2455.jpg/1200px-Kayseri_Kurşunlu_Camii_front_2455.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.485166666,38.722083333"
 draft: "false"
 weight: "10"

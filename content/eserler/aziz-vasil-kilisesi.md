@@ -5,10 +5,10 @@ slug: "aziz-vasil-kilisesi"
 description: "## Aziz Vasil Kilisesi: Yeniköy'de Bir Tarihi Harikalar Diyarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.6566696,41.1181908"
 draft: "false"
 weight: "999"

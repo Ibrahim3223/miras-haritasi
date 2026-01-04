@@ -5,10 +5,10 @@ slug: "sebastapolis-antik-kenti"
 description: "**Sebastapolis Antik Kenti**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Sulusaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.083369477,39.997391048"
 draft: "false"
 weight: "999"

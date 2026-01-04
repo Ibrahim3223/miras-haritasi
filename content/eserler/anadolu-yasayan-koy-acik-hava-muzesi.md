@@ -5,10 +5,10 @@ slug: "anadolu-yasayan-koy-acik-hava-muzesi"
 description: "## Anadolu Yaşayan Köy Açık Hava Müzesi: Beypazarı'nda Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Düğmeli_Ev.jpg/1200px-Düğmeli_Ev.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.0144806,40.2088928"
 draft: "false"
 weight: "10"

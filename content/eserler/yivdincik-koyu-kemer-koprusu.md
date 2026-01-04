@@ -5,10 +5,10 @@ slug: "yivdincik-koyu-kemer-koprusu"
 description: "### Yivdincik Köyü Kemer Köprüsü: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Keşap"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.548204,40.857419"
 draft: "false"
 weight: "999"

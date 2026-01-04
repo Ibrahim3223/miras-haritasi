@@ -5,10 +5,10 @@ slug: "ambar-kalesi"
 description: "## Ambar Kalesi: Tunceli'nin Gizli Kalesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Tunceli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.6372871,39.0834694"
 draft: "false"
 weight: "999"

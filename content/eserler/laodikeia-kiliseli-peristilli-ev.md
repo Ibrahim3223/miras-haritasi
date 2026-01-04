@@ -5,10 +5,10 @@ slug: "laodikeia-kiliseli-peristilli-ev"
 description: "## Laodikeia Kiliseli Peristilli Ev..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1104527,37.8374596"
 draft: "false"
 weight: "999"

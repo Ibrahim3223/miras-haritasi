@@ -5,10 +5,10 @@ slug: "kayhan-hamami"
 description: "### Kayhan Hamamı: Bursa'nın Tarihi Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Bursa_Kayan_Hamam_2014_0068.jpg/1200px-Bursa_Kayan_Hamam_2014_0068.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0701523,40.1833611"
 draft: "false"
 weight: "10"

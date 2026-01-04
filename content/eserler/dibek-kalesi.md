@@ -5,10 +5,10 @@ slug: "dibek-kalesi"
 description: "## Dibek Kalesi: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Halkapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.188065,37.399654"
 draft: "false"
 weight: "999"

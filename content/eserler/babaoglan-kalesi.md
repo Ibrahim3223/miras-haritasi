@@ -5,10 +5,10 @@ slug: "babaoglan-kalesi"
 description: "## Babaoğlan Kalesi: Osmaniye'nin Tarihî Mirası..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Osmaniye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.187547222,37.243161111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "derevenk-viyadugu"
 description: "## Derevenk Viyadüğü: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.5847,38.6858"
 draft: "false"
 weight: "999"

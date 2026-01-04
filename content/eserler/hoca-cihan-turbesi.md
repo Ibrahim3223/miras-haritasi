@@ -5,10 +5,10 @@ slug: "hoca-cihan-turbesi"
 description: "## Hoca Cihan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4613419,37.883564"
 draft: "false"
 weight: "999"

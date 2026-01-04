@@ -5,10 +5,10 @@ slug: "ahi-evren-dede-turbesi"
 description: "## Ahi Evren Dede Türbesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.735204,40.996787"
 draft: "false"
 weight: "999"

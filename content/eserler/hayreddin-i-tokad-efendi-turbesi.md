@@ -5,10 +5,10 @@ slug: "hayreddin-i-tokad-efendi-turbesi"
 description: "## Hayreddin-i Tokadî Efendi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.4696178,40.7314148"
 draft: "false"
 weight: "999"

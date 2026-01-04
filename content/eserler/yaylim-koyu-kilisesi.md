@@ -5,10 +5,10 @@ slug: "yaylim-koyu-kilisesi"
 description: "### Yaylım Köyü Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Köse"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.738142,40.261831"
 draft: "false"
 weight: "999"

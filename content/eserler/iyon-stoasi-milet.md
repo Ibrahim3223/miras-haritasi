@@ -5,10 +5,10 @@ slug: "iyon-stoasi-milet"
 description: "# İyon Stoası (Milet)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MiletusIonicStoa.jpg/1200px-MiletusIonicStoa.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.280277777,37.529166666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "nevbahar-mescidi"
 description: "## Nevbahar Mescidi: İstanbul'un Tarihi Bir Çağına Tanıklık Eden Bir Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9397068,41.0095673"
 draft: "false"
 weight: "999"

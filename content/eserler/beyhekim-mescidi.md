@@ -5,10 +5,10 @@ slug: "beyhekim-mescidi"
 description: "## Beyhekim Mescidi: Konya'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4885063,37.8717384"
 draft: "false"
 weight: "999"

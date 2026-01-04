@@ -5,10 +5,10 @@ slug: "akbas-koprusu"
 description: "## Akbaş Köprüsü: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8316035,40.9054944"
 draft: "false"
 weight: "999"

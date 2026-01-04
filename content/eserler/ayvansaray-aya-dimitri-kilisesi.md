@@ -5,10 +5,10 @@ slug: "ayvansaray-aya-dimitri-kilisesi"
 description: "## Ayvansaray Aya Dimitri Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Istanbul_photos_by_J.Lubbock_2015_399.jpg/1200px-Istanbul_photos_by_J.Lubbock_2015_399.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.944651611,41.037069427"
 draft: "false"
 weight: "10"

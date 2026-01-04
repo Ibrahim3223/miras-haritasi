@@ -5,10 +5,10 @@ slug: "hamam-2"
 description: "## Hamam 2: Selçuk'ta Örenlerin İnsanları için Bir İkiz Hamam..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3631992,37.9525986"
 draft: "false"
 weight: "999"

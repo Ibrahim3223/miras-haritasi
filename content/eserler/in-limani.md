@@ -5,10 +5,10 @@ slug: "in-limani"
 description: "## İn Limanı: Tarih Öncesi Dönemden Kalma Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.14915,39.869"
 draft: "false"
 weight: "999"

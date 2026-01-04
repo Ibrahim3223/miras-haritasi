@@ -5,10 +5,10 @@ slug: "antakya-ulu-camii"
 description: "## Antakya Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Antakya,_Enteke_-_panoramio.jpg/1200px-Antakya,_Enteke_-_panoramio.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.162,36.201916666"
 draft: "false"
 weight: "10"

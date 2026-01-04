@@ -5,10 +5,10 @@ slug: "camlidere-terazi-muzesi"
 description: "# Çamlıdere Terazi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4756889,40.4904442"
 draft: "false"
 weight: "999"

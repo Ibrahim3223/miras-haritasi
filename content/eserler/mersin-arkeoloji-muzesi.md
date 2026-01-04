@@ -5,10 +5,10 @@ slug: "mersin-arkeoloji-muzesi"
 description: "## Mersin Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mersin_Archaeological_Museum.jpg/1200px-Mersin_Archaeological_Museum.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.601388888,36.781388888"
 draft: "false"
 weight: "10"

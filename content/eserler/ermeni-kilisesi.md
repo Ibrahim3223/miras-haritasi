@@ -5,10 +5,10 @@ slug: "ermeni-kilisesi"
 description: "## Ermeni Kilisesi: Kemaliye'nin Gizli Çağı..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.4983788,39.2599945"
 draft: "false"
 weight: "999"

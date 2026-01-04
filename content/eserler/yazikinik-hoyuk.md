@@ -5,10 +5,10 @@ slug: "yazikinik-hoyuk"
 description: "**Yazıkınık Höyük: Kırşehir'in Gizli Çınsı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4098167,39.1600609"
 draft: "false"
 weight: "999"

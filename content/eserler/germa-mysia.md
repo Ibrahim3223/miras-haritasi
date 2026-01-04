@@ -5,10 +5,10 @@ slug: "germa-mysia"
 description: "## Germa (Mysia): Antik Mabetin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.690683,39.36872"
 draft: "false"
 weight: "999"

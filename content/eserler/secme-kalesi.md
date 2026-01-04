@@ -5,10 +5,10 @@ slug: "secme-kalesi"
 description: "# Seçme Kalesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.5205345,37.5657616"
 draft: "false"
 weight: "999"

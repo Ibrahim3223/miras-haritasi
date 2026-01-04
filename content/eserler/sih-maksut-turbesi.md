@@ -5,10 +5,10 @@ slug: "sih-maksut-turbesi"
 description: "### Şıh Maksut Türbesi: Şanlıurfa'nın Gizemli Anıtı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.782787,37.140061"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "olba-rolyefli-kaya-mezari"
 description: "## Olba Rölyefli Kaya Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9717026,36.5978622"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nusret-mayin-gemisi-replikasi"
 description: "### Nusret Mayın Gemisi Replikası: Çanakkale'nin Aslına Özenle Yeniden Yaşamı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.3987179,40.1488724"
 draft: "false"
 weight: "999"

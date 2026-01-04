@@ -5,10 +5,10 @@ slug: "kasimpasa-un-fabrikasi"
 description: "**Kasımpaşa Un Fabrikası: İstanbul'un Unlu Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Kasımpaşa_Un_Fabrikası_06.jpg/1200px-Kasımpaşa_Un_Fabrikası_06.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.969270525,41.030562082"
 draft: "false"
 weight: "10"

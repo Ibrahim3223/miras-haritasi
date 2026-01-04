@@ -5,10 +5,10 @@ slug: "yilani-hoyuk"
 description: "### Yılanı Höyük: Aksaray'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7673002,38.3726038"
 draft: "false"
 weight: "999"

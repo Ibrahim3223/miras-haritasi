@@ -5,10 +5,10 @@ slug: "uc-fidan-aniti"
 description: "## Üç Fidan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Three_Saplings_Monument_02.jpg/1200px-Three_Saplings_Monument_02.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Güzelbahçe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.874555555,38.368083333"
 draft: "false"
 weight: "10"

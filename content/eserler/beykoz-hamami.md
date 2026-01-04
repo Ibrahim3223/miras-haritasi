@@ -5,10 +5,10 @@ slug: "beykoz-hamami"
 description: "# Beykoz Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Beykoz_Hamamı.jpg/1200px-Beykoz_Hamamı.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.092119,41.134654"
 draft: "false"
 weight: "10"

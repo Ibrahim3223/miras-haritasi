@@ -5,10 +5,10 @@ slug: "mescitalti-mescidi"
 description: "## Mescitaltı Mescidi: Bergama'nın Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1784,39.1217995"
 draft: "false"
 weight: "999"

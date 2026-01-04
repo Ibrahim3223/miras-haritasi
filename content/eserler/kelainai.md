@@ -5,10 +5,10 @@ slug: "kelainai"
 description: "## Kelainai: Afyonkarahisar'ın Gizli İnsiyeti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.16555556,38.07166667"
 draft: "false"
 weight: "999"

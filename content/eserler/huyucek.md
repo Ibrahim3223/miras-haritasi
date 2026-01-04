@@ -5,10 +5,10 @@ slug: "huyucek"
 description: "## Hüyücek Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.07855,39.895233"
 draft: "false"
 weight: "999"

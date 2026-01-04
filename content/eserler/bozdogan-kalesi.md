@@ -5,10 +5,10 @@ slug: "bozdogan-kalesi"
 description: "## Bozdoğan Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.2991943,37.6723824"
 draft: "false"
 weight: "999"

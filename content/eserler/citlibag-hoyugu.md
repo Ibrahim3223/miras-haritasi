@@ -5,10 +5,10 @@ slug: "citlibag-hoyugu"
 description: "# Çitlibağ Höyüğü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.4914453,37.2087344"
 draft: "false"
 weight: "999"

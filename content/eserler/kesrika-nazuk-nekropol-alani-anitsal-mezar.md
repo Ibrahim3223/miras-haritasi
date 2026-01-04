@@ -5,10 +5,10 @@ slug: "kesrika-nazuk-nekropol-alani-anitsal-mezar"
 description: "## Kesrika Nazukê Nekropol Alanı Anıtsal Mezar..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.915799742,37.639766576"
 draft: "false"
 weight: "999"

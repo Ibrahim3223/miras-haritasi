@@ -5,10 +5,10 @@ slug: "ahmetce-hoyuktepe-tumulusu"
 description: "## Ahmetçe Höyüktepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2451134,41.7869415"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yenibademli-hoyuk"
 description: "### Yenibademli Höyük: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "25.8955288,40.2172203"
 draft: "false"
 weight: "999"

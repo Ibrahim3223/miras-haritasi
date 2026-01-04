@@ -5,10 +5,10 @@ slug: "siricae"
 description: "## Siricae Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.458778,38.204189"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-mahmud-turbesi"
 description: "## Şeyh Mahmud Türbesi: Pazar, Tokat'un Gizli Cenneti..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Pazar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.292954,40.267367"
 draft: "false"
 weight: "999"

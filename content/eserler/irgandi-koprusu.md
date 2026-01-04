@@ -5,10 +5,10 @@ slug: "irgandi-koprusu"
 description: "# Irgandı Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/BURSA-IRGANDI_KÖPRÜSÜ_2007_-_panoramio.jpg/1200px-BURSA-IRGANDI_KÖPRÜSÜ_2007_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.07083,40.18195"
 draft: "false"
 weight: "10"

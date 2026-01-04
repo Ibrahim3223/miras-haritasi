@@ -5,10 +5,10 @@ slug: "hemhum-camii"
 description: "## Hemhüm Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8705635,39.9357872"
 draft: "false"
 weight: "999"

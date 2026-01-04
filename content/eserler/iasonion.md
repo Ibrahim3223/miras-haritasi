@@ -5,10 +5,10 @@ slug: "iasonion"
 description: "## Iasonion: İçinden İhtişam, Dışından Gizem..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.001901,41.043598"
 draft: "false"
 weight: "999"

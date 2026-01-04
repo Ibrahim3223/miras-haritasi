@@ -5,10 +5,10 @@ slug: "kaplan-kalesi"
 description: "## Kaplan Kalesi: Bodrum'un Gizli Çehresini İncele..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.419871,37.030701"
 draft: "false"
 weight: "999"

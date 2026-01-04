@@ -5,10 +5,10 @@ slug: "mimar-ahmet-oglu-mehmet-turbesi"
 description: "### Mimar Ahmet Oğlu Mehmet Türbesi: Çeşme'nin Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3075008,38.3209991"
 draft: "false"
 weight: "999"

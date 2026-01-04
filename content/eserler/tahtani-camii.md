@@ -5,10 +5,10 @@ slug: "tahtani-camii"
 description: "# Tahtani Camii: Gaziantep'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3847351,37.0650558"
 draft: "false"
 weight: "999"

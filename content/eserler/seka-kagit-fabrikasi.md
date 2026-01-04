@@ -5,10 +5,10 @@ slug: "seka-kagit-fabrikasi"
 description: "## SEKA Kağıt Fabrikası: İzmit'in Gizli Mirası..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9086266,40.7618217"
 draft: "false"
 weight: "999"

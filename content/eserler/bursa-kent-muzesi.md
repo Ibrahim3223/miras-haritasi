@@ -5,10 +5,10 @@ slug: "bursa-kent-muzesi"
 description: "### Bursa Kent Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/ESKİ_ADLİYE_-ŞEHİR_MUZESİ_-_panoramio.jpg/1200px-ESKİ_ADLİYE_-ŞEHİR_MUZESİ_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0666036,40.1823029"
 draft: "false"
 weight: "10"

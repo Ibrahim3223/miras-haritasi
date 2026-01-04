@@ -5,10 +5,10 @@ slug: "alacahoyuk-muzesi"
 description: "## Alacahöyük Müzesi: Tarihî Bir Mirasın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Alacah%C3%B6y%C3%BCk_m%C3%BCzesi.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.696003,40.2330627"
 draft: "false"
 weight: "999"

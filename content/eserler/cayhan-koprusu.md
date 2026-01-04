@@ -5,10 +5,10 @@ slug: "cayhan-koprusu"
 description: "## Çayhan Köprüsü: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.605145,38.164764"
 draft: "false"
 weight: "999"

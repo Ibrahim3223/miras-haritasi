@@ -5,10 +5,10 @@ slug: "berta-koprusu"
 description: "## Berta Köprüsü: Artvin'in Tarihi Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.97142,41.166"
 draft: "false"
 weight: "999"

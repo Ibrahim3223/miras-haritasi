@@ -5,10 +5,10 @@ slug: "surp-yizdepuzit-manastiri"
 description: "## Surp Yizdepuzit Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Tatvan"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.3007736,38.4673843"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "geckinli-sehitlik-aniti"
 description: "### Geçkinli Şehitlik Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.843792,41.7411385"
 draft: "false"
 weight: "999"

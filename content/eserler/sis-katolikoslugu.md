@@ -5,10 +5,10 @@ slug: "sis-katolikoslugu"
 description: "## Sis Katolikosluğu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Le_Tour_du_monde-03-p409.jpg/1200px-Le_Tour_du_monde-03-p409.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Sis"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "35.813888888,37.445277777"
 draft: "false"
 weight: "10"

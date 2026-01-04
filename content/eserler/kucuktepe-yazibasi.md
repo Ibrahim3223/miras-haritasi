@@ -5,10 +5,10 @@ slug: "kucuktepe-yazibasi"
 description: "## Küçüktepe, Yazıbaşı: İzmir'in Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3112,38.210083"
 draft: "false"
 weight: "999"

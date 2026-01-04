@@ -5,10 +5,10 @@ slug: "kose-suleyman-ziyaret-tepesi"
 description: "### Köse Süleyman Ziyaret Tepesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.9718895,40.0774231"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "goynuk-kent-muzesi"
 description: "### Göynük Kent Müzesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Göynük"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.7873173,40.3984413"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sulecik-c-tumulusu"
 description: "**Sülecik C Tümülüsü: Edirne'nin Gizemli Arkeolojik Sit**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8457546,41.805912"
 draft: "false"
 weight: "999"

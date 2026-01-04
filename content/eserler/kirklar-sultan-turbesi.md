@@ -5,10 +5,10 @@ slug: "kirklar-sultan-turbesi"
 description: "### Kırklar Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.127497,41.150755"
 draft: "false"
 weight: "999"

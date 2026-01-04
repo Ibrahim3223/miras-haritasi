@@ -5,10 +5,10 @@ slug: "solmaz-hoyuk"
 description: "**Solmaz Höyük: Denizli'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9793034,37.4924545"
 draft: "false"
 weight: "999"

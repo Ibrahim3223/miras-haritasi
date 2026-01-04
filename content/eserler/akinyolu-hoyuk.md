@@ -5,10 +5,10 @@ slug: "akinyolu-hoyuk"
 description: "# Akınyolu Höyük: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.7377958,36.9710604"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bilecik-saat-kulesi"
 description: "## Bilecik Saat Kulesi: Bir Örnek Osmanlı Mimarisi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "29.983416666,40.137833333"
 draft: "false"
 weight: "999"

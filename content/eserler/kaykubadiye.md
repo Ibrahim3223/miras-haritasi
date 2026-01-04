@@ -5,10 +5,10 @@ slug: "kaykubadiye"
 description: "## Kaykubadiye Sarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "35.419064,38.758166"
 draft: "false"
 weight: "999"

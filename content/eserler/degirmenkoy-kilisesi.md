@@ -5,10 +5,10 @@ slug: "degirmenkoy-kilisesi"
 description: "## Değirmenköy Kilisesi: Erzincan'ın Eski Bir Kültürel Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.617363,39.6312943"
 draft: "false"
 weight: "999"

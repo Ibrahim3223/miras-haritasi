@@ -5,10 +5,10 @@ slug: "koskerlik-kaya-mezarlari"
 description: "## Köskerlik Kaya Mezarları..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.6368294,37.4823418"
 draft: "false"
 weight: "999"

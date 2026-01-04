@@ -5,10 +5,10 @@ slug: "medrese-ali-kuscu"
 description: "## Medrese, Ali Kuşçukonumuza Hoşgeldiniz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.951854,41.019505"
 draft: "false"
 weight: "999"

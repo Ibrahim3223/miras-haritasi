@@ -5,10 +5,10 @@ slug: "hristos-rum-manastiri"
 description: "### Hristos Rum Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.0500126,40.9059944"
 draft: "false"
 weight: "999"

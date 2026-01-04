@@ -5,10 +5,10 @@ slug: "mimar-sinan-turbesi"
 description: "## Mimar Sinan Türbesi: İstanbul'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/The_tomb_of_Mimar_Sinan.jpg/1200px-The_tomb_of_Mimar_Sinan.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.963861111,41.017277777"
 draft: "false"
 weight: "10"

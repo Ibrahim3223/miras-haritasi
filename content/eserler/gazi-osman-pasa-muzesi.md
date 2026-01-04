@@ -5,10 +5,10 @@ slug: "gazi-osman-pasa-muzesi"
 description: "**Gazi Osman Paşa Müzesi**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.55908956,40.307088955"
 draft: "false"
 weight: "999"

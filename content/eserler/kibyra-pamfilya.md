@@ -5,10 +5,10 @@ slug: "kibyra-pamfilya"
 description: "## Kibyra (Pamfilya)..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.67138889,36.65"
 draft: "false"
 weight: "999"

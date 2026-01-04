@@ -5,10 +5,10 @@ slug: "madenci-heykeli-cankaya"
 description: "## Madenci Heykeli, Çankaya..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8546257,39.9150047"
 draft: "false"
 weight: "999"

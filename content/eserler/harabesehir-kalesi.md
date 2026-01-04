@@ -5,10 +5,10 @@ slug: "harabesehir-kalesi"
 description: "### Harabeşehir Kalesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.454899956,38.747723533"
 draft: "false"
 weight: "999"

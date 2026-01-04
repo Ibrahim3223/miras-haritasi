@@ -5,10 +5,10 @@ slug: "kanli-kopru"
 description: "## Kanlı Köprü: Tavas'ta Bir Tarihî Efsane..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9671516,37.5495148"
 draft: "false"
 weight: "999"

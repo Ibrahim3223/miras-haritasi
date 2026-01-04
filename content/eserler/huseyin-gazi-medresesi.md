@@ -5,10 +5,10 @@ slug: "huseyin-gazi-medresesi"
 description: "**Hüseyin Gazi Medresesi**..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.8204765,40.1440887"
 draft: "false"
 weight: "999"

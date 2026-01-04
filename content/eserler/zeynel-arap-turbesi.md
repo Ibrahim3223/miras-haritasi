@@ -5,10 +5,10 @@ slug: "zeynel-arap-turbesi"
 description: "### Zeynel Arap Türbesi: Gelibolu'nun Gizli Mücevheri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6769,40.4121"
 draft: "false"
 weight: "999"

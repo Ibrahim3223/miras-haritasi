@@ -5,10 +5,10 @@ slug: "sobuca-camii"
 description: "## Sobuca Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6797543,37.7619858"
 draft: "false"
 weight: "999"

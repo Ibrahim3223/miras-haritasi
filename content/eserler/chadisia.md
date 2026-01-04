@@ -5,10 +5,10 @@ slug: "chadisia"
 description: "# Chadisia: Kayıtsız Kalmış Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.575537,41.288083"
 draft: "false"
 weight: "999"

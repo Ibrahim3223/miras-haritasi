@@ -5,10 +5,10 @@ slug: "ayazini-metropolisindeki-kiliseler"
 description: "### Ayazini Metropolisi'ndeki Kiliseler..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/AyazinKirche4.jpg/1200px-AyazinKirche4.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.565079,39.0105957"
 draft: "false"
 weight: "10"

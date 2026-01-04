@@ -5,10 +5,10 @@ slug: "urfa-kapi"
 description: "### Urfa Kapı: Diyarbakır'da Bir Tarihi Anıt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

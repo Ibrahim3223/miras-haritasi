@@ -5,10 +5,10 @@ slug: "behramsah-camii"
 description: "### Behramşah Camii: Şebinkarahisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4699135,40.3116188"
 draft: "false"
 weight: "999"

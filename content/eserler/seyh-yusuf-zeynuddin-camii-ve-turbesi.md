@@ -5,10 +5,10 @@ slug: "seyh-yusuf-zeynuddin-camii-ve-turbesi"
 description: "## Şeyh Yusuf Zeynüddin Camii ve Türbesi: Tekkeköy'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Tekkeköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.4608459,41.2115211"
 draft: "false"
 weight: "999"

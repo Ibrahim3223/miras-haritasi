@@ -5,10 +5,10 @@ slug: "sarma-kalesi"
 description: "### Sarma Kalesi: Göle'nin Tarihî Kalesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Göle"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.5957036,40.9119245"
 draft: "false"
 weight: "999"

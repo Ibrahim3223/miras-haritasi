@@ -5,10 +5,10 @@ slug: "numune-asri-hamami"
 description: "## Numune Asri Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Etimesgut"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.6636031,39.9479169"
 draft: "false"
 weight: "999"

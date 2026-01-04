@@ -5,10 +5,10 @@ slug: "yenikoy-arkeolojik-yerlesimi-kusadasi"
 description: "### Yeniköy Arkeolojik Yerleşimi, Kuşadası..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3559475,37.8608017"
 draft: "false"
 weight: "999"

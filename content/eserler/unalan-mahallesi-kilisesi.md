@@ -5,10 +5,10 @@ slug: "unalan-mahallesi-kilisesi"
 description: "## Ünalan Mahallesi Kilisesi: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.131281,40.565244"
 draft: "false"
 weight: "999"

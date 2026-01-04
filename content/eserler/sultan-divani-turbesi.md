@@ -5,10 +5,10 @@ slug: "sultan-divani-turbesi"
 description: "## Sultan Divanı Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5334,38.7537"
 draft: "false"
 weight: "999"

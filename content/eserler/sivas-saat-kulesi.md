@@ -5,10 +5,10 @@ slug: "sivas-saat-kulesi"
 description: "## Sivas Saat Kulesi: Tarihi Bir Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "37.015055555,39.745666666"
 draft: "false"
 weight: "999"

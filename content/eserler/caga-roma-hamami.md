@@ -5,10 +5,10 @@ slug: "caga-roma-hamami"
 description: "## Çağa Roma Hamamı: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Güdül"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.2018929,40.1278419"
 draft: "false"
 weight: "999"

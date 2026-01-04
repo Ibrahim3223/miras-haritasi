@@ -5,10 +5,10 @@ slug: "morkaya-derebasi-camii"
 description: "## Morkaya Derebaşı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.1259399,40.840228"
 draft: "false"
 weight: "999"

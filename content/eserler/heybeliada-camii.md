@@ -5,10 +5,10 @@ slug: "heybeliada-camii"
 description: "## Heybeliada Camii: Adalar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0952625,40.8784714"
 draft: "false"
 weight: "999"

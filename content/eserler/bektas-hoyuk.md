@@ -5,10 +5,10 @@ slug: "bektas-hoyuk"
 description: "# Bektaş Höyük: Geçmişin İzleri Mardin'de..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.44104265,37.124539109"
 draft: "false"
 weight: "999"

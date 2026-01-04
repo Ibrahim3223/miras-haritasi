@@ -5,10 +5,10 @@ slug: "tas-kopru-danisment"
 description: "## Taş Köprü, Danişment: Bir Geçit Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.5856686,37.4231949"
 draft: "false"
 weight: "999"

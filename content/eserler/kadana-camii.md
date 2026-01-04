@@ -5,10 +5,10 @@ slug: "kadana-camii"
 description: "### Kadana Camii: Erzurum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2814178,39.9091034"
 draft: "false"
 weight: "999"

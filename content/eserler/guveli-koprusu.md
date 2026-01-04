@@ -5,10 +5,10 @@ slug: "guveli-koprusu"
 description: "# Güveli Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5277691,38.8851013"
 draft: "false"
 weight: "999"

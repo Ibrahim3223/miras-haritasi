@@ -5,10 +5,10 @@ slug: "surp-harutyun-ermeni-kilisesi"
 description: "## Surp Harutyun Ermeni Kilisesi: Malatya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.3185616,38.3506889"
 draft: "false"
 weight: "999"

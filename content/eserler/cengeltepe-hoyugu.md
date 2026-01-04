@@ -5,10 +5,10 @@ slug: "cengeltepe-hoyugu"
 description: "### Çengeltepe Höyüğü ..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8230566,39.8226452"
 draft: "false"
 weight: "999"

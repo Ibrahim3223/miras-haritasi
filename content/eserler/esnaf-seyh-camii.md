@@ -5,10 +5,10 @@ slug: "esnaf-seyh-camii"
 description: "## Esnaf Şeyh Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1327972,38.4159012"
 draft: "false"
 weight: "999"

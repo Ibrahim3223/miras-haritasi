@@ -5,10 +5,10 @@ slug: "bektas-bey-camii"
 description: "## Bektaş Bey Camii..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.5546837,40.1396713"
 draft: "false"
 weight: "999"

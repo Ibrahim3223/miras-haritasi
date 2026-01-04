@@ -5,10 +5,10 @@ slug: "saruhan-koyu-kalesi"
 description: "## Saruhan Köyü Kalesi: Bir Bayburt'tan Tarih Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.105217,40.066281"
 draft: "false"
 weight: "999"

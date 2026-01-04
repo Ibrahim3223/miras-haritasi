@@ -5,10 +5,10 @@ slug: "sedasa"
 description: "## Sedasa Arkeolojik Sit: Geçmişe Yolculuk..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.162149,37.442328"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akdeniz-bas-kursunlu-medrese"
 description: "## Akdeniz Baş Kurşunlu Medrese..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9490929,41.0184784"
 draft: "false"
 weight: "999"

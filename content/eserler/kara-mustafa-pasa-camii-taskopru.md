@@ -5,10 +5,10 @@ slug: "kara-mustafa-pasa-camii-taskopru"
 description: "## Kara Mustafa Paşa Camii: Taşköprü'nün Gizli Çehresi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.2142258,41.5103798"
 draft: "false"
 weight: "999"

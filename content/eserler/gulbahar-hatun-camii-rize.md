@@ -5,10 +5,10 @@ slug: "gulbahar-hatun-camii-rize"
 description: "## Gülbahar Hatun Camii, Rize..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.54420958,41.026700004"
 draft: "false"
 weight: "999"

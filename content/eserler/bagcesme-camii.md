@@ -5,10 +5,10 @@ slug: "bagcesme-camii"
 description: "### Bağçeşme Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Bağçeşme_Mosque_20220308_(1).jpg/1200px-Bağçeşme_Mosque_20220308_(1).jpg"
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9191448,40.769439"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mustafa-sevki-pasa-kulliyesi"
 description: "## Mustafa Şevki Paşa Külliyesi: Hatay'ın Tarihi Canlandırıcılarından Biri..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5642967,36.2684784"
 draft: "false"
 weight: "999"

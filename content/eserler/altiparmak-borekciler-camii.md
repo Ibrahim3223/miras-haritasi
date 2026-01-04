@@ -5,10 +5,10 @@ slug: "altiparmak-borekciler-camii"
 description: "## Altıparmak Börekçiler Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4211126,40.9621071"
 draft: "false"
 weight: "999"

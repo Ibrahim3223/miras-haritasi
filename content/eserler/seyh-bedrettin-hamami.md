@@ -5,10 +5,10 @@ slug: "seyh-bedrettin-hamami"
 description: "## Şeyh Bedrettin Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "İvrindi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.487544677,39.582936583"
 draft: "false"
 weight: "999"

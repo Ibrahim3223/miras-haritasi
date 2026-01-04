@@ -5,10 +5,10 @@ slug: "inegol-eski-belediye-binasi"
 description: "## İnegöl Eski Belediye Binası: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.5125523,40.078289"
 draft: "false"
 weight: "999"

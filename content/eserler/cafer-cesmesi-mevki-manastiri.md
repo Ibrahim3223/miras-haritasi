@@ -5,10 +5,10 @@ slug: "cafer-cesmesi-mevki-manastiri"
 description: "## Cafer Çeşmesi Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9241009,40.1864014"
 draft: "false"
 weight: "999"

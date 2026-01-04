@@ -5,10 +5,10 @@ slug: "cetinkaya-koprusu"
 description: "## Çetinkaya Köprüsü: Samsun'un Tarihi ve Kültürel Değerleri Arasındaki Önemli Köprü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.881171,41.567294"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dort-ayakli-anit-mezar"
 description: "**Dört Ayaklı Anıt Mezar: Aydıncık'taki Bir Antik Kahramanın Anıtı**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Aydıncık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.3272436,36.1485033"
 draft: "false"
 weight: "999"

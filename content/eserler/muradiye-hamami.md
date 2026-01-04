@@ -5,10 +5,10 @@ slug: "muradiye-hamami"
 description: "### Muradiye Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0450325,40.1908798"
 draft: "false"
 weight: "999"

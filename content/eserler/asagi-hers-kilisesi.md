@@ -5,10 +5,10 @@ slug: "asagi-hers-kilisesi"
 description: "## Aşağı Hers Kilisesi: Bir Geçmişi Yansıtan Ünlü Yer..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "Kirazalan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.811941666,40.921158333"
 draft: "false"
 weight: "999"

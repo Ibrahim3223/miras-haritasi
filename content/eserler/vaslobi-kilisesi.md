@@ -5,10 +5,10 @@ slug: "vaslobi-kilisesi"
 description: "### Vaşlobi Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.159833333,41.270972222"
 draft: "false"
 weight: "999"

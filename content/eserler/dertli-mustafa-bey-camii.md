@@ -5,10 +5,10 @@ slug: "dertli-mustafa-bey-camii"
 description: "## Dertli Mustafa Bey Camii: İpsala'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3805714,40.9226875"
 draft: "false"
 weight: "999"

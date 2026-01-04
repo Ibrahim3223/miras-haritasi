@@ -5,10 +5,10 @@ slug: "cavus-koprusu"
 description: "## Çavuş Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8465061,37.8475609"
 draft: "false"
 weight: "999"

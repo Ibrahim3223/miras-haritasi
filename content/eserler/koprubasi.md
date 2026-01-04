@@ -5,10 +5,10 @@ slug: "koprubasi"
 description: "### Köprübaşı Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.557001,41.728431"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamidiye-camii-balikesir"
 description: "## Hamidiye Camii, Balıkesir..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8884983,39.6505966"
 draft: "false"
 weight: "999"

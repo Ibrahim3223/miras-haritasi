@@ -5,10 +5,10 @@ slug: "sidas"
 description: "## Sidas Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6188388,38.7901357"
 draft: "false"
 weight: "999"

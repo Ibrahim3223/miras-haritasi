@@ -5,10 +5,10 @@ slug: "mehre-hoyuk"
 description: "### Mehre Höyük: Kahramanmaraş'ta Bir Tarihi Harikalar Diyarı..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0195706,38.1585139"
 draft: "false"
 weight: "999"

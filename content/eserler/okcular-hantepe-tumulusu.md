@@ -5,10 +5,10 @@ slug: "okcular-hantepe-tumulusu"
 description: "### Okçular Hantepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8148651,41.5547447"
 draft: "false"
 weight: "999"

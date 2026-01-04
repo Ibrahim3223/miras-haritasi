@@ -5,10 +5,10 @@ slug: "molla-aski-kabri"
 description: "### Molla Aşki Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9429493,41.0338554"
 draft: "false"
 weight: "999"

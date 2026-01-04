@@ -5,10 +5,10 @@ slug: "hazro-ulu-camii"
 description: "## Hazro Ulu Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Hazro"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.782,38.253333333"
 draft: "false"
 weight: "999"

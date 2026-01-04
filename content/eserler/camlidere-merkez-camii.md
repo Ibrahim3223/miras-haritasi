@@ -5,10 +5,10 @@ slug: "camlidere-merkez-camii"
 description: "## Çamlıdere Merkez Camii: Ankara'da tarihi bir güzellik..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4754562,40.4905472"
 draft: "false"
 weight: "999"

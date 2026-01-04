@@ -5,10 +5,10 @@ slug: "nissali-aziz-gregor-kilisesi-trabzon"
 description: "## Nissalı Aziz Gregor Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/St._Gregory,_Trebizond.jpg/1200px-St._Gregory,_Trebizond.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.73058,41.00945"
 draft: "false"
 weight: "10"

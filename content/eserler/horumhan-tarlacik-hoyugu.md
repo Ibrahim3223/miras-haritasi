@@ -5,10 +5,10 @@ slug: "horumhan-tarlacik-hoyugu"
 description: "## Horumhan Tarlacık Höyüğü: Malatya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.2394066,38.7469711"
 draft: "false"
 weight: "999"

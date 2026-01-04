@@ -5,10 +5,10 @@ slug: "besikciler-camii"
 description: "### Beşikçiler Camii: Bursa'nın Eski Camilerine Örnek Bir Mimarlık Harikası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0448532,40.1920929"
 draft: "false"
 weight: "999"

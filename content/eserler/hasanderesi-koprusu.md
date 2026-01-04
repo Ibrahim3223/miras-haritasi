@@ -5,10 +5,10 @@ slug: "hasanderesi-koprusu"
 description: "## Hasanderesi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Başakşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7568493,41.062088"
 draft: "false"
 weight: "999"

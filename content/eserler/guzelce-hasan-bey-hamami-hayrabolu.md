@@ -5,10 +5,10 @@ slug: "guzelce-hasan-bey-hamami-hayrabolu"
 description: "## Güzelce Hasan Bey Hamamı: Hayrabolu'nun Yüzyıllar Öncesi Tarihsel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1064682,41.2142677"
 draft: "false"
 weight: "999"

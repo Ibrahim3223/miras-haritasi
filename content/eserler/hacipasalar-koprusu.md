@@ -5,10 +5,10 @@ slug: "hacipasalar-koprusu"
 description: "# Hacıpaşalar Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2210903,37.5204964"
 draft: "false"
 weight: "999"

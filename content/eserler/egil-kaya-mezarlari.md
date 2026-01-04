@@ -5,10 +5,10 @@ slug: "egil-kaya-mezarlari"
 description: "## Eğil Kaya Mezarları..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.0966415,38.2573853"
 draft: "false"
 weight: "999"

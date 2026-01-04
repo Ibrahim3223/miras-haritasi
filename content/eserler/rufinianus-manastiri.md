@@ -5,10 +5,10 @@ slug: "rufinianus-manastiri"
 description: "## Rufinianus Manastırı: Kadıköy'de Bir Tarihi Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.02777778,40.98888889"
 draft: "false"
 weight: "999"

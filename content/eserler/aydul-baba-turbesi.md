@@ -5,10 +5,10 @@ slug: "aydul-baba-turbesi"
 description: "## Aydul Baba Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Haymana"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.587626,39.37063"
 draft: "false"
 weight: "999"

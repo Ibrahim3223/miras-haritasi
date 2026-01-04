@@ -5,10 +5,10 @@ slug: "kalenderhane-camii"
 description: "### Kalenderhane Camii: Fatih'ten Bir Büyüklük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kalenderhane_Camii_SE_Istanbul.jpg/1200px-Kalenderhane_Camii_SE_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.960304,41.013132"
 draft: "false"
 weight: "10"

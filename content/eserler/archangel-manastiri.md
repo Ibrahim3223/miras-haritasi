@@ -5,10 +5,10 @@ slug: "archangel-manastiri"
 description: "## Archangel Manastırı: Ürgüp'ün Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "34.94239211,38.514392687"
 draft: "false"
 weight: "999"

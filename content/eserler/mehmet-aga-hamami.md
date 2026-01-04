@@ -5,10 +5,10 @@ slug: "mehmet-aga-hamami"
 description: "# Mehmet Ağa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Mehmet_Ağa_Hamamı.jpg/1200px-Mehmet_Ağa_Hamamı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.944817,41.026738"
 draft: "false"
 weight: "10"

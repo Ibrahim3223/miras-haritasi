@@ -5,10 +5,10 @@ slug: "purcukluhoyuk-tumulusu"
 description: "## Pürçüklühöyük Tümülüsü: Yozgat'ın Gizli Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.0423813,39.7578278"
 draft: "false"
 weight: "999"

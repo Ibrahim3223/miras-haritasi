@@ -5,10 +5,10 @@ slug: "hurriyet-aniti"
 description: "## Hürriyet Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6830063,41.270092"
 draft: "false"
 weight: "999"

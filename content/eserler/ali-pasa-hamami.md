@@ -5,10 +5,10 @@ slug: "ali-pasa-hamami"
 description: "### Ali Paşa Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Resim_2023-01-03_222520371.png/1200px-Resim_2023-01-03_222520371.png"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5517718,40.3149051"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "buyuksaka-koyu-camii"
 description: "### Büyüksaka Köyü Camii: Kütahya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1365662,39.3699379"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "iyilik-kayaligi"
 description: "### İyilik Kayalığı: Marmaris'teki Büyülü Kayalık..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.2690029,36.8547821"
 draft: "false"
 weight: "999"

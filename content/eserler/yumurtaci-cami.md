@@ -5,10 +5,10 @@ slug: "yumurtaci-cami"
 description: "## Yumurtacı Camii: Kocaeli'nin Tarihî bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yumurtacı_Cami_Şerifi_(1)_03.jpg/1200px-Yumurtacı_Cami_Şerifi_(1)_03.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.921108792,40.764865145"
 draft: "false"
 weight: "10"

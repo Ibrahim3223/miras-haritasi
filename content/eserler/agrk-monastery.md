@@ -5,10 +5,10 @@ slug: "agrk-monastery"
 description: "## Agrk Monastery: Tortum'un Gizemi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Demirciler"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

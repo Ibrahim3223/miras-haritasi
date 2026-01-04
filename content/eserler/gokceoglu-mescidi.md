@@ -5,10 +5,10 @@ slug: "gokceoglu-mescidi"
 description: "## Gökçeoğlu Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8559875,39.9399414"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalekoy-kalesi-mazgirt"
 description: "## Kaleköy Kalesi: Mazgirt'in Tarihî Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.6613312,39.026989"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-hasan-camii-eskisehir"
 description: "## Eskişehir'in Tarihi Cenneti: Hacı Hasan Camii..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.529232,39.7626495"
 draft: "false"
 weight: "999"

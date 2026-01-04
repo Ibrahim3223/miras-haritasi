@@ -5,10 +5,10 @@ slug: "ana-hanim-turbesi"
 description: "## Ana Hanım Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2700348,39.904232"
 draft: "false"
 weight: "999"

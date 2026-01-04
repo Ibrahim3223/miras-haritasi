@@ -5,10 +5,10 @@ slug: "asartepe"
 description: "## Asartepe: Gölmarmara'nın Tarihî Zirvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atburgaz%C4%B1_3.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.993306,38.692809"
 draft: "false"
 weight: "999"

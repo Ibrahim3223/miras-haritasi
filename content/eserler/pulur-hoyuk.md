@@ -5,10 +5,10 @@ slug: "pulur-hoyuk"
 description: "## Pulur Höyük: Aziziye'nin Gizli Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aziziye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.1308679,39.9073455"
 draft: "false"
 weight: "999"

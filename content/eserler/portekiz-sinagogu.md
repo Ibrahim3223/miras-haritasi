@@ -5,10 +5,10 @@ slug: "portekiz-sinagogu"
 description: "## Portekiz Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portekiz_Sinagogu.jpg/1200px-Portekiz_Sinagogu.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.1365,38.418833333"
 draft: "false"
 weight: "10"

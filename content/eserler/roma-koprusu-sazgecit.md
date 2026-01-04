@@ -5,10 +5,10 @@ slug: "roma-koprusu-sazgecit"
 description: "### Roma Köprüsü, Sazgeçit..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.93418,37.59411"
 draft: "false"
 weight: "999"

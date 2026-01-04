@@ -5,10 +5,10 @@ slug: "alacahoyuk-tumulusu"
 description: "## Alacahöyük Tümülüsü: Türkiye'nin Gizli Göller Bölgesi'ndeki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.5053864,37.3555145"
 draft: "false"
 weight: "999"

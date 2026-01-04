@@ -5,10 +5,10 @@ slug: "phellos-tiyatrosu"
 description: "## Phellos Tiyatrosu: Antik Tiyatro'nun Gizemleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.662157983,36.242480622"
 draft: "false"
 weight: "999"

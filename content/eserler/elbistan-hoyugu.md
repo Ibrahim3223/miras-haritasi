@@ -5,10 +5,10 @@ slug: "elbistan-hoyugu"
 description: "## Elbistan Höyüğü: Gaziantep'in Gizli Tarihi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.7459642,37.0785281"
 draft: "false"
 weight: "999"

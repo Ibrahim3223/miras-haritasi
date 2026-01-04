@@ -5,10 +5,10 @@ slug: "camur-hoyuk"
 description: "## Çamur Höyük: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Karamanlı İlçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8500186,37.3394562"
 draft: "false"
 weight: "999"

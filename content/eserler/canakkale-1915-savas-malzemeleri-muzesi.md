@@ -5,10 +5,10 @@ slug: "canakkale-1915-savas-malzemeleri-muzesi"
 description: "## Çanakkale 1915 Savaş Malzemeleri Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

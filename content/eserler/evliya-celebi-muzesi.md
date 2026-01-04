@@ -5,10 +5,10 @@ slug: "evliya-celebi-muzesi"
 description: "# Evliya Çelebi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.987692,39.415453"
 draft: "false"
 weight: "999"

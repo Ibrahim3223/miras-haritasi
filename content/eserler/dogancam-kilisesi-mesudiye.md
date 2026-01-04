@@ -5,10 +5,10 @@ slug: "dogancam-kilisesi-mesudiye"
 description: "## Doğançam Kilisesi Mesudiye: Ordu'nun Gizli Kâseği..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.843872,40.510022"
 draft: "false"
 weight: "999"

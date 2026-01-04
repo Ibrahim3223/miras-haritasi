@@ -5,10 +5,10 @@ slug: "huseyin-aga-turbesi"
 description: "**Hüseyin Ağa Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.95625,41.024149"
 draft: "false"
 weight: "999"

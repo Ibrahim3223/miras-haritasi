@@ -5,10 +5,10 @@ slug: "burunguz-camii"
 description: "## Bürüngüz Camii: Kayseri'nin Gizli Çehresinde Bir Aziz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bürüngüz_Mosque_02.jpg/1200px-Bürüngüz_Mosque_02.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kayseri"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.487222222,38.721388888"
 draft: "false"
 weight: "10"

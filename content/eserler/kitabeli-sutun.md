@@ -5,10 +5,10 @@ slug: "kitabeli-sutun"
 description: "## Kitabeli Sütun: Cankurtaran'ın İhtişamlı Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.983532,41.0112495"
 draft: "false"
 weight: "999"

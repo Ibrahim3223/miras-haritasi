@@ -5,10 +5,10 @@ slug: "seyfe-kale-hoyuk"
 description: "## Seyfe Kale Höyük: Tarihî ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3550339,39.1931305"
 draft: "false"
 weight: "999"

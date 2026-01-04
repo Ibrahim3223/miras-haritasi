@@ -5,10 +5,10 @@ slug: "marpessos"
 description: "## Marpessos: Antik Bir Kentin İzleri..."
 featured_image: ""
 province: "Bayramiç (ilçe)"
-iller: '["Bayramiç (ilçe)"]'
+iller: ["Bayramiç (ilçe)"]
 district: "Zerdalilik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.52027778,39.88027778"
 draft: "false"
 weight: "999"

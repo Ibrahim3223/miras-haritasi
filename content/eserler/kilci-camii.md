@@ -5,10 +5,10 @@ slug: "kilci-camii"
 description: "**Kilci Camii: Safranbolu'da Bir Önemli Cami**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Kilci_Camii.jpg/1200px-Kilci_Camii.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.6902161,41.2493324"
 draft: "false"
 weight: "10"

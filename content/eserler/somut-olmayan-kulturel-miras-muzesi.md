@@ -5,10 +5,10 @@ slug: "somut-olmayan-kulturel-miras-muzesi"
 description: "## Somut Olmayan Kültürel Miras Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.864126,39.934205"
 draft: "false"
 weight: "999"

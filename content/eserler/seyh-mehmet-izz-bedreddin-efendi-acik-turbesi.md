@@ -5,10 +5,10 @@ slug: "seyh-mehmet-izz-bedreddin-efendi-acik-turbesi"
 description: "# Şeyh Mehmet İzzî Bedreddin Efendi Açık Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0140228,41.0221863"
 draft: "false"
 weight: "999"

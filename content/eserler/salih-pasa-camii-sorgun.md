@@ -5,10 +5,10 @@ slug: "salih-pasa-camii-sorgun"
 description: "**Salih Paşa Camii: Sorgun'un Tarihî Mirası**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1827965,39.8107224"
 draft: "false"
 weight: "999"

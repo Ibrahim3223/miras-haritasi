@@ -5,10 +5,10 @@ slug: "roma-koprusu-gesi-bagpinar-2"
 description: "## Roma Köprüsü, Gesi Bağpınar 2: Kayseri'nin Gizli Çandırı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.651432,38.812702"
 draft: "false"
 weight: "999"

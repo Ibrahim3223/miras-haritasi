@@ -5,10 +5,10 @@ slug: "hms-majestic-1895"
 description: "## HMS Majestic (1895)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/HMS_Majestic_(Majestic-class_battleship).jpg/1200px-HMS_Majestic_(Majestic-class_battleship).jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.183888888,40.041666666"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "thebasa"
 description: "## Thebasa: Karaman'da Gizli Bir Miras..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.836559,37.293682"
 draft: "false"
 weight: "999"

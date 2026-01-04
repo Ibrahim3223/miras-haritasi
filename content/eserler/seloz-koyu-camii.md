@@ -5,10 +5,10 @@ slug: "seloz-koyu-camii"
 description: "## Selöz Köyü Camii: Bilecik'in Gizli Çandırı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9255009,40.1314011"
 draft: "false"
 weight: "999"

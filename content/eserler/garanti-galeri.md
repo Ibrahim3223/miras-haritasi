@@ -5,10 +5,10 @@ slug: "garanti-galeri"
 description: "### Garanti Galeri: İstanbul'un Sanat ve Kültür Merkezi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

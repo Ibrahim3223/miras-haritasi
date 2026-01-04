@@ -5,10 +5,10 @@ slug: "kilic-ali-pasa-medresesi"
 description: "### Kılıç Ali Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.980945,41.026031"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yarimtepe-hoyugu"
 description: "## Yarımtepe Höyüğü: Malatya'nın Gizli Kıvancı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3070526,38.4811287"
 draft: "false"
 weight: "999"

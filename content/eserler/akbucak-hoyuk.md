@@ -5,10 +5,10 @@ slug: "akbucak-hoyuk"
 description: "## Akbucak Höyük: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1839304,39.5548334"
 draft: "false"
 weight: "999"

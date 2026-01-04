@@ -5,10 +5,10 @@ slug: "kanyeri-mevki-manastiri"
 description: "## Kanyeri Mevki Manastırı: Gökçeada'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.9652004,40.1982002"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eskici-ahmet-dede-turbesi"
 description: "## Eskici Ahmet Dede Türbesi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.101421,41.068573"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dort-goz-koprusu"
 description: "## Dört Göz Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.5410538,38.5368233"
 draft: "false"
 weight: "999"

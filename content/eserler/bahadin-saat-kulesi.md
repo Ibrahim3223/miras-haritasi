@@ -5,10 +5,10 @@ slug: "bahadin-saat-kulesi"
 description: "## Bahadın Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/80/Bahad%C4%B1n_Saat_Kulesi.jpg"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.304138888,39.676027777"
 draft: "false"
 weight: "999"

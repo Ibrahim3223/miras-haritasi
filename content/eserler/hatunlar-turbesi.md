@@ -5,10 +5,10 @@ slug: "hatunlar-turbesi"
 description: "## Hatunlar Türbesi: Sinop'un Gizli Anıtı..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "35.1621056,42.025631"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balikhane-kapisi"
 description: "## Balıkhane Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9850731,41.0063286"
 draft: "false"
 weight: "999"

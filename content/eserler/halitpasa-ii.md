@@ -5,10 +5,10 @@ slug: "halitpasa-ii"
 description: "### Halitpaşa II Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Saruhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.702783,38.687133"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nisa-likya"
 description: "## Nisa Antik Kenti: Likya'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.64222222,36.44138889"
 draft: "false"
 weight: "999"

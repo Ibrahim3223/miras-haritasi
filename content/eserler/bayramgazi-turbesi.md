@@ -5,10 +5,10 @@ slug: "bayramgazi-turbesi"
 description: "## Bayramgazi Türbesi: Kastamonu'nun Gizli Hazineleri..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Bozkurt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.0393028,41.9266891"
 draft: "false"
 weight: "999"

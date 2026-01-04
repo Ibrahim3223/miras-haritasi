@@ -5,10 +5,10 @@ slug: "kuyruklu-kale-milas"
 description: "## Kuyruklu Kale, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8337765,37.3094597"
 draft: "false"
 weight: "999"

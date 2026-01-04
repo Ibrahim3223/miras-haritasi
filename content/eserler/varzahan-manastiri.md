@@ -5,10 +5,10 @@ slug: "varzahan-manastiri"
 description: "## Varzahan Manastırı: Türkiye'nin Gizli Çehresine Giriş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Varzahan_bachmann_1911.png/1200px-Varzahan_bachmann_1911.png"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "40.116667,40.333333"
 draft: "false"
 weight: "10"

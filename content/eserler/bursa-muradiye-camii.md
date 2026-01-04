@@ -5,10 +5,10 @@ slug: "bursa-muradiye-camii"
 description: "## Bursa Muradiye Camii: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bursa_Muradiye_Mosque_Exterior_8037.jpg/1200px-Bursa_Muradiye_Mosque_Exterior_8037.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.046555555,40.190972222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bekir-pasa-camii"
 description: "## Bekir Paşa Camii: Fatih'teki Gizli Çan Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/86/Larnaca_01-2017_img25_Kamares_Aqueduct.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9369373,41.0084305"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alanya-arkeoloji-muzesi"
 description: "## Alanya Arkeoloji Müzesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Muse_alanya.jpg/1200px-Muse_alanya.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.9885783,36.5441411"
 draft: "false"
 weight: "10"

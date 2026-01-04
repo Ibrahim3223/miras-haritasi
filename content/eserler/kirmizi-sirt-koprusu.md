@@ -5,10 +5,10 @@ slug: "kirmizi-sirt-koprusu"
 description: "## Kırmızı Sırt Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.885533,41.07635"
 draft: "false"
 weight: "999"

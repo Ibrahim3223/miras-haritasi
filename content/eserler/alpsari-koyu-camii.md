@@ -5,10 +5,10 @@ slug: "alpsari-koyu-camii"
 description: "## Alpsarı Köyü Camii: Korgun, Çankırı'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5314331,40.6855888"
 draft: "false"
 weight: "999"

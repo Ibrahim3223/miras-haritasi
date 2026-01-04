@@ -5,10 +5,10 @@ slug: "hasakoy-kilisesi"
 description: "## Hasaköy Kilisesi: Niğde'nin Gizli Çehresi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.7026945,38.2240126"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haki-baba-turbesi"
 description: "## Haki Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9295345,41.0527046"
 draft: "false"
 weight: "999"

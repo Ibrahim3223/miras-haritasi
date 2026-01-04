@@ -5,10 +5,10 @@ slug: "amastris-antik-tiyatrosu"
 description: "### Amastris Antik Tiyatrosu: Amasra'nın Tarihi Mirası..."
 featured_image: ""
 province: "Amasra İlçesi"
-iller: '["Amasra İlçesi"]'
+iller: ["Amasra İlçesi"]
 district: "Amasra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.3811,41.74403"
 draft: "false"
 weight: "999"

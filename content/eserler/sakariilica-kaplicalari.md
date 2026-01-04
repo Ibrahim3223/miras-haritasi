@@ -5,10 +5,10 @@ slug: "sakariilica-kaplicalari"
 description: "## Sakarıılıca Kaplıcaları..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mihalgazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5861892,39.9873079"
 draft: "false"
 weight: "999"

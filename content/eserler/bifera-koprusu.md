@@ -5,10 +5,10 @@ slug: "bifera-koprusu"
 description: "### Bifera Köprüsü: Araklı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Araklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9994545,40.827961"
 draft: "false"
 weight: "999"

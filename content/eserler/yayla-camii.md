@@ -5,10 +5,10 @@ slug: "yayla-camii"
 description: "### Yayla Camii: Samsun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3520012,41.0359993"
 draft: "false"
 weight: "999"

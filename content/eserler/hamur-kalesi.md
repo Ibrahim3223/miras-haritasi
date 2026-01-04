@@ -5,10 +5,10 @@ slug: "hamur-kalesi"
 description: "# Hamur Kalesi: Ağrı'nın Gizemli Kaleleri Arasındaki Bir Yerliden biri..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Hamur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.988193,39.6131107"
 draft: "false"
 weight: "999"

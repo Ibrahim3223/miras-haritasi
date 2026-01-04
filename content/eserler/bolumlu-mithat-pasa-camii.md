@@ -5,10 +5,10 @@ slug: "bolumlu-mithat-pasa-camii"
 description: "## Bölüm Mithat Paşa Camii: Trabzon'un Tarihî Bir Şehri..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.277282355,40.826182953"
 draft: "false"
 weight: "999"

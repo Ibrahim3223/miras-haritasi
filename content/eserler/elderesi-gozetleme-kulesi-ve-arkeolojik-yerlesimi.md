@@ -5,10 +5,10 @@ slug: "elderesi-gozetleme-kulesi-ve-arkeolojik-yerlesimi"
 description: "## Elderesi Gözetleme Kulesi ve Arkeolojik Yerleşimi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.1103992,37.7001991"
 draft: "false"
 weight: "999"

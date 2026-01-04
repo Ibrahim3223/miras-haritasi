@@ -5,10 +5,10 @@ slug: "yali-kutuphanesi"
 description: "## Yalı Kütüphanesi: Beykoz'un Gizli Çehresinde Bir Büyülü Kütüphane..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.093140906,41.130707529"
 draft: "false"
 weight: "999"

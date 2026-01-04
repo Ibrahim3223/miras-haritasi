@@ -5,10 +5,10 @@ slug: "nisanoglu-turbesi"
 description: "## Nisanoğlu Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.0772438,38.2536659"
 draft: "false"
 weight: "999"

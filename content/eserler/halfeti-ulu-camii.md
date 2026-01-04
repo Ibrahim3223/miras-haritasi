@@ -5,10 +5,10 @@ slug: "halfeti-ulu-camii"
 description: "**Halfeti Ulu Camii**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Halfeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.866555555,37.246166666"
 draft: "false"
 weight: "999"

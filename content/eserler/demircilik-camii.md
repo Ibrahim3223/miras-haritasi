@@ -5,10 +5,10 @@ slug: "demircilik-camii"
 description: "### Demircilik Camii: Bayındır'ın Gizli Çehresini Açıklamak..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6542225,38.2210655"
 draft: "false"
 weight: "999"

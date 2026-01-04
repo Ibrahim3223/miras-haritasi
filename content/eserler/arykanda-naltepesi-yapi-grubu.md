@@ -5,10 +5,10 @@ slug: "arykanda-naltepesi-yapi-grubu"
 description: "## Arykanda Naltepesi Yapı Grubu: Finike'nin Gizli Kâğıt Yüzü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0587711,36.5124207"
 draft: "false"
 weight: "999"

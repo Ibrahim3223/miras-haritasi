@@ -5,10 +5,10 @@ slug: "aya-istirati-manastiri-tepekoy"
 description: "## Aya İstirati Manastırı (Tepeköy)..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8223,40.1771011"
 draft: "false"
 weight: "999"

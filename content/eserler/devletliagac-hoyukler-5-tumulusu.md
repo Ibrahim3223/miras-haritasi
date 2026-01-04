@@ -5,10 +5,10 @@ slug: "devletliagac-hoyukler-5-tumulusu"
 description: "## Devletliağaç Höyükler 5 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0256214,41.9822655"
 draft: "false"
 weight: "999"

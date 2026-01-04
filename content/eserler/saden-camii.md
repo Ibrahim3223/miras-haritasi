@@ -5,10 +5,10 @@ slug: "saden-camii"
 description: "## Saden Camii..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2893715,37.7148743"
 draft: "false"
 weight: "999"

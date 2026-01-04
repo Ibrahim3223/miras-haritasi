@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-hamamiedirne"
 description: "### Sokullu Mehmet Paşa Hamamı, Edirne..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Sokullu_Mehmet_Paşa_Hamamı,_Edirne_IMG_4094.jpg/1200px-Sokullu_Mehmet_Paşa_Hamamı,_Edirne_IMG_4094.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5526676,41.6780586"
 draft: "false"
 weight: "10"

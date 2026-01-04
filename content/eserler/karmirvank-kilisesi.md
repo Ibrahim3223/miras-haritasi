@@ -5,10 +5,10 @@ slug: "karmirvank-kilisesi"
 description: "## Karmirvank Kilisesi: Ani'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.6014099,40.5144348"
 draft: "false"
 weight: "999"

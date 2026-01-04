@@ -5,10 +5,10 @@ slug: "antiphellos-antik-tiyatrosu"
 description: "**Antiphellos Antik Tiyatrosu**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Antiphellus_Ancient_Theatre_-_2014.10_-_panoramio.jpg/1200px-Antiphellus_Ancient_Theatre_-_2014.10_-_panoramio.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.634930555,36.199911111"
 draft: "false"
 weight: "10"

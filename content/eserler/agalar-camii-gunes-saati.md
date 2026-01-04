@@ -5,10 +5,10 @@ slug: "agalar-camii-gunes-saati"
 description: "## Ağalar Camii Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9841766,41.0130463"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pinarbasi-hamami"
 description: "### Pınarbaşı Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2649345,38.4265289"
 draft: "false"
 weight: "999"

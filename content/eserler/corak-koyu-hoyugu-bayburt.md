@@ -5,10 +5,10 @@ slug: "corak-koyu-hoyugu-bayburt"
 description: "### Çorak Köyü Höyüğü, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.973526,40.254011"
 draft: "false"
 weight: "999"

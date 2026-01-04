@@ -5,10 +5,10 @@ slug: "el-nazar-kilisesi"
 description: "## El Nazar Kilisesi: Göreme'nin Gizemli Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.839127063,38.6386709"
 draft: "false"
 weight: "999"

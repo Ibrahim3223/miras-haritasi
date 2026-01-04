@@ -5,10 +5,10 @@ slug: "osmanli-camii-arnavutkoy"
 description: "# Osmanlı Camii (Arnavutköy)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.742027777,41.188277777"
 draft: "false"
 weight: "999"

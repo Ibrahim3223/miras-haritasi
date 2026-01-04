@@ -5,10 +5,10 @@ slug: "monastery-of-the-holy-mother-of-god-argelan"
 description: "# Argelan Aziz Meryem Manastırı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

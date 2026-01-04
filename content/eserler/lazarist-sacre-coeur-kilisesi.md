@@ -5,10 +5,10 @@ slug: "lazarist-sacre-coeur-kilisesi"
 description: "## Lazarist Sacre Coeur Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0413227,41.0767403"
 draft: "false"
 weight: "999"

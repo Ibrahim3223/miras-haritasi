@@ -5,10 +5,10 @@ slug: "gedikpasa-hamami"
 description: "## Gedikpaşa Hamamı: İstanbul'un Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.967248,41.007043"
 draft: "false"
 weight: "999"

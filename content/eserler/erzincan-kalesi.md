@@ -5,10 +5,10 @@ slug: "erzincan-kalesi"
 description: "## Erzincan Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.4936829,39.7205811"
 draft: "false"
 weight: "999"

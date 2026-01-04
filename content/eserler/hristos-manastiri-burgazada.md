@@ -5,10 +5,10 @@ slug: "hristos-manastiri-burgazada"
 description: "## Hristos Manastırı: Adalar'ın Gizli Pearlağı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.059903,40.878437"
 draft: "false"
 weight: "999"

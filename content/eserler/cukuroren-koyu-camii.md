@@ -5,10 +5,10 @@ slug: "cukuroren-koyu-camii"
 description: "### Çukurören Köyü Camii: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.2475815,40.4661865"
 draft: "false"
 weight: "999"

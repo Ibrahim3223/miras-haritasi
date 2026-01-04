@@ -5,10 +5,10 @@ slug: "ankara-sinagogu"
 description: "## Ankara Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Synagogue_in_Ankara-Ankara_Sinagogu.JPG/1200px-Synagogue_in_Ankara-Ankara_Sinagogu.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "32.8605,39.9355"
 draft: "false"
 weight: "10"

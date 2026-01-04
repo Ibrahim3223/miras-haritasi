@@ -5,10 +5,10 @@ slug: "sehzadeler-turbesi-ve-turbedar-odasi"
 description: "## Şehzadeler Türbesi ve Türbedar Odası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0174198,41.0459328"
 draft: "false"
 weight: "999"

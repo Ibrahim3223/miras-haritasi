@@ -5,10 +5,10 @@ slug: "akcakale-akcaabat"
 description: "## Akçakale: Trabzon'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.50366,41.08124"
 draft: "false"
 weight: "999"

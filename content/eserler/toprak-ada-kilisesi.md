@@ -5,10 +5,10 @@ slug: "toprak-ada-kilisesi"
 description: "## Toprak Ada Kilisesi: Ege Bölgesi'ndeki Gizemli Bir Kilise..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3665085,37.2832108"
 draft: "false"
 weight: "999"

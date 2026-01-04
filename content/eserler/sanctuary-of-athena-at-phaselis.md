@@ -5,10 +5,10 @@ slug: "sanctuary-of-athena-at-phaselis"
 description: "## Phaselis'te Athena Tapınağı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.552,36.524"
 draft: "false"
 weight: "999"

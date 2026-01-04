@@ -5,10 +5,10 @@ slug: "golluhoyuk"
 description: "### Göllühöyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.6882542,37.0040693"
 draft: "false"
 weight: "999"

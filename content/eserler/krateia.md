@@ -5,10 +5,10 @@ slug: "krateia"
 description: "## Krateia Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.1649185,40.812102"
 draft: "false"
 weight: "999"

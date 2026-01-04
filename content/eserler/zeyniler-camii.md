@@ -5,10 +5,10 @@ slug: "zeyniler-camii"
 description: "## Zeyniler Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/ZEYNİLER_CAMİSİ_-_panoramio.jpg/1200px-ZEYNİLER_CAMİSİ_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0837021,40.1807785"
 draft: "false"
 weight: "10"

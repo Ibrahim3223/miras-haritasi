@@ -5,10 +5,10 @@ slug: "seyh-hamami"
 description: "## Şeyh Hamamı: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7383537,38.0795631"
 draft: "false"
 weight: "999"

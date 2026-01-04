@@ -5,10 +5,10 @@ slug: "kizlar-agasi-hamami"
 description: "## Kızlar Ağası Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.954356,41.007861"
 draft: "false"
 weight: "999"

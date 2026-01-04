@@ -5,10 +5,10 @@ slug: "pira-kurt-koprusu"
 description: "## Pıra Kurt Köprüsü: Tarihi ve Kültürel Özellikleri..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.2399139,38.2218323"
 draft: "false"
 weight: "999"

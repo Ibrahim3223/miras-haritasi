@@ -5,10 +5,10 @@ slug: "ibrahim-dede-turbesi-mutlu-koy"
 description: "## İbrahim Dede Türbesi: Ayvalık'ta Bir Kültürel Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.767898,39.296795"
 draft: "false"
 weight: "999"

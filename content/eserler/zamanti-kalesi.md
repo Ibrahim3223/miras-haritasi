@@ -5,10 +5,10 @@ slug: "zamanti-kalesi"
 description: "## Zamantı Kalesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Pınarbaşı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.222836,38.733147"
 draft: "false"
 weight: "999"

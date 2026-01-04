@@ -5,10 +5,10 @@ slug: "ktchavavank-manastiri"
 description: "### Ktchavavank Manastırı..."
 featured_image: ""
 province: "Bahçesaray"
-iller: '["Bahçesaray"]'
+iller: ["Bahçesaray"]
 district: "Bağcılar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.783888888,38.048888888"
 draft: "false"
 weight: "999"

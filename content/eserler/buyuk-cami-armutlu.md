@@ -5,10 +5,10 @@ slug: "buyuk-cami-armutlu"
 description: "## Büyük Cami, Armutlu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5300179,38.403511"
 draft: "false"
 weight: "999"

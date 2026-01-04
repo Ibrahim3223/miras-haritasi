@@ -5,10 +5,10 @@ slug: "adilhan-koprusu"
 description: "## Adilhan Köprüsü: Gelibolu' nun Gizli Çehresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.7879868,40.6732864"
 draft: "false"
 weight: "999"

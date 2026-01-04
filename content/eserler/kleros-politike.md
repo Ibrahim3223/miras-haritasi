@@ -5,10 +5,10 @@ slug: "kleros-politike"
 description: "## Kleros Politike: Antik Çağın Bir Örneği..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.958265,38.534915"
 draft: "false"
 weight: "999"

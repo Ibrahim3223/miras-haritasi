@@ -5,10 +5,10 @@ slug: "nureddin-alparslan-turbesi-niksar"
 description: "### Nureddin Alparslan Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.964241,40.5910034"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sefik-bursali-muze-evi"
 description: "**Şefik Bursalı Müze Evi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.853217,39.884189"
 draft: "false"
 weight: "999"

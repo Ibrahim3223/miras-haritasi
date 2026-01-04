@@ -5,10 +5,10 @@ slug: "seyh-ibrahim-turbesi-alanseyhi"
 description: "## Şeyh İbrahim Türbesi, Alanşeyhi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1263428,41.1053467"
 draft: "false"
 weight: "999"

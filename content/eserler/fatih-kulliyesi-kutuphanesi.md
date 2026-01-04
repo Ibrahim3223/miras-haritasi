@@ -5,10 +5,10 @@ slug: "fatih-kulliyesi-kutuphanesi"
 description: "## Fatih Külliyesi Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.948717,41.020451"
 draft: "false"
 weight: "999"

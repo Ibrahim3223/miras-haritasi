@@ -5,10 +5,10 @@ slug: "aziziye-camii-ordu"
 description: "## Aziziye Camii, Ordu..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.8791237,40.9857903"
 draft: "false"
 weight: "999"

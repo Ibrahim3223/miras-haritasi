@@ -5,10 +5,10 @@ slug: "sogutlu-hoyuk-bayburt"
 description: "## Söğütlü Höyük: Bayburt'un Gizli Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.052061,40.217606"
 draft: "false"
 weight: "999"

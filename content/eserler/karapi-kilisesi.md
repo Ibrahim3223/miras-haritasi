@@ -5,10 +5,10 @@ slug: "karapi-kilisesi"
 description: "## Karapi Kilisesi: İspir'in Görsel İhtişamı..."
 featured_image: ""
 province: "İspir"
-iller: '["İspir"]'
+iller: ["İspir"]
 district: "Yedigöze"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.044016666,40.54685"
 draft: "false"
 weight: "999"

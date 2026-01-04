@@ -5,10 +5,10 @@ slug: "tabakhane-camii-ortahisar"
 description: "## Tabakhane Camii: Ortahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7227135,41.0051308"
 draft: "false"
 weight: "999"

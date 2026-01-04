@@ -5,10 +5,10 @@ slug: "muradiye-camii"
 description: "## Muradiye Camii: Edirne'nin Değerli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Muradiye_mosque_3468.jpg/1200px-Muradiye_mosque_3468.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5648,41.6824"
 draft: "false"
 weight: "10"

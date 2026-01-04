@@ -5,10 +5,10 @@ slug: "yesil-ada-kalesi-bozburun"
 description: "## Yeşil Ada Kalesi, Bozburun: Marmaris'in Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.0440617,36.6827393"
 draft: "false"
 weight: "999"

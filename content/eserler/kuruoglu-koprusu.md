@@ -5,10 +5,10 @@ slug: "kuruoglu-koprusu"
 description: "### Kuruoğlu Köprüsü: Manisa'nın Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.4595833,38.6926765"
 draft: "false"
 weight: "999"

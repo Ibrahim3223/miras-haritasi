@@ -5,10 +5,10 @@ slug: "buyuksofulu-tepe-kalesi"
 description: "## Büyüksofulu Tepe Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.1254997,38.9996986"
 draft: "false"
 weight: "999"

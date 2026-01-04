@@ -5,10 +5,10 @@ slug: "ii-bayezid-darussifasi"
 description: "## II. Bayezid Darüşşifası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5439529,41.6852417"
 draft: "false"
 weight: "999"

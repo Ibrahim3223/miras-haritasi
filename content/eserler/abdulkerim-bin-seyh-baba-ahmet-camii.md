@@ -5,10 +5,10 @@ slug: "abdulkerim-bin-seyh-baba-ahmet-camii"
 description: "## Abdülkerim Bin Şeyh Baba Ahmet Camii: Kaş'ın Tarihi Bir Şehri Vuran Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4335,36.2545"
 draft: "false"
 weight: "999"

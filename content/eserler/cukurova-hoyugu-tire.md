@@ -5,10 +5,10 @@ slug: "cukurova-hoyugu-tire"
 description: "## Çukurova Höyüğü: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5177002,38.0466003"
 draft: "false"
 weight: "999"

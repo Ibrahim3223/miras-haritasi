@@ -5,10 +5,10 @@ slug: "sungubayiri-sehitligi"
 description: "## Süngübayırı Şehitliği: Eceabat'ta Anıtsal Yeri..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2817574,40.2164268"
 draft: "false"
 weight: "999"

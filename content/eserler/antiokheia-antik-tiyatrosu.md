@@ -5,10 +5,10 @@ slug: "antiokheia-antik-tiyatrosu"
 description: "## Antiokheia Antik Tiyatrosu..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.18828,38.30485"
 draft: "false"
 weight: "999"

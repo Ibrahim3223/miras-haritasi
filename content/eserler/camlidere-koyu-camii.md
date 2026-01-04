@@ -5,10 +5,10 @@ slug: "camlidere-koyu-camii"
 description: "**Çamlıdere Köyü Camii: Aydın'ın Gizli Anıtı**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4314003,37.6078987"
 draft: "false"
 weight: "999"

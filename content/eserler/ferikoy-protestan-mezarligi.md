@@ -5,10 +5,10 @@ slug: "ferikoy-protestan-mezarligi"
 description: "## Feriköy Protestan Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Main_gate_of_Feriköy_Protestant_Cemetery.jpg/1200px-Main_gate_of_Feriköy_Protestant_Cemetery.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.983889,41.053889"
 draft: "false"
 weight: "10"

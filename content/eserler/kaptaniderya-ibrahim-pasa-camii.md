@@ -5,10 +5,10 @@ slug: "kaptaniderya-ibrahim-pasa-camii"
 description: "### Kaptanıderya İbrahim Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Kaptan_Ibrahim_Pasha_Mosque_1204.jpg/1200px-Kaptan_Ibrahim_Pasha_Mosque_1204.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.962305555,41.012805555"
 draft: "false"
 weight: "10"

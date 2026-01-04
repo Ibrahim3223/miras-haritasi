@@ -5,10 +5,10 @@ slug: "edirnekapi-deniz-sehitligi"
 description: "## Edirnekapı Deniz Şehitliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9263897,41.0337448"
 draft: "false"
 weight: "999"

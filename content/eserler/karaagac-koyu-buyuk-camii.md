@@ -5,10 +5,10 @@ slug: "karaagac-koyu-buyuk-camii"
 description: "### Karaağaç Köyü Büyük Camii..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1528339,40.2314224"
 draft: "false"
 weight: "999"

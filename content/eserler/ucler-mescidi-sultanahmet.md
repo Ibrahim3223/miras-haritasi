@@ -5,10 +5,10 @@ slug: "ucler-mescidi-sultanahmet"
 description: "**Üçler Mescidi, Sultanahmet**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9743156,41.0055275"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahi-celebi-hamami"
 description: "## Ahi Çelebi Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5551548,41.6773262"
 draft: "false"
 weight: "999"

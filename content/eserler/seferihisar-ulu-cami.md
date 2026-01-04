@@ -5,10 +5,10 @@ slug: "seferihisar-ulu-cami"
 description: "## Seferihisar Ulu Cami: İzmir'in Tarihi Bir Çaprazı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8374004,38.1964989"
 draft: "false"
 weight: "999"

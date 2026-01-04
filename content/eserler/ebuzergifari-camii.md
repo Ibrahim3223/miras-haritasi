@@ -5,10 +5,10 @@ slug: "ebuzergifari-camii"
 description: "## Ebu Zer Gifari Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.942953,41.037706"
 draft: "false"
 weight: "999"

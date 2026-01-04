@@ -5,10 +5,10 @@ slug: "aksaray-muzesi"
 description: "### Aksaray Müzesi: Türkiye'nin Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Aksaray_Museum01.jpg/1200px-Aksaray_Museum01.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.993611111,38.361111111"
 draft: "false"
 weight: "10"

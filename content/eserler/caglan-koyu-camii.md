@@ -5,10 +5,10 @@ slug: "caglan-koyu-camii"
 description: "### Çağlan Köyü Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.013184,39.132389"
 draft: "false"
 weight: "999"

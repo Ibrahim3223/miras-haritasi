@@ -5,10 +5,10 @@ slug: "yildirim-camii-balikesir"
 description: "### Yıldırım Camii: Balıkesir'deki Önemli Bir Cami Mirası..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8831234,39.650341"
 draft: "false"
 weight: "999"

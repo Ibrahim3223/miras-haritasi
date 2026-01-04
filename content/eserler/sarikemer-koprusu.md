@@ -5,10 +5,10 @@ slug: "sarikemer-koprusu"
 description: "## Sarıkemer Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.371119,37.563667"
 draft: "false"
 weight: "999"

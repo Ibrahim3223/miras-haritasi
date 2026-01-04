@@ -5,10 +5,10 @@ slug: "carcaranits-manastiri"
 description: "## Çarçaranits Manastırı: Erzurum Vilayeti'nin Gizli Çehresini Açıklamaya Değer Bir Miras..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.6969299,39.5833282"
 draft: "false"
 weight: "999"

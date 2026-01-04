@@ -5,10 +5,10 @@ slug: "akyaka-kalesi"
 description: "# Akyaka Kalesi: Muğla'nın Gizli Çehresindeki Bir Harikadır..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.3400269,37.0557404"
 draft: "false"
 weight: "999"

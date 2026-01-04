@@ -5,10 +5,10 @@ slug: "karabucak-mozolesi"
 description: "# Karabucak Mozolesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9681263,36.2523308"
 draft: "false"
 weight: "999"

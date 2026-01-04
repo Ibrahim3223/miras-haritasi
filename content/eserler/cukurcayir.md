@@ -5,10 +5,10 @@ slug: "cukurcayir"
 description: "### Çukurçayır Arkeolojik Siti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.572217,41.731292"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yumratepe-tumulusu"
 description: "# Yumratepe Tümülüsü: Aydın'ın Gizemli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6599007,37.7201004"
 draft: "false"
 weight: "999"

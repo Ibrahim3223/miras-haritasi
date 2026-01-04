@@ -5,10 +5,10 @@ slug: "the-nek-mezarligi"
 description: "## The Nek Mezarlığı: Eceabat'ta Bir Savaşın Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/The_Nek_Cemetery.jpg/1200px-The_Nek_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.29035,40.24233"
 draft: "false"
 weight: "10"

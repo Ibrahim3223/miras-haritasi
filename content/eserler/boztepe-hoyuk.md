@@ -5,10 +5,10 @@ slug: "boztepe-hoyuk"
 description: "### Boztepe Höyük: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9938011,36.769455"
 draft: "false"
 weight: "999"

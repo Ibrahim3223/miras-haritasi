@@ -5,10 +5,10 @@ slug: "tarla-hoyuk"
 description: "## Tarla Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.5447574,39.4108698"
 draft: "false"
 weight: "999"

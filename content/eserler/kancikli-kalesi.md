@@ -5,10 +5,10 @@ slug: "kancikli-kalesi"
 description: "## Kancıklı Kalesi..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Patnos"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.006279,39.2193565"
 draft: "false"
 weight: "999"

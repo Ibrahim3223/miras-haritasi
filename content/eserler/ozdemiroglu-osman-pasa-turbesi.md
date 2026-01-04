@@ -5,10 +5,10 @@ slug: "ozdemiroglu-osman-pasa-turbesi"
 description: "## Özdemiroğlu Osman Paşa Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2417603,37.9115982"
 draft: "false"
 weight: "999"

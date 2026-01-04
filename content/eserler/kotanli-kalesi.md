@@ -5,10 +5,10 @@ slug: "kotanli-kalesi"
 description: "## Kotanlı Kalesi: Ardahan'ın Gizli Çehresini Tanıtan Bir Ölümsüz..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.044338,41.154037"
 draft: "false"
 weight: "999"

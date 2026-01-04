@@ -5,10 +5,10 @@ slug: "selimpasa-hoyugu-silivri"
 description: "### Selimpaşa Höyüğü: Silivri'nin Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3416348,41.0592995"
 draft: "false"
 weight: "999"

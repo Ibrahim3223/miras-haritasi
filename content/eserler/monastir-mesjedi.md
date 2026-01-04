@@ -5,10 +5,10 @@ slug: "monastir-mesjedi"
 description: "### Monastir Mesjedi: İstanbul'un Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

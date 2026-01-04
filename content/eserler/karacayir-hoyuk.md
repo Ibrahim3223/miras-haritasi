@@ -5,10 +5,10 @@ slug: "karacayir-hoyuk"
 description: "## Karaçayır Höyük: Kültürel Mirasın Gizli Yerleri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.656525,39.2369276"
 draft: "false"
 weight: "999"

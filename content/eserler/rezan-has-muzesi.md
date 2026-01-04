@@ -5,10 +5,10 @@ slug: "rezan-has-muzesi"
 description: "## Rezan Has Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/ESERLER.jpg/1200px-ESERLER.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.95969,41.02401"
 draft: "false"
 weight: "10"

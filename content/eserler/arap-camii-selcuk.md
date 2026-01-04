@@ -5,10 +5,10 @@ slug: "arap-camii-selcuk"
 description: "### Arap Camii (Selçuk)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1781158,39.1225357"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sibyla"
 description: "## Sibyla: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.4662,36.713385"
 draft: "false"
 weight: "999"

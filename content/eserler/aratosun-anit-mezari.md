@@ -5,10 +5,10 @@ slug: "aratosun-anit-mezari"
 description: "## Aratos’un Anıt Mezarı: Mersin’in Tarihi Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mezitli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.539969,36.745626"
 draft: "false"
 weight: "999"

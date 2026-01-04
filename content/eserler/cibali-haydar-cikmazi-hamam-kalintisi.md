@@ -5,10 +5,10 @@ slug: "cibali-haydar-cikmazi-hamam-kalintisi"
 description: "## Cibali Haydar Çıkmazı Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9569569,41.0247688"
 draft: "false"
 weight: "999"

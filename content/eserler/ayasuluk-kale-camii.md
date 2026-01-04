@@ -5,10 +5,10 @@ slug: "ayasuluk-kale-camii"
 description: "## Ayasuluk Kale Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3680687,37.9553146"
 draft: "false"
 weight: "999"

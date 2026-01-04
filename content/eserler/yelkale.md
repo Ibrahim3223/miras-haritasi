@@ -5,10 +5,10 @@ slug: "yelkale"
 description: "### Yelkale: Erdemli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.1247482,37.0208321"
 draft: "false"
 weight: "999"

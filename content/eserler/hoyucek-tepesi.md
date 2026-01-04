@@ -5,10 +5,10 @@ slug: "hoyucek-tepesi"
 description: "### Höyücek Tepesi: Bandırma'nın Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.856388888,40.276388888"
 draft: "false"
 weight: "999"

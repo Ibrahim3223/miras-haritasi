@@ -5,10 +5,10 @@ slug: "nysa-hamami"
 description: "### Nysa Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.1436157,37.899334"
 draft: "false"
 weight: "999"

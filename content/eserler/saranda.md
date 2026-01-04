@@ -5,10 +5,10 @@ slug: "saranda"
 description: "### Muğla'nın Gizli Cenneti: Saranda Arkeolojik Sit..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Muğla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.10694,36.65475"
 draft: "false"
 weight: "999"

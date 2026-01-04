@@ -5,10 +5,10 @@ slug: "alemdar-baba-kabri"
 description: "## Alemdar Baba Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9754429,41.008194"
 draft: "false"
 weight: "999"

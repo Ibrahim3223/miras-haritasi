@@ -5,10 +5,10 @@ slug: "limyra"
 description: "## Limyra: Antik Kentin Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bridge_near_Limyra._Pic_04.jpg/1200px-Bridge_near_Limyra._Pic_04.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1705,36.342806"
 draft: "false"
 weight: "10"

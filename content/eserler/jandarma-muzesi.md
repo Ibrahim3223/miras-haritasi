@@ -5,10 +5,10 @@ slug: "jandarma-muzesi"
 description: "## Jandarma Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jandarma_Müzesi.jpg/1200px-Jandarma_Müzesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.751628,39.842665"
 draft: "false"
 weight: "10"

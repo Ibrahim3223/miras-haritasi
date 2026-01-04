@@ -5,10 +5,10 @@ slug: "kale-kalintisi-akhisar-koyu-gumushane"
 description: "## Kale Kalıntısı, Akhisar Köyü, Gümüşhane: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.83976,40.437268"
 draft: "false"
 weight: "999"

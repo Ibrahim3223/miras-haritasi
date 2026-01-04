@@ -5,10 +5,10 @@ slug: "bergama-kutuphanesi"
 description: "## Bergama Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Modell_Pergamonmuseum_Athenaheiligtum.jpg/1200px-Modell_Pergamonmuseum_Athenaheiligtum.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.1842,39.1325"
 draft: "false"
 weight: "10"

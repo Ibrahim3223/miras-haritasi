@@ -5,10 +5,10 @@ slug: "sokmen-koyu-camii"
 description: "## Sökmen Köyü Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.630987,40.056464"
 draft: "false"
 weight: "999"

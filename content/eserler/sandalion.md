@@ -5,10 +5,10 @@ slug: "sandalion"
 description: "### Sandalion: Isparta'nın Eski Çağ Tarihçesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.75718,37.65214"
 draft: "false"
 weight: "999"

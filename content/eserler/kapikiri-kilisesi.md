@@ -5,10 +5,10 @@ slug: "kapikiri-kilisesi"
 description: "# Kapıkırı Kilisesi: Milas'ta Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.5209122,37.5005379"
 draft: "false"
 weight: "999"

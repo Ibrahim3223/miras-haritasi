@@ -5,10 +5,10 @@ slug: "ardic-merkez-camii"
 description: "## Ardıç Merkez Camii: Ayvacık'ta Bir Tarihi Miras..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.6225014,40.9207993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gogceli-camii"
 description: "### Göğceli Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Göğceli_Camii.JPG/1200px-Göğceli_Camii.JPG"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Çarşamba"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.743194444,41.198111111"
 draft: "false"
 weight: "10"

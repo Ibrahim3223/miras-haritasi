@@ -5,10 +5,10 @@ slug: "gaziantep-devlet-tiyatrosu"
 description: "## Gaziantep Devlet Tiyatrosu: Bir Antik Tiyatro Tarihçesindeki Özellikleri ve Önemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "duz-mahallesi-kilisesi"
 description: "## Düz Mahallesi Kilisesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.876006,40.986645"
 draft: "false"
 weight: "999"

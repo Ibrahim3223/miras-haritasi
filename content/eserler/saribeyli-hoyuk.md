@@ -5,10 +5,10 @@ slug: "saribeyli-hoyuk"
 description: "## Sarıbeyli Höyük: Denizli'nin Gizli Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.661083,38.178783"
 draft: "false"
 weight: "999"

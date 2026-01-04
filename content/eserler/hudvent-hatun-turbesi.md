@@ -5,10 +5,10 @@ slug: "hudvent-hatun-turbesi"
 description: "## Hüdâvent Hatun Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hüdâvend_Hatun_Kümbeti.jpg/1200px-Hüdâvend_Hatun_Kümbeti.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2784462,39.9052277"
 draft: "false"
 weight: "999"

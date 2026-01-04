@@ -5,10 +5,10 @@ slug: "sutansuyu-koprusu"
 description: "### Sutansuyu Köprüsü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.0616989,38.3384514"
 draft: "false"
 weight: "999"

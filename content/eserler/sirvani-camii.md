@@ -5,10 +5,10 @@ slug: "sirvani-camii"
 description: "### Şirvani Camii: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gaziantep_Şirvani_Cami_4471.jpg/1200px-Gaziantep_Şirvani_Cami_4471.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.38166667,37.06583333"
 draft: "false"
 weight: "10"

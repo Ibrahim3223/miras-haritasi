@@ -5,10 +5,10 @@ slug: "nevres-aga-kabri"
 description: "## Nevres Ağa Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9579067,41.0191956"
 draft: "false"
 weight: "999"

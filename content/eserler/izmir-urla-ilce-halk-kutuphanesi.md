@@ -5,10 +5,10 @@ slug: "izmir-urla-ilce-halk-kutuphanesi"
 description: "## İzmir Urla İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "26.767055555,38.329055555"
 draft: "false"
 weight: "999"

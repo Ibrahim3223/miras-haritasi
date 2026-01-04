@@ -5,10 +5,10 @@ slug: "seyyid-mehmed-haydar-dede-turbesi"
 description: "## Seyyid Mehmed Haydar Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Seyyid_Mehmed_Haydar_Dede_Türbesi,_Fatih,_İstanbul_2025.jpg/1200px-Seyyid_Mehmed_Haydar_Dede_Türbesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.921505,41.006137"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "egri-hoyuk"
 description: "# Eğri Höyük..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Çayıralan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.518541336,39.349985747"
 draft: "false"
 weight: "999"

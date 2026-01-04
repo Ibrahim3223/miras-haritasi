@@ -5,10 +5,10 @@ slug: "misir-carsisi-balik-pazari-kapisi"
 description: "# Mısır Çarşısı Balık Pazarı Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Spice_Bazaar_-1.jpg/1200px-Spice_Bazaar_-1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.971175,41.017168"
 draft: "false"
 weight: "10"

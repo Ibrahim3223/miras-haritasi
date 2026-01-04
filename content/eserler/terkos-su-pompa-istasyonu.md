@@ -5,10 +5,10 @@ slug: "terkos-su-pompa-istasyonu"
 description: "## Terkos Su Pompa İstasyonu: İstanbul'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.6733265,41.3008041"
 draft: "false"
 weight: "999"

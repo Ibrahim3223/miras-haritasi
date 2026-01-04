@@ -5,10 +5,10 @@ slug: "posof-border-border-post"
 description: "## Posof Sınır Kapısı: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "42.8184843,41.587715597"
 draft: "false"
 weight: "999"

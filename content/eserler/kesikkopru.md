@@ -5,10 +5,10 @@ slug: "kesikkopru"
 description: "## Kesikköprü: Kırşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Kesikköprü_Bridge_-_Kırşehir_-_panoramio.jpg/1200px-Kesikköprü_Bridge_-_Kırşehir_-_panoramio.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.1991741,38.9604995"
 draft: "false"
 weight: "10"

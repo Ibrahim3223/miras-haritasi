@@ -5,10 +5,10 @@ slug: "sinyaro-sinagogu"
 description: "## Sinyaro Sinagogu: Beyoğlu'ndaki Eski Bir Sinagogun Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.951472222,41.040666666"
 draft: "false"
 weight: "999"

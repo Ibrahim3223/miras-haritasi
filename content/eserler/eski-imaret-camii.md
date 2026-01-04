@@ -5,10 +5,10 @@ slug: "eski-imaret-camii"
 description: "### Eski İmaret Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/EskiImaretCamii20070531_03.jpg/1200px-EskiImaretCamii20070531_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.955,41.02166667"
 draft: "false"
 weight: "10"

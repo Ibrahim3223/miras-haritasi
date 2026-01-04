@@ -5,10 +5,10 @@ slug: "uyuk-golpazari"
 description: "## Üyük Anıtı: Gölpazarı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Gölpazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.109741,40.249765"
 draft: "false"
 weight: "999"

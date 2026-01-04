@@ -5,10 +5,10 @@ slug: "karakilicli-koyu-camii"
 description: "## Karakılıçlı Köyü Camii: Manisa'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3432007,38.775238"
 draft: "false"
 weight: "999"

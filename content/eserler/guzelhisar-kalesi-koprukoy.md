@@ -5,10 +5,10 @@ slug: "guzelhisar-kalesi-koprukoy"
 description: "## Güzelhisar Kalesi, Köprüköy..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Köprüköy"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.982772222,39.830044444"
 draft: "false"
 weight: "999"

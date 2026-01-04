@@ -5,10 +5,10 @@ slug: "sarampol-camii"
 description: "## Şarampol Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7019691,36.8943748"
 draft: "false"
 weight: "999"

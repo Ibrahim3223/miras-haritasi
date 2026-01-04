@@ -5,10 +5,10 @@ slug: "selimiye-camii-bergama"
 description: "## Selimiye Camii (Bergama)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1734943,39.1184044"
 draft: "false"
 weight: "1"

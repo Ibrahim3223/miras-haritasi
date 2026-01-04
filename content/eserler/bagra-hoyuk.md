@@ -5,10 +5,10 @@ slug: "bagra-hoyuk"
 description: "## Bağra Höyük: Seydişehir'in Gizli Güzelliği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.9856262,37.3897972"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "masumiyet-muzesi"
 description: "## Masumiyet Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/The_Museum_of_Innocence.jpg/1200px-The_Museum_of_Innocence.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97982222,41.03093056"
 draft: "false"
 weight: "10"

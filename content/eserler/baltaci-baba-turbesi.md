@@ -5,10 +5,10 @@ slug: "baltaci-baba-turbesi"
 description: "## Baltacı Baba Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.785834,37.156895"
 draft: "false"
 weight: "999"

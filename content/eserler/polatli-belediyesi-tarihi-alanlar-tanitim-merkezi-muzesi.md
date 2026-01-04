@@ -5,10 +5,10 @@ slug: "polatli-belediyesi-tarihi-alanlar-tanitim-merkezi-muzesi"
 description: "## Polatlı Belediyesi Tarihi Alanlar Tanıtım Merkezi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.146012311,39.577348988"
 draft: "false"
 weight: "999"

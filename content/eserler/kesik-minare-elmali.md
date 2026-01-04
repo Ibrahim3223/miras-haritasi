@@ -5,10 +5,10 @@ slug: "kesik-minare-elmali"
 description: "# Kesik Minare, Elmalı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9133453,36.7431412"
 draft: "false"
 weight: "999"

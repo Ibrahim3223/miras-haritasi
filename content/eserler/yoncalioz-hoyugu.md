@@ -5,10 +5,10 @@ slug: "yoncalioz-hoyugu"
 description: "## Yoncalıöz Höyüğü: Tarih ve Kültür Mirasının Gizemli Yerleri..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.3480263,38.8686371"
 draft: "false"
 weight: "999"

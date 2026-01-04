@@ -5,10 +5,10 @@ slug: "dedekuyusu-hoyugu"
 description: "## Dedekuyusu Höyüğü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.809233356,37.858084706"
 draft: "false"
 weight: "999"

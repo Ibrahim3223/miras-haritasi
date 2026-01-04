@@ -5,10 +5,10 @@ slug: "kaman-kalehoyuk"
 description: "## Kaman Kalehöyük: Türkiye'nin Gizli Çanakkale'si..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kaman-Kalehöyük1.JPG/1200px-Kaman-Kalehöyük1.JPG"
 province: "Kaman (ilçe)"
-iller: '["Kaman (ilçe)"]'
+iller: ["Kaman (ilçe)"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.786714,39.362854"
 draft: "false"
 weight: "10"

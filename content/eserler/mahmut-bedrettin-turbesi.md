@@ -5,10 +5,10 @@ slug: "mahmut-bedrettin-turbesi"
 description: "## Mahmut Bedrettin Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.937354,41.021839"
 draft: "false"
 weight: "999"

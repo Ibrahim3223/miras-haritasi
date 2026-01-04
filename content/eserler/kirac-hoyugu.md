@@ -5,10 +5,10 @@ slug: "kirac-hoyugu"
 description: "### Kıraç Höyüğü: Aksaray'ın Gizli Ören Yeri..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1869398,38.764196"
 draft: "false"
 weight: "999"

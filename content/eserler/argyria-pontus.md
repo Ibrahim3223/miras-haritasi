@@ -5,10 +5,10 @@ slug: "argyria-pontus"
 description: "### Argyria (Pontus): Antik Dönemin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.869903,41.005623"
 draft: "false"
 weight: "999"

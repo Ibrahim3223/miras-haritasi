@@ -5,10 +5,10 @@ slug: "orhaniye-kislasi-camii"
 description: "### Orhaniye Kışlası Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.017527777,41.052305555"
 draft: "false"
 weight: "999"

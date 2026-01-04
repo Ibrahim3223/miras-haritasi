@@ -5,10 +5,10 @@ slug: "alexandria-troas-koprusu"
 description: "## Alexandria Troas Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.1297248,39.5775027"
 draft: "false"
 weight: "999"

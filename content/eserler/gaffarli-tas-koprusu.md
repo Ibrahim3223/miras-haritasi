@@ -5,10 +5,10 @@ slug: "gaffarli-tas-koprusu"
 description: "## Gaffarlı Taş Köprüsü: Sumbas'taki Eski Şehrinin Gizemi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Sumbas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.0232849,37.4988022"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sabanin-hoyukleri-2-tumulusu"
 description: "## Şabanın Höyükleri 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2619133,42.017807"
 draft: "false"
 weight: "999"

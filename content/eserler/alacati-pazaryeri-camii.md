@@ -5,10 +5,10 @@ slug: "alacati-pazaryeri-camii"
 description: "# Alaçatı Pazaryeri Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Alaçatı_Pazaryeri_Camii_(Ayios_Konstantinos_Rum_Kilisesi).jpg/1200px-Alaçatı_Pazaryeri_Camii_(Ayios_Konstantinos_Rum_Kilisesi).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.37525,38.283666666"
 draft: "false"
 weight: "10"

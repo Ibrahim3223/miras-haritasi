@@ -5,10 +5,10 @@ slug: "kamuran-gazi-turbesi"
 description: "## Kamuran Gazi Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1725788,39.9280396"
 draft: "false"
 weight: "999"

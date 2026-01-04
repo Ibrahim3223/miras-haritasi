@@ -5,10 +5,10 @@ slug: "ak-medrese"
 description: "## Ak Medrese: Niğde'de Bir Geç Klasik Dönem Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/01/Ni%C4%9Fde_Ak_Medrese_046.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.674881,37.9664726"
 draft: "false"
 weight: "999"

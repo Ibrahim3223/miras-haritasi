@@ -5,10 +5,10 @@ slug: "kucuk-ayasofya-mescidi-aksehir"
 description: "## Küçük Ayasofya Mescidi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.4094296,38.3566895"
 draft: "false"
 weight: "1"

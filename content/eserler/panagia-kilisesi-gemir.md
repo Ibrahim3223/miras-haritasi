@@ -5,10 +5,10 @@ slug: "panagia-kilisesi-gemir"
 description: "## Panagia Kilisesi (Gemir)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Germir_panagia_kilisesi.jpg/1200px-Germir_panagia_kilisesi.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.560762,38.737003"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "uryan-baba-turbesi"
 description: "### Üryan Baba Türbesi: Seyitgazi'nin Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.734349,39.495649"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alacali-koprusu"
 description: "### Alacalı Köprüsü..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Doğubayazıt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "44.1572952,39.5677528"
 draft: "false"
 weight: "999"

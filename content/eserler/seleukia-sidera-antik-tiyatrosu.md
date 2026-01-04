@@ -5,10 +5,10 @@ slug: "seleukia-sidera-antik-tiyatrosu"
 description: "# Seleukia Sidera Antik Tiyatrosu..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.621775293,37.89903013"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esat-muhlis-camii"
 description: "## Esat Muhlis Camii..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Refahiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7675896,39.8997993"
 draft: "false"
 weight: "999"

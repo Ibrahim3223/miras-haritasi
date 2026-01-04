@@ -5,10 +5,10 @@ slug: "kocapinar-koyu-kilisesi"
 description: "## Kocapınar Köyü Kilisesi: Gümüşhane'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.596656,40.476909"
 draft: "false"
 weight: "999"

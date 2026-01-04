@@ -5,10 +5,10 @@ slug: "cardak-yeralti-sehri"
 description: "## Çardak Yeraltı Şehri: Türkiye'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/J22_281_Çardak,_Wohnraum.jpg/1200px-J22_281_Çardak,_Wohnraum.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7679903,38.5511539"
 draft: "false"
 weight: "10"

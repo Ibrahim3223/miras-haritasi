@@ -5,10 +5,10 @@ slug: "aci-hamam"
 description: "## Acı Hamam: Fatih'te Bir Tarihi Hamamın Gizemleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.975496,41.008409"
 draft: "false"
 weight: "999"

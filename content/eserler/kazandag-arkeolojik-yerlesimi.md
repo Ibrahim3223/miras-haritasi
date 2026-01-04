@@ -5,10 +5,10 @@ slug: "kazandag-arkeolojik-yerlesimi"
 description: "## Kazandağ Arkeolojik Yerleşimi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karpuzlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8197002,37.5685005"
 draft: "false"
 weight: "999"

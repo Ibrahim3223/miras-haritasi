@@ -5,10 +5,10 @@ slug: "gelibolu-savas-muzesi"
 description: "**Gelibolu Savaş Müzesi: Çanakkale'nin Kahramanlık Evi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Gallipoli_War_Museum.jpg/1200px-Gallipoli_War_Museum.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.668055555,40.406666666"
 draft: "false"
 weight: "10"

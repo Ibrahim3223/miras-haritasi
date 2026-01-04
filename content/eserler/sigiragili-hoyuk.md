@@ -5,10 +5,10 @@ slug: "sigiragili-hoyuk"
 description: "# Sığırağılı Höyük: Tarihçenin Gözbebeği..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3674928,39.349461"
 draft: "false"
 weight: "999"

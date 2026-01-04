@@ -5,10 +5,10 @@ slug: "bocu-inleri-kilisesi"
 description: "# Böcü İnleri Kilisesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.69509,39.0455506"
 draft: "false"
 weight: "999"

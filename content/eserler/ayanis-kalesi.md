@@ -5,10 +5,10 @@ slug: "ayanis-kalesi"
 description: "## Ayanis Kalesi: Van'ın Gizemli Yüzyılları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Toprah-Kale.jpg/1200px-Toprah-Kale.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Tuşba"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.21118,38.70827"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kasim-pasa-hamami"
 description: "### Kasım Paşa Hamamı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.0364227,39.9059601"
 draft: "false"
 weight: "999"

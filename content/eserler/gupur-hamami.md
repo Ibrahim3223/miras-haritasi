@@ -5,10 +5,10 @@ slug: "gupur-hamami"
 description: "## Güpür Hamamı: Çorum'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.9534264,40.5512009"
 draft: "false"
 weight: "999"

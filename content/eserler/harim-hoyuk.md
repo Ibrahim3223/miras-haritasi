@@ -5,10 +5,10 @@ slug: "harim-hoyuk"
 description: "## Harım Höyük: Mucur'un Tarihî Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4532645,39.0418112"
 draft: "false"
 weight: "999"

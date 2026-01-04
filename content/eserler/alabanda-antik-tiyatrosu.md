@@ -5,10 +5,10 @@ slug: "alabanda-antik-tiyatrosu"
 description: "### Alabanda Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.985177,37.59176"
 draft: "false"
 weight: "999"

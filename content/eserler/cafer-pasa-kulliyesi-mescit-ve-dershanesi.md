@@ -5,10 +5,10 @@ slug: "cafer-pasa-kulliyesi-mescit-ve-dershanesi"
 description: "## Cafer Paşa Külliyesi Mescit ve Dershanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.934782,41.046534"
 draft: "false"
 weight: "999"

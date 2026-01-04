@@ -5,10 +5,10 @@ slug: "gedik-ahmet-pasa-medresesi"
 description: "### Gedik Ahmet Paşa Medresesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.5405598,38.7528954"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kumtepe-hoyugu"
 description: "**Kumtepe Höyüğü: Çanakkale'nin Gizli Mirası**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

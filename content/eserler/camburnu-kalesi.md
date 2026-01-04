@@ -5,10 +5,10 @@ slug: "camburnu-kalesi"
 description: "## Çamburnu Kalesi: Eceabat'ın Gizli Şehri..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.369205,40.169811"
 draft: "false"
 weight: "999"

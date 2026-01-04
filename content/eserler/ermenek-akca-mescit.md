@@ -5,10 +5,10 @@ slug: "ermenek-akca-mescit"
 description: "### Ermenek Akça Mescit: Karaman'ın Gizli Çehresinde Bir Cami..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8874435,36.6411934"
 draft: "false"
 weight: "999"

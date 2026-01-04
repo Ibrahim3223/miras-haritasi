@@ -5,10 +5,10 @@ slug: "belevi-anit-mezari"
 description: "## Belevi Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Belevi1.jpg/1200px-Belevi1.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.472138888,38.01475"
 draft: "false"
 weight: "10"

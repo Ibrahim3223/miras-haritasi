@@ -5,10 +5,10 @@ slug: "erzurum-boyahane-camii"
 description: "# Erzurum Boyahane Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Erzurum_Boyahane_Camii.jpg/1200px-Erzurum_Boyahane_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.272222222,39.908027777"
 draft: "false"
 weight: "10"

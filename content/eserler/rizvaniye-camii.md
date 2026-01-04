@@ -5,10 +5,10 @@ slug: "rizvaniye-camii"
 description: "## Rızvaniye Camii: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.784916666,37.147722222"
 draft: "false"
 weight: "999"

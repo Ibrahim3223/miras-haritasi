@@ -5,10 +5,10 @@ slug: "bodrum-koprusu"
 description: "## Bodrum Köprüsü: Bergama'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Pergamon_bridge.jpg/1200px-Pergamon_bridge.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.182674,39.121575"
 draft: "false"
 weight: "10"

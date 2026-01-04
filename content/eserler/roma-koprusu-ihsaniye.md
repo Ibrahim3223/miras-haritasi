@@ -5,10 +5,10 @@ slug: "roma-koprusu-ihsaniye"
 description: "## Roma Köprüsü, İhsaniye..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: '["Akdeniz Bölgesi"]'
+iller: ["Akdeniz Bölgesi"]
 district: "Aksu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.84483,36.9797271"
 draft: "false"
 weight: "999"

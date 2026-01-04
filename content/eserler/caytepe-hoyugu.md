@@ -5,10 +5,10 @@ slug: "caytepe-hoyugu"
 description: "## Çaytepe Höyüğü: Diyarbakır'ın Kutsal Yerleri Arasındaki Gizemli Yer..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Kocaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.5080258,38.2115336"
 draft: "false"
 weight: "999"

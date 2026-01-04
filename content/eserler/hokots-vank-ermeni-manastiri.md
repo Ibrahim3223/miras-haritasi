@@ -5,10 +5,10 @@ slug: "hokots-vank-ermeni-manastiri"
 description: "## Hokots Vank Ermeni Manastırı..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.4042809,38.0994112"
 draft: "false"
 weight: "999"

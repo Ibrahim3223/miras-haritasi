@@ -5,10 +5,10 @@ slug: "seyh-mesud-turbesi"
 description: "### Şeyh Mesud Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.782956,37.1399533"
 draft: "false"
 weight: "999"

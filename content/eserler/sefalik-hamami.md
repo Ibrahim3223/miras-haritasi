@@ -5,10 +5,10 @@ slug: "sefalik-hamami"
 description: "## Sefalık Hamamı..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Aybastı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.42209,40.681225"
 draft: "false"
 weight: "999"

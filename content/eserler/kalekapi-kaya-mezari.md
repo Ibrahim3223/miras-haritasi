@@ -5,10 +5,10 @@ slug: "kalekapi-kaya-mezari"
 description: "## Kalekapı Kaya Mezarı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.0904922,41.5655708"
 draft: "false"
 weight: "999"

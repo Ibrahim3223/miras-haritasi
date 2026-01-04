@@ -5,10 +5,10 @@ slug: "seyh-tennuri-turbesi"
 description: "**Şeyh Tennuri Türbesi**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4896698,38.7182159"
 draft: "false"
 weight: "999"

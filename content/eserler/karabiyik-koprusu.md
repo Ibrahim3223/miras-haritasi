@@ -5,10 +5,10 @@ slug: "karabiyik-koprusu"
 description: "## Karabıyık Köprüsü..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.0000458,39.5801392"
 draft: "false"
 weight: "999"

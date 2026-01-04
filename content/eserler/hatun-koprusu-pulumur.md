@@ -5,10 +5,10 @@ slug: "hatun-koprusu-pulumur"
 description: "## Hatun Köprüsü: Pülümür'un Eski Bir Mirası..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Pülümür"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9076881,39.4711876"
 draft: "false"
 weight: "999"

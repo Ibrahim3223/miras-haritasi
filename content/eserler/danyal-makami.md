@@ -5,10 +5,10 @@ slug: "danyal-makami"
 description: "## Danyal Makamı: Tarsus'un Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ruins_in_the_basement_of_Danyal's_mosque.jpg/1200px-Ruins_in_the_basement_of_Danyal's_mosque.jpg"
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.897344,36.917139"
 draft: "false"
 weight: "10"

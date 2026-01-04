@@ -5,10 +5,10 @@ slug: "cavuszade-camii"
 description: "## Çavuşzade Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9408684,41.0046806"
 draft: "false"
 weight: "999"

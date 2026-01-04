@@ -5,10 +5,10 @@ slug: "orta-camii"
 description: "## Orta Camii: Sakarya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.4014606,40.7796021"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yedikule-kapisi"
 description: "## Yedikule Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Yedikule_Kapısı1,_Fatih,_İstanbul_2025.jpg/1200px-Yedikule_Kapısı1,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.922119,40.994019"
 draft: "false"
 weight: "10"

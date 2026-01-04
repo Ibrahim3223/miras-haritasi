@@ -5,10 +5,10 @@ slug: "kocayazi-parasuttepe-1-tumulusu"
 description: "### Kocayazı Paraşuttepe 1 Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2093334,41.9693146"
 draft: "false"
 weight: "999"

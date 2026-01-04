@@ -5,10 +5,10 @@ slug: "sultan-iii-murat-turbesi"
 description: "## Sultan III. Murat Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9793667,41.0078784"
 draft: "false"
 weight: "999"

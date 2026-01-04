@@ -5,10 +5,10 @@ slug: "ataturk-kongre-ve-etnografya-muzesi"
 description: "#### Atatürk Kongre ve Etnoğrafya Müzesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.01371,39.7496758"
 draft: "false"
 weight: "999"

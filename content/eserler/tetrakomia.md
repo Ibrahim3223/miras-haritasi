@@ -5,10 +5,10 @@ slug: "tetrakomia"
 description: "## Tetrakomia: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.47451,40.514307"
 draft: "false"
 weight: "999"

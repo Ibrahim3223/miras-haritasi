@@ -5,10 +5,10 @@ slug: "cifte-kardesler-turbesi"
 description: "## Çifte Kardeşler Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2875612,39.9056647"
 draft: "false"
 weight: "999"

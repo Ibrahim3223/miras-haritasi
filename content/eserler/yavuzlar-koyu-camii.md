@@ -5,10 +5,10 @@ slug: "yavuzlar-koyu-camii"
 description: "### Yavuzlar Köyü Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.834938517,41.082265847"
 draft: "false"
 weight: "999"

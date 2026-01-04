@@ -5,10 +5,10 @@ slug: "balkan-2-tumulusu"
 description: "## Balkan 2 Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8436756,41.7422752"
 draft: "false"
 weight: "999"

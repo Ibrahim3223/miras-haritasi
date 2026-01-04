@@ -5,10 +5,10 @@ slug: "isa-sofi-turbesi"
 description: "### İsa Sofi Türbesi: Sakarya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2168121,40.0443535"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cekirge-sultan-adak-hamami"
 description: "# Çekirge Sultan Adak Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0178213,40.2011867"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ortakoy-kilise-camii"
 description: "## Ortaköy Kilise Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.982916666,41.249027777"
 draft: "false"
 weight: "999"

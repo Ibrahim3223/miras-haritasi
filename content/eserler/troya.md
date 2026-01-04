@@ -5,10 +5,10 @@ slug: "troya"
 description: "## Troya..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Walls_of_Troy_(2).jpg/1200px-Walls_of_Troy_(2).jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.238888888,39.9575"
 draft: "false"
 weight: "10"

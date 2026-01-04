@@ -5,10 +5,10 @@ slug: "yarbay-huseyin-avni-bey-sehitligi"
 description: "## Yarbay Hüseyin Avni Bey Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2940998,40.2328529"
 draft: "false"
 weight: "999"

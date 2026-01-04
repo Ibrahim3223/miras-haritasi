@@ -5,10 +5,10 @@ slug: "hafsa-sultan-camii"
 description: "**Hafsa Sultan Camii: Manisa'nın Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/IzManisaS01.jpg/1200px-IzManisaS01.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.427305555,38.610638888"
 draft: "false"
 weight: "10"

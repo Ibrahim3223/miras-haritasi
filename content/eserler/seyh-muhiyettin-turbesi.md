@@ -5,10 +5,10 @@ slug: "seyh-muhiyettin-turbesi"
 description: "**Hasankeyf'in Gizemi: Şeyh Muhiyettin Türbesi**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.4087677,37.7112885"
 draft: "false"
 weight: "999"

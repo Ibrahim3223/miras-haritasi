@@ -5,10 +5,10 @@ slug: "alidemirci-camii"
 description: "## Alidemirci Camii: Balıkesir'in Tarihi bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.680069,39.7140732"
 draft: "false"
 weight: "999"

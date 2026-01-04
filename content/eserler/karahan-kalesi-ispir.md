@@ -5,10 +5,10 @@ slug: "karahan-kalesi-ispir"
 description: "## Karahan Kalesi: İspir'deki Tarihî Bir Miras..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "İspir"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.0189438,40.3774796"
 draft: "false"
 weight: "999"

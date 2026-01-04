@@ -5,10 +5,10 @@ slug: "cesnigir-sinan-pasa-camii"
 description: "### Çeşnigir Sinan Paşa Camii: Isparta'da Bir Tarihi Kahraman..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7820168,38.0183487"
 draft: "false"
 weight: "999"

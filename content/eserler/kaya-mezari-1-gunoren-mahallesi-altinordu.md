@@ -5,10 +5,10 @@ slug: "kaya-mezari-1-gunoren-mahallesi-altinordu"
 description: "### Kaya Mezarı 1: Altınordu'nun Gizli Eseri..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.722789,40.926884"
 draft: "false"
 weight: "999"

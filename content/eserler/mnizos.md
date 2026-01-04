@@ -5,10 +5,10 @@ slug: "mnizos"
 description: "## Mnizos Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ayaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.2489715,40.04443"
 draft: "false"
 weight: "999"

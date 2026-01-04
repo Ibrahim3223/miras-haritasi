@@ -5,10 +5,10 @@ slug: "karahantepe"
 description: "## Karahantepe: Tarihi ve Kültürel Mirasın Tamamlanmamış Kısmı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Karahantepe2.jpg/1200px-Karahantepe2.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.3027,37.0916"
 draft: "false"
 weight: "10"

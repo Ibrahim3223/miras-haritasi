@@ -5,10 +5,10 @@ slug: "eski-ortodoks-kilisesi"
 description: "## Eski Ortodoks Kilisesi Hakkında..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.7810879,37.3166161"
 draft: "false"
 weight: "999"

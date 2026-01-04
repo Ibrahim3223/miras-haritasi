@@ -5,10 +5,10 @@ slug: "bas-cesme-camii"
 description: "# Baş Çeşme Camii: Afyonkarahisar'ın Tarihsel Bir Değerini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1a/Afyonkarahisar_%C3%87e%C5%9Fme.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5340214,38.7581406"
 draft: "false"
 weight: "999"

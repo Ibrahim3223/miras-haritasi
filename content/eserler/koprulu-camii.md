@@ -5,10 +5,10 @@ slug: "koprulu-camii"
 description: "## Köprülü Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Köprülü_Mehmet_Paşa_Mosque,_Istanbul.jpg/1200px-Köprülü_Mehmet_Paşa_Mosque,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.971733268,41.008282971"
 draft: "false"
 weight: "10"

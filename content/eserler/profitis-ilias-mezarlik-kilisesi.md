@@ -5,10 +5,10 @@ slug: "profitis-ilias-mezarlik-kilisesi"
 description: "## Profitis İlias Mezarlık Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.124474723,40.85271261"
 draft: "false"
 weight: "999"

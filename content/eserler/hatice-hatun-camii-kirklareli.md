@@ -5,10 +5,10 @@ slug: "hatice-hatun-camii-kirklareli"
 description: "## Hatice Hatun Camii, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2282104,41.7354584"
 draft: "false"
 weight: "999"

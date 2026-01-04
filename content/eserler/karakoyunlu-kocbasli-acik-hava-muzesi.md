@@ -5,10 +5,10 @@ slug: "karakoyunlu-kocbasli-acik-hava-muzesi"
 description: "# Karakoyunlu Koçbaşlı Açık Hava Müzesi..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Karakoyunlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "44.1727753,39.971981"
 draft: "false"
 weight: "999"

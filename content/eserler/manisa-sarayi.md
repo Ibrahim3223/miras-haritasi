@@ -5,10 +5,10 @@ slug: "manisa-sarayi"
 description: "## Manisa Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Manisa_Sarayı.jpg/1200px-Manisa_Sarayı.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "27.433489659,38.615331594"
 draft: "false"
 weight: "10"

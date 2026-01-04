@@ -5,10 +5,10 @@ slug: "eski-cami-sarikaman-koyu"
 description: "### Eski Cami, Sarıkaman Köyü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.200058,38.7698631"
 draft: "false"
 weight: "999"

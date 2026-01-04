@@ -5,10 +5,10 @@ slug: "leka-panaya-manastiri"
 description: "## Leka Panaya Manastırı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "26.637914,39.327229"
 draft: "false"
 weight: "999"

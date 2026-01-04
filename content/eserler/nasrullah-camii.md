@@ -5,10 +5,10 @@ slug: "nasrullah-camii"
 description: "### Nasrullah Camii: Kastamonu'nun Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Nasrullah_Mosque,_Kastamonu.jpg/1200px-Nasrullah_Mosque,_Kastamonu.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.77527778,41.37722222"
 draft: "false"
 weight: "10"

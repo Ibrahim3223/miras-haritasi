@@ -5,10 +5,10 @@ slug: "gulluk-hoyuk"
 description: "### Güllük Höyük: Sivas'ta Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1557698,39.6020303"
 draft: "false"
 weight: "999"

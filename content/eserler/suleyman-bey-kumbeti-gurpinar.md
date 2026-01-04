@@ -5,10 +5,10 @@ slug: "suleyman-bey-kumbeti-gurpinar"
 description: "## Süleyman Bey Kümbeti, Gürpınar..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.8011742,38.3146477"
 draft: "false"
 weight: "999"

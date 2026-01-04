@@ -5,10 +5,10 @@ slug: "kisthene"
 description: "# Kisthene: Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gömeç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.813175,39.393183"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "coban-dede-turbesi-odemis"
 description: "## Çoban Dede Türbesi, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.9780903,38.2200508"
 draft: "false"
 weight: "999"

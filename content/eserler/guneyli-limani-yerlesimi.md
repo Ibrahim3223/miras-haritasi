@@ -5,10 +5,10 @@ slug: "guneyli-limani-yerlesimi"
 description: "### Güneyli Limanı Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6976967,40.5097694"
 draft: "false"
 weight: "999"

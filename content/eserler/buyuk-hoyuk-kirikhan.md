@@ -5,10 +5,10 @@ slug: "buyuk-hoyuk-kirikhan"
 description: "# Büyük Höyük, Kırıkhan..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.3922304,36.5643201"
 draft: "false"
 weight: "999"

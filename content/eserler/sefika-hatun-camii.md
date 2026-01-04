@@ -5,10 +5,10 @@ slug: "sefika-hatun-camii"
 description: "### Şefika Hatun Camii: Kayalıbağ'da Bir Önemli Cami..."
 featured_image: ""
 province: "Seyhan"
-iller: '["Seyhan"]'
+iller: ["Seyhan"]
 district: "Kayalıbağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3310013,36.9870338"
 draft: "false"
 weight: "999"

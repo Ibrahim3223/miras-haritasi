@@ -5,10 +5,10 @@ slug: "olympos-sahil-kilisesi"
 description: "# Olympos Sahil Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.4758873,36.395813"
 draft: "false"
 weight: "999"

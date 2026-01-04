@@ -5,10 +5,10 @@ slug: "ataturk-maski"
 description: "## Atatürk Maskı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ataturk_in_Izmir.jpg/1200px-Ataturk_in_Izmir.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.145805555,38.406055555"
 draft: "false"
 weight: "10"

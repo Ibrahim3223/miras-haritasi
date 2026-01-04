@@ -5,10 +5,10 @@ slug: "tunca-2-koprusu"
 description: "## Tunca 2 Köprüsü Nedir?..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1236554,41.1224732"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kursunlu-camii-erzurum"
 description: "### Kurşunlu Camii, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2755318,39.9084816"
 draft: "false"
 weight: "999"

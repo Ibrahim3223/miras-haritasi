@@ -5,10 +5,10 @@ slug: "ascibasi-camii-uskudar"
 description: "# Aşçıbaşı Camii: Üsküdar'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Aşçıbaşı_Mehmet_Efendi_Mosque_outside.jpg/1200px-Aşçıbaşı_Mehmet_Efendi_Mosque_outside.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0205895,41.0137523"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sogulcak"
 description: "### Soğulcak Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.744333,39.396967"
 draft: "false"
 weight: "999"

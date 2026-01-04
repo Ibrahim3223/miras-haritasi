@@ -5,10 +5,10 @@ slug: "karabiga-sehitligi"
 description: "## Karabiga Şehitliği..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.300930134,40.402419158"
 draft: "false"
 weight: "999"

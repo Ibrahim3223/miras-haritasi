@@ -5,10 +5,10 @@ slug: "eklisia-kilisesi"
 description: "## Eklisia Kilisesi: Bodrum'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.236721,37.0538826"
 draft: "false"
 weight: "999"

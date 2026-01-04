@@ -5,10 +5,10 @@ slug: "sanctuary-of-heracles-at-erythrae-in-ionia"
 description: "## Erythrae'deki Heracles Tapınağı: Ege'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.48103,38.38122"
 draft: "false"
 weight: "999"

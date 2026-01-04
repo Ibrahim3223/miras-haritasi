@@ -5,10 +5,10 @@ slug: "canbaz-gazi-abdurrahman-efendi-turbesi-karaman"
 description: "## Canbaz Gazi Abdurrahman Efendi Türbesi Karaman..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2170968,37.18253"
 draft: "false"
 weight: "999"

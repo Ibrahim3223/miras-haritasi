@@ -5,10 +5,10 @@ slug: "apollonia-antik-tiyatrosu"
 description: "### Apollonia Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.7632961,36.1866951"
 draft: "false"
 weight: "999"

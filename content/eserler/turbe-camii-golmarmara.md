@@ -5,10 +5,10 @@ slug: "turbe-camii-golmarmara"
 description: "## Türbe Camii, Gölmarmara..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9181442,38.7038193"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-hamam-buyukkumla"
 description: "## Büyük Hamam, Büyükkumla: Birimemişin Mirasının Öncüleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0875587,40.5020638"
 draft: "false"
 weight: "999"

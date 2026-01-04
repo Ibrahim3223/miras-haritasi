@@ -5,10 +5,10 @@ slug: "palu-kalesi"
 description: "# Palu Kalesi: Elazığ'ın Tarihî Bir Güzelliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Palu_Kalesi.jpg/1200px-Palu_Kalesi.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.9543997,38.7023642"
 draft: "false"
 weight: "10"

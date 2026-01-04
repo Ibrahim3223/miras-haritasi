@@ -5,10 +5,10 @@ slug: "kumbet-menekse-hamami"
 description: "### Kümbet Menekşe Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.986718,39.7328659"
 draft: "false"
 weight: "999"

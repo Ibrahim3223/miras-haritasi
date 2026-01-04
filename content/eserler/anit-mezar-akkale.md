@@ -5,10 +5,10 @@ slug: "anit-mezar-akkale"
 description: "## Anıt Mezar, Akkale: Mersin'in Tarihî Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.2224808,36.5288773"
 draft: "false"
 weight: "999"

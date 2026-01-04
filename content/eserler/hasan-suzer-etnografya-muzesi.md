@@ -5,10 +5,10 @@ slug: "hasan-suzer-etnografya-muzesi"
 description: "## Hasan Süzer Etnografya Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.37753,37.06144"
 draft: "false"
 weight: "999"

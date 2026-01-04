@@ -5,10 +5,10 @@ slug: "gumruk-hamami"
 description: "### Gümrük Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2803879,39.9129295"
 draft: "false"
 weight: "999"

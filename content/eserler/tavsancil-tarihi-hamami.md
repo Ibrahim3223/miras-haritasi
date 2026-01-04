@@ -5,10 +5,10 @@ slug: "tavsancil-tarihi-hamami"
 description: "## Tavşancıl Tarihi Hamamı: Kocaeli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Dilovası"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.5754051,40.7745667"
 draft: "false"
 weight: "999"

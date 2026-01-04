@@ -5,10 +5,10 @@ slug: "yuhanna-prodromos-kilisesi-yenimahalle"
 description: "## Yuhanna Prodromos Kilisesi (Yenimahalle)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0610144,41.1717504"
 draft: "false"
 weight: "999"

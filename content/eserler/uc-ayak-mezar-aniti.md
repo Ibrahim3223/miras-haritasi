@@ -5,10 +5,10 @@ slug: "uc-ayak-mezar-aniti"
 description: "## Üç Ayak Mezar Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.180267,36.527253"
 draft: "false"
 weight: "999"

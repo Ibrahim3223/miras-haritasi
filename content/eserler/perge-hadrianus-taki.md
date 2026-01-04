@@ -5,10 +5,10 @@ slug: "perge-hadrianus-taki"
 description: "## Perge Hadrianus Takı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8541603,36.9616203"
 draft: "false"
 weight: "999"

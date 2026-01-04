@@ -5,10 +5,10 @@ slug: "kazimkarabekir-asar-hoyuk"
 description: "## Kazımkarabekir Asar Höyük: Karaman'ın Gizli Gölleri..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Kazımkarabekir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.9586258,37.2265739"
 draft: "false"
 weight: "999"

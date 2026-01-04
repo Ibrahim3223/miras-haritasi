@@ -5,10 +5,10 @@ slug: "sura-apollon-tapinagi"
 description: "### Sura Apollon Tapınağı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9398,36.24116"
 draft: "false"
 weight: "999"

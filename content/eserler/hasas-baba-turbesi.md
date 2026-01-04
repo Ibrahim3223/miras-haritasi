@@ -5,10 +5,10 @@ slug: "hasas-baba-turbesi"
 description: "## Hasas Baba Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.0251427,38.3782196"
 draft: "false"
 weight: "999"

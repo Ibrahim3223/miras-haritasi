@@ -5,10 +5,10 @@ slug: "seyh-muhammed-esad-erbili-turbesi"
 description: "**Şeyh Muhammed Esad Erbili Türbesi**..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.0685463,38.6031265"
 draft: "false"
 weight: "999"

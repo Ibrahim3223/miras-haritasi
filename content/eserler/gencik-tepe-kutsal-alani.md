@@ -5,10 +5,10 @@ slug: "gencik-tepe-kutsal-alani"
 description: "**Gencik Tepe Kutsal Alanı**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8107376,37.3058624"
 draft: "false"
 weight: "999"

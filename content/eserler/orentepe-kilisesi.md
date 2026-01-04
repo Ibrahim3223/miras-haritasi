@@ -5,10 +5,10 @@ slug: "orentepe-kilisesi"
 description: "# Örentepe Kilisesi: Bucak'taki Bir Gizem..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Bucak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.4864445,37.265461"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yilanli-kale-odemis"
 description: "### Yılanlı Kale: İzmir'in Tarihî Bir Çehresi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1235714,38.2996407"
 draft: "false"
 weight: "999"

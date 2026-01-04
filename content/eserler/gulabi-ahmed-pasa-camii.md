@@ -5,10 +5,10 @@ slug: "gulabi-ahmed-pasa-camii"
 description: "## Gülabi Ahmed Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kirklareli_pasa_camii_01.jpg/1200px-Kirklareli_pasa_camii_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2269421,41.7352715"
 draft: "false"
 weight: "10"

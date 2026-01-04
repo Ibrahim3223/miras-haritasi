@@ -5,10 +5,10 @@ slug: "tabakhane-camii"
 description: "## Tabakhane Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8602104,39.9425659"
 draft: "false"
 weight: "999"

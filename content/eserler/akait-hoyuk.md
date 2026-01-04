@@ -5,10 +5,10 @@ slug: "akait-hoyuk"
 description: "## Akait Höyük: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.5343437,38.2853355"
 draft: "false"
 weight: "999"

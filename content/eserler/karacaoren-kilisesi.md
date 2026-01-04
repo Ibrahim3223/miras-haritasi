@@ -5,10 +5,10 @@ slug: "karacaoren-kilisesi"
 description: "## Karacaören Kilisesi: Muğla'nın Gizli Çiçeği..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0602188,36.5404129"
 draft: "false"
 weight: "999"

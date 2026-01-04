@@ -5,10 +5,10 @@ slug: "guney-koyu-yukari-cami"
 description: "## Güney Köyü Yukarı Cami: Yeşilova'nın Güzeli..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Yeşilova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5550995,37.4991035"
 draft: "false"
 weight: "999"

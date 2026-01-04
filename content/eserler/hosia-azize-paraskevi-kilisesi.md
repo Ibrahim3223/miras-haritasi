@@ -5,10 +5,10 @@ slug: "hosia-azize-paraskevi-kilisesi"
 description: "## Hosia (Azize) Paraskevi Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.3668003,41.0532227"
 draft: "false"
 weight: "999"

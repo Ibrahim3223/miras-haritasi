@@ -5,10 +5,10 @@ slug: "candir-camii"
 description: "### Çandır Camii: Kayseri'nin Tarihî Mirasında Bir Örnek..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4816322,38.7258987"
 draft: "false"
 weight: "999"

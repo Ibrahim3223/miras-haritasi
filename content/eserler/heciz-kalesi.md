@@ -5,10 +5,10 @@ slug: "heciz-kalesi"
 description: "### Heciz Kalesi: Şile'nin Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.5174522,41.1210785"
 draft: "false"
 weight: "999"

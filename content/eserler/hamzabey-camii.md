@@ -5,10 +5,10 @@ slug: "hamzabey-camii"
 description: "### Hamzabey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Hamzabey_Camii_03.jpg/1200px-Hamzabey_Camii_03.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.410142,40.038628"
 draft: "false"
 weight: "10"

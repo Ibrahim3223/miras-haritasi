@@ -5,10 +5,10 @@ slug: "ulker-zaim-muzesi"
 description: "## Ülker Zaim Müzesi: Ankara'nın Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.725841,39.814315"
 draft: "false"
 weight: "999"

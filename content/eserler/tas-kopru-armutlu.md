@@ -5,10 +5,10 @@ slug: "tas-kopru-armutlu"
 description: "### Taş Köprü, Armutlu..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Armutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.8282528,40.5195503"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lyrbe-hamam"
 description: "## Lyrbe Hamamı: Tarihi ve Kültürel Kıymeti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.4722366,36.8728447"
 draft: "false"
 weight: "999"

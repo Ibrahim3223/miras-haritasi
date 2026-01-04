@@ -5,10 +5,10 @@ slug: "giresun-millet-bahcesi-kapisi"
 description: "## Giresun Millet Bahçesi Kapısı: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.3862953,40.9189186"
 draft: "false"
 weight: "999"

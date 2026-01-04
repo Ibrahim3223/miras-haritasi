@@ -5,10 +5,10 @@ slug: "ksantos"
 description: "**Ksantos Arkeolojik Sit**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Entrance_into_theatre_of_Xanthos.jpg/1200px-Entrance_into_theatre_of_Xanthos.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kınık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.319255,36.357132"
 draft: "false"
 weight: "10"

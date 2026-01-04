@@ -5,10 +5,10 @@ slug: "kirk-kizlar-turbesi"
 description: "### Kırk Kızlar Türbesi..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.053992,38.372872"
 draft: "false"
 weight: "999"

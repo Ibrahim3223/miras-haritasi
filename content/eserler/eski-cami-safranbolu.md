@@ -5,10 +5,10 @@ slug: "eski-cami-safranbolu"
 description: "## Eski Cami, Safranbolu..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.690784694,41.242537555"
 draft: "false"
 weight: "999"

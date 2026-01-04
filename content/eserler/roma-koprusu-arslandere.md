@@ -5,10 +5,10 @@ slug: "roma-koprusu-arslandere"
 description: "## Roma Köprüsü, Arslandere..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.247787,41.247787"
 draft: "false"
 weight: "999"

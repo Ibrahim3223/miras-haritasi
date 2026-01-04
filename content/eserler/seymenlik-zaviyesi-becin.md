@@ -5,10 +5,10 @@ slug: "seymenlik-zaviyesi-becin"
 description: "## Seymenlik Zaviyesi, Beçin: Milas'ta Bir Değerli Kültür Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7898102,37.2712936"
 draft: "false"
 weight: "999"

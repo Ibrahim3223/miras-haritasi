@@ -5,10 +5,10 @@ slug: "taskemer-koprusu"
 description: "## Taşkemer Köprüsü: Turgutlu'nun Gizli Mimari Harikası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8194486,38.4662257"
 draft: "false"
 weight: "999"

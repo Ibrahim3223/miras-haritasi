@@ -5,10 +5,10 @@ slug: "cuma-fakih-mescidi-adana"
 description: "## Cuma Fakıh Mescidi: Adana'nın Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3325119,36.9857521"
 draft: "false"
 weight: "999"

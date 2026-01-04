@@ -5,10 +5,10 @@ slug: "caglayik-kalesirti-c-tumulusu"
 description: "### Çağlayık Kalesırtı C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.326582,42.0336876"
 draft: "false"
 weight: "999"

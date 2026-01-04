@@ -5,10 +5,10 @@ slug: "sirahoyukler-d-tumulusu"
 description: "# Sırahöyükler D Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7892036,41.8330154"
 draft: "false"
 weight: "999"

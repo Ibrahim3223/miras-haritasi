@@ -5,10 +5,10 @@ slug: "semsipasa-ilce-halk-kutuphanesi"
 description: "## Şemsipaşa İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

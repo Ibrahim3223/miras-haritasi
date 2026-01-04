@@ -5,10 +5,10 @@ slug: "kayabasi-camii"
 description: "## Kayabaşı Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8708382,39.9400215"
 draft: "false"
 weight: "999"

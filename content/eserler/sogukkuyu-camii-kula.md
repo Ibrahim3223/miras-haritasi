@@ -5,10 +5,10 @@ slug: "sogukkuyu-camii-kula"
 description: "## Soğukkuyu Camii: Manisa'nın Gizli Cenneti..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6521149,38.5446091"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirkgoz-koprusu-ergene"
 description: "# Kırkgöz Köprüsü: Ergene'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Ergene"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.662811,41.24231"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bereketzade-ali-efendi-kabri"
 description: "## Bereketzade Ali Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9741497,41.0251083"
 draft: "false"
 weight: "999"

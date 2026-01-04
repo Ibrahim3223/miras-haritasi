@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-4"
 description: "# Bin Tepeler Tümülüsü 4..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.044985,38.557297"
 draft: "false"
 weight: "999"

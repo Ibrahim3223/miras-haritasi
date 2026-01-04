@@ -5,10 +5,10 @@ slug: "tuti-abdullatif-medresesi"
 description: "## Tuti Abdullatif Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.951934,41.020746"
 draft: "false"
 weight: "999"

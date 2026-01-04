@@ -5,10 +5,10 @@ slug: "solon-ve-na-anit-mezari"
 description: "## Solon ve Na Anıt Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Konyaaltı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4731617,36.86483"
 draft: "false"
 weight: "999"

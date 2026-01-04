@@ -5,10 +5,10 @@ slug: "tavium-antik-tiyatrosu"
 description: "**Tavium Antik Tiyatrosu: Yozgat'ta Tarih ve Kültür**..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5071472,39.8583931"
 draft: "false"
 weight: "999"

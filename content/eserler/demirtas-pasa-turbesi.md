@@ -5,10 +5,10 @@ slug: "demirtas-pasa-turbesi"
 description: "# Demirtaş Paşa Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.6140366,39.4509773"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kalecik-kalesi-erzincan"
 description: "## Kalecik Kalesi: Erzincan'ın Tarihi Esmeri..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.736702,39.5668716"
 draft: "false"
 weight: "999"

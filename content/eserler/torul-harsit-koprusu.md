@@ -5,10 +5,10 @@ slug: "torul-harsit-koprusu"
 description: "## Torul Harşit Köprüsü: İnci gibi bir Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.29263,40.55715"
 draft: "false"
 weight: "999"

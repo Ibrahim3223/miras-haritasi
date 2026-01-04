@@ -5,10 +5,10 @@ slug: "korgan-koprusu"
 description: "## Korgan Köprüsü: Karadeniz Bölgesi'nin Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.000782,40.33633"
 draft: "false"
 weight: "999"

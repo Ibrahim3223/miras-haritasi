@@ -5,10 +5,10 @@ slug: "kanli-kale"
 description: "**Kanlı Kale: Tarihçesi ve Mirası**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karapınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.8436089,37.8341026"
 draft: "false"
 weight: "999"

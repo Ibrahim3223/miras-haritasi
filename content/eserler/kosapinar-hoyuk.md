@@ -5,10 +5,10 @@ slug: "kosapinar-hoyuk"
 description: "## Koşapınar Höyük: Amasya'nın Gizli Tarih Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9997474,40.5719196"
 draft: "false"
 weight: "999"

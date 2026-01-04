@@ -5,10 +5,10 @@ slug: "eski-adliye-binasi-tarsus"
 description: "**Eski Adliye Binası, Tarsus**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.8920631,36.9170456"
 draft: "false"
 weight: "999"

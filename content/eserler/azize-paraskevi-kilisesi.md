@@ -5,10 +5,10 @@ slug: "azize-paraskevi-kilisesi"
 description: "# Azize Paraskevi Kilisesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Çınarcık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9555244,40.6165314"
 draft: "false"
 weight: "999"

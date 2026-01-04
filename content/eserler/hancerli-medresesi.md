@@ -5,10 +5,10 @@ slug: "hancerli-medresesi"
 description: "## Hançerli Medresesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0878086,40.1768379"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahkeme-camii-edremit"
 description: "# Mahkeme Camii (Edremit)..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.021564856,39.594285796"
 draft: "false"
 weight: "999"

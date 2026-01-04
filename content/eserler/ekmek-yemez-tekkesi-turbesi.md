@@ -5,10 +5,10 @@ slug: "ekmek-yemez-tekkesi-turbesi"
 description: "## Ekmek Yemez Tekkesi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ekmek_Yemez_Tekkesi_Türbesi.jpg/1200px-Ekmek_Yemez_Tekkesi_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "29.0091209,41.0212898"
 draft: "false"
 weight: "10"

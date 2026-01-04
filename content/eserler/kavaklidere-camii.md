@@ -5,10 +5,10 @@ slug: "kavaklidere-camii"
 description: "### Kavaklıdere Camii: Ardeşen'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.001141075,41.195904802"
 draft: "false"
 weight: "999"

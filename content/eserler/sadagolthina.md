@@ -5,10 +5,10 @@ slug: "sadagolthina"
 description: "# Sadagolthina: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.542191,38.8279505"
 draft: "false"
 weight: "999"

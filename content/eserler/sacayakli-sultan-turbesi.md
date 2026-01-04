@@ -5,10 +5,10 @@ slug: "sacayakli-sultan-turbesi"
 description: "## Saçayaklı Sultan Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7763149,41.381018"
 draft: "false"
 weight: "999"

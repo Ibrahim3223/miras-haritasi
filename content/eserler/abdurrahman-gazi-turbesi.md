@@ -5,10 +5,10 @@ slug: "abdurrahman-gazi-turbesi"
 description: "### Abdurrahman Gazi Türbesi: Palandöken'in Özlü Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.312611111,39.878194444"
 draft: "false"
 weight: "999"

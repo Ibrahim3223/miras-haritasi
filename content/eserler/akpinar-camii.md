@@ -5,10 +5,10 @@ slug: "akpinar-camii"
 description: "## Akpınar Camii: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/ba/2021-10-12_ALBA_Berlin_gegen_Fenerbah%C3%A7e_SK_%28EuroLeague_2021-22%29_by_Sandro_Halank%E2%80%93121.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.8377094,40.9379768"
 draft: "false"
 weight: "999"

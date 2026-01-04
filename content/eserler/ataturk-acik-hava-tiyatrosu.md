@@ -5,10 +5,10 @@ slug: "ataturk-acik-hava-tiyatrosu"
 description: "## Atatürk Açık Hava Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Atatürk_Open_Air_Theatre,_May_2019_(3).jpg/1200px-Atatürk_Open_Air_Theatre,_May_2019_(3).jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.148055555,38.428611111"
 draft: "false"
 weight: "10"

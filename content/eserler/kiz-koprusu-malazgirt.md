@@ -5,10 +5,10 @@ slug: "kiz-koprusu-malazgirt"
 description: "# Kız Köprüsü, Malazgirt..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Malazgirt"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.5479546,39.1300278"
 draft: "false"
 weight: "999"

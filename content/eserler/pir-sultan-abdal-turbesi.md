@@ -5,10 +5,10 @@ slug: "pir-sultan-abdal-turbesi"
 description: "**Pir Sultan Abdal Türbesi**..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Yıldızeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.77745,39.996315"
 draft: "false"
 weight: "999"

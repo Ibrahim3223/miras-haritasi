@@ -5,10 +5,10 @@ slug: "kale-camii-kars"
 description: "## Kale Camii: Kars'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.0905037,40.6136742"
 draft: "false"
 weight: "999"

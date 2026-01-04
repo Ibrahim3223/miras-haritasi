@@ -5,10 +5,10 @@ slug: "kapu-camii"
 description: "## Kapu Camii: Konya'nın Tarihi ve Kültürel Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Kapu_Camii_2025-10-19_1761325110.jpg/1200px-Kapu_Camii_2025-10-19_1761325110.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.499277777,37.869888888"
 draft: "false"
 weight: "10"

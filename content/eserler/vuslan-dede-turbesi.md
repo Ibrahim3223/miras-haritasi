@@ -5,10 +5,10 @@ slug: "vuslan-dede-turbesi"
 description: "## Vuslan Dede Türbesi: Gelibolu'nun İnsanlık Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.476247705,40.301092855"
 draft: "false"
 weight: "999"

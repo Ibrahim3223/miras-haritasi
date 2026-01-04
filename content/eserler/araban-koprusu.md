@@ -5,10 +5,10 @@ slug: "araban-koprusu"
 description: "## Araban Köprüsü..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.89522,37.43285"
 draft: "false"
 weight: "999"

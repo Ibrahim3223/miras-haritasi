@@ -5,10 +5,10 @@ slug: "kadifekale-mescidi"
 description: "**Kadifekale Mescidi: İzmir'in Tarihî Bir Zengini**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1464348,38.4136314"
 draft: "false"
 weight: "999"

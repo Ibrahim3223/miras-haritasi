@@ -5,10 +5,10 @@ slug: "halil-hamit-pasa-camii"
 description: "### Halil Hamit Paşa Camii..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5557164,37.7630037"
 draft: "false"
 weight: "999"

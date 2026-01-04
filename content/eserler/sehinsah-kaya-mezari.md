@@ -5,10 +5,10 @@ slug: "sehinsah-kaya-mezari"
 description: "### Şehinşah Kaya Mezarı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7780991,41.3835068"
 draft: "false"
 weight: "999"

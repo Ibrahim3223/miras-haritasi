@@ -5,10 +5,10 @@ slug: "fatih-pasa-camii"
 description: "## Fatih Paşa Camii: Diyarbakır'ın Tarihsel ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Diyarbakır_Fatih_Paşa_Camii_2718.jpg/1200px-Diyarbakır_Fatih_Paşa_Camii_2718.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.241388888,37.911666666"
 draft: "false"
 weight: "10"

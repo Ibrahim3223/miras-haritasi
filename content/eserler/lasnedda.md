@@ -5,10 +5,10 @@ slug: "lasnedda"
 description: "# Lasnedda Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.87065,38.64441"
 draft: "false"
 weight: "999"

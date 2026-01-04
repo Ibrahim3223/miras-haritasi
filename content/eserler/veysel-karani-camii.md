@@ -5,10 +5,10 @@ slug: "veysel-karani-camii"
 description: "## Veysel Karani Camii..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Baykan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7162361,38.1313782"
 draft: "false"
 weight: "999"

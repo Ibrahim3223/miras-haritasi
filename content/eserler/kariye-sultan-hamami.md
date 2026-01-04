@@ -5,10 +5,10 @@ slug: "kariye-sultan-hamami"
 description: "**Kariye Sultan Hamamı: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.940886,41.03162"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirikkoy-eskibaglar-tumulusu"
 description: "### Kırıkköy Eskibağlar Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2742882,41.4552155"
 draft: "false"
 weight: "999"

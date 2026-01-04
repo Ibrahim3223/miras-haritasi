@@ -5,10 +5,10 @@ slug: "zindancik-kult-alani"
 description: "### Zindancık Kült Alanı: Tarihi ve Kültürel Miras Değerleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.934466666,38.993225"
 draft: "false"
 weight: "999"

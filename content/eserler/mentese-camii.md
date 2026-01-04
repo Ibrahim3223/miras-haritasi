@@ -5,10 +5,10 @@ slug: "mentese-camii"
 description: "## Menteşe Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.320678,37.750756"
 draft: "false"
 weight: "999"

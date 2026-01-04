@@ -5,10 +5,10 @@ slug: "eyupnebi-hoyugu"
 description: "## Eyüpnebi Höyüğü: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Viranşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.6432332,37.3610874"
 draft: "false"
 weight: "999"

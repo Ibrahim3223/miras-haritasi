@@ -5,10 +5,10 @@ slug: "istanbulun-uskudar-ilcesinde-ermeni-kilisesi"
 description: "## İstanbul'un Üsküdar İlçesindeki Ermeni Kilisesi: Bir Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Surp_Garabed_Erm._Kil._-_panoramio.jpg/1200px-Surp_Garabed_Erm._Kil._-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.031081,41.020897"
 draft: "false"
 weight: "10"

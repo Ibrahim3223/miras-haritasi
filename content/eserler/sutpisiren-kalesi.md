@@ -5,10 +5,10 @@ slug: "sutpisiren-kalesi"
 description: "## Sütpişiren Kalesi: Afşin'in Tarihî Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.8843002,38.5198898"
 draft: "false"
 weight: "999"

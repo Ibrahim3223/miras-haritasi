@@ -5,10 +5,10 @@ slug: "hieron-karya"
 description: "### Hieron (Karya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.42585386,37.59873189"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hafsa-hatun-hamami"
 description: "## Hafsa Hatun Hamamı: Tarihî Bir Mirasın Anlamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7503605,38.0811348"
 draft: "false"
 weight: "999"

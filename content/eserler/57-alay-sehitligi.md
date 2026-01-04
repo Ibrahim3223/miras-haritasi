@@ -5,10 +5,10 @@ slug: "57-alay-sehitligi"
 description: "**57. Alay Şehitliği**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/57.Alay_Şehitliği_(57th_Regiment)_-_Turkish_memorial_and_cementery_(8709797084).jpg/1200px-57.Alay_Şehitliği_(57th_Regiment)_-_Turkish_memorial_and_cementery_(8709797084).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.292334,40.240227"
 draft: "false"
 weight: "10"

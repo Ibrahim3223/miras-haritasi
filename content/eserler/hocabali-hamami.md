@@ -5,10 +5,10 @@ slug: "hocabali-hamami"
 description: "## Hocabali Hamamı..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.2839203,37.7141266"
 draft: "false"
 weight: "999"

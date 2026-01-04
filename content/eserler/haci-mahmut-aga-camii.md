@@ -5,10 +5,10 @@ slug: "haci-mahmut-aga-camii"
 description: "## Hacı Mahmut Ağa Camii: Adana'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3304901,36.9820404"
 draft: "false"
 weight: "999"

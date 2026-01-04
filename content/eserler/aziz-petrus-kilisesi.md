@@ -5,10 +5,10 @@ slug: "aziz-petrus-kilisesi"
 description: "## Aziz Petrus Kilisesi: Antakya'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Antioch_Saint_Pierre_Church_Front.JPG/1200px-Antioch_Saint_Pierre_Church_Front.JPG"
 province: "Antakya İlçesi"
-iller: '["Antakya İlçesi"]'
+iller: ["Antakya İlçesi"]
 district: "Küçükdalyan"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.178055555,36.209361111"
 draft: "false"
 weight: "10"

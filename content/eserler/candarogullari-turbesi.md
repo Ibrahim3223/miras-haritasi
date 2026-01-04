@@ -5,10 +5,10 @@ slug: "candarogullari-turbesi"
 description: "**Candaroğulları Türbesi**..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.148485,42.026845"
 draft: "false"
 weight: "999"

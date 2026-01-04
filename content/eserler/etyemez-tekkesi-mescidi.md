@@ -5,10 +5,10 @@ slug: "etyemez-tekkesi-mescidi"
 description: "## Etyemez Tekkesi Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9374371,41.0026894"
 draft: "false"
 weight: "999"

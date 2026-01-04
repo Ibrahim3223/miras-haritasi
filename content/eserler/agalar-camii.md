@@ -5,10 +5,10 @@ slug: "agalar-camii"
 description: "## Ağalar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Palais_de_Topkapı_-_Mosquée_des_Agalar_(48985990002).jpg/1200px-Palais_de_Topkapı_-_Mosquée_des_Agalar_(48985990002).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.984119,41.013101"
 draft: "false"
 weight: "10"

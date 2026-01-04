@@ -5,10 +5,10 @@ slug: "karakeci-hoyugu"
 description: "## Karakeçi Höyüğü: Şanlıurfa'nın Gizli Tarihî Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.43687,37.4526233"
 draft: "false"
 weight: "999"

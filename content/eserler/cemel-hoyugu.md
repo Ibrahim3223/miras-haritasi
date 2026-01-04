@@ -5,10 +5,10 @@ slug: "cemel-hoyugu"
 description: "# Cemel Höyüğü..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6640647,38.800602"
 draft: "false"
 weight: "999"

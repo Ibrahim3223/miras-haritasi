@@ -5,10 +5,10 @@ slug: "feyzullah-pasa-turbesi"
 description: "### Feyzullah Paşa Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.563890047,41.669620992"
 draft: "false"
 weight: "999"

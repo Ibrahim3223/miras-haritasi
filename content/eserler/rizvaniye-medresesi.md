@@ -5,10 +5,10 @@ slug: "rizvaniye-medresesi"
 description: "## Rızvaniye Medresesi: Şanlıurfa'nın Tarihi Miraslarından BİRİ..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "38.7850075,37.1480064"
 draft: "false"
 weight: "999"

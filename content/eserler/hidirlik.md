@@ -5,10 +5,10 @@ slug: "hidirlik"
 description: "### Hıdırlık..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.163967,39.06615"
 draft: "false"
 weight: "999"

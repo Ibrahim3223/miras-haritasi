@@ -5,10 +5,10 @@ slug: "monastery-of-aygek"
 description: "**Ayğek Manastırı: Kahramanmaraş'ta Bir Tarihî Çanak**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

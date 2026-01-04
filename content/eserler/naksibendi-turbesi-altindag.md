@@ -5,10 +5,10 @@ slug: "naksibendi-turbesi-altindag"
 description: "## Nakşibendi Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.862183949,39.934199032"
 draft: "false"
 weight: "999"

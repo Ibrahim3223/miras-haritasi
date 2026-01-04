@@ -5,10 +5,10 @@ slug: "kiziltas-tepe-hoyugu-cine"
 description: "### Kızıltaş Tepe Höyüğü: Aydın'ın Gizli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9958992,37.6674614"
 draft: "false"
 weight: "999"

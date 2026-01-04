@@ -5,10 +5,10 @@ slug: "alaca-koprusu"
 description: "# Alaca Köprüsü: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Aziziye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9678255,39.9309108"
 draft: "false"
 weight: "999"

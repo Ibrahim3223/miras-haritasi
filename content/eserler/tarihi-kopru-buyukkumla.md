@@ -5,10 +5,10 @@ slug: "tarihi-kopru-buyukkumla"
 description: "## Tarihi Köprü, Büyükkumla..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0888996,40.5026016"
 draft: "false"
 weight: "999"

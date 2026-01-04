@@ -5,10 +5,10 @@ slug: "fethiye-muzesi-balat"
 description: "## Fethiye Müzesi, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.946346,41.029063"
 draft: "false"
 weight: "999"

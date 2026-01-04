@@ -5,10 +5,10 @@ slug: "akatlar-kultur-merkezi"
 description: "## Akatlar Kültür Merkezi: Beşiktaş'ta Antik Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.02776111,41.08041667"
 draft: "false"
 weight: "999"

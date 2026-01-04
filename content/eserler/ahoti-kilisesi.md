@@ -5,10 +5,10 @@ slug: "ahoti-kilisesi"
 description: "### Ahoti Kilisesi..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "Kömürlü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.658,40.883722222"
 draft: "false"
 weight: "999"

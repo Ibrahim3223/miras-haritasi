@@ -5,10 +5,10 @@ slug: "golbelen-koyu-camii"
 description: "## Gölbelen Köyü Camii: Ardahan'ın Değerli Tarihi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.118777777,41.073777777"
 draft: "false"
 weight: "999"

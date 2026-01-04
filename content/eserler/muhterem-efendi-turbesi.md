@@ -5,10 +5,10 @@ slug: "muhterem-efendi-turbesi"
 description: "## Muhterem Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.977172,41.008751"
 draft: "false"
 weight: "999"

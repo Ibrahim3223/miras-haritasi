@@ -5,10 +5,10 @@ slug: "bathonea"
 description: "## Bathonea: İstanbul'un Eski Bir Yerleşim Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/K%C3%BC%C3%A7%C3%BCk%C3%A7ekmece_MunicipalityFlag.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.733,41.036389"
 draft: "false"
 weight: "999"

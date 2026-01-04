@@ -5,10 +5,10 @@ slug: "kizlarkayasi-tumulusu"
 description: "## Kızlarkayası Tümülüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.0172234,39.6808319"
 draft: "false"
 weight: "999"

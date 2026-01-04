@@ -5,10 +5,10 @@ slug: "ziya-gokalp-muzesi"
 description: "## Ziya Gökalp Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Diyarbakır_Ziya_Gökalp_Museum_in_2024_0280.jpg/1200px-Diyarbakır_Ziya_Gökalp_Museum_in_2024_0280.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.23416667,37.91138889"
 draft: "false"
 weight: "10"

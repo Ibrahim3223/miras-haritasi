@@ -5,10 +5,10 @@ slug: "tezveren-dede-turbesi"
 description: "### Tezveren Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9723511,41.0087471"
 draft: "false"
 weight: "999"

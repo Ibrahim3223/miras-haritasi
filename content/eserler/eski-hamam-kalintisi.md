@@ -5,10 +5,10 @@ slug: "eski-hamam-kalintisi"
 description: "## Eski Hamam Kalıntısı: Şile'nin Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.6118259,41.1762695"
 draft: "false"
 weight: "999"

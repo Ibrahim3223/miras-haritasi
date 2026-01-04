@@ -5,10 +5,10 @@ slug: "karamagara-koprusu"
 description: "**Karamağara Köprüsü: Ağın'ın Gizli Çehresini Açan Tarihi Bir Harikadır**..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Ağın"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.65848611,38.92496111"
 draft: "false"
 weight: "999"

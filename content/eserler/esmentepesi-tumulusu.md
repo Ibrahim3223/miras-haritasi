@@ -5,10 +5,10 @@ slug: "esmentepesi-tumulusu"
 description: "# Eşmentepesi Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9538002,38.1935997"
 draft: "false"
 weight: "999"

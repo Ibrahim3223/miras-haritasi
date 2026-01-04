@@ -5,10 +5,10 @@ slug: "ataturk-muze-kosku"
 description: "## Atatürk Müze Köşkü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/2a/The_President%27s_Mansion_in_the_Angora_Suburbs.jpg"
 province: "Çankaya"
-iller: '["Çankaya"]'
+iller: ["Çankaya"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.864333333,39.889027777"
 draft: "false"
 weight: "999"

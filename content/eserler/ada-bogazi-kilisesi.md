@@ -5,10 +5,10 @@ slug: "ada-bogazi-kilisesi"
 description: "## Ada Boğazı Kilisesi: Marmaris'in Gizli Şansı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0386982,36.6738319"
 draft: "false"
 weight: "999"

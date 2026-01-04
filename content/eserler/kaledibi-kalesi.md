@@ -5,10 +5,10 @@ slug: "kaledibi-kalesi"
 description: "**Kaledibi Kalesi: Tortum'un Gizli İhtişamı**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Tortum"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.528513888,40.3199"
 draft: "false"
 weight: "999"

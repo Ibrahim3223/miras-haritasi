@@ -5,10 +5,10 @@ slug: "sagrici-sungur-turbesi"
 description: "## Sağrıcı Sungur Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0604458,40.1852264"
 draft: "false"
 weight: "999"

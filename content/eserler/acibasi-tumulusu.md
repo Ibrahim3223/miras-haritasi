@@ -5,10 +5,10 @@ slug: "acibasi-tumulusu"
 description: "## Acıbaşı Tümülüsü: Eskişehir'in Gizli Çanakkale'si..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.1786785,39.3925285"
 draft: "false"
 weight: "999"

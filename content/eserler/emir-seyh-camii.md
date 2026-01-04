@@ -5,10 +5,10 @@ slug: "emir-seyh-camii"
 description: "## Emir Şeyh Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2794228,39.9050598"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gaysunizade-mehmet-efendi-kabri"
 description: "## Gaysunizade Mehmet Efendi Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.942507526,41.048664722"
 draft: "false"
 weight: "999"

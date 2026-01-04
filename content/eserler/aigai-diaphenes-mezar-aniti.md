@@ -5,10 +5,10 @@ slug: "aigai-diaphenes-mezar-aniti"
 description: "## Aigai Diaphenes Mezar Anıtı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1922035,38.8324432"
 draft: "false"
 weight: "999"

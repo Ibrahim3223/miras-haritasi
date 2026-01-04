@@ -5,10 +5,10 @@ slug: "myus-bizans-kalesi"
 description: "### Myus Bizans Kalesi: Aydın'ın Gizli Çehresini İnceleyin..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4258633,37.5987244"
 draft: "false"
 weight: "999"

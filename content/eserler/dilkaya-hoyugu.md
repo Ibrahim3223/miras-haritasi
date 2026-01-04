@@ -5,10 +5,10 @@ slug: "dilkaya-hoyugu"
 description: "## Dilkaya Höyüğü: Van'ın Gizli Mirası..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "Edremit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.1413803,38.3597107"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pazarci-hoyuk"
 description: "## Pazarcı Höyük..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7561288,39.0525495"
 draft: "false"
 weight: "999"

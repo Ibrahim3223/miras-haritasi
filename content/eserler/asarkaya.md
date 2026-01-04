@@ -5,10 +5,10 @@ slug: "asarkaya"
 description: "## Asarkaya: Bir Tarihi Kale'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/aa/Asarkaya_in_winter.jpg"
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.134131,39.450086"
 draft: "false"
 weight: "999"

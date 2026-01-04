@@ -5,10 +5,10 @@ slug: "edire-kalesi"
 description: "# Edire Kalesi: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.370533,40.4117317"
 draft: "false"
 weight: "999"

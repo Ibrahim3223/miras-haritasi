@@ -5,10 +5,10 @@ slug: "hazinedarzade-suleyman-pasa-camii"
 description: "### Hazinedarzade Süleyman Paşa Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3315506,41.295269"
 draft: "false"
 weight: "999"

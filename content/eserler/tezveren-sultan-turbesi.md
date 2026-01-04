@@ -5,10 +5,10 @@ slug: "tezveren-sultan-turbesi"
 description: "**Tezveren Sultan Türbesi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8611183,39.9337234"
 draft: "false"
 weight: "999"

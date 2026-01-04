@@ -5,10 +5,10 @@ slug: "tac-i-ahmet-camii"
 description: "## Tac-ı Ahmet Camii: Afyonkarahisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5303192,38.7534218"
 draft: "false"
 weight: "999"

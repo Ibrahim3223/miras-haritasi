@@ -5,10 +5,10 @@ slug: "emin-sinan-turbesi"
 description: "**Emin Sinan Türbesi: İstanbul'un Gizli Çeşmesiyle Birlikte Bir Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9692912,41.0067232"
 draft: "false"
 weight: "999"

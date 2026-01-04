@@ -5,10 +5,10 @@ slug: "yenimahalle"
 description: "### Yenimahalle: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.784996,37.148716"
 draft: "false"
 weight: "999"

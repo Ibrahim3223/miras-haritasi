@@ -5,10 +5,10 @@ slug: "nasuhbaba-turbesi-ve-haziresi"
 description: "## Nasuhbaba Türbesi ve Haziresi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Kapaklı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8640003,41.368"
 draft: "false"
 weight: "999"

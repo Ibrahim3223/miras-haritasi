@@ -5,10 +5,10 @@ slug: "kordoleon"
 description: "## Kordoleon: Karşıyaka'nın Zirvesinde Yükselen Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

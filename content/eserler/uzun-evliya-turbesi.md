@@ -5,10 +5,10 @@ slug: "uzun-evliya-turbesi"
 description: "### Uzun Evliya Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.089753,41.148646"
 draft: "false"
 weight: "999"

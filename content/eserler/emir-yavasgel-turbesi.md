@@ -5,10 +5,10 @@ slug: "emir-yavasgel-turbesi"
 description: "## Emir Yavaşgel Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.5676842,38.2683182"
 draft: "false"
 weight: "999"

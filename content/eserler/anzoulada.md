@@ -5,10 +5,10 @@ slug: "anzoulada"
 description: "## Anzoulada: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.075334,38.339036"
 draft: "false"
 weight: "999"

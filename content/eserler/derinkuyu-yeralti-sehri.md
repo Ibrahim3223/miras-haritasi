@@ -5,10 +5,10 @@ slug: "derinkuyu-yeralti-sehri"
 description: "## Derinkuyu Yeraltı Şehri: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Derinkuyu_Underground_City_9831_Nevit_Enhancer.jpg/1200px-Derinkuyu_Underground_City_9831_Nevit_Enhancer.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Derinkuyu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.735034,38.373403"
 draft: "false"
 weight: "10"

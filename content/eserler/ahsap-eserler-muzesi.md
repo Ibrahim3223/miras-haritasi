@@ -5,10 +5,10 @@ slug: "ahsap-eserler-muzesi"
 description: "## Ahşap Eserler Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Eskişehir_Woodworking_Museum_2.jpg/1200px-Eskişehir_Woodworking_Museum_2.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52527778,39.76277778"
 draft: "false"
 weight: "10"

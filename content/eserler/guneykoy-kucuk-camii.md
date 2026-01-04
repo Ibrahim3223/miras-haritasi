@@ -5,10 +5,10 @@ slug: "guneykoy-kucuk-camii"
 description: "### Güneyköy Küçük Camii..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2769547,40.5539207"
 draft: "false"
 weight: "999"

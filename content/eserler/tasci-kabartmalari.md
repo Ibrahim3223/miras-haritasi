@@ -5,10 +5,10 @@ slug: "tasci-kabartmalari"
 description: "### Taşçı Kabartmaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Tasci3.jpg/1200px-Tasci3.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.78111111,38.19875"
 draft: "false"
 weight: "10"

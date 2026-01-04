@@ -5,10 +5,10 @@ slug: "basci-ibrahim-hamami"
 description: "## Başçı İbrahim Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/BAŞÇI_İBRAHİM_HAMAMI-BATH_BURSA_-_panoramio.jpg/1200px-BAŞÇI_İBRAHİM_HAMAMI-BATH_BURSA_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0628567,40.1783791"
 draft: "false"
 weight: "10"

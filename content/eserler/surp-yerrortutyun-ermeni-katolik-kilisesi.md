@@ -5,10 +5,10 @@ slug: "surp-yerrortutyun-ermeni-katolik-kilisesi"
 description: "## Surp Yerrortutyun Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Katholische_Hl.-Dreieinigkeits-Kirche.jpg/1200px-Katholische_Hl.-Dreieinigkeits-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.975472,41.031667"
 draft: "false"
 weight: "10"

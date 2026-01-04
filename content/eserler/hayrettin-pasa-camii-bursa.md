@@ -5,10 +5,10 @@ slug: "hayrettin-pasa-camii-bursa"
 description: "## Hayrettin Paşa Camii: Bursa'nın Yüzyılın En İyisi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0667591,40.1851807"
 draft: "false"
 weight: "999"

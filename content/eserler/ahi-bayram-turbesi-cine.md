@@ -5,10 +5,10 @@ slug: "ahi-bayram-turbesi-cine"
 description: "## Ahi Bayram Türbesi, Çine..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0658455,37.5386734"
 draft: "false"
 weight: "999"

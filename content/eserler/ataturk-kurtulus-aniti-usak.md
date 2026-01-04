@@ -5,10 +5,10 @@ slug: "ataturk-kurtulus-aniti-usak"
 description: "## Atatürk Kurtuluş Anıtı, Uşak..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4054737,38.6738129"
 draft: "false"
 weight: "999"

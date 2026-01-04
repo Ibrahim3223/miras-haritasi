@@ -5,10 +5,10 @@ slug: "kucuk-piyale-hamami"
 description: "## Küçük Piyale Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9683189,41.0353584"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "agzikarahan-hamami"
 description: "# Ağzıkarahan Hamamı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.1403999,38.444767"
 draft: "false"
 weight: "999"

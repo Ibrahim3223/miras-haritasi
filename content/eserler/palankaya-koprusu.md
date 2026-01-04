@@ -5,10 +5,10 @@ slug: "palankaya-koprusu"
 description: "## Palankaya Köprüsü: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.5777912,38.6821098"
 draft: "false"
 weight: "999"

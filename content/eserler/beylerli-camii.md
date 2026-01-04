@@ -5,10 +5,10 @@ slug: "beylerli-camii"
 description: "### Beylerli Camii..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.460701,40.7100983"
 draft: "false"
 weight: "999"

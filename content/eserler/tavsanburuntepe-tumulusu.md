@@ -5,10 +5,10 @@ slug: "tavsanburuntepe-tumulusu"
 description: "## Tavşanburuntepe Tümülüsü: Malatya'nın Gizli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yeşilyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1133804,38.2901688"
 draft: "false"
 weight: "999"

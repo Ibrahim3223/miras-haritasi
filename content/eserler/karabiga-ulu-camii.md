@@ -5,10 +5,10 @@ slug: "karabiga-ulu-camii"
 description: "## Biga Ulu Camii: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2975712,40.4033813"
 draft: "false"
 weight: "999"

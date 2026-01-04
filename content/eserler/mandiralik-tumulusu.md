@@ -5,10 +5,10 @@ slug: "mandiralik-tumulusu"
 description: "## Mandıralık Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1577187,41.9587784"
 draft: "false"
 weight: "999"

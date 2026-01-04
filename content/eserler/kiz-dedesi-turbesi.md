@@ -5,10 +5,10 @@ slug: "kiz-dedesi-turbesi"
 description: "## Kız Dedesi Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.8853283,39.6538849"
 draft: "false"
 weight: "999"

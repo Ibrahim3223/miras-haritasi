@@ -5,10 +5,10 @@ slug: "cicekli-koyu-merkez-camii"
 description: "## Çiçekli Köyü Merkez Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.543339,40.625047"
 draft: "false"
 weight: "999"

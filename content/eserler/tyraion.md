@@ -5,10 +5,10 @@ slug: "tyraion"
 description: "## Tyraion: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.904303,38.282553"
 draft: "false"
 weight: "999"

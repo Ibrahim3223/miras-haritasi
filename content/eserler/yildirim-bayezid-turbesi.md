@@ -5,10 +5,10 @@ slug: "yildirim-bayezid-turbesi"
 description: "# Yıldırım Bayezid Türbesi: Bursa'nın Ölümsüz Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0824947,40.188118"
 draft: "false"
 weight: "999"

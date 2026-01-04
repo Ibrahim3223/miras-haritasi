@@ -5,10 +5,10 @@ slug: "pirno-karya"
 description: "## Pirno (Karya): Marmaris'in Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.445529,36.885007"
 draft: "false"
 weight: "999"

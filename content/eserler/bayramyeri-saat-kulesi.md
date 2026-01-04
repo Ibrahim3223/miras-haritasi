@@ -5,10 +5,10 @@ slug: "bayramyeri-saat-kulesi"
 description: "### Bayramyeri Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Bayramyeri_Clock_Tower_01.jpg/1200px-Bayramyeri_Clock_Tower_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.128388888,38.410888888"
 draft: "false"
 weight: "10"

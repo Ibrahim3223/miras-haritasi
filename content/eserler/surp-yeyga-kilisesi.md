@@ -5,10 +5,10 @@ slug: "surp-yeyga-kilisesi"
 description: "## Surp Yeyğa Kilisesi: İstanbul'un Gizli Çarpıcılarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surp_Yeğya_Kilisesi_03.jpg/1200px-Surp_Yeğya_Kilisesi_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.93124,41.042989"
 draft: "false"
 weight: "10"

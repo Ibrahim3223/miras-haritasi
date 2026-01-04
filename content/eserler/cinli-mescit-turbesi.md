@@ -5,10 +5,10 @@ slug: "cinli-mescit-turbesi"
 description: "## Cinli Mescit Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6486073,38.22686"
 draft: "false"
 weight: "999"

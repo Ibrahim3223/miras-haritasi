@@ -5,10 +5,10 @@ slug: "aya-nikola-kilisesi"
 description: "### Aya Nikola Kilisesi: Dikili'nin Gizli Çehresini Keşfedin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/63/Bodrum%2C_ruiny_ran%C4%9B_k%C5%99es%C5%A5ansk%C3%A9ho_chr%C3%A1mu.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.783562,39.021408"
 draft: "false"
 weight: "999"

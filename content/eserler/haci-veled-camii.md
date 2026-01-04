@@ -5,10 +5,10 @@ slug: "haci-veled-camii"
 description: "## Hacı Veled Camii Tanıtımı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4941978,38.714222"
 draft: "false"
 weight: "999"

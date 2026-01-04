@@ -5,10 +5,10 @@ slug: "nikopolis-kilikya"
 description: "### Nikopolis (Kilikya)..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.633389,37.027158"
 draft: "false"
 weight: "999"

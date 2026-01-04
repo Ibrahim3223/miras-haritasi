@@ -5,10 +5,10 @@ slug: "beyobasi-kemer-kopru"
 description: "# Beyobası Kemer Köprü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.798054,36.914385"
 draft: "false"
 weight: "999"

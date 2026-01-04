@@ -5,10 +5,10 @@ slug: "sahin-bey-aniti"
 description: "## Şahin Bey Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3584518,36.8995972"
 draft: "false"
 weight: "999"

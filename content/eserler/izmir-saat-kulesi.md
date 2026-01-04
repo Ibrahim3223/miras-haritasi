@@ -5,10 +5,10 @@ slug: "izmir-saat-kulesi"
 description: "## İzmir Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Izmir_square_clock_tower.jpg/1200px-Izmir_square_clock_tower.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.128666666,38.418861111"
 draft: "false"
 weight: "10"

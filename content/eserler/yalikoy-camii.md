@@ -5,10 +5,10 @@ slug: "yalikoy-camii"
 description: "## Yalıköy Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.377386282,41.015965128"
 draft: "false"
 weight: "999"

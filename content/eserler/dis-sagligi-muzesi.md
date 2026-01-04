@@ -5,10 +5,10 @@ slug: "dis-sagligi-muzesi"
 description: "# Diş Sağlığı Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.941417454,41.011078258"
 draft: "false"
 weight: "999"

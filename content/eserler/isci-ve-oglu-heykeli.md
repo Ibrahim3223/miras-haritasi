@@ -5,10 +5,10 @@ slug: "isci-ve-oglu-heykeli"
 description: "** İşçi ve Oğlu Heykeli: Antalya'nın Tarihi Mirası **..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.7046528,36.8791504"
 draft: "false"
 weight: "999"

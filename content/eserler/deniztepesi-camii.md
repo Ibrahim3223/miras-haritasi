@@ -5,10 +5,10 @@ slug: "deniztepesi-camii"
 description: "## Deniztepesi Camii: Antalya'nın Serik Bölgesinde Gizlenen bir Ören..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.125899,36.979824"
 draft: "false"
 weight: "999"

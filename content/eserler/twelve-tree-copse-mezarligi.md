@@ -5,10 +5,10 @@ slug: "twelve-tree-copse-mezarligi"
 description: "# Twelve Tree Copse Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Twelve_Tree_Copse_Cemetery.jpg/1200px-Twelve_Tree_Copse_Cemetery.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Alçıtepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2147,40.0878"
 draft: "false"
 weight: "10"

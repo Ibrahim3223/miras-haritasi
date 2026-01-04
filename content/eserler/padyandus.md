@@ -5,10 +5,10 @@ slug: "padyandus"
 description: "## Padyandus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.871111111,37.427777777"
 draft: "false"
 weight: "999"

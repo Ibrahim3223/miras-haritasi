@@ -5,10 +5,10 @@ slug: "sivasiler-camii"
 description: "## Sivasiler Camii: Bursa'nın Tarihi bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0648613,40.1787415"
 draft: "false"
 weight: "999"

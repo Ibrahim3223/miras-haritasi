@@ -5,10 +5,10 @@ slug: "amik-ovasi"
 description: "**Amik Ovası: Türkiye'nin Bir Arkeolojik Kıvılcımı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Amik_Ovası'nın_Amanoslar'dan_görünümü.jpg/1200px-Amik_Ovası'nın_Amanoslar'dan_görünümü.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.316111111,36.341388888"
 draft: "false"
 weight: "10"

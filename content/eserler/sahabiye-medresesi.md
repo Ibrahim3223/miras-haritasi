@@ -5,10 +5,10 @@ slug: "sahabiye-medresesi"
 description: "## Sahabiye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kayseri_Hunat_Hatun_-_panoramio.jpg/1200px-Kayseri_Hunat_Hatun_-_panoramio.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.48685,38.723386111"
 draft: "false"
 weight: "10"

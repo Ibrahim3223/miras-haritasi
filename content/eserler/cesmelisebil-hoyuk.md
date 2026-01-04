@@ -5,10 +5,10 @@ slug: "cesmelisebil-hoyuk"
 description: "# Çeşmelisebil Höyük: Konya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.550045,38.6239128"
 draft: "false"
 weight: "999"

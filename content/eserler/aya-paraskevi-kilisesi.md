@@ -5,10 +5,10 @@ slug: "aya-paraskevi-kilisesi"
 description: "## Aya Paraskevi Kilisesi: İstanbul'un Gizli Çehresinde Bir Önemli Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/bb/St_Paraskevi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9140797,40.9901886"
 draft: "false"
 weight: "999"

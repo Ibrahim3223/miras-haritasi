@@ -5,10 +5,10 @@ slug: "koliorga"
 description: "## Koliorga: Türkiye'nin Gizli Zirvesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.202725,37.349625"
 draft: "false"
 weight: "999"

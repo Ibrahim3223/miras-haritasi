@@ -5,10 +5,10 @@ slug: "bababurun-kalesi"
 description: "## Bababurun Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Türkoğlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.7942162,37.2973022"
 draft: "false"
 weight: "999"

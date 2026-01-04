@@ -5,10 +5,10 @@ slug: "larisa-lidya"
 description: "### Larisa (Lidya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.741461,38.153004"
 draft: "false"
 weight: "999"

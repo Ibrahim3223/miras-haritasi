@@ -5,10 +5,10 @@ slug: "aspat-kalesi"
 description: "## Aspat Kalesi: Bodrum'un Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.317522643,36.980547199"
 draft: "false"
 weight: "999"

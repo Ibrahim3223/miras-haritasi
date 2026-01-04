@@ -5,10 +5,10 @@ slug: "kamanli-camii"
 description: "### Kamanlı Camii: Urla'nın Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.778463,38.320768"
 draft: "false"
 weight: "999"

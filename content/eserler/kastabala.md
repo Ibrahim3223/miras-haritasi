@@ -5,10 +5,10 @@ slug: "kastabala"
 description: "## Kastabala Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HierapolisCastabalaBurgberg.jpg/1200px-HierapolisCastabalaBurgberg.jpg"
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.18744,37.17743"
 draft: "false"
 weight: "10"

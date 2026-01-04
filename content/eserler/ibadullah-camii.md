@@ -5,10 +5,10 @@ slug: "ibadullah-camii"
 description: "## İbadullah Camii: Altındağ'da Bir Miras..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8578758,39.9395332"
 draft: "false"
 weight: "999"

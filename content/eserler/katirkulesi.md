@@ -5,10 +5,10 @@ slug: "katirkulesi"
 description: "## Katırkulesi: Seyitgazi'nin Gizli Ölümsüzü..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.80575,39.50515"
 draft: "false"
 weight: "999"

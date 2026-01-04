@@ -5,10 +5,10 @@ slug: "seyh-sinan-hamami"
 description: "**Şeyh Sinan Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.4349403,41.2903786"
 draft: "false"
 weight: "999"

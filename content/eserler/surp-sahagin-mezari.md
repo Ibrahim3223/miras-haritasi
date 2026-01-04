@@ -5,10 +5,10 @@ slug: "surp-sahagin-mezari"
 description: "## Surp Sahag’ın Mezarı: Muş’un Gizli Mirası..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.451133547,38.972326143"
 draft: "false"
 weight: "999"

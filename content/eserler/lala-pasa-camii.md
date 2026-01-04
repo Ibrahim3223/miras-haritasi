@@ -5,10 +5,10 @@ slug: "lala-pasa-camii"
 description: "## Lala Paşa Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.419054,38.6061821"
 draft: "false"
 weight: "999"

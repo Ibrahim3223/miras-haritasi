@@ -5,10 +5,10 @@ slug: "peygamber-camii-sanliurfa"
 description: "### Peygamber Camii, Şanlıurfa..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7945061,37.158474"
 draft: "false"
 weight: "999"

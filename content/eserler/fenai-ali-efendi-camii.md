@@ -5,10 +5,10 @@ slug: "fenai-ali-efendi-camii"
 description: "## Fenai Ali Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fenai_Ali_Ef._Camii_-_panoramio.jpg/1200px-Fenai_Ali_Ef._Camii_-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.027953,41.017611"
 draft: "false"
 weight: "10"

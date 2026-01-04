@@ -5,10 +5,10 @@ slug: "umur-bey-medresesi"
 description: "### Umur Bey Medresesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.5544147,38.7457314"
 draft: "false"
 weight: "999"

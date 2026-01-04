@@ -5,10 +5,10 @@ slug: "oskisori-kilisesi"
 description: "## Oşkisori Kilisesi: Erzurum'un Gizli Cenneti..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Uzundere"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.623066666,40.54205"
 draft: "false"
 weight: "999"

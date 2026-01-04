@@ -5,10 +5,10 @@ slug: "kirklar-makami-turbesi"
 description: "## Kırklar Makamı Türbesi: Afyonkarahisar'ın Ölümsüz Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5276,38.7552"
 draft: "false"
 weight: "999"

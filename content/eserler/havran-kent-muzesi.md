@@ -5,10 +5,10 @@ slug: "havran-kent-muzesi"
 description: "## Havran Kent Müzesi: Balıkesir'in Tarihini Yaşamak..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Havran"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.0981293,39.5570564"
 draft: "false"
 weight: "999"

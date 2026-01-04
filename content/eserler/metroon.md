@@ -5,10 +5,10 @@ slug: "metroon"
 description: "# Metroon: Zonguldak'ta Geç Antik Dönem'in Gizemi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Buruncuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.481666666,41.346666666"
 draft: "false"
 weight: "999"

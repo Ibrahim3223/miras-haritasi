@@ -5,10 +5,10 @@ slug: "suya-kanmis-hatun-turbesi"
 description: "## Suya Kanmış Hatun Türbesi: Kayseri'nin Gizli Çehresinde Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kayseri_Suya_Kanmış_Hatun_Túrbesi_in_2024_8576.jpg/1200px-Kayseri_Suya_Kanmış_Hatun_Túrbesi_in_2024_8576.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.495163,38.7208672"
 draft: "false"
 weight: "10"

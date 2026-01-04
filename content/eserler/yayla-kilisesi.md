@@ -5,10 +5,10 @@ slug: "yayla-kilisesi"
 description: "## Yayla Kilisesi: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.0339432,37.2841682"
 draft: "false"
 weight: "999"

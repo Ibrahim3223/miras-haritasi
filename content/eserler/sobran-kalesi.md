@@ -5,10 +5,10 @@ slug: "sobran-kalesi"
 description: "## Sobran Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4557343,37.5333557"
 draft: "false"
 weight: "999"

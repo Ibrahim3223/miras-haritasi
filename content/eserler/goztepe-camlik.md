@@ -5,10 +5,10 @@ slug: "goztepe-camlik"
 description: "**Göztepe, Çamlık: Selçuk'un Gizli Cenneti**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.387583,37.877967"
 draft: "false"
 weight: "999"

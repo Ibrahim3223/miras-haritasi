@@ -5,10 +5,10 @@ slug: "kelleha-tarlasi-ii"
 description: "## Kelleha Tarlası II: Tarihî Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

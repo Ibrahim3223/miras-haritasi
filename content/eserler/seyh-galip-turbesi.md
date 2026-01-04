@@ -5,10 +5,10 @@ slug: "seyh-galip-turbesi"
 description: "## Şeyh Galip Türbesi: Beyoğlu'ndaki Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9746399,41.0282288"
 draft: "false"
 weight: "999"

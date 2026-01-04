@@ -5,10 +5,10 @@ slug: "zeleia"
 description: "## Zeleia Arkeolojik Sit..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.595073,40.203564"
 draft: "false"
 weight: "999"

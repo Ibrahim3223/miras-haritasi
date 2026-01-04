@@ -5,10 +5,10 @@ slug: "polos-kalesi"
 description: "## Polos Kalesi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Yoğuntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.062694444,41.833111111"
 draft: "false"
 weight: "999"

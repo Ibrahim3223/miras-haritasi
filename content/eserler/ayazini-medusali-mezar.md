@@ -5,10 +5,10 @@ slug: "ayazini-medusali-mezar"
 description: "## Ayazini Medusalı Mezar: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Ayazini_Medusa_Relief_Tomb,_2017_1.jpg/1200px-Ayazini_Medusa_Relief_Tomb,_2017_1.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.571597107,39.012486875"
 draft: "false"
 weight: "10"

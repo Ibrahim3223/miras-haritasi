@@ -5,10 +5,10 @@ slug: "damsekoy-taskin-pasa-camii"
 description: "## Damseköy Taşkın Paşa Camii: Ürgüp'te Bir Gizem..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.9469719,38.491909"
 draft: "false"
 weight: "999"

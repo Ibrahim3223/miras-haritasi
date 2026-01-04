@@ -5,10 +5,10 @@ slug: "kys-karya"
 description: "## Kys (Karya): Antik Uygarlığın Kalıntıları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.423734,37.428882"
 draft: "false"
 weight: "999"

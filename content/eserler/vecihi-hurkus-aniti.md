@@ -5,10 +5,10 @@ slug: "vecihi-hurkus-aniti"
 description: "## Vecihi Hürkuş Anıtı: Kadıköy'ün Onuruna Bir Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Vecihi_Hürkuş_Anıtı_01.jpg/1200px-Vecihi_Hürkuş_Anıtı_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0392933,40.9843636"
 draft: "false"
 weight: "10"

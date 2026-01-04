@@ -5,10 +5,10 @@ slug: "hancerli-sultan-turbesi"
 description: "# Hançerli Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9336716,41.0484851"
 draft: "false"
 weight: "999"

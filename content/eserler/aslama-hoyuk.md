@@ -5,10 +5,10 @@ slug: "aslama-hoyuk"
 description: "### Aşlama Höyük Tanıtımı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.0409546,38.1371117"
 draft: "false"
 weight: "999"

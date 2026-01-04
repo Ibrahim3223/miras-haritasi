@@ -5,10 +5,10 @@ slug: "yunus-emre-turbesi"
 description: "## Yunus Emre Türbesi: Bir Şairin Anıtsal Mezarı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mihalıççık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.4863663,39.711216"
 draft: "false"
 weight: "999"

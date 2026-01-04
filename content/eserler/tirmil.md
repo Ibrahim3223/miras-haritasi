@@ -5,10 +5,10 @@ slug: "tirmil"
 description: "## Tırmıl: Akdeniz'in Gizli Kaleleri Arasındaki Ejderha..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tırmıl,_Mersin.jpg/1200px-Tırmıl,_Mersin.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.66222222,36.82583333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bodrumi-omer-lutfi-efendi-camii"
 description: "## Bodrumi Ömer Lütfi Efendi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.067701,41.011756"
 draft: "false"
 weight: "999"

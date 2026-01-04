@@ -5,10 +5,10 @@ slug: "orme-dikilitas"
 description: "## Örme Dikilitaş: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Sultanahmet_Square,_Istanbul_(52120374752).jpg/1200px-Sultanahmet_Square,_Istanbul_(52120374752).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9748,41.0054"
 draft: "false"
 weight: "10"

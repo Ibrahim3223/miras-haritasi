@@ -5,10 +5,10 @@ slug: "hasan-bey-turbesi-gurpinar"
 description: "## Hasan Bey Türbesi, Gürpınar..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.7972107,38.3174973"
 draft: "false"
 weight: "999"

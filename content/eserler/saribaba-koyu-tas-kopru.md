@@ -5,10 +5,10 @@ slug: "saribaba-koyu-tas-kopru"
 description: "## Sarıbaba Köyü Taş Köprü: Gümüşhane'nin Gizli Çehresini Açıklamak..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.02747,40.55861"
 draft: "false"
 weight: "999"

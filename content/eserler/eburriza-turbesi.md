@@ -5,10 +5,10 @@ slug: "eburriza-turbesi"
 description: "## Eburrıza Türbesi: Beyoğlu'ndaki Gizemli Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9748707,41.0404358"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turk-islam-eserleri-muzesi"
 description: "## Türk-İslam Eserleri Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0732,40.1816"
 draft: "false"
 weight: "999"

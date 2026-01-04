@@ -5,10 +5,10 @@ slug: "kocakizlar-hoyugu"
 description: "## Kocakızlar Höyüğü: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9300558,39.785492"
 draft: "false"
 weight: "999"

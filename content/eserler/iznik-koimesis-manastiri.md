@@ -5,10 +5,10 @@ slug: "iznik-koimesis-manastiri"
 description: "## İznik Koimesis Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Church_of_the_Dormition_in_Nicaea.jpg/1200px-Church_of_the_Dormition_in_Nicaea.jpg"
 province: "İznik"
-iller: '["İznik"]'
+iller: ["İznik"]
 district: "Nikaia"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.72444,40.42639"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mufide-ilhan-aniti"
 description: "## Müfide İlhan Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6100464,36.7816963"
 draft: "false"
 weight: "999"

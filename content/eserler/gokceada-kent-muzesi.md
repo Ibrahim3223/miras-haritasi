@@ -5,10 +5,10 @@ slug: "gokceada-kent-muzesi"
 description: "## Gökçeada Kent Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "25.9037189,40.1941338"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "beykoy"
 description: "# Beyköy Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.46095,39.02435"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-muslihittin-turbesi"
 description: "## Şeyh Muslihittin Türbesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Eğirdir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8675156,37.8838005"
 draft: "false"
 weight: "999"

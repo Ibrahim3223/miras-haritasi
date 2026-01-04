@@ -5,10 +5,10 @@ slug: "arseniseuli-kilisesi"
 description: "## Arseniseuli Kilisesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Yusufeli"
-iller: '["Yusufeli"]'
+iller: ["Yusufeli"]
 district: "Tekkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.457186111,40.814241666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "veletozu-hoyuk"
 description: "**Veletözü Höyük: Kayıtlara Geçen Tarih**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2287984,39.5577782"
 draft: "false"
 weight: "999"

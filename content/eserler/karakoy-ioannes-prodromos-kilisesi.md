@@ -5,10 +5,10 @@ slug: "karakoy-ioannes-prodromos-kilisesi"
 description: "# Karaköy İoannes Prodromos Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.978148,41.025213"
 draft: "false"
 weight: "999"

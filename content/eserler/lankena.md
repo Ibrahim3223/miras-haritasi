@@ -5,10 +5,10 @@ slug: "lankena"
 description: "## Lankena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.906358,38.876554"
 draft: "false"
 weight: "999"

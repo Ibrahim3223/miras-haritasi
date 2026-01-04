@@ -5,10 +5,10 @@ slug: "seyh-hamit-camii"
 description: "## Şeyh Hamit Camii: Kayseri'nin Güzelliği..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5722733,38.6500206"
 draft: "false"
 weight: "999"

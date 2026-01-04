@@ -5,10 +5,10 @@ slug: "keskin-sulu-magara"
 description: "**Keskin Sulu Mağara: Kırıkkale'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Keskin"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

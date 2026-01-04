@@ -5,10 +5,10 @@ slug: "ashab-i-kehf-camii"
 description: "**Ashab-ı Kehf Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Eshab-%C4%B1_Kehf_-_panoramio.jpg"
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.796976,36.957798"
 draft: "false"
 weight: "999"

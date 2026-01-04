@@ -5,10 +5,10 @@ slug: "sivriler-4-tumulusu"
 description: "## Sivriler 4 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9344254,41.8147888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "antalya-ataturk-muzesi"
 description: "**Antalya Atatürk Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Antalya_Atatürk_Müzesi.jpg/1200px-Antalya_Atatürk_Müzesi.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.708172795,36.880635049"
 draft: "false"
 weight: "10"

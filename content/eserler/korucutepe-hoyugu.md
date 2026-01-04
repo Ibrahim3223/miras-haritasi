@@ -5,10 +5,10 @@ slug: "korucutepe-hoyugu"
 description: "## Korucutepe Höyüğü: Elazığ'ın Eski Yerleşimi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.5427513,38.6287956"
 draft: "false"
 weight: "999"

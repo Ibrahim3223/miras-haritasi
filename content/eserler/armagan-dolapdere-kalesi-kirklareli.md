@@ -5,10 +5,10 @@ slug: "armagan-dolapdere-kalesi-kirklareli"
 description: "# Armağan Dolapdere Kalesi: Kırklareli'nin Gizli Güzelliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4034977,41.8673935"
 draft: "false"
 weight: "999"

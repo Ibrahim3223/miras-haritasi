@@ -5,10 +5,10 @@ slug: "balikli-meryem-ana-rum-manastiri"
 description: "### Balıklı Meryem Ana Rum Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Saint_Mary_Of_The_Spring_2010-10-09_01.jpg/1200px-Saint_Mary_Of_The_Spring_2010-10-09_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9157,41.0065"
 draft: "false"
 weight: "10"

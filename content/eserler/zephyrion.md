@@ -5,10 +5,10 @@ slug: "zephyrion"
 description: "### Zephyrion: Akdeniz'in Gizli Harikası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6258392,36.7949371"
 draft: "false"
 weight: "999"

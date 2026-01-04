@@ -5,10 +5,10 @@ slug: "yolboyu-hoyugu"
 description: "**Yolboyu Höyüğü: Aydın'ın Gizli Ören Yeri**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0215645,37.634285"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-egrek-tepesi"
 description: "## Büyük Eğrek Tepesi: Sivas'ın Eski Uygarlığının Gizemi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8148154,39.5779336"
 draft: "false"
 weight: "999"

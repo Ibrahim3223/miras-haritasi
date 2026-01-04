@@ -5,10 +5,10 @@ slug: "yesilyurt-mahallesi-camii"
 description: "## Yeşilyurt Mahallesi Camii: İkizdere'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.552774154,40.77605664"
 draft: "false"
 weight: "999"

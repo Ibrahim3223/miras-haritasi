@@ -5,10 +5,10 @@ slug: "fatih-kucuk-camii-ortahisar"
 description: "## Fatih Küçük Camii: Ortahisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.717225,40.993578"
 draft: "false"
 weight: "999"

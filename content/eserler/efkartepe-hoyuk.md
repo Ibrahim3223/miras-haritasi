@@ -5,10 +5,10 @@ slug: "efkartepe-hoyuk"
 description: "**Efkartepe Höyük: Tunceli'nin Gizli Mirası**..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Ovacık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.2178802,39.3549843"
 draft: "false"
 weight: "999"

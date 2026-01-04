@@ -5,10 +5,10 @@ slug: "tasbulak-kalesi"
 description: "## Taşbulak Kalesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.9395714,39.6412277"
 draft: "false"
 weight: "999"

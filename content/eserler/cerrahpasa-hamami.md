@@ -5,10 +5,10 @@ slug: "cerrahpasa-hamami"
 description: "## Cerrahpaşa Hamamı: Geçmişten Geleceğe Etkileyici Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9454498,41.0077705"
 draft: "false"
 weight: "999"

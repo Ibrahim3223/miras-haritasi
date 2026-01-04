@@ -5,10 +5,10 @@ slug: "suleyman-ahibaba-cami"
 description: "### Süleyman Ahibaba Cami..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5014801,37.8725586"
 draft: "false"
 weight: "999"

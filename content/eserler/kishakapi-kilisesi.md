@@ -5,10 +5,10 @@ slug: "kishakapi-kilisesi"
 description: "## Kishakapı Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Derekapı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.482391666,40.437755555"
 draft: "false"
 weight: "999"

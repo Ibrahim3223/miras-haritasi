@@ -5,10 +5,10 @@ slug: "bugdaypazari-camii"
 description: "**Buğdaypazarı Camii**..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.6192207,40.6010437"
 draft: "false"
 weight: "999"

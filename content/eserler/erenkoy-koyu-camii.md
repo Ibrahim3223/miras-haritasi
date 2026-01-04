@@ -5,10 +5,10 @@ slug: "erenkoy-koyu-camii"
 description: "## Erenköy Köyü Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Murgul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.611287,41.306383"
 draft: "false"
 weight: "999"

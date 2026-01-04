@@ -5,10 +5,10 @@ slug: "titus-tuneli"
 description: "### Titus Tüneli: Hatay'ın Tarihî Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Samandag4.JPG/1200px-Samandag4.JPG"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.92916667,36.12277778"
 draft: "false"
 weight: "10"

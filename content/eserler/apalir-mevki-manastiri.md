@@ -5,10 +5,10 @@ slug: "apalir-mevki-manastiri"
 description: "## Apalir Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8470325,40.1912575"
 draft: "false"
 weight: "999"

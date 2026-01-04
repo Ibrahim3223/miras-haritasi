@@ -5,10 +5,10 @@ slug: "gidzvag-surp-kevork-kilisesi"
 description: "## Gıdzvag Surp Kevork Kilisesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Tatvan"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.3798332,38.5722084"
 draft: "false"
 weight: "999"

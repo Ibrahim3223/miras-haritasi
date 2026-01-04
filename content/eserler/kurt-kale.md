@@ -5,10 +5,10 @@ slug: "kurt-kale"
 description: "# Kurt Kale: Ardahan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Çıldır"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.1391799,41.2582429"
 draft: "false"
 weight: "999"

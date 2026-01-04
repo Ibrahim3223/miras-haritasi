@@ -5,10 +5,10 @@ slug: "pendik-fransiz-katolik-kilisesi"
 description: "## Pendik Fransız Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Pendik_Fransz_Katolik_Kilisesi_1761577683.jpg/1200px-Pendik_Fransz_Katolik_Kilisesi_1761577683.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.229108101,40.874283832"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tekgoz-koprusu"
 description: "### Tekgöz Köprüsü: Tarihinin Büyülü Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Tekgöz_Brücke_03.jpg/1200px-Tekgöz_Brücke_03.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.178888888,38.836111111"
 draft: "false"
 weight: "10"

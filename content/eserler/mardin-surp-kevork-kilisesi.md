@@ -5,10 +5,10 @@ slug: "mardin-surp-kevork-kilisesi"
 description: "## Mardin Surp Kevork Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Derik"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.270571,37.368938"
 draft: "false"
 weight: "999"

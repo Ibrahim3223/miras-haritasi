@@ -5,10 +5,10 @@ slug: "incili-camii"
 description: "## İncili Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.9190006,40.1692009"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nakkas-ali-mescidi"
 description: "### Nakkaş Ali Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nakkaş_ali_mescidi_bursa_-_panoramio.jpg/1200px-Nakkaş_ali_mescidi_bursa_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0536938,40.1855392"
 draft: "false"
 weight: "10"

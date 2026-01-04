@@ -5,10 +5,10 @@ slug: "sirkeci-gari-saat-kuleleri"
 description: "### Sirkeci Garı Saat Kuleleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "28.9769936,41.0153923"
 draft: "false"
 weight: "999"

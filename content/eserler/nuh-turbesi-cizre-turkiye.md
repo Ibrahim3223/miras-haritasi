@@ -5,10 +5,10 @@ slug: "nuh-turbesi-cizre-turkiye"
 description: "## Nuh Türbesi: Cizre'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Noah-Mausoleum-Cizre-Turkey-August-2009-7.jpg/1200px-Noah-Mausoleum-Cizre-Turkey-August-2009-7.jpg"
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1882579,37.3240551"
 draft: "false"
 weight: "10"

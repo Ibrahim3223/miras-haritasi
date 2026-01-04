@@ -5,10 +5,10 @@ slug: "kaya-mezari-2-gunoren-mahallesi-altinordu"
 description: "## Kaya Mezarı 2 (Günören Mahallesi), Altınordu..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.722754,40.92672"
 draft: "false"
 weight: "999"

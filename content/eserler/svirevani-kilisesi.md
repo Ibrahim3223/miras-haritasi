@@ -5,10 +5,10 @@ slug: "svirevani-kilisesi"
 description: "## Svirevani Kilisesi: Dutlu, Şavşat'ta Bir Geçmişin Ölümsüz Kalıntıları..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Dutlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.285047222,41.365675"
 draft: "false"
 weight: "999"

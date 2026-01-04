@@ -5,10 +5,10 @@ slug: "bayramoren-koprusu"
 description: "### Bayramören Köprüsü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.199418,40.950628"
 draft: "false"
 weight: "999"

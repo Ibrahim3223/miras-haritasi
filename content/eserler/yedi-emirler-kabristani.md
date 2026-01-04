@@ -5,10 +5,10 @@ slug: "yedi-emirler-kabristani"
 description: "## Yedi Emirler Kabristanı: İstanbul'un Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Yetti_amir._Kirish.jpg/1200px-Yetti_amir._Kirish.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.947641979,41.020664826"
 draft: "false"
 weight: "10"

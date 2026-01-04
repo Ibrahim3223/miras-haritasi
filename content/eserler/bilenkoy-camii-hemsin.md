@@ -5,10 +5,10 @@ slug: "bilenkoy-camii-hemsin"
 description: "## Bilenköy Camii, Hemşin..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.900102,41.025906"
 draft: "false"
 weight: "999"

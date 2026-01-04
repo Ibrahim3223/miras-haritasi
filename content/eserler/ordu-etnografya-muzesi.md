@@ -5,10 +5,10 @@ slug: "ordu-etnografya-muzesi"
 description: "## Ordu Etnografya Müzesi: Türkiye'nin Doğu Karadeniz Bölgesi'nin Gerçek Yüzünü Görme Fırsatı..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.875277777,40.982777777"
 draft: "false"
 weight: "999"

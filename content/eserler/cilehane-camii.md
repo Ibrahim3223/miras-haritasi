@@ -5,10 +5,10 @@ slug: "cilehane-camii"
 description: "### Çilehane Camii: Amasya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8383636,40.6538239"
 draft: "false"
 weight: "999"

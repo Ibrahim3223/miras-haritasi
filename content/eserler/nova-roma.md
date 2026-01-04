@@ -5,10 +5,10 @@ slug: "nova-roma"
 description: "## Nova Roma: Türkiye'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.955555555,41.013888888"
 draft: "false"
 weight: "999"

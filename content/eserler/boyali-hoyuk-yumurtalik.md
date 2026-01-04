@@ -5,10 +5,10 @@ slug: "boyali-hoyuk-yumurtalik"
 description: "# Boyalı Höyük, Yumurtalık..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yumurtalık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.8969231,36.8963928"
 draft: "false"
 weight: "999"

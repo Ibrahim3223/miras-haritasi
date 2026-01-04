@@ -5,10 +5,10 @@ slug: "kahta-kalesi"
 description: "# Kahta Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/1F5A2142_kopya.jpg/1200px-1F5A2142_kopya.jpg"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Kâhta"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.6533203,37.9479866"
 draft: "false"
 weight: "10"

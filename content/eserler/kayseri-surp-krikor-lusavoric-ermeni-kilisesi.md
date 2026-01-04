@@ -5,10 +5,10 @@ slug: "kayseri-surp-krikor-lusavoric-ermeni-kilisesi"
 description: "## Kayseri Surp Krikor Lusavoriç Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Kayseri_Surp_Kirkor_Lusavoric_Armenian_Church_nave_under_balcony_2152.jpg/1200px-Kayseri_Surp_Kirkor_Lusavoric_Armenian_Church_nave_under_balcony_2152.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kayseri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.489804,38.71748"
 draft: "false"
 weight: "10"

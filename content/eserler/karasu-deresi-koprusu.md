@@ -5,10 +5,10 @@ slug: "karasu-deresi-koprusu"
 description: "### Karasu Deresi Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.6839352,40.4758644"
 draft: "false"
 weight: "999"

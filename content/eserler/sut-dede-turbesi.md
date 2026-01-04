@@ -5,10 +5,10 @@ slug: "sut-dede-turbesi"
 description: "### Süt Dede Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5372505,38.7519035"
 draft: "false"
 weight: "999"

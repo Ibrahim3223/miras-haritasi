@@ -5,10 +5,10 @@ slug: "gordion"
 description: "## Gordion: İskiti İmparatorluk Merkezinin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Ruins_of_Gordion_3.JPG/1200px-Ruins_of_Gordion_3.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.9784831,39.6504791"
 draft: "false"
 weight: "10"

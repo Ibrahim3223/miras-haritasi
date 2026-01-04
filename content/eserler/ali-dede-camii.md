@@ -5,10 +5,10 @@ slug: "ali-dede-camii"
 description: "# Ali Dede Camii..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3264694,36.9815178"
 draft: "false"
 weight: "999"

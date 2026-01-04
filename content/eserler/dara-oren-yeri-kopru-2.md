@@ -5,10 +5,10 @@ slug: "dara-oren-yeri-kopru-2"
 description: "# Dara Ören Yeri – Köprü 2: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9537849,37.1789093"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hallali-cami"
 description: "### Hallalı Cami: Balıkesir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6289234,39.5836563"
 draft: "false"
 weight: "999"

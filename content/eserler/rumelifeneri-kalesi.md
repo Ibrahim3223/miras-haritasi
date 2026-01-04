@@ -5,10 +5,10 @@ slug: "rumelifeneri-kalesi"
 description: "### Rumelifeneri Kalesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Rumeli_Feneri_Castle_p1,_Jan_2014.JPG/1200px-Rumeli_Feneri_Castle_p1,_Jan_2014.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.110955589,41.237831804"
 draft: "false"
 weight: "10"

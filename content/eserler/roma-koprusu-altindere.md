@@ -5,10 +5,10 @@ slug: "roma-koprusu-altindere"
 description: "## Roma Köprüsü, Altındere: Tarihî Bir İkona Yolculuk..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9335,37.785404"
 draft: "false"
 weight: "999"

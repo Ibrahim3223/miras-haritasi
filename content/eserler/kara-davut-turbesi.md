@@ -5,10 +5,10 @@ slug: "kara-davut-turbesi"
 description: "## Kara Davut Türbesi: Beypazarı'nın Ölümsüz Yüzyılları..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9624004,40.1971016"
 draft: "false"
 weight: "999"

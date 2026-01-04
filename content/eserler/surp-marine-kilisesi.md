@@ -5,10 +5,10 @@ slug: "surp-marine-kilisesi"
 description: "### Surp Marine Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Surb_Marine_Church_of_Mush_01.jpg/1200px-Surb_Marine_Church_of_Mush_01.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4875454,38.7287233"
 draft: "false"
 weight: "10"

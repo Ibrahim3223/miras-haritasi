@@ -5,10 +5,10 @@ slug: "ilicabasi-i"
 description: "## Ilıcabaşı I: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.00025,39.338367"
 draft: "false"
 weight: "999"

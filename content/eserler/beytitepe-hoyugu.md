@@ -5,10 +5,10 @@ slug: "beytitepe-hoyugu"
 description: "### Beytitepe Höyüğü: Ödemiş'in Gizli Öreni..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.913083,38.2055"
 draft: "false"
 weight: "999"

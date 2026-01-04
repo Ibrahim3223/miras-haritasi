@@ -5,10 +5,10 @@ slug: "tomb-of-hurrem-sultan"
 description: "### Tomb of Hürrem Sultan..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hürrem_Sultan_Türbesi_-_panoramio.jpg/1200px-Hürrem_Sultan_Türbesi_-_panoramio.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.964833,41.015668"
 draft: "false"
 weight: "10"

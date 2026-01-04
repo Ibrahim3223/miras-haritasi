@@ -5,10 +5,10 @@ slug: "kavaklar-mevkii"
 description: "### Kavaklar Mevkii: Uşak'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Sivaslı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.548933,38.462167"
 draft: "false"
 weight: "999"

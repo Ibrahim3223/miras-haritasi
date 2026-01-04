@@ -5,10 +5,10 @@ slug: "karakoy-hamami"
 description: "## Karaköy Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4202557,38.6086807"
 draft: "false"
 weight: "999"

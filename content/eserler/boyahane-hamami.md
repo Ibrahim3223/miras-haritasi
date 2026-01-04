@@ -5,10 +5,10 @@ slug: "boyahane-hamami"
 description: "## Boyahane Hamamı: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.272348,39.9079417"
 draft: "false"
 weight: "999"

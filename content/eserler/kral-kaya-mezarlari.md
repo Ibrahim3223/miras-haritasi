@@ -5,10 +5,10 @@ slug: "kral-kaya-mezarlari"
 description: "## Kral Kaya Mezarları: Amasya'nın Gizli Anıtları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amasya-Pontisches_Grab-02.JPG/1200px-Amasya-Pontisches_Grab-02.JPG"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.8304152,40.6536008"
 draft: "false"
 weight: "10"

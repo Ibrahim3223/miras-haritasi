@@ -5,10 +5,10 @@ slug: "yenisehir-ulu-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Yenişehir (Diyarbakır)"
-iller: '["Yenişehir (Diyarbakır)"]'
+iller: ["Yenişehir (Diyarbakır)"]
 district: "Yarhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.731111111,40.181611111"
 draft: "false"
 weight: "999"

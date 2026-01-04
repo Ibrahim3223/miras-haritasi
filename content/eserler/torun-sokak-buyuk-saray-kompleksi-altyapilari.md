@@ -5,10 +5,10 @@ slug: "torun-sokak-buyuk-saray-kompleksi-altyapilari"
 description: "## Torun Sokak Büyük Saray Kompleksi Altyapıları..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.9781742,41.004097"
 draft: "false"
 weight: "999"

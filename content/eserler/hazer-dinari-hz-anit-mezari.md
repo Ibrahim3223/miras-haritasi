@@ -5,10 +5,10 @@ slug: "hazer-dinari-hz-anit-mezari"
 description: "## Hazer Dinari Hz. Anıt Mezarı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9765663,39.4203835"
 draft: "false"
 weight: "999"

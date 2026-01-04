@@ -5,10 +5,10 @@ slug: "arac-kalesi"
 description: "**Araç Kalesi: Tarihi ve Kültürel Mirasının Gizli Gizemi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.3230324,41.2401733"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selymbria-kalesi"
 description: "## Selymbria Kalesi: Silivri'nin Tarihi Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.248745,41.0698624"
 draft: "false"
 weight: "999"

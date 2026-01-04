@@ -5,10 +5,10 @@ slug: "antiphellos-lahdi-1"
 description: "**Antiphellos Lahdi 1**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6369953,36.2022667"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bezabde"
 description: "## Bezabde: İdil'deki Antik Kent ve Arkeolojik Sit..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.066666666,37.402222222"
 draft: "false"
 weight: "999"

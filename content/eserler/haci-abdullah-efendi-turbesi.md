@@ -5,10 +5,10 @@ slug: "haci-abdullah-efendi-turbesi"
 description: "## Hacı Abdullah Efendi Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.84629,37.417582"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cifte-kopru-ikizdere"
 description: "## Çifte Köprü İkizdere: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.578817,40.66185"
 draft: "false"
 weight: "999"

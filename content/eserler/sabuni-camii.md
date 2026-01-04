@@ -5,10 +5,10 @@ slug: "sabuni-camii"
 description: "## Sabuni Camii..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8687019,39.9355965"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kitanaura-antik-tiyatrosu"
 description: "## Kitanaura Antik Tiyatrosu: Antalya'nın Gizli Cezvesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.36417,36.646139"
 draft: "false"
 weight: "999"

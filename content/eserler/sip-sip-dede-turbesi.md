@@ -5,10 +5,10 @@ slug: "sip-sip-dede-turbesi"
 description: "## Şıp Şıp Dede Türbesi: Edremit'in Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.989487,39.608148"
 draft: "false"
 weight: "999"

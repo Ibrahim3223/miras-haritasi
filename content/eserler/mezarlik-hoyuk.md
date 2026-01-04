@@ -5,10 +5,10 @@ slug: "mezarlik-hoyuk"
 description: "## Mezarlık Höyük: Gelibolu'nun Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8830013,40.6628265"
 draft: "false"
 weight: "999"

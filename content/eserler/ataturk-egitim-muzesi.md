@@ -5,10 +5,10 @@ slug: "ataturk-egitim-muzesi"
 description: "## Atatürk Eğitim Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.825964,39.937196"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yukari-karacay-camii"
 description: "### Yukarı Karaçay Camii: Honaz, Denizli'nin Dini Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.419381,37.6874"
 draft: "false"
 weight: "999"

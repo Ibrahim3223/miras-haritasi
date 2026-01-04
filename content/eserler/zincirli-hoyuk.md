@@ -5,10 +5,10 @@ slug: "zincirli-hoyuk"
 description: "## Zincirli Höyük: İslahiye'nin Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Pergamon_Museum_King_Barrakib_and_scribe_from_Sam'al_aka_Zincirli_7979.jpg/1200px-Pergamon_Museum_King_Barrakib_and_scribe_from_Sam'al_aka_Zincirli_7979.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.678611111,37.103611111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "caglayik-camligi-tumulusu-2"
 description: "## Çağlayık Çamlığı Tümülüsü 2: Kırklareli'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3134785,42.0403023"
 draft: "false"
 weight: "999"

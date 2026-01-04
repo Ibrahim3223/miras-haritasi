@@ -5,10 +5,10 @@ slug: "balbura"
 description: "### Balbura: Bir Mitolojik Şehirin Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Balbura_intervenata.JPG"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.57913889,36.95236111"
 draft: "false"
 weight: "999"

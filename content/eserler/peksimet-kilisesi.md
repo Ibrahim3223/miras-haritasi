@@ -5,10 +5,10 @@ slug: "peksimet-kilisesi"
 description: "## Peksimet Kilisesi: Bodrum'un Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2511368,37.0343895"
 draft: "false"
 weight: "999"

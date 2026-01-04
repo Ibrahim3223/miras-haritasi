@@ -5,10 +5,10 @@ slug: "eski-bayir-kopru-kalintisi"
 description: "## Eski Bayır Köprü Kalıntısı: Muğla'nın Tarihi bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2625217,37.2682457"
 draft: "false"
 weight: "999"

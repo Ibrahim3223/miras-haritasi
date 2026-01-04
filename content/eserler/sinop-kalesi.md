@@ -5,10 +5,10 @@ slug: "sinop-kalesi"
 description: "**Sinop Kalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Sinop-Castle.jpg/1200px-Sinop-Castle.jpg"
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.1506,42.0237"
 draft: "false"
 weight: "10"

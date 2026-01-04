@@ -5,10 +5,10 @@ slug: "hasuni-kalesi"
 description: "## Hasuni Kalesi: Silvan'ın Tarihsel Anıtları Arasındaki Yüce Kale..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.089859,38.1365623"
 draft: "false"
 weight: "999"

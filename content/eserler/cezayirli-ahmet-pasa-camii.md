@@ -5,10 +5,10 @@ slug: "cezayirli-ahmet-pasa-camii"
 description: "### Cezayirli Ahmet Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Cezayirli_Ahmet_Paşa_Camii’nin_yeri,_2025.jpg/1200px-Cezayirli_Ahmet_Paşa_Camii’nin_yeri,_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9782385,41.0141607"
 draft: "false"
 weight: "10"

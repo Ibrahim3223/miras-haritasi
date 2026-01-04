@@ -5,10 +5,10 @@ slug: "maskuri-kilisesi"
 description: "## Maskuri Kilisesi..."
 featured_image: ""
 province: "Tortum ilçesi"
-iller: '["Tortum ilçesi"]'
+iller: ["Tortum ilçesi"]
 district: "Cihanlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.389611111,40.427925"
 draft: "false"
 weight: "999"

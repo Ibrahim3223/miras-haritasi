@@ -5,10 +5,10 @@ slug: "yenisehir-i-bostin-bos-tepe"
 description: "## Yenişehir I (Bostin Boş Tepe): Bursa'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.645717,40.266667"
 draft: "false"
 weight: "999"

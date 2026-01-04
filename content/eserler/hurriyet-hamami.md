@@ -5,10 +5,10 @@ slug: "hurriyet-hamami"
 description: "### Hürriyet Hamamı: İstanbul'un Tarihi Bir Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.979235,41.039539"
 draft: "false"
 weight: "999"

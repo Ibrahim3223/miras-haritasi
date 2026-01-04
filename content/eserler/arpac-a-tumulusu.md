@@ -5,10 +5,10 @@ slug: "arpac-a-tumulusu"
 description: "## Arpaç A Tümülüsü: Edirne'nin Gizli Çarpıntısı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8979588,41.6881714"
 draft: "false"
 weight: "999"

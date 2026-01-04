@@ -5,10 +5,10 @@ slug: "adsiz-tumulus-mt"
 description: "# Adsız Tümülüs (MT): Vize'nin Gizemi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.773262,41.5274849"
 draft: "false"
 weight: "999"

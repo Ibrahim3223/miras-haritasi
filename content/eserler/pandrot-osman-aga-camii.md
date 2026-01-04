@@ -5,10 +5,10 @@ slug: "pandrot-osman-aga-camii"
 description: "## Pandrot Osman Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Pandrot_Osman_Ağa_Mosque.jpg/1200px-Pandrot_Osman_Ağa_Mosque.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.303055555,38.322472222"
 draft: "false"
 weight: "10"

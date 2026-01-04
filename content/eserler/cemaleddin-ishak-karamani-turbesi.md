@@ -5,10 +5,10 @@ slug: "cemaleddin-ishak-karamani-turbesi"
 description: "## Cemaleddin İshak Karamani Türbesi: Beyoğlu'ndaki Bir Anıtın Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9414272,41.04916"
 draft: "false"
 weight: "999"

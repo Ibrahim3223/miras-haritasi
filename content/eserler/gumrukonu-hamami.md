@@ -5,10 +5,10 @@ slug: "gumrukonu-hamami"
 description: "### Gümrükönü Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.842617,37.8512421"
 draft: "false"
 weight: "999"

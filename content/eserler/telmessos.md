@@ -5,10 +5,10 @@ slug: "telmessos"
 description: "# Telmessos: Muğla'nın Gizli Özellisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Tomb_of_Amyntas_2020-03-15-2.jpg/1200px-Tomb_of_Amyntas_2020-03-15-2.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.11777778,36.61833333"
 draft: "false"
 weight: "10"

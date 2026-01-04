@@ -5,10 +5,10 @@ slug: "yesil-turbe-aydin"
 description: "## Yeşil Türbe: Aydın'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3228512,37.9036598"
 draft: "false"
 weight: "999"

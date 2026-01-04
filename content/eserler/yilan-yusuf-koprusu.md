@@ -5,10 +5,10 @@ slug: "yilan-yusuf-koprusu"
 description: "## Yılan Yusuf Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.600488317,38.311736862"
 draft: "false"
 weight: "999"

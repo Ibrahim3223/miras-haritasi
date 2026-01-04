@@ -5,10 +5,10 @@ slug: "sanizade-ataullah-efendi-aniti"
 description: "## Şanizade Ataullah Efendi Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7303619,38.0847588"
 draft: "false"
 weight: "999"

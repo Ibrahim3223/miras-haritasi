@@ -5,10 +5,10 @@ slug: "huma-camii"
 description: "## Huma Camii: Samsun'un Tarihi bir Zenginliği..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9157982,41.0433998"
 draft: "false"
 weight: "999"

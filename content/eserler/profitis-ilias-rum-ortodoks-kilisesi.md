@@ -5,10 +5,10 @@ slug: "profitis-ilias-rum-ortodoks-kilisesi"
 description: "## Profitis İlias Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0338631,41.0728683"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kaya-mezari-2-delikkaya-mahallesi-altinordu"
 description: "## Kaya Mezarı 2 (Delikkaya Mahallesi), Altınordu..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.848187,40.902316"
 draft: "false"
 weight: "999"

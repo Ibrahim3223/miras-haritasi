@@ -5,10 +5,10 @@ slug: "cura-baba-turbesi"
 description: "## Cura Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "28.9712601,41.0449104"
 draft: "false"
 weight: "999"

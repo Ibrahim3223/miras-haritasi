@@ -5,10 +5,10 @@ slug: "hizir-pasa-hamami"
 description: "## Hızır Paşa Hamamı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.8132515,40.657341"
 draft: "false"
 weight: "999"

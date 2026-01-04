@@ -5,10 +5,10 @@ slug: "iskele-hoyuk"
 description: "## İskele Höyük: Isparta'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Gelendost"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.950833,38.046517"
 draft: "false"
 weight: "999"

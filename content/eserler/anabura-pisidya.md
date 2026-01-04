@@ -5,10 +5,10 @@ slug: "anabura-pisidya"
 description: "# Anabura (Pisidya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.285104,37.990797"
 draft: "false"
 weight: "999"

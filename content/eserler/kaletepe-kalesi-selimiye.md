@@ -5,10 +5,10 @@ slug: "kaletepe-kalesi-selimiye"
 description: "## Kaletepe Kalesi, Selimiye: Marmaris'in Eski Günlerine Yolculuk..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1003094,36.6881065"
 draft: "false"
 weight: "999"

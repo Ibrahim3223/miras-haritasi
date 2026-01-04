@@ -5,10 +5,10 @@ slug: "tarihi-meydan-hamami"
 description: "## Tarihi Meydan Hamamı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.0209117,39.7500439"
 draft: "false"
 weight: "999"

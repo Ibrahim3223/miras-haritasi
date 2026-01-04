@@ -5,10 +5,10 @@ slug: "eskisehir-cumhuriyet-tarihi-muzesi"
 description: "## Eskişehir Cumhuriyet Tarihi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.524027,39.765556"
 draft: "false"
 weight: "999"

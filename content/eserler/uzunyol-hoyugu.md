@@ -5,10 +5,10 @@ slug: "uzunyol-hoyugu"
 description: "## Uzunyol Höyüğü: Harran'ın Gizemli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Harran"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9845944,36.8066166"
 draft: "false"
 weight: "999"

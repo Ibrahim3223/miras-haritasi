@@ -5,10 +5,10 @@ slug: "kyllene-eolis"
 description: "# Kyllene (Eolis)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.83198,38.745271"
 draft: "false"
 weight: "999"

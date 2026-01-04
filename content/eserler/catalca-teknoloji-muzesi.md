@@ -5,10 +5,10 @@ slug: "catalca-teknoloji-muzesi"
 description: "## Çatalca Teknoloji Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.51112,41.099934"
 draft: "false"
 weight: "999"

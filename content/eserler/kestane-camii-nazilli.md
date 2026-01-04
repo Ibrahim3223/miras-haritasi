@@ -5,10 +5,10 @@ slug: "kestane-camii-nazilli"
 description: "### Kestane Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3274956,37.9167175"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nusratiye-camii"
 description: "## Nusratiye Camii..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.6330414,36.8003311"
 draft: "false"
 weight: "999"

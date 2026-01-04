@@ -5,10 +5,10 @@ slug: "cafer-aga-mescidi-edirne"
 description: "### Cafer Ağa Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5631161,41.6799011"
 draft: "false"
 weight: "999"

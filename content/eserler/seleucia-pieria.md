@@ -5,10 +5,10 @@ slug: "seleucia-pieria"
 description: "## Seleucia Pieria: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Column_plinths,_Seleucia_Pieria.jpg/1200px-Column_plinths,_Seleucia_Pieria.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.922,36.124"
 draft: "false"
 weight: "10"

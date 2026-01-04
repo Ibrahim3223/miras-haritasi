@@ -5,10 +5,10 @@ slug: "dalyan-camii-cesme"
 description: "## Dalyan Camii: Çeşme'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.3101101,38.3547325"
 draft: "false"
 weight: "999"

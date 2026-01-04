@@ -5,10 +5,10 @@ slug: "anazarbus-zafer-taki"
 description: "## Anazarbus Zafer Takı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Anazarbus_klikya_city_south_gate.jpg/1200px-Anazarbus_klikya_city_south_gate.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.9032,37.2505"
 draft: "false"
 weight: "10"

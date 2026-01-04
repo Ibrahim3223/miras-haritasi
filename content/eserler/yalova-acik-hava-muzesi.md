@@ -5,10 +5,10 @@ slug: "yalova-acik-hava-muzesi"
 description: "## Yalova Açık Hava Müzesi: Yalova'nın Tarihî Eserlerinden Bir Diğer..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

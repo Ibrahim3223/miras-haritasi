@@ -5,10 +5,10 @@ slug: "herakleia-cybistra"
 description: "## Herakleia Cybistra: Konya'daki Antik Kent..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.051666666,37.505833333"
 draft: "false"
 weight: "999"

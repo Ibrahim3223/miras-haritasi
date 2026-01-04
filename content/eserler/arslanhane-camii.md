@@ -5,10 +5,10 @@ slug: "arslanhane-camii"
 description: "# Arslanhane Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Ankara_Arslanhani_Camii_Aussen.JPG/1200px-Ankara_Arslanhani_Camii_Aussen.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.86527778,39.93666667"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ascilar-mescidi"
 description: "## Aşçılar Mescidi: Fatih'teki Bir Tarihî Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9843826,41.0113754"
 draft: "false"
 weight: "999"

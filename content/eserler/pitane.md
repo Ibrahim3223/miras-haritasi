@@ -5,10 +5,10 @@ slug: "pitane"
 description: "## Pitane: İyonya'nın Gizli Kenti..."
 featured_image: ""
 province: "Dikili (ilçe)"
-iller: '["Dikili (ilçe)"]'
+iller: ["Dikili (ilçe)"]
 district: "Çandarlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.933333333,38.933333333"
 draft: "false"
 weight: "999"

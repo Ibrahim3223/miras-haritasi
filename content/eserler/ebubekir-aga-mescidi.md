@@ -5,10 +5,10 @@ slug: "ebubekir-aga-mescidi"
 description: "## Ebubekir Ağa Mescidi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7490196,38.0821152"
 draft: "false"
 weight: "999"

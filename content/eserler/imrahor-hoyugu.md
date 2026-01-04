@@ -5,10 +5,10 @@ slug: "imrahor-hoyugu"
 description: "## İmrahor Höyüğü: Ankara'nın Eski Tarihçesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8938713,39.8633804"
 draft: "false"
 weight: "999"

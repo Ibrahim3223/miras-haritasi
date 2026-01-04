@@ -5,10 +5,10 @@ slug: "karaman-camii"
 description: "## Karaman Camii: Afyonkarahisar'ın Güzeli..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5388699,38.7593536"
 draft: "false"
 weight: "999"

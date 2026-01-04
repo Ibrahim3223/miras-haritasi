@@ -5,10 +5,10 @@ slug: "ayakapi-sapeli"
 description: "**Ayakapı Şapeli**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9560184,41.0279617"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "guzelkoy-hamami"
 description: "## Güzelköy Hamamı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2916813,40.7412567"
 draft: "false"
 weight: "999"

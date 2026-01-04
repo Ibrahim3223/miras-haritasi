@@ -5,10 +5,10 @@ slug: "kirim-savasi-aniti"
 description: "## Kırım Savaşı Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0183563,41.0013046"
 draft: "false"
 weight: "999"

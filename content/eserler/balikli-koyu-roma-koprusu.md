@@ -5,10 +5,10 @@ slug: "balikli-koyu-roma-koprusu"
 description: "### Balıklı Köyü Roma Köprüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Altıeylül"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0278263,39.6311569"
 draft: "false"
 weight: "999"

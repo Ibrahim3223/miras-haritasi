@@ -5,10 +5,10 @@ slug: "karakaya-camii"
 description: "### Karakaya Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2646999,37.0616989"
 draft: "false"
 weight: "999"

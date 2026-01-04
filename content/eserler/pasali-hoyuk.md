@@ -5,10 +5,10 @@ slug: "pasali-hoyuk"
 description: "## Paşalı Höyük: Avanos'un Gizli Kahramanı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9837544,39.0108091"
 draft: "false"
 weight: "999"

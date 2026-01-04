@@ -5,10 +5,10 @@ slug: "hurriyet-abidesi-tekirdag"
 description: "### Hürriyet Abidesi, Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.5168571,40.9786835"
 draft: "false"
 weight: "999"

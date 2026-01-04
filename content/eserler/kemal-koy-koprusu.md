@@ -5,10 +5,10 @@ slug: "kemal-koy-koprusu"
 description: "### Kemal Köy Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.4037781,41.7351456"
 draft: "false"
 weight: "999"

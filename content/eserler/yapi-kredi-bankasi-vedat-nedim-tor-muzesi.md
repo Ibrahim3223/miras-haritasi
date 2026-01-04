@@ -5,10 +5,10 @@ slug: "yapi-kredi-bankasi-vedat-nedim-tor-muzesi"
 description: "## Yapı Kredi Bankası Vedat Nedim Tör Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.976863,41.033198"
 draft: "false"
 weight: "999"

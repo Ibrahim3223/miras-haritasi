@@ -5,10 +5,10 @@ slug: "goktepe-hoyuk"
 description: "### Göktepe Höyük: Afyonkarahisar'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.266133,38.24145"
 draft: "false"
 weight: "999"

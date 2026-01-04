@@ -5,10 +5,10 @@ slug: "taslicabayir-tumulusu"
 description: "## Taşlıcabayır Tümülüsü: Kırklareli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.243206,41.674633"
 draft: "false"
 weight: "999"

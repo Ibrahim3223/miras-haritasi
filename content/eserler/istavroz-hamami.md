@@ -5,10 +5,10 @@ slug: "istavroz-hamami"
 description: "### Istavroz Hamamı: Üsküdar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0430965,41.0428123"
 draft: "false"
 weight: "999"

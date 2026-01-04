@@ -5,10 +5,10 @@ slug: "alaeddin-pasa-camii"
 description: "## Alaeddin Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Alaüddin_paşa_camisi_bursa_-_panoramio_(1).jpg/1200px-Alaüddin_paşa_camisi_bursa_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0499611,40.1851959"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sosik-kalesi"
 description: "### Şoşik Kalesi: Ağrı'nın Tarihî Miraslarından Bir Değer..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Hamur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.177214,39.528027"
 draft: "false"
 weight: "999"

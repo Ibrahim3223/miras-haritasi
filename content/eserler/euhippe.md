@@ -5,10 +5,10 @@ slug: "euhippe"
 description: "## Euhippe Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.086631,37.787596"
 draft: "false"
 weight: "999"

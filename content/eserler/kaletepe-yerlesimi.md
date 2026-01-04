@@ -5,10 +5,10 @@ slug: "kaletepe-yerlesimi"
 description: "## Kaletepe Yerleşimi: Malatya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.4842072,38.4105644"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kulak-turbesi"
 description: "## Kulak Türbesi: Niksar'ın Gizli Çağından Bir Anı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "36.9655914,40.5921173"
 draft: "false"
 weight: "999"

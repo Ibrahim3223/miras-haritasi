@@ -5,10 +5,10 @@ slug: "ozbek-camii-kilis"
 description: "## Özbek Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1180801,36.7114601"
 draft: "false"
 weight: "999"

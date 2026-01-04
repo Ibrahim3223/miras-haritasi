@@ -5,10 +5,10 @@ slug: "hristos-analipsis-rum-ortodoks-kilisesi"
 description: "### Hristos Analipsis Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.932052,40.999324"
 draft: "false"
 weight: "999"

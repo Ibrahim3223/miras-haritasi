@@ -5,10 +5,10 @@ slug: "halet-efendi-turbesi"
 description: "### Halet Efendi Türbesi: Beyoğlu'nun Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9745159,41.0282555"
 draft: "false"
 weight: "999"

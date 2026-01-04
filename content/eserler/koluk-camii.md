@@ -5,10 +5,10 @@ slug: "koluk-camii"
 description: "## Kölük Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kayseri_Gülük_Camii_exterior_2120.jpg/1200px-Kayseri_Gülük_Camii_exterior_2120.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4809761,38.7187996"
 draft: "false"
 weight: "10"

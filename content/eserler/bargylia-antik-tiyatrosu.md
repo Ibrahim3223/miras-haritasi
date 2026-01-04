@@ -5,10 +5,10 @@ slug: "bargylia-antik-tiyatrosu"
 description: "## Bargylia Antik Tiyatrosu..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.589396,37.195713"
 draft: "false"
 weight: "999"

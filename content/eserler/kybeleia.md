@@ -5,10 +5,10 @@ slug: "kybeleia"
 description: "## Kybeleia: İzmir'in Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karaburun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.358056,38.610607"
 draft: "false"
 weight: "999"

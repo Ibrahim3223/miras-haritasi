@@ -5,10 +5,10 @@ slug: "carsi-camii-kemalpasa"
 description: "## Çarşı Camii, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4157276,38.4247398"
 draft: "false"
 weight: "999"

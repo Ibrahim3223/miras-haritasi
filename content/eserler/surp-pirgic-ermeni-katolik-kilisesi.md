@@ -5,10 +5,10 @@ slug: "surp-pirgic-ermeni-katolik-kilisesi"
 description: "## Surp Pırgiç Ermeni Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Surppirgic.JPG/1200px-Surppirgic.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97608333,41.02461111"
 draft: "false"
 weight: "10"

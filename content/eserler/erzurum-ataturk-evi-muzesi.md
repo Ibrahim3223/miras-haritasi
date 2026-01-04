@@ -5,10 +5,10 @@ slug: "erzurum-ataturk-evi-muzesi"
 description: "**Erzurum Atatürk Evi Müzesi: Tarihe Yolculuk**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.2689171,39.9065933"
 draft: "false"
 weight: "999"

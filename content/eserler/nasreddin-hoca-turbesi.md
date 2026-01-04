@@ -5,10 +5,10 @@ slug: "nasreddin-hoca-turbesi"
 description: "## Nasreddin Hoca Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Konya._Nasreddin_Hoca_Türbesi.jpg/1200px-Konya._Nasreddin_Hoca_Türbesi.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.418294,38.355585"
 draft: "false"
 weight: "10"

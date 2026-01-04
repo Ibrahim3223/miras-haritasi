@@ -5,10 +5,10 @@ slug: "martyrion-at-aphrodisias"
 description: "### Martyrion at Aphrodisias..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.723044137,37.706168589"
 draft: "false"
 weight: "999"

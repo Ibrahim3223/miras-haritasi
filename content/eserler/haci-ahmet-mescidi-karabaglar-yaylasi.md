@@ -5,10 +5,10 @@ slug: "haci-ahmet-mescidi-karabaglar-yaylasi"
 description: "## Hacı Ahmet Mescidi, Karabağlar Yaylası: Geçmişten Günümüze Bir Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3953991,37.1800003"
 draft: "false"
 weight: "999"

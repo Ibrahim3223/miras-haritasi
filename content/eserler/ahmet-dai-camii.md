@@ -5,10 +5,10 @@ slug: "ahmet-dai-camii"
 description: "## Ahmet Dai Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0725765,40.1847267"
 draft: "false"
 weight: "999"

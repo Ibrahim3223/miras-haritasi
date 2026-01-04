@@ -5,10 +5,10 @@ slug: "fr-thtre-daphrodisias"
 description: "## Théâtre d'Aphrodisias: Aydın'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Aphrodisias_-_Roman_Theatre_01.jpg/1200px-Aphrodisias_-_Roman_Theatre_01.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.725180555,37.70715"
 draft: "false"
 weight: "10"

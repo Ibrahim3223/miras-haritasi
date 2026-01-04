@@ -5,10 +5,10 @@ slug: "kaptan-i-derya-saruca-pasa-turbesi"
 description: "## Kaptan-ı Derya Saruca Paşa Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6781521,40.4110985"
 draft: "false"
 weight: "999"

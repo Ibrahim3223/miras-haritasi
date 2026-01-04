@@ -5,10 +5,10 @@ slug: "kiratli-mahallesi-koprusu"
 description: "### Kıratlı Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Yomra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.835697,40.835606"
 draft: "false"
 weight: "999"

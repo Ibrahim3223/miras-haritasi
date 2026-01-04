@@ -5,10 +5,10 @@ slug: "muratli-ataturk-evi"
 description: "## Muratlı Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Muratlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

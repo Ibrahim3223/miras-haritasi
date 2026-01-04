@@ -5,10 +5,10 @@ slug: "meryem-ana-dogus-kilisesi"
 description: "## Meryem Ana Doğuş Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Büyükdere_Meryem_Ana_Doğuş_Kilisesi.jpg/1200px-Büyükdere_Meryem_Ana_Doğuş_Kilisesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.042055555,41.1605"
 draft: "false"
 weight: "10"

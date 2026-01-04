@@ -5,10 +5,10 @@ slug: "seyyid-serif-turbesi"
 description: "## Seyyid Şerif Türbesi: Develi'nin Tarihi Çehresini Taşıyan Bir Anıt..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.495077486,38.360600687"
 draft: "false"
 weight: "999"

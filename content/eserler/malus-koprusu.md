@@ -5,10 +5,10 @@ slug: "malus-koprusu"
 description: "**Malus Köprüsü**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yumurtalık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.486836,36.757771"
 draft: "false"
 weight: "999"

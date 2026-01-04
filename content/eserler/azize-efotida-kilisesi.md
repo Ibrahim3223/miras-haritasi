@@ -5,10 +5,10 @@ slug: "azize-efotida-kilisesi"
 description: "## Azize Efotida Kilisesi: Kırklareli'nin Gizli Çehresi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1622391,41.7659416"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fatma-kadin-hamami"
 description: "## Fatma Kadın Hamamı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.880886651,39.645466722"
 draft: "false"
 weight: "999"

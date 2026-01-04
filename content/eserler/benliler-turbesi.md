@@ -5,10 +5,10 @@ slug: "benliler-turbesi"
 description: "### Benliler Türbesi: Köyceğiz'in Gizli Çağı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.6714725,36.9772415"
 draft: "false"
 weight: "999"

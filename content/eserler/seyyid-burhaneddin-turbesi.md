@@ -5,10 +5,10 @@ slug: "seyyid-burhaneddin-turbesi"
 description: "### Seyyid Burhaneddin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.497545785,38.716288241"
 draft: "false"
 weight: "999"

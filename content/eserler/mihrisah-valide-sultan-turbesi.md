@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-turbesi"
 description: "# Mihrişah Valide Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.93423,41.048396"
 draft: "false"
 weight: "999"

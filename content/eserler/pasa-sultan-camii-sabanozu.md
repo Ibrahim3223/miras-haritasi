@@ -5,10 +5,10 @@ slug: "pasa-sultan-camii-sabanozu"
 description: "## Paşa Sultan Camii, Şabanözü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Şabanözü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2841225,40.4821091"
 draft: "false"
 weight: "999"

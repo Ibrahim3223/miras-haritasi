@@ -5,10 +5,10 @@ slug: "atik-valide-medresesi"
 description: "### Atik Valide Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.0233308,41.0191493"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ferruh-kethuda-camii-gunes-saati"
 description: "## Ferruh Kethüda Camii Güneş Saati ..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9457417,41.0343285"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alara-ic-kale-hamami"
 description: "## Alara İç Kale Hamamı: Alanya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.7289886,36.6984138"
 draft: "false"
 weight: "999"

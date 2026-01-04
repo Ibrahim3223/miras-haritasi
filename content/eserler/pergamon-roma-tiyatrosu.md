@@ -5,10 +5,10 @@ slug: "pergamon-roma-tiyatrosu"
 description: "### Pergamon Roma Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.17489,39.122987"
 draft: "false"
 weight: "999"

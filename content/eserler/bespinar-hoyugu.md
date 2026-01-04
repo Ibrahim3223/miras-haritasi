@@ -5,10 +5,10 @@ slug: "bespinar-hoyugu"
 description: "## Beşpınar Höyüğü: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.8463776,40.0372654"
 draft: "false"
 weight: "999"

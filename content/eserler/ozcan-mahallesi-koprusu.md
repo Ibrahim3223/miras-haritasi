@@ -5,10 +5,10 @@ slug: "ozcan-mahallesi-koprusu"
 description: "### Özcan Mahallesi Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.465806,40.461773"
 draft: "false"
 weight: "999"

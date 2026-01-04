@@ -5,10 +5,10 @@ slug: "herakleia-aiolis"
 description: "### Herakleia (Aiolis): Ayvalık'taki Antik Bir Şehre Yolculuk..."
 featured_image: ""
 province: "Ayvalık (ilçe)"
-iller: '["Ayvalık (ilçe)"]'
+iller: ["Ayvalık (ilçe)"]
 district: "Gazi Kemal Paşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.689814,39.307546"
 draft: "false"
 weight: "999"

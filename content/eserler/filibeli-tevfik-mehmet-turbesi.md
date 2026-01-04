@@ -5,10 +5,10 @@ slug: "filibeli-tevfik-mehmet-turbesi"
 description: "## Filibeli Tevfik Mehmet Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1976,40.4708"
 draft: "false"
 weight: "999"

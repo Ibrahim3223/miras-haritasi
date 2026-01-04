@@ -5,10 +5,10 @@ slug: "cariyeler-turbesi"
 description: "**Cariyeler Türbesi: Bursa'nın Gizli Anıtı**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0469952,40.1908875"
 draft: "false"
 weight: "999"

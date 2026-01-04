@@ -5,10 +5,10 @@ slug: "damgaci-camii"
 description: "## Damgacı Camii: Soma'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Soma"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6037769,39.1781387"
 draft: "false"
 weight: "999"

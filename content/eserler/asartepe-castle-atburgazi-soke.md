@@ -5,10 +5,10 @@ slug: "asartepe-castle-atburgazi-soke"
 description: "### Asartepe Kalesi: Söke'nin Tarihi Eşiği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fa/Atburgaz%C4%B1_3.jpg"
 province: "Söke İlçesi"
-iller: '["Söke İlçesi"]'
+iller: ["Söke İlçesi"]
 district: "Atburgazı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "husam-ibni-abdullah-kabri"
 description: "**Hüsam İbni Abdullah Kabri: Fatih'in Gizli Çehresini Gözler önüne Seren Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.94071646,41.031469793"
 draft: "false"
 weight: "999"

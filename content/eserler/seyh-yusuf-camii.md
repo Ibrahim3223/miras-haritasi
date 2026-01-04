@@ -5,10 +5,10 @@ slug: "seyh-yusuf-camii"
 description: "## Şeyh Yusuf Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2294426,37.911499"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buzlukbasi-koprusu"
 description: "# Buzlukbaşı Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5190582,38.0022545"
 draft: "false"
 weight: "999"

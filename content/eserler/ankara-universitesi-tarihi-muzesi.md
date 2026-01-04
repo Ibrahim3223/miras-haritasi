@@ -5,10 +5,10 @@ slug: "ankara-universitesi-tarihi-muzesi"
 description: "## Ankara Üniversitesi Tarihi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.833650644,39.934899872"
 draft: "false"
 weight: "999"

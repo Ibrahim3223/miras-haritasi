@@ -5,10 +5,10 @@ slug: "kalik-camii"
 description: "## Kalık Camii: Samsun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.6316986,41.388401"
 draft: "false"
 weight: "999"

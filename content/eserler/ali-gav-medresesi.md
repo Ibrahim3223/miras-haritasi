@@ -5,10 +5,10 @@ slug: "ali-gav-medresesi"
 description: "## Ali Gav Medresesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.4927711,37.8764915"
 draft: "false"
 weight: "999"

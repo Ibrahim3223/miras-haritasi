@@ -5,10 +5,10 @@ slug: "bicakcilar-yet-camii"
 description: "### Bıçakcılar Yet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4295143,41.0547821"
 draft: "false"
 weight: "999"

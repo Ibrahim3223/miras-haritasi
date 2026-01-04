@@ -5,10 +5,10 @@ slug: "koprupazar-koprusu"
 description: "## Köprüpazar Köprüsü: Aspendos'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Eurymedon_Bridge,_Aspendos,_Turkey._Pic_01.jpg/1200px-Eurymedon_Bridge,_Aspendos,_Turkey._Pic_01.jpg"
 province: "Serik"
-iller: '["Serik"]'
+iller: ["Serik"]
 district: "Aspendos"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.16301,36.91441"
 draft: "false"
 weight: "10"

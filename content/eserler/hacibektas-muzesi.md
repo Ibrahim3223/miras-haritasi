@@ -5,10 +5,10 @@ slug: "hacibektas-muzesi"
 description: "### Hacıbektaş Müzesi: Kırmızı Turbanlı Şeyhin Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

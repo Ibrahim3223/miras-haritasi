@@ -5,10 +5,10 @@ slug: "cavusin-koyu-eski-kaya-cami"
 description: "## Çavuşin Köyü Eski Kaya Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Çavuşin_Eski_Kaya_Cami.jpg/1200px-Çavuşin_Eski_Kaya_Cami.jpg"
 province: "Avanos"
-iller: '["Avanos"]'
+iller: ["Avanos"]
 district: "Çavuşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.844527777,38.666944444"
 draft: "false"
 weight: "10"

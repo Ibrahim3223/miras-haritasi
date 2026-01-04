@@ -5,10 +5,10 @@ slug: "sinan-koprusu"
 description: "## Sinan Köprüsü: Batman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9962845,37.8293266"
 draft: "false"
 weight: "999"

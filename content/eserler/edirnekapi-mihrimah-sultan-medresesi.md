@@ -5,10 +5,10 @@ slug: "edirnekapi-mihrimah-sultan-medresesi"
 description: "### Edirnekapı Mihrimah Sultan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.935705,41.029751"
 draft: "false"
 weight: "999"

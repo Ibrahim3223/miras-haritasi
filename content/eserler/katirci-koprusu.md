@@ -5,10 +5,10 @@ slug: "katirci-koprusu"
 description: "### Katırcı Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.4851532,41.1412086"
 draft: "false"
 weight: "999"

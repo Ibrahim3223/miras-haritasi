@@ -5,10 +5,10 @@ slug: "bogoroditsa-kilisesi-karahidir"
 description: "## Bogoroditsa Kilisesi (Karahıdır)..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1982841,41.7152901"
 draft: "false"
 weight: "999"

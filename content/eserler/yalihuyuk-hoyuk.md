@@ -5,10 +5,10 @@ slug: "yalihuyuk-hoyuk"
 description: "## Yalıhüyük Höyük: Tarihî ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Yalıhüyük"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.0897102,37.3015442"
 draft: "false"
 weight: "999"

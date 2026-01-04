@@ -5,10 +5,10 @@ slug: "eskicesme-hoyuk"
 description: "## Eskiçeşme Höyük..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.091432262,38.994892935"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-triada-rum-ortodoks-kilisesi-samsun"
 description: "## Aya Triada Rum Ortodoks Kilisesi: Samsun'daki Bir İleri Dönem Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aya_Triada_Ortodoks_Kilisesi_profil.jpg/1200px-Aya_Triada_Ortodoks_Kilisesi_profil.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Samsun"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.3299664,41.2775763"
 draft: "false"
 weight: "10"

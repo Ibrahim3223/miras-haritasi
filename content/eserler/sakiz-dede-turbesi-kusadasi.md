@@ -5,10 +5,10 @@ slug: "sakiz-dede-turbesi-kusadasi"
 description: "## Sakız Dede Türbesi, Kuşadası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2525959,37.8564606"
 draft: "false"
 weight: "999"

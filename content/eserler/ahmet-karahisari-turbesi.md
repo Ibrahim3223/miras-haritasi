@@ -5,10 +5,10 @@ slug: "ahmet-karahisari-turbesi"
 description: "# Ahmet Karahisari Türbesi: Afyonkarahisar'ın Önemli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.482785,38.759487"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "church-of-laodicea"
 description: "## Laodicea Kilisesi: Geçmişin Gizemli Kalıntıları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Ancient_City_of_Laodicea,_2019_24.jpg/1200px-Ancient_City_of_Laodicea,_2019_24.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1104378,37.8364608"
 draft: "false"
 weight: "10"

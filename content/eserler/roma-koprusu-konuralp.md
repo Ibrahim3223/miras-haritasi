@@ -5,10 +5,10 @@ slug: "roma-koprusu-konuralp"
 description: "### Roma Köprüsü, Konuralp..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.1419678,40.9067421"
 draft: "false"
 weight: "999"

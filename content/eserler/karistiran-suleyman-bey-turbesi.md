@@ -5,10 +5,10 @@ slug: "karistiran-suleyman-bey-turbesi"
 description: "## Karıştıran Süleyman Bey Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0451889,40.1902695"
 draft: "false"
 weight: "999"

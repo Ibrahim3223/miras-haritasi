@@ -5,10 +5,10 @@ slug: "cataloluk-leleg-kalesi"
 description: "## Çataloluk Leleg Kalesi: Aydın'ın Gizli Çağı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.7220993,37.8801994"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "edirne-ataturk-aniti"
 description: "## Edirne Atatürk Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.553527777,41.676777777"
 draft: "false"
 weight: "999"

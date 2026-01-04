@@ -5,10 +5,10 @@ slug: "aspendos-stadyumu"
 description: "## Aspendos Stadyumu: Antikçağın En Büyüleyici Spor Tesisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/J22_146_Aspendos,_Stadion.jpg/1200px-J22_146_Aspendos,_Stadion.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.1716219,36.9419069"
 draft: "false"
 weight: "1"

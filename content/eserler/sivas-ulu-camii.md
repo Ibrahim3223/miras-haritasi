@@ -5,10 +5,10 @@ slug: "sivas-ulu-camii"
 description: "## Sivas Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/035_Ulucami.07.2006_resize.JPG/1200px-035_Ulucami.07.2006_resize.JPG"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.01758333,39.74713889"
 draft: "false"
 weight: "10"

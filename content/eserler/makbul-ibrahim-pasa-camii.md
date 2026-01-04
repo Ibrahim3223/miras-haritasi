@@ -5,10 +5,10 @@ slug: "makbul-ibrahim-pasa-camii"
 description: "### Makbul İbrahim Paşa Camii: Azapkapı'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Makbul_İbrahim_Paşa_Camii_(cropped).jpg/1200px-Makbul_İbrahim_Paşa_Camii_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9715,41.02225"
 draft: "false"
 weight: "10"

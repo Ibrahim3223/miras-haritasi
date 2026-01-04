@@ -5,10 +5,10 @@ slug: "seksenoren-hoyugu"
 description: "## Seksenören Höyüğü: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.0743854,36.9738189"
 draft: "false"
 weight: "999"

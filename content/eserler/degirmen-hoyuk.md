@@ -5,10 +5,10 @@ slug: "degirmen-hoyuk"
 description: "## Değirmen Höyük: Şanlıurfa'nın Gizli Anıtı..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0490828,36.870917"
 draft: "false"
 weight: "999"

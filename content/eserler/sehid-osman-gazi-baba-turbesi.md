@@ -5,10 +5,10 @@ slug: "sehid-osman-gazi-baba-turbesi"
 description: "## Şehid Osman Gazi Baba Türbesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.219666,40.26103"
 draft: "false"
 weight: "999"

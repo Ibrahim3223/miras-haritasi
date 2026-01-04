@@ -5,10 +5,10 @@ slug: "celtikduzu-camii"
 description: "## Çeltikdüzü Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4978001,40.7501"
 draft: "false"
 weight: "999"

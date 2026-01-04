@@ -5,10 +5,10 @@ slug: "odemis-muzesi"
 description: "# Ödemiş Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.989166666,38.228055555"
 draft: "false"
 weight: "999"

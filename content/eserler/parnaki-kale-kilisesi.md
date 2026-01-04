@@ -5,10 +5,10 @@ slug: "parnaki-kale-kilisesi"
 description: "## Parnaki Kale Kilisesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Oltu"
-iller: '["Oltu"]'
+iller: ["Oltu"]
 district: "İriağaç"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.155527777,40.684083333"
 draft: "false"
 weight: "999"

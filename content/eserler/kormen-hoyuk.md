@@ -5,10 +5,10 @@ slug: "kormen-hoyuk"
 description: "## Körmen Höyük: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6988717,39.3876188"
 draft: "false"
 weight: "999"

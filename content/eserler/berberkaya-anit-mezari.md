@@ -5,10 +5,10 @@ slug: "berberkaya-anit-mezari"
 description: "## Berberkaya Anıt Mezarı: İznik'in Tarihi Gözdelerinden BİRİ..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7406006,40.4272003"
 draft: "false"
 weight: "999"

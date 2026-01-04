@@ -5,10 +5,10 @@ slug: "durakli-camii"
 description: "## Duraklı Camii: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9372482,37.584362"
 draft: "false"
 weight: "999"

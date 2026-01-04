@@ -5,10 +5,10 @@ slug: "antandros-roma-villasi"
 description: "## Antandros Roma Villası: Edremit'in Gizli Çarpıntısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7865124,39.5716782"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kavuncu-koyu-kilisesi"
 description: "## Kavuncu Köyü Kilisesi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Şırnak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.2192192,37.4753494"
 draft: "false"
 weight: "999"

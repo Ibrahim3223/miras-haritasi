@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-turbesi"
 description: "### Nişancı Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.944992,41.024304"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alemdar-ibrahim-efendi-kabri"
 description: "### Alemdar İbrahim Efendi Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/db/Alemdar_%C4%B0brahim_Efendi_Kabri_2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9564304,41.0188179"
 draft: "false"
 weight: "999"

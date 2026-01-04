@@ -5,10 +5,10 @@ slug: "sonsol-sinagogu"
 description: "## Şonsol Sinagogu: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "27.146805555,38.421833333"
 draft: "false"
 weight: "999"

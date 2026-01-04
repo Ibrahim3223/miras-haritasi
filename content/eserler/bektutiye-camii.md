@@ -5,10 +5,10 @@ slug: "bektutiye-camii"
 description: "## Bektutiye Camii: Kahramanmaraş'ta Bir Tarihi Çandır..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9277191,37.5881653"
 draft: "false"
 weight: "999"

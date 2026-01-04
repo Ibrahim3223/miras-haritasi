@@ -5,10 +5,10 @@ slug: "kurtalan-saat-kulesi"
 description: "## Kurtalan Saat Kulesi: Siirt'in Tarihî Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "41.699666666,37.927111111"
 draft: "false"
 weight: "999"

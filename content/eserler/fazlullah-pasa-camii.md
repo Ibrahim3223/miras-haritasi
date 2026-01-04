@@ -5,10 +5,10 @@ slug: "fazlullah-pasa-camii"
 description: "## Fazlullah Paşa Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5559464,41.6784782"
 draft: "false"
 weight: "999"

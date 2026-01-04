@@ -5,10 +5,10 @@ slug: "akmescid-camii"
 description: "## Akmescid Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Simferopol_Montage.png"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.529140059,41.68266459"
 draft: "false"
 weight: "999"

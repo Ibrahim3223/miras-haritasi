@@ -5,10 +5,10 @@ slug: "kaunos-kaya-mezarlari"
 description: "### Kaunos Kaya Mezarları: Köyceğiz'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Dalyan,_Kaunos_Kaya_Mezarları.jpg/1200px-Dalyan,_Kaunos_Kaya_Mezarları.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.6341858,36.8335838"
 draft: "false"
 weight: "10"

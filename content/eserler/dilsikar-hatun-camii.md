@@ -5,10 +5,10 @@ slug: "dilsikar-hatun-camii"
 description: "## Dilşikar Hatun Camii: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4399319,38.6123085"
 draft: "false"
 weight: "999"

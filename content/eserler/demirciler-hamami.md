@@ -5,10 +5,10 @@ slug: "demirciler-hamami"
 description: "### Demirciler Hamamı..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.5548363,40.8461838"
 draft: "false"
 weight: "999"

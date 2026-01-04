@@ -5,10 +5,10 @@ slug: "yeni-zelanda-twelve-tree-copse-aniti"
 description: "## Yeni Zelanda Twelve Tree Copse Anıtı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Alçıtepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.21432,40.08809"
 draft: "false"
 weight: "999"

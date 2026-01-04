@@ -5,10 +5,10 @@ slug: "buklu-baba-sultan-turbesi"
 description: "## Büklü Baba Sultan Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Sarıveliler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.627006,36.622839"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahi-toman-baba-turbesi"
 description: "**Ahi Toman Baba Türbesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2802277,39.9056702"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tont-kalesi"
 description: "### Tont Kalesi: Tarihî Bir Mirasın Güncel Yüzü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.1659698,37.4672127"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pergamon-demeter-kutsal-alani"
 description: "**Pergamon Demeter Kutsal Alanı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Pergamon_Demeter_Kutsal_Alanı.jpg/1200px-Pergamon_Demeter_Kutsal_Alanı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1839943,39.1272316"
 draft: "false"
 weight: "10"

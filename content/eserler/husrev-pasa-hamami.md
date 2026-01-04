@@ -5,10 +5,10 @@ slug: "husrev-pasa-hamami"
 description: "### Hüsrev Paşa Hamamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.8619041,39.1576195"
 draft: "false"
 weight: "999"

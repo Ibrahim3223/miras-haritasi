@@ -5,10 +5,10 @@ slug: "magabula"
 description: "### Magabula..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.039089,40.383948"
 draft: "false"
 weight: "999"

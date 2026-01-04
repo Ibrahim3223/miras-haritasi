@@ -5,10 +5,10 @@ slug: "okcular-koyici-tumulusu"
 description: "## Okçular Köyiçi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8236008,41.5541496"
 draft: "false"
 weight: "999"

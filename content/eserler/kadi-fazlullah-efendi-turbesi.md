@@ -5,10 +5,10 @@ slug: "kadi-fazlullah-efendi-turbesi"
 description: "## Kadı Fazlullah Efendi Türbesi: Kocaeli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4397545,40.797142"
 draft: "false"
 weight: "999"

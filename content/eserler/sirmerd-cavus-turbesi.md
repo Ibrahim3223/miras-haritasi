@@ -5,10 +5,10 @@ slug: "sirmerd-cavus-turbesi"
 description: "# Şirmerd Çavuş Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9487674,41.0101162"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gokcen-huseyin-efe-anit-mezari"
 description: "## Gökçen Hüseyin Efe Anıt Mezarı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.107233,38.1688423"
 draft: "false"
 weight: "999"

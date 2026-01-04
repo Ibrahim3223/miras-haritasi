@@ -5,10 +5,10 @@ slug: "kocamezar-tumulusu-nazilli"
 description: "### Kocamezar Tümülüsü, Nazilli: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3771,37.792099"
 draft: "false"
 weight: "999"

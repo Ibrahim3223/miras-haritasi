@@ -5,10 +5,10 @@ slug: "omer-bey-camii-mudanya"
 description: "## Ömer Bey Camii (Mudanya): Tarihi ve Kültürel Mirasın Işığında..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.886602,40.375353"
 draft: "false"
 weight: "999"

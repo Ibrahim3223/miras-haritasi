@@ -5,10 +5,10 @@ slug: "kadi-koprusu"
 description: "## Kadı Köprüsü..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Serdivan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.3647366,40.7356262"
 draft: "false"
 weight: "999"

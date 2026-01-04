@@ -5,10 +5,10 @@ slug: "sivrihisar-ulu-cami"
 description: "## Sivrihisar Ulu Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sivrihisar_Ulu_Camii_2041.jpg/1200px-Sivrihisar_Ulu_Camii_2041.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.53722222,39.45083333"
 draft: "false"
 weight: "10"

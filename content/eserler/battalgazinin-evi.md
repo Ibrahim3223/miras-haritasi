@@ -5,10 +5,10 @@ slug: "battalgazinin-evi"
 description: "## Battalgazi'nin Evi: Malatya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3696213,38.4101372"
 draft: "false"
 weight: "999"

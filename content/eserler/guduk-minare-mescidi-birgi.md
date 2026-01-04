@@ -5,10 +5,10 @@ slug: "guduk-minare-mescidi-birgi"
 description: "## Güdük Minare Mescidi: Bir Ödemiş Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0614796,38.2524033"
 draft: "false"
 weight: "999"

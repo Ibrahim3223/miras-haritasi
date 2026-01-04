@@ -5,10 +5,10 @@ slug: "gordion-tumulus-e"
 description: "## Gordion Tümülüs E: Ankara'nın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.991091,39.652798"
 draft: "false"
 weight: "999"

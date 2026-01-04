@@ -5,10 +5,10 @@ slug: "sahmiran-kalesi"
 description: "## Şahmiran Kalesi: Muş'un Gizli Çağı..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Varto İlçesi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.8721466,39.0894699"
 draft: "false"
 weight: "999"

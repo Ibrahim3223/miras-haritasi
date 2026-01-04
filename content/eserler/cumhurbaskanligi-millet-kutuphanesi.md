@@ -5,10 +5,10 @@ slug: "cumhurbaskanligi-millet-kutuphanesi"
 description: "## Cumhurbaşkanlığı Millet Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Millet_Kütüphanesi.jpg/1200px-Millet_Kütüphanesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "32.800833333,39.924444444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "helil-kilisesi"
 description: "### Helil Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.7429466,37.5217094"
 draft: "false"
 weight: "999"

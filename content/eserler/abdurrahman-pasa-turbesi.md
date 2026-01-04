@@ -5,10 +5,10 @@ slug: "abdurrahman-pasa-turbesi"
 description: "### Abdurrahman Paşa Türbesi: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Abdurrahman_Paşa_Türbesi.jpg/1200px-Abdurrahman_Paşa_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935418,41.047583"
 draft: "false"
 weight: "10"

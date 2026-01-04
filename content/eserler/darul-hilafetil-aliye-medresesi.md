@@ -5,10 +5,10 @@ slug: "darul-hilafetil-aliye-medresesi"
 description: "## Darü'l-Hilafeti'l-Aliye Medresesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: ""
 draft: "false"
 weight: "999"

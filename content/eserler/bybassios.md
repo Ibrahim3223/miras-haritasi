@@ -5,10 +5,10 @@ slug: "bybassios"
 description: "## Bybassios: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.130277777,36.812777777"
 draft: "false"
 weight: "999"

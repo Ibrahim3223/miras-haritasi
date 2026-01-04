@@ -5,10 +5,10 @@ slug: "hazreti-yusa-peygamber-ve-pirsefa-hazretleri-turbesi"
 description: "## Hazreti Yuşa Peygamber ve Pirsefa Hazretleri Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.387111,37.062256"
 draft: "false"
 weight: "999"

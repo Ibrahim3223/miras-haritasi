@@ -5,10 +5,10 @@ slug: "fener-meryem-ana-kilisesi"
 description: "## Fener Meryem Ana Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Constantinople_imperial_district.png/1200px-Constantinople_imperial_district.png"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97722222,41.00583333"
 draft: "false"
 weight: "10"

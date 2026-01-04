@@ -5,10 +5,10 @@ slug: "ocak-koyu-ozel-muzesi-kemaliye"
 description: "## Ocak Köyü Özel Müzesi, Kemaliye..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemaliye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.5941582,39.1476669"
 draft: "false"
 weight: "999"

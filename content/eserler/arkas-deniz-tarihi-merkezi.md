@@ -5,10 +5,10 @@ slug: "arkas-deniz-tarihi-merkezi"
 description: "## Arkas Deniz Tarihi Merkezi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.220047509,38.463490776"
 draft: "false"
 weight: "999"

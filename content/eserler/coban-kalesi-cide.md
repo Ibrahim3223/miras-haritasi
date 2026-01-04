@@ -5,10 +5,10 @@ slug: "coban-kalesi-cide"
 description: "## Çoban Kalesi: Kastamonu'nun Tarihi Hazinesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Cide"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.2129784,41.97929"
 draft: "false"
 weight: "999"

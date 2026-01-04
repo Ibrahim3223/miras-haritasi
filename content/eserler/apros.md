@@ -5,10 +5,10 @@ slug: "apros"
 description: "## Apros Arkeolojik Sit: Malkara'nın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.107222222,40.926944444"
 draft: "false"
 weight: "999"

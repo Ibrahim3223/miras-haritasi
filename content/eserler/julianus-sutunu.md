@@ -5,10 +5,10 @@ slug: "julianus-sutunu"
 description: "## Julianus Sütunu: Ankara'nın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/AnkaraColumnFar.JPG/1200px-AnkaraColumnFar.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.85626944,39.94326389"
 draft: "false"
 weight: "10"

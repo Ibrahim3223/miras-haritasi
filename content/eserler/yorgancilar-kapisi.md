@@ -5,10 +5,10 @@ slug: "yorgancilar-kapisi"
 description: "## Yorgancılar Kapısı Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9667301,41.0106697"
 draft: "false"
 weight: "999"

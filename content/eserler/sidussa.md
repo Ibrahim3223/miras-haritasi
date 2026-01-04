@@ -5,10 +5,10 @@ slug: "sidussa"
 description: "# Sidussa: Anadolu'nun Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.51564,38.65944"
 draft: "false"
 weight: "999"

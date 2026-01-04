@@ -5,10 +5,10 @@ slug: "orta-cami-havran"
 description: "## Orta Cami, Havran..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Havran"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0966148,39.556282"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kepenekci-sinan-medresesi"
 description: "## Kepenekçi Sinan Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kepenekçi_Sinan_Madrasa-exterior.jpg/1200px-Kepenekçi_Sinan_Madrasa-exterior.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.965398,41.018202"
 draft: "false"
 weight: "10"

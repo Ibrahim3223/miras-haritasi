@@ -5,10 +5,10 @@ slug: "abdal-mehmet-camii"
 description: "## Abdal Mehmet Camii: Bursa'nın Önemli Dini Yapılarından biri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0681553,40.186676"
 draft: "false"
 weight: "999"

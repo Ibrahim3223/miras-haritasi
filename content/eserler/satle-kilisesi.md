@@ -5,10 +5,10 @@ slug: "satle-kilisesi"
 description: "# Satle Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.331166666,41.259277777"
 draft: "false"
 weight: "999"

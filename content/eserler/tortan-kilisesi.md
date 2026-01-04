@@ -5,10 +5,10 @@ slug: "tortan-kilisesi"
 description: "## Tortan Kilisesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemah"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.1450691,39.6556816"
 draft: "false"
 weight: "999"

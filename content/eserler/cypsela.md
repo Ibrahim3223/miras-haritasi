@@ -5,10 +5,10 @@ slug: "cypsela"
 description: "## Cypsela: İpsala'nın Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.392051,40.924513"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haleplibahce-mozaik-muzesi"
 description: "## Haleplibahçe Mozaik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Haleplibahçe_Mozaik_Müzesi.jpg/1200px-Haleplibahçe_Mozaik_Müzesi.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.7829971,37.1510201"
 draft: "false"
 weight: "10"

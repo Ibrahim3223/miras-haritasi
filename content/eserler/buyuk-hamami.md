@@ -5,10 +5,10 @@ slug: "buyuk-hamami"
 description: "## Büyük Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Büyük_Hamamı,_Kasımpaşa_03.jpg/1200px-Büyük_Hamamı,_Kasımpaşa_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.968373671,41.033511637"
 draft: "false"
 weight: "10"

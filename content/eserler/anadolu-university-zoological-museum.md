@@ -5,10 +5,10 @@ slug: "anadolu-university-zoological-museum"
 description: "## Anadolu Üniversitesi Zoolojik Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Eskişehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

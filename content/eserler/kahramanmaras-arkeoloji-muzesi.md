@@ -5,10 +5,10 @@ slug: "kahramanmaras-arkeoloji-muzesi"
 description: "### Kahramanmaraş Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Kahramanmaras_Museum_Eingang.jpg/1200px-Kahramanmaras_Museum_Eingang.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Kahramanmaraş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.926111111,37.573888888"
 draft: "false"
 weight: "10"

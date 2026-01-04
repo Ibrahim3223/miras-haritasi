@@ -5,10 +5,10 @@ slug: "kolonai"
 description: "## Kolonai: Tarihî Mirasın Gizemli Kalıntıları..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.16333333,39.68972222"
 draft: "false"
 weight: "999"

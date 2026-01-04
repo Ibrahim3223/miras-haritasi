@@ -5,10 +5,10 @@ slug: "tlos-buyuk-hamam"
 description: "## Tlos Büyük Hamamı: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4199905,36.5520172"
 draft: "false"
 weight: "999"

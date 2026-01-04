@@ -5,10 +5,10 @@ slug: "hanli-hoyugu-sivas"
 description: "## Hanlı Höyüğü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.6481323,39.4612007"
 draft: "false"
 weight: "999"

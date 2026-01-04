@@ -5,10 +5,10 @@ slug: "pulur-hoyugu-sivas"
 description: "### Pulur Höyüğü, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0226326,39.7451515"
 draft: "false"
 weight: "999"

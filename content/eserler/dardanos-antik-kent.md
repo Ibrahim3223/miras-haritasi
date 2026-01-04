@@ -5,10 +5,10 @@ slug: "dardanos-antik-kent"
 description: "## Dardanos: Antik Kentin Gizemi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.362777777,40.075833333"
 draft: "false"
 weight: "999"

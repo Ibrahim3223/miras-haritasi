@@ -5,10 +5,10 @@ slug: "dedekoy-camii-turbesi"
 description: "## Dedeköy Camii Türbesi: Çivril'in Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7855129,38.2924728"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "candir-kumbeti"
 description: "## Çandır Kümbeti: Yozgat'ın Gizli Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Çandır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.5110241,39.2409264"
 draft: "false"
 weight: "999"

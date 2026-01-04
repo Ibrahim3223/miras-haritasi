@@ -5,10 +5,10 @@ slug: "libyssa"
 description: "### Libyssa: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.539812,40.769562"
 draft: "false"
 weight: "999"

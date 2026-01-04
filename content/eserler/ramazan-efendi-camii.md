@@ -5,10 +5,10 @@ slug: "ramazan-efendi-camii"
 description: "## Ramazan Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ramazan_Efendi_Mosque_13.jpg/1200px-Ramazan_Efendi_Mosque_13.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931510351,41.004901063"
 draft: "false"
 weight: "10"

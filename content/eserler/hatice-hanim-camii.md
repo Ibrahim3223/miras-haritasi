@@ -5,10 +5,10 @@ slug: "hatice-hanim-camii"
 description: "## Hatice Hanım Camii: Kuşadası'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2595005,37.8582001"
 draft: "false"
 weight: "999"

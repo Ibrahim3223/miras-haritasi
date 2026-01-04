@@ -5,10 +5,10 @@ slug: "deh-kubbe-turbesi"
 description: "## Deh Kubbe Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.9673767,37.0355225"
 draft: "false"
 weight: "999"

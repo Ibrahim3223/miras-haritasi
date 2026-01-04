@@ -5,10 +5,10 @@ slug: "izmir-kadin-muzesi"
 description: "## İzmir Kadın Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/İzmir_Kadın_Müzesi.jpg/1200px-İzmir_Kadın_Müzesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.142305555,38.421083333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "timbrias"
 description: "## Timbrias Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.02,37.82"
 draft: "false"
 weight: "999"

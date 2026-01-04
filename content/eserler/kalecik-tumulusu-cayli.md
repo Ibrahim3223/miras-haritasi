@@ -5,10 +5,10 @@ slug: "kalecik-tumulusu-cayli"
 description: "## Kalecik Tümülüsü, Çaylı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Koyulhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.7308655,40.3142319"
 draft: "false"
 weight: "999"

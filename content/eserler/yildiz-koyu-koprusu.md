@@ -5,10 +5,10 @@ slug: "yildiz-koyu-koprusu"
 description: "### Yıldız Köyü Köprüsü: Torul'un Gizli Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.178198,40.497543"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "beydere-koyu-camii"
 description: "## Beydere Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.224757922,41.248252919"
 draft: "false"
 weight: "999"

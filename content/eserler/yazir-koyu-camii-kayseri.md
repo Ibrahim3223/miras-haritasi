@@ -5,10 +5,10 @@ slug: "yazir-koyu-camii-kayseri"
 description: "## Yazır Köyü Camii: Kayseri'nin Gizli Çarı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.508856409,38.848645376"
 draft: "false"
 weight: "999"

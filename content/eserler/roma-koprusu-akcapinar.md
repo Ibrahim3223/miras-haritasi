@@ -5,10 +5,10 @@ slug: "roma-koprusu-akcapinar"
 description: "## Roma Köprüsü, Akçapınar..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.276805917,39.917766572"
 draft: "false"
 weight: "999"

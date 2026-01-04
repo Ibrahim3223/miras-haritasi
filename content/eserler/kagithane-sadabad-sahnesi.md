@@ -5,10 +5,10 @@ slug: "kagithane-sadabad-sahnesi"
 description: "## Kağıthane Sadabad Sahnesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.97169135,41.07985904"
 draft: "false"
 weight: "999"

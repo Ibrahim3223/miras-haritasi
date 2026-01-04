@@ -5,10 +5,10 @@ slug: "gomenic-kalesi"
 description: "## Gömeniç Kalesi: Balıkesir'in Gizli Şöhreti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "İvrindi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5717697,39.6380348"
 draft: "false"
 weight: "999"

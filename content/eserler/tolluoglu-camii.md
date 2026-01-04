@@ -5,10 +5,10 @@ slug: "tolluoglu-camii"
 description: "### Tolluoğlu Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5020561,37.8661728"
 draft: "false"
 weight: "999"

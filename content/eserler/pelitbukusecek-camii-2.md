@@ -5,10 +5,10 @@ slug: "pelitbukusecek-camii-2"
 description: "# Pelitbüküsecek Camii 2: Alaçam'ın Gizli Cenneti..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4818993,41.4042015"
 draft: "false"
 weight: "999"

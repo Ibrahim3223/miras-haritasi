@@ -5,10 +5,10 @@ slug: "nigde-arkeoloji-muzesi"
 description: "## Niğde Arkeoloji Müzesi: Türkiye'nin Tarihi Efsanesini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/NigdeMuseum1.jpg/1200px-NigdeMuseum1.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.6725,37.96833333"
 draft: "false"
 weight: "10"

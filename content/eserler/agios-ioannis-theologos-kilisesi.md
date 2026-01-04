@@ -5,10 +5,10 @@ slug: "agios-ioannis-theologos-kilisesi"
 description: "## Agios Ioannis Theologos Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1372833,38.4169388"
 draft: "false"
 weight: "999"

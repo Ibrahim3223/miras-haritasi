@@ -5,10 +5,10 @@ slug: "antiphellos-aslanli-lahit"
 description: "## Antiphellos Aslanlı Lahit: Kaş'taki Antik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Antiphellos_Aslanlı_Lahit.jpg/1200px-Antiphellos_Aslanlı_Lahit.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.6424179,36.1994476"
 draft: "false"
 weight: "10"

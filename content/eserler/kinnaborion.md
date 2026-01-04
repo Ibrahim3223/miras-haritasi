@@ -5,10 +5,10 @@ slug: "kinnaborion"
 description: "### Kinnaborion: Çay, Afyonkarahisar'da Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7486725,38.3827782"
 draft: "false"
 weight: "999"

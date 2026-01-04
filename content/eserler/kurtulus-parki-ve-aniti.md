@@ -5,10 +5,10 @@ slug: "kurtulus-parki-ve-aniti"
 description: "## Kurtuluş Parkı ve Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9775848,38.8548851"
 draft: "false"
 weight: "999"

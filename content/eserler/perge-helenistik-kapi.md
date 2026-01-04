@@ -5,10 +5,10 @@ slug: "perge-helenistik-kapi"
 description: "**Perge Helenistik Kapı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Perge_Helenistik_Kapı.jpg/1200px-Perge_Helenistik_Kapı.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8540821,36.96138"
 draft: "false"
 weight: "10"

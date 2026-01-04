@@ -5,10 +5,10 @@ slug: "imrahor-camii"
 description: "**İmrahor Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Theodore_Studite_(Menologion_of_Basil_II).jpg/1200px-Theodore_Studite_(Menologion_of_Basil_II).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.92861111,40.99611111"
 draft: "false"
 weight: "10"

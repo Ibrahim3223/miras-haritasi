@@ -5,10 +5,10 @@ slug: "utsurgae"
 description: "## Utsurgae: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8761295,41.5136078"
 draft: "false"
 weight: "999"

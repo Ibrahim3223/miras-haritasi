@@ -5,10 +5,10 @@ slug: "menteseoglu-ahmet-gazi-turbesi"
 description: "### Menteşeoğlu Ahmet Gazi Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7882442,37.2730789"
 draft: "false"
 weight: "999"

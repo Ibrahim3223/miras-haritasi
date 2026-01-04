@@ -5,10 +5,10 @@ slug: "akbas-sehitligi-eceabat"
 description: "## Akbaş Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4375706,40.2332687"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saridanisment-h-tumulusu"
 description: "## Sarıdanişment H Tümülüsü: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8261738,41.8672104"
 draft: "false"
 weight: "999"

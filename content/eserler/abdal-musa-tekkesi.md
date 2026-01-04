@@ -5,10 +5,10 @@ slug: "abdal-musa-tekkesi"
 description: "# Abdal Musa Tekkesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.870489,36.612105"
 draft: "false"
 weight: "999"

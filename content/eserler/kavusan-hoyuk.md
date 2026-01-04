@@ -5,10 +5,10 @@ slug: "kavusan-hoyuk"
 description: "### Kavuşan Höyük: Bismil, Diyarbakır'daki Yaşlı Bir Miras..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.717144,37.8254166"
 draft: "false"
 weight: "999"

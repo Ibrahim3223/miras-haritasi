@@ -5,10 +5,10 @@ slug: "sirahayats-surp-astvatsatsin-manastiri-cnkush"
 description: "## Sirahayats Surp Astvatsatsin Manastırı (Çnkush)..."
 featured_image: ""
 province: "Çüngüş"
-iller: '["Çüngüş"]'
+iller: ["Çüngüş"]
 district: "Çüngüş"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.285,38.209722222"
 draft: "false"
 weight: "999"

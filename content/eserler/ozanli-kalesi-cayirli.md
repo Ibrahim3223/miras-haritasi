@@ -5,10 +5,10 @@ slug: "ozanli-kalesi-cayirli"
 description: "## Ozanlı Kalesi, Çayırlı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Çayırlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.9230614,39.8152084"
 draft: "false"
 weight: "999"

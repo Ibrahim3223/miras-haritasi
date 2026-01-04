@@ -5,10 +5,10 @@ slug: "taskiran-taskopru-camii"
 description: "## Taşkıran Taşköprü Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4494129,40.9402473"
 draft: "false"
 weight: "999"

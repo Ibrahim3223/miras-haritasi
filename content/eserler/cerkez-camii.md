@@ -5,10 +5,10 @@ slug: "cerkez-camii"
 description: "## Çerkez Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0691853,38.6059723"
 draft: "false"
 weight: "999"

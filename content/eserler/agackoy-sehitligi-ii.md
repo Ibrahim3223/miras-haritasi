@@ -5,10 +5,10 @@ slug: "agackoy-sehitligi-ii"
 description: "## Ağaçköy Şehitliği II..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9753036,38.9083748"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "namazgah"
 description: "### Namazgah: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.562301,41.710433"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aulae"
 description: "## Aulae: Akdeniz'in Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/69/Oxford_-_High_Street_-_Panorama_View_on_University_College_1249_02.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.753077,36.812812"
 draft: "false"
 weight: "999"

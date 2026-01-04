@@ -5,10 +5,10 @@ slug: "kizilkaya-kalesi"
 description: "# Kızılkaya Kalesi: Köyceğiz'in Gizli Şehri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Kızılkaya_Kalesi.jpg/1200px-Kızılkaya_Kalesi.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.6042519,36.8131561"
 draft: "false"
 weight: "10"

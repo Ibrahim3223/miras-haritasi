@@ -5,10 +5,10 @@ slug: "samandag-stilyas-rum-ortodoks-kilisesi"
 description: "## Samandağ St.İlyas Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.9916382,36.0976639"
 draft: "false"
 weight: "999"

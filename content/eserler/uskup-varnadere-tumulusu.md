@@ -5,10 +5,10 @@ slug: "uskup-varnadere-tumulusu"
 description: "### Üsküp Varnadere Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.377676,41.7162895"
 draft: "false"
 weight: "999"

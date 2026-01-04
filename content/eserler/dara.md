@@ -5,10 +5,10 @@ slug: "dara"
 description: "### Dara: Tarihî Bir Kaya Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Dara_P1030851_20080424091200.JPG/1200px-Dara_P1030851_20080424091200.JPG"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.933333,37.183333"
 draft: "false"
 weight: "10"

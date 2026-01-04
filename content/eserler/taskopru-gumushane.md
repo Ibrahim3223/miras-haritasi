@@ -5,10 +5,10 @@ slug: "taskopru-gumushane"
 description: "## Taşköprü, Gümüşhane: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.791815,40.602252"
 draft: "false"
 weight: "999"

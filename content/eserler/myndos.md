@@ -5,10 +5,10 @@ slug: "myndos"
 description: "### Myndos: Muğla'daki Antik Bir Şehrin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Myndos.jpg/1200px-Myndos.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.228055555,37.054722222"
 draft: "false"
 weight: "10"

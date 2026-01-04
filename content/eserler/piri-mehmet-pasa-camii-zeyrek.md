@@ -5,10 +5,10 @@ slug: "piri-mehmet-pasa-camii-zeyrek"
 description: "## Piri Mehmet Paşa Camii, Zeyrek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Piri_Mehmed_Pasha_Mosque_02.jpg/1200px-Piri_Mehmed_Pasha_Mosque_02.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9582825,41.0201225"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "debruz-camii"
 description: "### Debruz Camii: Antakya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1657715,36.2027512"
 draft: "false"
 weight: "999"

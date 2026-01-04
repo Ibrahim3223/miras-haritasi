@@ -5,10 +5,10 @@ slug: "asagi-pinar-acik-hava-muzesi"
 description: "# Aşağı Pınar Açık Hava Müzesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2259502,41.7209625"
 draft: "false"
 weight: "999"

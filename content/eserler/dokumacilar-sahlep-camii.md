@@ -5,10 +5,10 @@ slug: "dokumacilar-sahlep-camii"
 description: "## Dokumacılar Sahlep Camii: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3857507,40.718228"
 draft: "false"
 weight: "999"

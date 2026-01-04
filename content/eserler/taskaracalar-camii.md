@@ -5,10 +5,10 @@ slug: "taskaracalar-camii"
 description: "## Taşkaracalar Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2727814,40.7148895"
 draft: "false"
 weight: "999"

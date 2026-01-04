@@ -5,10 +5,10 @@ slug: "cengerli-kalesi"
 description: "## Cengerli Kalesi: Refahiye'nin Tarihi Zirvesinde..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Refahiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.8714409,39.806057"
 draft: "false"
 weight: "999"

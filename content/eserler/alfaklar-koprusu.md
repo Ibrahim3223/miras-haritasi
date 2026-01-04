@@ -5,10 +5,10 @@ slug: "alfaklar-koprusu"
 description: "### Alfaklar Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Karahallı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.5458775,38.4242592"
 draft: "false"
 weight: "999"

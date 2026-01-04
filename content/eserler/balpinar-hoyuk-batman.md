@@ -5,10 +5,10 @@ slug: "balpinar-hoyuk-batman"
 description: "## Balpınar Höyük: Batman'ın Gizemli Eseri..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.0529976,37.8656273"
 draft: "false"
 weight: "999"

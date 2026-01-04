@@ -5,10 +5,10 @@ slug: "evregi-ii-hoyugu"
 description: "### Evreği II Höyüğü: Konya'nın Kıvrak Tarımsal ve Hafif Sanayi Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.8352984,37.5780939"
 draft: "false"
 weight: "999"

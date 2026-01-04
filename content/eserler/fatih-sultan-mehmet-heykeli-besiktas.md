@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-heykeli-besiktas"
 description: "## Fatih Sultan Mehmet Heykeli, Beşiktaş..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.008822,41.048749"
 draft: "false"
 weight: "999"

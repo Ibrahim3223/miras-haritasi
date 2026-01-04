@@ -5,10 +5,10 @@ slug: "muttalip-hoyuk-erzin"
 description: "## Muttalip Höyük, Erzin: Hatay'ın Gizli Öreni..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Erzin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9819641,36.9202652"
 draft: "false"
 weight: "999"

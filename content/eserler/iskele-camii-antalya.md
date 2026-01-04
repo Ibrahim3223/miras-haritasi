@@ -5,10 +5,10 @@ slug: "iskele-camii-antalya"
 description: "## İskele Camii (Antalya)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/İskele_Camii.JPG/1200px-İskele_Camii.JPG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.703055555,36.884722222"
 draft: "false"
 weight: "10"

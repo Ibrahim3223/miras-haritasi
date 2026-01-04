@@ -5,10 +5,10 @@ slug: "dumanli-koyu-pistovlu-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Piştovlu Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.80002,40.653238"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bakirkoy-ruh-sagligi-ve-sinir-hastaliklari-muzesi"
 description: "### Bakırköy Ruh Sağlığı ve Sinir Hastalıkları Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.864973,40.993657"
 draft: "false"
 weight: "999"

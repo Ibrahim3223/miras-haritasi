@@ -5,10 +5,10 @@ slug: "kaleici-arasta-camii"
 description: "## Kaleiçi Arasta Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0849915,37.7858276"
 draft: "false"
 weight: "999"

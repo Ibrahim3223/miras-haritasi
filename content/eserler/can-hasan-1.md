@@ -5,10 +5,10 @@ slug: "can-hasan-1"
 description: "## Can Hasan 1 Arkeolojik Sitesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.3313,37.263"
 draft: "false"
 weight: "999"

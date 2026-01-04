@@ -5,10 +5,10 @@ slug: "seyhler-hamami"
 description: "# Şeyhler Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2725729,39.903461"
 draft: "false"
 weight: "999"

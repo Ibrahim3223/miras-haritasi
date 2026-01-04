@@ -5,10 +5,10 @@ slug: "cukurbuk-mahallesi-koprusu"
 description: "### Giriş..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.16736,41.087015"
 draft: "false"
 weight: "999"

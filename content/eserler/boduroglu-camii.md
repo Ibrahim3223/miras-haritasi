@@ -5,10 +5,10 @@ slug: "boduroglu-camii"
 description: "## Boduroğlu Camii..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4006805,38.677269"
 draft: "false"
 weight: "999"

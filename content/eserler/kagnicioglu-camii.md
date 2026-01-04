@@ -5,10 +5,10 @@ slug: "kagnicioglu-camii"
 description: "## Kağnıcıoğlu Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8577843,39.9345703"
 draft: "false"
 weight: "999"

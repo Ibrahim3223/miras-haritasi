@@ -5,10 +5,10 @@ slug: "dagpazari-roma-koprusu"
 description: "# Dağpazarı Roma Köprüsü..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.5059242,36.7898369"
 draft: "false"
 weight: "999"

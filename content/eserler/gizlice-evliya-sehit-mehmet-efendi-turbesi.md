@@ -5,10 +5,10 @@ slug: "gizlice-evliya-sehit-mehmet-efendi-turbesi"
 description: "### Gizlice Evliya Şehit Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9303932,41.0130386"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-kemalettin-camii"
 description: "## Hacı Kemalettin Camii: Rumelihisarı'nın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0567627,41.0870628"
 draft: "false"
 weight: "999"

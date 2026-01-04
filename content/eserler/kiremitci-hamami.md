@@ -5,10 +5,10 @@ slug: "kiremitci-hamami"
 description: "## Kiremitçi Hamamı: Bursa'nın Eskişehir'den Kalma Gizemi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0636616,40.1910553"
 draft: "false"
 weight: "999"

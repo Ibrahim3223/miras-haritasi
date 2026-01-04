@@ -5,10 +5,10 @@ slug: "hoyran"
 description: "## Hoyran: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8761,36.231"
 draft: "false"
 weight: "999"

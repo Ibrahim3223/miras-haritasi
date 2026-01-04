@@ -5,10 +5,10 @@ slug: "gurgen-koprusu-guneysu"
 description: "## Gürgen Köprüsü Güneysu: Rize'nin Tarihi İmkânı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.6586,40.952067"
 draft: "false"
 weight: "999"

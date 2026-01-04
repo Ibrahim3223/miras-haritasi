@@ -5,10 +5,10 @@ slug: "feke-kalesi-2"
 description: "### Feke Kalesi 2..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Feke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.92007,37.817679"
 draft: "false"
 weight: "999"

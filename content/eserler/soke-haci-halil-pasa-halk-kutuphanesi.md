@@ -5,10 +5,10 @@ slug: "soke-haci-halil-pasa-halk-kutuphanesi"
 description: "## Söke Hacı Halil Paşa Halk Kütüphanesi: Aydın'ın Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.4031677,37.7546959"
 draft: "false"
 weight: "999"

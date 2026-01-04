@@ -5,10 +5,10 @@ slug: "yuh-baba-turbesi"
 description: "## Yuh Baba Türbesi: Konya'da Bir Kültürel Miras..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.498013,37.865516"
 draft: "false"
 weight: "999"

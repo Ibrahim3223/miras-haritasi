@@ -5,10 +5,10 @@ slug: "selman-kalesi"
 description: "## Selman Kalesi: Diyarbakır'ın Gizli Zirvesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.1753426,38.1716347"
 draft: "false"
 weight: "999"

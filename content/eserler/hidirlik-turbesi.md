@@ -5,10 +5,10 @@ slug: "hidirlik-turbesi"
 description: "# Hıdırlık Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8670082,39.9462242"
 draft: "false"
 weight: "999"

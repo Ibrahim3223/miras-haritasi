@@ -5,10 +5,10 @@ slug: "seyh-sucaeddin-turbesi"
 description: "## Şeyh Sücaeddin Türbesi: Konya'nın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4956589,37.8844872"
 draft: "false"
 weight: "999"

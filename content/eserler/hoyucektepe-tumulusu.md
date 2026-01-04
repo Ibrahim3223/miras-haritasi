@@ -5,10 +5,10 @@ slug: "hoyucektepe-tumulusu"
 description: "## Höyücektepe Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Meriç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5107346,41.1836815"
 draft: "false"
 weight: "999"

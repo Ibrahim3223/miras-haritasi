@@ -5,10 +5,10 @@ slug: "golbagi-ermeni-kilisesi"
 description: "### Gölbağı Ermeni Kilisesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.6055984,39.0225983"
 draft: "false"
 weight: "999"

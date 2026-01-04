@@ -5,10 +5,10 @@ slug: "esenkoy-tumulusu"
 description: "### Eşenköy Tümülüsü: Tarih, Kültür ve Mirasın Meşalesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0457172,40.1079102"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gokhoyuk"
 description: "### Gökhöyük: Antik Bir Uygarlığın İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.568771362,37.019001724"
 draft: "false"
 weight: "999"

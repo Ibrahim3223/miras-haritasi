@@ -5,10 +5,10 @@ slug: "ayakcakli-mescit"
 description: "## Ayakcaklı Mescit: Melikgazi'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.484975401,38.71476932"
 draft: "false"
 weight: "999"

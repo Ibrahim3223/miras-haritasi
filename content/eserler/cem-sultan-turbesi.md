@@ -5,10 +5,10 @@ slug: "cem-sultan-turbesi"
 description: "## Cem Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cem_Sultan_tomb_7951.jpg/1200px-Cem_Sultan_tomb_7951.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Bursa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0456219,40.1905098"
 draft: "false"
 weight: "10"

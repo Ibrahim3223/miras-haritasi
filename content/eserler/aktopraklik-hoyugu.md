@@ -5,10 +5,10 @@ slug: "aktopraklik-hoyugu"
 description: "## Aktopraklık Höyüğü: Bursa'nın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Arkeopark.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.7710495,40.173233"
 draft: "false"
 weight: "999"

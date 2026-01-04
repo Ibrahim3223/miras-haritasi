@@ -5,10 +5,10 @@ slug: "yagibasan-medresesi-niksar"
 description: "## Yağıbasan Medresesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "36.952777777,40.591388888"
 draft: "false"
 weight: "999"

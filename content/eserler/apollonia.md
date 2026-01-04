@@ -5,10 +5,10 @@ slug: "apollonia"
 description: "## Apollonia: Antik Kent ve Doğa Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Ruinen_von_Apollonia_05_1997.jpg/1200px-Ruinen_von_Apollonia_05_1997.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş ilçesi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.76388889,36.18666667"
 draft: "false"
 weight: "10"

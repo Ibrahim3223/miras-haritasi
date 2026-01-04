@@ -5,10 +5,10 @@ slug: "orta-cami-tekirdag"
 description: "## Orta Cami, Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5147018,40.978199"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "likya-uygarliklari-muzesi"
 description: "## Likya Uygarlıkları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Museum_of_Lycian_Civilizations_29012022_008.jpg/1200px-Museum_of_Lycian_Civilizations_29012022_008.jpg"
 province: "Demre"
-iller: '["Demre"]'
+iller: ["Demre"]
 district: "Demre"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.960563888,36.228355555"
 draft: "false"
 weight: "10"

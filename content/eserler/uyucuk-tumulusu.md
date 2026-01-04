@@ -5,10 +5,10 @@ slug: "uyucuk-tumulusu"
 description: "### Üyücük Tümülüsü..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.099369,40.134201"
 draft: "false"
 weight: "999"

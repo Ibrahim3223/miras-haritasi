@@ -5,10 +5,10 @@ slug: "antalya-mevlevihane-muzesi"
 description: "### Antalya Mevlevihane Müzesi: Kültür Mirasının Gizemli Yerleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tilki-kalesi"
 description: "## Tilki Kalesi: Karaman'ın Gizli Mülkiyeti..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.14455,37.264746"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tabae-roma-hamami"
 description: "## Tabae Roma Hamamı: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Kale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.8463669,37.4312668"
 draft: "false"
 weight: "999"

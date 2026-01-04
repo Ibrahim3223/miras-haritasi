@@ -5,10 +5,10 @@ slug: "tavuk-pazari-hamami"
 description: "### Tavuk Pazarı Hamamı: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0609131,40.1858711"
 draft: "false"
 weight: "999"

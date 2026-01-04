@@ -5,10 +5,10 @@ slug: "sebinkarahisar-kalesi"
 description: "# Şebinkarahisar Kalesi: Giresun'un Tarihî Bir Zirvesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Castle_of_Şebinkarahisar_2017-07-02_01-1.jpg/1200px-Castle_of_Şebinkarahisar_2017-07-02_01-1.jpg"
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.423611,40.288339"
 draft: "false"
 weight: "10"

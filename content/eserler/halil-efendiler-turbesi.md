@@ -5,10 +5,10 @@ slug: "halil-efendiler-turbesi"
 description: "## Halil Efendiler Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9273929,41.0098865"
 draft: "false"
 weight: "999"

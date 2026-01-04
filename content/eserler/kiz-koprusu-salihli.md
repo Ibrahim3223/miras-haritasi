@@ -5,10 +5,10 @@ slug: "kiz-koprusu-salihli"
 description: "**Kız Köprüsü, Salihni: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2980404,38.6098671"
 draft: "false"
 weight: "999"

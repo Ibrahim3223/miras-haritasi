@@ -5,10 +5,10 @@ slug: "tcdd-malikoy-tren-istasyonu-muzesi"
 description: "# TCDD Malıköy Tren İstasyonu Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Battle_of_Sakarya_National_Historic_Park,_Polatlı-Haymana,_Ankara,_Turkey_-_Murat_Özsoy_33.jpg/1200px-Battle_of_Sakarya_National_Historic_Park,_Polatlı-Haymana,_Ankara,_Turkey_-_Murat_Özsoy_33.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.387636,39.785069"
 draft: "false"
 weight: "10"

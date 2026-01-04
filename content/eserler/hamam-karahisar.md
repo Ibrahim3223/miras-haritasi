@@ -5,10 +5,10 @@ slug: "hamam-karahisar"
 description: "**Hamam Karahisar: Sivrihisar'ın Gizli Cenneti**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.7239,39.442317"
 draft: "false"
 weight: "999"

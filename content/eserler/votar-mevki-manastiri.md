@@ -5,10 +5,10 @@ slug: "votar-mevki-manastiri"
 description: "## Votar Mevki Manastırı: Gökçeada'nın Gizemli Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8460007,40.1733017"
 draft: "false"
 weight: "999"

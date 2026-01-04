@@ -5,10 +5,10 @@ slug: "saint-pierre-manastiri"
 description: "**Saint Pierre Manastırı**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.5533905,38.3910599"
 draft: "false"
 weight: "999"

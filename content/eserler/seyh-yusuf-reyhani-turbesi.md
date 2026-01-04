@@ -5,10 +5,10 @@ slug: "seyh-yusuf-reyhani-turbesi"
 description: "## Şeyh Yusuf Reyhani Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "34.7516212,36.8118095"
 draft: "false"
 weight: "999"

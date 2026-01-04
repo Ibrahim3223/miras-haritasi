@@ -5,10 +5,10 @@ slug: "izkaftil-hoyugu"
 description: "## İzkaftil Höyüğü: Kahramanmaraş'ın Gizli Güzelliği..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1145434,38.1432608"
 draft: "false"
 weight: "999"

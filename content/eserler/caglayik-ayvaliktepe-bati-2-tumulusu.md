@@ -5,10 +5,10 @@ slug: "caglayik-ayvaliktepe-bati-2-tumulusu"
 description: "## Çağlayık Ayvalıktepe Batı 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.347641,41.992672"
 draft: "false"
 weight: "999"

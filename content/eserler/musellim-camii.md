@@ -5,10 +5,10 @@ slug: "musellim-camii"
 description: "## Müsellim Camii: Antalya'nın Tarihi ve Kültürel Mirasının Gizli Çehresini Açıklarken..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.7039814,36.8882446"
 draft: "false"
 weight: "999"

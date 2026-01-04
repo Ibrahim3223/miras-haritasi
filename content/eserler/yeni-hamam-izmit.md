@@ -5,10 +5,10 @@ slug: "yeni-hamam-izmit"
 description: "## Yeni Hamam, İzmit: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9218445,40.7644196"
 draft: "false"
 weight: "999"

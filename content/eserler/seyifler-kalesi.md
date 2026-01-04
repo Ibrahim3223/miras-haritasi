@@ -5,10 +5,10 @@ slug: "seyifler-kalesi"
 description: "### Seyifler Kalesi: Sakarya'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Seyifler_Kalesi2.JPG/1200px-Seyifler_Kalesi2.JPG"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Ferizli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.499444444,40.968888888"
 draft: "false"
 weight: "10"

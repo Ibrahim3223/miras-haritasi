@@ -5,10 +5,10 @@ slug: "sanctuary-of-the-nemeses-in-smyrna"
 description: "## Sanctuary of the Nemeses in Smyrna: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1383,38.41905"
 draft: "false"
 weight: "999"

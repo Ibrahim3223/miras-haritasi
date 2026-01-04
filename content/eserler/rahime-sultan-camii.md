@@ -5,10 +5,10 @@ slug: "rahime-sultan-camii"
 description: "## Rahime Sultan Camii: Sakarya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.3092518,40.700428"
 draft: "false"
 weight: "999"

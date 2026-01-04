@@ -5,10 +5,10 @@ slug: "hereke-hali-ve-dokuma-fabrikasi"
 description: "## Hereke Halı ve Dokuma Fabrikası: Türkiye'nin İhtişamlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/HEREKE,_osmanlı_dokuma_fabrikası_(AĞAÇSIZ)_^©Abdullah_Kiyga_-_panoramio.jpg/1200px-HEREKE,_osmanlı_dokuma_fabrikası_(AĞAÇSIZ)_^©Abdullah_Kiyga_-_panoramio.jpg"
 province: "Malkara"
-iller: '["Malkara"]'
+iller: ["Malkara"]
 district: "Hereke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.614444444,40.783333333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "atik-nisanci-medresesi"
 description: "### Atik Nişancı Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9612904,41.0062599"
 draft: "false"
 weight: "999"

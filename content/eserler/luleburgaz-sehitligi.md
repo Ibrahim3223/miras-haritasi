@@ -5,10 +5,10 @@ slug: "luleburgaz-sehitligi"
 description: "## Lüleburgaz Şehitliği..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3310623,41.4053001"
 draft: "false"
 weight: "999"

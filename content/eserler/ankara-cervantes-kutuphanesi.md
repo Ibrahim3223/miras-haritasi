@@ -5,10 +5,10 @@ slug: "ankara-cervantes-kutuphanesi"
 description: "## Ankara Cervantes Kütüphanesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "32.854951,39.925127"
 draft: "false"
 weight: "999"

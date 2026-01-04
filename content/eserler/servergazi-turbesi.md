@@ -5,10 +5,10 @@ slug: "servergazi-turbesi"
 description: "## Servergazi Türbesi: Merkezefendi'nin Gizli Anıtı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0429382,37.7458954"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tiryakioglu-camii"
 description: "## Tiryakioğlu Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5597992,40.9536018"
 draft: "false"
 weight: "999"

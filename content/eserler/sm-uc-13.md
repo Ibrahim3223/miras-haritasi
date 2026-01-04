@@ -5,10 +5,10 @@ slug: "sm-uc-13"
 description: "## SM UC-13: Karasu'daki Bir Savaş Tüneli..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Karasu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.5,41.15"
 draft: "false"
 weight: "999"

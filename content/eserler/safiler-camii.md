@@ -5,10 +5,10 @@ slug: "safiler-camii"
 description: "## Şafiler Camii Tanıtımı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2783966,39.9075241"
 draft: "false"
 weight: "999"

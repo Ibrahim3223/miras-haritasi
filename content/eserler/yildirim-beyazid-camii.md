@@ -5,10 +5,10 @@ slug: "yildirim-beyazid-camii"
 description: "## Yıldırım Beyazıt Camii: Bilecik'teki Tarihi Bir Çanakkale Kahramanının Anıtı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0118961,40.3566628"
 draft: "false"
 weight: "999"

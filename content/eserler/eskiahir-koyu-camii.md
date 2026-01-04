@@ -5,10 +5,10 @@ slug: "eskiahir-koyu-camii"
 description: "## Eskiahır Köyü Camii: Tarihi ve Mimarisi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.4209824,40.8389244"
 draft: "false"
 weight: "999"

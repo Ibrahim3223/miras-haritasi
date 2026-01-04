@@ -5,10 +5,10 @@ slug: "cavdar-camii"
 description: "# Çavdar Camii: Ordu'da Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.698635,40.388809"
 draft: "false"
 weight: "999"

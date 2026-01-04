@@ -5,10 +5,10 @@ slug: "veyis-efendi-camii"
 description: "# Veyis Efendi Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.284523,39.9089241"
 draft: "false"
 weight: "999"

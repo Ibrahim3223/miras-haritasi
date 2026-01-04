@@ -5,10 +5,10 @@ slug: "buyukteflek"
 description: "## Büyükteflek Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3420258,39.6346741"
 draft: "false"
 weight: "999"

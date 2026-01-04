@@ -5,10 +5,10 @@ slug: "uyucek-hoyuk-iznik"
 description: "### Üyücek Höyük: İznik'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.766833,40.419567"
 draft: "false"
 weight: "999"

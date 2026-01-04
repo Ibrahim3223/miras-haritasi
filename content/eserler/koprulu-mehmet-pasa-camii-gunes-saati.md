@@ -5,10 +5,10 @@ slug: "koprulu-mehmet-pasa-camii-gunes-saati"
 description: "## Köprülü Mehmet Paşa Camii Güneş Saati: Safranbolu'nun Gizli Mücevheri..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.6924629,41.2446404"
 draft: "false"
 weight: "999"

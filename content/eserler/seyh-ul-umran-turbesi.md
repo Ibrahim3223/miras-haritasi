@@ -5,10 +5,10 @@ slug: "seyh-ul-umran-turbesi"
 description: "# Şeyh ül Ümran Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.1977,40.4708"
 draft: "false"
 weight: "999"

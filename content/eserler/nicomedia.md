@@ -5,10 +5,10 @@ slug: "nicomedia"
 description: "### Nicomedia: Tarih ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Karte_Nikomedia.png/1200px-Karte_Nikomedia.png"
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9175,40.7625"
 draft: "false"
 weight: "10"

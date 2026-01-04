@@ -5,10 +5,10 @@ slug: "nasrullah-koprusu"
 description: "# Nasrullah Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Nasrullah_Bridge.jpg/1200px-Nasrullah_Bridge.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.77643,41.3776"
 draft: "false"
 weight: "10"

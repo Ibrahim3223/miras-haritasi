@@ -5,10 +5,10 @@ slug: "yavuz-mehmet-aga-camii"
 description: "## Yavuz Mehmet Ağa Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9394264,41.0075417"
 draft: "false"
 weight: "999"

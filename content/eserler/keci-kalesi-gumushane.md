@@ -5,10 +5,10 @@ slug: "keci-kalesi-gumushane"
 description: "## Keçi Kalesi, Gümüşhane..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.699558,40.385904"
 draft: "false"
 weight: "999"

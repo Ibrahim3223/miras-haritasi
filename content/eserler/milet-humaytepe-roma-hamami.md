@@ -5,10 +5,10 @@ slug: "milet-humaytepe-roma-hamami"
 description: "## Milet Humaytepe Roma Hamamı: Aydın'ın Tarihi Bir Çanak Su..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2808628,37.5313911"
 draft: "false"
 weight: "999"

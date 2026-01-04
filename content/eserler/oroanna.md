@@ -5,10 +5,10 @@ slug: "oroanna"
 description: "## Oroanna: Seferihisar'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.145959,38.197854"
 draft: "false"
 weight: "999"

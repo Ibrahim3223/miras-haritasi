@@ -5,10 +5,10 @@ slug: "surp-kevork-kilisesi"
 description: "## Surp Kevork Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Church_of_St._George_of_Samatya_01.jpg/1200px-Church_of_St._George_of_Samatya_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.93302,41.00188"
 draft: "false"
 weight: "10"

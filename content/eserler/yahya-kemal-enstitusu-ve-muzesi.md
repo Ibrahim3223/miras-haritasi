@@ -5,10 +5,10 @@ slug: "yahya-kemal-enstitusu-ve-muzesi"
 description: "## Yahya Kemal Enstitüsü ve Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9675694,41.008522"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nazilli-buyuk-menderes-koprusu"
 description: "## Nazilli Büyük Menderes Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3275299,37.8758965"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "garip-dede-turbesi"
 description: "## Garip Dede Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.766439,40.986359"
 draft: "false"
 weight: "999"

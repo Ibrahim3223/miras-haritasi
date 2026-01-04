@@ -5,10 +5,10 @@ slug: "buyukada-ayios-dimitrios-rum-ortodoks-kilisesi"
 description: "## Büyükada Ayios Dimitrios Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ayios_Dimitrios_Rum_Ortodoks_Kilisesi,_Büyükada,_İstanbul.jpg/1200px-Ayios_Dimitrios_Rum_Ortodoks_Kilisesi,_Büyükada,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.13262,40.873643"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "malik-ejder-turbesi"
 description: "## Malik Ejder Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9013,37.51"
 draft: "false"
 weight: "999"

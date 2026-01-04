@@ -5,10 +5,10 @@ slug: "hatuniye-medresesi-tokat"
 description: "## Hatuniye Medresesi: Tokat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "36.553561937,40.31847422"
 draft: "false"
 weight: "999"

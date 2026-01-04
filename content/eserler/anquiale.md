@@ -5,10 +5,10 @@ slug: "anquiale"
 description: "## Anquiale: Antik Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.77007,36.814311"
 draft: "false"
 weight: "999"

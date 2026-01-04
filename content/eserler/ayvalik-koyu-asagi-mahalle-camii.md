@@ -5,10 +5,10 @@ slug: "ayvalik-koyu-asagi-mahalle-camii"
 description: "### Ayvalık Köyü Aşağı Mahalle Camii: Rize'nin Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.521539,40.803973"
 draft: "false"
 weight: "999"

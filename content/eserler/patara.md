@@ -5,10 +5,10 @@ slug: "patara"
 description: "### Patara: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Patara_ruins.jpg/1200px-Patara_ruins.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.314167,36.260278"
 draft: "false"
 weight: "10"

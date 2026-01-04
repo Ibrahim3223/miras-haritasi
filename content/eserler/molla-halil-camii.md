@@ -5,10 +5,10 @@ slug: "molla-halil-camii"
 description: "## Molla Halil Camii: Mardin'in Güzelliğini Ada Etiren Bir İmza..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.74345,37.313085"
 draft: "false"
 weight: "999"

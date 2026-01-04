@@ -5,10 +5,10 @@ slug: "kolophon"
 description: "### Kolophon: İyonya'nın Gizli Şehirleri Arasındaki Bir Harika..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ionia,_Asia_Minor_Map,_Classical_Atlas,_1886,_Keith_Johnston.jpg/1200px-Ionia,_Asia_Minor_Map,_Classical_Atlas,_1886,_Keith_Johnston.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.14222222,38.11555556"
 draft: "false"
 weight: "10"

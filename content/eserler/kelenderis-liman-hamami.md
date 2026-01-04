@@ -5,10 +5,10 @@ slug: "kelenderis-liman-hamami"
 description: "### Kelenderis Liman Hamamı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Aydıncık"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.3230209,36.1447678"
 draft: "false"
 weight: "999"

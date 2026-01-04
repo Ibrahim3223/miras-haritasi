@@ -5,10 +5,10 @@ slug: "bolvadin-muzesi"
 description: "## Bolvadin Müzesi: Afyonkarahisar'daki Bir Kültür Emeği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.040018,38.7188"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "erbaba-hoyugu"
 description: "### Erbaba Höyüğü: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.6811295,37.7591438"
 draft: "false"
 weight: "999"

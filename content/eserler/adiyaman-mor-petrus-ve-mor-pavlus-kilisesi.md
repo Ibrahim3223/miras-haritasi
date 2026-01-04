@@ -5,10 +5,10 @@ slug: "adiyaman-mor-petrus-ve-mor-pavlus-kilisesi"
 description: "## Adıyaman Mor Petrus ve Mor Pavlus Kilisesi..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.2732811,37.7571831"
 draft: "false"
 weight: "999"

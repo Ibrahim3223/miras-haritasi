@@ -5,10 +5,10 @@ slug: "daskyleion"
 description: "## Daskyleion: Balıkesir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Manyas1.JPG/1200px-Manyas1.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balıkesir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.052166666,40.132194444"
 draft: "false"
 weight: "10"

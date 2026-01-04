@@ -5,10 +5,10 @@ slug: "sogutagil-koyu-kemer-kopru"
 description: "### Söğütağıl Köyü Kemer Köprü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.77044,40.44451"
 draft: "false"
 weight: "999"

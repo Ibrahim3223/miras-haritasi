@@ -5,10 +5,10 @@ slug: "aya-eftim-manastiri"
 description: "### Aya Eftim Manastırı: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7654991,40.1551018"
 draft: "false"
 weight: "999"

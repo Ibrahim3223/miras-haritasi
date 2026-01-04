@@ -5,10 +5,10 @@ slug: "adana-etnografya-muzesi"
 description: "## Adana Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Adana_ethnographic_museum_(33592701583).jpg/1200px-Adana_ethnographic_museum_(33592701583).jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.323056,36.989444"
 draft: "false"
 weight: "10"

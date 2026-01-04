@@ -5,10 +5,10 @@ slug: "dilaver-koprusu"
 description: "### Dilaver Köprüsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.2307014,37.6717834"
 draft: "false"
 weight: "999"

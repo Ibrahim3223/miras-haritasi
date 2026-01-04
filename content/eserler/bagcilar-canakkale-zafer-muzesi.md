@@ -5,10 +5,10 @@ slug: "bagcilar-canakkale-zafer-muzesi"
 description: "## Bağcılar Çanakkale Zafer Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.816487885,41.040413228"
 draft: "false"
 weight: "999"

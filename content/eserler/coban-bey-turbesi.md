@@ -5,10 +5,10 @@ slug: "coban-bey-turbesi"
 description: "## Çoban Bey Türbesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.072888888,40.175638888"
 draft: "false"
 weight: "999"

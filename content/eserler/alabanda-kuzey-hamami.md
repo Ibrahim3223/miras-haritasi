@@ -5,10 +5,10 @@ slug: "alabanda-kuzey-hamami"
 description: "## Alabanda Kuzey Hamamı: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.983700553,37.598732434"
 draft: "false"
 weight: "999"

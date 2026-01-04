@@ -5,10 +5,10 @@ slug: "abukhanmi-church"
 description: "## Abukhanmi Church: Kars'taki Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "savranzade-camii"
 description: "# Savranzade Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.3999615,38.0808449"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dubatepe-kalesi"
 description: "## Dubatepe Kalesi: İzmir'in Gizli İncisi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.7597885,38.3835335"
 draft: "false"
 weight: "999"

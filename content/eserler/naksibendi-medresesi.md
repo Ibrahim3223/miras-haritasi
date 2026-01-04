@@ -5,10 +5,10 @@ slug: "naksibendi-medresesi"
 description: "**Nakşibendi Medresesi**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.8621368,39.9343147"
 draft: "false"
 weight: "999"

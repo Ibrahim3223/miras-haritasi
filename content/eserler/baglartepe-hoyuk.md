@@ -5,10 +5,10 @@ slug: "baglartepe-hoyuk"
 description: "## Bağlartepe Höyük: Manisa'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.68295,39.143767"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "husamettin-efendi-camii"
 description: "## Hüsamettin Efendi Camii: Muğla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4164486,37.1032257"
 draft: "false"
 weight: "999"

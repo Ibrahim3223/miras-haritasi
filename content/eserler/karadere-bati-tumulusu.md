@@ -5,10 +5,10 @@ slug: "karadere-bati-tumulusu"
 description: "## Karadere Batı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4196339,41.9326477"
 draft: "false"
 weight: "999"

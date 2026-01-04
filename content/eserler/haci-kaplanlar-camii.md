@@ -5,10 +5,10 @@ slug: "haci-kaplanlar-camii"
 description: "## Hacı Kaplanlar Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0925751,37.7749481"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gaziantep-oguzeli-ilce-halk-kutuphanesi"
 description: "## Gaziantep Oğuzeli İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

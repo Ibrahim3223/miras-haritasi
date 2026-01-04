@@ -5,10 +5,10 @@ slug: "saray-camii"
 description: "## Saray Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Saray_Camii_II,_2023.jpg/1200px-Saray_Camii_II,_2023.jpg"
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.285611111,41.131361111"
 draft: "false"
 weight: "10"

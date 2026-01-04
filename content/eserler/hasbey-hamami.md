@@ -5,10 +5,10 @@ slug: "hasbey-hamami"
 description: "### Hasbey Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.421229,37.8527003"
 draft: "false"
 weight: "999"

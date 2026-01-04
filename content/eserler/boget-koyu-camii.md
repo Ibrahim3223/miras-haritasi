@@ -5,10 +5,10 @@ slug: "boget-koyu-camii"
 description: "## Böğet Köyü Camii..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.453125,38.3192482"
 draft: "false"
 weight: "999"

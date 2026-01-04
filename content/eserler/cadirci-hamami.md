@@ -5,10 +5,10 @@ slug: "cadirci-hamami"
 description: "### Çadırcı Hamamı: Erzincan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.4906006,39.7230988"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "idrias"
 description: "## Idrias Arkeolojik Sit..."
 featured_image: ""
 province: "Menteşe"
-iller: '["Menteşe"]'
+iller: ["Menteşe"]
 district: "Salihpaşalar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.25,37.25"
 draft: "false"
 weight: "999"

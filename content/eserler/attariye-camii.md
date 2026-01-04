@@ -5,10 +5,10 @@ slug: "attariye-camii"
 description: "## Attariye Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Karaman_Attariye_Camii_2178.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2159996,37.1819992"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gedikpasa-tiyatrosu"
 description: "### Gedikpaşa Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.966361111,41.007861111"
 draft: "false"
 weight: "999"

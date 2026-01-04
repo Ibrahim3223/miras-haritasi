@@ -5,10 +5,10 @@ slug: "silifke-kalesi"
 description: "### Silifke Kalesi: Mersin'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SilifkeKale4.jpg/1200px-SilifkeKale4.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.91555556,36.37666667"
 draft: "false"
 weight: "10"

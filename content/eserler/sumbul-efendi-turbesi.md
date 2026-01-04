@@ -5,10 +5,10 @@ slug: "sumbul-efendi-turbesi"
 description: "### Sümbül Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9287243,41.0036011"
 draft: "false"
 weight: "999"

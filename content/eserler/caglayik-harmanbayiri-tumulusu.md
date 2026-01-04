@@ -5,10 +5,10 @@ slug: "caglayik-harmanbayiri-tumulusu"
 description: "### Çağlayık Harmanbayırı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3238182,42.0533943"
 draft: "false"
 weight: "999"

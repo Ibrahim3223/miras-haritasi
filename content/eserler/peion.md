@@ -5,10 +5,10 @@ slug: "peion"
 description: "# Peion: Beypazarı'ndaki Antik Bir Kale..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.090849594,40.132293726"
 draft: "false"
 weight: "999"

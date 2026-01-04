@@ -5,10 +5,10 @@ slug: "gelin-hanim-koprusu"
 description: "## Gelin Hanım Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.7474499,41.7219238"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tzepta-kalesi-kilisesi"
 description: "## Tzepta Kalesi Kilisesi..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Eskikale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.1906,41.292466666"
 draft: "false"
 weight: "999"

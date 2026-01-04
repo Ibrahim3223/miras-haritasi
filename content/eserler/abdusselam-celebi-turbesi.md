@@ -5,10 +5,10 @@ slug: "abdusselam-celebi-turbesi"
 description: "## Abdüsselam Çelebi Türbesi: Küçükçekmece'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Küçükçekmece_-_Abdüsselam_Çelebi_Tomb_-_20241129172227.jpg/1200px-Küçükçekmece_-_Abdüsselam_Çelebi_Tomb_-_20241129172227.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.7724094,40.991291"
 draft: "false"
 weight: "10"

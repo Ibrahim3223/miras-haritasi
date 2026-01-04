@@ -5,10 +5,10 @@ slug: "dogukapi-tren-istasyonu"
 description: "## Doğukapı Tren İstasyonu: Kars'ın Tarihi Bir Kervansarayı..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "43.7378871,40.7297423"
 draft: "false"
 weight: "999"

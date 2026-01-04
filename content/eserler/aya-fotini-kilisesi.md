@@ -5,10 +5,10 @@ slug: "aya-fotini-kilisesi"
 description: "## Aya Fotini Kilisesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/St.fotini.smyrna.bell.jpg/1200px-St.fotini.smyrna.bell.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.134722222,38.424722222"
 draft: "false"
 weight: "10"

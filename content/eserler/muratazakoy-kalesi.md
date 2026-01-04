@@ -5,10 +5,10 @@ slug: "muratazakoy-kalesi"
 description: "# Muratazaköy Kalesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Altunhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.6016998,38.1743011"
 draft: "false"
 weight: "999"

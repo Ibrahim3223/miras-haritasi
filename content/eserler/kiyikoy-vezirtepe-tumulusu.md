@@ -5,10 +5,10 @@ slug: "kiyikoy-vezirtepe-tumulusu"
 description: "## Kıyıköy Vezirtepe Tümülüsü: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0783024,41.6299477"
 draft: "false"
 weight: "999"

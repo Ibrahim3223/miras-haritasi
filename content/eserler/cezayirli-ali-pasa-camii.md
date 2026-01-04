@@ -5,10 +5,10 @@ slug: "cezayirli-ali-pasa-camii"
 description: "**Cezayirli Ali Paşa Camii**..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1620445,42.0254517"
 draft: "false"
 weight: "999"

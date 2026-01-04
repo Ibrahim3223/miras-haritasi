@@ -5,10 +5,10 @@ slug: "sindi-koprusu"
 description: "### Sındı Köprüsü: Datça'nın Tarihi ve Kıymetli Köprüsü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.5132465,36.7055626"
 draft: "false"
 weight: "999"

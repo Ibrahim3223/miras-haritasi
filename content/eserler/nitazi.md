@@ -5,10 +5,10 @@ slug: "nitazi"
 description: "## Nitazi: Aksaray'ın Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.912591,38.709571"
 draft: "false"
 weight: "999"

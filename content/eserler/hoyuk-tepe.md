@@ -5,10 +5,10 @@ slug: "hoyuk-tepe"
 description: "## Höyük Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5337683,39.4145916"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "augai"
 description: "## Augai Arkeolojik Sitinin Tanıtımı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.86296,36.571185"
 draft: "false"
 weight: "999"

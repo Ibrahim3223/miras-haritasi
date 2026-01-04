@@ -5,10 +5,10 @@ slug: "cifteler-koprusu"
 description: "## Çifteler Köprüsü: Giresun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.3371124,40.650856"
 draft: "false"
 weight: "999"

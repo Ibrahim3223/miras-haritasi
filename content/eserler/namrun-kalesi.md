@@ -5,10 +5,10 @@ slug: "namrun-kalesi"
 description: "## Namrun Kalesi: Mersin'in Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lampron_castle.jpg/1200px-Lampron_castle.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Çamlıyayla"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.602231,37.1667361"
 draft: "false"
 weight: "10"

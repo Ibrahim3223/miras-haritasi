@@ -5,10 +5,10 @@ slug: "sagalassos-neon-kutuphanesi"
 description: "## Sagalassos Neon Kütüphanesi: Ağlasun'un Gizli Harikası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.519773,37.678349"
 draft: "false"
 weight: "999"

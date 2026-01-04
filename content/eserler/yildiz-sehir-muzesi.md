@@ -5,10 +5,10 @@ slug: "yildiz-sehir-muzesi"
 description: "## Yıldız Şehir Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.011190421,41.049580004"
 draft: "false"
 weight: "999"

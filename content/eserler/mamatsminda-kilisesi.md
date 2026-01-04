@@ -5,10 +5,10 @@ slug: "mamatsminda-kilisesi"
 description: "**Mamatsminda Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Mamatsminda_Church,_1888_by_Pavlinov.jpg/1200px-Mamatsminda_Church,_1888_by_Pavlinov.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.7174687,41.3332693"
 draft: "false"
 weight: "10"

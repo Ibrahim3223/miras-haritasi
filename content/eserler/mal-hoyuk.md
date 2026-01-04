@@ -5,10 +5,10 @@ slug: "mal-hoyuk"
 description: "## Mal Höyük: Türkiye'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1551584,39.4649465"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-arz-odasi-yanindaki-gunes-saati"
 description: "## Topkapı Sarayı Arz Odası Yanındaki Güneş Saati..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9847107,41.0127411"
 draft: "false"
 weight: "1"

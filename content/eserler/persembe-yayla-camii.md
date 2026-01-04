@@ -5,10 +5,10 @@ slug: "persembe-yayla-camii"
 description: "## Perşembe Yayla Camii: Ordu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.295802,40.627272"
 draft: "false"
 weight: "999"

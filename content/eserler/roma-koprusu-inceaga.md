@@ -5,10 +5,10 @@ slug: "roma-koprusu-inceaga"
 description: "## Roma Köprüsü, İnceağa..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.1332036,39.7826609"
 draft: "false"
 weight: "999"

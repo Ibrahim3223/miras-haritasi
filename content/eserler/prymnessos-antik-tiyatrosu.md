@@ -5,10 +5,10 @@ slug: "prymnessos-antik-tiyatrosu"
 description: "# Prymnessos Antik Tiyatrosu..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "30.575632,38.698263"
 draft: "false"
 weight: "999"

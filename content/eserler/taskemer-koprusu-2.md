@@ -5,10 +5,10 @@ slug: "taskemer-koprusu-2"
 description: "**Taşkemer Köprüsü 2**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8939266,37.3024712"
 draft: "false"
 weight: "999"

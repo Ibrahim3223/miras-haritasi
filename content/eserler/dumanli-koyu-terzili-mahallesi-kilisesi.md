@@ -5,10 +5,10 @@ slug: "dumanli-koyu-terzili-mahallesi-kilisesi"
 description: "## Dumanlı Köyü Terzili Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.805517,40.67359"
 draft: "false"
 weight: "999"

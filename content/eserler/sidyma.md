@@ -5,10 +5,10 @@ slug: "sidyma"
 description: "## Sidyma: Muğla'nın Antik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Sidima_antik_kenti.jpg/1200px-Sidima_antik_kenti.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.19333333,36.40833333"
 draft: "false"
 weight: "10"

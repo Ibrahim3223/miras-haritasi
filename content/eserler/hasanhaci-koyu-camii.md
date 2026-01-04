@@ -5,10 +5,10 @@ slug: "hasanhaci-koyu-camii"
 description: "## Hasanhacı Köyü Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.0496445,40.5906143"
 draft: "false"
 weight: "999"

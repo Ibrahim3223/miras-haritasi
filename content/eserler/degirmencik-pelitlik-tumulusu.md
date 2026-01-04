@@ -5,10 +5,10 @@ slug: "degirmencik-pelitlik-tumulusu"
 description: "## Değirmencik Pelitlik Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2219105,41.6340523"
 draft: "false"
 weight: "999"

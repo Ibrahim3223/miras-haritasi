@@ -5,10 +5,10 @@ slug: "abdurrahman-sultan-turbesi"
 description: "### Abdurrahman Sultan Türbesi: Başmakçı'nın Gizli Çağı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Başmakçı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0187,37.8922"
 draft: "false"
 weight: "999"

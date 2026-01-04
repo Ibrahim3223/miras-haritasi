@@ -5,10 +5,10 @@ slug: "murat-pasa-hamami"
 description: "## Murat Paşa Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2702139,39.903874"
 draft: "false"
 weight: "999"

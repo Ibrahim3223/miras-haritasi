@@ -5,10 +5,10 @@ slug: "softa-hatip-camii"
 description: "### Softa Hatip Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Softa_Hatip_Mosque.jpg/1200px-Softa_Hatip_Mosque.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.963604,41.0192146"
 draft: "false"
 weight: "10"

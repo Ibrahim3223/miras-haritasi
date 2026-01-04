@@ -5,10 +5,10 @@ slug: "aga-koprusu"
 description: "## Ağa Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Yağlıdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.6340828,40.835247"
 draft: "false"
 weight: "999"

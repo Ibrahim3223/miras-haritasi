@@ -5,10 +5,10 @@ slug: "roma-koprusu-kavak"
 description: "## Roma Köprüsü, Kavak..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.443676,37.553307"
 draft: "false"
 weight: "999"

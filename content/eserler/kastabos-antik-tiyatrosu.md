@@ -5,10 +5,10 @@ slug: "kastabos-antik-tiyatrosu"
 description: "## Kastabos Antik Tiyatrosu: Marmaris'in Gizli Çehresi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.1538506,36.7834663"
 draft: "false"
 weight: "999"

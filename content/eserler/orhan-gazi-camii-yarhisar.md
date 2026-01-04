@@ -5,10 +5,10 @@ slug: "orhan-gazi-camii-yarhisar"
 description: "## Orhan Gazi Camii, Yarhisar..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.7311172,40.1816216"
 draft: "false"
 weight: "999"

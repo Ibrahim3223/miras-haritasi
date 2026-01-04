@@ -5,10 +5,10 @@ slug: "fatih-camii-babaeski"
 description: "## Fatih Camii (Babaeski)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Babaeski_-_Fatih_Mosque_(Babaeski)_-_20250424173134.jpg/1200px-Babaeski_-_Fatih_Mosque_(Babaeski)_-_20250424173134.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0948753,41.4283409"
 draft: "false"
 weight: "10"

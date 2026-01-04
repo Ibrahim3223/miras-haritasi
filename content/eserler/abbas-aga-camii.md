@@ -5,10 +5,10 @@ slug: "abbas-aga-camii"
 description: "## Abbas Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Abbasagacamii.png/1200px-Abbasagacamii.png"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.005833333,41.044861111"
 draft: "false"
 weight: "10"

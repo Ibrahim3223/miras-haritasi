@@ -5,10 +5,10 @@ slug: "yeni-cami-marmaris"
 description: "## Marmaris'te Yeni Cami: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.2729836,36.8525581"
 draft: "false"
 weight: "999"

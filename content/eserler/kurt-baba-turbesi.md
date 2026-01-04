@@ -5,10 +5,10 @@ slug: "kurt-baba-turbesi"
 description: "## Kurt Baba Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.734653,38.088522"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdullah-rusdi-turbesi"
 description: "# Abdullah Rüşdi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.2122,40.4643"
 draft: "false"
 weight: "999"

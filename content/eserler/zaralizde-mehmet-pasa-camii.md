@@ -5,10 +5,10 @@ slug: "zaralizde-mehmet-pasa-camii"
 description: "## Zaralızâde Mehmet Paşa Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.7567787,39.8977928"
 draft: "false"
 weight: "999"

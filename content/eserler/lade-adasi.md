@@ -5,10 +5,10 @@ slug: "lade-adasi"
 description: "# Lade Adası: Aydın'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Lade_1.jpg/1200px-Lade_1.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.225,37.529444"
 draft: "false"
 weight: "10"

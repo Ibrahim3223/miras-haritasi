@@ -5,10 +5,10 @@ slug: "yesilli-cami"
 description: "### Yeşilli Cami Tanıtımı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bigadiç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1341114,39.3940277"
 draft: "false"
 weight: "999"

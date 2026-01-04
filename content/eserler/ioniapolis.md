@@ -5,10 +5,10 @@ slug: "ioniapolis"
 description: "## İoniapolis: Milas'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.508324,37.474596"
 draft: "false"
 weight: "999"

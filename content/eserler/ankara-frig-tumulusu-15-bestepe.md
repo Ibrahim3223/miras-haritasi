@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-15-bestepe"
 description: "### Ankara Frig Tümülüsü 15, Beştepe..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.804218425,39.925186664"
 draft: "false"
 weight: "999"

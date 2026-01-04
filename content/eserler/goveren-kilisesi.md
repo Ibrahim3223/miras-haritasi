@@ -5,10 +5,10 @@ slug: "goveren-kilisesi"
 description: "## Göveren Kilisesi: Aladağ'ın Gizli Çarı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Aladağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.4608955,37.465271"
 draft: "false"
 weight: "999"

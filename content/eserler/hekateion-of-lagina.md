@@ -5,10 +5,10 @@ slug: "hekateion-of-lagina"
 description: "## Hekateion of Lagina: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.03948,37.3785444"
 draft: "false"
 weight: "999"

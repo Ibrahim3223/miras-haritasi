@@ -5,10 +5,10 @@ slug: "amintas-kaya-mezari"
 description: "**Amintas Kaya Mezarı: Muğla'nın Gizli Hazineleri**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Amynthas_rock_tomb_August_2011.jpg/1200px-Amynthas_rock_tomb_August_2011.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1178,36.6183"
 draft: "false"
 weight: "10"

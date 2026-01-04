@@ -5,10 +5,10 @@ slug: "dara-mahallesi-camii"
 description: "## Dara Mahallesi Camii: Mardin'in Tarihî Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.954185,37.178456"
 draft: "false"
 weight: "999"

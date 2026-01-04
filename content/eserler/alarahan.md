@@ -5,10 +5,10 @@ slug: "alarahan"
 description: "### Alarahan Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Tuerk40.jpg/1200px-Tuerk40.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.72361111,36.69222222"
 draft: "false"
 weight: "10"

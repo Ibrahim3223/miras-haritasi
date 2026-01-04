@@ -5,10 +5,10 @@ slug: "hizir-reis-denizalti-muzesi"
 description: "## Hızır Reis Denizaltı Müzesi: İzmit'in Denizcilik Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9170437,40.7604713"
 draft: "false"
 weight: "999"

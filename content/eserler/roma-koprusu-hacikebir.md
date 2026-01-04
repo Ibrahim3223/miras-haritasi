@@ -5,10 +5,10 @@ slug: "roma-koprusu-hacikebir"
 description: "## Roma Köprüsü, Hacıkebir..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Çavdarhisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.675359,39.2371003"
 draft: "false"
 weight: "999"

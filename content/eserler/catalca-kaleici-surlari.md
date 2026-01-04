@@ -5,10 +5,10 @@ slug: "catalca-kaleici-surlari"
 description: "# Çatalca Kaleiçi Surları..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.458479,41.145634"
 draft: "false"
 weight: "999"

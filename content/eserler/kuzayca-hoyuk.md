@@ -5,10 +5,10 @@ slug: "kuzayca-hoyuk"
 description: "## Kuzayca Höyük: Şefaatli'nin Gizemli Ören Yeri..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8511139,39.3930146"
 draft: "false"
 weight: "999"

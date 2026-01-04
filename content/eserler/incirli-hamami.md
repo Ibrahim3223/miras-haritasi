@@ -5,10 +5,10 @@ slug: "incirli-hamami"
 description: "## İncirli Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Bursa_Incirli_Culture_Center_May_2014_6852.jpg/1200px-Bursa_Incirli_Culture_Center_May_2014_6852.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0778522,40.1836205"
 draft: "false"
 weight: "10"

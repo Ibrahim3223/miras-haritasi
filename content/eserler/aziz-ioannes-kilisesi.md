@@ -5,10 +5,10 @@ slug: "aziz-ioannes-kilisesi"
 description: "## Aziz Ioannes Kilisesi: Foça'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.7827168,38.7327728"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alaaddin-bey-camii"
 description: "**Alaaddin Bey Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/24/Mu%C5%9F_Alaeddin_Bey_Camii_in_2005_1069.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2082787,37.1809731"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "niyazi-efendi-mescidi"
 description: "## Niyazi Efendi Mescidi..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8953629,36.9201698"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "naulochon"
 description: "## Naulochon: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayraklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.171,38.4645"
 draft: "false"
 weight: "999"

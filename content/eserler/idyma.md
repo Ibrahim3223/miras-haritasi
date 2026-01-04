@@ -5,10 +5,10 @@ slug: "idyma"
 description: "## İdyma: Muğla'nın Ege Denizi'ndeki Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.367319,37.059443"
 draft: "false"
 weight: "999"

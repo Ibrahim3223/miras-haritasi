@@ -5,10 +5,10 @@ slug: "yucehisar-koprusu"
 description: "### Yücehisar Köprüsü: Pazar, Rize'de Bir Tarihî Köprü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9018823,41.1173489"
 draft: "false"
 weight: "999"

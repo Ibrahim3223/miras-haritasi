@@ -5,10 +5,10 @@ slug: "kazanci-kalesi"
 description: "## Kazancı Kalesi: Hınıs'ta Bir Tarihî Miras..."
 featured_image: ""
 province: "Erzurum Vilayeti"
-iller: '["Erzurum Vilayeti"]'
+iller: ["Erzurum Vilayeti"]
 district: "Hınıs"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.6162453,39.468605"
 draft: "false"
 weight: "999"

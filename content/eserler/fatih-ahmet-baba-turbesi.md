@@ -5,10 +5,10 @@ slug: "fatih-ahmet-baba-turbesi"
 description: "## Fatih Ahmet Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.2657,38.711102"
 draft: "false"
 weight: "999"

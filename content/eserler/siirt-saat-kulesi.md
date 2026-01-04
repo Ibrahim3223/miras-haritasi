@@ -5,10 +5,10 @@ slug: "siirt-saat-kulesi"
 description: "## Siirt Saat Kulesi: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Bitlis Vilayeti"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "41.940305555,37.929277777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "guduk-minare-camii"
 description: "## Güdük Minare Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8393745,38.198513"
 draft: "false"
 weight: "999"

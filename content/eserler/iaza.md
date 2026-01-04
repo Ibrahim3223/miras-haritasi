@@ -5,10 +5,10 @@ slug: "iaza"
 description: "## İaza Arkeolojik Sit..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.606799,38.586969"
 draft: "false"
 weight: "999"

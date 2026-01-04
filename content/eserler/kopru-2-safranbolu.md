@@ -5,10 +5,10 @@ slug: "kopru-2-safranbolu"
 description: "## Köprü 2: Safranbolu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Safranbolu_köprü-2.jpg/1200px-Safranbolu_köprü-2.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.6886063,41.2490921"
 draft: "false"
 weight: "10"

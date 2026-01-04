@@ -5,10 +5,10 @@ slug: "arpacay-koprusu"
 description: "**Arpaçay Köprüsü: Foça'nın Tarihî Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.8231942,38.6604559"
 draft: "false"
 weight: "999"

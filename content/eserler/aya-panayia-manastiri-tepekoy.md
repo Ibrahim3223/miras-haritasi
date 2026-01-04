@@ -5,10 +5,10 @@ slug: "aya-panayia-manastiri-tepekoy"
 description: "### Aya Panayia Manastırı (Tepeköy): Gökçeada'nın Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8204002,40.1533012"
 draft: "false"
 weight: "999"

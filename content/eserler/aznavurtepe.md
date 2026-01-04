@@ -5,10 +5,10 @@ slug: "aznavurtepe"
 description: "## Aznavurtepe: Ağrı'nın Gizli Güzeli..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Patnos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "42.834333,39.249627"
 draft: "false"
 weight: "999"

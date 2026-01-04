@@ -5,10 +5,10 @@ slug: "sultan-ahmet-darulkurrasi"
 description: "## Sultan Ahmet Darülkurrası: İstanbul'un Gizli Mimari Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.976972,41.006818"
 draft: "false"
 weight: "999"

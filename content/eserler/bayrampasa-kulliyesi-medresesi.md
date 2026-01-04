@@ -5,10 +5,10 @@ slug: "bayrampasa-kulliyesi-medresesi"
 description: "## Bayrampaşa Külliyesi Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bayrampaşa_Külliyesi_Medresesi.jpg/1200px-Bayrampaşa_Külliyesi_Medresesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.942831,41.008816"
 draft: "false"
 weight: "10"

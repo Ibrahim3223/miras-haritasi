@@ -5,10 +5,10 @@ slug: "tarakcilar-camii"
 description: "## Tarakçılar Camii: Artvin'in Gizli Çehresi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7333519,40.920125"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sayrakci-kalesi"
 description: "## Sayrakçı Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5165653,37.6219521"
 draft: "false"
 weight: "999"

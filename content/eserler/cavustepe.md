@@ -5,10 +5,10 @@ slug: "cavustepe"
 description: "### Çavuştepe: Van'ın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Urartian_fort_in_Çavuştepe.jpg/1200px-Urartian_fort_in_Çavuştepe.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.46111111,38.35297222"
 draft: "false"
 weight: "10"

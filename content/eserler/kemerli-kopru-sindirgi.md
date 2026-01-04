@@ -5,10 +5,10 @@ slug: "kemerli-kopru-sindirgi"
 description: "## Kemerli Köprü, Sındırgı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1748276,39.236969"
 draft: "false"
 weight: "999"

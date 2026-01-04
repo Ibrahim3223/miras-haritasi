@@ -5,10 +5,10 @@ slug: "baykoca-bey-turbesi"
 description: "### Baykoca Bey Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.5255642,40.1340675"
 draft: "false"
 weight: "999"

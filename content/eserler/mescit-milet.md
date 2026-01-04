@@ -5,10 +5,10 @@ slug: "mescit-milet"
 description: "## Mescit, Milet: Didim'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2781601,37.5277061"
 draft: "false"
 weight: "999"

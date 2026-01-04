@@ -5,10 +5,10 @@ slug: "guray-muze"
 description: "## Güray Müzesi: Avanos'un Kültür Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.834923825,38.710437781"
 draft: "false"
 weight: "999"

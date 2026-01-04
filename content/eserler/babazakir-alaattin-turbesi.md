@@ -5,10 +5,10 @@ slug: "babazakir-alaattin-turbesi"
 description: "### Babazâkir Âlâaddin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.075875,40.178952"
 draft: "false"
 weight: "999"

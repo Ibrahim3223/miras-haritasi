@@ -5,10 +5,10 @@ slug: "korukoy-domuz-pinari-tumulusu"
 description: "## Koruköy Domuz Pınarı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3124046,41.8659897"
 draft: "false"
 weight: "999"

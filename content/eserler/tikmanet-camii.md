@@ -5,10 +5,10 @@ slug: "tikmanet-camii"
 description: "## Tikmanet Camii..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Bereket"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.982277777,41.06675"
 draft: "false"
 weight: "999"

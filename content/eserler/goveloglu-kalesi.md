@@ -5,10 +5,10 @@ slug: "goveloglu-kalesi"
 description: "## Göveloğlu Kalesi: Adana'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yüreğir"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.606582,36.842932"
 draft: "false"
 weight: "999"

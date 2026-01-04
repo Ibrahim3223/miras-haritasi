@@ -5,10 +5,10 @@ slug: "erkoy-kilisesi"
 description: "### Erköy Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Keşap"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.5875969,40.7215195"
 draft: "false"
 weight: "999"

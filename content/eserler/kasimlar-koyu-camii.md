@@ -5,10 +5,10 @@ slug: "kasimlar-koyu-camii"
 description: "## Kasımlar Köyü Camii..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2346783,40.179863"
 draft: "false"
 weight: "999"

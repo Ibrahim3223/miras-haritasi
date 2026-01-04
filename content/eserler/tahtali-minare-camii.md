@@ -5,10 +5,10 @@ slug: "tahtali-minare-camii"
 description: "## Tahtalı Minare Camii..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3060112,38.3456535"
 draft: "false"
 weight: "999"

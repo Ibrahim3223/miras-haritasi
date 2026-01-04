@@ -5,10 +5,10 @@ slug: "samsun-ondokuz-mayis-ilce-halk-kutuphanesi"
 description: "## Samsun Ondokuz Mayıs İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.4559898,41.1423874"
 draft: "false"
 weight: "999"

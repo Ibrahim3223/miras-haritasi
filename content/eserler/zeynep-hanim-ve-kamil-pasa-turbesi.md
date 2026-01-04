@@ -5,10 +5,10 @@ slug: "zeynep-hanim-ve-kamil-pasa-turbesi"
 description: "### Zeynep Hanım ve Kamil Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.025776,41.015754"
 draft: "false"
 weight: "999"

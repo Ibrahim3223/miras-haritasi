@@ -5,10 +5,10 @@ slug: "kars-ulu-camii"
 description: "## Kars Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kars,_veduta_dal_torrente_kars_verso_ulu_camii.jpg/1200px-Kars,_veduta_dal_torrente_kars_verso_ulu_camii.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.092055555,40.612027777"
 draft: "false"
 weight: "10"

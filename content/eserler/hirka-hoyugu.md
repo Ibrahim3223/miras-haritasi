@@ -5,10 +5,10 @@ slug: "hirka-hoyugu"
 description: "## Hırka Höyüğü: Kayseri'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4386584,38.9593483"
 draft: "false"
 weight: "999"

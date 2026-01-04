@@ -5,10 +5,10 @@ slug: "isa-dede-turbesi"
 description: "**İsa Dede Türbesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7712212,41.3758812"
 draft: "false"
 weight: "999"

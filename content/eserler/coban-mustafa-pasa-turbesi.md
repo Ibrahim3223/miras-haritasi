@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-turbesi"
 description: "## Çoban Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4317455,40.7996216"
 draft: "false"
 weight: "999"

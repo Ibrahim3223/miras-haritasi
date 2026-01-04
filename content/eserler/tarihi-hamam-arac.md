@@ -5,10 +5,10 @@ slug: "tarihi-hamam-arac"
 description: "## Tarihi Hamam, Araç..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.3210831,41.2398224"
 draft: "false"
 weight: "999"

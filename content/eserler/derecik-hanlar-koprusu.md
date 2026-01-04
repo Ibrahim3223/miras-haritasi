@@ -5,10 +5,10 @@ slug: "derecik-hanlar-koprusu"
 description: "## Derecik Hanlar Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.691415,40.9944392"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-suca-camii"
 description: "## Şeyh Şüca Camii: Edirne'nin Gizli Çehresini Etkileyen Bir Öykü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Edirne_Unidentifed_minaret_remains_2017_3425.jpg/1200px-Edirne_Unidentifed_minaret_remains_2017_3425.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.544663,41.674007"
 draft: "false"
 weight: "10"

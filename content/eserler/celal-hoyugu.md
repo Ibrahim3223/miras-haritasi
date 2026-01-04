@@ -5,10 +5,10 @@ slug: "celal-hoyugu"
 description: "## Celal Höyüğü: Yozgat'ın Tarihî Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.6315011,39.5642995"
 draft: "false"
 weight: "999"

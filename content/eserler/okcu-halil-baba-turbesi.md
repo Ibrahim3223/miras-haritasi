@@ -5,10 +5,10 @@ slug: "okcu-halil-baba-turbesi"
 description: "## Okçu Halil Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Babadağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.8135662,37.8214149"
 draft: "false"
 weight: "999"

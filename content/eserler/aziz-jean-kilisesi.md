@@ -5,10 +5,10 @@ slug: "aziz-jean-kilisesi"
 description: "## Aziz Jean Kilisesi: Tarih, Mimarisi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Aziz_Jean_Kilisesi_05.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.634850025,38.740958784"
 draft: "false"
 weight: "999"

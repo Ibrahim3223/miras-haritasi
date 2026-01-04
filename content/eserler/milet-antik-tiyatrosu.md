@@ -5,10 +5,10 @@ slug: "milet-antik-tiyatrosu"
 description: "### Milet Antik Tiyatrosu: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Antikes_Theater_in_Milet_(Türkei),_Orchestra_und_Zuschauerraum.JPG/1200px-Antikes_Theater_in_Milet_(Türkei),_Orchestra_und_Zuschauerraum.JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.27574,37.53059"
 draft: "false"
 weight: "10"

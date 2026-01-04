@@ -5,10 +5,10 @@ slug: "yarisova-tumulusu"
 description: "## Yarışova Tümülüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6515999,37.9047012"
 draft: "false"
 weight: "999"

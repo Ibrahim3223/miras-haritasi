@@ -5,10 +5,10 @@ slug: "caybuku-camii"
 description: "## Çaybükü Camii: Muğla'nın Gizli Çarşısı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1374016,37.2432518"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kandilkiri"
 description: "### Kandilkırı: Tarihini ve Kültürel Mirasını Keşfetmek..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Merkezefendi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.094948395,37.83777886"
 draft: "false"
 weight: "999"

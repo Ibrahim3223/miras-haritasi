@@ -5,10 +5,10 @@ slug: "hazinedarzade-suleyman-pasa-medresesi"
 description: "## Hazinedarzade Süleyman Paşa Medresesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "36.3315201,41.2955437"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "latin-katolik-kilisesi"
 description: "**Latin Katolik Kilisesi: Türkiye'nin İncil'ine Kavuşan Değerli Bir Miras**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.1738262,38.3869858"
 draft: "false"
 weight: "999"

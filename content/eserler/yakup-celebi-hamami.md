@@ -5,10 +5,10 @@ slug: "yakup-celebi-hamami"
 description: "## Yakup Çelebi Hamamı: Keles'te Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Keles"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.2326679,39.9124756"
 draft: "false"
 weight: "999"

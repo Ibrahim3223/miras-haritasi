@@ -5,10 +5,10 @@ slug: "ortadegirmen"
 description: "## Ortadağırmen: Edirne'nin Gizli Harikası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.897382,41.726023"
 draft: "false"
 weight: "999"

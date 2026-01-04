@@ -5,10 +5,10 @@ slug: "adranos-kalesi"
 description: "## Adranos Kalesi: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Orhaneli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.9695721,39.9287415"
 draft: "false"
 weight: "999"

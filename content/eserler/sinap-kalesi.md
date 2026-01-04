@@ -5,10 +5,10 @@ slug: "sinap-kalesi"
 description: "## Sinap Kalesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sinap_Castle,_Mersin_Province.JPG/1200px-Sinap_Castle,_Mersin_Province.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Çamlıyayla"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.611371,37.1894174"
 draft: "false"
 weight: "10"

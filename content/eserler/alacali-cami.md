@@ -5,10 +5,10 @@ slug: "alacali-cami"
 description: "### Alacalı Cami Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Festung_Harput.jpg/1200px-Festung_Harput.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.250527777,38.702333333"
 draft: "false"
 weight: "10"

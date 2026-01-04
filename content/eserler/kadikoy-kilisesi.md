@@ -5,10 +5,10 @@ slug: "kadikoy-kilisesi"
 description: "### Kadıköy Kilisesi: Erzincan'ın Gizemli Tarihi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Refahiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.4535713,39.9468575"
 draft: "false"
 weight: "999"

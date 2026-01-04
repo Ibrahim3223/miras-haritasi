@@ -5,10 +5,10 @@ slug: "canbolat-turbesi"
 description: "## Canbolat Türbesi: Kilis'in Gizli Cenneti..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.1144562,36.7146492"
 draft: "false"
 weight: "999"

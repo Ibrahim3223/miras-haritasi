@@ -5,10 +5,10 @@ slug: "karacaahmet-sultan-turbesi"
 description: "## Karacaahmet Sultan Türbesi: Sakarya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Pamukova"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1012478,40.5208397"
 draft: "false"
 weight: "999"

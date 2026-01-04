@@ -5,10 +5,10 @@ slug: "polat-dede-turbesi"
 description: "## Polat Dede Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3913,37.0574"
 draft: "false"
 weight: "999"

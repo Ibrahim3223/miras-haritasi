@@ -5,10 +5,10 @@ slug: "sururi-mehmet-efendi-turbesi"
 description: "### Sururi Mehmet Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.972275677,41.035162551"
 draft: "false"
 weight: "999"

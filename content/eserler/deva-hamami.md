@@ -5,10 +5,10 @@ slug: "deva-hamami"
 description: "### Deva Hamamı: Diyarbakır'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Deva_Hammam,_Diyarbakır_(12965816715).jpg/1200px-Deva_Hammam,_Diyarbakır_(12965816715).jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.236027777,37.909111111"
 draft: "false"
 weight: "10"

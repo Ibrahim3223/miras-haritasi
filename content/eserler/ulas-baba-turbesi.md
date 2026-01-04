@@ -5,10 +5,10 @@ slug: "ulas-baba-turbesi"
 description: "## Ulaş Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4913597,37.8796997"
 draft: "false"
 weight: "999"

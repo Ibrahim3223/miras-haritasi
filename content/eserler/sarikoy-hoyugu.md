@@ -5,10 +5,10 @@ slug: "sarikoy-hoyugu"
 description: "## Sarıköy Höyüğü: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.6226107,37.2871865"
 draft: "false"
 weight: "999"

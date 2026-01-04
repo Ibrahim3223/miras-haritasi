@@ -5,10 +5,10 @@ slug: "eski-ali-pasa-hamami"
 description: "### Eski Ali Paşa Hamamı: Fatih, İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9434204,41.0212517"
 draft: "false"
 weight: "999"

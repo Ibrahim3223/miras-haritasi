@@ -5,10 +5,10 @@ slug: "kileci-camii"
 description: "## Kileci Camii: Akşehir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kileci_Mosque,_Akşehir.jpg/1200px-Kileci_Mosque,_Akşehir.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.41388889,38.35444444"
 draft: "false"
 weight: "10"

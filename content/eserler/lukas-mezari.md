@@ -5,10 +5,10 @@ slug: "lukas-mezari"
 description: "## Lukas Mezarı: Selçuk'un Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.346374172,37.934697201"
 draft: "false"
 weight: "999"

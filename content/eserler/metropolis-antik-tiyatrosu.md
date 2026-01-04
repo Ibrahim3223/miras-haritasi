@@ -5,10 +5,10 @@ slug: "metropolis-antik-tiyatrosu"
 description: "### Metropolis Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.324691,38.123958"
 draft: "false"
 weight: "999"

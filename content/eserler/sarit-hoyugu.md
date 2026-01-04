@@ -5,10 +5,10 @@ slug: "sarit-hoyugu"
 description: "## Sarıt Höyüğü: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2595084,36.903169"
 draft: "false"
 weight: "999"

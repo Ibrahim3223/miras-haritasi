@@ -5,10 +5,10 @@ slug: "budaklar-koprusu"
 description: "## Budaklar Köprüsü..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Sivaslı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.5648575,38.4564514"
 draft: "false"
 weight: "999"

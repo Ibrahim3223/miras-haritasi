@@ -5,10 +5,10 @@ slug: "bogazici-yuzer-koprusu"
 description: "### Boğaziçi Yüzer Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.06068333,41.08722222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tarim-muzesi-polatli"
 description: "## Tarım Müzesi, Polatlı: Tarımda Geçmişten Geleceğe Yönlendirici Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.135019,39.582231"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sadirvanalti-camii"
 description: "## Şadırvanaltı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/IzİzmirŞadırvanaltıMoschee01.jpg/1200px-IzİzmirŞadırvanaltıMoschee01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.135111111,38.421166666"
 draft: "false"
 weight: "10"

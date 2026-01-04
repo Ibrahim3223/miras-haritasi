@@ -5,10 +5,10 @@ slug: "seyh-saban-i-veli-camii-kastamonu"
 description: "### Şeyh Şaban-ı Veli Camii: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7641869,41.3745804"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istinye-hamami"
 description: "## İstinye Hamamı: İstanbul'un Eski Köylerindeki Bir Klasik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.05111,41.114144"
 draft: "false"
 weight: "999"

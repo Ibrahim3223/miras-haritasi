@@ -5,10 +5,10 @@ slug: "tadinin-hoyugu"
 description: "## Tadinin Höyüğü: Gelibolu'nun Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8356991,40.6412315"
 draft: "false"
 weight: "999"

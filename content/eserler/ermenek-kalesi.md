@@ -5,10 +5,10 @@ slug: "ermenek-kalesi"
 description: "## Ermenek Kalesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.888958,36.6425285"
 draft: "false"
 weight: "999"

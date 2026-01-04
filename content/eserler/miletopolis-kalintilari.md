@@ -5,10 +5,10 @@ slug: "miletopolis-kalintilari"
 description: "## Miletopolis Kalıntıları: Tarihçesi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.3642426,40.0582504"
 draft: "false"
 weight: "999"

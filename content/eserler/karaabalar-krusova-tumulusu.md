@@ -5,10 +5,10 @@ slug: "karaabalar-krusova-tumulusu"
 description: "## Karaabalar Kruşova Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3023987,42.0425644"
 draft: "false"
 weight: "999"

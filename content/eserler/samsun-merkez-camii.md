@@ -5,10 +5,10 @@ slug: "samsun-merkez-camii"
 description: "## Samsun Merkez Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Samsun_Merkez_Camii.jpg/1200px-Samsun_Merkez_Camii.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.333778,41.2883344"
 draft: "false"
 weight: "10"

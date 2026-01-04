@@ -5,10 +5,10 @@ slug: "great-illuminator-monastery"
 description: "## Büyük Aydınlatıcı Manastırı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

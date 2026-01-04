@@ -5,10 +5,10 @@ slug: "guzelkoy-cami"
 description: "### Güzelköy Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2917995,40.7414017"
 draft: "false"
 weight: "999"

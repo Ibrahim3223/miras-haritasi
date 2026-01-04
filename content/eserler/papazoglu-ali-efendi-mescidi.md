@@ -5,10 +5,10 @@ slug: "papazoglu-ali-efendi-mescidi"
 description: "## Papazoğlu Ali Efendi Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.56086519,41.671907767"
 draft: "false"
 weight: "999"

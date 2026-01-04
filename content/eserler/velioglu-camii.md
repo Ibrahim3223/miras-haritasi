@@ -5,10 +5,10 @@ slug: "velioglu-camii"
 description: "## Velioğlu Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4233017,38.6116791"
 draft: "false"
 weight: "999"

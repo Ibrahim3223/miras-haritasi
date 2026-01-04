@@ -5,10 +5,10 @@ slug: "mevlana-celaleddin-rumi-turbesi"
 description: "## Mevlana Celaleddin Rumi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Mevlana_Celaleddin_Rumi_Türbesi_01.jpg/1200px-Mevlana_Celaleddin_Rumi_Türbesi_01.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.505086,37.870656"
 draft: "false"
 weight: "10"

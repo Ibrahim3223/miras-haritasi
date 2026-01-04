@@ -5,10 +5,10 @@ slug: "seydi-bey-camii"
 description: "## Seydi Bey Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9402142,41.0128021"
 draft: "false"
 weight: "999"

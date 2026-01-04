@@ -5,10 +5,10 @@ slug: "aktas-koyu-camii"
 description: "## Aktaş Köyü Camii: Gölpazarı'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Equisetum_telmateia%2C_Kuzey_b%C3%BCy%C3%BCk_atkuyru%C4%9Fu.jpg"
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Gölpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2744007,40.3002014"
 draft: "false"
 weight: "999"

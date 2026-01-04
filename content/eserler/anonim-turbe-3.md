@@ -5,10 +5,10 @@ slug: "anonim-turbe-3"
 description: "## Anonim Türbe 3..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7888546,37.2727623"
 draft: "false"
 weight: "999"

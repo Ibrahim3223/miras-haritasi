@@ -5,10 +5,10 @@ slug: "iskenderpasa-camii-trabzon"
 description: "# İskenderpaşa Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.732399,41.0050011"
 draft: "false"
 weight: "999"

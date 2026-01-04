@@ -5,10 +5,10 @@ slug: "katolik-kilisesi-argina"
 description: "## Katolik Kilisesi (Argina): Kayaköprü'deki Tarihî Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Katoghike_Armenian_Church,_Argina.png/1200px-Katoghike_Armenian_Church,_Argina.png"
 province: "Kars Oblastı"
-iller: '["Kars Oblastı"]'
+iller: ["Kars Oblastı"]
 district: "Kayaköprü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.632222222,40.711111111"
 draft: "false"
 weight: "10"

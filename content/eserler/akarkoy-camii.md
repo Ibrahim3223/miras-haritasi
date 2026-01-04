@@ -5,10 +5,10 @@ slug: "akarkoy-camii"
 description: "## Akarköy Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8371887,37.2503662"
 draft: "false"
 weight: "999"

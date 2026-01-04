@@ -5,10 +5,10 @@ slug: "elmalik-camii"
 description: "## Bursa'nın Tarihi Bir Mirası: Elmalık Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0657864,40.1866531"
 draft: "false"
 weight: "999"

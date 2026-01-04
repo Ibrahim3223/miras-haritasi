@@ -5,10 +5,10 @@ slug: "katranca-koyu-camii"
 description: "## Katranca Köyü Camii: Kırklareli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0528259,41.3515244"
 draft: "false"
 weight: "999"

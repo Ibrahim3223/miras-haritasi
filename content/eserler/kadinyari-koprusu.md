@@ -5,10 +5,10 @@ slug: "kadinyari-koprusu"
 description: "# Kadınyarı Köprüsü..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.6987782,36.885704"
 draft: "false"
 weight: "999"

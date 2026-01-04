@@ -5,10 +5,10 @@ slug: "kisyolu-tumulusu"
 description: "## Kışyolu Tümülüsü: Akçadağ'da Gizemli Bir Geçmiş..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0880966,38.3857613"
 draft: "false"
 weight: "999"

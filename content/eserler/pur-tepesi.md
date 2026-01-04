@@ -5,10 +5,10 @@ slug: "pur-tepesi"
 description: "## Pur Tepesi: Sivas'taki Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Ulaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1055978,39.3927401"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vartanolugu-hoyuk"
 description: "## Vartanoluğu Höyük: Sivas'ın Gizemli Eseri..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Gölova (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6279136,40.054755"
 draft: "false"
 weight: "999"

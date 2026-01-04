@@ -5,10 +5,10 @@ slug: "iviktepe"
 description: "## İviktepe: Sivas'ta Eski Çağların İzleri..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9111764,39.607703"
 draft: "false"
 weight: "999"

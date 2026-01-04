@@ -5,10 +5,10 @@ slug: "hadim-hasan-pasa-medresesi"
 description: "## Hadım Hasan Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.975052,41.010573"
 draft: "false"
 weight: "999"

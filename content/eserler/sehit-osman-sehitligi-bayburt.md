@@ -5,10 +5,10 @@ slug: "sehit-osman-sehitligi-bayburt"
 description: "## Şehit Osman Şehitliği, Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.219851,40.260831"
 draft: "false"
 weight: "999"

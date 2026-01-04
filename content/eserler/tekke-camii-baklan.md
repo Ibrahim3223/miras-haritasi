@@ -5,10 +5,10 @@ slug: "tekke-camii-baklan"
 description: "### Tekke Camii (Baklan)..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Baklan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6107025,37.9793777"
 draft: "false"
 weight: "999"

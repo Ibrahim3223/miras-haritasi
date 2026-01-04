@@ -5,10 +5,10 @@ slug: "bekar-sultan-dogu-hoyugu"
 description: "### Bekar Sultan Doğu Höyüğü: Gülağaç'ta Gizlenen Tarih..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3848076,38.3931427"
 draft: "false"
 weight: "999"

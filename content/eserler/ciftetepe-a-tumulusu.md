@@ -5,10 +5,10 @@ slug: "ciftetepe-a-tumulusu"
 description: "## Çiftetepe A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6530399,41.3081703"
 draft: "false"
 weight: "999"

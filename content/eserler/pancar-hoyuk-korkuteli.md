@@ -5,10 +5,10 @@ slug: "pancar-hoyuk-korkuteli"
 description: "### Pancar Höyük, Korkuteli: Tarih Öncesi Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3124027,37.2751083"
 draft: "false"
 weight: "999"

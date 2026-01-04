@@ -5,10 +5,10 @@ slug: "silivrikapihipojesi"
 description: "## Silivrikapı Hipojesti: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.921771,41.006489"
 draft: "false"
 weight: "999"

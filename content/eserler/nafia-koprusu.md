@@ -5,10 +5,10 @@ slug: "nafia-koprusu"
 description: "## Nafia Köprüsü: Edirne'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6326332,41.3392296"
 draft: "false"
 weight: "999"

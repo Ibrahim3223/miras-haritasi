@@ -5,10 +5,10 @@ slug: "ziraat-bankasi-izmir-sanat-muzesi"
 description: "### Ziraat Bankası İzmir Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Ziraat_Bankası_İzmir_Sanat_Müzesi.jpg/1200px-Ziraat_Bankası_İzmir_Sanat_Müzesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.133055555,38.424166666"
 draft: "false"
 weight: "10"

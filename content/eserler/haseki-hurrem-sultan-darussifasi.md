@@ -5,10 +5,10 @@ slug: "haseki-hurrem-sultan-darussifasi"
 description: "## Haseki Hürrem Sultan Darüşşifası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.941908,41.009227"
 draft: "false"
 weight: "999"

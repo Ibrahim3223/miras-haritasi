@@ -5,10 +5,10 @@ slug: "yamacli-hoyuk"
 description: "## Yamaçlı Höyük: Boğazlıyan'ın Gizli Öreni..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.0794906,39.3072832"
 draft: "false"
 weight: "999"

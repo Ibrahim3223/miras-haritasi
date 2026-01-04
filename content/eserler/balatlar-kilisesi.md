@@ -5,10 +5,10 @@ slug: "balatlar-kilisesi"
 description: "## Balatlar Kilisesi: Sinop'un Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Balatlarchurch.JPG/1200px-Balatlarchurch.JPG"
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.15722222,42.02611111"
 draft: "false"
 weight: "10"

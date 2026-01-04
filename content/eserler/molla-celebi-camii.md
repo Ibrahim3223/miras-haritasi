@@ -5,10 +5,10 @@ slug: "molla-celebi-camii"
 description: "## Molla Çelebi Camii: Bir Geçmişin Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Tire_Molla_Çelebi_Cami_4112.jpg/1200px-Tire_Molla_Çelebi_Cami_4112.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.74375,38.084"
 draft: "false"
 weight: "10"

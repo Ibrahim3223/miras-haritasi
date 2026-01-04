@@ -5,10 +5,10 @@ slug: "mizanoglu-mescidi-bursa"
 description: "### Mizanoğlu Mescidi, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0630856,40.1896172"
 draft: "false"
 weight: "999"

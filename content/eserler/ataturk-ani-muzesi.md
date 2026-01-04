@@ -5,10 +5,10 @@ slug: "ataturk-ani-muzesi"
 description: "## Atatürk Anı Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.377334495,37.061473464"
 draft: "false"
 weight: "999"

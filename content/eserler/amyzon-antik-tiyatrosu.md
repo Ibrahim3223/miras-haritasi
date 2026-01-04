@@ -5,10 +5,10 @@ slug: "amyzon-antik-tiyatrosu"
 description: "## Amyzon Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.712517,37.607948"
 draft: "false"
 weight: "999"

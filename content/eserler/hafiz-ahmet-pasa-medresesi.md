@@ -5,10 +5,10 @@ slug: "hafiz-ahmet-pasa-medresesi"
 description: "## Hafız Ahmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.947366,41.021867"
 draft: "false"
 weight: "999"

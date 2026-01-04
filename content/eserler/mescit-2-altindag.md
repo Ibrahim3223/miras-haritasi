@@ -5,10 +5,10 @@ slug: "mescit-2-altindag"
 description: "# Mescit-2, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.865590971,39.933473358"
 draft: "false"
 weight: "999"

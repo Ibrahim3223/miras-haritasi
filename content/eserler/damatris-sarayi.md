@@ -5,10 +5,10 @@ slug: "damatris-sarayi"
 description: "## Damatris Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.2279396,40.9851761"
 draft: "false"
 weight: "999"

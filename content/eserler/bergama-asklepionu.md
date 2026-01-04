@@ -5,10 +5,10 @@ slug: "bergama-asklepionu"
 description: "## Bergama Asklepionu: Türkiye'nin En Önemli Tıp Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/PergamonAsklepieionHofundTheater.jpg/1200px-PergamonAsklepieionHofundTheater.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.165475,39.118857"
 draft: "false"
 weight: "10"

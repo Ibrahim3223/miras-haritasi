@@ -5,10 +5,10 @@ slug: "comu-kutuphanesi"
 description: "### ÇOMÜ Kütüphanesi: Türkiye'nin Kültür ve Öğrenim Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "26.402731,40.145991"
 draft: "false"
 weight: "999"

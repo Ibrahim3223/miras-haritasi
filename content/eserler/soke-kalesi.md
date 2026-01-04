@@ -5,10 +5,10 @@ slug: "soke-kalesi"
 description: "## Söke Kalesi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4429836,37.7866058"
 draft: "false"
 weight: "999"

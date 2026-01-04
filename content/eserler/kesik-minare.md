@@ -5,10 +5,10 @@ slug: "kesik-minare"
 description: "## Kesik Minare: Antalya'nın Tarihi Bir Çarığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Antalya_-_Kesik_Minare_-_Temple.jpg/1200px-Antalya_-_Kesik_Minare_-_Temple.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.70606,36.88258"
 draft: "false"
 weight: "10"

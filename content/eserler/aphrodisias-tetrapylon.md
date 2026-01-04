@@ -5,10 +5,10 @@ slug: "aphrodisias-tetrapylon"
 description: "## Aphrodisias Tetrapylon: Aydın'ın Altın Çağına Tanıklık Eden İhtişamlı Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tetrapylon_Aphrodisias_Geyre_-_panoramio.jpg/1200px-Tetrapylon_Aphrodisias_Geyre_-_panoramio.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.7251072,37.7100258"
 draft: "false"
 weight: "10"

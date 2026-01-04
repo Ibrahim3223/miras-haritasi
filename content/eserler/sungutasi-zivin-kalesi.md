@@ -5,10 +5,10 @@ slug: "sungutasi-zivin-kalesi"
 description: "### Süngütaşı Zivin Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Sarıkamış"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.2467995,40.2140999"
 draft: "false"
 weight: "999"

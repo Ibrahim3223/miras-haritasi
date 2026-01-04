@@ -5,10 +5,10 @@ slug: "tilmen-hoyugu"
 description: "## Tilmen Höyük: Şanlıurfa'nın Gizli Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.6589629,37.2950179"
 draft: "false"
 weight: "999"

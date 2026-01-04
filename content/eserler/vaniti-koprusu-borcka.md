@@ -5,10 +5,10 @@ slug: "vaniti-koprusu-borcka"
 description: "## Vaniti Köprüsü: Borçka'nın Tarihi Taşınmazı..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.643585,41.367855"
 draft: "false"
 weight: "999"

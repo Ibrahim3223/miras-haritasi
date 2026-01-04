@@ -5,10 +5,10 @@ slug: "beskilise"
 description: "## Beşkilise: Kars'ta Bir Manastırın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Khtzkonk_Monastery.jpg/1200px-Khtzkonk_Monastery.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.376389,40.380556"
 draft: "false"
 weight: "10"

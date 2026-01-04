@@ -5,10 +5,10 @@ slug: "marmara-adasi-kalesi"
 description: "# Marmara Adası Kalesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5918655,40.6252975"
 draft: "false"
 weight: "999"

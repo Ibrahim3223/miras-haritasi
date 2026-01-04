@@ -5,10 +5,10 @@ slug: "arabidin-mescidi"
 description: "## Arabıdın Mescidi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.44495912,38.82448731"
 draft: "false"
 weight: "999"

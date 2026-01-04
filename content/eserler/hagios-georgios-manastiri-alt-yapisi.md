@@ -5,10 +5,10 @@ slug: "hagios-georgios-manastiri-alt-yapisi"
 description: "## Hagios Georgios Manastırı Alt Yapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.986734783,41.010869079"
 draft: "false"
 weight: "999"

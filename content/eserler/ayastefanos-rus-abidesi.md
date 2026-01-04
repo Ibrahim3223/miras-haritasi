@@ -5,10 +5,10 @@ slug: "ayastefanos-rus-abidesi"
 description: "## Ayastefanos Rus Abidesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Russian_Monument_San_Stefano_Ottoman_Postcard.jpg/1200px-Russian_Monument_San_Stefano_Ottoman_Postcard.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.81106,40.96156"
 draft: "false"
 weight: "10"

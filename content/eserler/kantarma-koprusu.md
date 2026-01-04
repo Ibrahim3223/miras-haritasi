@@ -5,10 +5,10 @@ slug: "kantarma-koprusu"
 description: "## Kantarma Köprüsü..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.8340874,37.8744888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amcazade-huseyin-pasa-kutuphanesi"
 description: "## Amcazade Hüseyin Paşa Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.952023,41.015427"
 draft: "false"
 weight: "999"

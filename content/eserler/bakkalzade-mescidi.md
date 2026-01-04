@@ -5,10 +5,10 @@ slug: "bakkalzade-mescidi"
 description: "## Bakkalzade Mescidi: Geçmişin Eserleri ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.966,41.011"
 draft: "false"
 weight: "999"

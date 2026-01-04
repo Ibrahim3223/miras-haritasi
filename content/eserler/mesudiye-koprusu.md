@@ -5,10 +5,10 @@ slug: "mesudiye-koprusu"
 description: "## Mesudiye Köprüsü: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.411895,40.810147"
 draft: "false"
 weight: "999"

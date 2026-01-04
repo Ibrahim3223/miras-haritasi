@@ -5,10 +5,10 @@ slug: "hacilartepe-hoyugu"
 description: "## Hacılartepe Höyüğü: Bursa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

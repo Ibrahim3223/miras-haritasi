@@ -5,10 +5,10 @@ slug: "mehmet-cavus-aniti"
 description: "## Mehmet Çavuş Anıtı..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2909985,40.2425079"
 draft: "false"
 weight: "999"

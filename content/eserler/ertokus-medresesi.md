@@ -5,10 +5,10 @@ slug: "ertokus-medresesi"
 description: "**Ertokuş Medresesi**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.6451111,37.9512634"
 draft: "false"
 weight: "999"

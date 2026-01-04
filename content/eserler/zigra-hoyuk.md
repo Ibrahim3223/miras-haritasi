@@ -5,10 +5,10 @@ slug: "zigra-hoyuk"
 description: "## Zığra Höyük: Kütahya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0448034,39.3999374"
 draft: "false"
 weight: "999"

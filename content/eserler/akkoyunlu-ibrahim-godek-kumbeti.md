@@ -5,10 +5,10 @@ slug: "akkoyunlu-ibrahim-godek-kumbeti"
 description: "## Akkoyunlu İbrahim Gödek Kümbeti..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Aralık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "44.608655852,39.787914188"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "knidos-e-kilisesi"
 description: "## Knidos E Kilisesi: Tarih ve Kültür Mirasının Bir Parçası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3715115,36.687252"
 draft: "false"
 weight: "999"

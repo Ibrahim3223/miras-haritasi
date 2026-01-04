@@ -5,10 +5,10 @@ slug: "feyzullah-el-ensari-turbesi"
 description: "## Feyzullah el Ensari Türbesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1055641,38.3986549"
 draft: "false"
 weight: "999"

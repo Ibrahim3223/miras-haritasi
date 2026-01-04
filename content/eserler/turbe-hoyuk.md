@@ -5,10 +5,10 @@ slug: "turbe-hoyuk"
 description: "## Türbe Höyük: Siirt'in Gizli Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Bitlis Vilayeti"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.8110008,37.7743988"
 draft: "false"
 weight: "999"

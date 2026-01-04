@@ -5,10 +5,10 @@ slug: "tasatacak-kalesi"
 description: "## Taşatacak Kalesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4458008,38.0779991"
 draft: "false"
 weight: "999"

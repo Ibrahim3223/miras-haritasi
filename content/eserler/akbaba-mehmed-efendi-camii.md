@@ -5,10 +5,10 @@ slug: "akbaba-mehmed-efendi-camii"
 description: "## Akbaba Mehmed Efendi Camii: Fatih'in Gizli Çehresini Keşfeden Bir Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Akbaba_mehmed_efendi_cami.jpg/1200px-Akbaba_mehmed_efendi_cami.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.937888888,41.010277777"
 draft: "false"
 weight: "10"

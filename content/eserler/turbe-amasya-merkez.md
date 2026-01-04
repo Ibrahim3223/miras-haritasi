@@ -5,10 +5,10 @@ slug: "turbe-amasya-merkez"
 description: "## Amasya Türbesi: Tarihi ve Kültürel Mirasın Tam Kalbidir..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8262367,40.6495743"
 draft: "false"
 weight: "999"

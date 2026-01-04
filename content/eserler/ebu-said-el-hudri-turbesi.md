@@ -5,10 +5,10 @@ slug: "ebu-said-el-hudri-turbesi"
 description: "**Ebu Said El-Hudri Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.939219,41.031409"
 draft: "false"
 weight: "999"

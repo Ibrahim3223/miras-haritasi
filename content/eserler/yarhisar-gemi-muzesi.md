@@ -5,10 +5,10 @@ slug: "yarhisar-gemi-muzesi"
 description: "## Yarhisar Gemi Müzesi: Gölcük'te Bir Tarih Öyküsünün Yeri..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gölcük"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.8352242,40.7234268"
 draft: "false"
 weight: "999"

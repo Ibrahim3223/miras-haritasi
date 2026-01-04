@@ -5,10 +5,10 @@ slug: "meletderesi-koprusu"
 description: "### Meletderesi Köprüsü: Malatya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Doğanşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.0223579,38.1482201"
 draft: "false"
 weight: "999"

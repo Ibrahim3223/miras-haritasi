@@ -5,10 +5,10 @@ slug: "coskuntepe"
 description: "## Çoşkuntepe: Ayvacık'taki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1628075,39.472435"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "selcuk-universitesi-merkez-kutuphanesi"
 description: "## Selçuk Üniversitesi Merkez Kütüphanesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

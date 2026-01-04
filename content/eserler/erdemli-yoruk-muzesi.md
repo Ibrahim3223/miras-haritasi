@@ -5,10 +5,10 @@ slug: "erdemli-yoruk-muzesi"
 description: "## Erdemli Yörük Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

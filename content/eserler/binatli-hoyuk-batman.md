@@ -5,10 +5,10 @@ slug: "binatli-hoyuk-batman"
 description: "## Binatlı Höyük: Güneydoğu Anadolu Bölgesi'nin Gizli Çağı..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2117615,37.8483849"
 draft: "false"
 weight: "999"

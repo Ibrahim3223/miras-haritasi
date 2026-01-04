@@ -5,10 +5,10 @@ slug: "rumi-hce-dede-sultan-turbesi"
 description: "## Rumi Hâce Dede Sultan Türbesi..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.274005796,40.747814071"
 draft: "false"
 weight: "999"

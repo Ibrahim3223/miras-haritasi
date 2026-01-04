@@ -5,10 +5,10 @@ slug: "hantepe"
 description: "## Hantepe Arkeolojik Sit..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.15705,39.804867"
 draft: "false"
 weight: "999"

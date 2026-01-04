@@ -5,10 +5,10 @@ slug: "bruzus"
 description: "## Bruzus: Geçmişe Dönük Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1719199,38.527823"
 draft: "false"
 weight: "999"

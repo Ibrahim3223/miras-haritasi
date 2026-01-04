@@ -5,10 +5,10 @@ slug: "cuda-gazi-gul-baba-kabri"
 description: "## Cüda Gazi Gül Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ümraniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1625271,41.015873"
 draft: "false"
 weight: "999"

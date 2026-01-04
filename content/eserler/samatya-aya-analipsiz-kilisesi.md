@@ -5,10 +5,10 @@ slug: "samatya-aya-analipsiz-kilisesi"
 description: "**Samatya Aya Analipsiz Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Samatya_Aya_Analipsiz_Kilisesi2.jpg/1200px-Samatya_Aya_Analipsiz_Kilisesi2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.93194444,40.99916667"
 draft: "false"
 weight: "10"

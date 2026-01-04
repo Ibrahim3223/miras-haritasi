@@ -5,10 +5,10 @@ slug: "sakirin-camii"
 description: "### Şakirin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sakirin_cami_dıs_gorunum.jpg/1200px-Sakirin_cami_dıs_gorunum.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0244,41.0131"
 draft: "false"
 weight: "10"

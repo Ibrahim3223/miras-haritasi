@@ -5,10 +5,10 @@ slug: "hayriye-camii"
 description: "## Hayriye Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3145905,37.7590332"
 draft: "false"
 weight: "999"

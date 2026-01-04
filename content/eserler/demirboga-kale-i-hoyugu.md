@@ -5,10 +5,10 @@ slug: "demirboga-kale-i-hoyugu"
 description: "## Demirboğa Kale I Höyüğü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Şarkışla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.4839649,39.1139627"
 draft: "false"
 weight: "999"

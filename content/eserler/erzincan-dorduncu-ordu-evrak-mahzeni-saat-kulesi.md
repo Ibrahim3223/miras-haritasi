@@ -5,10 +5,10 @@ slug: "erzincan-dorduncu-ordu-evrak-mahzeni-saat-kulesi"
 description: "## Erzincan Dördüncü Ordu Evrak Mahzeni Saat Kulesi: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: ""
 draft: "false"
 weight: "999"

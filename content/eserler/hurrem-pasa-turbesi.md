@@ -5,10 +5,10 @@ slug: "hurrem-pasa-turbesi"
 description: "## Hürrem Paşa Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5046616,37.8703957"
 draft: "false"
 weight: "999"

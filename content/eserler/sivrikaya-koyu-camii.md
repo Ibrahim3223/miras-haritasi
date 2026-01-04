@@ -5,10 +5,10 @@ slug: "sivrikaya-koyu-camii"
 description: "## Sivrikaya Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.704912537,40.684128168"
 draft: "false"
 weight: "999"

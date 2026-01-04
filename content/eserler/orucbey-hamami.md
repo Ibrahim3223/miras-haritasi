@@ -5,10 +5,10 @@ slug: "orucbey-hamami"
 description: "## Oruçbey Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Orhan_bey_(oruç_bey)_hamamı_bursa_-_panoramio.jpg/1200px-Orhan_bey_(oruç_bey)_hamamı_bursa_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0544186,40.1854591"
 draft: "false"
 weight: "10"

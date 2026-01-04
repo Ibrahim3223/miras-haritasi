@@ -5,10 +5,10 @@ slug: "umurbey-hamami"
 description: "# Umurbey Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0717831,40.1772308"
 draft: "false"
 weight: "999"

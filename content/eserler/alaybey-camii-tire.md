@@ -5,10 +5,10 @@ slug: "alaybey-camii-tire"
 description: "### Alaybey Camii: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7315845,38.0853157"
 draft: "false"
 weight: "999"

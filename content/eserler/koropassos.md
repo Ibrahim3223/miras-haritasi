@@ -5,10 +5,10 @@ slug: "koropassos"
 description: "## Koropassos: Mersin'in Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.7920235,38.3077"
 draft: "false"
 weight: "999"

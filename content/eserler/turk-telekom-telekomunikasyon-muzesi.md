@@ -5,10 +5,10 @@ slug: "turk-telekom-telekomunikasyon-muzesi"
 description: "## Türk Telekom Telekomünikasyon Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.866523,39.958607"
 draft: "false"
 weight: "999"

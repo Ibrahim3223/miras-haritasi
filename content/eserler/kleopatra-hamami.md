@@ -5,10 +5,10 @@ slug: "kleopatra-hamami"
 description: "### Kleopatra Hamamı: Bergama'nın Antik Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1527996,39.101799"
 draft: "false"
 weight: "999"

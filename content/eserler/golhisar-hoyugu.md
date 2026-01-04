@@ -5,10 +5,10 @@ slug: "golhisar-hoyugu"
 description: "**Gölhisar Höyüğü: Türkiye'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2137807,39.1009389"
 draft: "false"
 weight: "999"

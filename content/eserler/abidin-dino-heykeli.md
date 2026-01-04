@@ -5,10 +5,10 @@ slug: "abidin-dino-heykeli"
 description: "## Abidin Dino Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0551872,40.9793167"
 draft: "false"
 weight: "999"

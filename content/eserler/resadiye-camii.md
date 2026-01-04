@@ -5,10 +5,10 @@ slug: "resadiye-camii"
 description: "### Reşadiye Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eskişehir_Merkez_camii.jpg/1200px-Eskişehir_Merkez_camii.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.516944444,39.771388888"
 draft: "false"
 weight: "10"

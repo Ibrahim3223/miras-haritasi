@@ -5,10 +5,10 @@ slug: "kasim-pasa-camii-bozuyuk"
 description: "### Kasım Paşa Camii, Bozüyük..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0371494,39.9060402"
 draft: "false"
 weight: "999"

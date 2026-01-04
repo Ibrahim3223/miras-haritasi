@@ -5,10 +5,10 @@ slug: "semsi-pasa-camii"
 description: "## Şemsi Paşa Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Istanbul_asv2020-02_img54_Şemsi_Paşa_Mosque.jpg/1200px-Istanbul_asv2020-02_img54_Şemsi_Paşa_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.011369444,41.025944444"
 draft: "false"
 weight: "10"

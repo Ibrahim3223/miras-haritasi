@@ -5,10 +5,10 @@ slug: "yesemek-tas-ocagi-ve-heykel-atolyesi"
 description: "## Yesemek Taş Ocağı ve Heykel Atölyesi: Tarihî Mirasın Gizli Çesitleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Yesemekgesamt.jpg/1200px-Yesemekgesamt.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.74583333,36.90444444"
 draft: "false"
 weight: "10"

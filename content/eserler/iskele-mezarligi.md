@@ -5,10 +5,10 @@ slug: "iskele-mezarligi"
 description: "## İskele Mezarlığı: Eceabat'taki Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.27916111,40.25469167"
 draft: "false"
 weight: "999"

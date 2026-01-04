@@ -5,10 +5,10 @@ slug: "kopru-cayir"
 description: "### Çayır Köprüsü: Zonguldak'ın Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Çaycuma"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.989624,41.4543228"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayastradi-kilisesi"
 description: "### Ayastradi Kilisesi: Gökçeada'nın Gizli Gözdeleri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.7714005,40.1388016"
 draft: "false"
 weight: "999"

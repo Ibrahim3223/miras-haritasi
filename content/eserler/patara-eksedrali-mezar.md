@@ -5,10 +5,10 @@ slug: "patara-eksedrali-mezar"
 description: "## Patara Eksedralı Mezar: Antik Çağın Gizemi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3205566,36.2767105"
 draft: "false"
 weight: "999"

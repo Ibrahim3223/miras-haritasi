@@ -5,10 +5,10 @@ slug: "alacanli-koprusu"
 description: "## Alacanlı Köprüsü: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.8983002,41.0064011"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abide-i-hurriyet"
 description: "### Abide-i Hürriyet..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Mithat_Pasa_mezari.jpg/1200px-Mithat_Pasa_mezari.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.982083333,41.068138888"
 draft: "false"
 weight: "10"

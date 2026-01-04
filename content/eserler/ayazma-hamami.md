@@ -5,10 +5,10 @@ slug: "ayazma-hamami"
 description: "## Ayazma Hamamı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.009866187,41.023608282"
 draft: "false"
 weight: "999"

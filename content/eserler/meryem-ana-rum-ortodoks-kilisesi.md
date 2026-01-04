@@ -5,10 +5,10 @@ slug: "meryem-ana-rum-ortodoks-kilisesi"
 description: "### Meryem Ana Rum Ortodoks Kilisesi: İstanbul'un Gizli Çekebilecek Bir Öreni..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.935612,41.007142"
 draft: "false"
 weight: "999"

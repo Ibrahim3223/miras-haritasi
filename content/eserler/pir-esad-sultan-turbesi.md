@@ -5,10 +5,10 @@ slug: "pir-esad-sultan-turbesi"
 description: "## Pir Esad Sultan Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.5046806,37.8649597"
 draft: "false"
 weight: "999"

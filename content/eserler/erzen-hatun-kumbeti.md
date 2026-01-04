@@ -5,10 +5,10 @@ slug: "erzen-hatun-kumbeti"
 description: "## Erzen Hatun Kümbeti: Ahlat'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4993834,38.7575918"
 draft: "false"
 weight: "999"

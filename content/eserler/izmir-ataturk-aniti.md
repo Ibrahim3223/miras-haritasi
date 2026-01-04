@@ -5,10 +5,10 @@ slug: "izmir-ataturk-aniti"
 description: "## İzmir Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TR_Izmir_asv2020-02_img14_Cumhuriyet_Square.jpg/1200px-TR_Izmir_asv2020-02_img14_Cumhuriyet_Square.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.134388888,38.428861111"
 draft: "false"
 weight: "10"

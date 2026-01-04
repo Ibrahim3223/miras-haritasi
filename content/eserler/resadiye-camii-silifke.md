@@ -5,10 +5,10 @@ slug: "resadiye-camii-silifke"
 description: "## Reşadiye Camii, Silifke: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.9322357,36.3766937"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pazaryeri-koprusu"
 description: "## Pazaryeri Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Beydağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2033634,38.1028519"
 draft: "false"
 weight: "999"

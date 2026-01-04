@@ -5,10 +5,10 @@ slug: "roma-koprusu-horzumkeserler"
 description: "## Roma Köprüsü, Horzumkeserler: Alaşehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3240926,38.37779"
 draft: "false"
 weight: "999"

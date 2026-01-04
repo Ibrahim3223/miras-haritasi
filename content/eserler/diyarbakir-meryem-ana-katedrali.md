@@ -5,10 +5,10 @@ slug: "diyarbakir-meryem-ana-katedrali"
 description: "### Diyarbakır Meryem Ana Katedrali: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.22999,37.9087"
 draft: "false"
 weight: "999"

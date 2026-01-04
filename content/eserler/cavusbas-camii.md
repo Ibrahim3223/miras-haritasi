@@ -5,10 +5,10 @@ slug: "cavusbas-camii"
 description: "## Çavuşbaş Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5265865,38.7571068"
 draft: "false"
 weight: "999"

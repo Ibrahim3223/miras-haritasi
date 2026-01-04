@@ -5,10 +5,10 @@ slug: "kocakayavirani"
 description: "## Kocakayaviranı: Eskişehir'in Gizli İhtişamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.124369,39.589779"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-kargluhi-kilisesi"
 description: "## Küçük Karglıhi Kilisesi: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Yünören"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.292138888,40.641694444"
 draft: "false"
 weight: "999"

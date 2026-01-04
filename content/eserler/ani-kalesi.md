@@ -5,10 +5,10 @@ slug: "ani-kalesi"
 description: "**Ani Kalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ani_qala_divarları_(1).jpg/1200px-Ani_qala_divarları_(1).jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.569589,40.50574"
 draft: "false"
 weight: "10"

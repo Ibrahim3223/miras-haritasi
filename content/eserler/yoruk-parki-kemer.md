@@ -5,10 +5,10 @@ slug: "yoruk-parki-kemer"
 description: "## Yörük Parkı: Antalya'nın Göçmen Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.576,36.6005"
 draft: "false"
 weight: "999"

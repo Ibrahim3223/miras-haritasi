@@ -5,10 +5,10 @@ slug: "kopru-yalnizcabag"
 description: "### Köprü, Yalnızcabağ: Mut, Mersin'in Tarihî Bir Ruhu..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.227341,36.635738"
 draft: "false"
 weight: "999"

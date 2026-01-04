@@ -5,10 +5,10 @@ slug: "knidos-buyuk-tiyatro"
 description: "## Knidos Büyük Tiyatro: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3793774,36.6886711"
 draft: "false"
 weight: "999"

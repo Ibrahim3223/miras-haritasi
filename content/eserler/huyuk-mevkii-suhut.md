@@ -5,10 +5,10 @@ slug: "huyuk-mevkii-suhut"
 description: "### Hüyük Mevkii, Şuhut: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.578617,38.562683"
 draft: "false"
 weight: "999"

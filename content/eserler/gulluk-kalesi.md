@@ -5,10 +5,10 @@ slug: "gulluk-kalesi"
 description: "## Güllük Kalesi: Yozgat'ın Gizli Cenneti..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8811385,39.9161283"
 draft: "false"
 weight: "999"

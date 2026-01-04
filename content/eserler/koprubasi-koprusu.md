@@ -5,10 +5,10 @@ slug: "koprubasi-koprusu"
 description: "## Köprübaşı Köprüsü: Gümüşhane'nin Kıvrımlı Taş Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.3039,40.57592"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kumtepe-tumulusu"
 description: "## Kumtepe Tümülüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7962971,41.4512215"
 draft: "false"
 weight: "999"

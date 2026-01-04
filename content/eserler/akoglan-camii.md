@@ -5,10 +5,10 @@ slug: "akoglan-camii"
 description: "## Akoğlan Camii: Eskişehir'in Tarihsel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Akoğlan_Camii.jpg/1200px-Akoğlan_Camii.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5303841,39.766243"
 draft: "false"
 weight: "10"

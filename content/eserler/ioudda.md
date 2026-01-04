@@ -5,10 +5,10 @@ slug: "ioudda"
 description: "## Ioudda Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.385837,38.66591"
 draft: "false"
 weight: "999"

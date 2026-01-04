@@ -5,10 +5,10 @@ slug: "ucmihrapli-camii"
 description: "## Üçmihraplı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Istanbul_-_panoramio_(66).jpg/1200px-Istanbul_-_panoramio_(66).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.963388888,41.02025"
 draft: "false"
 weight: "10"

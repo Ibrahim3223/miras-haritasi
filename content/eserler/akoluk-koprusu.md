@@ -5,10 +5,10 @@ slug: "akoluk-koprusu"
 description: "### Akoluk Köprüsü: Ulubey'in Tarihi Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.7008724,40.8208164"
 draft: "false"
 weight: "999"

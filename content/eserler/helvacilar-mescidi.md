@@ -5,10 +5,10 @@ slug: "helvacilar-mescidi"
 description: "## Helvacılar Mescidi: Altındağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8649483,39.9346504"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-taarruz-karargahi"
 description: "## Büyük Taarruz Karargahı Müzesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.5420303,38.5302658"
 draft: "false"
 weight: "999"

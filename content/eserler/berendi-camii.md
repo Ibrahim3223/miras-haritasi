@@ -5,10 +5,10 @@ slug: "berendi-camii"
 description: "## Berendi Camii: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c7/%D0%A2%D0%B0%D0%BC%D0%B3%D0%B0_%D0%BF%D0%BB%D0%B5%D0%BC%D0%B5%D0%BD%D1%96_%D0%B1%D0%B0%D1%8F%D0%BD%D0%B4%D1%83%D1%80.png"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eskici-dede-turbesi"
 description: "## Eskici Dede Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6466999,38.2195015"
 draft: "false"
 weight: "999"

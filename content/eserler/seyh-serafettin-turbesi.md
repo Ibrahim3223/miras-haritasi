@@ -5,10 +5,10 @@ slug: "seyh-serafettin-turbesi"
 description: "## Şeyh Şerafettin Türbesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "29.2763653,40.5512466"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kara-seyh-camii"
 description: "## Kara Şeyh Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0654278,40.1826668"
 draft: "false"
 weight: "999"

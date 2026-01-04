@@ -5,10 +5,10 @@ slug: "cuneyt-bey-camii"
 description: "### Giriş..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1341381,38.2497902"
 draft: "false"
 weight: "999"

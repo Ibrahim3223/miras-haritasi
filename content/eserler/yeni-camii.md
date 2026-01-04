@@ -5,10 +5,10 @@ slug: "yeni-camii"
 description: "## Yeni Camii: İstanbul'un Tarihi bir Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mezquita_Nueva,_Estambul,_Turquía,_2024-09-29,_DD_39-41_HDR.jpg/1200px-Mezquita_Nueva,_Estambul,_Turquía,_2024-09-29,_DD_39-41_HDR.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.972141,41.016875"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "isparta-entomoloji-muzesi"
 description: "### Isparta Entomoloji Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cavdir-hoyuk"
 description: "## Çavdır Höyük: Bir Geçmişin İzleri..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Çavdır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.65745,37.146767"
 draft: "false"
 weight: "999"

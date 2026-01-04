@@ -5,10 +5,10 @@ slug: "kanli-kilise"
 description: "## Kanlı Kilise: Fener'deki Gizemli Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/DM02_-_Grcka_Crkva.jpg/1200px-DM02_-_Grcka_Crkva.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.948888888,41.029722222"
 draft: "false"
 weight: "10"

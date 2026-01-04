@@ -5,10 +5,10 @@ slug: "catakbagyaka-camii"
 description: "# Çatakbağyaka Camii: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.167078,37.1248245"
 draft: "false"
 weight: "999"

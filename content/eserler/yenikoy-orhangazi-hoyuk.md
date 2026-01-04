@@ -5,10 +5,10 @@ slug: "yenikoy-orhangazi-hoyuk"
 description: "# Yeniköy-Orhangazi Höyük: Bir Geçmişe Yönelik Yolculuk..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Orhangazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.3694,40.499921"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "belgratkapi-koprusu"
 description: "# Belgratkapı Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.920002,40.9998207"
 draft: "false"
 weight: "999"

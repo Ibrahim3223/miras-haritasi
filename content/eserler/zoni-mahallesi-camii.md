@@ -5,10 +5,10 @@ slug: "zoni-mahallesi-camii"
 description: "### Zoni Mahallesi Camii: Mardin'in Yüzyıllık Edebiyat Mirasının Merkezi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.749095,37.447557"
 draft: "false"
 weight: "999"

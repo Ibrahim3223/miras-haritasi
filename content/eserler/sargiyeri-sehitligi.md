@@ -5,10 +5,10 @@ slug: "sargiyeri-sehitligi"
 description: "### Sargıyeri Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2211895,40.1017418"
 draft: "false"
 weight: "999"

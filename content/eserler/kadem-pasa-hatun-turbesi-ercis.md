@@ -5,10 +5,10 @@ slug: "kadem-pasa-hatun-turbesi-ercis"
 description: "**Kadem Paşa Hatun Türbesi, Erciş**..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Erciş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.3855247,39.0175095"
 draft: "false"
 weight: "999"

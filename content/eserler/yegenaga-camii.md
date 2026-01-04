@@ -5,10 +5,10 @@ slug: "yegenaga-camii"
 description: "## Yeğenağa Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2799149,39.9119987"
 draft: "false"
 weight: "999"

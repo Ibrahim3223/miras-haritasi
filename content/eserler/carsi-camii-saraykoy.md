@@ -5,10 +5,10 @@ slug: "carsi-camii-saraykoy"
 description: "## Çarşı Camii, Sarayköy: Bir Kültür Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Sarayköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9232998,37.9238014"
 draft: "false"
 weight: "999"

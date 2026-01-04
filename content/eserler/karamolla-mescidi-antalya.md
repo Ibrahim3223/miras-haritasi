@@ -5,10 +5,10 @@ slug: "karamolla-mescidi-antalya"
 description: "**Karamolla Mescidi: Antalya'nın Tarihi Bir Güzelliği**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7068996,36.8846016"
 draft: "false"
 weight: "999"

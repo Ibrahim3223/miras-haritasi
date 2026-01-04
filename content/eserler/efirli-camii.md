@@ -5,10 +5,10 @@ slug: "efirli-camii"
 description: "**Efirli Camii**..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.809399,41.023699"
 draft: "false"
 weight: "999"

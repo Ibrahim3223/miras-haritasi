@@ -5,10 +5,10 @@ slug: "balcili-baglik-camii"
 description: "**Balcılı Bağlık Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.466667,40.983333"
 draft: "false"
 weight: "999"

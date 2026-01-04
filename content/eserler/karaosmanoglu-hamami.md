@@ -5,10 +5,10 @@ slug: "karaosmanoglu-hamami"
 description: "### Karaosmanoğlu Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.677681,38.9926949"
 draft: "false"
 weight: "999"

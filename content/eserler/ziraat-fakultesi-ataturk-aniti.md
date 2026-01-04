@@ -5,10 +5,10 @@ slug: "ziraat-fakultesi-ataturk-aniti"
 description: "## Ziraat Fakültesi Atatürk Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8600922,39.9551239"
 draft: "false"
 weight: "999"

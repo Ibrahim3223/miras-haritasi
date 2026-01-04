@@ -5,10 +5,10 @@ slug: "pompei-sutunu"
 description: "## Pompei Sütunu: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1150246,41.2339859"
 draft: "false"
 weight: "999"

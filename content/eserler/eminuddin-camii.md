@@ -5,10 +5,10 @@ slug: "eminuddin-camii"
 description: "### Eminüddin Camii: Bir Osmanlı Dönemi Anıtının Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: ""
 draft: "false"
 weight: "999"

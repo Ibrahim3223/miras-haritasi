@@ -5,10 +5,10 @@ slug: "kal-kados-corapci-han-sinagogu"
 description: "## Kal Kadoş Çorapçı Han Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.969861111,41.014333333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayazma-kapisi"
 description: "### Ayazma Kapısı: Fatih, İstanbul'un Gizli Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9786015,41.0123978"
 draft: "false"
 weight: "999"

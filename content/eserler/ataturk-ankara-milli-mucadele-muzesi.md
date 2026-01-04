@@ -5,10 +5,10 @@ slug: "ataturk-ankara-milli-mucadele-muzesi"
 description: "## Atatürk Ankara Milli Mücadele Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/77/Eski_Coban_Mektebi_2_1759333087.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.864509685,39.966201023"
 draft: "false"
 weight: "999"

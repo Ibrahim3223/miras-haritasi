@@ -5,10 +5,10 @@ slug: "mersin-kultur-merkezi"
 description: "### Mersin Kültür Merkezi: Tarihi ve Kültürel Mirasın Değerli Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Mersin_Halkevi_building..jpg/1200px-Mersin_Halkevi_building..jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mersin"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "34.63333333,36.8"
 draft: "false"
 weight: "10"

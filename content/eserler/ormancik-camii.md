@@ -5,10 +5,10 @@ slug: "ormancik-camii"
 description: "### Ormancık Camii: Trabzon'un Gizli Cenneti..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.222318445,40.770523245"
 draft: "false"
 weight: "999"

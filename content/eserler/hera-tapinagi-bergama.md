@@ -5,10 +5,10 @@ slug: "hera-tapinagi-bergama"
 description: "## Hera Tapınağı (Bergama)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Pergamon_Tempel_der_Hera.JPG/1200px-Pergamon_Tempel_der_Hera.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.185555555,39.1275"
 draft: "false"
 weight: "10"

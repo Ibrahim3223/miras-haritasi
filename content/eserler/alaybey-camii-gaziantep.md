@@ -5,10 +5,10 @@ slug: "alaybey-camii-gaziantep"
 description: "**Alaybey Camii: Gaziantep'in Tarihi Bir Zenginliği**..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3830261,37.0608978"
 draft: "false"
 weight: "999"

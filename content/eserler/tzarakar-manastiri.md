@@ -5,10 +5,10 @@ slug: "tzarakar-manastiri"
 description: "### Tzarakar Manastırı..."
 featured_image: ""
 province: "Kars Oblastı"
-iller: '["Kars Oblastı"]'
+iller: ["Kars Oblastı"]
 district: "Kağızman"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.9137383,40.2475739"
 draft: "false"
 weight: "999"

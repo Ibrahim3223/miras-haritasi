@@ -5,10 +5,10 @@ slug: "delibedir-mahallesi-camii"
 description: "## Delibedir Mahallesi Camii..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1240158,41.1012192"
 draft: "false"
 weight: "999"

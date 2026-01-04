@@ -5,10 +5,10 @@ slug: "haci-veli-gebes-camii"
 description: "# Hacı Veli Gebeş Camii: Zonguldak'ta Bir Önemli Cami Mirası..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Devrek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.029686,41.2542114"
 draft: "false"
 weight: "999"

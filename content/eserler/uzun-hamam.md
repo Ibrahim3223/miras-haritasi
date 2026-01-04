@@ -5,10 +5,10 @@ slug: "uzun-hamam"
 description: "## Uzun Hamam..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.9033623,41.5694542"
 draft: "false"
 weight: "999"

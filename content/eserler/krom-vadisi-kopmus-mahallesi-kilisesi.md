@@ -5,10 +5,10 @@ slug: "krom-vadisi-kopmus-mahallesi-kilisesi"
 description: "## Gümüşhane'nin Gizemli Kilisesi: Krom Vadisi Kopmuş Mahallesi Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.590193,40.553875"
 draft: "false"
 weight: "999"

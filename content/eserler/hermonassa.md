@@ -5,10 +5,10 @@ slug: "hermonassa"
 description: "## Hermonassa: Trabzon'un Antik Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.553424,41.034159"
 draft: "false"
 weight: "999"

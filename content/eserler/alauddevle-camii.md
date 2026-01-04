@@ -5,10 +5,10 @@ slug: "alauddevle-camii"
 description: "### Alaüddevle Camii: Gaziantep'in Tarihi Çehresini Taçlandıran Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Gaziantep_-_panoramio_-_HALUK_COMERTEL_(3).jpg/1200px-Gaziantep_-_panoramio_-_HALUK_COMERTEL_(3).jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Gaziantep"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.384902491,37.063376492"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "akcakoca-bey-anit-mezari"
 description: "### Akçakoca Bey Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Ak%C3%A7a_Koca_Bey_An%C4%B1t_Mezar%C4%B1.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kandıra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1912727,41.1142197"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "azebler-hamami"
 description: "## Azebler Hamamı: İstanbul'un Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.959478738,41.021440017"
 draft: "false"
 weight: "999"

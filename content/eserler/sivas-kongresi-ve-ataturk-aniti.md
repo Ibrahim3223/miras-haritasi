@@ -5,10 +5,10 @@ slug: "sivas-kongresi-ve-ataturk-aniti"
 description: "### Sivas Kongresi ve Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Sivas_Republic_Monument.jpg/1200px-Sivas_Republic_Monument.jpg"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.014083333,39.750027777"
 draft: "false"
 weight: "10"

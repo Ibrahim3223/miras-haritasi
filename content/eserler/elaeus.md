@@ -5,10 +5,10 @@ slug: "elaeus"
 description: "## Elaeus: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.230555555,40.059722222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cayirbasi-mescidi"
 description: "## Çayırbaşı Mescidi: Eyüpsultan'ın Gizli Çiçeği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9355392,41.0356445"
 draft: "false"
 weight: "999"

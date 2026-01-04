@@ -5,10 +5,10 @@ slug: "seyyid-bilal-turbesi"
 description: "### Seyyid Bilal Türbesi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1621399,42.0254364"
 draft: "false"
 weight: "999"

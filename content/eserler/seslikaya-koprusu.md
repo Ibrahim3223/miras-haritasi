@@ -5,10 +5,10 @@ slug: "seslikaya-koprusu"
 description: "## Seslikaya Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0343701,41.1484338"
 draft: "false"
 weight: "999"

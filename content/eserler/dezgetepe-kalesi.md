@@ -5,10 +5,10 @@ slug: "dezgetepe-kalesi"
 description: "### Dezgetepe Kalesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.1371155,37.7628365"
 draft: "false"
 weight: "999"

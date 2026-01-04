@@ -5,10 +5,10 @@ slug: "nuruosmaniye-kapisi"
 description: "## Nuruosmaniye Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.969902,41.010086"
 draft: "false"
 weight: "999"

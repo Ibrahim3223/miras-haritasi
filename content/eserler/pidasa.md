@@ -5,10 +5,10 @@ slug: "pidasa"
 description: "## Pidasa: Milas'ın Tarihî Bir Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.57211,37.401041"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "muzadere-kilisesi-mesudiye"
 description: "## Müzadere Kilisesi Mesudiye..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.794985,40.598056"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kazancibasi-sadettin-efendi-turbesi"
 description: "## Kazancıbaşı Sadettin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.946466394,41.010611027"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zeytinburnu-fabrika-i-humyn-hamami"
 description: "## Zeytinburnu Fabrika-i Hümâyûn Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9055176,40.9818611"
 draft: "false"
 weight: "999"

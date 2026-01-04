@@ -5,10 +5,10 @@ slug: "bekheirias"
 description: "# Bekheirias Arkeolojik Sit..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.521944444,41.020833333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yilanli-sutun"
 description: "## Yılanlı Sütun..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Snake_column_Hippodrome_Constantinople_2007.jpg/1200px-Snake_column_Hippodrome_Constantinople_2007.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.975122,41.00562"
 draft: "false"
 weight: "10"

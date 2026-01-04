@@ -5,10 +5,10 @@ slug: "tlos-kucuk-hamam"
 description: "## Tlos Küçük Hamamı: Seydikemer'in Gizli Çandırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Arched_ruins_of_the_ancient_city_of_Tlos.jpg/1200px-Arched_ruins_of_the_ancient_city_of_Tlos.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.420002,36.5524559"
 draft: "false"
 weight: "10"

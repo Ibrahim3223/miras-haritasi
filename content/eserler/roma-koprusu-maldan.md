@@ -5,10 +5,10 @@ slug: "roma-koprusu-maldan"
 description: "### Roma Köprüsü, Maldan..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.259192,38.847595"
 draft: "false"
 weight: "999"

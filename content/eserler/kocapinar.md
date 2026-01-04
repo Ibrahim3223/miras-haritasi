@@ -5,10 +5,10 @@ slug: "kocapinar"
 description: "### Kocapınar Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.726317,38.466483"
 draft: "false"
 weight: "999"

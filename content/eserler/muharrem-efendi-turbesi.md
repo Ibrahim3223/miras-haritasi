@@ -5,10 +5,10 @@ slug: "muharrem-efendi-turbesi"
 description: "### Muharrem Efendi Türbesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8872,40.297"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasan-bey-hamami"
 description: "## Hasan Bey Hamamı: Mudanya'da Bir Önemli Tarihî Eser..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.8835011,40.3755341"
 draft: "false"
 weight: "999"

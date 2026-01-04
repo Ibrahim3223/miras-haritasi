@@ -5,10 +5,10 @@ slug: "bahar-mahallesi-camii"
 description: "## Bahar Mahallesi Camii: Hemşin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.894298537,41.032411324"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lagania"
 description: "### Lagania Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.921111111,40.170305555"
 draft: "false"
 weight: "999"

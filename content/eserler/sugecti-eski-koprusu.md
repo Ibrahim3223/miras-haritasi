@@ -5,10 +5,10 @@ slug: "sugecti-eski-koprusu"
 description: "## Sugeçti Eski Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Suceyin_taş_köprüsü.jpg/1200px-Suceyin_taş_köprüsü.jpg"
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.2883258,39.0234625"
 draft: "false"
 weight: "10"

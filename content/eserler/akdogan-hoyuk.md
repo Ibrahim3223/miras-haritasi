@@ -5,10 +5,10 @@ slug: "akdogan-hoyuk"
 description: "**Akdoğan Höyük: Konya'nın Gizli Mirası**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.4845606,38.2185301"
 draft: "false"
 weight: "999"

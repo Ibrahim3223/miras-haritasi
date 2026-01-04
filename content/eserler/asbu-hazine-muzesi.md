@@ -5,10 +5,10 @@ slug: "asbu-hazine-muzesi"
 description: "### ASBÜ Hazine Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.854908,39.9431229"
 draft: "false"
 weight: "999"

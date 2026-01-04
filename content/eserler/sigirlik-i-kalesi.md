@@ -5,10 +5,10 @@ slug: "sigirlik-i-kalesi"
 description: "## Sığırlık-I Kalesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Sütçüler"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.8518734,37.520504"
 draft: "false"
 weight: "999"

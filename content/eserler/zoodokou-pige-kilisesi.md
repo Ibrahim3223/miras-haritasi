@@ -5,10 +5,10 @@ slug: "zoodokou-pige-kilisesi"
 description: "## Zoodokou Pige Kilisesi: Karacabey'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.5645943,40.2690849"
 draft: "false"
 weight: "999"

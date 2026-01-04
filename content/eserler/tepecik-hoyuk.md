@@ -5,10 +5,10 @@ slug: "tepecik-hoyuk"
 description: "## Tepecik Höyük: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.3083756,39.6942598"
 draft: "false"
 weight: "999"

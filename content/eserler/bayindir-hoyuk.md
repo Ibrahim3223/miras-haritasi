@@ -5,10 +5,10 @@ slug: "bayindir-hoyuk"
 description: "### Bayındır Höyük: Çankırı'da Eski Uygarlığın İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8191261,40.6019096"
 draft: "false"
 weight: "999"

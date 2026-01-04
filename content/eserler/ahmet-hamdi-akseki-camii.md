@@ -5,10 +5,10 @@ slug: "ahmet-hamdi-akseki-camii"
 description: "### Ahmet Hamdi Akseki Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ahmedhamdiaksekicami.jpg/1200px-Ahmedhamdiaksekicami.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.7632,39.9064"
 draft: "false"
 weight: "10"

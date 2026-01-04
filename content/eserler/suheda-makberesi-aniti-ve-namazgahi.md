@@ -5,10 +5,10 @@ slug: "suheda-makberesi-aniti-ve-namazgahi"
 description: "## Şüheda Makberesi Anıtı ve Namazgahı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9640369,41.1869659"
 draft: "false"
 weight: "999"

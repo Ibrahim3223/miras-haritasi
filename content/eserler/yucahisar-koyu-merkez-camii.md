@@ -5,10 +5,10 @@ slug: "yucahisar-koyu-merkez-camii"
 description: "### Yücahisar Köyü Merkez Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.910005805,41.114290201"
 draft: "false"
 weight: "999"

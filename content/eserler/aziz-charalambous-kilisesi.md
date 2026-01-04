@@ -5,10 +5,10 @@ slug: "aziz-charalambous-kilisesi"
 description: "## Aziz Charalambous Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

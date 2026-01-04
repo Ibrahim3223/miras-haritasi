@@ -5,10 +5,10 @@ slug: "yaglidere-koyu-krom-vadisi-koprusu"
 description: "## Yağlıdere Köyü Krom Vadisi Köprüsü: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.53352,40.54272"
 draft: "false"
 weight: "999"

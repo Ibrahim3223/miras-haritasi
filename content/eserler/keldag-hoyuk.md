@@ -5,10 +5,10 @@ slug: "keldag-hoyuk"
 description: "## Keldağ Höyük: Tarihçi ve Kültür Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.60055,38.507417"
 draft: "false"
 weight: "999"

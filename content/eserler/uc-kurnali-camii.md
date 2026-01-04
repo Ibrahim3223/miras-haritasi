@@ -5,10 +5,10 @@ slug: "uc-kurnali-camii"
 description: "## Üç Kurnalı Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0574207,40.1819763"
 draft: "false"
 weight: "999"

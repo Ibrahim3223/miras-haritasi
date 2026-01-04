@@ -5,10 +5,10 @@ slug: "turk-pusat-geleneksel-turk-okculugu-ve-savas-aletleri-muzesi"
 description: "# Türk Pusat Geleneksel Türk Okçuluğu ve Savaş Aletleri Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.862666772,39.938365858"
 draft: "false"
 weight: "999"

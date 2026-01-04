@@ -5,10 +5,10 @@ slug: "derincay-koprusu"
 description: "## Derinçay Köprüsü: Mersin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.326232,36.724989"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "meryem-ana-mahallesi-koprusu"
 description: "## Meryem Ana Mahallesi Köprüsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.988695,40.510247"
 draft: "false"
 weight: "999"

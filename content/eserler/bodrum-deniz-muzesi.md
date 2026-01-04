@@ -5,10 +5,10 @@ slug: "bodrum-deniz-muzesi"
 description: "## Bodrum Deniz Müzesi: Bodrum'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4318867,37.0347366"
 draft: "false"
 weight: "999"

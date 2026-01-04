@@ -5,10 +5,10 @@ slug: "karaburun-hoyuk"
 description: "### Karaburun Höyük: Tarihî Bir Mirasın Öyküsü..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.7988953,38.7378415"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-yazici-camii"
 description: "## Ali Yazıcı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ali_Yazıcı_Camii.jpg/1200px-Ali_Yazıcı_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9516277,41.0298538"
 draft: "false"
 weight: "10"

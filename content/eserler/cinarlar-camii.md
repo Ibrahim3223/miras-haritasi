@@ -5,10 +5,10 @@ slug: "cinarlar-camii"
 description: "### Çınarlar Camii: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3894653,40.9177742"
 draft: "false"
 weight: "999"

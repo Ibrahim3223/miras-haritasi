@@ -5,10 +5,10 @@ slug: "malkara-bulgar-kilisesi"
 description: "### Malkara Bulgar Kilisesi: Tarih, Mimari ve Kültür..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.9057007,40.8965988"
 draft: "false"
 weight: "999"

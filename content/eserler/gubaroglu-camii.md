@@ -5,10 +5,10 @@ slug: "gubaroglu-camii"
 description: "## Gubaroğlu Camii: Kayseri'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Kayseri_Unknown_Mosque_2135.jpg/1200px-Kayseri_Unknown_Mosque_2135.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4802818,38.7166748"
 draft: "false"
 weight: "10"

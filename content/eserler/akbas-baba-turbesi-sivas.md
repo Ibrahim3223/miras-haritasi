@@ -5,10 +5,10 @@ slug: "akbas-baba-turbesi-sivas"
 description: "## Akbaş Baba Türbesi Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0253716,39.7485313"
 draft: "false"
 weight: "999"

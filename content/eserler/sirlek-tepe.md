@@ -5,10 +5,10 @@ slug: "sirlek-tepe"
 description: "## Şirlek Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.864109,41.5966797"
 draft: "false"
 weight: "999"

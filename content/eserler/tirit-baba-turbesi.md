@@ -5,10 +5,10 @@ slug: "tirit-baba-turbesi"
 description: "# Tirit Baba Türbesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5653076,41.6836586"
 draft: "false"
 weight: "999"

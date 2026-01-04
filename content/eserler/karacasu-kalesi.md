@@ -5,10 +5,10 @@ slug: "karacasu-kalesi"
 description: "### Karacasu Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Olur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.2366646,40.8363696"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kesis-golu-steli"
 description: "## Keşiş Gölü Steli..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.62111111,38.53055556"
 draft: "false"
 weight: "999"

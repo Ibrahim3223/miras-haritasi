@@ -5,10 +5,10 @@ slug: "pednelissos"
 description: "## Pednelissos: Antalya'nın Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.92055556,37.22138889"
 draft: "false"
 weight: "999"

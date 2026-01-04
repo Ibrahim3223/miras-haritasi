@@ -5,10 +5,10 @@ slug: "menzilhane-hamami"
 description: "## Menzilhane Hamamı: Gebze'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4379883,40.7977867"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aperlai-roma-koprusu"
 description: "## Aperlai Roma Köprüsü: Türkiye'nin Eski Bir Ruhu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.780449,36.15876"
 draft: "false"
 weight: "999"

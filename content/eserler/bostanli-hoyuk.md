@@ -5,10 +5,10 @@ slug: "bostanli-hoyuk"
 description: "### Bostanlı Höyük: Boğazlıyan'da Gizemli Bir Geçmiş..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.2471045,39.075106"
 draft: "false"
 weight: "999"

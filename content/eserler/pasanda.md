@@ -5,10 +5,10 @@ slug: "pasanda"
 description: "### Pasanda: Muğla'nın Gizli Öncesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ortaca (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6928795,36.7810675"
 draft: "false"
 weight: "999"

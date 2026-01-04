@@ -5,10 +5,10 @@ slug: "alacahoyuk-tunc-cagi-mezarlari"
 description: "**Alacahöyük Tunç Çağı Mezarları**..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.695694,40.2340355"
 draft: "false"
 weight: "999"

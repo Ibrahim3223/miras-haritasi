@@ -5,10 +5,10 @@ slug: "bergule"
 description: "### Bergule Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/K%C4%B1rklareli_location_L%C3%BCleburgaz.svg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.36121,41.41621"
 draft: "false"
 weight: "999"

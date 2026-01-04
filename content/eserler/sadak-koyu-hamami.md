@@ -5,10 +5,10 @@ slug: "sadak-koyu-hamami"
 description: "### Sadak Köyü Hamamı: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.594695,40.025836"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "van-millingen-kutuphanesi"
 description: "## Van Millingen Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0516644,41.0831757"
 draft: "false"
 weight: "999"

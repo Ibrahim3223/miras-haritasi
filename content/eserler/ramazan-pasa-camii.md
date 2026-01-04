@@ -5,10 +5,10 @@ slug: "ramazan-pasa-camii"
 description: "## Ramazan Paşa Camii: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8443222,37.8495178"
 draft: "false"
 weight: "999"

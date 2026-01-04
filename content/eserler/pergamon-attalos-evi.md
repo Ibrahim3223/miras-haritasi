@@ -5,10 +5,10 @@ slug: "pergamon-attalos-evi"
 description: "## Pergamon Attalos Evi: İhtişamlı Bir Saray..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "27.185421,39.1256676"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kocahidir-ciftehoyukler-guney-tumulusu"
 description: "## Kocahıdır Çiftehöyükler Güney Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9451809,41.6493301"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aquae-saravenae"
 description: "## Aquae Saravenae: Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.15803,39.14591"
 draft: "false"
 weight: "999"

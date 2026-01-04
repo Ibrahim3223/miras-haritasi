@@ -5,10 +5,10 @@ slug: "somuncu-baba-camii"
 description: "## Somuncu Baba Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0588856,40.1777"
 draft: "false"
 weight: "999"

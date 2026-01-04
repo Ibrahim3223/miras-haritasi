@@ -5,10 +5,10 @@ slug: "sivas-kalesi"
 description: "## Sivas Kalesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.013425,39.743974"
 draft: "false"
 weight: "999"

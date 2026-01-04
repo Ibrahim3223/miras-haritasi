@@ -5,10 +5,10 @@ slug: "demircihoyuk"
 description: "## Demircihöyük: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.27052,39.85035"
 draft: "false"
 weight: "999"

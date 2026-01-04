@@ -5,10 +5,10 @@ slug: "arpacilar-camii"
 description: "### Arpacılar Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/53/Alpek_Hotel.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.973192,41.016411"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "metristepe-doruk-sehitligi"
 description: "## Metristepe Doruk Şehitliği..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1786308,39.9299049"
 draft: "false"
 weight: "999"

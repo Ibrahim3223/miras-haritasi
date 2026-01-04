@@ -5,10 +5,10 @@ slug: "kurucay-koyu-camii"
 description: "## Kuruçay Köyü Camii: Ahırlı, Konya'da Bulunan Bir Tarihi Cebellar..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ahırlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.037413178,37.211967091"
 draft: "false"
 weight: "999"

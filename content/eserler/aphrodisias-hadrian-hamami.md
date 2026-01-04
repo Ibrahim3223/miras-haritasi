@@ -5,10 +5,10 @@ slug: "aphrodisias-hadrian-hamami"
 description: "## Aphrodisias Hadrian Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.7223492,37.708065"
 draft: "false"
 weight: "999"

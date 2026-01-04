@@ -5,10 +5,10 @@ slug: "besiktas-kedi-muzesi"
 description: "## Beşiktaş Kedi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/5e/Istanbul_Cat_Museum_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.012993383,41.043551121"
 draft: "false"
 weight: "999"

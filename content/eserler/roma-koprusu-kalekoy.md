@@ -5,10 +5,10 @@ slug: "roma-koprusu-kalekoy"
 description: "## Roma Köprüsü, Kaleköy: Karaman'ın Tarihî Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.612796,37.4572475"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehitlik-giresun"
 description: "## Şehitlik, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.390586,40.922403"
 draft: "false"
 weight: "999"

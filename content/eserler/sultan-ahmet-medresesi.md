@@ -5,10 +5,10 @@ slug: "sultan-ahmet-medresesi"
 description: "## Sultan Ahmet Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sultan_Ahmet_Medresesi_01.jpg/1200px-Sultan_Ahmet_Medresesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.977278,41.006544"
 draft: "false"
 weight: "10"

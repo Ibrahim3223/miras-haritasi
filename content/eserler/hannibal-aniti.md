@@ -5,10 +5,10 @@ slug: "hannibal-aniti"
 description: "## Hannibal Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Hanibal's_Tomb_Gebze_19022022_01.jpg/1200px-Hanibal's_Tomb_Gebze_19022022_01.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.44161134,40.782267783"
 draft: "false"
 weight: "10"

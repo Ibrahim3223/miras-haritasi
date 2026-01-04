@@ -5,10 +5,10 @@ slug: "bursa-protestan-kilisesi"
 description: "### Bursa Protestan Kilisesi: Geçmişin Etkileyici Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Französische_Kirche_in_Bursa.jpg/1200px-Französische_Kirche_in_Bursa.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0660686,40.1804123"
 draft: "false"
 weight: "10"

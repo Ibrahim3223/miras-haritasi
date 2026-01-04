@@ -5,10 +5,10 @@ slug: "karainebeyli-koyu-camii"
 description: "## Karainebeyli Köyü Camii..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.432806,40.3499451"
 draft: "false"
 weight: "999"

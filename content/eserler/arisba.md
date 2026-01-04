@@ -5,10 +5,10 @@ slug: "arisba"
 description: "## Arisba: Çanakkale'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/91/ArhopalaBirmana_AcesinaArisbaNic1891AC1.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.542314,40.199817"
 draft: "false"
 weight: "999"

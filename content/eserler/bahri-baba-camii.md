@@ -5,10 +5,10 @@ slug: "bahri-baba-camii"
 description: "**Bahri Baba Camii: Bursa'nın Tarihi Çağına Tanıyan Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Bahri_Baba_Otob%C3%BCsleri_6.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0486183,40.1902885"
 draft: "false"
 weight: "999"

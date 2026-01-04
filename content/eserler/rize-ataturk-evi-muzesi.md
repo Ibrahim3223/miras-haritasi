@@ -5,10 +5,10 @@ slug: "rize-ataturk-evi-muzesi"
 description: "## Rize Atatürk Evi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rize_Atatürk_House_and_Ethnography_museum_in_2006_4586.jpg/1200px-Rize_Atatürk_House_and_Ethnography_museum_in_2006_4586.jpg"
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.534166666,41.023333333"
 draft: "false"
 weight: "10"

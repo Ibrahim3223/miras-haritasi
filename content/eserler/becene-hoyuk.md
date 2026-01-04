@@ -5,10 +5,10 @@ slug: "becene-hoyuk"
 description: "## Beçene Höyük: Konya'nın Gizli Tarihi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.5153847,38.2122841"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mglinavi-kilisesi"
 description: "## Mglinavi Kilisesi: Hanak'ta Gizli Bir Kıltürel Ören..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Hanak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.835,41.205888888"
 draft: "false"
 weight: "999"

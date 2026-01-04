@@ -5,10 +5,10 @@ slug: "cafer-pasa-tekkesi"
 description: "## Cafer Paşa Tekkesi: İstanbul'un Gizli Çağı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.934855,41.046682"
 draft: "false"
 weight: "999"

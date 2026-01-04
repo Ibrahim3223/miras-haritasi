@@ -5,10 +5,10 @@ slug: "gulbahar-hatun-camii"
 description: "## Gülbahar Hatun Camii: Trabzon'un Gizli Çanakkale'si..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Gulbahar_Hatun_Camii6.jpg/1200px-Gulbahar_Hatun_Camii6.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Trabzon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.716083333,41.003388888"
 draft: "false"
 weight: "10"

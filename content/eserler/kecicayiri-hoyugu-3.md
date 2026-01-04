@@ -5,10 +5,10 @@ slug: "kecicayiri-hoyugu-3"
 description: "### Keçiçayırı Höyüğü 3: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.762920379,39.279839159"
 draft: "false"
 weight: "999"

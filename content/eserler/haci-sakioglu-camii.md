@@ -5,10 +5,10 @@ slug: "haci-sakioglu-camii"
 description: "## Hacı Sakioğlu Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4808846,38.7230873"
 draft: "false"
 weight: "999"

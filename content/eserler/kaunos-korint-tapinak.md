@@ -5,10 +5,10 @@ slug: "kaunos-korint-tapinak"
 description: "## Kaunos Korint Tapınak: Köyceğiz'in Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6212502,36.8278389"
 draft: "false"
 weight: "999"

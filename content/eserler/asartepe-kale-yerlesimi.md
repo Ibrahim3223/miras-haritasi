@@ -5,10 +5,10 @@ slug: "asartepe-kale-yerlesimi"
 description: "## Asartepe Kale Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.7595005,39.9648018"
 draft: "false"
 weight: "999"

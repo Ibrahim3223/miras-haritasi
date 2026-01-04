@@ -5,10 +5,10 @@ slug: "seyh-ahmet-el-cezeri-turbesi"
 description: "### Şeyh Ahmet El-Cezeri Türbesi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1880989,37.3249779"
 draft: "false"
 weight: "999"

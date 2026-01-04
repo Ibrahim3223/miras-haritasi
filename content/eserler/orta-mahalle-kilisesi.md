@@ -5,10 +5,10 @@ slug: "orta-mahalle-kilisesi"
 description: "### Orta Mahalle Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.986649,40.508232"
 draft: "false"
 weight: "999"

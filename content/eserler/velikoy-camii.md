@@ -5,10 +5,10 @@ slug: "velikoy-camii"
 description: "## Veliköy Camii: Çerkezköy'ün Göbeği..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çerkezköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9355106,41.2593918"
 draft: "false"
 weight: "999"

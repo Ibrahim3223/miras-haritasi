@@ -5,10 +5,10 @@ slug: "kaya-mezari-belen"
 description: "## Kaya Mezarı, Belen: Muğla'nın Gizli Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0443153,36.6056328"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "demirli-mescit"
 description: "## Demirli Mescit: Beyşehir'in Tarihi bir Örneği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.716717474,37.68374123"
 draft: "false"
 weight: "999"

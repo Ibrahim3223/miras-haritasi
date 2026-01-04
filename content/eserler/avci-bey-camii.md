@@ -5,10 +5,10 @@ slug: "avci-bey-camii"
 description: "## Avcı Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Avcı_Bey_Camii.jpg/1200px-Avcı_Bey_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9398022,41.0354118"
 draft: "false"
 weight: "10"

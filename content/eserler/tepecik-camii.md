@@ -5,10 +5,10 @@ slug: "tepecik-camii"
 description: "## Tepecik Camii: Bodrum'un Tarihi ve Dini Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4255466,37.0361938"
 draft: "false"
 weight: "999"

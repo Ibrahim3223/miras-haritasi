@@ -5,10 +5,10 @@ slug: "philadelphia-kilikya"
 description: "**Philadelphia (Kilikya) Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.026111111,36.622777777"
 draft: "false"
 weight: "999"

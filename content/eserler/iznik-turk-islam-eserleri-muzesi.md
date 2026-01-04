@@ -5,10 +5,10 @@ slug: "iznik-turk-islam-eserleri-muzesi"
 description: "### İznik Türk İslam Eserleri Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Türk_islam_eserleri_müzesi.jpg/1200px-Türk_islam_eserleri_müzesi.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.725668,40.4302559"
 draft: "false"
 weight: "10"

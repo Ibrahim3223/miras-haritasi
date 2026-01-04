@@ -5,10 +5,10 @@ slug: "haci-hasanogullari-camii"
 description: "## Hacı Hasanoğulları Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.370116717,38.800734431"
 draft: "false"
 weight: "999"

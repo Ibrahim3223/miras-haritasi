@@ -5,10 +5,10 @@ slug: "rhodiapolis-piskoposluk-kilisesi"
 description: "## Rhodiapolis Piskoposluk Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.2651463,36.3876152"
 draft: "false"
 weight: "999"

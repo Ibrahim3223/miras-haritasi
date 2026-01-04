@@ -5,10 +5,10 @@ slug: "seytantepe-tumulusu"
 description: "## Şeytantepe Tümülüsü: Manisa'nın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5726585,38.5393867"
 draft: "false"
 weight: "999"

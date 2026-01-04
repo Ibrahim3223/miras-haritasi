@@ -5,10 +5,10 @@ slug: "yakutiye-medresesi"
 description: "## Yakutiye Medresesi: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Erzurum,_madrasa_yakutiye,_1310,_esterno_01.jpg/1200px-Erzurum,_madrasa_yakutiye,_1310,_esterno_01.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.272049,39.906395"
 draft: "false"
 weight: "10"

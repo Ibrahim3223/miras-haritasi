@@ -5,10 +5,10 @@ slug: "izzet-koyunoglu-sehir-muzesi"
 description: "## İzzet Koyunoğlu Şehir Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Konya_İzzet_Koyunoğlu_Şehir_Müzesi_Ottoman_interior_3384.jpg/1200px-Konya_İzzet_Koyunoğlu_Şehir_Müzesi_Ottoman_interior_3384.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.510687496,37.866328621"
 draft: "false"
 weight: "10"

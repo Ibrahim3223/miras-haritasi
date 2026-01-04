@@ -5,10 +5,10 @@ slug: "baba-nakkas-camii"
 description: "**Baba Nakkaş Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Baba_Nakkaş_Camii_IMG_1441.jpg/1200px-Baba_Nakkaş_Camii_IMG_1441.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.5553761,41.1882248"
 draft: "false"
 weight: "10"

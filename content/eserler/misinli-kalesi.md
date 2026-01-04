@@ -5,10 +5,10 @@ slug: "misinli-kalesi"
 description: "## Misinli Kalesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6056614,41.3089256"
 draft: "false"
 weight: "999"

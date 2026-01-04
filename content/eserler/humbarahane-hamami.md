@@ -5,10 +5,10 @@ slug: "humbarahane-hamami"
 description: "### Humbarahane Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.943779,41.0462837"
 draft: "false"
 weight: "999"

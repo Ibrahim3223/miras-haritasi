@@ -5,10 +5,10 @@ slug: "kinaliada-surp-krikor-lusavoric-kilisesi"
 description: "### Kınalıada Surp Krikor Lusavoriç Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.053027777,40.909305555"
 draft: "false"
 weight: "999"

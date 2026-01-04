@@ -5,10 +5,10 @@ slug: "haci-hulusi-baba-camii"
 description: "### Hacı Hulusi Baba Camii: Fatsa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Fatsa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.4976654,41.0307388"
 draft: "false"
 weight: "999"

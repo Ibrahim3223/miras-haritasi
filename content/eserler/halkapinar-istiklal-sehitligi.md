@@ -5,10 +5,10 @@ slug: "halkapinar-istiklal-sehitligi"
 description: "### Halkapınar İstiklal Şehitliği..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1647053,38.4353027"
 draft: "false"
 weight: "999"

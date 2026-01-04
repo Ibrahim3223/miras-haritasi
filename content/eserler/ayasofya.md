@@ -5,10 +5,10 @@ slug: "ayasofya"
 description: "**Ayasofya: İnsanlığa Bir Miras**..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.98,41.008333333"
 draft: "false"
 weight: "1"

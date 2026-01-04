@@ -5,10 +5,10 @@ slug: "hanay-tepe"
 description: "## Hanay Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.293067,39.908533"
 draft: "false"
 weight: "999"

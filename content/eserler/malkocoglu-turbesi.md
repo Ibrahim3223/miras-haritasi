@@ -5,10 +5,10 @@ slug: "malkocoglu-turbesi"
 description: "## Malkoçoğlu Türbesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.431303,40.797821"
 draft: "false"
 weight: "999"

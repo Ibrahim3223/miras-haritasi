@@ -5,10 +5,10 @@ slug: "ataturk-koprusu-dalaman"
 description: "## Atatürk Köprüsü, Dalaman..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Dalaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7945232,36.8345337"
 draft: "false"
 weight: "999"

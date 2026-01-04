@@ -5,10 +5,10 @@ slug: "beyazit-hamam-kulturu-muzesi"
 description: "## Beyazıt Hamam Kültürü Müzesi: İstanbul'un Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Beyazit_hammam_DSCF6006.jpg/1200px-Beyazit_hammam_DSCF6006.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.961555,41.009792"
 draft: "false"
 weight: "10"

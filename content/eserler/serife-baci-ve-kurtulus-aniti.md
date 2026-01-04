@@ -5,10 +5,10 @@ slug: "serife-baci-ve-kurtulus-aniti"
 description: "## Şerife Bacı ve Kurtuluş Anıtı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7770844,41.3766022"
 draft: "false"
 weight: "999"

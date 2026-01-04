@@ -5,10 +5,10 @@ slug: "darulhadis-camii-medresesi"
 description: "## Darülhadis Camii Medresesi: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.5479565,41.6710701"
 draft: "false"
 weight: "999"

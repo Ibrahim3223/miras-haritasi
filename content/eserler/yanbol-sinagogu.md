@@ -5,10 +5,10 @@ slug: "yanbol-sinagogu"
 description: "## Yanbol Sinagogu: İstanbul'un Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Yambol_synagogue_Foto_Miguel_Angel_Otero_Soliño.JPG/1200px-Yambol_synagogue_Foto_Miguel_Angel_Otero_Soliño.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.948333333,41.033333333"
 draft: "false"
 weight: "10"

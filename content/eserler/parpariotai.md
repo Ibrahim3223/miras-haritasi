@@ -5,10 +5,10 @@ slug: "parpariotai"
 description: "# Parpariotai: Ege Denizi'ndeki Antik Bir Şehirdir..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3,37.35"
 draft: "false"
 weight: "999"

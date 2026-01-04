@@ -5,10 +5,10 @@ slug: "mehmed-semseddin-efendi-turbesi"
 description: "## Mehmed Şemseddin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.939404,41.021695"
 draft: "false"
 weight: "999"

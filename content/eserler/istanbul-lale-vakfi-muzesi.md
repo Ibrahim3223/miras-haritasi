@@ -5,10 +5,10 @@ slug: "istanbul-lale-vakfi-muzesi"
 description: "## İstanbul Lale Vakfı Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.053421767,41.10676182"
 draft: "false"
 weight: "999"

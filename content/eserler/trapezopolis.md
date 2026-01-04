@@ -5,10 +5,10 @@ slug: "trapezopolis"
 description: "## Trapezopolis: Denizli'nin Gizli Mimari Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.932258333,37.855905555"
 draft: "false"
 weight: "999"

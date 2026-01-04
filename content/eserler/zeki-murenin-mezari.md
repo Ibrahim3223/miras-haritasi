@@ -5,10 +5,10 @@ slug: "zeki-murenin-mezari"
 description: "# Zeki Müren'in Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Zeki_Müren_Mezarı_1.jpg/1200px-Zeki_Müren_Mezarı_1.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

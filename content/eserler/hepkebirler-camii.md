@@ -5,10 +5,10 @@ slug: "hepkebirler-camii"
 description: "## Hepkebirler Camii Tanıtımı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7731667,41.375061"
 draft: "false"
 weight: "999"

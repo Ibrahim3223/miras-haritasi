@@ -5,10 +5,10 @@ slug: "hacin-kalesi"
 description: "# Haçin Kalesi: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Adana Vilayeti"
-iller: '["Adana Vilayeti"]'
+iller: ["Adana Vilayeti"]
 district: "Saimbeyli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.092763,37.98529"
 draft: "false"
 weight: "999"

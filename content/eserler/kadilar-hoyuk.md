@@ -5,10 +5,10 @@ slug: "kadilar-hoyuk"
 description: "## Kadılar Höyük..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yahyalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.362636521,38.132871819"
 draft: "false"
 weight: "999"

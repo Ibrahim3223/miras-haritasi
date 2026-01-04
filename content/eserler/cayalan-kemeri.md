@@ -5,10 +5,10 @@ slug: "cayalan-kemeri"
 description: "## Çayalan Kemeri: Aydın'ın Gizli Harikası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.353857,37.5979614"
 draft: "false"
 weight: "999"

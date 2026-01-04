@@ -5,10 +5,10 @@ slug: "sultan-orhan-camii"
 description: "## Sultan Orhan Camii..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.4377804,40.7981377"
 draft: "false"
 weight: "999"

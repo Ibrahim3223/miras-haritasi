@@ -5,10 +5,10 @@ slug: "himmet-dede-turbesi"
 description: "### Himmet Dede Türbesi Tanıtımı..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Cumayeri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.9754,40.8547"
 draft: "false"
 weight: "999"

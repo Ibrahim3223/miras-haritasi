@@ -5,10 +5,10 @@ slug: "ouranion"
 description: "### Ouranion: Bodrum'un Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2788,37.0935"
 draft: "false"
 weight: "999"

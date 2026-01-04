@@ -5,10 +5,10 @@ slug: "pelitbukusecek-camii"
 description: "### Pelitbüküsecek Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4777985,41.4118004"
 draft: "false"
 weight: "999"

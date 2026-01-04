@@ -5,10 +5,10 @@ slug: "panayia-pirgiotissa-kilisesi"
 description: "### Panayia Pirgiotissa Kilisesi: Muğla'nın Tarihî Bir Çağına Tanıklık Eden İhtişamlı Yapı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0866871,36.5754967"
 draft: "false"
 weight: "999"

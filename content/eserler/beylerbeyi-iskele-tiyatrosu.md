@@ -5,10 +5,10 @@ slug: "beylerbeyi-iskele-tiyatrosu"
 description: "### Beylerbeyi İskele Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.0452175,41.0448723"
 draft: "false"
 weight: "999"

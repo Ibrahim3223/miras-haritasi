@@ -5,10 +5,10 @@ slug: "kendema"
 description: "## Kendema Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.982829,36.28323"
 draft: "false"
 weight: "999"

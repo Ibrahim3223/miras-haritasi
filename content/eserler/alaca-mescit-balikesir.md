@@ -5,10 +5,10 @@ slug: "alaca-mescit-balikesir"
 description: "# Alaca Mescit, Balıkesir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Alaca_mescid.JPG"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.883585,39.648098"
 draft: "false"
 weight: "999"

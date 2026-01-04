@@ -5,10 +5,10 @@ slug: "kuzucardagi-tumulusu"
 description: "### Kuzuçardağı Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0720539,41.5455627"
 draft: "false"
 weight: "999"

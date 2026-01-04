@@ -5,10 +5,10 @@ slug: "denizhoyuk"
 description: "## Denizhöyük: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.8155239,38.214079"
 draft: "false"
 weight: "999"

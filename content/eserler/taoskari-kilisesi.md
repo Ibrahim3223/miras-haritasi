@@ -5,10 +5,10 @@ slug: "taoskari-kilisesi"
 description: "# Taoskari Kilisesi..."
 featured_image: ""
 province: "Olur"
-iller: '["Olur"]'
+iller: ["Olur"]
 district: "Çataksu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.943166666,40.817266666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "saouenda"
 description: "## Saouenda: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.944572,38.098071"
 draft: "false"
 weight: "999"

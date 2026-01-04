@@ -5,10 +5,10 @@ slug: "buyuk-hamam-odemis"
 description: "## Büyük Hamam, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9692001,38.2275009"
 draft: "false"
 weight: "999"

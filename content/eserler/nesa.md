@@ -5,10 +5,10 @@ slug: "nesa"
 description: "## Nesa Arkeolojik Sit: Kayseri'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Nesza_06.jpg/1200px-Nesza_06.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.633333,38.85"
 draft: "false"
 weight: "10"

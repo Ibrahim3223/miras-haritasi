@@ -5,10 +5,10 @@ slug: "tralleis"
 description: "### Tralleis: Aydın'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/4489k_Istanbul_-_Museo_archeol._-_Apollo_-_sec._II_a.C._-_da_Tralles_-_Foto_G._Dall'Orto_28-5-2006.jpg/1200px-4489k_Istanbul_-_Museo_archeol._-_Apollo_-_sec._II_a.C._-_da_Tralles_-_Foto_G._Dall'Orto_28-5-2006.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.835472,37.859993"
 draft: "false"
 weight: "10"

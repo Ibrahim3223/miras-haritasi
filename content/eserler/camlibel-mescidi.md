@@ -5,10 +5,10 @@ slug: "camlibel-mescidi"
 description: "### Çamlıbel Mescidi: Tokat'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.4880638,40.0435982"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "doganlar-kilisesi"
 description: "### Doğanlar Kilisesi: Bornova, İzmir'de Bir Tarihi Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2532959,38.4523163"
 draft: "false"
 weight: "999"

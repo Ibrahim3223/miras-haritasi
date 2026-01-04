@@ -5,10 +5,10 @@ slug: "usakli-hoyuk"
 description: "## Uşaklı Höyük: Yozgat'ın Gizli Çağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Uşaklı_Höyük_07.jpg/1200px-Uşaklı_Höyük_07.jpg"
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.052638888,39.813111111"
 draft: "false"
 weight: "10"

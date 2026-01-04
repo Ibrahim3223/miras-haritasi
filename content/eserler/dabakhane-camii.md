@@ -5,10 +5,10 @@ slug: "dabakhane-camii"
 description: "### Dabakhane Camii: Şanlıurfa'nın Gizli Çehresinde Bir İmparatorluk Örneği..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7913399,37.148037"
 draft: "false"
 weight: "999"

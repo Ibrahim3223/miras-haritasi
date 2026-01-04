@@ -5,10 +5,10 @@ slug: "alaeddin-camii"
 description: "### Alaeddin Camii: Konya'nın Göbeğinde Yükselen Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Alaedin_Camii.JPG/1200px-Alaedin_Camii.JPG"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.492777777,37.873472222"
 draft: "false"
 weight: "10"

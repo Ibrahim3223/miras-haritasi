@@ -5,10 +5,10 @@ slug: "laleli-camii"
 description: "# Laleli Camii: İstanbul'un Gizli Çehresini Açıklıyor..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Istanbul_asv2020-02_img06_Laleli_Mosque.jpg/1200px-Istanbul_asv2020-02_img06_Laleli_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.956666666,41.01"
 draft: "false"
 weight: "10"

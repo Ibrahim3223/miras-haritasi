@@ -5,10 +5,10 @@ slug: "kirazli-koprusu"
 description: "## Kirazlı Köprüsü: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6790276,40.0476379"
 draft: "false"
 weight: "999"

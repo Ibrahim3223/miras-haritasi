@@ -5,10 +5,10 @@ slug: "osmanli-evi-muzesi"
 description: "## Osmanlı Evi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.045691,40.191457"
 draft: "false"
 weight: "999"

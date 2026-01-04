@@ -5,10 +5,10 @@ slug: "hemsin-koyu-cuma-camii"
 description: "## Hemşin Köyü Cuma Camii: Düzce'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0238075,41.0255165"
 draft: "false"
 weight: "999"

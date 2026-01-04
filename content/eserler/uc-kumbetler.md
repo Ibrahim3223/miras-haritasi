@@ -5,10 +5,10 @@ slug: "uc-kumbetler"
 description: "## Üç Kümbetler: Yakutiye'nin Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Erzurum,_sito_delle_tre_tombe_(üç_kümbetler)_04.jpg/1200px-Erzurum,_sito_delle_tre_tombe_(üç_kümbetler)_04.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2785,39.903777777"
 draft: "false"
 weight: "10"

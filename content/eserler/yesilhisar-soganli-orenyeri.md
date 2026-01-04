@@ -5,10 +5,10 @@ slug: "yesilhisar-soganli-orenyeri"
 description: "# Yeşilhisar Soğanlı Örenyeri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

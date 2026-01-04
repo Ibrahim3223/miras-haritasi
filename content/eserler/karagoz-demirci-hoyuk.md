@@ -5,10 +5,10 @@ slug: "karagoz-demirci-hoyuk"
 description: "## Karagöz / Demirci Höyük: Sinop'un Gizli Mirası..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirkmerdiven-kale"
 description: "## Kırkmerdiven Kale..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.444367315,39.106268379"
 draft: "false"
 weight: "999"

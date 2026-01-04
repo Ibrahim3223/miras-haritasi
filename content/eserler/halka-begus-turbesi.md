@@ -5,10 +5,10 @@ slug: "halka-begus-turbesi"
 description: "## Halka Begüş Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4960632,37.8818245"
 draft: "false"
 weight: "999"

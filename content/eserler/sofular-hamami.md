@@ -5,10 +5,10 @@ slug: "sofular-hamami"
 description: "## Sofular Hamamı: Tarihi ve Kültürel Değerini Koruyan Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.948958,41.013619"
 draft: "false"
 weight: "999"

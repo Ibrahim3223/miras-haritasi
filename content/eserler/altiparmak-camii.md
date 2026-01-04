@@ -5,10 +5,10 @@ slug: "altiparmak-camii"
 description: "## Altıparmak Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mehmet_Alt%C4%B1parmak.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0509777,40.1893158"
 draft: "false"
 weight: "999"

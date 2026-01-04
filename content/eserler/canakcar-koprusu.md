@@ -5,10 +5,10 @@ slug: "canakcar-koprusu"
 description: "## Çanakçar Köprüsü..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Ulus"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5894012,41.4939995"
 draft: "false"
 weight: "999"

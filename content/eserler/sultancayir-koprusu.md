@@ -5,10 +5,10 @@ slug: "sultancayir-koprusu"
 description: "### Sultançayır Köprüsü: Geçmişi ve Etkisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Makestos_Bridge._Drawing_01.png/1200px-Makestos_Bridge._Drawing_01.png"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.16472222,39.86527778"
 draft: "false"
 weight: "10"

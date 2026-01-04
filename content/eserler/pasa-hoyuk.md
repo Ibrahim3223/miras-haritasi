@@ -5,10 +5,10 @@ slug: "pasa-hoyuk"
 description: "## Paşa Höyük: Antakya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.236752,36.368366"
 draft: "false"
 weight: "999"

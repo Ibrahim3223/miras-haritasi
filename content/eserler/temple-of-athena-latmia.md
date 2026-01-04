@@ -5,10 +5,10 @@ slug: "temple-of-athena-latmia"
 description: "## Temple of Athena Latmia: Kapıkırı'daki Eski Yunan Mirası..."
 featured_image: ""
 province: "Milas"
-iller: '["Milas"]'
+iller: ["Milas"]
 district: "Kapıkırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5248,37.502"
 draft: "false"
 weight: "999"

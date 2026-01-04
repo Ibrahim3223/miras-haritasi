@@ -5,10 +5,10 @@ slug: "latrina-ve-ask-evi"
 description: "## Latrina ve Aşk Evi: İzmir'in Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.34169,37.93918"
 draft: "false"
 weight: "999"

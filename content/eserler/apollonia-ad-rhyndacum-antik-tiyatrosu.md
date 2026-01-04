@@ -5,10 +5,10 @@ slug: "apollonia-ad-rhyndacum-antik-tiyatrosu"
 description: "## Apollonia ad Rhyndacum Antik Tiyatrosu..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.6826,40.169735"
 draft: "false"
 weight: "999"

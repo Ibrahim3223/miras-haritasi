@@ -5,10 +5,10 @@ slug: "tarihi-ardahan-koprusu"
 description: "# Tarihi Ardahan Köprüsü..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Kars Oblastı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.701046,41.1156921"
 draft: "false"
 weight: "999"

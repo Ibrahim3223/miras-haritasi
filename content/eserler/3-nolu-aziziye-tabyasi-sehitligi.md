@@ -5,10 +5,10 @@ slug: "3-nolu-aziziye-tabyasi-sehitligi"
 description: "## 3 No'lu Aziziye Tabyası Şehitliği: Erzurum'un Tarihi Anıtı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.3072891,39.9173927"
 draft: "false"
 weight: "999"

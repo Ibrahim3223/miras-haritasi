@@ -5,10 +5,10 @@ slug: "cyzistra"
 description: "## Cyzistra: Antik Bir Şehirin Kalıntıları..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.9572705,38.3508285"
 draft: "false"
 weight: "999"

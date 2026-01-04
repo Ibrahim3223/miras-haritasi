@@ -5,10 +5,10 @@ slug: "gozetleme-tepe-sehitligi"
 description: "**Gözetleme Tepe Şehitliği**..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2267227,40.1336517"
 draft: "false"
 weight: "999"

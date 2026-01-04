@@ -5,10 +5,10 @@ slug: "karsidongel-camii"
 description: "## Karşıdöngel Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ayvacık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5388985,40.9394989"
 draft: "false"
 weight: "999"

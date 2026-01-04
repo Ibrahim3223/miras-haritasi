@@ -5,10 +5,10 @@ slug: "kiriklar-kalesi-buca"
 description: "## Kırıklar Kalesi, Buca..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.3328648,38.3179512"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hasanoglan-rolyefi"
 description: "## Hasanoğlan Rölyefi: Ankara'nın Gizli Çağı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Elmadağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.272636,39.996738"
 draft: "false"
 weight: "999"

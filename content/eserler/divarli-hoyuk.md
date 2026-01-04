@@ -5,10 +5,10 @@ slug: "divarli-hoyuk"
 description: "### Divarlı Höyük: Niğde'nin Gizli Kutsalı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Çiftlik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4652821,38.2070582"
 draft: "false"
 weight: "999"

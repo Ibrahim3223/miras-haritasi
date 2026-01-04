@@ -5,10 +5,10 @@ slug: "tozlu-kahve-mescidi-karabaglar-yaylasi"
 description: "## Tozlu Kahve Mescidi, Karabağlar Yaylası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3985004,37.1974983"
 draft: "false"
 weight: "999"

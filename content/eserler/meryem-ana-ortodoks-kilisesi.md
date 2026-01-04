@@ -5,10 +5,10 @@ slug: "meryem-ana-ortodoks-kilisesi"
 description: "## Meryem Ana Ortodoks Kilisesi: Samandağ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.9888725,36.104908"
 draft: "false"
 weight: "999"

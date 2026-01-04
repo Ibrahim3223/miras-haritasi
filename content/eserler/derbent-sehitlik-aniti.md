@@ -5,10 +5,10 @@ slug: "derbent-sehitlik-aniti"
 description: "## Derbent Şehitlik Anıtı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7436905,41.0642662"
 draft: "false"
 weight: "999"

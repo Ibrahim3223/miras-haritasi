@@ -5,10 +5,10 @@ slug: "sari-ana-turbesi"
 description: "### Sarı Ana Türbesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.277629,36.858939"
 draft: "false"
 weight: "999"

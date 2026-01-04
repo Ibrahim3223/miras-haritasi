@@ -5,10 +5,10 @@ slug: "dokuzhoyuk-hoyukler-7-tumulusu"
 description: "## Dokuzhöyük Höyükler 7 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0675106,41.6483917"
 draft: "false"
 weight: "999"

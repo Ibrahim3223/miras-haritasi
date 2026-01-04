@@ -5,10 +5,10 @@ slug: "estergon-kalesi-ankara"
 description: "## Estergon Kalesi: Ankara'nın Gizli Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Castillo_de_Estergon,_Ankara,_Turquía,_2024-10-03,_DD_61.jpg/1200px-Castillo_de_Estergon,_Ankara,_Turquía,_2024-10-03,_DD_61.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.866388888,39.980694444"
 draft: "false"
 weight: "10"

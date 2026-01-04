@@ -5,10 +5,10 @@ slug: "bogazici-mahallesi-koprusu-2"
 description: "# Boğaziçi Mahallesi Köprüsü 2..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.177567,41.136051"
 draft: "false"
 weight: "999"

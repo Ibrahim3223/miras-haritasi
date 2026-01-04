@@ -5,10 +5,10 @@ slug: "bogazici-mahallesi-koprusu"
 description: "#### Boğaziçi Mahallesi Köprüsü: Samsun'un Eski Köprülü Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.178986,41.137641"
 draft: "false"
 weight: "999"

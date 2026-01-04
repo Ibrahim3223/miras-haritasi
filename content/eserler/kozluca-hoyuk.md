@@ -5,10 +5,10 @@ slug: "kozluca-hoyuk"
 description: "## Kozluca Höyük: Burdur'un Gizli Mirası..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.066667,37.4957"
 draft: "false"
 weight: "999"

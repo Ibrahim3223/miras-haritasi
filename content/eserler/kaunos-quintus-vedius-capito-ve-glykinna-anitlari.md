@@ -5,10 +5,10 @@ slug: "kaunos-quintus-vedius-capito-ve-glykinna-anitlari"
 description: "### Kaunos Quintus Vedius Capito ve Glykinna Anıtları..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.6189785,36.8256035"
 draft: "false"
 weight: "999"

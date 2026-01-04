@@ -5,10 +5,10 @@ slug: "sekerfurus-mescidi"
 description: "### Şekerfüruş Mescidi: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.492588,37.8689461"
 draft: "false"
 weight: "999"

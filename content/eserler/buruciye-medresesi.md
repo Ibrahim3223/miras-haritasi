@@ -5,10 +5,10 @@ slug: "buruciye-medresesi"
 description: "## Buruciye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/102_Buruciye.07.2006_resize.JPG/1200px-102_Buruciye.07.2006_resize.JPG"
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.015317,39.749094"
 draft: "false"
 weight: "10"

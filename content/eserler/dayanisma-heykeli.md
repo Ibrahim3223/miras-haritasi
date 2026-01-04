@@ -5,10 +5,10 @@ slug: "dayanisma-heykeli"
 description: "## Dayanışma Heykeli: İstanbul'un sembolü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9954853,41.0437126"
 draft: "false"
 weight: "999"

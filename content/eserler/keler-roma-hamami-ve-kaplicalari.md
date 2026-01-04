@@ -5,10 +5,10 @@ slug: "keler-roma-hamami-ve-kaplicalari"
 description: "## Keler Roma Hamamı ve Kaplıcaları: Tarihin Gizli Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.0592842,38.1736526"
 draft: "false"
 weight: "999"

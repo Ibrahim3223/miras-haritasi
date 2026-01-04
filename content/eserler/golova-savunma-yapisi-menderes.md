@@ -5,10 +5,10 @@ slug: "golova-savunma-yapisi-menderes"
 description: "## Gölova Savunma Yapısı, Menderes..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.2622643,38.0302696"
 draft: "false"
 weight: "999"

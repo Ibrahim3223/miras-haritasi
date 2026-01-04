@@ -5,10 +5,10 @@ slug: "georgios-kilisesi"
 description: "### Georgios Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.3825035,41.4504852"
 draft: "false"
 weight: "999"

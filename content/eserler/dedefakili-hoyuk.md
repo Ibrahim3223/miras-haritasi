@@ -5,10 +5,10 @@ slug: "dedefakili-hoyuk"
 description: "## Dedefakılı Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4274106,39.701452"
 draft: "false"
 weight: "999"

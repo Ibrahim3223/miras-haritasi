@@ -5,10 +5,10 @@ slug: "cizre-ulu-camii"
 description: "## Cizre Ulu Camii: Şırnak'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Mizgefta_Mezin_a_Cizîra_Botan_2009_2.JPG/1200px-Mizgefta_Mezin_a_Cizîra_Botan_2009_2.JPG"
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.19125,37.321555555"
 draft: "false"
 weight: "10"

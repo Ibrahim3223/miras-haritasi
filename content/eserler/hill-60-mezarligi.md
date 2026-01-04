@@ -5,10 +5,10 @@ slug: "hill-60-mezarligi"
 description: "## Hill 60 Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Hill_60_Commonwealth_War_Graves_Commission_Cemetery.jpg/1200px-Hill_60_Commonwealth_War_Graves_Commission_Cemetery.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Büyükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.29276,40.27276"
 draft: "false"
 weight: "10"

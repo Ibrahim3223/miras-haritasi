@@ -5,10 +5,10 @@ slug: "stratonikeia"
 description: "# Stratonikeia: Muğla'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Stratonicee_Sebasteion.JPG/1200px-Stratonicee_Sebasteion.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.06416667,37.31305556"
 draft: "false"
 weight: "10"

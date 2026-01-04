@@ -5,10 +5,10 @@ slug: "sveti-stefan-kilisesi"
 description: "## Sveti Stefan Kilisesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Istanbul_asv2021-11_img13_StStephen_Church.jpg/1200px-Istanbul_asv2021-11_img13_StStephen_Church.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.949694444,41.031805555"
 draft: "false"
 weight: "10"

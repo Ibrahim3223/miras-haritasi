@@ -5,10 +5,10 @@ slug: "frederic-barbarossa-aniti"
 description: "## Frederic Barbarossa Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Gedenkstein_Barbarossa_Göksu01.jpg/1200px-Gedenkstein_Barbarossa_Göksu01.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.86,36.4"
 draft: "false"
 weight: "10"

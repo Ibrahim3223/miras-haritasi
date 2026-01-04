@@ -5,10 +5,10 @@ slug: "tokat-arkeoloji-ve-etnografya-muzesi"
 description: "## Tokat Arkeoloji ve Etnografya Müzesi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.886521,40.300298"
 draft: "false"
 weight: "999"

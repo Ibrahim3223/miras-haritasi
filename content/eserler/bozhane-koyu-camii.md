@@ -5,10 +5,10 @@ slug: "bozhane-koyu-camii"
 description: "**Bozhane Köyü Camii: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2718563,41.163681"
 draft: "false"
 weight: "999"

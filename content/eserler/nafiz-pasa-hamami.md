@@ -5,10 +5,10 @@ slug: "nafiz-pasa-hamami"
 description: "## Nafiz Paşa Hamamı..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.4931068,39.7215691"
 draft: "false"
 weight: "999"

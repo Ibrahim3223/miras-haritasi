@@ -5,10 +5,10 @@ slug: "feza-gursey-bilim-merkezi"
 description: "## Feza Gürsey Bilim Merkezi: Bilim ve Kültür Mirasının Meşalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Feza_gürsey_bilim_merkezi.JPG/1200px-Feza_gürsey_bilim_merkezi.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.87272,39.96545"
 draft: "false"
 weight: "10"

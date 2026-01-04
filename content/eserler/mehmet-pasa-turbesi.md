@@ -5,10 +5,10 @@ slug: "mehmet-pasa-turbesi"
 description: "## Mehmet Paşa Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8359299,40.6546402"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "semseddin-sivs-turbesi"
 description: "## Şemseddin Sivâsî Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0201721,39.7495003"
 draft: "false"
 weight: "999"

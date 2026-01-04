@@ -5,10 +5,10 @@ slug: "kilise"
 description: "## Büyükçekmece Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.5770378,41.0232086"
 draft: "false"
 weight: "999"

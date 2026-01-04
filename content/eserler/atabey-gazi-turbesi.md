@@ -5,10 +5,10 @@ slug: "atabey-gazi-turbesi"
 description: "## Atabey Gazi Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7713699,41.3754387"
 draft: "false"
 weight: "999"

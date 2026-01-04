@@ -5,10 +5,10 @@ slug: "mehmet-akif-ersoy-siir-muzesi"
 description: "## Mehmet Akif Ersoy Şiir Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.092796039,41.133703391"
 draft: "false"
 weight: "999"

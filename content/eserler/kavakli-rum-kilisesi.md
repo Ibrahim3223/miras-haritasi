@@ -5,10 +5,10 @@ slug: "kavakli-rum-kilisesi"
 description: "## Kavaklı Rum Kilisesi: Burdur'un Gizli Cenneti..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.2815304,37.7142334"
 draft: "false"
 weight: "999"

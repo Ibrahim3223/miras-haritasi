@@ -5,10 +5,10 @@ slug: "17-yuzyil-osmanli-evi-muzesi"
 description: "## 17. Yüzyıl Osmanlı Evi Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.045637,40.191465"
 draft: "false"
 weight: "999"

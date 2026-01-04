@@ -5,10 +5,10 @@ slug: "kastamonu-saat-kulesi"
 description: "# Kastamonu Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Kastamonu_Saat_Kulesi.jpg/1200px-Kastamonu_Saat_Kulesi.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "33.778734571,41.374721347"
 draft: "false"
 weight: "10"

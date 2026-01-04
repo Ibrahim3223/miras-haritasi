@@ -5,10 +5,10 @@ slug: "tursan-hatun-camii"
 description: "## Turşan Hatun Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7172108,41.6420174"
 draft: "false"
 weight: "999"

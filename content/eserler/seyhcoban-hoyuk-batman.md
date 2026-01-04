@@ -5,10 +5,10 @@ slug: "seyhcoban-hoyuk-batman"
 description: "**Şeyhçoban Höyük: Batman'ın Gizemli Anıtı**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.0334854,37.8330116"
 draft: "false"
 weight: "999"

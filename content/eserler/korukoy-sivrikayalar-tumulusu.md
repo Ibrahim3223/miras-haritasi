@@ -5,10 +5,10 @@ slug: "korukoy-sivrikayalar-tumulusu"
 description: "## Koruköy Sivrikayalar Tümülüsü: Türkiye'nin Gizli Anıtlarından Birisi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3078194,41.8650932"
 draft: "false"
 weight: "999"

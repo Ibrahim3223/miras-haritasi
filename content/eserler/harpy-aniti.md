@@ -5,10 +5,10 @@ slug: "harpy-aniti"
 description: "## Harpy Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Xanthos_sarcophagus_(cropped).jpg/1200px-Xanthos_sarcophagus_(cropped).jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.317944444,36.356777777"
 draft: "false"
 weight: "10"

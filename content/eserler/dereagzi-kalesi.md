@@ -5,10 +5,10 @@ slug: "dereagzi-kalesi"
 description: "## Dereağzı Kalesi: Kaş'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.814996,36.334807"
 draft: "false"
 weight: "999"

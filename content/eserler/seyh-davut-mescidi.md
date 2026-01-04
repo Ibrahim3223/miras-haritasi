@@ -5,10 +5,10 @@ slug: "seyh-davut-mescidi"
 description: "## Şeyh Davut Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9671326,41.0171318"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "courtneys-ve-steels-post-mezarligi"
 description: "## Courtney's ve Steel's Post Mezarlığı: Eceabat'ın Gizli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Courtney's_and_Steel's_Post_Cemetery_1.jpg/1200px-Courtney's_and_Steel's_Post_Cemetery_1.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2889,40.2356"
 draft: "false"
 weight: "10"

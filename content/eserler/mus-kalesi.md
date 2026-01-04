@@ -5,10 +5,10 @@ slug: "mus-kalesi"
 description: "## Muş Kalesi: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: ""
 draft: "false"
 weight: "999"

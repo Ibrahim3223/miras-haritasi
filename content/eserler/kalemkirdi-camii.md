@@ -5,10 +5,10 @@ slug: "kalemkirdi-camii"
 description: "# Kalemkırdı Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.498188,38.7157288"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyfeddin-karasungur-turbesi"
 description: "### Seyfeddin Karasungur Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4955025,37.8751755"
 draft: "false"
 weight: "999"

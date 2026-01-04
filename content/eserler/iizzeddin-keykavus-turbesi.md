@@ -5,10 +5,10 @@ slug: "iizzeddin-keykavus-turbesi"
 description: "## I.İzzeddin Keykavus Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.49263,37.8734398"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hms-arno-1915"
 description: "## HMS Arno (1915)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Contratorpedeiro_Liz_(1914-1915).jpg/1200px-Contratorpedeiro_Liz_(1914-1915).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.50833333,40.24166667"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "osman-ibni-el-zeyd-hazretleri-turbesi"
 description: "### Osman İbni El Zeyd Hazretleri Türbesi..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.3876474,40.8272865"
 draft: "false"
 weight: "999"

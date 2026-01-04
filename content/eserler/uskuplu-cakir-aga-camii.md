@@ -5,10 +5,10 @@ slug: "uskuplu-cakir-aga-camii"
 description: "### Üsküplü Çakır Ağa Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Üsküplü_Çakır_Ağa_Camii_17.jpg/1200px-Üsküplü_Çakır_Ağa_Camii_17.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.958722222,41.024388888"
 draft: "false"
 weight: "10"

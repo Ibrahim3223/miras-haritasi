@@ -5,10 +5,10 @@ slug: "cakirkaya-manastiri"
 description: "## Çakırkaya Manastırı: Şiran'ın Gizli Görselliği..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "39.082653,40.1163177"
 draft: "false"
 weight: "999"

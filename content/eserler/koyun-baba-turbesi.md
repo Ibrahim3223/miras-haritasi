@@ -5,10 +5,10 @@ slug: "koyun-baba-turbesi"
 description: "## Koyun Baba Türbesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Osmancık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7933617,40.9799728"
 draft: "false"
 weight: "999"

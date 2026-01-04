@@ -5,10 +5,10 @@ slug: "mahmut-celalettin-efendi-turbesi"
 description: "### Mahmut Celalettin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935318,41.048352"
 draft: "false"
 weight: "999"

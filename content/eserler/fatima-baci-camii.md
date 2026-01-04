@@ -5,10 +5,10 @@ slug: "fatima-baci-camii"
 description: "## Fatıma Bacı Camii: Ankara'nın Efsanevi Camii..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.2902985,39.7879066"
 draft: "false"
 weight: "999"

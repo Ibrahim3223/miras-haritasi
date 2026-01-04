@@ -5,10 +5,10 @@ slug: "agsar-kalesi"
 description: "## Ağsar Kalesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.4465,40.357893"
 draft: "false"
 weight: "999"

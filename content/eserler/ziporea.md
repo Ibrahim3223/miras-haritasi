@@ -5,10 +5,10 @@ slug: "ziporea"
 description: "**Ziporea Arkeolojik Sit**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.1191805,41.5715265"
 draft: "false"
 weight: "999"

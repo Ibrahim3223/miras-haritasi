@@ -5,10 +5,10 @@ slug: "kurbanzade-camii"
 description: "## Kurbanzade Camii Tanıtımı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.362333333,37.216305555"
 draft: "false"
 weight: "999"

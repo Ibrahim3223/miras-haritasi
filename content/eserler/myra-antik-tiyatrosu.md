@@ -5,10 +5,10 @@ slug: "myra-antik-tiyatrosu"
 description: "## Myra Antik Tiyatrosu: Türkiye'nin Bir Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Demre_Myra_06.JPG/1200px-Demre_Myra_06.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.98531,36.25895"
 draft: "false"
 weight: "10"

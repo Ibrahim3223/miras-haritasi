@@ -5,10 +5,10 @@ slug: "gunes-saati-mihrimah-sultan-camii"
 description: "## Güneş Saati, Mihrimah Sultan Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0159569,41.0266151"
 draft: "false"
 weight: "999"

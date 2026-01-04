@@ -5,10 +5,10 @@ slug: "haci-hidir-koprusu"
 description: "### Hacı Hıdır Köprüsü: Gördes'in Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gördes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1968021,38.7713623"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hatay-altinozu-ilce-halk-kutuphanesi"
 description: "## Hatay Altınözü İlçe Halk Kütüphanesi: Bilgi Deposu ve Kültür Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Altınözü"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

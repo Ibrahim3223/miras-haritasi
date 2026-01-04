@@ -5,10 +5,10 @@ slug: "canbazzade-ahmet-efendi-camii"
 description: "## Canbazzade Ahmet Efendi Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.109211,40.6249695"
 draft: "false"
 weight: "999"

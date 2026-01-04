@@ -5,10 +5,10 @@ slug: "limne"
 description: "## Limne: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/dafaceef8bc7421cfe83b313c443f3e3"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmetbey-kocka-tumulusu"
 description: "### Ahmetbey Koçka Tümülüsü: Lüleburgaz'daki Antik Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6325703,41.493618"
 draft: "false"
 weight: "999"

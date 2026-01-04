@@ -5,10 +5,10 @@ slug: "cafer-aga-camii"
 description: "### Cafer Ağa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9291,41.014331"
 draft: "false"
 weight: "999"

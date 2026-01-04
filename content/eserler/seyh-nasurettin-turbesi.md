@@ -5,10 +5,10 @@ slug: "seyh-nasurettin-turbesi"
 description: "## Şeyh Nasurettin Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7385788,38.0789413"
 draft: "false"
 weight: "999"

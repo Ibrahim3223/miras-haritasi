@@ -5,10 +5,10 @@ slug: "hala-koprusu"
 description: "## Hala Köprüsü: Çamlıhemşin'in Gözkamaşı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.049656,41.0209848"
 draft: "false"
 weight: "999"

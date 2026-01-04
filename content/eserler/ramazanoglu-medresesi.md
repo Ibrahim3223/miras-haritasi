@@ -5,10 +5,10 @@ slug: "ramazanoglu-medresesi"
 description: "## Ramazanoğlu Medresesi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.331356,36.9847984"
 draft: "false"
 weight: "999"

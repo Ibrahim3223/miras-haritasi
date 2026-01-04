@@ -5,10 +5,10 @@ slug: "kayabuget-demirci-hoyuk"
 description: "### Kayabüget Demirci Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.8651428,40.0964394"
 draft: "false"
 weight: "999"

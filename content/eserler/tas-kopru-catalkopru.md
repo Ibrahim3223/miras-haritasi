@@ -5,10 +5,10 @@ slug: "tas-kopru-catalkopru"
 description: "## Taş Köprü, Çatalköprü: Turgutlu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7335396,38.4313278"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fatma-sultan-camii-mezar-tasi"
 description: "### Fatma Sultan Camii, Mezar Taşı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9285889,41.0223274"
 draft: "false"
 weight: "999"

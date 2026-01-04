@@ -5,10 +5,10 @@ slug: "cerkezcetmi-hoyugu"
 description: "## Çerkezçetmi Höyüğü: Bozüyük'teki Bir Çağlarca Miras..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1746407,39.8849411"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "devegecidi-koprusu"
 description: "## Devegeçidi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Kayapınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.06925,38.05333333"
 draft: "false"
 weight: "999"

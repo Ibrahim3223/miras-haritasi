@@ -5,10 +5,10 @@ slug: "cardak-hamami"
 description: "## Çardak Hamamı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.7223682,39.4425278"
 draft: "false"
 weight: "999"

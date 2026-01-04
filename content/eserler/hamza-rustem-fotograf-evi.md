@@ -5,10 +5,10 @@ slug: "hamza-rustem-fotograf-evi"
 description: "### Hamza Rüstem Fotoğraf Evi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.0760956,38.4796524"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tarihi-calca-koprusu"
 description: "# Tarihi Çalca Köprüsü..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.0369065,39.4807152"
 draft: "false"
 weight: "999"

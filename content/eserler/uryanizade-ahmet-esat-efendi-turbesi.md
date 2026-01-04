@@ -5,10 +5,10 @@ slug: "uryanizade-ahmet-esat-efendi-turbesi"
 description: "## Üryanizade Ahmet Esat Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934207,41.047489"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-marina-kilisesi"
 description: "## Aya Marina Kilisesi: Gökçeada'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8946991,40.2327003"
 draft: "false"
 weight: "999"

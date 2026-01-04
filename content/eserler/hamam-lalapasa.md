@@ -5,10 +5,10 @@ slug: "hamam-lalapasa"
 description: "## Lalapaşa Hamamı: Edirne'nin Gizli Çehresinde Bir Öykü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7303867,41.836937"
 draft: "false"
 weight: "999"

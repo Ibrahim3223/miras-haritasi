@@ -5,10 +5,10 @@ slug: "meydan-carsi-hamami"
 description: "**Meydan (Çarşı) Hamamı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Meydan_(Çarşı)_Hamamı.jpg/1200px-Meydan_(Çarşı)_Hamamı.jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.227327,40.2610525"
 draft: "false"
 weight: "10"

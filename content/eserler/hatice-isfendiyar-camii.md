@@ -5,10 +5,10 @@ slug: "hatice-isfendiyar-camii"
 description: "# Hatice İsfendiyar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/20250408_Hatice_Isfendiyar_Camii_2.jpg/1200px-20250408_Hatice_Isfendiyar_Camii_2.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0750542,40.1856308"
 draft: "false"
 weight: "10"

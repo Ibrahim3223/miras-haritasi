@@ -5,10 +5,10 @@ slug: "gedelme-kalesi"
 description: "## Gedelme Kalesi: Antalya'nın Gizli Göze Batmazlıkları..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.441671,36.613621"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esat-muhlis-camii-haziresi-refahiye"
 description: "### Esat Muhlis Camii Haziresi, Refahiye..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Refahiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.767765,39.8997154"
 draft: "false"
 weight: "999"

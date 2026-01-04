@@ -5,10 +5,10 @@ slug: "buyuk-agonya-koprusu"
 description: "## Büyük Agonya Köprüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Yenice (Çanakkale)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.331377,39.8340149"
 draft: "false"
 weight: "999"

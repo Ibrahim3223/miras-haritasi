@@ -5,10 +5,10 @@ slug: "selymbria-kenti-nekropolu"
 description: "## Selymbria Kenti Nekropolü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.253603,41.0701141"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "caglayan-kasri"
 description: "### Çağlayan Kasrı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.963722222,41.071583333"
 draft: "false"
 weight: "999"

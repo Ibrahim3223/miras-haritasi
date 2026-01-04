@@ -5,10 +5,10 @@ slug: "kirimi-huseyin-efendi-turbesi"
 description: "### Kırımi Hüseyin Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.934275,41.038186"
 draft: "false"
 weight: "999"

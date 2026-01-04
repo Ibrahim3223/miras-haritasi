@@ -5,10 +5,10 @@ slug: "kopru-ayvacik"
 description: "## Köprü, Ayvacık..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.4423885,39.5965881"
 draft: "false"
 weight: "999"

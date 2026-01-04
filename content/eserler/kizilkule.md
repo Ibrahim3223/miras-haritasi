@@ -5,10 +5,10 @@ slug: "kizilkule"
 description: "# Kızılkule: Antalya'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Alanya_Red_Tower_2.jpg/1200px-Alanya_Red_Tower_2.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "31.998308333,36.536444444"
 draft: "false"
 weight: "10"

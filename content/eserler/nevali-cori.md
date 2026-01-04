@@ -5,10 +5,10 @@ slug: "nevali-cori"
 description: "### Nevali Çori: Şanlıurfa'daki Eski Çağlar Uygarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Nevali_Çori_kazı_alanı_maketi_(2).jpg/1200px-Nevali_Çori_kazı_alanı_maketi_(2).jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.605555555,37.518333333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kiraz-ulu-cami"
 description: "### Kiraz Ulu Cami: İzmir'in Tarihî Bir Zirvesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.2052727,38.2302856"
 draft: "false"
 weight: "999"

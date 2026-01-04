@@ -5,10 +5,10 @@ slug: "bahcecik-iisivrihisar"
 description: "## Bahçecik II/Sivrihisar Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.347539,39.418923"
 draft: "false"
 weight: "999"

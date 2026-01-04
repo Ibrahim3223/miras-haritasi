@@ -5,10 +5,10 @@ slug: "salamboreia"
 description: "### Salamboreia: Geçmişin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0340025,38.120083"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sacre-coeur-suryani-katolik-kilisesi"
 description: "## Sacre Coeur Süryani Katolik Kilisesi: İstanbul'un Gizli Çehresinde Bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9893742,41.0341148"
 draft: "false"
 weight: "999"

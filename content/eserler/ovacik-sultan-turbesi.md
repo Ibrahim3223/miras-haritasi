@@ -5,10 +5,10 @@ slug: "ovacik-sultan-turbesi"
 description: "### Ovacık Sultan Türbesi: Havran'ın Gizli Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Havran"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.05541015,39.52426956"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "oklali-mezarlik-b-tumulusu"
 description: "## Oklalı Mezarlık B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2355251,41.3443718"
 draft: "false"
 weight: "999"

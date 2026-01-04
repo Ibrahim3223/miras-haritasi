@@ -5,10 +5,10 @@ slug: "cayirli-hoyukler-yani-3-tumulusu"
 description: "## Çayırlı Höyükler Yanı 3 Tümülüsü: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0618534,41.8803215"
 draft: "false"
 weight: "999"

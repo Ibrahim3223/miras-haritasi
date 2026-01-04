@@ -5,10 +5,10 @@ slug: "carissa"
 description: "## Eser Özeti: Carissa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.140618,40.527786"
 draft: "false"
 weight: "999"

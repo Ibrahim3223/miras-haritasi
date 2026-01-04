@@ -5,10 +5,10 @@ slug: "yesilkoy-bezmi-alem-camii"
 description: "**Yeşilköy Bezmi Alem Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/20250504_Yeşilköy_Bezmi_Alem_Mosque_2_(cropped).jpg/1200px-20250504_Yeşilköy_Bezmi_Alem_Mosque_2_(cropped).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.820691237,40.958025806"
 draft: "false"
 weight: "10"

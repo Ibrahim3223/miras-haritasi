@@ -5,10 +5,10 @@ slug: "melisse"
 description: "## Melisse: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "http://www.wikidata.org/.well-known/genid/f2e10aa4d10c21eb456e901fe659489c"
 draft: "false"
 weight: "999"

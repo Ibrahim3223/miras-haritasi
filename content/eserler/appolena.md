@@ -5,10 +5,10 @@ slug: "appolena"
 description: "## Appolena Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Illinois-_MCHENRY_County%2C_Enumeration_District_158%2C_Sheet_No._11A_-_DPLA_-_ed0d997e03c6dc555e2d804107c9aaec.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.147865,38.959452"
 draft: "false"
 weight: "999"

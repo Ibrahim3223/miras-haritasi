@@ -5,10 +5,10 @@ slug: "carsi-camii-sultanhisar"
 description: "## Çarşı Camii, Sultanhisar: Aydın'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1543064,37.8904076"
 draft: "false"
 weight: "999"

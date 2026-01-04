@@ -5,10 +5,10 @@ slug: "sagalassos"
 description: "**Sagalassos: Antik Kentin Gizemi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Sagalassos_Overview.jpg/1200px-Sagalassos_Overview.jpg"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.51944444,37.67805556"
 draft: "false"
 weight: "10"

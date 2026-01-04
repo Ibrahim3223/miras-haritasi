@@ -5,10 +5,10 @@ slug: "kozluk-kalesi"
 description: "### Kozluk Kalesi: Batman'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.4895444,38.1954502"
 draft: "false"
 weight: "999"

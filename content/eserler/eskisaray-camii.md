@@ -5,10 +5,10 @@ slug: "eskisaray-camii"
 description: "## Eskisaray Camii: Adıyaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.2737,37.760335"
 draft: "false"
 weight: "999"

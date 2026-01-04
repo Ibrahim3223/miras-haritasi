@@ -5,10 +5,10 @@ slug: "geyikli-camii"
 description: "## Geyikli Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Tosya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.1183395,40.9319153"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hagios-mokios-sarnici"
 description: "## Hagios Mokios Sarnıcı: İstanbul'un Gizli Kahramanlarından Birisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Cistern_of_Mocius.jpg/1200px-Cistern_of_Mocius.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9347,41.0103"
 draft: "false"
 weight: "10"

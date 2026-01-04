@@ -5,10 +5,10 @@ slug: "metroloji-kilisesi"
 description: "## Metroloji Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Saint_George_at_Vodina_Caddesi_01.jpg/1200px-Saint_George_at_Vodina_Caddesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.949358,41.0307922"
 draft: "false"
 weight: "10"

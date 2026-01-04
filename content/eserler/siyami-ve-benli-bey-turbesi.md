@@ -5,10 +5,10 @@ slug: "siyami-ve-benli-bey-turbesi"
 description: "## Siyami ve Benli Bey Türbesi: Muğla'nın İhtişamlı Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1338501,37.2927094"
 draft: "false"
 weight: "999"

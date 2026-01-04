@@ -5,10 +5,10 @@ slug: "ucler-dede-turbesi"
 description: "## Üçler Dede Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.022665,39.5996094"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "muradiye-yesildere-koprusu"
 description: "## Muradiye Yeşildere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.54275,40.94975"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ustegmen-halid-efendi-ve-tegmen-ali-riza-efendi-sehitligi"
 description: "## Üsteğmen Halid Efendi ve Teğmen Ali Rıza Efendi Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.3243904,40.282753"
 draft: "false"
 weight: "999"

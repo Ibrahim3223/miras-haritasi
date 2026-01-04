@@ -5,10 +5,10 @@ slug: "sarikadi-medresesi"
 description: "## Sarıkadı Medresesi: Ankara'nın Değerli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.8665771,39.9313774"
 draft: "false"
 weight: "999"

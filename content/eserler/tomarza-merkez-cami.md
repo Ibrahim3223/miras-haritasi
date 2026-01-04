@@ -5,10 +5,10 @@ slug: "tomarza-merkez-cami"
 description: "## Tomarza Merkez Cami: Kayseri'nin Tarihi Özellikleri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Tomarza"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.801739548,38.449047872"
 draft: "false"
 weight: "999"

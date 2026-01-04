@@ -5,10 +5,10 @@ slug: "hilmi-nakipoglu-fotograf-makineleri-muzesi"
 description: "## Hilmi Nakipoğlu Fotoğraf Makineleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.879082,40.994015"
 draft: "false"
 weight: "999"

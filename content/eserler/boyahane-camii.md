@@ -5,10 +5,10 @@ slug: "boyahane-camii"
 description: "## Boyahane Camii: Karaman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2204552,37.1805573"
 draft: "false"
 weight: "999"

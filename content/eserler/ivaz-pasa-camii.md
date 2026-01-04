@@ -5,10 +5,10 @@ slug: "ivaz-pasa-camii"
 description: "**İvaz Paşa Camii: Manisa'nın Tarihi Bir Çatı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Manisa_Ivaz_Paşa_Camii_5974.jpg/1200px-Manisa_Ivaz_Paşa_Camii_5974.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.422138888,38.607027777"
 draft: "false"
 weight: "10"

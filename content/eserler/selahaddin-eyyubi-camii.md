@@ -5,10 +5,10 @@ slug: "selahaddin-eyyubi-camii"
 description: "### Selahaddin Eyyubi Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Yenişehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.227944444,37.919333333"
 draft: "false"
 weight: "999"

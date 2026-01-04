@@ -5,10 +5,10 @@ slug: "lale-adasi-kalintilari-ayvalik"
 description: "## Lale Adası Kalıntıları: Ayvalık'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.695887,39.348286"
 draft: "false"
 weight: "999"

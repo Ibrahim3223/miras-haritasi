@@ -5,10 +5,10 @@ slug: "kurukopru-anit-kilisesi"
 description: "## Kuruköprü Anıt Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kuruköprü_Church,_front_view.JPG/1200px-Kuruköprü_Church,_front_view.JPG"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.32277778,36.98972222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "baskavak-koprusu"
 description: "## Başkavak Köprüsü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.8896637,37.5673752"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "lyrbe"
 description: "## Lyrbe: Antalya'nın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.47344,36.87477"
 draft: "false"
 weight: "999"

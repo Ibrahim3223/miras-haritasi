@@ -5,10 +5,10 @@ slug: "haracci-muhiddin-camii"
 description: "## Haraççı Muhiddin Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.952617,41.020941"
 draft: "false"
 weight: "999"

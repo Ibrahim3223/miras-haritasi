@@ -5,10 +5,10 @@ slug: "dolmabahce-sarayi"
 description: "# Dolmabahçe Sarayı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Palacio_de_Dolmabahçe,_Estambul,_Turquía,_2024-09-29,_DD_24.jpg/1200px-Palacio_de_Dolmabahçe,_Estambul,_Turquía,_2024-09-29,_DD_24.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.001666666,41.039444444"
 draft: "false"
 weight: "1"

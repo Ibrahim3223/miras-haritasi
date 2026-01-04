@@ -5,10 +5,10 @@ slug: "komana-antik-tiyatrosu"
 description: "## Komana Antik Tiyatrosu..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Tufanbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.325981,38.329498"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahruh-koprusu"
 description: "## Şahruh Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Şahruh_Köprüsü.jpg/1200px-Şahruh_Köprüsü.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Sarıoğlan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.93746,39.18392"
 draft: "false"
 weight: "10"

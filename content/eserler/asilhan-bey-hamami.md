@@ -5,10 +5,10 @@ slug: "asilhan-bey-hamami"
 description: "## Asılhan Bey Hamamı..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.2354088,39.7593155"
 draft: "false"
 weight: "999"

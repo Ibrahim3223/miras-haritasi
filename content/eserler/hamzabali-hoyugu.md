@@ -5,10 +5,10 @@ slug: "hamzabali-hoyugu"
 description: "**Hamzabali Höyüğü: Aydın'ın Gizli Anıtı**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.112795,37.805999"
 draft: "false"
 weight: "999"

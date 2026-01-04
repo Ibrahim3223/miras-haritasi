@@ -5,10 +5,10 @@ slug: "canakkale-ve-gelibolu-1-dunya-savasi-alanlari"
 description: "## Çanakkale ve Gelibolu 1. Dünya Savaşı Alanları..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.1771202,40.0446815"
 draft: "false"
 weight: "999"

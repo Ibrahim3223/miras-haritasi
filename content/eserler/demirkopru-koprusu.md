@@ -5,10 +5,10 @@ slug: "demirkopru-koprusu"
 description: "### Demirköprü Köprüsü..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.354828,36.248795"
 draft: "false"
 weight: "999"

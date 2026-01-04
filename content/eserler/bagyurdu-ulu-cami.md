@@ -5,10 +5,10 @@ slug: "bagyurdu-ulu-cami"
 description: "## Bağyurdu Ulu Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6392002,38.4135017"
 draft: "false"
 weight: "999"

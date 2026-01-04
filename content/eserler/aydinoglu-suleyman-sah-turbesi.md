@@ -5,10 +5,10 @@ slug: "aydinoglu-suleyman-sah-turbesi"
 description: "### Aydınoğlu Süleyman Şah Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.731526,38.0862627"
 draft: "false"
 weight: "999"

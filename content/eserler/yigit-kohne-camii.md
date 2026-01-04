@@ -5,10 +5,10 @@ slug: "yigit-kohne-camii"
 description: "## Yiğit Köhne Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0693302,40.185112"
 draft: "false"
 weight: "999"

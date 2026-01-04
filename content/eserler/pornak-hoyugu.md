@@ -5,10 +5,10 @@ slug: "pornak-hoyugu"
 description: "## Pornak Höyüğü: Diyarbakır'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.3790743,37.7968755"
 draft: "false"
 weight: "999"

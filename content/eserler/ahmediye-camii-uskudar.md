@@ -5,10 +5,10 @@ slug: "ahmediye-camii-uskudar"
 description: "## Ahmediye Camii: Üsküdar'ın Tarihî Bir Çağımsal Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Istanbul_Ahmediye_complex_mosque_andf_library_5835.jpg/1200px-Istanbul_Ahmediye_complex_mosque_andf_library_5835.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.016603576,41.02049501"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "akkale-oreni"
 description: "### Akkale Öreni: Erdemli'nin Gizli Hazineleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Akkale_spiral_staircase_Mersin_Province.JPG/1200px-Akkale_spiral_staircase_Mersin_Province.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.22277778,36.52888889"
 draft: "false"
 weight: "10"

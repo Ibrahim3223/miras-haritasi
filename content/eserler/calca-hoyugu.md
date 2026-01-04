@@ -5,10 +5,10 @@ slug: "calca-hoyugu"
 description: "## Çalca Höyüğü: Çanakkale'nin Gizli Tarihi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9642181,40.0486412"
 draft: "false"
 weight: "999"

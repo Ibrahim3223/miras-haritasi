@@ -5,10 +5,10 @@ slug: "kale"
 description: "## Etimesgut Kale'si: Tarihin ve Kültürün Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Etimesgut"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "32.666944444,39.906388888"
 draft: "false"
 weight: "999"

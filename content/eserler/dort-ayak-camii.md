@@ -5,10 +5,10 @@ slug: "dort-ayak-camii"
 description: "### Dört Ayak Camii..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6758347,37.9737358"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mor-yakob-suryani-kilisesi"
 description: "## Mor Yakob Süryani Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Gercüş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.4449081,37.5101891"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akbucak-koprusu"
 description: "### Akbucak Köprüsü: Pazar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9589839,41.0840397"
 draft: "false"
 weight: "999"

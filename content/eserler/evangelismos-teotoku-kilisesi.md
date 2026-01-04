@@ -5,10 +5,10 @@ slug: "evangelismos-teotoku-kilisesi"
 description: "### Evangelismos Teotoku Kilisesi: Gökçeada'nın Tarihi Bir Harikası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8335361,40.1907654"
 draft: "false"
 weight: "999"

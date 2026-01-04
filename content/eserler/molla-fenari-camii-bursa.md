@@ -5,10 +5,10 @@ slug: "molla-fenari-camii-bursa"
 description: "## Molla Fenari Camii (Bursa)..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0591068,40.176918"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karanlik-camii"
 description: "## Karanlık Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7763824,41.3809624"
 draft: "false"
 weight: "999"

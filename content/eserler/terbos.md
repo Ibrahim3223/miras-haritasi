@@ -5,10 +5,10 @@ slug: "terbos"
 description: "## Terbos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.018851,40.509541"
 draft: "false"
 weight: "999"

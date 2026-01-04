@@ -5,10 +5,10 @@ slug: "sogucak-mezarligi"
 description: "## Soğucak Mezarlığı: Kuşadası'nın Gizli Ören Yeri..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3002205,37.7825546"
 draft: "false"
 weight: "999"

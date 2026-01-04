@@ -5,10 +5,10 @@ slug: "anazarbos-antik-tiyatrosu"
 description: "## Anazarbos Antik Tiyatrosu..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.900493,37.248244"
 draft: "false"
 weight: "999"

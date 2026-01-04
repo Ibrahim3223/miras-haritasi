@@ -5,10 +5,10 @@ slug: "han-camii-talas"
 description: "## Han Camii, Talas..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5630341,38.6839561"
 draft: "false"
 weight: "999"

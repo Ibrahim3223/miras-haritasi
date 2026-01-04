@@ -5,10 +5,10 @@ slug: "cevizlik-sehitligi"
 description: "## Cevizlik Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.5952797,41.6914406"
 draft: "false"
 weight: "999"

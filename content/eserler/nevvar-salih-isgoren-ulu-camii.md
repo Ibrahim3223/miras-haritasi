@@ -5,10 +5,10 @@ slug: "nevvar-salih-isgoren-ulu-camii"
 description: "# Nevvar Salih İşgören Ulu Camii..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.176388888,38.443333333"
 draft: "false"
 weight: "999"

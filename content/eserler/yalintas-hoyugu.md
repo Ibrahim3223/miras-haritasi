@@ -5,10 +5,10 @@ slug: "yalintas-hoyugu"
 description: "### Yalıntaş Höyük: Elbistan'da Bir Arkeolojik Harikası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.4196587,38.3661842"
 draft: "false"
 weight: "999"

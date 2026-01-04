@@ -5,10 +5,10 @@ slug: "yukari-kosk-koyu-camii"
 description: "**Yukarı Köşk Köyü Camii: Ağrı'nın Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Tutak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.8489799,39.5638771"
 draft: "false"
 weight: "999"

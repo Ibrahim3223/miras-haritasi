@@ -5,10 +5,10 @@ slug: "fatih-resat-nuri-sahnesi"
 description: "## Fatih Reşat Nuri Sahnesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.95619858,41.0159179"
 draft: "false"
 weight: "999"

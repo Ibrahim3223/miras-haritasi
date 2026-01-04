@@ -5,10 +5,10 @@ slug: "hayrat-koprusu"
 description: "# Hayrat Köprüsü: Trabzon'un tarihi ve kültürel mirasının bir parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Hayrat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.367595,40.888556"
 draft: "false"
 weight: "999"

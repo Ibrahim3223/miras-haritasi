@@ -5,10 +5,10 @@ slug: "eskigediz-gazanfer-aga-hamami"
 description: "## Eskigediz Gazanfer Ağa Hamamı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Gediz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4130394,39.0422656"
 draft: "false"
 weight: "999"

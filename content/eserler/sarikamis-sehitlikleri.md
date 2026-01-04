@@ -5,10 +5,10 @@ slug: "sarikamis-sehitlikleri"
 description: "## Sarıkamış Şehitlikleri: Bir Anıtın Tarihçesi ve Önemi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Sarıkamış"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.6132,40.289"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "palodes"
 description: "## Palodes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.099572,41.123881"
 draft: "false"
 weight: "999"

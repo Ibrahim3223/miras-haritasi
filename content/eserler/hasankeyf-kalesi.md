@@ -5,10 +5,10 @@ slug: "hasankeyf-kalesi"
 description: "## Hasankeyf Kalesi: Geçmişten Geleceğe Bir Kahraman..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.410094,37.711979"
 draft: "false"
 weight: "999"

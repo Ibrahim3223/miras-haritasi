@@ -5,10 +5,10 @@ slug: "serhazir-suleyman-aga-cami"
 description: "## Serhazir Süleyman Ağa Cami: Tarihî Bir Anıtın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Serhazir_Süleyman_Aga_Mosque_1.jpg/1200px-Serhazir_Süleyman_Aga_Mosque_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.05288,41.09788"
 draft: "false"
 weight: "10"

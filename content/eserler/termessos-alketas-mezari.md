@@ -5,10 +5,10 @@ slug: "termessos-alketas-mezari"
 description: "### Termessos Alketas Mezarı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.4605999,36.9850998"
 draft: "false"
 weight: "999"

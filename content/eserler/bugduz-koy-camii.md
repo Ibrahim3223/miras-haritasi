@@ -5,10 +5,10 @@ slug: "bugduz-koy-camii"
 description: "## Büğdüz Köy Camii: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0844212,39.8525009"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pinarcik-kalesi"
 description: "## Pınarcık Kalesi: Bilecik'te Bir Tarihçe ve Edebiyatın Kaynakları..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0526104,40.2906189"
 draft: "false"
 weight: "999"

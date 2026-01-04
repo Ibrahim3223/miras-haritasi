@@ -5,10 +5,10 @@ slug: "dekaton"
 description: "## Dekaton: Geçmişin Gizemli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.097628,40.72108"
 draft: "false"
 weight: "999"

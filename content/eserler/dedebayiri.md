@@ -5,10 +5,10 @@ slug: "dedebayiri"
 description: "## Dedebayırı: Karacabey'in Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3721046,40.2557526"
 draft: "false"
 weight: "999"

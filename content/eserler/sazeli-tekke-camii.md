@@ -5,10 +5,10 @@ slug: "sazeli-tekke-camii"
 description: "## Şazeli Tekke Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Şazeli_Tekke_Mosque_10.jpg/1200px-Şazeli_Tekke_Mosque_10.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.960042,41.022719"
 draft: "false"
 weight: "10"

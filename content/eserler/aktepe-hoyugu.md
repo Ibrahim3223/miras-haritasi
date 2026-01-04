@@ -5,10 +5,10 @@ slug: "aktepe-hoyugu"
 description: "## Aktepe Höyüğü: Diyarbakır'ın Gizli Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.5698934,37.7246337"
 draft: "false"
 weight: "999"

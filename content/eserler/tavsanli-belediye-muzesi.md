@@ -5,10 +5,10 @@ slug: "tavsanli-belediye-muzesi"
 description: "### Tavşanlı Belediye Müzesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.491108,39.544009"
 draft: "false"
 weight: "999"

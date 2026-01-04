@@ -5,10 +5,10 @@ slug: "bayram-celebi-camii-yenikapi"
 description: "### Bayram Çelebi Camii Yenikapı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9543877,41.0053864"
 draft: "false"
 weight: "999"

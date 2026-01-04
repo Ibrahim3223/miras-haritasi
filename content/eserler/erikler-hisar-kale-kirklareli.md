@@ -5,10 +5,10 @@ slug: "erikler-hisar-kale-kirklareli"
 description: "# Erikler Hisar Kale: Kırklareli'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.1142368,41.9136086"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aralla"
 description: "# Aralla: Bir Eski Sitin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Aralla_de_Luna_01_by-dpc.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.151896,38.434969"
 draft: "false"
 weight: "999"

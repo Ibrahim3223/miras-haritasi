@@ -5,10 +5,10 @@ slug: "haci-mustafa-aga-camii"
 description: "## Hacı Mustafa Ağa Camii: Konya'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.5087318,37.8747063"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hagios-contantinos-kilisesi"
 description: "## Hagios Contantinos Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.9975624,36.5332832"
 draft: "false"
 weight: "999"

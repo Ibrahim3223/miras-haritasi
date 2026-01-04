@@ -5,10 +5,10 @@ slug: "klazomenai-antik-tiyatrosu"
 description: "## Klazomenai Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.788855,38.376293"
 draft: "false"
 weight: "999"

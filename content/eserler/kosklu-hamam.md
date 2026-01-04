@@ -5,10 +5,10 @@ slug: "kosklu-hamam"
 description: "**Köşklü Hamam**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9627171,41.0065651"
 draft: "false"
 weight: "999"

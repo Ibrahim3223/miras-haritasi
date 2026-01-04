@@ -5,10 +5,10 @@ slug: "isa-bey-fenari-camii"
 description: "## İsa Bey Fenari Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0506344,40.1863861"
 draft: "false"
 weight: "999"

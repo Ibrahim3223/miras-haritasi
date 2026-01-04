@@ -5,10 +5,10 @@ slug: "ciftekopru-arhavi"
 description: "# Çifteköprü, Arhavi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Arhavi_çifte_köprüler.jpg/1200px-Arhavi_çifte_köprüler.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Arhavi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.375735,41.276129"
 draft: "false"
 weight: "10"

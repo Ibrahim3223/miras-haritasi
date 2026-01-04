@@ -5,10 +5,10 @@ slug: "midas-kale"
 description: "### Midas Kale: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.7135582,39.1992378"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "15-temmuz-sehitler-aniti"
 description: "## 15 Temmuz Şehitler Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0986156,41.2076149"
 draft: "false"
 weight: "999"

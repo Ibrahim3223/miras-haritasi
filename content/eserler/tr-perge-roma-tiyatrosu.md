@@ -5,10 +5,10 @@ slug: "tr-perge-roma-tiyatrosu"
 description: "## Perge Roma Tiyatrosu: Antik Çağın Büyüleyici Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Antalya,_PERGE.JPG/1200px-Antalya,_PERGE.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.8511971,36.9580113"
 draft: "false"
 weight: "10"

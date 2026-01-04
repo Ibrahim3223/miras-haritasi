@@ -5,10 +5,10 @@ slug: "hardal-koyu-camii-sarkisla"
 description: "## Hardal Köyü Camii, Şarkışla..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Şarkışla"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.2558479,39.4798927"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "halic-koprusu"
 description: "## Haliç Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DSC04814_Istanbul_-_Vista_del_Corno_d'Oro_dal_café_Loti_di_Eyüp_-_Foto_G._Dall'Orto_30-5-2006.jpg/1200px-DSC04814_Istanbul_-_Vista_del_Corno_d'Oro_dal_café_Loti_di_Eyüp_-_Foto_G._Dall'Orto_30-5-2006.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.94178,41.04362"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "colaklar-koprusu"
 description: "## Çolaklar Köprüsü: İslahiye'nin Taşlı Anıtı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "İslahiye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.686127,36.96286"
 draft: "false"
 weight: "999"

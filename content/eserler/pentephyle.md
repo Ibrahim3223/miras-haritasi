@@ -5,10 +5,10 @@ slug: "pentephyle"
 description: "# Pentephyle Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.003834,40.966819"
 draft: "false"
 weight: "999"

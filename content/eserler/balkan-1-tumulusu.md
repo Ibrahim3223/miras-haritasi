@@ -5,10 +5,10 @@ slug: "balkan-1-tumulusu"
 description: "## Balkan 1 Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8436432,41.7409935"
 draft: "false"
 weight: "999"

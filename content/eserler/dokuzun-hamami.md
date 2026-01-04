@@ -5,10 +5,10 @@ slug: "dokuzun-hamami"
 description: "## Dokuzun Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.3269005,37.9179993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bizans-kilisesi"
 description: "## Bizans Kilisesi: Marmaris'in Gizli Tarihi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.127573,36.7716141"
 draft: "false"
 weight: "999"

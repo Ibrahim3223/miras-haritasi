@@ -5,10 +5,10 @@ slug: "suleymaniye-camii-edirne"
 description: "## Süleymaniye Camii, Edirne..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Gazi_Süleyman_Paşa_in_2024_5802.jpg/1200px-Gazi_Süleyman_Paşa_in_2024_5802.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.557718465,41.667785917"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "aya-haralambos-rum-ortodoks-kilisesi"
 description: "### Aya Haralambos Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.917593,40.9992867"
 draft: "false"
 weight: "999"

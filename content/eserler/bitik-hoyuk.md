@@ -5,10 +5,10 @@ slug: "bitik-hoyuk"
 description: "## Bitik Höyük: Kahramankazan'ın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kahramankazan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.6218948,40.1214485"
 draft: "false"
 weight: "999"

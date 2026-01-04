@@ -5,10 +5,10 @@ slug: "basdag-kalesi"
 description: "# Başdağ Kalesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.1589966,37.3732872"
 draft: "false"
 weight: "999"

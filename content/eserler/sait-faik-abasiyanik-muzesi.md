@@ -5,10 +5,10 @@ slug: "sait-faik-abasiyanik-muzesi"
 description: "# Sait Faik Abasıyanık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sait_faik_burgazada.jpg/1200px-Sait_faik_burgazada.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0675,40.88111111"
 draft: "false"
 weight: "10"

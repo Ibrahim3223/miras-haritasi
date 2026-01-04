@@ -5,10 +5,10 @@ slug: "kanberli-kopru"
 description: "## Kanberli Köprü: Gümüşhane'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.46255,40.48286"
 draft: "false"
 weight: "999"

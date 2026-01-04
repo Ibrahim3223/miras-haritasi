@@ -5,10 +5,10 @@ slug: "salyazi-hoyugu"
 description: "### Salyazı Höyüğü: Gümüşhane'de Geçmişin İzleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Köse"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.8164921,40.2517646"
 draft: "false"
 weight: "999"

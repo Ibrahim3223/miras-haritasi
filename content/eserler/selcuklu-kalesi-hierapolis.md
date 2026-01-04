@@ -5,10 +5,10 @@ slug: "selcuklu-kalesi-hierapolis"
 description: "### Selçuklu Kalesi, Hierapolis..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.1221695,37.924633"
 draft: "false"
 weight: "999"

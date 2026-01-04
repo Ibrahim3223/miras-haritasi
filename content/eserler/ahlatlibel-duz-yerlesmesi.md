@@ -5,10 +5,10 @@ slug: "ahlatlibel-duz-yerlesmesi"
 description: "## Ahlatlıbel Düz Yerleşmesi: Ankara'nın Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.810222222,39.839805555"
 draft: "false"
 weight: "999"

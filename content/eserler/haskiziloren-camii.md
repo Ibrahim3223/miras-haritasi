@@ -5,10 +5,10 @@ slug: "haskiziloren-camii"
 description: "## Haskızılören Camii: Serik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.977993,37.293019"
 draft: "false"
 weight: "999"

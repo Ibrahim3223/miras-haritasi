@@ -5,10 +5,10 @@ slug: "kalabak-koprusu"
 description: "## Kalabak Köprüsü: Aliağa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1133327,38.8399582"
 draft: "false"
 weight: "999"

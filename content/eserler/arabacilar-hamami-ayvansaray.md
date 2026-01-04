@@ -5,10 +5,10 @@ slug: "arabacilar-hamami-ayvansaray"
 description: "### Arabacılar Hamamı Ayvansaray: İstanbul'un Tarihsel Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.942435,41.035997"
 draft: "false"
 weight: "999"

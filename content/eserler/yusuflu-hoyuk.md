@@ -5,10 +5,10 @@ slug: "yusuflu-hoyuk"
 description: "## Yusuflu Höyük: Türk Tarihinin Gizli Kahramanı..."
 featured_image: ""
 province: "Fransız Suriye ve Lübnan Mandası"
-iller: '["Fransız Suriye ve Lübnan Mandası"]'
+iller: ["Fransız Suriye ve Lübnan Mandası"]
 district: "Kırıkhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.431816,36.576553"
 draft: "false"
 weight: "999"

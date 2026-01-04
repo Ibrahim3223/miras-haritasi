@@ -5,10 +5,10 @@ slug: "selcuk-aziziye-camlik-eski-demiryolu-koprusu"
 description: "## Selçuk – Aziziye (Çamlık) Eski Demiryolu Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3793888,37.9229393"
 draft: "false"
 weight: "999"

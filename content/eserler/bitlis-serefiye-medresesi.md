@@ -5,10 +5,10 @@ slug: "bitlis-serefiye-medresesi"
 description: "## Bitlis Şerefiye Medresesi: Bir İhtişamın Kalıntısı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.1073532,38.3993454"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-5-emniyet"
 description: "## Ankara Frig Tümülüsü 5, Emniyet: Geçmişten bugüne..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8173294,39.9329338"
 draft: "false"
 weight: "999"

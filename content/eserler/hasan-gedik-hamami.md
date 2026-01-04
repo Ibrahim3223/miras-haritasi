@@ -5,10 +5,10 @@ slug: "hasan-gedik-hamami"
 description: "## Hasan Gedik Hamamı: Suşehri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Suşehri"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.0915868,40.1635825"
 draft: "false"
 weight: "999"

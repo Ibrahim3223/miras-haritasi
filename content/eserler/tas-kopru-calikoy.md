@@ -5,10 +5,10 @@ slug: "tas-kopru-calikoy"
 description: "### Taş Köprü, Çalıköy: Edirne'nin Tarihi Çırası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6086102,41.2975845"
 draft: "false"
 weight: "999"

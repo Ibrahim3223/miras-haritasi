@@ -5,10 +5,10 @@ slug: "baba-yusuf-bayrami-kabri"
 description: "## Baba Yusuf Bayrami Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9333973,41.0483284"
 draft: "false"
 weight: "999"

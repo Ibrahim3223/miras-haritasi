@@ -5,10 +5,10 @@ slug: "nausikleia"
 description: "## Nausikleia: Beykoz'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.065455,41.078182"
 draft: "false"
 weight: "999"

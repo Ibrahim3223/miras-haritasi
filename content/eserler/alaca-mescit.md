@@ -5,10 +5,10 @@ slug: "alaca-mescit"
 description: "### Alaca Mescit: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alaca_Mescit_Camii_2025_-_i%C3%A7_pan2.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9693584,41.0250206"
 draft: "false"
 weight: "999"

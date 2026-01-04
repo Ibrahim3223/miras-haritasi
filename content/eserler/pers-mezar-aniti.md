@@ -5,10 +5,10 @@ slug: "pers-mezar-aniti"
 description: "### Pers Mezar Anıtı: Foça'daki Eskiçağ Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Taş_Kule_1.jpg/1200px-Taş_Kule_1.jpg"
 province: "Foça"
-iller: '["Foça"]'
+iller: ["Foça"]
 district: "Yenibağarası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.822583333,38.660444444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "garipce-kalesi-camii"
 description: "## Garipçe Kalesi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.109958218,41.214422811"
 draft: "false"
 weight: "999"

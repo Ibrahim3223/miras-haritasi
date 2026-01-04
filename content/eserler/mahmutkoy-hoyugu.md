@@ -5,10 +5,10 @@ slug: "mahmutkoy-hoyugu"
 description: "## Mahmutköy Höyüğü: Edirne'nin Eski İnsanının Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.723341,40.7624588"
 draft: "false"
 weight: "999"

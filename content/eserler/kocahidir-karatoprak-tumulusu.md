@@ -5,10 +5,10 @@ slug: "kocahidir-karatoprak-tumulusu"
 description: "## Kocahıdır Karatoprak Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9103909,41.6388092"
 draft: "false"
 weight: "999"

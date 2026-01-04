@@ -5,10 +5,10 @@ slug: "besir-aga-hamami"
 description: "### Beşir Ağa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9823151,41.0117073"
 draft: "false"
 weight: "999"

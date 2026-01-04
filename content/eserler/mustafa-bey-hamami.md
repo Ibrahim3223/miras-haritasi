@@ -5,10 +5,10 @@ slug: "mustafa-bey-hamami"
 description: "# Mustafa Bey Hamamı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.835467,40.6541215"
 draft: "false"
 weight: "999"

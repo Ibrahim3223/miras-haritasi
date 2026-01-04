@@ -5,10 +5,10 @@ slug: "gazez-camii"
 description: "## Gazez Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0645008,38.6081009"
 draft: "false"
 weight: "999"

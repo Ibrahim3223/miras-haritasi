@@ -5,10 +5,10 @@ slug: "safran-hani-mescidi"
 description: "## Safran Hanı Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.862703207,39.937264271"
 draft: "false"
 weight: "999"

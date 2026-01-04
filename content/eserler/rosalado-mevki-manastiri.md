@@ -5,10 +5,10 @@ slug: "rosalado-mevki-manastiri"
 description: "### Rosalado Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8729,40.1935997"
 draft: "false"
 weight: "999"

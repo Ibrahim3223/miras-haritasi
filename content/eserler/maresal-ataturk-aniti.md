@@ -5,10 +5,10 @@ slug: "maresal-ataturk-aniti"
 description: "### Mareşal Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Mareşal_Atatürk_Anıtı.jpg/1200px-Mareşal_Atatürk_Anıtı.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.85472222,39.92472222"
 draft: "false"
 weight: "10"

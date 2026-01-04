@@ -5,10 +5,10 @@ slug: "roma-koprusu-bedirbey"
 description: "### Roma Köprüsü, Bedirbey..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Acıpayam"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.4313049,37.348774"
 draft: "false"
 weight: "999"

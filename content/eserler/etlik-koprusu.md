@@ -5,10 +5,10 @@ slug: "etlik-koprusu"
 description: "## Etlik Köprüsü: Keçiören'in Tarihi Yüzyıllara Sahibi Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Keçiören"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8474731,39.9605179"
 draft: "false"
 weight: "999"

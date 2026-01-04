@@ -5,10 +5,10 @@ slug: "mor-abrohom-manastiri"
 description: "## Mor Abrohom Manastırı: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/MorHobilMorAbrohomMonastery4.jpg/1200px-MorHobilMorAbrohomMonastery4.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.38818728,37.413317165"
 draft: "false"
 weight: "10"

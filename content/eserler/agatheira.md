@@ -5,10 +5,10 @@ slug: "agatheira"
 description: "## Agatheira: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.683354,38.661362"
 draft: "false"
 weight: "999"

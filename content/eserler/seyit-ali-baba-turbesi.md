@@ -5,10 +5,10 @@ slug: "seyit-ali-baba-turbesi"
 description: "## Seyit Ali Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0768795,40.9876137"
 draft: "false"
 weight: "999"

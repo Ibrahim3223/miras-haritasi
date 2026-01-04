@@ -5,10 +5,10 @@ slug: "darussaade-agasi-mehmet-aga-medresesi"
 description: "### Darüssaade Ağası Mehmet Ağa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.974143,41.008477"
 draft: "false"
 weight: "999"

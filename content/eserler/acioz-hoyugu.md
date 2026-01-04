@@ -5,10 +5,10 @@ slug: "acioz-hoyugu"
 description: "### Acıöz Höyüğü..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.1382444,38.9986001"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eiokome"
 description: "### Eiokome: Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.31044,39.386076"
 draft: "false"
 weight: "999"

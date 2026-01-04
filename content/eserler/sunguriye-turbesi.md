@@ -5,10 +5,10 @@ slug: "sunguriye-turbesi"
 description: "## Sunguriye Türbesi: Niksar'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.961916666,40.589722222"
 draft: "false"
 weight: "999"

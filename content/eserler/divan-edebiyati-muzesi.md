@@ -5,10 +5,10 @@ slug: "divan-edebiyati-muzesi"
 description: "## Divan Edebiyatı Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

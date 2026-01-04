@@ -5,10 +5,10 @@ slug: "haramidere-koprusu"
 description: "## Haramidere Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Haramidere_Bridge_Istanbul.png/1200px-Haramidere_Bridge_Istanbul.png"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beylikdüzü"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.67907,41.00507"
 draft: "false"
 weight: "10"

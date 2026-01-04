@@ -5,10 +5,10 @@ slug: "birgena"
 description: "## Birgena Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.185373,39.046379"
 draft: "false"
 weight: "999"

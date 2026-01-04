@@ -5,10 +5,10 @@ slug: "uzungol-filak-camii"
 description: "### Uzungöl Filak Camii: Trabzon'un Gizli Çehresini İfade Eden Bir Örnek..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2830009,40.632"
 draft: "false"
 weight: "999"

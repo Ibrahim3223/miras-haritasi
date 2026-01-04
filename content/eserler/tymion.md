@@ -5,10 +5,10 @@ slug: "tymion"
 description: "## Tymion: Uşak'ın Eski Yunan Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4325,38.48694444"
 draft: "false"
 weight: "999"

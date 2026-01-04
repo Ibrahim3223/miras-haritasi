@@ -5,10 +5,10 @@ slug: "kulapa-hoyuk"
 description: "## Kulapa Höyük: Eskişehir'in Gizli Hazinesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.821252,39.239649"
 draft: "false"
 weight: "999"

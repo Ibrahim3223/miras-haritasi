@@ -5,10 +5,10 @@ slug: "ana-sultan-turbesi"
 description: "### Ana Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0942497,39.2569427"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arkadios-sutunu"
 description: "# Arkadios Sütunu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cambridge,_Trinity_College,_ms._O.17.2_(11).jpg/1200px-Cambridge,_Trinity_College,_ms._O.17.2_(11).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9431,41.0078"
 draft: "false"
 weight: "10"

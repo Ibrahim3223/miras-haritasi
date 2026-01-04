@@ -5,10 +5,10 @@ slug: "arslan-dede-turbesi"
 description: "## Arslan Dede Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.405,40.1481"
 draft: "false"
 weight: "999"

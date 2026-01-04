@@ -5,10 +5,10 @@ slug: "maydos-kilisetepe-hoyugu"
 description: "## Maydos Kilisetepe Höyüğü: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.355983,40.1849"
 draft: "false"
 weight: "999"

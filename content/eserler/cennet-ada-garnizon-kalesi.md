@@ -5,10 +5,10 @@ slug: "cennet-ada-garnizon-kalesi"
 description: "## Cennet Ada Garnizon Kalesi: Marmaris'in Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.287899,36.8037987"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "helvaci-baba-mescidi-ve-turbesi"
 description: "# Helvacı Baba Mescidi ve Türbesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5640984,41.6746063"
 draft: "false"
 weight: "999"

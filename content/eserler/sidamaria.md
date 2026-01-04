@@ -5,10 +5,10 @@ slug: "sidamaria"
 description: "## Sidamaria Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.63103,37.48053"
 draft: "false"
 weight: "999"

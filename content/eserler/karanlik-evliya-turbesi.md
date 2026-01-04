@@ -5,10 +5,10 @@ slug: "karanlik-evliya-turbesi"
 description: "### Karanlık Evliya Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.772395,41.37449"
 draft: "false"
 weight: "999"

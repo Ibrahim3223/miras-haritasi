@@ -5,10 +5,10 @@ slug: "madnasa"
 description: "### Madnasa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3693,37.1143"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "canli-koprusu"
 description: "## Çanlı Köprüsü: Uşak'ın Tarihî Mirası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.452805,38.6363642"
 draft: "false"
 weight: "999"

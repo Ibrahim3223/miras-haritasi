@@ -5,10 +5,10 @@ slug: "yesilli-cami-balikesir"
 description: "## Yeşilli Camii: Balıkesir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balıkesir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.881972222,39.647305555"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "siderus-lykia"
 description: "### Siderus (Lykia)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.502508,36.3656731"
 draft: "false"
 weight: "999"

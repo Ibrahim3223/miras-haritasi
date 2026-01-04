@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-kaskad-kosku"
 description: "# Yıldız Sarayı Kaskad Köşkü: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.011972535,41.050781077"
 draft: "false"
 weight: "999"

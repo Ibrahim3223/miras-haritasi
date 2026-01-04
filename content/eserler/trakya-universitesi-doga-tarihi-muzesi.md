@@ -5,10 +5,10 @@ slug: "trakya-universitesi-doga-tarihi-muzesi"
 description: "## Trakya Üniversitesi Doğa Tarihi Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5205669,41.6521645"
 draft: "false"
 weight: "999"

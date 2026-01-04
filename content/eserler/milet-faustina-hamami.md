@@ -5,10 +5,10 @@ slug: "milet-faustina-hamami"
 description: "## Milet Faustina Hamamı: İyonya'nın Gizli Çarpıntısı..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2766933,37.5284462"
 draft: "false"
 weight: "999"

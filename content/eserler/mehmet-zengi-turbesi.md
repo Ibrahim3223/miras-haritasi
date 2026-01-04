@@ -5,10 +5,10 @@ slug: "mehmet-zengi-turbesi"
 description: "## Mehmet Zengi Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4987822,38.715488"
 draft: "false"
 weight: "999"

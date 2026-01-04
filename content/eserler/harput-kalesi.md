@@ -5,10 +5,10 @@ slug: "harput-kalesi"
 description: "### Harput Kalesi: Tarihî Bir Mirasın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Festung_Harput.jpg/1200px-Festung_Harput.jpg"
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.2574,38.7034"
 draft: "false"
 weight: "10"

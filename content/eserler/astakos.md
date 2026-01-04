@@ -5,10 +5,10 @@ slug: "astakos"
 description: "# Astakos: Kocaeli'nin Gizli Arkeolojik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Astakos0197.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.928794,40.714558"
 draft: "false"
 weight: "999"

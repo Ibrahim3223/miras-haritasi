@@ -5,10 +5,10 @@ slug: "kadioglu-hamami"
 description: "## Kadıoğlu Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.5326252,38.4040489"
 draft: "false"
 weight: "999"

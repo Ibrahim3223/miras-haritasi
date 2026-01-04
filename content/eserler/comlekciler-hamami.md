@@ -5,10 +5,10 @@ slug: "comlekciler-hamami"
 description: "## Çömlekçiler Hamamı: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.935821,41.042971"
 draft: "false"
 weight: "999"

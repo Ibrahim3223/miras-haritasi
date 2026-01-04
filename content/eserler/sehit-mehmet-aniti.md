@@ -5,10 +5,10 @@ slug: "sehit-mehmet-aniti"
 description: "# Şehit Mehmet Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2777004,38.2937012"
 draft: "false"
 weight: "999"

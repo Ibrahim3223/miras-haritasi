@@ -5,10 +5,10 @@ slug: "agios-ioannis-kilisesi"
 description: "**Agios İoannis Kilisesi: Talas'ta Bir Tarihî Çanak**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.585516,38.640739"
 draft: "false"
 weight: "999"

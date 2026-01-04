@@ -5,10 +5,10 @@ slug: "ataturk-orman-ciftligi-hamami"
 description: "## Atatürk Orman Çiftliği Hamamı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.7967644,39.9389153"
 draft: "false"
 weight: "999"

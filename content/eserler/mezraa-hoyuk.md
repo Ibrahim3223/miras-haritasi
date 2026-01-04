@@ -5,10 +5,10 @@ slug: "mezraa-hoyuk"
 description: "# Mezraa Höyük: Şanlıurfa'nın Gizli Öreni..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.9977085,36.9704375"
 draft: "false"
 weight: "999"

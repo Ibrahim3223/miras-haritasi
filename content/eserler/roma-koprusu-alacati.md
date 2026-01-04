@@ -5,10 +5,10 @@ slug: "roma-koprusu-alacati"
 description: "## Roma Köprüsü, Alaçatı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.39793,38.275639"
 draft: "false"
 weight: "999"

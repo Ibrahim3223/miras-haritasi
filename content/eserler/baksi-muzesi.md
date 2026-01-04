@@ -5,10 +5,10 @@ slug: "baksi-muzesi"
 description: "## Baksı Müzesi: Bayraptaki Tarihî Bir Müze..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Baksimuseum.jpg/1200px-Baksimuseum.jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayraktar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.566417,40.385639"
 draft: "false"
 weight: "10"

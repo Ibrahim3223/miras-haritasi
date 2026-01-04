@@ -5,10 +5,10 @@ slug: "kozagaci-camii"
 description: "## Kozağacı Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.9389341,36.9261539"
 draft: "false"
 weight: "999"

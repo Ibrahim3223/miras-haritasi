@@ -5,10 +5,10 @@ slug: "doganpinar-hoyuk"
 description: "# Doğanpınar Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.6235333,36.8414826"
 draft: "false"
 weight: "999"

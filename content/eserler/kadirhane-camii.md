@@ -5,10 +5,10 @@ slug: "kadirhane-camii"
 description: "### Kadirhane Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2184486,37.1821938"
 draft: "false"
 weight: "999"

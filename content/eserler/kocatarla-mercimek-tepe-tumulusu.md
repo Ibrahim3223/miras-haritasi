@@ -5,10 +5,10 @@ slug: "kocatarla-mercimek-tepe-tumulusu"
 description: "## Kocatarla Mercimek Tepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0803146,41.945591"
 draft: "false"
 weight: "999"

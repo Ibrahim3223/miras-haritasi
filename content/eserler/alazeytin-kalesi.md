@@ -5,10 +5,10 @@ slug: "alazeytin-kalesi"
 description: "**Alazeytin Kalesi: Bodrum'un Gizli Kahramanı**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.541166666,37.019388888"
 draft: "false"
 weight: "999"

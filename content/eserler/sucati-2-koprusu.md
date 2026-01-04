@@ -5,10 +5,10 @@ slug: "sucati-2-koprusu"
 description: "### Suçatı 2 Köprüsü: Pazar'da Bir Klasik..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.8948898,41.0974887"
 draft: "false"
 weight: "999"

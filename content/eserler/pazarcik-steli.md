@@ -5,10 +5,10 @@ slug: "pazarcik-steli"
 description: "### Pazarcık Steli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Kahramanmaras_Museum_Keilschrift_Gözlügöl.jpg/1200px-Kahramanmaras_Museum_Keilschrift_Gözlügöl.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Pazarcık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.2907753,37.4243698"
 draft: "false"
 weight: "10"

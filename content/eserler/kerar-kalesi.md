@@ -5,10 +5,10 @@ slug: "kerar-kalesi"
 description: "## Kerar Kalesi: Pütürge'nin Tarihî Ören Yeri..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Pütürge"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.8162193,38.2323494"
 draft: "false"
 weight: "999"

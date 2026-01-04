@@ -5,10 +5,10 @@ slug: "cukurpinar-meselitepe-a-tumulusu"
 description: "## Çukurpınar Meşelitepe A Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4703255,41.8402176"
 draft: "false"
 weight: "999"

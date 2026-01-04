@@ -5,10 +5,10 @@ slug: "kurtbaba-hoyugu"
 description: "## Kurtbaba Höyüğü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.5334552,38.4014358"
 draft: "false"
 weight: "999"

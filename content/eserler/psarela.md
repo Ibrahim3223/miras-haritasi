@@ -5,10 +5,10 @@ slug: "psarela"
 description: "## Psarela: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.65718,40.913268"
 draft: "false"
 weight: "999"

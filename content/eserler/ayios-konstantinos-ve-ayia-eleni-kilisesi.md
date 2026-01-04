@@ -5,10 +5,10 @@ slug: "ayios-konstantinos-ve-ayia-eleni-kilisesi"
 description: "## Ayios Konstantinos ve Ayia Eleni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Fassade_St.-Konstantin-und-Helena-Kirche.jpg/1200px-Fassade_St.-Konstantin-und-Helena-Kirche.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.97666667,41.03777778"
 draft: "false"
 weight: "10"

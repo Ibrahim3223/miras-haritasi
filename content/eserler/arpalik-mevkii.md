@@ -5,10 +5,10 @@ slug: "arpalik-mevkii"
 description: "### Arpalık Mevkii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.677667,38.417917"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aphrodisias-stadium"
 description: "### Aphrodisias Stadyumu: Antik Dönemin Altın Vuruşları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c8/Aphrodisias_stadium.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.721989132,37.712525985"
 draft: "false"
 weight: "999"

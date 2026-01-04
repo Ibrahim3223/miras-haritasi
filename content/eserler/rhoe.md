@@ -5,10 +5,10 @@ slug: "rhoe"
 description: "## Ege'nin Gizemi: Rhoe Antik Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.227622,41.168505"
 draft: "false"
 weight: "999"

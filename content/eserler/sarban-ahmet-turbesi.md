@@ -5,10 +5,10 @@ slug: "sarban-ahmet-turbesi"
 description: "## Sarban Ahmet Türbesi: Hayrabolu' nun Tarihsel Ören Yeri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Hayrabolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.105257418,41.216891527"
 draft: "false"
 weight: "999"

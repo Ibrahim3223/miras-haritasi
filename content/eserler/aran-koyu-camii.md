@@ -5,10 +5,10 @@ slug: "aran-koyu-camii"
 description: "## Aran Köyü Camii..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7492142,37.4476471"
 draft: "false"
 weight: "999"

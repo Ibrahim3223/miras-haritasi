@@ -5,10 +5,10 @@ slug: "ayn-i-ali-turbesi"
 description: "## Ayn-i Ali Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4214,38.6134"
 draft: "false"
 weight: "999"

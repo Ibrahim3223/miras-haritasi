@@ -5,10 +5,10 @@ slug: "yusuftepe-hoyugu"
 description: "## Yusuftepe Höyüğü: Manisa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.681654,38.6116219"
 draft: "false"
 weight: "999"

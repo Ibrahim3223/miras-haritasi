@@ -5,10 +5,10 @@ slug: "pervane-medresesi"
 description: "### Pervane Medresesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Pervane_Medresesi.JPG/1200px-Pervane_Medresesi.JPG"
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.14831,42.02693"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ahi-sultan-kizi-turbesi"
 description: "## Ahi Sultan Kızı Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.703822,36.88559"
 draft: "false"
 weight: "999"

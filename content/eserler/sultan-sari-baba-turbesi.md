@@ -5,10 +5,10 @@ slug: "sultan-sari-baba-turbesi"
 description: "# Sultan Sarı Baba Türbesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Sarayköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.7655754,37.9079742"
 draft: "false"
 weight: "999"

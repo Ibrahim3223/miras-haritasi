@@ -5,10 +5,10 @@ slug: "uskup-kumtepeler-c-tumulusu"
 description: "## Üsküp Kumtepeler C Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.378067,41.7619133"
 draft: "false"
 weight: "999"

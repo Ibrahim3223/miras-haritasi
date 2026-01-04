@@ -5,10 +5,10 @@ slug: "carpiran-ii-kopru"
 description: "## Çarpiran II. Köprü: Siirt'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arpiran_II._Kpr_1761631585.jpg/1200px-Arpiran_II._Kpr_1761631585.jpg"
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Baykan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.8232274,38.175549"
 draft: "false"
 weight: "10"

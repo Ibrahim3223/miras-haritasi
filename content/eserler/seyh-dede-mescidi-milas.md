@@ -5,10 +5,10 @@ slug: "seyh-dede-mescidi-milas"
 description: "## Şeyh Dede Mescidi, Milas..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.817522,37.3148232"
 draft: "false"
 weight: "999"

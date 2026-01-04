@@ -5,10 +5,10 @@ slug: "carsi-camii-buldan"
 description: "## Çarşı Camii, Buldan..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Buldan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8276424,38.0468521"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hektor-tumulusu"
 description: "## Hektor Tümülüsü: Çanakkale'nin Gizli Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.3419991,40.0239105"
 draft: "false"
 weight: "999"

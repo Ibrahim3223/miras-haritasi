@@ -5,10 +5,10 @@ slug: "kalanuro-tepesi"
 description: "**Kalanoro Tepesi: Çanakkale'nin Gizli Arkeolojik Harikası**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6292,40.367567"
 draft: "false"
 weight: "999"

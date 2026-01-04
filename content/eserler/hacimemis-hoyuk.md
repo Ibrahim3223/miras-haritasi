@@ -5,10 +5,10 @@ slug: "hacimemis-hoyuk"
 description: "### Hacımemiş Höyük: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.091545226,37.505896949"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bafra-ulu-camii"
 description: "### Bafra Ulu Camii: Tarih, Mimarisi ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.902305555,41.569944444"
 draft: "false"
 weight: "999"

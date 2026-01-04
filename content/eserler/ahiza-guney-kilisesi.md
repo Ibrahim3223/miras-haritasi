@@ -5,10 +5,10 @@ slug: "ahiza-guney-kilisesi"
 description: "### Ahiza (Güney) Kilisesi: Ferhatlı, Ardanuç'ta Bir Tarih Öreni..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Ferhatlı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.004375,41.132583333"
 draft: "false"
 weight: "999"

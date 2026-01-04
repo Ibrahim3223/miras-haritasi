@@ -5,10 +5,10 @@ slug: "morka"
 description: "### Morka..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.79518,37.11455"
 draft: "false"
 weight: "999"

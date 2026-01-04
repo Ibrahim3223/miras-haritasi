@@ -5,10 +5,10 @@ slug: "nea-eklezya"
 description: "### Nea Eklezya: İstanbul'un Gizli Ören Yeri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9775,41.003638888"
 draft: "false"
 weight: "999"

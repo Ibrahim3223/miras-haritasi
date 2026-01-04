@@ -5,10 +5,10 @@ slug: "metropolis-yukari-hamam-gymnasium"
 description: "## Metropolis Yukarı Hamam Gymnasium: Bir Önemli Kültürel Mirasın Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3242321,38.1258812"
 draft: "false"
 weight: "999"

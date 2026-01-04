@@ -5,10 +5,10 @@ slug: "er-rizk-camii"
 description: "### Er-Rızk Camii: Hasankeyf'in Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Hasankeyf_P1040963_20080425162608.JPG/1200px-Hasankeyf_P1040963_20080425162608.JPG"
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4113464,37.7138252"
 draft: "false"
 weight: "10"

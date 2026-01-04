@@ -5,10 +5,10 @@ slug: "pir-emir-camii"
 description: "# Pir Emir Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Piremir_sultan_camii_bursa_-_panoramio_(5).jpg/1200px-Piremir_sultan_camii_bursa_-_panoramio_(5).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0854454,40.1755562"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "evciler-viran-kale-kirklareli"
 description: "### Evciler Viran Kale: Kırklareli'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5794353,41.7282562"
 draft: "false"
 weight: "999"

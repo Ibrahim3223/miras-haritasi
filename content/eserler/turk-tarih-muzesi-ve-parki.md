@@ -5,10 +5,10 @@ slug: "turk-tarih-muzesi-ve-parki"
 description: "## Türk Tarih Müzesi ve Parkı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

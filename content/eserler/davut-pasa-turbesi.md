@@ -5,10 +5,10 @@ slug: "davut-pasa-turbesi"
 description: "## Davut Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.938066,41.006426"
 draft: "false"
 weight: "999"

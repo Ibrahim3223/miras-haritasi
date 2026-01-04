@@ -5,10 +5,10 @@ slug: "huseyin-efendi-camii"
 description: "## Hüseyin Efendi Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3057747,39.7703209"
 draft: "false"
 weight: "999"

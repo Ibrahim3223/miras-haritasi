@@ -5,10 +5,10 @@ slug: "kaleboynu-kalesi"
 description: "## Kaleboynu Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Andırın"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.4376831,37.6922455"
 draft: "false"
 weight: "999"

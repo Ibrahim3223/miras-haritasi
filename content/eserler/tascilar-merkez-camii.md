@@ -5,10 +5,10 @@ slug: "tascilar-merkez-camii"
 description: "## Taşçılar Merkez Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2113,40.7719"
 draft: "false"
 weight: "999"

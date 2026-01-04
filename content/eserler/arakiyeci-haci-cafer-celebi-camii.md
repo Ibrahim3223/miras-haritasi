@@ -5,10 +5,10 @@ slug: "arakiyeci-haci-cafer-celebi-camii"
 description: "## Arakiyeci Hacı Cafer Çelebi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Arakiyeci_Hacı_Cafer_Çelebi_Camii.jpg/1200px-Arakiyeci_Hacı_Cafer_Çelebi_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0218749,41.0158768"
 draft: "false"
 weight: "10"

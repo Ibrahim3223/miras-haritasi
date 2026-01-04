@@ -5,10 +5,10 @@ slug: "palai-skepsis-troad"
 description: "**Palai Skepsis (Troad): Bir Antik Kentin İzleri**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8034611,39.8526802"
 draft: "false"
 weight: "999"

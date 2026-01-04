@@ -5,10 +5,10 @@ slug: "sogutlu-ermeni-kilisesi"
 description: "### Söğütlü Ermeni Kilisesi..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.0649757,40.1985855"
 draft: "false"
 weight: "999"

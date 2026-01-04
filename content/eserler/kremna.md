@@ -5,10 +5,10 @@ slug: "kremna"
 description: "## Kremna Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/KremnaAntikKenti1.jpg/1200px-KremnaAntikKenti1.jpg"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.6911,37.50014"
 draft: "false"
 weight: "10"

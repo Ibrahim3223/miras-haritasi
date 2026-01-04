@@ -5,10 +5,10 @@ slug: "seyh-salih-efendi-turbesi"
 description: "## Şeyh Salih Efendi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.978176,39.420428"
 draft: "false"
 weight: "999"

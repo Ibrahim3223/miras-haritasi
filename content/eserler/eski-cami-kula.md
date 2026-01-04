@@ -5,10 +5,10 @@ slug: "eski-cami-kula"
 description: "### Eski Cami, Kula: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6491432,38.5476723"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "asagi-mumcu-camii"
 description: "## Aşağı Mumcu Camii..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2699318,39.9083672"
 draft: "false"
 weight: "999"

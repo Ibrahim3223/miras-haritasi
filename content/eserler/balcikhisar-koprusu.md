@@ -5,10 +5,10 @@ slug: "balcikhisar-koprusu"
 description: "## Balçıkhisar Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.65315358,37.433396049"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucukcalagil-hoyuk"
 description: "## Küçükçalağıl Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4213541,39.641033"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "besni-ulu-camii"
 description: "## Besni Ulu Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Besni"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.864305555,37.674638888"
 draft: "false"
 weight: "999"

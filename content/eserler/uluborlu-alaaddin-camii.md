@@ -5,10 +5,10 @@ slug: "uluborlu-alaaddin-camii"
 description: "## Uluborlu Alaaddin Camii..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Uluborlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.468611111,38.071333333"
 draft: "false"
 weight: "999"

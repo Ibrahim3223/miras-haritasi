@@ -5,10 +5,10 @@ slug: "st-jean-bazilikasi"
 description: "## St. Jean Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basilica_of_St._John_in_Ephesus_01.jpg/1200px-Basilica_of_St._John_in_Ephesus_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.36777778,37.9525"
 draft: "false"
 weight: "10"

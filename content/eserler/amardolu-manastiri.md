@@ -5,10 +5,10 @@ slug: "amardolu-manastiri"
 description: "## Amardolu Manastırı: Van'ın Gizli Mücevheri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Great_Armenia_location_map.png"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.116666666,38.4"
 draft: "false"
 weight: "999"

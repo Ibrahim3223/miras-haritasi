@@ -5,10 +5,10 @@ slug: "palu-hamami"
 description: "### Palu Hamamı: Elazığ'da Bir Tarihî Miras..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Palu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.9534064,38.699876"
 draft: "false"
 weight: "999"

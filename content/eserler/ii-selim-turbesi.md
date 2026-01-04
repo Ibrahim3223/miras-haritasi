@@ -5,10 +5,10 @@ slug: "ii-selim-turbesi"
 description: "## II. Selim Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9797344,41.0079155"
 draft: "false"
 weight: "999"

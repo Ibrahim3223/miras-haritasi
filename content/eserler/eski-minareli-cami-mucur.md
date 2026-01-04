@@ -5,10 +5,10 @@ slug: "eski-minareli-cami-mucur"
 description: "## Eski Minareli Cami, Mucur..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.373703,39.0586739"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "magnesia-kapisi-efes"
 description: "## Magnesia Kapısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.342111944,37.940246111"
 draft: "false"
 weight: "999"

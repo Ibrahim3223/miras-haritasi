@@ -5,10 +5,10 @@ slug: "maresal-mustafa-fevzi-cakmak-kabri"
 description: "## Mareşal Mustafa Fevzi Çakmak Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fevzi_Çakmak_kabir.jpg/1200px-Fevzi_Çakmak_kabir.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9330959,41.0499268"
 draft: "false"
 weight: "10"

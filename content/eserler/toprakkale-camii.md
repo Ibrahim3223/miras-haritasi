@@ -5,10 +5,10 @@ slug: "toprakkale-camii"
 description: "## Toprakkale Camii..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Eleşkirt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.8158951,39.8499107"
 draft: "false"
 weight: "999"

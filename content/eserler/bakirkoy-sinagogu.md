@@ -5,10 +5,10 @@ slug: "bakirkoy-sinagogu"
 description: "# Bakırköy Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.870922453,40.978284715"
 draft: "false"
 weight: "999"

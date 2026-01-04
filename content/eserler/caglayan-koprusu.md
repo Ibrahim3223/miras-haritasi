@@ -5,10 +5,10 @@ slug: "caglayan-koprusu"
 description: "## Çağlayan Köprüsü: Rize'nin Büyülü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Fındıklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.2308848,41.2565471"
 draft: "false"
 weight: "999"

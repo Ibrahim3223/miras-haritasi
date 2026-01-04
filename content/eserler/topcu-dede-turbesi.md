@@ -5,10 +5,10 @@ slug: "topcu-dede-turbesi"
 description: "**Topçu Dede Türbesi**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.458535,40.870094"
 draft: "false"
 weight: "999"

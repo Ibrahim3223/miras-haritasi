@@ -5,10 +5,10 @@ slug: "idris-pehlivan-turbesi"
 description: "## İdris Pehlivan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9217815,41.0142326"
 draft: "false"
 weight: "999"

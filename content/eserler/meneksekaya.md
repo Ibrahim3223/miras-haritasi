@@ -5,10 +5,10 @@ slug: "meneksekaya"
 description: "### Menekşekaya Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.509159,39.07119"
 draft: "false"
 weight: "999"

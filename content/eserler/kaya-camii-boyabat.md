@@ -5,10 +5,10 @@ slug: "kaya-camii-boyabat"
 description: "### Kaya Camii, Boyabat..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Boyabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7681313,41.4656296"
 draft: "false"
 weight: "999"

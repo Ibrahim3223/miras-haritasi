@@ -5,10 +5,10 @@ slug: "kirkgoz-koprusu"
 description: "## Kırkgöz Köprüsü: Bir Geçit Köprüsü Olarak Tarihe Yolculuk..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Kırkgöz_köprü.jpg/1200px-Kırkgöz_köprü.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.064888888,38.660611111"
 draft: "false"
 weight: "10"

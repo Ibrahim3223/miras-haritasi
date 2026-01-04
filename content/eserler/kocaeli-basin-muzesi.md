@@ -5,10 +5,10 @@ slug: "kocaeli-basin-muzesi"
 description: "# Kocaeli Basın Müzesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9198265,40.76474"
 draft: "false"
 weight: "999"

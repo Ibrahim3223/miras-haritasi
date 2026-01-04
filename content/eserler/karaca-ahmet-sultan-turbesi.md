@@ -5,10 +5,10 @@ slug: "karaca-ahmet-sultan-turbesi"
 description: "## Karaca Ahmet Sultan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.3468,39.0301"
 draft: "false"
 weight: "999"

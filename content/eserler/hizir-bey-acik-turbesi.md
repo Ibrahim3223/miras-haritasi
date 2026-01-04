@@ -5,10 +5,10 @@ slug: "hizir-bey-acik-turbesi"
 description: "## Hızır Bey Açık Türbesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9471512,38.4920616"
 draft: "false"
 weight: "999"

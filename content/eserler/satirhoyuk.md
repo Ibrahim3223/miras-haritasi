@@ -5,10 +5,10 @@ slug: "satirhoyuk"
 description: "# Şatırhöyük Arkeolojik Sit..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nurdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.9737238,37.2175854"
 draft: "false"
 weight: "999"

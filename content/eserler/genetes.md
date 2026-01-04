@@ -5,10 +5,10 @@ slug: "genetes"
 description: "## Genetes Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.8302,41.017"
 draft: "false"
 weight: "999"

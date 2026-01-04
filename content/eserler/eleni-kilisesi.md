@@ -5,10 +5,10 @@ slug: "eleni-kilisesi"
 description: "## Eleni Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.897227,38.583441"
 draft: "false"
 weight: "999"

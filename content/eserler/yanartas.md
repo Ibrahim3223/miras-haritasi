@@ -5,10 +5,10 @@ slug: "yanartas"
 description: "## Yanartaş: Tarihinin Gizemi ve Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chimaera-Yanartas,_SW_Turkey,_8_Aug_2005.jpg/1200px-Chimaera-Yanartas,_SW_Turkey,_8_Aug_2005.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.45583333,36.43138889"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "trt-yayincilik-tarihi-muzesi"
 description: "# TRT Yayıncılık Tarihi Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.842608,39.844542"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "herakleia-yerlesimi-cakalya-burnu"
 description: "## Herakleia Yerleşimi, Çakalya Burnu..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.722069,39.345675"
 draft: "false"
 weight: "999"

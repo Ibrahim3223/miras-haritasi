@@ -5,10 +5,10 @@ slug: "gotlar-sutunu"
 description: "### Gotlar Sütunu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/GothsColumn1.JPG/1200px-GothsColumn1.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.98544444,41.0145"
 draft: "false"
 weight: "10"

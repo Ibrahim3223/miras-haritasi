@@ -5,10 +5,10 @@ slug: "yagcilar-camii"
 description: "## Yağcılar Camii: Artvin'in Yüzyıllardır Bakılan Göz Bebekleri..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7451998,40.9436"
 draft: "false"
 weight: "999"

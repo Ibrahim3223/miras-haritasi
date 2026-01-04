@@ -5,10 +5,10 @@ slug: "fatih-ibrahim-bey-hamami"
 description: "## Fatih İbrahim Bey Hamamı:Urla, İzmir'de Bir Tarihsel Cennet..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.76581,38.3226662"
 draft: "false"
 weight: "999"

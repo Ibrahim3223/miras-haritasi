@@ -5,10 +5,10 @@ slug: "dedeli-koprusu"
 description: "## Dedeli Köprüsü: Torul'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.26604,40.41559"
 draft: "false"
 weight: "999"

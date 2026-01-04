@@ -5,10 +5,10 @@ slug: "suludere-camii"
 description: "## Suludere Camii: İzmir'in Gizli Çehresini Gerçekleştiren Bir Anıt..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.2357635,38.2472038"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-turbesi"
 description: "### İbrahim Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9572465,41.0133957"
 draft: "false"
 weight: "999"

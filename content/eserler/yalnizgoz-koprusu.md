@@ -5,10 +5,10 @@ slug: "yalnizgoz-koprusu"
 description: "**Yalnızgöz Köprüsü: Edirne'nin Tarihî Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Edirne_Yalnizgoz_Bridge.JPG/1200px-Edirne_Yalnizgoz_Bridge.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.5466,41.6828"
 draft: "false"
 weight: "10"

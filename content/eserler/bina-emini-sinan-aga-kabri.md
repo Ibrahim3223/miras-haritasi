@@ -5,10 +5,10 @@ slug: "bina-emini-sinan-aga-kabri"
 description: "## Bina Emini Sinan Ağa Kabri: Fatih'ten Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9542427,41.0226326"
 draft: "false"
 weight: "999"

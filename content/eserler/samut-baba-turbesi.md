@@ -5,10 +5,10 @@ slug: "samut-baba-turbesi"
 description: "## Samut Baba Türbesi: Urla'nın Gizemli Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.725804,38.315052"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "camburnu-kilisesi"
 description: "## Çamburnu Kilisesi: Sürmene'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Sürmene"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.203397,40.911447"
 draft: "false"
 weight: "999"

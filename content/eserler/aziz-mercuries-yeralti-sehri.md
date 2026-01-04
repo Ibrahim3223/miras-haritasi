@@ -5,10 +5,10 @@ slug: "aziz-mercuries-yeralti-sehri"
 description: "## Aziz Mercuries Yeraltı Şehri: Bir Keşif Hakkında..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

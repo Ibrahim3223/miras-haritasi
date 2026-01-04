@@ -5,10 +5,10 @@ slug: "halilviran-koprusu"
 description: "## Halilviran Köprüsü: Yenişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Yenişehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.2080498,38.1038742"
 draft: "false"
 weight: "999"

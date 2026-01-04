@@ -5,10 +5,10 @@ slug: "alakilise"
 description: "## Alakilise: Antalya'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Poppy_flowers_blooming_in_archaeological_site_at_Pella%2C_Macedonia%2C_Greece.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.002555555,36.330055555"
 draft: "false"
 weight: "999"

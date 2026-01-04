@@ -5,10 +5,10 @@ slug: "ismail-bey-medresesi"
 description: "## İsmail Bey Medresesi: Kastamonu'nun Görsel ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.7777138,41.3841248"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-arap-mescidi"
 description: "# Hacı Arap Mescidi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8639412,39.9366798"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sakarya-sehitleri-ve-zafer-aniti-muzesi-polatli"
 description: "## Sakarya Şehitleri Ve Zafer Anıtı Müzesi, Polatlı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.1312256,39.5878372"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurtbogan-turbesi"
 description: "## Kurtboğan Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.813591,40.6542168"
 draft: "false"
 weight: "999"

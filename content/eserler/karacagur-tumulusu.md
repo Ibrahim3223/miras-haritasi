@@ -5,10 +5,10 @@ slug: "karacagur-tumulusu"
 description: "### Karacagür Tümülüsü: Tarihî bir Anıtın Gizemi..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9731445,41.0625725"
 draft: "false"
 weight: "999"

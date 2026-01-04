@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-beyazit-kulesi-anit-muzesi"
 description: "## İstanbul Üniversitesi Beyazıt Kulesi Anıt Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.964848645,41.012776527"
 draft: "false"
 weight: "999"

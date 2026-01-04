@@ -5,10 +5,10 @@ slug: "sinan-bey-camii-kastamonu"
 description: "## Sinan Bey Camii, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7745018,41.3722801"
 draft: "false"
 weight: "999"

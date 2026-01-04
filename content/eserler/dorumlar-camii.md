@@ -5,10 +5,10 @@ slug: "dorumlar-camii"
 description: "## Dorumlar Camii: Antalya'nın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.881164,37.127563"
 draft: "false"
 weight: "999"

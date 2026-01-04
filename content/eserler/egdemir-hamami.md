@@ -5,10 +5,10 @@ slug: "egdemir-hamami"
 description: "## Kütahya'nın Tarihî Harikası: Eğdemir Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Eğdemir_hamamı_(2).jpg/1200px-Eğdemir_hamamı_(2).jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.977027777,39.417"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "hirka-i-serif-camii"
 description: "### Hırka-i Şerif Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Hırka-i_Şerif_Camii_(5).jpg/1200px-Hırka-i_Şerif_Camii_(5).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.94177778,41.02181944"
 draft: "false"
 weight: "10"

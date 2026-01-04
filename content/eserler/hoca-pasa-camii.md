@@ -5,10 +5,10 @@ slug: "hoca-pasa-camii"
 description: "## Hoca Paşa Camii: Bir İmparatorluk Mirası..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.85709,39.9419289"
 draft: "false"
 weight: "999"

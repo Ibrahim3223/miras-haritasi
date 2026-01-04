@@ -5,10 +5,10 @@ slug: "maltepe-camii"
 description: "### Maltepe Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Maltepe_Camii.jpg/1200px-Maltepe_Camii.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.84713611,39.92480278"
 draft: "false"
 weight: "10"

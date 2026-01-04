@@ -5,10 +5,10 @@ slug: "golez-koyu-eski-cami"
 description: "## Gölez Köyü Eski Cami: Eldivan'da Bir Kültürel Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Eldivan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.5500145,40.4970856"
 draft: "false"
 weight: "999"

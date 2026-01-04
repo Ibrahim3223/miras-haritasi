@@ -5,10 +5,10 @@ slug: "istavroz-kilisesi"
 description: "### İstavroz Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0435257,41.043499"
 draft: "false"
 weight: "999"

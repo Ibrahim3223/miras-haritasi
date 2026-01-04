@@ -5,10 +5,10 @@ slug: "satberdi-manastiri"
 description: "# Şatberdi Manastırı: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Okumuşlar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.919861111,41.095027777"
 draft: "false"
 weight: "999"

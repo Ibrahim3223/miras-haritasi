@@ -5,10 +5,10 @@ slug: "aiginetes"
 description: "### Aiginetes: Antik Yunanistan'ın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.044074,41.979567"
 draft: "false"
 weight: "999"

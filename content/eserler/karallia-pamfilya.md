@@ -5,10 +5,10 @@ slug: "karallia-pamfilya"
 description: "## Karallia (Pamfilya): Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.885843,36.683529"
 draft: "false"
 weight: "999"

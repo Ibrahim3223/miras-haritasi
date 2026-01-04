@@ -5,10 +5,10 @@ slug: "ayas-kalesi"
 description: "# Ayaş Kalesi: Tarihî Bir Mirasın Geride Bıraktığı İzler..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Yumurtalık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.7921562,36.7673225"
 draft: "false"
 weight: "999"

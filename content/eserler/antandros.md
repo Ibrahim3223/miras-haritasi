@@ -5,10 +5,10 @@ slug: "antandros"
 description: "# Antandros..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Antandros3.jpg/1200px-Antandros3.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.790555555,39.575833333"
 draft: "false"
 weight: "10"

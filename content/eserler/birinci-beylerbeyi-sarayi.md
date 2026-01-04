@@ -5,10 +5,10 @@ slug: "birinci-beylerbeyi-sarayi"
 description: "# Birinci Beylerbeyi Sarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.04,41.0425"
 draft: "false"
 weight: "999"

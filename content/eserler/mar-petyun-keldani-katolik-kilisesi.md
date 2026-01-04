@@ -5,10 +5,10 @@ slug: "mar-petyun-keldani-katolik-kilisesi"
 description: "### Mar Petyun Keldani Katolik Kilisesi: Diyarbakır'ın Gizli Değerleri..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.2380219,37.9107323"
 draft: "false"
 weight: "999"

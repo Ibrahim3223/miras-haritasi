@@ -5,10 +5,10 @@ slug: "kagari-kilisesi"
 description: "### Kagari Kilisesi: Taron Nehri'nin Eski Kilisesi..."
 featured_image: ""
 province: "Arpaçay"
-iller: '["Arpaçay"]'
+iller: ["Arpaçay"]
 district: "Kakaç"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.344186111,41.090872222"
 draft: "false"
 weight: "999"

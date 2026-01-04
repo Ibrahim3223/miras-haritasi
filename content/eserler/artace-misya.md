@@ -5,10 +5,10 @@ slug: "artace-misya"
 description: "## Artace (Misya): Erdek'teki Gizemli Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Colonias_griegas_en_la_Prop%C3%B3ntide-es.svg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.796268,40.402952"
 draft: "false"
 weight: "999"

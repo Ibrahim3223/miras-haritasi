@@ -5,10 +5,10 @@ slug: "kulluoba-hoyugu"
 description: "## Küllüoba Höyüğü: Eskişehir'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Eskişehir_Archaeological_Museum_Two_handled_vessel,_Early_Bronze_Age,_3000-2000_BC_from_Küllüoba_in_2018_8446.jpg/1200px-Eskişehir_Archaeological_Museum_Two_handled_vessel,_Early_Bronze_Age,_3000-2000_BC_from_Küllüoba_in_2018_8446.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7442055,39.5564651"
 draft: "false"
 weight: "10"

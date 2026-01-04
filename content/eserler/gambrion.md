@@ -5,10 +5,10 @@ slug: "gambrion"
 description: "# Gambrion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.351043,39.087569"
 draft: "false"
 weight: "999"

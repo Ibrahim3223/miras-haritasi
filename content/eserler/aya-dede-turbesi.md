@@ -5,10 +5,10 @@ slug: "aya-dede-turbesi"
 description: "### Aya Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Aya_Dede_Türbesi.jpg/1200px-Aya_Dede_Türbesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9559669,41.0276604"
 draft: "false"
 weight: "999"

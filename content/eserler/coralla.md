@@ -5,10 +5,10 @@ slug: "coralla"
 description: "## Coralla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.165352,41.075138"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pandir-bahce-uveyiktepe-hoyugu"
 description: "# Pandır Bahçe / Üveyiktepe Höyüğü: Edirne'nin Gizemi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

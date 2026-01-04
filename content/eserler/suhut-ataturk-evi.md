@@ -5,10 +5,10 @@ slug: "suhut-ataturk-evi"
 description: "## Şuhut Atatürk Evi: Türkiye'nin Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Atatürk'sHouseŞuhut.JPG/1200px-Atatürk'sHouseŞuhut.JPG"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.54181,38.53019"
 draft: "false"
 weight: "10"

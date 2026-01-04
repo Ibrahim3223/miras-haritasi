@@ -5,10 +5,10 @@ slug: "mardin-sakip-sabanci-kent-muzesi"
 description: "## Mardin Sakıp Sabancı Kent Müzesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.746210709,37.314867825"
 draft: "false"
 weight: "999"

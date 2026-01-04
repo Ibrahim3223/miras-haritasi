@@ -5,10 +5,10 @@ slug: "conk-bayir-yeni-zelanda-aniti"
 description: "## Conk Bayır Yeni Zelanda Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Chunuk_Bair_Cemetery.jpg/1200px-Chunuk_Bair_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.30849,40.25205"
 draft: "false"
 weight: "10"

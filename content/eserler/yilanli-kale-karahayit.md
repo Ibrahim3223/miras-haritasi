@@ -5,10 +5,10 @@ slug: "yilanli-kale-karahayit"
 description: "# Yılanlı Kale, Karahayıt: Milas'ın Tarihî Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5600338,37.4766579"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cumhuriyet-devrimleri-ve-ataturk-aniti-kadikoy"
 description: "## Cumhuriyet Devrimleri ve Atatürk Anıtı, Kadıköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0365429,40.9934006"
 draft: "false"
 weight: "999"

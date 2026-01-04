@@ -5,10 +5,10 @@ slug: "dilber-kalesi"
 description: "## Dilber Kalesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Pütürge"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.7885971,38.0787163"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dedetepe-hoyugu-alacam"
 description: "## Dedetepe Höyüğü, Alaçam: Türklerin En Eski Kenti..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.698892,41.608386"
 draft: "false"
 weight: "999"

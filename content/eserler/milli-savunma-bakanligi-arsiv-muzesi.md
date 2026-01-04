@@ -5,10 +5,10 @@ slug: "milli-savunma-bakanligi-arsiv-muzesi"
 description: "## Milli Savunma Bakanlığı Arşiv Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "konya-yazma-eserler-kutuphanesi"
 description: "## Konya Yazma Eserler Kütüphanesi: Tarihî bir Zenginlik..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya Vilayeti"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "32.487068449,37.867580948"
 draft: "false"
 weight: "999"

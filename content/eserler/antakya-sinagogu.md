@@ -5,10 +5,10 @@ slug: "antakya-sinagogu"
 description: "**Antakya Sinagogu: Tarihini ve Efsanesini Koruyan Bir Sinagog**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "36.16444491,36.200242421"
 draft: "false"
 weight: "999"

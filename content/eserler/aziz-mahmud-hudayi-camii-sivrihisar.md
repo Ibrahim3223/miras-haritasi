@@ -5,10 +5,10 @@ slug: "aziz-mahmud-hudayi-camii-sivrihisar"
 description: "## Aziz Mahmud Hüdayi Camii: Sivrihisar'ın Kutsal Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5350609,39.4506683"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "huseyin-rahmi-gurpinar-muze-evi"
 description: "**Hüseyin Rahmi Gürpınar Müze Evi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.0920963,40.8771362"
 draft: "false"
 weight: "999"

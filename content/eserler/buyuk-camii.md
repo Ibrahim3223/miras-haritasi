@@ -5,10 +5,10 @@ slug: "buyuk-camii"
 description: "# Büyük Camii: İlkadım'daki Bir Özerklik Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Büyük_Camii.jpg/1200px-Büyük_Camii.jpg"
 province: "İlkadım"
-iller: '["İlkadım"]'
+iller: ["İlkadım"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.332915,41.294392"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "umurca-tumulusu-1"
 description: "### Umurca Tümülüsü 1: Lüleburgaz'ın Gizli Çarpısı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3938522,41.4124985"
 draft: "false"
 weight: "999"

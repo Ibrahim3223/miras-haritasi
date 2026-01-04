@@ -5,10 +5,10 @@ slug: "cihanoglu-haci-abdulaziz-efendi-camii"
 description: "### Cihanoğlu Hacı Abdülaziz Efendi Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7583313,37.7335663"
 draft: "false"
 weight: "999"

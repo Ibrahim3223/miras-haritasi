@@ -5,10 +5,10 @@ slug: "catal-hoyuk"
 description: "## Çatal Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Kozaklı ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6861553,39.2170081"
 draft: "false"
 weight: "999"

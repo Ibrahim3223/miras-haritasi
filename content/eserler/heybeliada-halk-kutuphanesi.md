@@ -5,10 +5,10 @@ slug: "heybeliada-halk-kutuphanesi"
 description: "# Heybeliada Halk Kütüphanesi: İstanbul'un Adalar Bölgesi'ndeki Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "29.0953255,40.8777924"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hz-nuh-makami"
 description: "## Hz. Nuh Makamı..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.188221,37.3241158"
 draft: "false"
 weight: "999"

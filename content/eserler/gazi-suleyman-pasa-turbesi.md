@@ -5,10 +5,10 @@ slug: "gazi-suleyman-pasa-turbesi"
 description: "### Gazi Süleyman Paşa Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.7556,40.5158"
 draft: "false"
 weight: "999"

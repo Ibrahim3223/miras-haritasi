@@ -5,10 +5,10 @@ slug: "tatarli-tumulusu"
 description: "## Tatarlı Tümülüsü: Afyonkarahisar'ın Gizli Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Dinar ilçesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5044937,38.2600937"
 draft: "false"
 weight: "999"

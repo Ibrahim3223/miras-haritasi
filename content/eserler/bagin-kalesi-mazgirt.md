@@ -5,10 +5,10 @@ slug: "bagin-kalesi-mazgirt"
 description: "### Bağın Kalesi: Tunceli'nin Gizli Zirvesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.899971,39.0036507"
 draft: "false"
 weight: "999"

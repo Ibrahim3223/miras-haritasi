@@ -5,10 +5,10 @@ slug: "yaka-mahallesi-kilisesi"
 description: "### Yaka Mahallesi Kilisesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0571918,37.5779648"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mustafa-mehi-efendi-turbesi"
 description: "## Mustafa Mehi Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2777328,39.9015846"
 draft: "false"
 weight: "999"

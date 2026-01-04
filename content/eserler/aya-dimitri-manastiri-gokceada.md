@@ -5,10 +5,10 @@ slug: "aya-dimitri-manastiri-gokceada"
 description: "## Aya Dimitri Manastırı: Gökçeada'nın Gerçek Bir Harikası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8322773,40.2074509"
 draft: "false"
 weight: "999"

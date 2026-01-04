@@ -5,10 +5,10 @@ slug: "milet-turk-hamami"
 description: "## Milet Türk Hamamı: Efsanevi Bir Mirasın Gerçek Yüzü..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2805233,37.5295753"
 draft: "false"
 weight: "999"

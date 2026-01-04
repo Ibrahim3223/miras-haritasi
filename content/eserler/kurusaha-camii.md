@@ -5,10 +5,10 @@ slug: "kurusaha-camii"
 description: "## Kurusaha Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.5612,40.7771"
 draft: "false"
 weight: "999"

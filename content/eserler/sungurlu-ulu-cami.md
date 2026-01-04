@@ -5,10 +5,10 @@ slug: "sungurlu-ulu-cami"
 description: "## Sungurlu Ulu Cami: Çorum'un Değerli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Sungurlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.373694444,40.162138888"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdi-bey-sultan-turbesi"
 description: "**Abdi Bey Sultan Türbesi**..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Serinhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.3718586,37.5673943"
 draft: "false"
 weight: "999"

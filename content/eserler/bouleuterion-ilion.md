@@ -5,10 +5,10 @@ slug: "bouleuterion-ilion"
 description: "## Bouleuterion (İlion)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Troy_Bouleuterion_7862.jpg/1200px-Troy_Bouleuterion_7862.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.239264,39.957005"
 draft: "false"
 weight: "10"

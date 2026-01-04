@@ -5,10 +5,10 @@ slug: "laleli-baba-kabri"
 description: "# Laleli Baba Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.955267472,41.011586834"
 draft: "false"
 weight: "999"

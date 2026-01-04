@@ -5,10 +5,10 @@ slug: "yassitepe-hoyuk"
 description: "## Yassıtepe Höyük: Sivas'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.1574488,39.523471"
 draft: "false"
 weight: "999"

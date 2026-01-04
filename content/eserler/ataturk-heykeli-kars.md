@@ -5,10 +5,10 @@ slug: "ataturk-heykeli-kars"
 description: "**Atatürk Heykeli, Kars**..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.0926018,40.6058846"
 draft: "false"
 weight: "999"

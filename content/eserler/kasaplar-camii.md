@@ -5,10 +5,10 @@ slug: "kasaplar-camii"
 description: "## Kasaplar Camii: Balıkesir'in Tarihi Bir İmzası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8810844,39.6430969"
 draft: "false"
 weight: "999"

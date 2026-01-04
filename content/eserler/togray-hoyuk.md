@@ -5,10 +5,10 @@ slug: "togray-hoyuk"
 description: "## Toğray Höyük: Eskişehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.329321,39.69864"
 draft: "false"
 weight: "999"

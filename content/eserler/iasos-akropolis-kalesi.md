@@ -5,10 +5,10 @@ slug: "iasos-akropolis-kalesi"
 description: "**Iasos Akropolüsü Kalesi**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.585125,37.2772713"
 draft: "false"
 weight: "999"

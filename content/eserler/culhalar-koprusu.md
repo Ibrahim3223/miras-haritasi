@@ -5,10 +5,10 @@ slug: "culhalar-koprusu"
 description: "## Çulhalar Köprüsü: Aydın'ın Tarihi Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1490326,37.6893005"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hagios-lazarus-kapisi"
 description: "## Hagios Lazarus Kapısı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9857769,41.0067749"
 draft: "false"
 weight: "999"

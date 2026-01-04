@@ -5,10 +5,10 @@ slug: "ahi-husameddin-turbesi"
 description: "## Ahi Hüsameddin Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.867727,39.935098"
 draft: "false"
 weight: "999"

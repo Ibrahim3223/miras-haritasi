@@ -5,10 +5,10 @@ slug: "kiyikoy-kalesi"
 description: "## Kıyıköy Kalesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Kıyıköy_Castle_04.jpg/1200px-Kıyıköy_Castle_04.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.092674,41.6337037"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "karakale-kalesi"
 description: "## Karakale Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Korkut"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.940155,38.8338776"
 draft: "false"
 weight: "999"

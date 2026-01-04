@@ -5,10 +5,10 @@ slug: "sidika-hatun-kabri"
 description: "## Sıdıka Hatun Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9285355,41.0034294"
 draft: "false"
 weight: "999"

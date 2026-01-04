@@ -5,10 +5,10 @@ slug: "binbirkilise"
 description: "## Binbirkilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Binbirkilise1.jpg/1200px-Binbirkilise1.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.14416667,37.43722222"
 draft: "false"
 weight: "10"

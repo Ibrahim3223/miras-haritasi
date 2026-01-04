@@ -5,10 +5,10 @@ slug: "cebecibasilar-haziresi"
 description: "### Cebecibaşılar Haziresi: Eyüpsultan'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9383583,41.0355492"
 draft: "false"
 weight: "999"

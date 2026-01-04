@@ -5,10 +5,10 @@ slug: "karacasar-hoyuk"
 description: "### Karacaşar Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.574672,38.7009994"
 draft: "false"
 weight: "999"

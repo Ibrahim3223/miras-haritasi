@@ -5,10 +5,10 @@ slug: "yenikarpuzlu-koyu-camii"
 description: "## Yenikarpuzlu Köyü Camii: Edirne'nin Gizli Cenneti..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "İpsala"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2946739,40.8320808"
 draft: "false"
 weight: "999"

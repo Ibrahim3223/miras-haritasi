@@ -5,10 +5,10 @@ slug: "sih-kasim-turbesi"
 description: "## Şıh Kasım Türbesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.6164465,40.6032657"
 draft: "false"
 weight: "999"

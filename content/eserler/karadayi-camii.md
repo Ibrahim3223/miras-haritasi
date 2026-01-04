@@ -5,10 +5,10 @@ slug: "karadayi-camii"
 description: "## Karadayı Camii: Antalya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.11124,36.873325"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bahriye-mektebi-camii"
 description: "### Bahriye Mektebi Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1015339,40.8758202"
 draft: "false"
 weight: "999"

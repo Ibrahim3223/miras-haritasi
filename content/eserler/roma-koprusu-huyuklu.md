@@ -5,10 +5,10 @@ slug: "roma-koprusu-huyuklu"
 description: "### Roma Köprüsü, Hüyüklü..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.126109,38.2332332"
 draft: "false"
 weight: "999"

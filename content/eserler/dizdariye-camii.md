@@ -5,10 +5,10 @@ slug: "dizdariye-camii"
 description: "## Dizdariye Camii: İstanbul'un Gizli Çehresinde Bir Azizlik..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.971833,41.006122"
 draft: "false"
 weight: "999"

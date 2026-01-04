@@ -5,10 +5,10 @@ slug: "gokcekisik"
 description: "### Gökçekısık Arkeolojik Sit..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.395933,39.652333"
 draft: "false"
 weight: "999"

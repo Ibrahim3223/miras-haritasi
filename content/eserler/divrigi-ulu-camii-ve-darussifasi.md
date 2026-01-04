@@ -5,10 +5,10 @@ slug: "divrigi-ulu-camii-ve-darussifasi"
 description: "## Divriği Ulu Camii ve Darüşşifası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Divrigi_complex_DSCF3028.jpg/1200px-Divrigi_complex_DSCF3028.jpg"
 province: "Divriği"
-iller: '["Divriği"]'
+iller: ["Divriği"]
 district: "Divriği"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.121583333,39.371222222"
 draft: "false"
 weight: "10"

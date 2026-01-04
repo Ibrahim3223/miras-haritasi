@@ -5,10 +5,10 @@ slug: "malatya-muzesi"
 description: "## Malatya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MalatyaMuseum.jpg/1200px-MalatyaMuseum.jpg"
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.32444444,38.34277778"
 draft: "false"
 weight: "10"

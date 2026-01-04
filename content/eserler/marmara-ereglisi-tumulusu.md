@@ -5,10 +5,10 @@ slug: "marmara-ereglisi-tumulusu"
 description: "**Marmara Ereğlisi Tümülüsü**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.950119,40.996151"
 draft: "false"
 weight: "999"

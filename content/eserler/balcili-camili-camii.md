@@ -5,10 +5,10 @@ slug: "balcili-camili-camii"
 description: "## Balcılı Camili Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.44225,41.030445"
 draft: "false"
 weight: "999"

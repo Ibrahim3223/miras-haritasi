@@ -5,10 +5,10 @@ slug: "antik-nekropol-alani-dagbeli"
 description: "## Antik Nekropol Alanı, Dağbeli..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.547297468,37.213155905"
 draft: "false"
 weight: "999"

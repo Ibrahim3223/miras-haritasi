@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-aniti"
 description: "## Fatih Sultan Mehmet Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Fatih_Sultan_Mehmet_Anıtı.jpg/1200px-Fatih_Sultan_Mehmet_Anıtı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.954198,41.015615"
 draft: "false"
 weight: "10"

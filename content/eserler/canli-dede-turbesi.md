@@ -5,10 +5,10 @@ slug: "canli-dede-turbesi"
 description: "## Çanlı Dede Türbesi: Edremit'te Bir Tarihî Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.025270177,39.6137886"
 draft: "false"
 weight: "999"

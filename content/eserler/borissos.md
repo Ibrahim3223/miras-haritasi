@@ -5,10 +5,10 @@ slug: "borissos"
 description: "## Borissos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.442649,38.348831"
 draft: "false"
 weight: "999"

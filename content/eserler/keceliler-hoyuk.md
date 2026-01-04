@@ -5,10 +5,10 @@ slug: "keceliler-hoyuk"
 description: "### Keçeliler Höyük: Tavas'ta Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9265003,37.4930992"
 draft: "false"
 weight: "999"

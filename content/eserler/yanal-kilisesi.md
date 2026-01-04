@@ -5,10 +5,10 @@ slug: "yanal-kilisesi"
 description: "## Yanal Kilisesi: Başkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Başkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "44.2523333,38.2629654"
 draft: "false"
 weight: "999"

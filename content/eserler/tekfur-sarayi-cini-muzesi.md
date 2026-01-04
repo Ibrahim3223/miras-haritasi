@@ -5,10 +5,10 @@ slug: "tekfur-sarayi-cini-muzesi"
 description: "## Tekfur Sarayı Çini Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.94047736,41.033792676"
 draft: "false"
 weight: "999"

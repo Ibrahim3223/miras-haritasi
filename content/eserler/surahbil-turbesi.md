@@ -5,10 +5,10 @@ slug: "surahbil-turbesi"
 description: "## Şurahbil Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.1225128,36.7225342"
 draft: "false"
 weight: "999"

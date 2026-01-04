@@ -5,10 +5,10 @@ slug: "kemer-kopru-cerkes"
 description: "## Kemer Köprü, Çerkeş: Bir İmparatorlukun Kalıntısı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çerkeş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8842239,40.8077698"
 draft: "false"
 weight: "999"

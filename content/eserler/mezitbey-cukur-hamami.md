@@ -5,10 +5,10 @@ slug: "mezitbey-cukur-hamami"
 description: "## Mezitbey Çukur Hamamı: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.5568637,41.6766944"
 draft: "false"
 weight: "999"

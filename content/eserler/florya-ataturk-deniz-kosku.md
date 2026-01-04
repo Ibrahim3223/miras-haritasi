@@ -5,10 +5,10 @@ slug: "florya-ataturk-deniz-kosku"
 description: "### Florya Atatürk Deniz Köşkü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Florya001.jpg/1200px-Florya001.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.78254,40.9726"
 draft: "false"
 weight: "10"

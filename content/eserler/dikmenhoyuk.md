@@ -5,10 +5,10 @@ slug: "dikmenhoyuk"
 description: "### Dikmenhöyük: Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.0192451,39.9871559"
 draft: "false"
 weight: "999"

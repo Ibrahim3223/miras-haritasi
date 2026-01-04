@@ -5,10 +5,10 @@ slug: "saban-i-veli-vakif-muzesi"
 description: "**Şaban-ı Veli Vakıf Müzesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7642784,41.374691"
 draft: "false"
 weight: "999"

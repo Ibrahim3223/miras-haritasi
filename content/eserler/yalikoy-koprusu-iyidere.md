@@ -5,10 +5,10 @@ slug: "yalikoy-koprusu-iyidere"
 description: "## Yalıköy Köprüsü: İyidere'nin Tarihi Bir Çökertisi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İyidere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.380852,41.019141"
 draft: "false"
 weight: "999"

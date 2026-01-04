@@ -5,10 +5,10 @@ slug: "loulon"
 description: "### Loulon Kalesi: Ulukışla'da Geç Ortaçağ'ın Gizemi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Ulukışla"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.698888888,37.583055555"
 draft: "false"
 weight: "999"

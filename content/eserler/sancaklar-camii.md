@@ -5,10 +5,10 @@ slug: "sancaklar-camii"
 description: "### Sancaklar Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Sancaklar_Mosque_and_its_minaret.jpg/1200px-Sancaklar_Mosque_and_its_minaret.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.60158,41.089"
 draft: "false"
 weight: "10"

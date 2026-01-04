@@ -5,10 +5,10 @@ slug: "topakli-hoyuk"
 description: "## Topaklı Höyük: Avanos'un Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.826767444,39.007279436"
 draft: "false"
 weight: "999"

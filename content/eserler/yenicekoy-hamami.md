@@ -5,10 +5,10 @@ slug: "yenicekoy-hamami"
 description: "## Yeniceköy Hamamı: İzmirlinin Tarihi Büyüklüğü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7272282,38.0839996"
 draft: "false"
 weight: "999"

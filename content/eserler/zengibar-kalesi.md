@@ -5,10 +5,10 @@ slug: "zengibar-kalesi"
 description: "# Zengibar Kalesi: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.344039,37.184291"
 draft: "false"
 weight: "999"

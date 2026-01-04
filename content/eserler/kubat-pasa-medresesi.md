@@ -5,10 +5,10 @@ slug: "kubat-pasa-medresesi"
 description: "**Kubat Paşa Medresesi**..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.8978233,36.9170113"
 draft: "false"
 weight: "999"

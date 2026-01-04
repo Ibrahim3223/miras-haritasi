@@ -5,10 +5,10 @@ slug: "hatice-ana-turbesi-urla"
 description: "### Hatice Ana Türbesi: Urla'da Bir Tarihî Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.769756,38.319564"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "urfecali-hoyuk"
 description: "## Ürfeçalı Höyük: Mecitözü'ndeki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.4550705,40.5280609"
 draft: "false"
 weight: "999"

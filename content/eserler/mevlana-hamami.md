@@ -5,10 +5,10 @@ slug: "mevlana-hamami"
 description: "### Mevlana Hamamı: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.5544111,40.3108769"
 draft: "false"
 weight: "999"

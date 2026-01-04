@@ -5,10 +5,10 @@ slug: "esekapi-medresesi"
 description: "# Esekapı Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.936498,41.004764"
 draft: "false"
 weight: "999"

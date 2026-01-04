@@ -5,10 +5,10 @@ slug: "cayonu"
 description: "### Çayönü Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Cayönü_-_Zellplangebäude.jpg/1200px-Cayönü_-_Zellplangebäude.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.725,38.216"
 draft: "false"
 weight: "10"

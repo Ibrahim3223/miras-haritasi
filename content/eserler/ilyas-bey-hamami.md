@@ -5,10 +5,10 @@ slug: "ilyas-bey-hamami"
 description: "## İlyas Bey Hamamı: Didim'in Tarihi bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.2778091,37.5272636"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sanullah-pasa-turbesi-ladik"
 description: "## Sanullah Paşa Türbesi: Ladik'te Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.895316,40.910711"
 draft: "false"
 weight: "999"

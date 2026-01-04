@@ -5,10 +5,10 @@ slug: "aslantorunlar-etnografya-muzesi"
 description: "## Aslantorunlar Etnografya Müzesi: Sinop'ta Bir Kültürel Miras..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

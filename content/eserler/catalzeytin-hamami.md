@@ -5,10 +5,10 @@ slug: "catalzeytin-hamami"
 description: "## Çatalzeytin Hamamı: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Çatalzeytin"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.2127762,41.9539528"
 draft: "false"
 weight: "999"

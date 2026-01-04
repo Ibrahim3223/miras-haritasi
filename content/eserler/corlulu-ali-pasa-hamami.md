@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-hamami"
 description: "## Çorlulu Ali Paşa Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.959108,41.035236"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zincirli-camii-kula"
 description: "## Zincirli Camii, Kula: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6483994,38.5424995"
 draft: "false"
 weight: "999"

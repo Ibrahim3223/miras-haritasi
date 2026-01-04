@@ -5,10 +5,10 @@ slug: "gaziantep-yavuzeli-ilce-halk-kutuphanesi"
 description: "### Gaziantep Yavuzeli İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Yavuzeli"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

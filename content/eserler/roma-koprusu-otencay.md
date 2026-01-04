@@ -5,10 +5,10 @@ slug: "roma-koprusu-otencay"
 description: "**Roma Köprüsü, Ötençay**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Belen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.252014,36.421864"
 draft: "false"
 weight: "999"

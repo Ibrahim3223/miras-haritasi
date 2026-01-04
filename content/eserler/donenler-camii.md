@@ -5,10 +5,10 @@ slug: "donenler-camii"
 description: "## Dönenler Camii: Kütahya'nın Tarihî Bir Zengini..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9767075,39.4171257"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yikik-minare-camii"
 description: "## Yıkık Minare Camii: Bornova, İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.223361932,38.469049472"
 draft: "false"
 weight: "999"

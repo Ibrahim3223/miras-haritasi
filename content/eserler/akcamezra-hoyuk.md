@@ -5,10 +5,10 @@ slug: "akcamezra-hoyuk"
 description: "### Akçamezra Höyük: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Oğuzeli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.5771996,36.8087203"
 draft: "false"
 weight: "999"

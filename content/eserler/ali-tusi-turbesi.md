@@ -5,10 +5,10 @@ slug: "ali-tusi-turbesi"
 description: "## Ali Tusi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tokat_Ali_Tusi_T%C3%BCrbesi_2416.jpg"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.5479758,40.3158022"
 draft: "false"
 weight: "999"

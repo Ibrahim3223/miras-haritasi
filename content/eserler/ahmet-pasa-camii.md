@@ -5,10 +5,10 @@ slug: "ahmet-pasa-camii"
 description: "## Ahmet Paşa Camii: Bursa'nın Zengin Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0584679,40.1903419"
 draft: "false"
 weight: "999"

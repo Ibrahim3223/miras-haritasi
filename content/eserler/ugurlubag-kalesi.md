@@ -5,10 +5,10 @@ slug: "ugurlubag-kalesi"
 description: "### Uğurlubağ Kalesi: Feke'nin Gizli Şehri..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Feke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.936032726,37.73053438"
 draft: "false"
 weight: "999"

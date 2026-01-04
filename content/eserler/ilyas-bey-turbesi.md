@@ -5,10 +5,10 @@ slug: "ilyas-bey-turbesi"
 description: "## İlyas Bey Türbesi: Gebze'nin Tarihi Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4405994,40.7998238"
 draft: "false"
 weight: "999"

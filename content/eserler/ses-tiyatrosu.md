@@ -5,10 +5,10 @@ slug: "ses-tiyatrosu"
 description: "## Ses Tiyatrosu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.9791924,41.0345095"
 draft: "false"
 weight: "999"

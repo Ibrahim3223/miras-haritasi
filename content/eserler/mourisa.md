@@ -5,10 +5,10 @@ slug: "mourisa"
 description: "### Mourisa Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.375673,37.436126"
 draft: "false"
 weight: "999"

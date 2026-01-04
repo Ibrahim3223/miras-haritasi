@@ -5,10 +5,10 @@ slug: "chytrium"
 description: "### Chytrium Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.741881,38.337891"
 draft: "false"
 weight: "999"

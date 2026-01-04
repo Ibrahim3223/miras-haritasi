@@ -5,10 +5,10 @@ slug: "tirilye-hamami"
 description: "### Tirilye Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.7967205,40.3928795"
 draft: "false"
 weight: "999"

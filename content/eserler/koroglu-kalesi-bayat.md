@@ -5,10 +5,10 @@ slug: "koroglu-kalesi-bayat"
 description: "## Köroğlu Kalesi, Bayat..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bayat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.8809242,38.9482803"
 draft: "false"
 weight: "999"

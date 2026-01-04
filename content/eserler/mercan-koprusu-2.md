@@ -5,10 +5,10 @@ slug: "mercan-koprusu-2"
 description: "## Mercan Köprüsü 2: Edirne'nin Gizli Çehresinin İncisi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.6013374,40.7685814"
 draft: "false"
 weight: "999"

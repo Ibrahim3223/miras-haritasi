@@ -5,10 +5,10 @@ slug: "satirli-camii"
 description: "## Şatırlı Camii: Antalya'nın Tarihî Bir Örneği..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.947727,36.983947"
 draft: "false"
 weight: "999"

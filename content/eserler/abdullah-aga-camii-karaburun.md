@@ -5,10 +5,10 @@ slug: "abdullah-aga-camii-karaburun"
 description: "## Abdullah Ağa Camii: Karaburun'un Tarihi bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karaburun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5089912,38.6349754"
 draft: "false"
 weight: "999"

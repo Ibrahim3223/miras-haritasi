@@ -5,10 +5,10 @@ slug: "carsi-hamami-unye"
 description: "## Çarşı Hamamı (Ünye)..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.285916666,41.130277777"
 draft: "false"
 weight: "999"

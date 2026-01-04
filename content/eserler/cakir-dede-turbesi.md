@@ -5,10 +5,10 @@ slug: "cakir-dede-turbesi"
 description: "## Çakır Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7516994,37.7621994"
 draft: "false"
 weight: "999"

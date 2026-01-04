@@ -5,10 +5,10 @@ slug: "zeynel-abidin-turbesi"
 description: "## Zeynel Abidin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4904518,38.7219238"
 draft: "false"
 weight: "999"

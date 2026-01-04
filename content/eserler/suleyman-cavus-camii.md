@@ -5,10 +5,10 @@ slug: "suleyman-cavus-camii"
 description: "## Süleyman Çavuş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Süleyman_Çavuş_Mosque.jpg/1200px-Süleyman_Çavuş_Mosque.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6399593,36.1993713"
 draft: "false"
 weight: "10"

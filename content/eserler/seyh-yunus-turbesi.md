@@ -5,10 +5,10 @@ slug: "seyh-yunus-turbesi"
 description: "## Şeyh Yunus Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.220454,37.182515"
 draft: "false"
 weight: "999"

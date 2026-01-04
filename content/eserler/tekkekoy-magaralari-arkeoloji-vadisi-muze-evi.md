@@ -5,10 +5,10 @@ slug: "tekkekoy-magaralari-arkeoloji-vadisi-muze-evi"
 description: "## Tekkeköy Mağaraları Arkeoloji Vadisi Müze Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Tekkeköy_Mağaraları_Arkeoloji_Vadisi_Müze_Evi.JPG/1200px-Tekkeköy_Mağaraları_Arkeoloji_Vadisi_Müze_Evi.JPG"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Tekkeköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.461573445,41.204529552"
 draft: "false"
 weight: "10"

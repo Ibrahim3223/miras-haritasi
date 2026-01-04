@@ -5,10 +5,10 @@ slug: "dogu-garaji"
 description: "## Doğu Garajı: Kırsal Alanın Gizli Çehresi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7125,36.88805556"
 draft: "false"
 weight: "999"

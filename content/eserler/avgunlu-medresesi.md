@@ -5,10 +5,10 @@ slug: "avgunlu-medresesi"
 description: "## Avgunlu Medresesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.483295,38.7236208"
 draft: "false"
 weight: "999"

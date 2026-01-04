@@ -5,10 +5,10 @@ slug: "ataturk-aniti-erdek"
 description: "## Atatürk Anıtı, Erdek..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7904205,40.3967743"
 draft: "false"
 weight: "999"

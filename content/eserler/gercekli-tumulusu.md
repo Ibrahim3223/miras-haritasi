@@ -5,10 +5,10 @@ slug: "gercekli-tumulusu"
 description: "## Gerçekli Tümülüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.076,38.223"
 draft: "false"
 weight: "999"

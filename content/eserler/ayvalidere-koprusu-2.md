@@ -5,10 +5,10 @@ slug: "ayvalidere-koprusu-2"
 description: "# Ayvalıdere Köprüsü 2: Bir Zamanların Kutsal Yolu..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.918355641,40.241370438"
 draft: "false"
 weight: "999"

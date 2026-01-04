@@ -5,10 +5,10 @@ slug: "vehhab-i-ummi-turbesi"
 description: "### Vehhab-i Ümmi Türbesi: Elmalı'dan Bir Anıt..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9105,36.7488"
 draft: "false"
 weight: "999"

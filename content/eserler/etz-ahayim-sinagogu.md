@@ -5,10 +5,10 @@ slug: "etz-ahayim-sinagogu"
 description: "### Etz Ahayim Sinagogu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Etz_Ahayim_Synagoge.jpg/1200px-Etz_Ahayim_Synagoge.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.025416666,41.048305555"
 draft: "false"
 weight: "10"

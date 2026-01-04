@@ -5,10 +5,10 @@ slug: "uchoyuk"
 description: "### Üçhöyük Arkeolojik Siti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.036641,38.688192"
 draft: "false"
 weight: "999"

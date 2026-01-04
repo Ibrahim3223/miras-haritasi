@@ -5,10 +5,10 @@ slug: "karacabey-imaret-camii"
 description: "## Karacabey İmaret Camii: Bursa'nın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3643398,40.2240143"
 draft: "false"
 weight: "999"

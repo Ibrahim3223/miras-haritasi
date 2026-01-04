@@ -5,10 +5,10 @@ slug: "derecayir-camii"
 description: "## Dereçayır Camii: Ordu'da Bir Tarihi Miras..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.6477013,40.7387543"
 draft: "false"
 weight: "999"

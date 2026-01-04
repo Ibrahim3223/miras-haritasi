@@ -5,10 +5,10 @@ slug: "isikli-camii"
 description: "## Işıklı Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.045416666,41.210555555"
 draft: "false"
 weight: "999"

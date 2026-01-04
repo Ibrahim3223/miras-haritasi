@@ -5,10 +5,10 @@ slug: "panorama-1326-bursa-fetih-muzesi"
 description: "# Panorama 1326 Bursa Fetih Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Bursa_Panorama_1326_Bursa_Conquest_Museum_2018_0039.jpg/1200px-Bursa_Panorama_1326_Bursa_Conquest_Museum_2018_0039.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.075555555,40.186222222"
 draft: "false"
 weight: "10"

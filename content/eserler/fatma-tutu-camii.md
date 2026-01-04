@@ -5,10 +5,10 @@ slug: "fatma-tutu-camii"
 description: "## Fatma Tutu Camii: Bursa'nın Gizemli Camisi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1691875,40.2238045"
 draft: "false"
 weight: "999"

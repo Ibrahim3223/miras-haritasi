@@ -5,10 +5,10 @@ slug: "haci-husrev-camii"
 description: "## Hacı Hüsrev Camii: Eyüpsultan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9383392,41.0382653"
 draft: "false"
 weight: "999"

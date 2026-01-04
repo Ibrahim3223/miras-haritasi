@@ -5,10 +5,10 @@ slug: "kiyikoy-camii"
 description: "## Kıyıköy Camii: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0947514,41.6336823"
 draft: "false"
 weight: "999"

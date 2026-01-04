@@ -5,10 +5,10 @@ slug: "midaeium"
 description: "# Midaeium..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.8455876,39.7996237"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarayakpinar-e-tumulusu"
 description: "## Sarayakpınar E Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4640579,41.7880478"
 draft: "false"
 weight: "999"

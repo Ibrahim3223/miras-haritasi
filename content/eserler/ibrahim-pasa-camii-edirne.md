@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-camii-edirne"
 description: "## Edirne'nin İbrahim Paşa Camii: Tarih, Mimarlık ve Kültür..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.568827487,41.675727332"
 draft: "false"
 weight: "999"

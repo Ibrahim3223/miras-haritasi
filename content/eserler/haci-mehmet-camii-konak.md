@@ -5,10 +5,10 @@ slug: "haci-mehmet-camii-konak"
 description: "## Hacı Mehmet Camii: Konak'ta Bir Geçmişe Sahip Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1331158,38.4146843"
 draft: "false"
 weight: "999"

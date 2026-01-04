@@ -5,10 +5,10 @@ slug: "sira-odalar-kapisi"
 description: "### Sıra Odalar Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.969696,41.0113525"
 draft: "false"
 weight: "999"

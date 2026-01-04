@@ -5,10 +5,10 @@ slug: "kalhane-koprusu"
 description: "## Kalhane Köprüsü: Elazığ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.682136,38.388411"
 draft: "false"
 weight: "999"

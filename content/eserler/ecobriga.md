@@ -5,10 +5,10 @@ slug: "ecobriga"
 description: "## Ecobriga Arkeolojik Sit..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.75215186,40.03836488"
 draft: "false"
 weight: "999"

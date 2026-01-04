@@ -5,10 +5,10 @@ slug: "ayazini-metropolisi-kilisesi"
 description: "## Ayazini Metropolisi Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ayazini_Metropolis_Church,_2017.jpg/1200px-Ayazini_Metropolis_Church,_2017.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.569171287,39.01239365"
 draft: "false"
 weight: "10"

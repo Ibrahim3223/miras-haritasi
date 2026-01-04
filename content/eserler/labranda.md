@@ -5,10 +5,10 @@ slug: "labranda"
 description: "## Labranda: Muğla'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Лабранда._Терраса.jpg/1200px-Лабранда._Терраса.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.81999,37.41892"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "karaman-hamami"
 description: "## Karaman Hamamı: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9478264,41.0206299"
 draft: "false"
 weight: "999"

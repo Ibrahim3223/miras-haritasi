@@ -5,10 +5,10 @@ slug: "seyh-kasim-halveti-ve-turbesi"
 description: "### Şeyh Kasım Halveti ve Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.736603,37.310602"
 draft: "false"
 weight: "999"

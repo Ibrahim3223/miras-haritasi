@@ -5,10 +5,10 @@ slug: "key-museum"
 description: "## Key Museum..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Key_Museum_3.jpg/1200px-Key_Museum_3.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.348888888,38.201666666"
 draft: "false"
 weight: "10"

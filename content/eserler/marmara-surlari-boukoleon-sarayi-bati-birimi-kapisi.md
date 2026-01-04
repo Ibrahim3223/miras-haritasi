@@ -5,10 +5,10 @@ slug: "marmara-surlari-boukoleon-sarayi-bati-birimi-kapisi"
 description: "### Marmara Surları: Boukoleon Sarayı Batı Birimi Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9755363,41.0023727"
 draft: "false"
 weight: "999"

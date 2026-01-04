@@ -5,10 +5,10 @@ slug: "seyhulislam-mehmet-efendi-camii"
 description: "# Şeyhülislam Mehmet Efendi Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8991089,40.9332085"
 draft: "false"
 weight: "999"

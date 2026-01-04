@@ -5,10 +5,10 @@ slug: "cobantepe-tumulusu"
 description: "### Çobantepe Tümülüsü: Tarihi ve Kültürel Miras Değerinin Gerçeksiz Değil..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6996346,41.5110931"
 draft: "false"
 weight: "999"

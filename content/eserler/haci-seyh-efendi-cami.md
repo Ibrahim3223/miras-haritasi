@@ -5,10 +5,10 @@ slug: "haci-seyh-efendi-cami"
 description: "## Hacı Şeyh Efendi Cami..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7118301,38.6229057"
 draft: "false"
 weight: "999"

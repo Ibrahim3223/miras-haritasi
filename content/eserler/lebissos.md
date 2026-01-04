@@ -5,10 +5,10 @@ slug: "lebissos"
 description: "# Lebissos: Muğla'nın Gizli Arkeolojik Şehri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0678501,36.5538445"
 draft: "false"
 weight: "999"

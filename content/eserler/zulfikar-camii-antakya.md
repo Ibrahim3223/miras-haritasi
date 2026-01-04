@@ -5,10 +5,10 @@ slug: "zulfikar-camii-antakya"
 description: "## Zülfikar Camii: Antakya'nın Tarihsel ve Mimari Güzelliği..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1655693,36.2036247"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kurd-baba-turbesi"
 description: "## Kurd Baba Türbesi: Edirne'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.559127,41.673639"
 draft: "false"
 weight: "999"

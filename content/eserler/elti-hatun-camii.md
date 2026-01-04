@@ -5,10 +5,10 @@ slug: "elti-hatun-camii"
 description: "## Eti Hatun Camii: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Mazgirt"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.604166666,39.021666666"
 draft: "false"
 weight: "999"

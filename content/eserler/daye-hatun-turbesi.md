@@ -5,10 +5,10 @@ slug: "daye-hatun-turbesi"
 description: "## Daye Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9689713,41.0123405"
 draft: "false"
 weight: "999"

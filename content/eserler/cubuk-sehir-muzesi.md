@@ -5,10 +5,10 @@ slug: "cubuk-sehir-muzesi"
 description: "## Çubuk Şehir Müzesi: Ankara'da Kültür ve Tarih Mirasının Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Çubuk_Şehir_Müzesi_11.jpg/1200px-Çubuk_Şehir_Müzesi_11.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.031195,40.238713"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "koz-kalesi"
 description: "## Koz Kalesi: Altınözü'ndeki Bir Tarih Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kozkalesi.jpg/1200px-Kozkalesi.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Altınözü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.19277778,36.10388889"
 draft: "false"
 weight: "10"

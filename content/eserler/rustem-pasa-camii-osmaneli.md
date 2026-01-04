@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii-osmaneli"
 description: "### Rüstem Paşa Camii: Osmanlınin Örnek Bir Camisi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Osmaneli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0118694,40.35886"
 draft: "false"
 weight: "999"

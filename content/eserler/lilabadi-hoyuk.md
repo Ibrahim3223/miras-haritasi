@@ -5,10 +5,10 @@ slug: "lilabadi-hoyuk"
 description: "### Lilabadi Höyük: Batman'ın Gizli Kahramanı..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Gercüş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.3540039,37.5819168"
 draft: "false"
 weight: "999"

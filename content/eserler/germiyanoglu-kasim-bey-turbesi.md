@@ -5,10 +5,10 @@ slug: "germiyanoglu-kasim-bey-turbesi"
 description: "**Germiyanoğlu Kasım Bey Türbesi**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.4243293,37.9476112"
 draft: "false"
 weight: "999"

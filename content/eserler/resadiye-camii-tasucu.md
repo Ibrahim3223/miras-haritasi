@@ -5,10 +5,10 @@ slug: "resadiye-camii-tasucu"
 description: "### Reşadiye Camii (Taşucu): Silifke'nin Tarihî Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.8825378,36.3204918"
 draft: "false"
 weight: "999"

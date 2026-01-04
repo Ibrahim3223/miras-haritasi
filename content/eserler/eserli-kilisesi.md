@@ -5,10 +5,10 @@ slug: "eserli-kilisesi"
 description: "### Eserli Kilisesi: Görele'nin Ölümsüz Kilisesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.970768,40.8828354"
 draft: "false"
 weight: "999"

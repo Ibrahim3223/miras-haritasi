@@ -5,10 +5,10 @@ slug: "yesiltepe-kaptanpasa-koprusu"
 description: "## Yeşiltepe Kaptanpaşa Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7943767,40.9670508"
 draft: "false"
 weight: "999"

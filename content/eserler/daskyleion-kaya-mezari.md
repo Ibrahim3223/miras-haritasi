@@ -5,10 +5,10 @@ slug: "daskyleion-kaya-mezari"
 description: "### Daskyleion Kaya Mezarı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0657597,40.1296654"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yunus-hoyuk"
 description: "## Yunus Höyük: Gaziantep'in Gizli Kahramanı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.013333,36.834722"
 draft: "false"
 weight: "999"

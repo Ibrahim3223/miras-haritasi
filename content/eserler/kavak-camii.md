@@ -5,10 +5,10 @@ slug: "kavak-camii"
 description: "## Kavak Camii: Yakutiye'nin Dülümlü Minareli İncisi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.280262,39.9149361"
 draft: "false"
 weight: "999"

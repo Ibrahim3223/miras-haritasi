@@ -5,10 +5,10 @@ slug: "koprucu-koprusu"
 description: "## Köprücü Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.548719444,41.473730555"
 draft: "false"
 weight: "999"

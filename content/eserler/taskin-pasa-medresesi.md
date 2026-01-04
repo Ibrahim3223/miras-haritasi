@@ -5,10 +5,10 @@ slug: "taskin-pasa-medresesi"
 description: "## Taşkın Paşa Medresesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.9498367,38.4953156"
 draft: "false"
 weight: "999"

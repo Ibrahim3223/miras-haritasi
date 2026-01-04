@@ -5,10 +5,10 @@ slug: "surp-hagop-manastiri-tevrik"
 description: "## Surp Hagop Manastırı (Tevrik): Güresin'deki Büyüleyici Kilise..."
 featured_image: ""
 province: "Divriği"
-iller: '["Divriği"]'
+iller: ["Divriği"]
 district: "Güresin"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.051944444,39.283055555"
 draft: "false"
 weight: "999"

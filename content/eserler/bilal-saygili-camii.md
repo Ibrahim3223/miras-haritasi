@@ -5,10 +5,10 @@ slug: "bilal-saygili-camii"
 description: "# Bilal Saygılı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Bilal_Saygılı_Mosque_and_Social_Complex.jpg/1200px-Bilal_Saygılı_Mosque_and_Social_Complex.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.229777777,38.460611111"
 draft: "false"
 weight: "10"

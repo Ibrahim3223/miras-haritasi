@@ -5,10 +5,10 @@ slug: "buyuk-yucebelen-camii"
 description: "## Büyük Yücebelen Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.276375,40.65024"
 draft: "false"
 weight: "999"

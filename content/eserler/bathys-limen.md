@@ -5,10 +5,10 @@ slug: "bathys-limen"
 description: "## Bathys Limen: Turan'da Antik Kentin Eski Limanı..."
 featured_image: ""
 province: "Erdek ilçesi"
-iller: '["Erdek ilçesi"]'
+iller: ["Erdek ilçesi"]
 district: "Turan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.77864,40.5056"
 draft: "false"
 weight: "999"

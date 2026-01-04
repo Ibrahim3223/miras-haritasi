@@ -5,10 +5,10 @@ slug: "soguksu-camii"
 description: "## Soğuksu Camii: Giresun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3881607,40.9153519"
 draft: "false"
 weight: "999"

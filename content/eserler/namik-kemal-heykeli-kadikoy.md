@@ -5,10 +5,10 @@ slug: "namik-kemal-heykeli-kadikoy"
 description: "## Namık Kemal Heykeli: Kadıköy'ün Yüce Ruhu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0598946,40.9849701"
 draft: "false"
 weight: "999"

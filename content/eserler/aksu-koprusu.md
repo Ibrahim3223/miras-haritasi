@@ -5,10 +5,10 @@ slug: "aksu-koprusu"
 description: "## Aksu Köprüsü: Akdeniz Bölgesi'nin Tarihi ve Etkileyici Köprüsü..."
 featured_image: ""
 province: "Akdeniz Bölgesi"
-iller: '["Akdeniz Bölgesi"]'
+iller: ["Akdeniz Bölgesi"]
 district: "Aksu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.8966122,36.9436417"
 draft: "false"
 weight: "999"

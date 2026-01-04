@@ -5,10 +5,10 @@ slug: "macka-koprusu"
 description: "# Maçka Köprüsü: Trabzon'un Tarihî Köyünde Gizli Bir Şehre Keşif..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.612628,40.811261"
 draft: "false"
 weight: "999"

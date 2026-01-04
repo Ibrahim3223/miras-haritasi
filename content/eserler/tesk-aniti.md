@@ -5,10 +5,10 @@ slug: "tesk-aniti"
 description: "### TESK Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.854754061,39.912866915"
 draft: "false"
 weight: "999"

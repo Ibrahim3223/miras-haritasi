@@ -5,10 +5,10 @@ slug: "taya-kadin-camii-edirne"
 description: "## Taya Kadın Camii: Edirne'nin Gizli Çehresi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.561657,41.6837044"
 draft: "false"
 weight: "999"

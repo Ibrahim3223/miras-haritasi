@@ -5,10 +5,10 @@ slug: "kodylessos"
 description: "### Güneysınır'da Gizli Bir Miras: Kodylessos..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Güneysınır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.7646705,37.269914"
 draft: "false"
 weight: "999"

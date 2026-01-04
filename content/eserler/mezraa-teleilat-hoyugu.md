@@ -5,10 +5,10 @@ slug: "mezraa-teleilat-hoyugu"
 description: "## Mezraa - Teleilat Höyüğü: Şanlıurfa'nın Gizli Hazineleri..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.98625278,36.9775"
 draft: "false"
 weight: "999"

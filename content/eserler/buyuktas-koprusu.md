@@ -5,10 +5,10 @@ slug: "buyuktas-koprusu"
 description: "### Büyüktaş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.887233,41.071217"
 draft: "false"
 weight: "999"

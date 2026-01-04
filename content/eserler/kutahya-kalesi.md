@@ -5,10 +5,10 @@ slug: "kutahya-kalesi"
 description: "## Kütahya Kalesi: Eine Tarihî Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kütahya_hisar-üçler_tepesinden.jpg/1200px-Kütahya_hisar-üçler_tepesinden.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.969666666,39.419472222"
 draft: "false"
 weight: "10"

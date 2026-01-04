@@ -5,10 +5,10 @@ slug: "erzurum-kongre-binasi"
 description: "## Erzurum Kongre Binası: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.2769775,39.9149857"
 draft: "false"
 weight: "999"

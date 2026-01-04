@@ -5,10 +5,10 @@ slug: "necmi-ige-evi"
 description: "## Necmi İğe Evi: Edirne'nin Gizli Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Necmi_İğe_Evi_25.JPG/1200px-Necmi_İğe_Evi_25.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.5618954,41.6809158"
 draft: "false"
 weight: "10"

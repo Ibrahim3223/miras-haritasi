@@ -5,10 +5,10 @@ slug: "aziz-yuhanna-manastiri-por"
 description: "## Aziz Yuhanna Manastırı, Por..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/St_John_Monastery_Por_(Değirmenaltı)_DSCF7871.jpg/1200px-St_John_Monastery_Por_(Değirmenaltı)_DSCF7871.jpg"
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Değirmenaltı"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.153808,38.435015"
 draft: "false"
 weight: "10"

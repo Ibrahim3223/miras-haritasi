@@ -5,10 +5,10 @@ slug: "abdullah-hamami"
 description: "# Abdullah Hamamı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.556777777,41.670888888"
 draft: "false"
 weight: "999"

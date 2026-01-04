@@ -5,10 +5,10 @@ slug: "karabali-mehmet-bey-cami"
 description: "## Karabali Mehmet Bey Cami..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.6183243,40.6943436"
 draft: "false"
 weight: "999"

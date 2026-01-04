@@ -5,10 +5,10 @@ slug: "ayvalik-aya-triada-kilisesi"
 description: "### Ayvalık Aya Triada Kilisesi: Bir Geçmişin Eski Ayvalık'ın Kalıntıları..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.695175,39.313588"
 draft: "false"
 weight: "999"

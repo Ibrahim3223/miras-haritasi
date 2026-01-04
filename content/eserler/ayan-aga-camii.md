@@ -5,10 +5,10 @@ slug: "ayan-aga-camii"
 description: "## Ayan Ağa Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7050362,36.8886299"
 draft: "false"
 weight: "999"

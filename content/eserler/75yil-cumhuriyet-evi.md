@@ -5,10 +5,10 @@ slug: "75yil-cumhuriyet-evi"
 description: "## 75.Yıl Cumhuriyet Evi Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.773536,41.374852"
 draft: "false"
 weight: "999"

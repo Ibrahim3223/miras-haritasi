@@ -5,10 +5,10 @@ slug: "servili-baba-turbesi"
 description: "## Servili Baba Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9731178,41.0107307"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kara-camii-nevsehir"
 description: "### Kara Camii, Nevşehir..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7152748,38.6201057"
 draft: "false"
 weight: "999"

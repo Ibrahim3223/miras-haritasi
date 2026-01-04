@@ -5,10 +5,10 @@ slug: "azgit-kalesi"
 description: "# Azgıt Kalesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Andırın"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.373876,37.60121"
 draft: "false"
 weight: "999"

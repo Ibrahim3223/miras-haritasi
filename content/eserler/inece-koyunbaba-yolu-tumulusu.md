@@ -5,10 +5,10 @@ slug: "inece-koyunbaba-yolu-tumulusu"
 description: "## İnece Koyunbaba Yolu Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0706329,41.696579"
 draft: "false"
 weight: "999"

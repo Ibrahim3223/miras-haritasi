@@ -5,10 +5,10 @@ slug: "bodrum-antik-tiyatrosu"
 description: "## Bodrum Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/The_theatre_of_ancient_Halicarnassus,_built_in_the_4th_century_BC_during_the_reign_of_King_Mausolos_and_enlarged_in_the_2nd_century_AD,_the_original_capacity_of_the_theatre_was_10,000,_Bodrum,_Turkey_(16456817694).jpg/1200px-The_theatre_of_ancient_Halicarnassus,_built_in_the_4th_century_BC_during_the_reign_of_King_Mausolos_and_enlarged_in_the_2nd_century_AD,_the_original_capacity_of_the_theatre_was_10,000,_Bodrum,_Turkey_(16456817694).jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4215425,37.040121"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "haci-mehmet-efendi-camii"
 description: "## Hacı Mehmet Efendi Camii..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2881737,38.419342"
 draft: "false"
 weight: "999"

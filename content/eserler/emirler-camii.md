@@ -5,10 +5,10 @@ slug: "emirler-camii"
 description: "## Emirler Camii: Gümüşhane'nin Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4967155,40.4498062"
 draft: "false"
 weight: "999"

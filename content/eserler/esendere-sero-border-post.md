@@ -5,10 +5,10 @@ slug: "esendere-sero-border-post"
 description: "## Esendere - Sero Border Post: Tarihi ve Kültürel Bir Kervansaray..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.622259,37.716689097"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zembilli-ali-efendi-turbesi"
 description: "**Zembilli Ali Efendi Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.957182,41.018826"
 draft: "false"
 weight: "999"

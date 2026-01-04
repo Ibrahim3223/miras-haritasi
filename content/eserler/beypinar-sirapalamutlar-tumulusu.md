@@ -5,10 +5,10 @@ slug: "beypinar-sirapalamutlar-tumulusu"
 description: "### Beypınar Sırapalamutlar Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.508688,41.7809639"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istanbul-demiryolu-muzesi"
 description: "## İstanbul Demiryolu Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg/1200px-Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.977222222,41.015277777"
 draft: "false"
 weight: "10"

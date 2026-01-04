@@ -5,10 +5,10 @@ slug: "my-museum-otomobil-muzesi"
 description: "### My Museum Otomobil Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.106928,40.991901"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "duzce-saat-kulesi"
 description: "## Düzce Saat Kulesi: Tarihe ve Güzelliğe Sahip Bir Miras..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Düzce"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "31.151666666,40.841944444"
 draft: "false"
 weight: "999"

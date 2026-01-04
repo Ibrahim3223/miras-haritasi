@@ -5,10 +5,10 @@ slug: "abdussadik-amir-ibn-same-turbesi"
 description: "## Abdüssadık Amir İbn Same Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.93912,41.036391"
 draft: "false"
 weight: "999"

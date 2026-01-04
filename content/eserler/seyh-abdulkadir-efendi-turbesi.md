@@ -5,10 +5,10 @@ slug: "seyh-abdulkadir-efendi-turbesi"
 description: "### Şeyh Abdülkadir Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.930385,41.049644"
 draft: "false"
 weight: "999"

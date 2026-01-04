@@ -5,10 +5,10 @@ slug: "botanik-bahcesi-kilise-kalintisi"
 description: "### Botanik Bahçesi Kilise Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9820919,41.0154572"
 draft: "false"
 weight: "999"

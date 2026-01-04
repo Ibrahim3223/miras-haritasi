@@ -5,10 +5,10 @@ slug: "harbi-mescidi"
 description: "### Harbi Mescidi: Fatih'teki Bir Tarihi Çağı Yaşatan Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Harbi_Mescidi_01.jpg/1200px-Harbi_Mescidi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.926941854,41.020544361"
 draft: "false"
 weight: "10"

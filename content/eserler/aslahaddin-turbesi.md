@@ -5,10 +5,10 @@ slug: "aslahaddin-turbesi"
 description: "## Aslahaddin Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.6118,40.7333"
 draft: "false"
 weight: "999"

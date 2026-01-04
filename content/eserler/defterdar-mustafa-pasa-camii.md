@@ -5,10 +5,10 @@ slug: "defterdar-mustafa-pasa-camii"
 description: "**Defterdar Mustafa Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Defterdar_Mustafa_Paşa_Camii,_Edirne_22.JPG/1200px-Defterdar_Mustafa_Paşa_Camii,_Edirne_22.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5615635,41.6726456"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cudi-dagi-manastiri"
 description: "## Cudi Dağı Manastırı: Güneydoğu Anadolu Bölgesi'nin Gizli Hazinası..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.4508781,37.3773308"
 draft: "false"
 weight: "999"

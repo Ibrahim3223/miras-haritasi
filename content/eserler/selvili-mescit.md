@@ -5,10 +5,10 @@ slug: "selvili-mescit"
 description: "### Selvili Mescit: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1464882,38.4190216"
 draft: "false"
 weight: "999"

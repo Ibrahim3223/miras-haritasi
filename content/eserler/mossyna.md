@@ -5,10 +5,10 @@ slug: "mossyna"
 description: "### Mossyna: Denizli'nin Gizli İhtişamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çal"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.298552,38.095586"
 draft: "false"
 weight: "999"

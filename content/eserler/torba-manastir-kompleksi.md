@@ -5,10 +5,10 @@ slug: "torba-manastir-kompleksi"
 description: "## Torba Manastır Kompleksi: Bodrum'un Gizli Tarihi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "27.4643002,37.0812988"
 draft: "false"
 weight: "999"

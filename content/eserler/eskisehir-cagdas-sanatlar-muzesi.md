@@ -5,10 +5,10 @@ slug: "eskisehir-cagdas-sanatlar-muzesi"
 description: "## Eskişehir Çağdaş Sanatlar Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.497401,39.790469"
 draft: "false"
 weight: "999"

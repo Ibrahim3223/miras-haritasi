@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii-sapanca"
 description: "## Rüstem Paşa Camii: Sapanca'nın Eski Türk Camii..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Sapanca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.2691631,40.692337"
 draft: "false"
 weight: "999"

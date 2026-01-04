@@ -5,10 +5,10 @@ slug: "ahmed-bican-turbesi"
 description: "## Ahmed Bican Türbesi: Gelibolu'nun Efsanevi Kahramanı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6773,40.4088"
 draft: "false"
 weight: "999"

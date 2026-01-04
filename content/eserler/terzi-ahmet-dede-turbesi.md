@@ -5,10 +5,10 @@ slug: "terzi-ahmet-dede-turbesi"
 description: "**Terzi Ahmet Dede Türbesi**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4306412,38.6171379"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kecikiran"
 description: "### Keçikıran: Van'ın Tarihi Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Muradiye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.6135979,38.9743996"
 draft: "false"
 weight: "999"

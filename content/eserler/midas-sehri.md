@@ -5,10 +5,10 @@ slug: "midas-sehri"
 description: "## Midas Şehri..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7131958,39.199482"
 draft: "false"
 weight: "999"

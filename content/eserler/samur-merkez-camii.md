@@ -5,10 +5,10 @@ slug: "samur-merkez-camii"
 description: "## Samur Merkez Camii..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.261523,40.87301"
 draft: "false"
 weight: "999"

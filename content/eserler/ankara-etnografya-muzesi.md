@@ -5,10 +5,10 @@ slug: "ankara-etnografya-muzesi"
 description: "## Ankara Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Ankara_asv2021-10_img62_Ethnography_Museum.jpg/1200px-Ankara_asv2021-10_img62_Ethnography_Museum.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.854894,39.932668"
 draft: "false"
 weight: "10"

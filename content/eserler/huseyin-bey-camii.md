@@ -5,10 +5,10 @@ slug: "huseyin-bey-camii"
 description: "## Hüseyin Bey Camii: Tekirdağ'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2816429,40.9358177"
 draft: "false"
 weight: "999"

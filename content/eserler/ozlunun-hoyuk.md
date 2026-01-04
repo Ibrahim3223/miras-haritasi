@@ -5,10 +5,10 @@ slug: "ozlunun-hoyuk"
 description: "## Özlünün Höyük: Kırşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.313524,39.2488284"
 draft: "false"
 weight: "999"

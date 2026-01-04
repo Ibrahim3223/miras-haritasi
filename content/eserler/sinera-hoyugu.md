@@ -5,10 +5,10 @@ slug: "sinera-hoyugu"
 description: "## Sinera Höyüğü: Mardin'in Gizli Öyküsü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.394450193,37.138761942"
 draft: "false"
 weight: "999"

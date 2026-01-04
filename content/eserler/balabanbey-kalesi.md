@@ -5,10 +5,10 @@ slug: "balabanbey-kalesi"
 description: "## Balabanbey Kalesi: Bursa'nın Gizli Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.0725555,40.1743393"
 draft: "false"
 weight: "999"

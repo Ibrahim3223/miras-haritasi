@@ -5,10 +5,10 @@ slug: "ayni-minare-camii"
 description: "## Ayni Minare Camii: Diyarbakır'ın Tarihî Mirasının Gizli Çehresi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.234024,37.9081459"
 draft: "false"
 weight: "999"

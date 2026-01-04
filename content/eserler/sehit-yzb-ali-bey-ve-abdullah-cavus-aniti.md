@@ -5,10 +5,10 @@ slug: "sehit-yzb-ali-bey-ve-abdullah-cavus-aniti"
 description: "## Şehit Yzb Ali Bey ve Abdullah Çavuş Anıtı..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Eşme"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9662361,38.3966217"
 draft: "false"
 weight: "999"

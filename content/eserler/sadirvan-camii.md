@@ -5,10 +5,10 @@ slug: "sadirvan-camii"
 description: "## Şadırvan Camii: Bartın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.33815,41.6318817"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dikyamac-koyu-ve-cevresi-yasam-tarzi-muzesi"
 description: "## Dikyamaç Köyü ve Çevresi Yaşam Tarzı Müzesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Arhavi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "41.37083333,41.28916667"
 draft: "false"
 weight: "999"

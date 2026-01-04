@@ -5,10 +5,10 @@ slug: "genc-osman-camii"
 description: "## Genç Osman Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.8739738,41.0269241"
 draft: "false"
 weight: "999"

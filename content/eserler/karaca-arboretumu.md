@@ -5,10 +5,10 @@ slug: "karaca-arboretumu"
 description: "## Karaca Arboretumu: Yalova'da Doğanın Müzesi..."
 featured_image: ""
 province: "Yalova"
-iller: '["Yalova"]'
+iller: ["Yalova"]
 district: "Yalova"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.2247639,40.6341057"
 draft: "false"
 weight: "999"

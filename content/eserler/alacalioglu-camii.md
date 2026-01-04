@@ -5,10 +5,10 @@ slug: "alacalioglu-camii"
 description: "## Alacalıoğlu Camii..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8043022,39.8253708"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rum-mehmet-pasa-turbesi-tire"
 description: "## Rum Mehmet Paşa Türbesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7506886,38.0829048"
 draft: "false"
 weight: "999"

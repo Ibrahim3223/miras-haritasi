@@ -5,10 +5,10 @@ slug: "seyh-halili-turbesi"
 description: "## Şeyh Halili Türbesi: Selçuklu'nun Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4954987,37.8852196"
 draft: "false"
 weight: "999"

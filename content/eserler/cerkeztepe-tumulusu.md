@@ -5,10 +5,10 @@ slug: "cerkeztepe-tumulusu"
 description: "# Çerkeztepe Tümülüsü: Malatya'nın Gizli Güzelliği..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.8989449,38.4525909"
 draft: "false"
 weight: "999"

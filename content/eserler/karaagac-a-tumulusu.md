@@ -5,10 +5,10 @@ slug: "karaagac-a-tumulusu"
 description: "## Karaağaç A Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.5315742,41.6432381"
 draft: "false"
 weight: "999"

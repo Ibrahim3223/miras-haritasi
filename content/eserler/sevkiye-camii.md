@@ -5,10 +5,10 @@ slug: "sevkiye-camii"
 description: "# Şevkiye Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9768143,40.3551483"
 draft: "false"
 weight: "999"

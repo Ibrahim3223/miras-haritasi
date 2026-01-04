@@ -5,10 +5,10 @@ slug: "harputlu-mescidi"
 description: "### Harputlu Mescidi: Bergama'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1805401,39.1184731"
 draft: "false"
 weight: "999"

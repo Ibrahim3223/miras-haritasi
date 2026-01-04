@@ -5,10 +5,10 @@ slug: "handan-bey-camii"
 description: "### Handan Bey Camii..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3822632,37.0648575"
 draft: "false"
 weight: "999"

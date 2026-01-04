@@ -5,10 +5,10 @@ slug: "afife-jale-bustu"
 description: "### Afife Jale Büstü: Kadıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0269356,40.9874001"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmudiye-hamami"
 description: "## Mahmudiye Hamamı: Eskişehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.9967613,39.4952011"
 draft: "false"
 weight: "999"

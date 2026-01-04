@@ -5,10 +5,10 @@ slug: "abdulaziz-aga-kulesi"
 description: "### Abdülaziz Ağa Kulesi: Milas'ta Bir Tarihî Hamam..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.7855606,37.3155251"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "merkez-camii-hayrat"
 description: "## Merkez Camii Hayrat..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Hayrat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.391108,40.872907"
 draft: "false"
 weight: "999"

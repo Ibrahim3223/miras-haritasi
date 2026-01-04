@@ -5,10 +5,10 @@ slug: "bedrettin-ibrahim-bey-camii"
 description: "## Bedrettin İbrahim Bey Camii: Karaman'ın Tarihi Çiçeği..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2061348,37.1813469"
 draft: "false"
 weight: "999"

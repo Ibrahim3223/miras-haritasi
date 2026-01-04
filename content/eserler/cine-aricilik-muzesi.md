@@ -5,10 +5,10 @@ slug: "cine-aricilik-muzesi"
 description: "## Çine Arıcılık Müzesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.058746272,37.57843604"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "iskele-camii-amasra"
 description: "### İskele Camii, Amasra: Bir Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Amasra İlçesi"
-iller: '["Amasra İlçesi"]'
+iller: ["Amasra İlçesi"]
 district: "Amasra"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3873558,41.7487106"
 draft: "false"
 weight: "999"

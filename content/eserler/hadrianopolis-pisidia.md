@@ -5,10 +5,10 @@ slug: "hadrianopolis-pisidia"
 description: "## Hadrianopolis (Pisidia): Tarihin İzleri Burdur'da..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.04333,37.506828"
 draft: "false"
 weight: "999"

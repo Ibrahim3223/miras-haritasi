@@ -5,10 +5,10 @@ slug: "hamam-ilicabogazi"
 description: "**Ilıcaboğazı Hamamı: Balıkesir'in Tarihi Bir Anıtı**..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Susurluk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.1330452,40.0938911"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sivircik-camii"
 description: "## Sıvırcık Camii: Erzurum'un İhtişamlı Mimarisi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2812653,39.9053993"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "manisa-yukari-kiran-kutuphanesi"
 description: "## Manisa Yukarı Kıran Kütüphanesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Demirci"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.654181923,39.04759848"
 draft: "false"
 weight: "999"

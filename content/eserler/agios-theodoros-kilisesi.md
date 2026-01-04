@@ -5,10 +5,10 @@ slug: "agios-theodoros-kilisesi"
 description: "## Agios Theodoros Kilisesi: Karacabey'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.4284306,40.2486687"
 draft: "false"
 weight: "999"

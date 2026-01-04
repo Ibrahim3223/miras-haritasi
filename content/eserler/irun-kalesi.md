@@ -5,10 +5,10 @@ slug: "irun-kalesi"
 description: "#### İrun Kalesi..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Şirvan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.2218132,38.1672287"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoskadem-camii-sivrihisar"
 description: "## Hoşkadem Camii: Sivrihisar'ın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5354538,39.4495201"
 draft: "false"
 weight: "999"

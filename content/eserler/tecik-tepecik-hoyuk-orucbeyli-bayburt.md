@@ -5,10 +5,10 @@ slug: "tecik-tepecik-hoyuk-orucbeyli-bayburt"
 description: "### Teçik Tepecik Höyük (Oruçbeyli), Bayburt..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.9594,40.248336"
 draft: "false"
 weight: "999"

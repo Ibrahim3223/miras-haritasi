@@ -5,10 +5,10 @@ slug: "paritzor-surp-asdvadzadzin-manastiri"
 description: "# Paritzor Surp Asdvadzadzin Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Hizan"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.3652802,38.2119446"
 draft: "false"
 weight: "999"

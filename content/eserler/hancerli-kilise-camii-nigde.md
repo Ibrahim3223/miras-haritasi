@@ -5,10 +5,10 @@ slug: "hancerli-kilise-camii-nigde"
 description: "## Hançerli Kilise Camii: Niğde'nin Gizli Azınlık Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6131058,37.9995232"
 draft: "false"
 weight: "999"

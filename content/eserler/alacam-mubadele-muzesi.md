@@ -5,10 +5,10 @@ slug: "alacam-mubadele-muzesi"
 description: "## Alaçam Mübadele Müzesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.596944444,41.605555555"
 draft: "false"
 weight: "999"

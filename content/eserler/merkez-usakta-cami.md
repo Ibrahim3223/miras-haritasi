@@ -5,10 +5,10 @@ slug: "merkez-usakta-cami"
 description: "## Merkez, Uşak'ta Cami: Tarihî Bir Zeminde Dürüstlük ve Güzellik..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.403916666,38.680611111"
 draft: "false"
 weight: "999"

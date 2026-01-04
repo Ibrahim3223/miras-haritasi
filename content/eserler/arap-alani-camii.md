@@ -5,10 +5,10 @@ slug: "arap-alani-camii"
 description: "# Arap Alanı Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4169083,38.6068764"
 draft: "false"
 weight: "999"

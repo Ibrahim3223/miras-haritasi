@@ -5,10 +5,10 @@ slug: "altigoz-koprusu"
 description: "# Altıgöz Köprüsü..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.54867363,38.76972961"
 draft: "false"
 weight: "999"

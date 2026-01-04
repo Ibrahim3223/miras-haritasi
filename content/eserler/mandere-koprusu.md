@@ -5,10 +5,10 @@ slug: "mandere-koprusu"
 description: "**Mandere Köprüsü**..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.461,40.911217"
 draft: "false"
 weight: "999"

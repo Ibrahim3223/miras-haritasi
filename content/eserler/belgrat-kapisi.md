@@ -5,10 +5,10 @@ slug: "belgrat-kapisi"
 description: "### Belgrat Kapısı: İstanbul'un Tarihsel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.920565,40.999889"
 draft: "false"
 weight: "999"

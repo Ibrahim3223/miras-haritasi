@@ -5,10 +5,10 @@ slug: "haldun-taner-sahnesi"
 description: "## Haldun Taner Sahnesi: Kadıköy'ün Tarihi Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hâldun_Taner_Sahnesi.JPG/1200px-Hâldun_Taner_Sahnesi.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.0232,40.9918"
 draft: "false"
 weight: "10"

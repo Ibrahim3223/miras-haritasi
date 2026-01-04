@@ -5,10 +5,10 @@ slug: "tuglaci-camii"
 description: "# Tuğlacı Camii: İstanbul'un Gizli Çehresinde Bir Öteki Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Tuğlacı_başı_camii_-_panoramio.jpg/1200px-Tuğlacı_başı_camii_-_panoramio.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.047777777,40.984583333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sukrullah-camii"
 description: "## Şükrullah Camii: Mardin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2689018,37.4155998"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "beysehir-regulatoru"
 description: "## Beyşehir Regülatörü: Konya'nın Tarihi Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.722778,37.680517"
 draft: "false"
 weight: "999"

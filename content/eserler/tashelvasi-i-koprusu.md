@@ -5,10 +5,10 @@ slug: "tashelvasi-i-koprusu"
 description: "## Taşhelvası I Köprüsü: Diyarbakır'ın Eski Çağlardan Kalma Harikası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3197021,37.7766609"
 draft: "false"
 weight: "999"

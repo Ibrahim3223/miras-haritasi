@@ -5,10 +5,10 @@ slug: "sehrekustu-turbesi"
 description: "## Şehreküstü Türbesi: Afyonkarahisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5414677,38.7645988"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "myra-hamami"
 description: "## Myra Hamamı: Antik Döneminin Gizemi Demre'de..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.989017422,36.254114542"
 draft: "false"
 weight: "999"

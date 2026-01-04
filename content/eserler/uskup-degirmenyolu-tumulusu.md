@@ -5,10 +5,10 @@ slug: "uskup-degirmenyolu-tumulusu"
 description: "## Üsküp Değirmenyolu Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3865223,41.7205086"
 draft: "false"
 weight: "999"

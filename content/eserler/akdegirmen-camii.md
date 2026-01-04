@@ -5,10 +5,10 @@ slug: "akdegirmen-camii"
 description: "## Akdeğirmen Camii: Tokat'ın Değerli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/54/Gaziantep_Zeugma_Museum_Akde%C4%9Firmen_mosaic_in_2014_2726.jpg"
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.551857,40.3050079"
 draft: "false"
 weight: "999"

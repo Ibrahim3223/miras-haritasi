@@ -5,10 +5,10 @@ slug: "roma-koprusu-3-hypaipa"
 description: "## Roma Köprüsü 3, Hypaipa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9550171,38.2728806"
 draft: "false"
 weight: "999"

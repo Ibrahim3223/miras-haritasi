@@ -5,10 +5,10 @@ slug: "seyidna-hidir-aleyselam-turbesi"
 description: "## Seyidna Hıdır Aleyselam Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6186295,36.7949409"
 draft: "false"
 weight: "999"

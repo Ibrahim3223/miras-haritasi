@@ -5,10 +5,10 @@ slug: "muhittin-baba-turbesi"
 description: "## Muhittin Baba Türbesi: Tekirdağ'ın Tarihî Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7992077,41.1600533"
 draft: "false"
 weight: "999"

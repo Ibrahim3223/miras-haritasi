@@ -5,10 +5,10 @@ slug: "torul-ilecik-koyu-koprusu"
 description: "## Torul İlecik Köyü Köprüsü: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.08765,40.51553"
 draft: "false"
 weight: "999"

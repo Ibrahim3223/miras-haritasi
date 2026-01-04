@@ -5,10 +5,10 @@ slug: "asagi-mahalle-kilisesi"
 description: "## Aşağı Mahalle Kilisesi: Torul'da Bir Tarihi İmaj..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.14507,40.456353"
 draft: "false"
 weight: "999"

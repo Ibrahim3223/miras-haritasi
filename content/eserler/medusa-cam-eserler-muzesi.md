@@ -5,10 +5,10 @@ slug: "medusa-cam-eserler-muzesi"
 description: "## Medusa Cam Eserler Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.381815,37.066942"
 draft: "false"
 weight: "999"

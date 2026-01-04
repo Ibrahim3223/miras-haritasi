@@ -5,10 +5,10 @@ slug: "hasan-gazi-turbesi"
 description: "### Hasan Gazi Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Darende"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.4976,38.5665"
 draft: "false"
 weight: "999"

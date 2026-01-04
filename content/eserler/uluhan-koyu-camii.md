@@ -5,10 +5,10 @@ slug: "uluhan-koyu-camii"
 description: "### Uluhan Köyü Camii Tanıtımı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.1005192,40.3243752"
 draft: "false"
 weight: "999"

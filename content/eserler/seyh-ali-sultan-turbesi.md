@@ -5,10 +5,10 @@ slug: "seyh-ali-sultan-turbesi"
 description: "# Şeyh Ali Sultan Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.203548,37.175908"
 draft: "false"
 weight: "999"

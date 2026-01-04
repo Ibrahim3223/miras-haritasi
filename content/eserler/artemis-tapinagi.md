@@ -5,10 +5,10 @@ slug: "artemis-tapinagi"
 description: "## Artemis Tapınağı: Antik Dünyanın Bir Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ephesos.jpg/1200px-Ephesos.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.363889,37.949722"
 draft: "false"
 weight: "10"

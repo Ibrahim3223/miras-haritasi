@@ -5,10 +5,10 @@ slug: "sirkeci-mustafa-aga-camii"
 description: "## Sirkeci Mustafa Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sirkeci_Mustafa_Ağa_Mosque.jpg/1200px-Sirkeci_Mustafa_Ağa_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.983904036,41.033034524"
 draft: "false"
 weight: "10"

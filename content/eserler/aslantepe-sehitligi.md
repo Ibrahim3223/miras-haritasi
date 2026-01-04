@@ -5,10 +5,10 @@ slug: "aslantepe-sehitligi"
 description: "## Aslantepe Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2731037,40.3340454"
 draft: "false"
 weight: "999"

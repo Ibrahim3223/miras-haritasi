@@ -5,10 +5,10 @@ slug: "kasystes"
 description: "## Kasystes: Urla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.556854,38.148389"
 draft: "false"
 weight: "999"

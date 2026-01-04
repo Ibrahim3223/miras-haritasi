@@ -5,10 +5,10 @@ slug: "sangul-koprusu"
 description: "## Şangul Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.067883,41.124983"
 draft: "false"
 weight: "999"

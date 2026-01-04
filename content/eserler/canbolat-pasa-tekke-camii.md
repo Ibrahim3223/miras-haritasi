@@ -5,10 +5,10 @@ slug: "canbolat-pasa-tekke-camii"
 description: "## Canbolat Paşa Tekke Camii..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1144333,36.7147713"
 draft: "false"
 weight: "999"

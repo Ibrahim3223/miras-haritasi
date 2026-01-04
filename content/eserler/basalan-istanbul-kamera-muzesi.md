@@ -5,10 +5,10 @@ slug: "basalan-istanbul-kamera-muzesi"
 description: "## İstanbul Kamera Müzesi: Giriş..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.951045688,41.030127093"
 draft: "false"
 weight: "999"

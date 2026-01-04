@@ -5,10 +5,10 @@ slug: "seyyit-velayet-turbesi"
 description: "### Seyyit Velayet Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.956096,41.024244"
 draft: "false"
 weight: "999"

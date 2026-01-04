@@ -5,10 +5,10 @@ slug: "guney-agora-milet"
 description: "### Güney Agora (Milet)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Market_Gate_of_Miletus_in_the_Pergamon_Museum.jpg/1200px-Market_Gate_of_Miletus_in_the_Pergamon_Museum.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.279166666,37.528333333"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "salih-aga-camii"
 description: "## Salih Ağa Camii..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.025322,38.3749809"
 draft: "false"
 weight: "999"

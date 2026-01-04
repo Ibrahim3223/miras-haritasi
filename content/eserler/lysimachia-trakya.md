@@ -5,10 +5,10 @@ slug: "lysimachia-trakya"
 description: "## Lysimachia: Trakya'nın Gizli Şehri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.88,40.58"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayazma-cesmesi"
 description: "## Ayazma Çeşmesi: Denizli'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ancient_City_of_Hierapolis,_2019_28.jpg/1200px-Ancient_City_of_Hierapolis,_2019_28.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "10"

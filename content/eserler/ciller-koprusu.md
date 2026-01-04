@@ -5,10 +5,10 @@ slug: "ciller-koprusu"
 description: "### Çiller Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ereğli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.095917,37.605175"
 draft: "false"
 weight: "999"

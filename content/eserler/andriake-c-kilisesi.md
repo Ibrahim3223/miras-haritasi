@@ -5,10 +5,10 @@ slug: "andriake-c-kilisesi"
 description: "## Andriake C Kilisesi: Demre'nin Gizli Çehresini Görüntülemek..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.9528294,36.2250481"
 draft: "false"
 weight: "999"

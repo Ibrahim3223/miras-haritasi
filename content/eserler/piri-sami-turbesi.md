@@ -5,10 +5,10 @@ slug: "piri-sami-turbesi"
 description: "### Piri Sami Türbesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzincan"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "39.4924736,39.7272758"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "atik-valide-darulkurrasi"
 description: "**Atik Valide Darülkurrası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.023869,41.018265"
 draft: "false"
 weight: "999"

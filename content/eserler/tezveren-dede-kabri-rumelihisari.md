@@ -5,10 +5,10 @@ slug: "tezveren-dede-kabri-rumelihisari"
 description: "## Tezveren Dede Kabri: Rumelihisarı'nın Tarihsel Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.055336,41.0882111"
 draft: "false"
 weight: "999"

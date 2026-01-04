@@ -5,10 +5,10 @@ slug: "yoruk-dede-turbesi-altindag"
 description: "# Yörük Dede Türbesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8709869,39.935215"
 draft: "false"
 weight: "999"

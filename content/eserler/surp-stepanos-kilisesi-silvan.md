@@ -5,10 +5,10 @@ slug: "surp-stepanos-kilisesi-silvan"
 description: "### Surp Stepanos Kilisesi (Silvan)..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.0032253,38.1420478"
 draft: "false"
 weight: "999"

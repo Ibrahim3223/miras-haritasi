@@ -5,10 +5,10 @@ slug: "kemaliye-camii"
 description: "### Kemaliye Camii..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.4790993,40.4595375"
 draft: "false"
 weight: "999"

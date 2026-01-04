@@ -5,10 +5,10 @@ slug: "panhormus-kilikya"
 description: "### Panhormus (Kilikya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.8102185,37.24008"
 draft: "false"
 weight: "999"

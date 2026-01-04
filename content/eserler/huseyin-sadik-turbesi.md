@@ -5,10 +5,10 @@ slug: "huseyin-sadik-turbesi"
 description: "## Hüseyin Sadık Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Hüseyin_Sadık_Türbesi2.jpg/1200px-Hüseyin_Sadık_Türbesi2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9485408,41.0316102"
 draft: "false"
 weight: "10"

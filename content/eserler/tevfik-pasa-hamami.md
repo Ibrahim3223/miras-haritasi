@@ -5,10 +5,10 @@ slug: "tevfik-pasa-hamami"
 description: "## Tevfik Paşa Hamamı: İzmir'in Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tefik_Paşa_Hamamı.jpg/1200px-Tefik_Paşa_Hamamı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1379738,38.4205017"
 draft: "false"
 weight: "10"

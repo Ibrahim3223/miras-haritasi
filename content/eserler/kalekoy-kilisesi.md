@@ -5,10 +5,10 @@ slug: "kalekoy-kilisesi"
 description: "## Kaleköy Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "25.8991928,40.2334023"
 draft: "false"
 weight: "999"

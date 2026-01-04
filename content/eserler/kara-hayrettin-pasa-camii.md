@@ -5,10 +5,10 @@ slug: "kara-hayrettin-pasa-camii"
 description: "## Kara Hayrettin Paşa Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7307911,38.0829163"
 draft: "false"
 weight: "999"

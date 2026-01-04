@@ -5,10 +5,10 @@ slug: "hatunsaray-gomse-koprusu"
 description: "## Hatunsaray Gömse Köprüsü: Konya'nın Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3341496,37.617849"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tellakzade-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2263145,41.7394104"
 draft: "false"
 weight: "999"

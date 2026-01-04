@@ -5,10 +5,10 @@ slug: "sultaniye-camii"
 description: "## Sultaniye Camii: Bitlis'in Gizemli Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1070557,38.3984108"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ziyarettepe-kalesi"
 description: "## Ziyarettepe Kalesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.4904938,40.5471878"
 draft: "false"
 weight: "999"

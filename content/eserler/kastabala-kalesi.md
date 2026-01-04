@@ -5,10 +5,10 @@ slug: "kastabala-kalesi"
 description: "## Kastabala Kalesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Osmaniye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.1873779,37.1772499"
 draft: "false"
 weight: "999"

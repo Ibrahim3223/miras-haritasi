@@ -5,10 +5,10 @@ slug: "tercil-kalesi"
 description: "## Tercil Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Hazro"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.7362061,38.2500687"
 draft: "false"
 weight: "999"

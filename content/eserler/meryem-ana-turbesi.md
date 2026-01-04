@@ -5,10 +5,10 @@ slug: "meryem-ana-turbesi"
 description: "## Meryem Ana Türbesi: Aydın'ın Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.4844799,37.6632767"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "huseyin-pasa-hamami"
 description: "## Hüseyin Paşa Hamamı: Gaziantep'in Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.3843994,37.0610123"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukur-hamam"
 description: "## Çukur Hamam..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4311237,38.6085052"
 draft: "false"
 weight: "999"

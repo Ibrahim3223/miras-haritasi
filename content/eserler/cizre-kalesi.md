@@ -5,10 +5,10 @@ slug: "cizre-kalesi"
 description: "**Cizre Kalesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kela_Cizîrê_2009.jpg/1200px-Kela_Cizîrê_2009.jpg"
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.192779996,37.328909801"
 draft: "false"
 weight: "10"

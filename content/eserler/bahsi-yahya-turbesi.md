@@ -5,10 +5,10 @@ slug: "bahsi-yahya-turbesi"
 description: "## Bahşi Yahya Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2779,39.6835"
 draft: "false"
 weight: "999"

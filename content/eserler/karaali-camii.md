@@ -5,10 +5,10 @@ slug: "karaali-camii"
 description: "## Karaali Camii: Uşak'ta Bir Türk Müziği Evinin Geriye Bıraktığı Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Karaali_Camii1.jpg/1200px-Karaali_Camii1.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.402995,38.679299"
 draft: "false"
 weight: "10"

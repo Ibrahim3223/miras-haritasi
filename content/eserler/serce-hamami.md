@@ -5,10 +5,10 @@ slug: "serce-hamami"
 description: "### Serçe Hamamı: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.7885361,37.1552391"
 draft: "false"
 weight: "999"

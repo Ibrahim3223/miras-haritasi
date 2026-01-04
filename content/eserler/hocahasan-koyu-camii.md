@@ -5,10 +5,10 @@ slug: "hocahasan-koyu-camii"
 description: "## Hocahasan Köyü Camii: Tarihi ve Kültürel Mirasın Bir Örneği..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.344326,40.7849197"
 draft: "false"
 weight: "999"

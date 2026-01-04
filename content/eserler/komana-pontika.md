@@ -5,10 +5,10 @@ slug: "komana-pontika"
 description: "## Komana Pontika: Tokat'taki Antik Kent..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.6385916,40.3573694"
 draft: "false"
 weight: "999"

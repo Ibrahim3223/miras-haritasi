@@ -5,10 +5,10 @@ slug: "ugrak-koyu-camii"
 description: "## Uğrak Köyü Camii: Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.93175427,41.084985202"
 draft: "false"
 weight: "999"

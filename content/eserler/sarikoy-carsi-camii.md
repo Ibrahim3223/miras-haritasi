@@ -5,10 +5,10 @@ slug: "sarikoy-carsi-camii"
 description: "# Sarıköy Çarşı Camii: Balıkesir'in Tarihî Bir Câmii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5978661,40.2043037"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii"
 description: "# Rüstem Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Rüstem_Pasha_Mosque_in_2024_5321.jpg/1200px-Rüstem_Pasha_Mosque_in_2024_5321.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.96874786,41.01759104"
 draft: "false"
 weight: "10"

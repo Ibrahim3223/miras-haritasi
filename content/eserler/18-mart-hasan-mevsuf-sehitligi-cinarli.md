@@ -5,10 +5,10 @@ slug: "18-mart-hasan-mevsuf-sehitligi-cinarli"
 description: "### 18 Mart Hasan Mevsuf Şehitliği, Çınarlı Anıtının Tanıtımı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.371685,40.0855255"
 draft: "false"
 weight: "999"

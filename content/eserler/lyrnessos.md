@@ -5,10 +5,10 @@ slug: "lyrnessos"
 description: "## Lyrnessos: Bir Antik Kentin İzleri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.082027,39.508231"
 draft: "false"
 weight: "999"

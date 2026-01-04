@@ -5,10 +5,10 @@ slug: "seyh-coban-turbesi"
 description: "### Şeyh Çoban Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0148506,39.7428627"
 draft: "false"
 weight: "999"

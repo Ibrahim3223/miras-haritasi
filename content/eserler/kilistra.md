@@ -5,10 +5,10 @@ slug: "kilistra"
 description: "### Kilistra: Türkiye'nin Eski Dünya Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.21053,37.66472"
 draft: "false"
 weight: "999"

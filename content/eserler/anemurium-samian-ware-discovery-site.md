@@ -5,10 +5,10 @@ slug: "anemurium-samian-ware-discovery-site"
 description: "# Anemurium: Samian Ware Discovery Site..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.82,36.1"
 draft: "false"
 weight: "999"

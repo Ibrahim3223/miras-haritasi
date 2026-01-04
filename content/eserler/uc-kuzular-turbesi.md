@@ -5,10 +5,10 @@ slug: "uc-kuzular-turbesi"
 description: "## Üç Kuzular Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.056778,40.177104"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "altinoluk-merkez-camii"
 description: "### Altınoluk Merkez Camii: Edremit'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8d/Alt%C4%B1noluk_merkez_camii_-_panoramio_%281%29.jpg"
 province: "Edremit (Balıkesir) ilçesi"
-iller: '["Edremit (Balıkesir) ilçesi"]'
+iller: ["Edremit (Balıkesir) ilçesi"]
 district: "Altınoluk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7383097,39.5798076"
 draft: "false"
 weight: "999"

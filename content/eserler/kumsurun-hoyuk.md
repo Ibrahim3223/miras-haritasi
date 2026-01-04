@@ -5,10 +5,10 @@ slug: "kumsurun-hoyuk"
 description: "## Kumsurun Höyük: Elbeyli'nin Gizli İncisi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Elbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.527253,36.7179479"
 draft: "false"
 weight: "999"

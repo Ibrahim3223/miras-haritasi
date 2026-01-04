@@ -5,10 +5,10 @@ slug: "garpu-kalesi"
 description: "## Garpu Kalesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Salıpazarı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.8974876,41.019783"
 draft: "false"
 weight: "999"

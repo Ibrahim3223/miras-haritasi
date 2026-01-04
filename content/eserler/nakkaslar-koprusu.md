@@ -5,10 +5,10 @@ slug: "nakkaslar-koprusu"
 description: "### Nakkaşlar Köprüsü..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.0255051,38.374752"
 draft: "false"
 weight: "999"

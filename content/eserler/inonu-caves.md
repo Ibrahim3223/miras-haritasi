@@ -5,10 +5,10 @@ slug: "inonu-caves"
 description: "**İnönü Mağaraları: Ankara'nın Gizli Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.244833333,40.219694444"
 draft: "false"
 weight: "999"

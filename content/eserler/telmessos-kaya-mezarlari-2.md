@@ -5,10 +5,10 @@ slug: "telmessos-kaya-mezarlari-2"
 description: "**Telmessos Kaya Mezarları 2**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1134014,36.6179504"
 draft: "false"
 weight: "999"

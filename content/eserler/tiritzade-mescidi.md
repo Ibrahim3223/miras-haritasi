@@ -5,10 +5,10 @@ slug: "tiritzade-mescidi"
 description: "## Tiritzade Mescidi: Altındağ'daki Bir Tarihî Çanak..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8659172,39.9365311"
 draft: "false"
 weight: "999"

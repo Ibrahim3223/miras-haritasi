@@ -5,10 +5,10 @@ slug: "uchoyukler-b-tumulusu"
 description: "### Üçhöyükler B Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9302502,41.8556824"
 draft: "false"
 weight: "999"

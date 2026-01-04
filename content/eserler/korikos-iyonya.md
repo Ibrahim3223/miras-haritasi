@@ -5,10 +5,10 @@ slug: "korikos-iyonya"
 description: "## Korikos, İyonya: Bir Antik Kentin Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.585833333,38.146388888"
 draft: "false"
 weight: "999"

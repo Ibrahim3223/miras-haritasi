@@ -5,10 +5,10 @@ slug: "bozhoyuk-ihsaniye"
 description: "## Bozhöyük, İhsaniye: Afyonkarahisar'ın Gizli Anıtı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İhsaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.5730659,38.9571392"
 draft: "false"
 weight: "999"

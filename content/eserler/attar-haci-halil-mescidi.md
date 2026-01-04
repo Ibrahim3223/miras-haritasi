@@ -5,10 +5,10 @@ slug: "attar-haci-halil-mescidi"
 description: "## Attar Hacı Halil Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5505867,41.6718712"
 draft: "false"
 weight: "999"

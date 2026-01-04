@@ -5,10 +5,10 @@ slug: "kars-kutsal-ana-meryem-kilisesi"
 description: "### Kars Kutsal Ana Meryem Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Կարսի_Ս._Աստվածածին_եկեղեցի.jpg/1200px-Կարսի_Ս._Աստվածածին_եկեղեցի.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.088277777,40.612611111"
 draft: "false"
 weight: "10"

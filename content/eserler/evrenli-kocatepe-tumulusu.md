@@ -5,10 +5,10 @@ slug: "evrenli-kocatepe-tumulusu"
 description: "## Evrenli Kocatepe Tümülüsü: Kırklareli'nin Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8437729,41.5308571"
 draft: "false"
 weight: "999"

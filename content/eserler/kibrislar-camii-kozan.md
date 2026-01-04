@@ -5,10 +5,10 @@ slug: "kibrislar-camii-kozan"
 description: "## Kıbrıslar Camii: Kozan'ın Tarihi Bir Şansı..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Kozan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.6938438,37.6560783"
 draft: "false"
 weight: "999"

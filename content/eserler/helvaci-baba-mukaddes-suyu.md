@@ -5,10 +5,10 @@ slug: "helvaci-baba-mukaddes-suyu"
 description: "## Helvacı Baba Mukaddes Suyu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1733,39.1264"
 draft: "false"
 weight: "999"

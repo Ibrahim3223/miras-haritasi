@@ -5,10 +5,10 @@ slug: "fatih-pasa-turbesi"
 description: "## Fatih Paşa Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2414589,37.9113045"
 draft: "false"
 weight: "999"

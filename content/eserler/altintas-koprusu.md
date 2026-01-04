@@ -5,10 +5,10 @@ slug: "altintas-koprusu"
 description: "### Altıntaş Köprüsü: Edirne'nin Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.7066574,41.0117836"
 draft: "false"
 weight: "999"

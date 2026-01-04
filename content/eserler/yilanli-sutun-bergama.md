@@ -5,10 +5,10 @@ slug: "yilanli-sutun-bergama"
 description: "### Yılanlı Sütun: Bergama'nın Büyüleyici Anıtı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

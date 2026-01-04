@@ -5,10 +5,10 @@ slug: "savita-kilisesi"
 description: "### Şavita Kilisesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Yüksekova"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.9334602,37.6651154"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hisar-anit-mezari"
 description: "### Hisar Anıt Mezarı: Gaziantep'in Efsanevi Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.9149399,37.3841362"
 draft: "false"
 weight: "999"

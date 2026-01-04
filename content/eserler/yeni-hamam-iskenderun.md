@@ -5,10 +5,10 @@ slug: "yeni-hamam-iskenderun"
 description: "## Yeni Hamam, İskenderun..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "İskenderun"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1707268,36.5889893"
 draft: "false"
 weight: "999"

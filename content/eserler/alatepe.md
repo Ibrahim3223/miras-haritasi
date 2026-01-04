@@ -5,10 +5,10 @@ slug: "alatepe"
 description: "## Alatepe: Edirne'nin Gizli Mimari Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/43/Navire_tanker_ALATEPE_au_port_de_Casablanca.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.52758,41.759111"
 draft: "false"
 weight: "999"

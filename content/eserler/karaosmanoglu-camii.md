@@ -5,10 +5,10 @@ slug: "karaosmanoglu-camii"
 description: "### Karaosmanoğlu Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.671011,39.1048584"
 draft: "false"
 weight: "999"

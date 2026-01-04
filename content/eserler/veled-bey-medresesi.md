@@ -5,10 +5,10 @@ slug: "veled-bey-medresesi"
 description: "## Veled Bey Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.4344387,38.6115303"
 draft: "false"
 weight: "999"

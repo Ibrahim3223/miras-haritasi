@@ -5,10 +5,10 @@ slug: "lajos-kossuth-aniti"
 description: "## Lajos Kossuth Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.973772,39.4164734"
 draft: "false"
 weight: "999"

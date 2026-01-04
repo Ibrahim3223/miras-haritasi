@@ -5,10 +5,10 @@ slug: "milas-muzesi"
 description: "## Milas Müzesi: Ege'nin Tarihi ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Milasmus.jpg/1200px-Milasmus.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.78416667,37.31333333"
 draft: "false"
 weight: "10"

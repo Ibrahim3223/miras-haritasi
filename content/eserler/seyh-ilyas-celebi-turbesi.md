@@ -5,10 +5,10 @@ slug: "seyh-ilyas-celebi-turbesi"
 description: "### Şeyh İlyas Çelebi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.845915,38.921967"
 draft: "false"
 weight: "999"

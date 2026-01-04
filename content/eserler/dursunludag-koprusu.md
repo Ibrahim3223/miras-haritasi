@@ -5,10 +5,10 @@ slug: "dursunludag-koprusu"
 description: "## Dursunludağ Köprüsü: Hatay'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Defne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.159042,36.176216"
 draft: "false"
 weight: "999"

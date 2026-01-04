@@ -5,10 +5,10 @@ slug: "hamam-1"
 description: "## Hamam 1: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3624001,37.9487991"
 draft: "false"
 weight: "999"

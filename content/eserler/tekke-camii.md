@@ -5,10 +5,10 @@ slug: "tekke-camii"
 description: "## Tekke Camii: Serik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: "false"
 weight: "999"

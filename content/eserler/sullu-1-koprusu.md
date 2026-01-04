@@ -5,10 +5,10 @@ slug: "sullu-1-koprusu"
 description: "## Süllü 1 Köprüsü: Giresun'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Dereli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.346687,40.654749"
 draft: "false"
 weight: "999"

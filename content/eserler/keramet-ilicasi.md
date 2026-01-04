@@ -5,10 +5,10 @@ slug: "keramet-ilicasi"
 description: "## Keramet Ilıcası: Bursa'nın Tarihi Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Orhangazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.4763992,40.4982695"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alaybey-camii"
 description: "## Alaybey Camii: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/20/Allajbegi_Mosque.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4389019,38.614254"
 draft: "false"
 weight: "999"

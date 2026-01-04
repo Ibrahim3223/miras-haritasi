@@ -5,10 +5,10 @@ slug: "pazaryeri-2"
 description: "# Pazaryeri 2: Tarihî bir Arkeolojik Sit..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Pazaryeri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.9327,39.991383"
 draft: "false"
 weight: "999"

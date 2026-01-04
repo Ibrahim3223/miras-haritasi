@@ -5,10 +5,10 @@ slug: "akin-hoyuk"
 description: "## Akın Höyük: Eskişehir'de Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.524233,39.333733"
 draft: "false"
 weight: "999"

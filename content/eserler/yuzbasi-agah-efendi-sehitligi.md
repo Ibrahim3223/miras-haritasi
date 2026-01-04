@@ -5,10 +5,10 @@ slug: "yuzbasi-agah-efendi-sehitligi"
 description: "**Yüzbaşı Agah Efendi Şehitliği**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5015888,38.6963539"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kadikoy-karmateruba-koprusu"
 description: "## Kadıköy Karmateruba Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.01035,41.06445"
 draft: "false"
 weight: "999"

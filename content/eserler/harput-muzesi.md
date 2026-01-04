@@ -5,10 +5,10 @@ slug: "harput-muzesi"
 description: "### Harput Müzesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.251667,38.704444"
 draft: "false"
 weight: "999"

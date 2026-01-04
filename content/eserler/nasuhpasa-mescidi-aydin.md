@@ -5,10 +5,10 @@ slug: "nasuhpasa-mescidi-aydin"
 description: "## Nasuhpaşa Mescidi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8405132,37.85252"
 draft: "false"
 weight: "999"

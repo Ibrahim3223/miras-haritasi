@@ -5,10 +5,10 @@ slug: "kestane-mahallesi-koprusu"
 description: "## Kestane Mahallesi Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Gülyalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.06558,40.917619"
 draft: "false"
 weight: "999"

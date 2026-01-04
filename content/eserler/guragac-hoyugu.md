@@ -5,10 +5,10 @@ slug: "guragac-hoyugu"
 description: "### Gürağaç Höyüğü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Güneysınır"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.7030668,37.257563"
 draft: "false"
 weight: "999"

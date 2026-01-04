@@ -5,10 +5,10 @@ slug: "atarneus-sub-pitanem"
 description: "**Atarneus sub Pitanem: Antik Çağın Gizemi**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.85959,38.928313"
 draft: "false"
 weight: "999"

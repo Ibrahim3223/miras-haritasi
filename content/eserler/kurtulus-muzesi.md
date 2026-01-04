@@ -5,10 +5,10 @@ slug: "kurtulus-muzesi"
 description: "## Kurtuluş Müzesi: Eskişehir'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Eskişehir_Museum_of_Independence_building.jpg/1200px-Eskişehir_Museum_of_Independence_building.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52361111,39.76444444"
 draft: "false"
 weight: "10"

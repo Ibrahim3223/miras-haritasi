@@ -5,10 +5,10 @@ slug: "doruk-hoyuk"
 description: "### Doruk Höyük: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.7920621,37.7034089"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bursa-enerji-muzesi"
 description: "### Bursa Enerji Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Bursa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.05083333,40.20083333"
 draft: "false"
 weight: "999"

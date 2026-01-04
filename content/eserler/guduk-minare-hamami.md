@@ -5,10 +5,10 @@ slug: "guduk-minare-hamami"
 description: "## Güdük Minare Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.8397999,38.1986008"
 draft: "false"
 weight: "999"

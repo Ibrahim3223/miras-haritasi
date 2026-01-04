@@ -5,10 +5,10 @@ slug: "halic-metro-koprusu"
 description: "### Haliç Metro Köprüsü: İstanbul'un Tarihi ve Mimarisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/GoldenHornMetroBridge_09.JPG/1200px-GoldenHornMetroBridge_09.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.966527777,41.0225"
 draft: "false"
 weight: "10"

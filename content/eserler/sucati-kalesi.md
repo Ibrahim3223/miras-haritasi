@@ -5,10 +5,10 @@ slug: "sucati-kalesi"
 description: "## Suçatı Kalesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Yahyalı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.3503532,37.9738045"
 draft: "false"
 weight: "999"

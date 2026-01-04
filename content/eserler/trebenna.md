@@ -5,10 +5,10 @@ slug: "trebenna"
 description: "### Trebenna: Antalya'nın Gizli Arkeolojik Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Trebenna_-_Acropolis.jpg/1200px-Trebenna_-_Acropolis.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.475731,36.865717"
 draft: "false"
 weight: "10"

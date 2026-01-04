@@ -5,10 +5,10 @@ slug: "hosap-koprusu"
 description: "# Hoşap Köprüsü: Doğu Anadolu'nun Gizli Çehresini Gözler Önüne Koyan Bir Rönesans Eseri..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.799749,38.316691"
 draft: "false"
 weight: "999"

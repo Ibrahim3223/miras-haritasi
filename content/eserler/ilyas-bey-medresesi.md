@@ -5,10 +5,10 @@ slug: "ilyas-bey-medresesi"
 description: "## İlyas Bey Medresesi: Didim'in Ölümsüz Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/İlyas_Bey_Medresesi.jpg/1200px-İlyas_Bey_Medresesi.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.2777233,37.5266304"
 draft: "false"
 weight: "10"

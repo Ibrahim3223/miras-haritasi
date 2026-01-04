@@ -5,10 +5,10 @@ slug: "sehabeddin-sivasi-turbesi"
 description: "## Şehabeddin Sivasi Türbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.3689442,37.9477158"
 draft: "false"
 weight: "999"

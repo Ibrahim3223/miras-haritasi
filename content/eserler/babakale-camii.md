@@ -5,10 +5,10 @@ slug: "babakale-camii"
 description: "### Babakale Camii: Tarihi ve Kültürel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/04/BabakaleBurg.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.0653,39.4796982"
 draft: "false"
 weight: "999"

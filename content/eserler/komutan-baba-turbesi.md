@@ -5,10 +5,10 @@ slug: "komutan-baba-turbesi"
 description: "## Komutan Baba Türbesi: Akçakoca, Düzce'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.0875,41.0454"
 draft: "false"
 weight: "999"

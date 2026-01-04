@@ -5,10 +5,10 @@ slug: "seleukia-sidera"
 description: "## Seleukia Sidera: Isparta'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.6179,37.9"
 draft: "false"
 weight: "999"

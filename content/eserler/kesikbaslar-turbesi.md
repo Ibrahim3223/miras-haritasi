@@ -5,10 +5,10 @@ slug: "kesikbaslar-turbesi"
 description: "## Kesikbaşlar Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.6946621,39.4420357"
 draft: "false"
 weight: "999"

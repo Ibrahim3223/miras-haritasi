@@ -5,10 +5,10 @@ slug: "abalar-tumulusu"
 description: "## Abalar Tümülüsü: Edirne'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7572193,41.567173"
 draft: "false"
 weight: "999"

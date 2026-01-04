@@ -5,10 +5,10 @@ slug: "johnstons-jolly-mezarligi"
 description: "## Johnston's Jolly Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Jonnstone's_Jolly_Cemetery.jpg/1200px-Jonnstone's_Jolly_Cemetery.jpg"
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Kocadere"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.28741,40.23269"
 draft: "false"
 weight: "10"

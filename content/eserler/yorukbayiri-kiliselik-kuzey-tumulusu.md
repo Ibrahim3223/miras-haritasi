@@ -5,10 +5,10 @@ slug: "yorukbayiri-kiliselik-kuzey-tumulusu"
 description: "## Yörükbayırı Kiliselik Kuzey Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3411179,41.8249779"
 draft: "false"
 weight: "999"

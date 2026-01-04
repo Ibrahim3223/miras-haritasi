@@ -5,10 +5,10 @@ slug: "bloukion"
 description: "## Bloukion Arkeolojik Sit..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kahramankazan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.5935593,40.2007713"
 draft: "false"
 weight: "999"

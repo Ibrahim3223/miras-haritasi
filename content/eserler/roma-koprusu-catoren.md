@@ -5,10 +5,10 @@ slug: "roma-koprusu-catoren"
 description: "## Roma Köprüsü, Çatören..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akören"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3491329,37.5285817"
 draft: "false"
 weight: "999"

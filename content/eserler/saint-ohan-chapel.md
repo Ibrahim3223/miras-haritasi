@@ -5,10 +5,10 @@ slug: "saint-ohan-chapel"
 description: "## Saint Ohan Chapel..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

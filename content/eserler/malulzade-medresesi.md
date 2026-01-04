@@ -5,10 +5,10 @@ slug: "malulzade-medresesi"
 description: "### Malulzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9437943,41.0246391"
 draft: "false"
 weight: "999"

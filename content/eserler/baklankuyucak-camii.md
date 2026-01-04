@@ -5,10 +5,10 @@ slug: "baklankuyucak-camii"
 description: "### Baklankuyucak Camii: Denizli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5412006,37.8927994"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "geyikli-baba-hamami"
 description: "**Geyikli Baba Hamamı**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Kestel"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.3706379,40.1083183"
 draft: "false"
 weight: "999"

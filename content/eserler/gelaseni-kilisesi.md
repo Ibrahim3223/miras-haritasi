@@ -5,10 +5,10 @@ slug: "gelaseni-kilisesi"
 description: "### Gelaşeni Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Güleş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.20325,41.040027777"
 draft: "false"
 weight: "999"

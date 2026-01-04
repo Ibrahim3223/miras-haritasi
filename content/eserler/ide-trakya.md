@@ -5,10 +5,10 @@ slug: "ide-trakya"
 description: "## Ide (Trakya) Arkeolojik Sitesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.689216,40.504079"
 draft: "false"
 weight: "999"

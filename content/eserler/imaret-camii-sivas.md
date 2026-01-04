@@ -5,10 +5,10 @@ slug: "imaret-camii-sivas"
 description: "## İmaret Camii, Sivas..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0227547,39.7419968"
 draft: "false"
 weight: "999"

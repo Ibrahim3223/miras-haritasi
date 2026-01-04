@@ -5,10 +5,10 @@ slug: "sarabat-camii"
 description: "## Sarabat Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4378719,38.6092072"
 draft: "false"
 weight: "999"

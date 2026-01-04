@@ -5,10 +5,10 @@ slug: "domitiopolis"
 description: "## Domitiopolis: Eski Anadolu'nın Gizli Yerleri Arasında Bir Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.753914,36.750884"
 draft: "false"
 weight: "999"

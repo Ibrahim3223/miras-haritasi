@@ -5,10 +5,10 @@ slug: "antik-luvi-kultur-merkezi"
 description: "## Antik Luvi Kültür Merkezi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/04/Ancient_Luwian_Cultural_Center%2C_Seal_of_Isputashu.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Adana"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.331736169,36.983979117"
 draft: "false"
 weight: "999"

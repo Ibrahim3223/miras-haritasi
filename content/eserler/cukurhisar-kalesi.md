@@ -5,10 +5,10 @@ slug: "cukurhisar-kalesi"
 description: "**Çukurhisar Kalesi**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.5571556,37.8213387"
 draft: "false"
 weight: "999"

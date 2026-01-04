@@ -5,10 +5,10 @@ slug: "seyit-onbasi-aniti-havran-sehir-merkezi"
 description: "## Seyit Onbaşı Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Havran"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.0964661,39.5553131"
 draft: "false"
 weight: "999"

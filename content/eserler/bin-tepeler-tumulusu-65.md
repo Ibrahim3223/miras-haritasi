@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-65"
 description: "### Bin Tepeler Tümülüsü 65: Manisa'nın Gizli Çanakkale'si..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Ahmetli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9230404,38.5154533"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gulacar-koyu-kilisesi"
 description: "### Gülaçar Köyü Kilisesi: Gümüşhane'nin Tarihi Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.232958,40.384563"
 draft: "false"
 weight: "999"

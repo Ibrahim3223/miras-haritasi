@@ -5,10 +5,10 @@ slug: "roma-koprusu-bayirli"
 description: "## Roma Köprüsü, Bayırlı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Sındırgı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.1234684,39.2227135"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "caca-bey-turbesi"
 description: "## Caca Bey Türbesi: Kırşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.1615791,39.145237"
 draft: "false"
 weight: "999"

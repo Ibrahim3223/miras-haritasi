@@ -5,10 +5,10 @@ slug: "kara-hoyuk"
 description: "## Kara Höyük: Malatya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3137436,38.8134995"
 draft: "false"
 weight: "999"

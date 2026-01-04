@@ -5,10 +5,10 @@ slug: "kale-i-bala-camii"
 description: "# Kale-i Bala Camii: Kütahya'nın Tarihsel Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9712715,39.4189453"
 draft: "false"
 weight: "999"

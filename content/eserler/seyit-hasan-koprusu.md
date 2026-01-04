@@ -5,10 +5,10 @@ slug: "seyit-hasan-koprusu"
 description: "## Seyit Hasan Köprüsü: Tarihi ve Kültürel Mirasın Örnekleri Arasındaki Bir Çanak..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.826482154,37.611499462"
 draft: "false"
 weight: "999"

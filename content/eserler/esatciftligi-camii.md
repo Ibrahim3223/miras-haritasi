@@ -5,10 +5,10 @@ slug: "esatciftligi-camii"
 description: "### Esatçiftliği Camii: Samsun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.8484993,40.9892998"
 draft: "false"
 weight: "999"

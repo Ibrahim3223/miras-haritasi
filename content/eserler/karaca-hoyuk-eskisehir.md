@@ -5,10 +5,10 @@ slug: "karaca-hoyuk-eskisehir"
 description: "## Karaca Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.619133,39.767417"
 draft: "false"
 weight: "999"

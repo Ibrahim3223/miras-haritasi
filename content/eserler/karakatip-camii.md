@@ -5,10 +5,10 @@ slug: "karakatip-camii"
 description: "## Karakatip Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5262718,38.7557068"
 draft: "false"
 weight: "999"

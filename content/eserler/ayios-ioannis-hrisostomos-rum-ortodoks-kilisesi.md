@@ -5,10 +5,10 @@ slug: "ayios-ioannis-hrisostomos-rum-ortodoks-kilisesi"
 description: "### Ayios Ioannis Hrisostomos Rum Ortodoks Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Ayios_Ioannis_Hrisostomos_Rum_Ortodoks_Kilisesi.jpg/1200px-Ayios_Ioannis_Hrisostomos_Rum_Ortodoks_Kilisesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0416603,40.9766655"
 draft: "false"
 weight: "10"

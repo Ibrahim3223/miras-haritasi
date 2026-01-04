@@ -5,10 +5,10 @@ slug: "orci-deresi-koprusu"
 description: "### Orçi Deresi Köprüsü: Bir Geçit Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

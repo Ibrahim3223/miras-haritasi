@@ -5,10 +5,10 @@ slug: "ekmekcibasi-ali-aga-kabri-besiktas"
 description: "## Ekmekçibaşı Ali Ağa Kabri: Beşiktaş'ta Bir Anıtın Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0001087,41.0435257"
 draft: "false"
 weight: "999"

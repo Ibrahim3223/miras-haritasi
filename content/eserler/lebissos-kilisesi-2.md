@@ -5,10 +5,10 @@ slug: "lebissos-kilisesi-2"
 description: "## Lebissos Kilisesi 2: Muğla'da Bir Geçmişe Sahip Kırsal Kilise..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0670929,36.5540352"
 draft: "false"
 weight: "999"

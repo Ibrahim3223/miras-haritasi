@@ -5,10 +5,10 @@ slug: "kilise-kalintisi-halkali"
 description: "## Kilise Kalıntısı, Halkalı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.7856007,41.028801"
 draft: "false"
 weight: "999"

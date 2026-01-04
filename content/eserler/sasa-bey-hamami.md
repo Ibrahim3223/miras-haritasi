@@ -5,10 +5,10 @@ slug: "sasa-bey-hamami"
 description: "## Sasa Bey Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Sasabey_Turkish_bath,_Akhisar.JPG/1200px-Sasabey_Turkish_bath,_Akhisar.JPG"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.839888888,38.924694444"
 draft: "false"
 weight: "10"

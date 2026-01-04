@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-medresesi"
 description: "### Nişancı Mehmet Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.933742,41.007662"
 draft: "false"
 weight: "999"

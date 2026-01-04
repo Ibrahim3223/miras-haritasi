@@ -5,10 +5,10 @@ slug: "izmir-hayvanat-bahcesi"
 description: "## İzmir Hayvanat Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/İzmir_Kültürpark_Hayvanat_bahçesi.JPG/1200px-İzmir_Kültürpark_Hayvanat_bahçesi.JPG"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.148333333,38.4275"
 draft: "false"
 weight: "10"

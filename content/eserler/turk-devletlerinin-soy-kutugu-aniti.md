@@ -5,10 +5,10 @@ slug: "turk-devletlerinin-soy-kutugu-aniti"
 description: "## Türk Devletlerinin Soy Kütüğü Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.1817398,40.8870811"
 draft: "false"
 weight: "999"

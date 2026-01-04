@@ -5,10 +5,10 @@ slug: "seyyid-zulfikar-camii"
 description: "**Seyyid Zülfikar Camii**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Seydiler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7142181,41.6196518"
 draft: "false"
 weight: "999"

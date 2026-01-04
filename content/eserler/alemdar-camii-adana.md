@@ -5,10 +5,10 @@ slug: "alemdar-camii-adana"
 description: "## Alemdar Camii: Adana'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.328846,36.9806252"
 draft: "false"
 weight: "999"

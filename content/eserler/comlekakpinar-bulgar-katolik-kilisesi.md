@@ -5,10 +5,10 @@ slug: "comlekakpinar-bulgar-katolik-kilisesi"
 description: "### Çömlekakpınar Bulgar Katolik Kilisesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.641566637,41.837443097"
 draft: "false"
 weight: "999"

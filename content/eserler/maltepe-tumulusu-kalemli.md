@@ -5,10 +5,10 @@ slug: "maltepe-tumulusu-kalemli"
 description: "**Maltepe Tümülüsü, Kalemli: Manisa'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4695225,38.7808495"
 draft: "false"
 weight: "999"

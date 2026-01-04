@@ -5,10 +5,10 @@ slug: "roma-koprusu-duzlen"
 description: "### Roma Köprüsü, Düzlen..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1420262,38.7575811"
 draft: "false"
 weight: "999"

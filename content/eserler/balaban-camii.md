@@ -5,10 +5,10 @@ slug: "balaban-camii"
 description: "## Balaban Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/2/22/Bob_Balaban_2012_Shankbone.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8587151,39.9421577"
 draft: "false"
 weight: "999"

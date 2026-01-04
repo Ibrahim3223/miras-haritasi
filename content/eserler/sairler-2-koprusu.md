@@ -5,10 +5,10 @@ slug: "sairler-2-koprusu"
 description: "## Şairler 2 Köprüsü: Rize'nin Kültürel Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.74855,41.06675"
 draft: "false"
 weight: "999"

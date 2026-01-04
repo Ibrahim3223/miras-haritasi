@@ -5,10 +5,10 @@ slug: "karaevli-koprusu"
 description: "# Karaevli Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6923033,41.0337766"
 draft: "false"
 weight: "999"

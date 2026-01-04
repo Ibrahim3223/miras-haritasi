@@ -5,10 +5,10 @@ slug: "ak-minare-sivrihisar"
 description: "### Ak Minare, Sivrihisar: Eskişehir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5403709,39.4482193"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "viran-kapi-bergama"
 description: "## Viran Kapı, Bergama..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Viran_Kapı.jpg/1200px-Viran_Kapı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1747684,39.1220856"
 draft: "false"
 weight: "10"

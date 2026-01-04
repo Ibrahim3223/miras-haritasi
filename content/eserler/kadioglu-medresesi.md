@@ -5,10 +5,10 @@ slug: "kadioglu-medresesi"
 description: "## Kadıoğlu Medresesi: Aksaray'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.0235748,38.3700523"
 draft: "false"
 weight: "999"

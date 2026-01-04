@@ -5,10 +5,10 @@ slug: "hatun-hamami"
 description: "## Hatun Hamamı: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.207119,37.1806679"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "handanaga-camii"
 description: "### Handanağa Camii: Beyoğlu'ndaki Tarihi Bir Çanak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Handanağa_Camii_IMG_0473.jpg/1200px-Handanağa_Camii_IMG_0473.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.951102,41.038216"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "riva-camii"
 description: "### Riva Camii: Beykoz'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.217672281,41.223681839"
 draft: "false"
 weight: "999"

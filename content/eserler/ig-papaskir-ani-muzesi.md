@@ -5,10 +5,10 @@ slug: "ig-papaskir-ani-muzesi"
 description: "## İ.G. Papaskir Anı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Мемориальный_музей_И.Г._Папаскир._Национальная_библиотека_Республики_Абхазия_08.jpg/1200px-Мемориальный_музей_И.Г._Папаскир._Национальная_библиотека_Республики_Абхазия_08.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "42.9968,41.0082"
 draft: "false"
 weight: "10"

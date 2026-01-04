@@ -5,10 +5,10 @@ slug: "perre-roma-koprusu"
 description: "# Perre Roma Köprüsü: Tarihçenin Mihenk Noktası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.2984791,37.7989949"
 draft: "false"
 weight: "999"

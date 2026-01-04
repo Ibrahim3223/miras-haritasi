@@ -5,10 +5,10 @@ slug: "roma-koprusu-sarininoren"
 description: "## Roma Köprüsü, Sarınınören..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.0172084,39.5710508"
 draft: "false"
 weight: "999"

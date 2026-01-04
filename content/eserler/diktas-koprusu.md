@@ -5,10 +5,10 @@ slug: "diktas-koprusu"
 description: "### Diktaş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.527883,40.640783"
 draft: "false"
 weight: "999"

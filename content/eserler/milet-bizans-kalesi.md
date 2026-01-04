@@ -5,10 +5,10 @@ slug: "milet-bizans-kalesi"
 description: "# Milet Bizans Kalesi..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.2764893,37.5309639"
 draft: "false"
 weight: "999"

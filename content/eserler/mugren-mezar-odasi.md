@@ -5,10 +5,10 @@ slug: "mugren-mezar-odasi"
 description: "## Müğren Mezar Odası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0395851,36.8021927"
 draft: "false"
 weight: "999"

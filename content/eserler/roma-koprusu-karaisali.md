@@ -5,10 +5,10 @@ slug: "roma-koprusu-karaisali"
 description: "## Roma Köprüsü, Karaisalı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Bozyazı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.0024672,36.1604191"
 draft: "false"
 weight: "999"

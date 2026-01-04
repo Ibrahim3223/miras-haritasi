@@ -5,10 +5,10 @@ slug: "elmali-hoyuk"
 description: "# Elmalı Höyük..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.367614,36.8840041"
 draft: "false"
 weight: "999"

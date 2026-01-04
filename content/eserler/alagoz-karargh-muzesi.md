@@ -5,10 +5,10 @@ slug: "alagoz-karargh-muzesi"
 description: "## Alagöz Karargâh Müzesi: Ankara'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Alagöz_başkomutanlık_karargahı_müzesi.JPG/1200px-Alagöz_başkomutanlık_karargahı_müzesi.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.47855833,39.7466"
 draft: "false"
 weight: "10"

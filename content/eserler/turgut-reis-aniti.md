@@ -5,10 +5,10 @@ slug: "turgut-reis-aniti"
 description: "## Turgut Reis Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.987328,41.013532"
 draft: "false"
 weight: "999"

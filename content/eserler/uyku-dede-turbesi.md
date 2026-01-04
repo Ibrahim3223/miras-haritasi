@@ -5,10 +5,10 @@ slug: "uyku-dede-turbesi"
 description: "### Uyku Dede Türbesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9264801,41.0036602"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tas-kopru-eskicine"
 description: "## Taş Köprü, Eskiçine: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.0659199,37.5433235"
 draft: "false"
 weight: "999"

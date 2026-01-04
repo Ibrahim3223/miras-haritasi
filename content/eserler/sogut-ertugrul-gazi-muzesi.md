@@ -5,10 +5,10 @@ slug: "sogut-ertugrul-gazi-muzesi"
 description: "### Söğüt Ertuğrul Gazi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ertuğrul_Gazi_Müzesi.JPG/1200px-Ertuğrul_Gazi_Müzesi.JPG"
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Söğüt"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.181666666,40.015277777"
 draft: "false"
 weight: "10"

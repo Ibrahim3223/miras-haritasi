@@ -5,10 +5,10 @@ slug: "hasan-pasa-hamami"
 description: "### Hasan Paşa Hamamı..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.856205,39.9435463"
 draft: "false"
 weight: "999"

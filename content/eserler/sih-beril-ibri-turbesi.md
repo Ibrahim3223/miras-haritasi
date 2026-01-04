@@ -5,10 +5,10 @@ slug: "sih-beril-ibri-turbesi"
 description: "### Şıh Beril İbri Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.9016342,36.9223289"
 draft: "false"
 weight: "999"

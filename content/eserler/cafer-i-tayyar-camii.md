@@ -5,10 +5,10 @@ slug: "cafer-i-tayyar-camii"
 description: "## Cafer-i Tayyar Camii: Hani'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Hani"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.3920135,38.415432"
 draft: "false"
 weight: "999"

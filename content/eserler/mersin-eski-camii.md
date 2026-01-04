@@ -5,10 +5,10 @@ slug: "mersin-eski-camii"
 description: "## Mersin Eski Camii: Akdeniz'in Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Old_Mosque_of_Mersin.jpg/1200px-Old_Mosque_of_Mersin.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.630218,36.798377"
 draft: "false"
 weight: "10"

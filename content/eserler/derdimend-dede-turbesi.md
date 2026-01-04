@@ -5,10 +5,10 @@ slug: "derdimend-dede-turbesi"
 description: "## Derdimend Dede Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Dulkadiroğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.94572,37.589469"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gondere-koprusu"
 description: "## Göndere Köprüsü: Karaman'ın Tarihi Örenleri Arasındaki Bir Harika..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.096074113,37.159269777"
 draft: "false"
 weight: "999"

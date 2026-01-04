@@ -5,10 +5,10 @@ slug: "besikli-baba-turbesi"
 description: "## Beşikli Baba Türbesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.25,38.7017"
 draft: "false"
 weight: "999"

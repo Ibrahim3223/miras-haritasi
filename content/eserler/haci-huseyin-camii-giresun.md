@@ -5,10 +5,10 @@ slug: "haci-huseyin-camii-giresun"
 description: "## Hacı Hüseyin Camii: Giresun'un Önemli Dini Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.3960571,40.9169998"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gazi-suleyman-pasa-cami-lapseki"
 description: "### Gazi Süleyman Paşa Cami, Lapseki..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6856995,40.3438492"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cakalhoyuk"
 description: "## Çakalhöyük: Konya'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9358713,39.1688314"
 draft: "false"
 weight: "999"

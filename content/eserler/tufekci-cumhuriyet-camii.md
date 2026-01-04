@@ -5,10 +5,10 @@ slug: "tufekci-cumhuriyet-camii"
 description: "## Tüfekçi Cumhuriyet Camii: Trabzon'un Gizli Çehresini İyileştiren Bir Mimari Harikası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.227788975,40.781234919"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osmaniye-saat-kulesi"
 description: "## Osmaniye Saat Kulesi..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Osmaniye"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "36.251527777,37.07175"
 draft: "false"
 weight: "999"

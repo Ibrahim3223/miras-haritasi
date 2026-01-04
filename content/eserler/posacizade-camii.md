@@ -5,10 +5,10 @@ slug: "posacizade-camii"
 description: "## Posacızade Camii: Aydın'ın Tarihi Bir Öncü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0076008,37.7937012"
 draft: "false"
 weight: "999"

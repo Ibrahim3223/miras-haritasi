@@ -5,10 +5,10 @@ slug: "kure-ulu-camii"
 description: "## Küre Ulu Camii: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Küre"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.712388888,41.806055555"
 draft: "false"
 weight: "999"

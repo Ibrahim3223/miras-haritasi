@@ -5,10 +5,10 @@ slug: "anadolu-mimarlik-ve-mobilya-kulturel-miras-muzesi"
 description: "## Anadolu Mimarlık ve Mobilya Kültürel Miras Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.7639542,39.8614197"
 draft: "false"
 weight: "999"

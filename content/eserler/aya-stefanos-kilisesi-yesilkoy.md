@@ -5,10 +5,10 @@ slug: "aya-stefanos-kilisesi-yesilkoy"
 description: "**Aya Stefanos Kilisesi: Yeşilköy'ün Tarihi Güzelliği**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8215,40.957055555"
 draft: "false"
 weight: "999"

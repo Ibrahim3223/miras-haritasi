@@ -5,10 +5,10 @@ slug: "telkabin-koprusu"
 description: "## Telkabin Köprüsü: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1931992,37.3196106"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tulintepe-hoyugu"
 description: "## Tülintepe Höyüğü..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.41032,38.640572"
 draft: "false"
 weight: "999"

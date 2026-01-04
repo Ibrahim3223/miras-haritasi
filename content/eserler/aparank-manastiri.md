@@ -5,10 +5,10 @@ slug: "aparank-manastiri"
 description: "## Aparank Manastırı: Van'ın Gizli Çehresinde Bir Ören..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Aparank_Monastery.jpg/1200px-Aparank_Monastery.jpg"
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "Bahçesaray"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.75,37.96667"
 draft: "false"
 weight: "10"

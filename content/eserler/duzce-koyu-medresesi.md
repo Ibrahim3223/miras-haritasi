@@ -5,10 +5,10 @@ slug: "duzce-koyu-medresesi"
 description: "## Düzce Köyü Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "26.8160725,38.2428436"
 draft: "false"
 weight: "999"

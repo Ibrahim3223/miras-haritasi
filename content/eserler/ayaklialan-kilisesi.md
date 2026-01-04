@@ -5,10 +5,10 @@ slug: "ayaklialan-kilisesi"
 description: "**Ayaklıalan Kilisesi: Samsun'un Gizli Cenneti**..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.362577,41.001595"
 draft: "false"
 weight: "999"

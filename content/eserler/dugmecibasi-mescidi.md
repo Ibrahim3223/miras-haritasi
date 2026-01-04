@@ -5,10 +5,10 @@ slug: "dugmecibasi-mescidi"
 description: "## Düğmecibaşı Mescidi: Eyüpsultan'ın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.927136,41.047259"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "holy-athanagine-chapel"
 description: "## Holy Athanagine Chapel: Tarihî Bir Örnek..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

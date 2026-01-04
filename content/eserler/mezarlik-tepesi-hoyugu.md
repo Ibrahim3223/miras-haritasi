@@ -5,10 +5,10 @@ slug: "mezarlik-tepesi-hoyugu"
 description: "### Mezarlık Tepesi Höyüğü: Van'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Saray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "44.1694794,38.6622124"
 draft: "false"
 weight: "999"

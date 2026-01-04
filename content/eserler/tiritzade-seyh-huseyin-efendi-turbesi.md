@@ -5,10 +5,10 @@ slug: "tiritzade-seyh-huseyin-efendi-turbesi"
 description: "## Tiritzade Şeyh Hüseyin Efendi Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8659706,39.9364853"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hozabiri-kilisesi"
 description: "## Hozabiri Kilisesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yanıklı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.155677777,41.25465"
 draft: "false"
 weight: "999"

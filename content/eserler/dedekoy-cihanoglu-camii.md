@@ -5,10 +5,10 @@ slug: "dedekoy-cihanoglu-camii"
 description: "## Dedeköy Cihanoğlu Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6623516,37.7619438"
 draft: "false"
 weight: "999"

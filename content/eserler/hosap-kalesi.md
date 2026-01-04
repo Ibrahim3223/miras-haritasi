@@ -5,10 +5,10 @@ slug: "hosap-kalesi"
 description: "## Hoşap Kalesi: Van'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Hosap-castle_(17).jpg/1200px-Hosap-castle_(17).jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.80166667,38.31694444"
 draft: "false"
 weight: "10"

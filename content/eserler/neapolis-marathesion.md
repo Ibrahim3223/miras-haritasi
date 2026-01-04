@@ -5,10 +5,10 @@ slug: "neapolis-marathesion"
 description: "**Neapolis / Marathesion: Kuşadası'nın Tarihî Mirası**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2421455,37.8594398"
 draft: "false"
 weight: "999"

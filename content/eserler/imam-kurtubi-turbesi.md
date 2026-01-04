@@ -5,10 +5,10 @@ slug: "imam-kurtubi-turbesi"
 description: "### İmam Kurtubi Türbesi..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Bolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.511127,40.738241"
 draft: "false"
 weight: "999"

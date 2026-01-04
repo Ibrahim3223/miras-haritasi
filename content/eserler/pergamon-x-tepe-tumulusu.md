@@ -5,10 +5,10 @@ slug: "pergamon-x-tepe-tumulusu"
 description: "### Pergamon X Tepe Tümülüsü: İzmir'in Tarihî Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.16963,39.1033"
 draft: "false"
 weight: "999"

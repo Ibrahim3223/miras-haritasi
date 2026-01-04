@@ -5,10 +5,10 @@ slug: "canbaziye-camii"
 description: "## Canbaziye Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Canbaziye_Camii,_Fatih,_İstanbul_2025.jpg/1200px-Canbaziye_Camii,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.943339,41.007387"
 draft: "false"
 weight: "10"

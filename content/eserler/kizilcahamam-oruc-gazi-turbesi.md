@@ -5,10 +5,10 @@ slug: "kizilcahamam-oruc-gazi-turbesi"
 description: "### Kızılcahamam Oruç Gazi Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.7276,40.3959"
 draft: "false"
 weight: "999"

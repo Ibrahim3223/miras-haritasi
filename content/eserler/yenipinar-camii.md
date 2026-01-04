@@ -5,10 +5,10 @@ slug: "yenipinar-camii"
 description: "## Yenipınar Camii: Adıyaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.2774849,37.7617416"
 draft: "false"
 weight: "999"

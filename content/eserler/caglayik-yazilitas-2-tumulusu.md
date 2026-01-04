@@ -5,10 +5,10 @@ slug: "caglayik-yazilitas-2-tumulusu"
 description: "## Çağlayık Yazılıtaş 2 Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3755016,42.0024033"
 draft: "false"
 weight: "999"

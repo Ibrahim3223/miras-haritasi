@@ -5,10 +5,10 @@ slug: "khalkedon-nekropolu"
 description: "### Khalkedon Nekropolü: Kadıköy'deki Bir Arkeolojik Şans..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Kalkedon_Nekropolü_01.jpg/1200px-Kalkedon_Nekropolü_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.033875431,40.99221955"
 draft: "false"
 weight: "10"

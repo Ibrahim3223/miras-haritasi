@@ -5,10 +5,10 @@ slug: "mezar-taslari-acikhava-sergisi"
 description: "### Mezar Taşları Açıkhava Sergisi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.2625904,37.8558464"
 draft: "false"
 weight: "999"

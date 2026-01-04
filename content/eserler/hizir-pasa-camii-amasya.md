@@ -5,10 +5,10 @@ slug: "hizir-pasa-camii-amasya"
 description: "## Hızır Paşa Camii, Amasya: Bir Ömür Boyu Süren Eski Şöhret..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8134575,40.657341"
 draft: "false"
 weight: "999"

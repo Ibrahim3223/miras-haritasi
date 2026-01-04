@@ -5,10 +5,10 @@ slug: "profesor-doktor-ulker-muncuk-muzesi"
 description: "## Profesör Doktor Ülker Muncuk Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.823725,39.935552"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "anamur-muzesi"
 description: "### Anamur Müzesi: Mersin'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.865833333,36.07"
 draft: "false"
 weight: "999"

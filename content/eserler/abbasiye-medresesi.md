@@ -5,10 +5,10 @@ slug: "abbasiye-medresesi"
 description: "## Abbasiye Medresesi: Şanlıurfa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "38.7928009,37.1503906"
 draft: "false"
 weight: "999"

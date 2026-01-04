@@ -5,10 +5,10 @@ slug: "dedebaba-turbesi"
 description: "## Dedebaba Türbesi: Kahramanmaraş'ta Bir İnanç Mirası..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.914194901,38.246806831"
 draft: "false"
 weight: "999"

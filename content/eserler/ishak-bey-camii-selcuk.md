@@ -5,10 +5,10 @@ slug: "ishak-bey-camii-selcuk"
 description: "## İshak Bey Camii: Selçuk'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3687859,37.9494324"
 draft: "false"
 weight: "999"

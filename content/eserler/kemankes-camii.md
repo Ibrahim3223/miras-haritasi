@@ -5,10 +5,10 @@ slug: "kemankes-camii"
 description: "**Kemankeş Camii: Beyoğlu'ndaki Bir Gizli Cennet**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kemankeş_Mosque.jpg/1200px-Kemankeş_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.97671111,41.02264722"
 draft: "false"
 weight: "10"

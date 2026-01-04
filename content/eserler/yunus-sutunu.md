@@ -5,10 +5,10 @@ slug: "yunus-sutunu"
 description: "## Yunus Sütunu: İskenderun'un Sembolü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Jonas'_Pillars,_in_Journal_of_the_Royal_Geographical_Society_of_London.jpg/1200px-Jonas'_Pillars,_in_Journal_of_the_Royal_Geographical_Society_of_London.jpg"
 province: "İskenderun Sancağı"
-iller: '["İskenderun Sancağı"]'
+iller: ["İskenderun Sancağı"]
 district: "İskenderun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.2140465,36.6562386"
 draft: "false"
 weight: "10"

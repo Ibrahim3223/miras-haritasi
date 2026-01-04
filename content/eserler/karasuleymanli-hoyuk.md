@@ -5,10 +5,10 @@ slug: "karasuleymanli-hoyuk"
 description: "### Karasüleymanlı Höyük: Kahramanmaraş'ta Gizemli Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.971113,38.4125339"
 draft: "false"
 weight: "999"

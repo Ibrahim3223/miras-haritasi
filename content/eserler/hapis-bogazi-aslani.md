@@ -5,10 +5,10 @@ slug: "hapis-bogazi-aslani"
 description: "### Hapis Boğazı Aslanı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sorgun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.3797226,39.8208313"
 draft: "false"
 weight: "999"

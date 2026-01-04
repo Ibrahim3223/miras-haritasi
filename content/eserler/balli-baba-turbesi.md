@@ -5,10 +5,10 @@ slug: "balli-baba-turbesi"
 description: "### Ballı Baba Türbesi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Balışeyh"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7178612,39.9234314"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ogul-pasa-turbesi"
 description: "## Oğul Paşa Türbesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bigadiç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1718636,39.4909782"
 draft: "false"
 weight: "999"

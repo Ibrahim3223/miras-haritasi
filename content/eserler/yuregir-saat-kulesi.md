@@ -5,10 +5,10 @@ slug: "yuregir-saat-kulesi"
 description: "## Yüreğir Saat Kulesi: Adana'nın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: ""
 draft: "false"
 weight: "999"

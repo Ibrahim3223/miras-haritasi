@@ -5,10 +5,10 @@ slug: "senkoy-koprusu"
 description: "## Şenköy Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9680537,40.9413808"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmud-vehbi-efendi-turbesi"
 description: "## Mahmud Vehbi Efendi Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.765,39.9818"
 draft: "false"
 weight: "999"

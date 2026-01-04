@@ -5,10 +5,10 @@ slug: "gusir-hoyuk"
 description: "## Gusir Höyük: Tarihî Bir Anıtın Gizemi..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Eruh"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.8211517,37.7270813"
 draft: "false"
 weight: "999"

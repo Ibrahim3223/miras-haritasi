@@ -5,10 +5,10 @@ slug: "turk-ve-islam-eserleri-muzesi"
 description: "## Türk ve İslam Eserleri Müzesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Turkish_and_Islamic_Arts_Museum_01.jpg/1200px-Turkish_and_Islamic_Arts_Museum_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.974556,41.006278"
 draft: "false"
 weight: "10"

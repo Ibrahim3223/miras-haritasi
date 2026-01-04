@@ -5,10 +5,10 @@ slug: "kizilhisar-hoyugu"
 description: "## Kızılhisar Höyüğü: Gaziantep'in Gizli Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3063712,37.0038908"
 draft: "false"
 weight: "999"

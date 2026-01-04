@@ -5,10 +5,10 @@ slug: "attalea-lidya"
 description: "## Attalea (Lidya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.891,39.0714"
 draft: "false"
 weight: "999"

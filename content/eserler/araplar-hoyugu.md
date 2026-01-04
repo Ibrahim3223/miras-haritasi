@@ -5,10 +5,10 @@ slug: "araplar-hoyugu"
 description: "## Araplar Höyüğü: Ankara'nın Gizli Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9445648,39.9302673"
 draft: "false"
 weight: "999"

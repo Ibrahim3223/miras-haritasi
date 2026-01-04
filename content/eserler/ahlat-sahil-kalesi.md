@@ -5,10 +5,10 @@ slug: "ahlat-sahil-kalesi"
 description: "### Ahlat Sahil Kalesi: Bitlis'teki Bir Tarihi Harikadan Haber Vermek..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.474548,38.74151"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surdisi-mustakil-kabirler-zeytinburnu-fatih"
 description: "## Surdışı Müstakil Kabirler, Zeytinburnu-Fatih..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9175529,40.9916878"
 draft: "false"
 weight: "999"

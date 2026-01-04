@@ -5,10 +5,10 @@ slug: "akca-hoyuk-batman"
 description: "**Akça Höyük: Güneydoğu Anadolu'nun Gizli Mirası**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.1835289,37.8547173"
 draft: "false"
 weight: "999"

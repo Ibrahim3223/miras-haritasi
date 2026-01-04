@@ -5,10 +5,10 @@ slug: "tire-kent-muzesi"
 description: "## Tire Kent Müzesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.73222222,38.08833333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-ali-aga-camii-nazilli"
 description: "## Hacı Ali Ağa Camii: Nazilli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3220673,37.9034882"
 draft: "false"
 weight: "999"

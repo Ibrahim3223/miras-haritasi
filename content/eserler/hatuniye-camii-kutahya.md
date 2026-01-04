@@ -5,10 +5,10 @@ slug: "hatuniye-camii-kutahya"
 description: "## Hatuniye Camii, Kütahya..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9805412,39.4159698"
 draft: "false"
 weight: "999"

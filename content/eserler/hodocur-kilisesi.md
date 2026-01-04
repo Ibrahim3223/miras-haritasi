@@ -5,10 +5,10 @@ slug: "hodocur-kilisesi"
 description: "## Hodoçur Kilisesi: Tarihî Bir Mirasın Sırrı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "İspir"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.2092705,40.7193413"
 draft: "false"
 weight: "999"

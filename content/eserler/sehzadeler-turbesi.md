@@ -5,10 +5,10 @@ slug: "sehzadeler-turbesi"
 description: "**Şehzadeler Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9518814,41.0264053"
 draft: "false"
 weight: "999"

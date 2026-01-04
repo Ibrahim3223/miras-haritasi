@@ -5,10 +5,10 @@ slug: "roma-koprusu-haracci"
 description: "## Roma Köprüsü, Haraççı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.696608,41.185753"
 draft: "false"
 weight: "999"

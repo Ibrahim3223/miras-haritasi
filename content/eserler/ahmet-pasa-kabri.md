@@ -5,10 +5,10 @@ slug: "ahmet-pasa-kabri"
 description: "## Ahmet Paşa Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Ahmet_Paşa_Kabri.jpg/1200px-Ahmet_Paşa_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9859333,41.0352478"
 draft: "false"
 weight: "10"

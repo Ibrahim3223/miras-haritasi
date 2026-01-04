@@ -5,10 +5,10 @@ slug: "congustus"
 description: "# Congustus Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8686111,38.3077778"
 draft: "false"
 weight: "999"

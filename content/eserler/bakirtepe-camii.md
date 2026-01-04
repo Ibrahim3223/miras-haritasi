@@ -5,10 +5,10 @@ slug: "bakirtepe-camii"
 description: "**Bakırtepe Camii: Artvin'in Tarihi ve Kültürel Mirasının Bir Parçası**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4576671,40.6591192"
 draft: "false"
 weight: "999"

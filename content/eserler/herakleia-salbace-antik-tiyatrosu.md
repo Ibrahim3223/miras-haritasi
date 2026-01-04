@@ -5,10 +5,10 @@ slug: "herakleia-salbace-antik-tiyatrosu"
 description: "### Herakleia Salbace Antik Tiyatrosu..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.98587,37.622874"
 draft: "false"
 weight: "999"

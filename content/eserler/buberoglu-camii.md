@@ -5,10 +5,10 @@ slug: "buberoglu-camii"
 description: "## Büberoğlu Camii: İzmir'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5321007,38.4039993"
 draft: "false"
 weight: "999"

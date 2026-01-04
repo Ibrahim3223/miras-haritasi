@@ -5,10 +5,10 @@ slug: "un-pazari-camii"
 description: "## Un Pazarı Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0847836,37.7863121"
 draft: "false"
 weight: "999"

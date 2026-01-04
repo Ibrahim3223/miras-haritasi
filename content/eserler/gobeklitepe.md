@@ -5,10 +5,10 @@ slug: "gobeklitepe"
 description: "### Göbeklitepe: Tarihî Bir Mirasın Keşfi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Göbekli_Tepe,_Urfa.jpg/1200px-Göbekli_Tepe,_Urfa.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9225,37.223055555"
 draft: "false"
 weight: "1"

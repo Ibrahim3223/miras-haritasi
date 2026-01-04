@@ -5,10 +5,10 @@ slug: "cincikli-camii"
 description: "## Cıncıklı Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4908066,38.7190475"
 draft: "false"
 weight: "999"

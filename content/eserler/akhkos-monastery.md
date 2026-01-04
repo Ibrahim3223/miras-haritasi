@@ -5,10 +5,10 @@ slug: "akhkos-monastery"
 description: "## Akhkos Manastırı: Kars'taki Bir Kıpti Mirası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: ""
 draft: "false"
 weight: "999"

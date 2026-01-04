@@ -5,10 +5,10 @@ slug: "tirebolu-hamami"
 description: "## Tirebolu Hamamı: Giresun'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.815222222,41.006888888"
 draft: "false"
 weight: "999"

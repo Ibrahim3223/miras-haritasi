@@ -5,10 +5,10 @@ slug: "ankara-frig-tumulusu-3-yucetepe"
 description: "## Ankara Frig Tümülüsü 3, Yücetepe..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8334999,39.9284935"
 draft: "false"
 weight: "999"

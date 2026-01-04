@@ -5,10 +5,10 @@ slug: "satir-ali-aga-camii"
 description: "## Şatır Ali Ağa Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4622097,37.9147301"
 draft: "false"
 weight: "999"

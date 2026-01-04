@@ -5,10 +5,10 @@ slug: "ibrahim-celebi-turbesi"
 description: "### İbrahim Çelebi Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.423645,38.6101875"
 draft: "false"
 weight: "999"

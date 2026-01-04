@@ -5,10 +5,10 @@ slug: "berta-manastiri"
 description: "## Berta Manastırı: Güllerin Ülkesi Artvin'in Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Berta_(Marr,_1911).JPG/1200px-Berta_(Marr,_1911).JPG"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.9833195,41.2488945"
 draft: "false"
 weight: "10"

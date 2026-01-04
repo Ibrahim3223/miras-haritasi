@@ -5,10 +5,10 @@ slug: "haci-hatun-camii"
 description: "# Hacı Hatun Camii..."
 featured_image: ""
 province: "İlkadım"
-iller: '["İlkadım"]'
+iller: ["İlkadım"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.331944444,41.293611111"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turk-devletleri-teskilati-genel-sekreterligi"
 description: "## Türk Devletleri Teşkilatı Genel Sekreterliği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Türk_Devletleri_Teşkilatı_Merkez_Ofisi_1.jpg/1200px-Türk_Devletleri_Teşkilatı_Merkez_Ofisi_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "28.97260226,41.007877005"
 draft: "false"
 weight: "10"

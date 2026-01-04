@@ -5,10 +5,10 @@ slug: "sinan-pasa-hamami"
 description: "**Sinan Paşa Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.004281,41.041438"
 draft: "false"
 weight: "999"

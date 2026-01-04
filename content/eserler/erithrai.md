@@ -5,10 +5,10 @@ slug: "erithrai"
 description: "### Erithrai: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Erythrai_amphitheatre.jpg/1200px-Erythrai_amphitheatre.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.480827,38.382709"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "lopadion"
 description: "## Lopadion Arkeolojik Sit..."
 featured_image: ""
 province: "Karacabey ilçesi"
-iller: '["Karacabey ilçesi"]'
+iller: ["Karacabey ilçesi"]
 district: "Uluabat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.433943,40.203779"
 draft: "false"
 weight: "999"

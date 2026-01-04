@@ -5,10 +5,10 @@ slug: "zeyrek-cinili-hamam-muzesi"
 description: "**Zeyrek Çinili Hamam Müzesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.956442926,41.018264635"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gumruk-camii"
 description: "## Gümrük Camii: Erzurum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2807198,39.9130554"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taza-lidya"
 description: "## Taza (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.668896,38.674733"
 draft: "false"
 weight: "999"

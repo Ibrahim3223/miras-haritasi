@@ -5,10 +5,10 @@ slug: "sillyon-osmanli-mescidi"
 description: "## Sillyon Osmanlı Mescidi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.985039158,36.988451048"
 draft: "false"
 weight: "999"

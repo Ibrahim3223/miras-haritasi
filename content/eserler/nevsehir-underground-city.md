@@ -5,10 +5,10 @@ slug: "nevsehir-underground-city"
 description: "### Nevşehir Yeraltı Şehri: Tarihî ve Kültürel Mirasımızın Gizemi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

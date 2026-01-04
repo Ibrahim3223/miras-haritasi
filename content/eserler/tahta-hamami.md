@@ -5,10 +5,10 @@ slug: "tahta-hamami"
 description: "## Tahta Hamamı: Erzurum'un Tarihi bir Hamamı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "41.2824974,39.9096832"
 draft: "false"
 weight: "999"

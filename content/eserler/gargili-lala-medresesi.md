@@ -5,10 +5,10 @@ slug: "gargili-lala-medresesi"
 description: "**Gargılı Lala Medresesi**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Uluborlu"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.469101,38.0710335"
 draft: "false"
 weight: "999"

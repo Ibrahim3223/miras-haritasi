@@ -5,10 +5,10 @@ slug: "selcuklu-sultanlari-turbesi"
 description: "**Selçuklu Sultanları Türbesi**..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.492775,37.8733673"
 draft: "false"
 weight: "999"

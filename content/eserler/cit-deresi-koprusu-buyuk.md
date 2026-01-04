@@ -5,10 +5,10 @@ slug: "cit-deresi-koprusu-buyuk"
 description: "## Çit Deresi Köprüsü (Büyük)..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.2101352,40.5114349"
 draft: "false"
 weight: "999"

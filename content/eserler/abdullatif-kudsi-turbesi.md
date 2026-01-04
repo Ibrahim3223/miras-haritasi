@@ -5,10 +5,10 @@ slug: "abdullatif-kudsi-turbesi"
 description: "# Abdüllatif Kudsi Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0833683,40.1802979"
 draft: "false"
 weight: "999"

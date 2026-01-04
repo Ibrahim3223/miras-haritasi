@@ -5,10 +5,10 @@ slug: "caput-hamami"
 description: "## Çaput Hamamı: Gümüşhane'de Bir Tarihî Miras..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.4568634,40.4514008"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "celal-baba-turbesi"
 description: "## Celal Baba Türbesi: Kars'ta Bir Zihniyetin Mirası..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "43.089698,40.61355"
 draft: "false"
 weight: "999"

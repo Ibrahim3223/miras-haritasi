@@ -5,10 +5,10 @@ slug: "alibey-hamami"
 description: "## Alibey Hamamı: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Karşıyaka_Alibey_Hamamı.jpg/1200px-Karşıyaka_Alibey_Hamamı.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karşıyaka"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1165009,38.4583893"
 draft: "false"
 weight: "10"

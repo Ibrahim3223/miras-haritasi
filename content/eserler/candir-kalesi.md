@@ -5,10 +5,10 @@ slug: "candir-kalesi"
 description: "## Çandır Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Çandır_castle,_Mersin_Province,_Turkey.jpg/1200px-Çandır_castle,_Mersin_Province,_Turkey.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.6149155,37.0193979"
 draft: "false"
 weight: "10"

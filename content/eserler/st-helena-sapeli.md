@@ -5,10 +5,10 @@ slug: "st-helena-sapeli"
 description: "## St. Helena Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9755344,41.0336876"
 draft: "false"
 weight: "999"

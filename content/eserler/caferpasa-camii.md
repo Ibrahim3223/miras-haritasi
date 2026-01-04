@@ -5,10 +5,10 @@ slug: "caferpasa-camii"
 description: "## Caferpaşa Camii: Malatya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.4756737,39.0593529"
 draft: "false"
 weight: "999"

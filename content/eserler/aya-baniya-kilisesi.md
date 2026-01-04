@@ -5,10 +5,10 @@ slug: "aya-baniya-kilisesi"
 description: "### Aya Baniya Kilisesi: Isparta'nın Gizli Cenneti..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.5526778,37.7568131"
 draft: "false"
 weight: "999"

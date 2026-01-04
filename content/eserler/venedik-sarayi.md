@@ -5,10 +5,10 @@ slug: "venedik-sarayi"
 description: "### Venedik Sarayı: İstanbul'un En Güzel Saraylarından biri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Palazzo_di_Venezia,_Istanbul.jpg/1200px-Palazzo_di_Venezia,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "28.977222222,41.029722222"
 draft: "false"
 weight: "10"

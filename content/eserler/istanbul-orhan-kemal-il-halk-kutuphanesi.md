@@ -5,10 +5,10 @@ slug: "istanbul-orhan-kemal-il-halk-kutuphanesi"
 description: "### İstanbul Orhan Kemal İl Halk Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/İstanbul_Orhan_Kemal_İl_Halk_Kütüphanesi.jpg/1200px-İstanbul_Orhan_Kemal_İl_Halk_Kütüphanesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.962222222,41.009444444"
 draft: "false"
 weight: "10"

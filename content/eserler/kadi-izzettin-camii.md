@@ -5,10 +5,10 @@ slug: "kadi-izzettin-camii"
 description: "## Kadı İzzettin Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4948349,37.8767815"
 draft: "false"
 weight: "999"

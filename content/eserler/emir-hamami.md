@@ -5,10 +5,10 @@ slug: "emir-hamami"
 description: "## Emir Hamamı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.7417558,37.3137047"
 draft: "false"
 weight: "999"

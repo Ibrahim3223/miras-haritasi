@@ -5,10 +5,10 @@ slug: "hatiroglu-camii"
 description: "# Hatıroğlu Camii: Kayseri'nin Bir Değerli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/GENEL_GÖRÜNÜŞ.jpg/1200px-GENEL_GÖRÜNÜŞ.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4858856,38.7172623"
 draft: "false"
 weight: "10"

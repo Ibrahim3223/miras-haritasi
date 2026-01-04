@@ -5,10 +5,10 @@ slug: "hoca-seyfettin-koprusu"
 description: "## Hoca Seyfettin Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.7145061,38.6273155"
 draft: "false"
 weight: "999"

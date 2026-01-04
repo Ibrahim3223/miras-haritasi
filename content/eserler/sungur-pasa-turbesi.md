@@ -5,10 +5,10 @@ slug: "sungur-pasa-turbesi"
 description: "### Sungur Paşa Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4858742,40.1835632"
 draft: "false"
 weight: "999"

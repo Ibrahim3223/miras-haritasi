@@ -5,10 +5,10 @@ slug: "hadim-demirtas-mescidi"
 description: "# Hadım Demirtaş Mescidi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5543652,41.6788673"
 draft: "false"
 weight: "999"

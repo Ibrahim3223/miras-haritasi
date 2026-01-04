@@ -5,10 +5,10 @@ slug: "kayi-boyu-aniti"
 description: "### Kayı Boyu Anıtı: Bilecik'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0090141,40.1190376"
 draft: "false"
 weight: "999"

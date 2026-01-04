@@ -5,10 +5,10 @@ slug: "pirinc-hani-mescidi"
 description: "# Pirinç Hanı Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.863419955,39.936401623"
 draft: "false"
 weight: "999"

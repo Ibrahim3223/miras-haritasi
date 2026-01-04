@@ -5,10 +5,10 @@ slug: "seyh-izzettin-camii"
 description: "## Şeyh İzzettin Camii: Hacı Bayram'ın Sanki Zamanı Durdurmuş Eseri..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8599968,39.9439201"
 draft: "false"
 weight: "999"

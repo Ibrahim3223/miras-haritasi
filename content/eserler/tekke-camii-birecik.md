@@ -5,10 +5,10 @@ slug: "tekke-camii-birecik"
 description: "## Tekke Camii: Birecik'te Bir Tarihî Eserin Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.9778633,37.026825"
 draft: "false"
 weight: "999"

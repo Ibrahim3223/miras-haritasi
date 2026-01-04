@@ -5,10 +5,10 @@ slug: "gokhoyuk-baglari-hoyuk"
 description: "### Gökhöyük Bağları Höyük: Seydişehir'in Gizli Mücevheri..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.955719,37.4126282"
 draft: "false"
 weight: "999"

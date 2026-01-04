@@ -5,10 +5,10 @@ slug: "yusuflu-koyu-camii"
 description: "# Yusuflu Köyü Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır (İzmir)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6979427,38.2183037"
 draft: "false"
 weight: "999"

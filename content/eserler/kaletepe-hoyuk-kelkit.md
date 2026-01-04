@@ -5,10 +5,10 @@ slug: "kaletepe-hoyuk-kelkit"
 description: "### Kalitepe Höyük Kelkit: Gümüşhane'nin Gizli Anıtı..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.437772,40.064356"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zile-kalesi"
 description: "## Zile Kalesi: Tokat'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.890049,40.3040886"
 draft: "false"
 weight: "999"

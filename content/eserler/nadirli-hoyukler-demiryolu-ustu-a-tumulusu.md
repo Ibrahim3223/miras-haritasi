@@ -5,10 +5,10 @@ slug: "nadirli-hoyukler-demiryolu-ustu-a-tumulusu"
 description: "### Nadırlı Höyükler Demiryolu Üstü A Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0875835,41.3648491"
 draft: "false"
 weight: "999"

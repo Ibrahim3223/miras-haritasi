@@ -5,10 +5,10 @@ slug: "huseyin-rahmi-gurpinar-muzesi"
 description: "### Hüseyin Rahmi Gürpınar Müzesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.09222222,40.87694444"
 draft: "false"
 weight: "999"

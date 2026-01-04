@@ -5,10 +5,10 @@ slug: "duzce-hamami"
 description: "## Düzce Hamamı: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.8174744,38.2414055"
 draft: "false"
 weight: "999"

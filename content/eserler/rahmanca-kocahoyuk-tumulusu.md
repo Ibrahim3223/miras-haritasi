@@ -5,10 +5,10 @@ slug: "rahmanca-kocahoyuk-tumulusu"
 description: "## Rahmanca Kocahöyük Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Meriç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.4922543,41.3000641"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yapi-kredi-arastirma-kutuphanesi"
 description: "## Yapı Kredi Araştırma Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.977571026,41.033195816"
 draft: "false"
 weight: "999"

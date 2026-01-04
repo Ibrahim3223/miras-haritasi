@@ -5,10 +5,10 @@ slug: "sahabe-mezarlari-turbesi"
 description: "## Sahabe Mezarları Türbesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.934338,38.143533"
 draft: "false"
 weight: "999"

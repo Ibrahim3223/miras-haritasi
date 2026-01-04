@@ -5,10 +5,10 @@ slug: "ataturk-ve-serife-baci-aniti"
 description: "**Atatürk ve Şerife Bacı Anıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/VALi_KONAGI_-_panoramio.jpg/1200px-VALi_KONAGI_-_panoramio.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.777666666,41.376333333"
 draft: "false"
 weight: "10"

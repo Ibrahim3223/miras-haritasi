@@ -5,10 +5,10 @@ slug: "antakya-turk-katolik-kilisesi"
 description: "### Antakya Türk Katolik Kilisesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.163353,36.2000389"
 draft: "false"
 weight: "999"

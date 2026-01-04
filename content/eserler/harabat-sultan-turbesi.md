@@ -5,10 +5,10 @@ slug: "harabat-sultan-turbesi"
 description: "## Harabat Sultan Türbesi: Manisa'nın Gizli Kahramanlarından Birini Anımsayan Bir Anıt..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.439896,38.608256"
 draft: "false"
 weight: "999"

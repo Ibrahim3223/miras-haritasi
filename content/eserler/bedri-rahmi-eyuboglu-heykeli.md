@@ -5,10 +5,10 @@ slug: "bedri-rahmi-eyuboglu-heykeli"
 description: "## Bedri Rahmi Eyüboğlu Heykeli: Beyoğlu'ndaki Bir Sanat Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9747925,41.0291786"
 draft: "false"
 weight: "999"

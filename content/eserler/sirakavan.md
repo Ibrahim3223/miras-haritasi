@@ -5,10 +5,10 @@ slug: "sirakavan"
 description: "## Şirakavan Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Surp_Prkich,_Shirakavan.jpg/1200px-Surp_Prkich,_Shirakavan.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.721908,40.715707"
 draft: "false"
 weight: "10"

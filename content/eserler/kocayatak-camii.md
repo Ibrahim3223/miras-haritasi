@@ -5,10 +5,10 @@ slug: "kocayatak-camii"
 description: "### Kocayatak Camii: Serik'in Gölgeli Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.958646,36.909557"
 draft: "false"
 weight: "999"

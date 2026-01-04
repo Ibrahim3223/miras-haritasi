@@ -5,10 +5,10 @@ slug: "pancureti-kilisesi"
 description: "# Pancureti Kilisesi..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "İnceçay"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.303972222,40.776866666"
 draft: "false"
 weight: "999"

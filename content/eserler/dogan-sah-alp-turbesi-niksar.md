@@ -5,10 +5,10 @@ slug: "dogan-sah-alp-turbesi-niksar"
 description: "### Doğan Şah Alp Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.9641876,40.5912018"
 draft: "false"
 weight: "999"

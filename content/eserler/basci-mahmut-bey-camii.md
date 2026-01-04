@@ -5,10 +5,10 @@ slug: "basci-mahmut-bey-camii"
 description: "## Başçı Mahmut Bey Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.940667,41.009629"
 draft: "false"
 weight: "999"

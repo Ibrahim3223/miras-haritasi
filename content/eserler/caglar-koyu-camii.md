@@ -5,10 +5,10 @@ slug: "caglar-koyu-camii"
 description: "### Çağlar Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Çatalzeytin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.1861229,41.9049339"
 draft: "false"
 weight: "999"

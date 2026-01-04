@@ -5,10 +5,10 @@ slug: "selcuk-hatun-turbesi"
 description: "### Selçuk Hatun Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9657947,41.0098376"
 draft: "false"
 weight: "999"

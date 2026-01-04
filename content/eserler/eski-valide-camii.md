@@ -5,10 +5,10 @@ slug: "eski-valide-camii"
 description: "## Eski Valide Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul,_üsküdar,_moschea_dell'atik_valide,_1577-1583_circa,_esterno,_veduta_della_moschea_e_dei_minareti.jpg/1200px-Istanbul,_üsküdar,_moschea_dell'atik_valide,_1577-1583_circa,_esterno,_veduta_della_moschea_e_dei_minareti.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.023644444,41.018941666"
 draft: "false"
 weight: "10"

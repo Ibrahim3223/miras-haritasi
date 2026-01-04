@@ -5,10 +5,10 @@ slug: "tumulus-cesmeli"
 description: "## Tümülüs, Çeşmeli: Marmara Ereğlisi'ndeki Antik Miras..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8348026,41.0481949"
 draft: "false"
 weight: "999"

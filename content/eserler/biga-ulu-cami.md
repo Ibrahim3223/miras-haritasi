@@ -5,10 +5,10 @@ slug: "biga-ulu-cami"
 description: "## Biga Ulu Camii: Çanakkale'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2392406,40.2271461"
 draft: "false"
 weight: "999"

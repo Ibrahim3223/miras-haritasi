@@ -5,10 +5,10 @@ slug: "kul-hoyugu-altinyayla"
 description: "## Kül Höyükleri: Altınyayla'daki Eski Kent Kalıntıları..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Altınyayla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8460121,39.3069305"
 draft: "false"
 weight: "999"

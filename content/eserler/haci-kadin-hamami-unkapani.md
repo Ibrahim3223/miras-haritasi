@@ -5,10 +5,10 @@ slug: "haci-kadin-hamami-unkapani"
 description: "## Hacı Kadın Hamamı, Unkapanı: İstanbul'un Tarihî Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.960291,41.019633"
 draft: "false"
 weight: "999"

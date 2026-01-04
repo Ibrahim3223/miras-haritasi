@@ -5,10 +5,10 @@ slug: "kardiya"
 description: "## Kardiya Arkeolojik Sit..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.74083333,40.54722222"
 draft: "false"
 weight: "999"

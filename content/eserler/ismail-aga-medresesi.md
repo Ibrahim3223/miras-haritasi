@@ -5,10 +5,10 @@ slug: "ismail-aga-medresesi"
 description: "## İsmail Ağa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/İsmail_Ağa_Medresesi,_Beyşehir,_April_2024_02.jpg/1200px-İsmail_Ağa_Medresesi,_Beyşehir,_April_2024_02.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "31.718195,37.6834679"
 draft: "false"
 weight: "10"

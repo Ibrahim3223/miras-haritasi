@@ -5,10 +5,10 @@ slug: "sitti-sultan-camii"
 description: "## Sitti Sultan Camii: Edirne'nin Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sitti_Sultan_Camii_22.JPG/1200px-Sitti_Sultan_Camii_22.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5593834,41.6734581"
 draft: "false"
 weight: "10"

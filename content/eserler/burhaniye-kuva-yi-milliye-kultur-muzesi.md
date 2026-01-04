@@ -5,10 +5,10 @@ slug: "burhaniye-kuva-yi-milliye-kultur-muzesi"
 description: "### Burhaniye Kuva-yı Milliye Kültür Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Burhaniye_KuvayiMilliye_Müzesi.jpg/1200px-Burhaniye_KuvayiMilliye_Müzesi.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.981111111,39.503611111"
 draft: "false"
 weight: "10"

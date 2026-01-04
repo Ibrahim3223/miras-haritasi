@@ -5,10 +5,10 @@ slug: "zile-saat-kulesi"
 description: "# Zile Saat Kulesi: Tarihi ve Kültürel Bir Anıtlar Arasından Farklılık..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.890049,40.3040886"
 draft: "false"
 weight: "999"

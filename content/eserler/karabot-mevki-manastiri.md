@@ -5,10 +5,10 @@ slug: "karabot-mevki-manastiri"
 description: "## Karabot Mevki Manastırı: Gökçeada'nın Eski Bir Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7737179,40.1573486"
 draft: "false"
 weight: "999"

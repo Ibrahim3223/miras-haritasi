@@ -5,10 +5,10 @@ slug: "yahudi-koprusu"
 description: "## Yahudi Köprüsü: İstanbul'un Gizli Çehresinde Bir Köprü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9455681,41.0419807"
 draft: "false"
 weight: "999"

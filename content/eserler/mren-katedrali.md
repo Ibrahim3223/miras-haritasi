@@ -5,10 +5,10 @@ slug: "mren-katedrali"
 description: "### Mren Katedrali: Kars'ın Gizli Cağlısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cathedral_of_Mren_and_surroundings_30.jpg/1200px-Cathedral_of_Mren_and_surroundings_30.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Digor"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.662953,40.242125"
 draft: "false"
 weight: "10"

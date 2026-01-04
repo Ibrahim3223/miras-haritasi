@@ -5,10 +5,10 @@ slug: "kalabak-kalesi-kuyucak"
 description: "# Kalabak Kalesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.5200996,37.9590988"
 draft: "false"
 weight: "999"

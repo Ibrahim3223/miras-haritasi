@@ -5,10 +5,10 @@ slug: "keraitae"
 description: "## Keraitae Arkeolojik Sit..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.602777777,37.514444444"
 draft: "false"
 weight: "999"

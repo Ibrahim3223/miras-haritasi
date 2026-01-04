@@ -5,10 +5,10 @@ slug: "asilhan-bey-camii"
 description: "## Asılhan Bey Camii: Çanakkale'nin Değerli İmar Eseri..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.2351818,39.7590332"
 draft: "false"
 weight: "999"

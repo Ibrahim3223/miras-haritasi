@@ -5,10 +5,10 @@ slug: "kilise-tepe-hoyugu-ladik"
 description: "## Kilise Tepe Höyüğü, Ladik..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.03754,40.893632"
 draft: "false"
 weight: "999"

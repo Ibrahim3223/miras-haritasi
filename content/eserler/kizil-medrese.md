@@ -5,10 +5,10 @@ slug: "kizil-medrese"
 description: "## Kızıl Medrese: Şırnak'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Medreseya_Sor_Cizîra_Botan_2009_2.JPG/1200px-Medreseya_Sor_Cizîra_Botan_2009_2.JPG"
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "42.1881981,37.3252258"
 draft: "false"
 weight: "10"

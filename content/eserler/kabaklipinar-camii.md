@@ -5,10 +5,10 @@ slug: "kabaklipinar-camii"
 description: "## Kabaklıpınar Camii: Tekirdağ'ın Tarih Özellikli Camisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Kapaklı_-_Kabaklıpınar_Camii_-_20250602142951.jpg/1200px-Kapaklı_-_Kabaklıpınar_Camii_-_20250602142951.jpg"
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Kapaklı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.974513351,41.329877408"
 draft: "false"
 weight: "10"

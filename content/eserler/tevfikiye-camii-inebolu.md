@@ -5,10 +5,10 @@ slug: "tevfikiye-camii-inebolu"
 description: "## Tevfikiye Camii: İnebolu'nun Tarihî ve Mimarî Harikası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7600594,41.9765663"
 draft: "false"
 weight: "999"

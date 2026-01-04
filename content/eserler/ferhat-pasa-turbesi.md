@@ -5,10 +5,10 @@ slug: "ferhat-pasa-turbesi"
 description: "### Ferhat Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935293,41.047355"
 draft: "false"
 weight: "999"

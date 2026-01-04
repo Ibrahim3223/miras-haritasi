@@ -5,10 +5,10 @@ slug: "rum-kilisesi-cebecikoy"
 description: "## Rum Kilisesi, Cebeciköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sultangazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.883873,41.1223183"
 draft: "false"
 weight: "999"

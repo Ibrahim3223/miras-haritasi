@@ -5,10 +5,10 @@ slug: "roma-koprusu-denircik"
 description: "### Roma Köprüsü, Denircik..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.43597,37.152859"
 draft: "false"
 weight: "999"

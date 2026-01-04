@@ -5,10 +5,10 @@ slug: "comakli-sultan-turbesi"
 description: "### Çomaklı Sultan Türbesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9389,37.5815"
 draft: "false"
 weight: "999"

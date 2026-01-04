@@ -5,10 +5,10 @@ slug: "ayios-georgios-rum-ortodoks-kilisesi"
 description: "### Ayios Georgios Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.6271744,36.7981911"
 draft: "false"
 weight: "999"

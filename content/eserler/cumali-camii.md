@@ -5,10 +5,10 @@ slug: "cumali-camii"
 description: "**Cumalı Camii: Serik'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0706571,36.9161924"
 draft: "false"
 weight: "999"

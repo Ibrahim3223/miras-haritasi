@@ -5,10 +5,10 @@ slug: "ilyas-bey-camii"
 description: "### İlyas Bey Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mosque_Ilyas_Bey_exterior.JPG/1200px-Mosque_Ilyas_Bey_exterior.JPG"
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.277861111,37.526416666"
 draft: "false"
 weight: "10"

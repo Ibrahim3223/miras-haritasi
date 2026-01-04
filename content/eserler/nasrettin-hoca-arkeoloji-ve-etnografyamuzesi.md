@@ -5,10 +5,10 @@ slug: "nasrettin-hoca-arkeoloji-ve-etnografyamuzesi"
 description: "## Nasrettin Hoca Arkeoloji ve Etnografya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Nasrettin_Hoca_Arkeoloji_ve_Etnografya_Müzesi_binası.jpg/1200px-Nasrettin_Hoca_Arkeoloji_ve_Etnografya_Müzesi_binası.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.411278,38.356737"
 draft: "false"
 weight: "10"

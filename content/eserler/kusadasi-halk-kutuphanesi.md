@@ -5,10 +5,10 @@ slug: "kusadasi-halk-kutuphanesi"
 description: "### Kuşadası Halk Kütüphanesi: Aydın'ın Kültürel Mirasının Aydınlık Yeri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.2582531,37.8595543"
 draft: "false"
 weight: "999"

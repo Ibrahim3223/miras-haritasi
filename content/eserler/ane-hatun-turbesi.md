@@ -5,10 +5,10 @@ slug: "ane-hatun-turbesi"
 description: "## Ane Hatun Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.270027777,39.904222222"
 draft: "false"
 weight: "999"

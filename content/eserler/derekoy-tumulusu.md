@@ -5,10 +5,10 @@ slug: "derekoy-tumulusu"
 description: "## Dereköy Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "25.801665377,40.110612506"
 draft: "false"
 weight: "999"

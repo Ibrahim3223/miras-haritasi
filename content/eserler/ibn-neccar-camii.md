@@ -5,10 +5,10 @@ slug: "ibn-neccar-camii"
 description: "## İbn Neccar Camii: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/097_Kastamonu_İbn-i_Neccar_Cami_from_Kale.jpg/1200px-097_Kastamonu_İbn-i_Neccar_Cami_from_Kale.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7713394,41.3733368"
 draft: "false"
 weight: "10"

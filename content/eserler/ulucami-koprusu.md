@@ -5,10 +5,10 @@ slug: "ulucami-koprusu"
 description: "## Ulucami Köprüsü: Bergama'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bergama_Ulucami_Köprüsü.jpg/1200px-Bergama_Ulucami_Köprüsü.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1791,39.1246986"
 draft: "false"
 weight: "10"

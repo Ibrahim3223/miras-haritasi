@@ -5,10 +5,10 @@ slug: "gedikpasa-surp-hovhannes-kilisesi"
 description: "## Gedikpaşa Surp Hovhannes Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Istanbul_St_John's_Armenian_Church_in_2015_5278.jpg/1200px-Istanbul_St_John's_Armenian_Church_in_2015_5278.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.967398,41.00591"
 draft: "false"
 weight: "10"

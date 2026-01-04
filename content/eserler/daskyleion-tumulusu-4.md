@@ -5,10 +5,10 @@ slug: "daskyleion-tumulusu-4"
 description: "# Daskyleion Tümülüsü 4..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0899525,40.1559372"
 draft: "false"
 weight: "999"

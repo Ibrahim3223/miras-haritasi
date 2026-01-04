@@ -5,10 +5,10 @@ slug: "tatlica-koyu-camii"
 description: "# Tatlıca Köyü Camii..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2419662,41.2562866"
 draft: "false"
 weight: "999"

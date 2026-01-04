@@ -5,10 +5,10 @@ slug: "sarp-camii"
 description: "## Sarp Camii: Hopa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Hopa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.548393,41.518398"
 draft: "false"
 weight: "999"

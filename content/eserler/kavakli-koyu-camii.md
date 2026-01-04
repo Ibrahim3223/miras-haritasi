@@ -5,10 +5,10 @@ slug: "kavakli-koyu-camii"
 description: "### Kavaklı Köyü Camii: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.143465,37.9283638"
 draft: "false"
 weight: "999"

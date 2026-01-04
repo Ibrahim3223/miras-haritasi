@@ -5,10 +5,10 @@ slug: "oyun-ve-oyuncak-muzesi-camlidere"
 description: "## Oyun ve Oyuncak Müzesi, Çamlıdere..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4685822,40.4891968"
 draft: "false"
 weight: "999"

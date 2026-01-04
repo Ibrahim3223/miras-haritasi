@@ -5,10 +5,10 @@ slug: "dicle-tuneli"
 description: "# Dicle Tüneli..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Ausgang_des_Tigristunnels.jpg/1200px-Ausgang_des_Tigristunnels.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.547447,38.529653"
 draft: "false"
 weight: "10"

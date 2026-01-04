@@ -5,10 +5,10 @@ slug: "ibrahim-kethuda-medresesi"
 description: "## İbrahim Kethüda Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9611683,41.0168381"
 draft: "false"
 weight: "999"

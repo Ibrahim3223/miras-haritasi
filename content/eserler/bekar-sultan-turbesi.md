@@ -5,10 +5,10 @@ slug: "bekar-sultan-turbesi"
 description: "## Bekar Sultan Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Bekar_Sultan_T%C3%BCrbesi.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Gülağaç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.3816223,38.3945732"
 draft: "false"
 weight: "999"

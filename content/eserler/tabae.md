@@ -5,10 +5,10 @@ slug: "tabae"
 description: "**Tabae: Tarihi ve Kültürel Mirasın Bir Parçası**..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.846888888,37.431138888"
 draft: "false"
 weight: "999"

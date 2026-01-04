@@ -5,10 +5,10 @@ slug: "aynali-camii"
 description: "### Aynalı Camii: Manisa'nın Tarihî Bir Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Karaosmano%C4%9Flu_Halit_Pa%C5%9Fa%27n%C4%B1n_mezar%C4%B1.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.843178,38.923894"
 draft: "false"
 weight: "999"

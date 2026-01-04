@@ -5,10 +5,10 @@ slug: "bicakcilar-koryet-camii"
 description: "# Bıçakçılar Koryet Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.429611,41.0290441"
 draft: "false"
 weight: "999"

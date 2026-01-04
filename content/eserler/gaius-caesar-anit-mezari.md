@@ -5,10 +5,10 @@ slug: "gaius-caesar-anit-mezari"
 description: "### Gaius Caesar Anıt Mezarı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Cenotaph_Limyra.JPG/1200px-Cenotaph_Limyra.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.1679,36.341852"
 draft: "false"
 weight: "10"

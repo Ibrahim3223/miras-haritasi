@@ -5,10 +5,10 @@ slug: "andriake-bati-hamami"
 description: "# Andriake Batı Hamamı: Demre'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9575119,36.2270432"
 draft: "false"
 weight: "999"

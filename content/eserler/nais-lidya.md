@@ -5,10 +5,10 @@ slug: "nais-lidya"
 description: "## Nais (Lidya) Arkeolojik Sit..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.2114,38.42703"
 draft: "false"
 weight: "999"

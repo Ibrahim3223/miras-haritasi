@@ -5,10 +5,10 @@ slug: "cini-muzesi"
 description: "# Çini Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.975321,39.417155"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "huyucek-tepe"
 description: "## Hüyücek Tepe: Burhaniye'nin Gizli Mirası..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.97405,39.525167"
 draft: "false"
 weight: "999"

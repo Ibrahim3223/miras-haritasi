@@ -5,10 +5,10 @@ slug: "aloanda"
 description: "## Aloanda Arkeolojik Sit..."
 featured_image: ""
 province: "Seydikemer"
-iller: '["Seydikemer"]'
+iller: ["Seydikemer"]
 district: "Kabaağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.2619553,36.5497856"
 draft: "false"
 weight: "999"

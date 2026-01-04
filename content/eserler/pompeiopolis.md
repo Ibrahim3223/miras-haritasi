@@ -5,10 +5,10 @@ slug: "pompeiopolis"
 description: "## Pompeiopolis: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.76138889,41.97805556"
 draft: "false"
 weight: "999"

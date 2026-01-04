@@ -5,10 +5,10 @@ slug: "hasirci-haci-huseyin-camii"
 description: "## Hasırcı Hacı Hüseyin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Hasırcı_Hacı_Hüseyin_Camii_2025-10-15.jpg/1200px-Hasırcı_Hacı_Hüseyin_Camii_2025-10-15.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6301765,36.8052788"
 draft: "false"
 weight: "10"

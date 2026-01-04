@@ -5,10 +5,10 @@ slug: "yanikdag-koprusu"
 description: "# Yanıkdağ Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7454667,41.0879667"
 draft: "false"
 weight: "999"

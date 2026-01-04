@@ -5,10 +5,10 @@ slug: "orman-tekkesi"
 description: "## Orman Tekkesi: Milas'ta Bir Medrese'nin Gizemi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7855396,37.2699203"
 draft: "false"
 weight: "999"

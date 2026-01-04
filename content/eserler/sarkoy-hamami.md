@@ -5,10 +5,10 @@ slug: "sarkoy-hamami"
 description: "## Şarköy Hamamı: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.1128998,40.6151085"
 draft: "false"
 weight: "999"

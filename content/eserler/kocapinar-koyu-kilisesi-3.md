@@ -5,10 +5,10 @@ slug: "kocapinar-koyu-kilisesi-3"
 description: "## Kocapınar Köyü Kilisesi 3 - Gümüşhane'deki Bir Ören Yeri..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.593629,40.458273"
 draft: "false"
 weight: "999"

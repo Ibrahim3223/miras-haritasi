@@ -5,10 +5,10 @@ slug: "yassihoyuk"
 description: "### Yassıhöyük: Kırşehir'in Eski Bir Eseri..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.075498925,39.319135311"
 draft: "false"
 weight: "999"

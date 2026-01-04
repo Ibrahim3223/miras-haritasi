@@ -5,10 +5,10 @@ slug: "tokatli-koprusu"
 description: "## Tokatlı Köprüsü..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.6840134,41.2669258"
 draft: "false"
 weight: "999"

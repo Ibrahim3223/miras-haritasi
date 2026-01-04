@@ -5,10 +5,10 @@ slug: "lancashire-landing-mezarligi"
 description: "## Lancashire Landing Mezarlığı: Birinci Dünya Savaşı'nın Eceabat'ını Hatırlatan Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Lancashire_Landing_Cemetery_2013.07.27.jpg/1200px-Lancashire_Landing_Cemetery_2013.07.27.jpg"
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Seddülbahir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.17359,40.05376"
 draft: "false"
 weight: "10"

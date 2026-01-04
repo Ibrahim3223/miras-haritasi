@@ -5,10 +5,10 @@ slug: "sahadet-camii"
 description: "## Şahadet Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Bursa_Şehadet_Camii_2003_0049.jpg/1200px-Bursa_Şehadet_Camii_2003_0049.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.056027777,40.186305555"
 draft: "false"
 weight: "10"

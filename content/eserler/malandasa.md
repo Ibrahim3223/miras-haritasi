@@ -5,10 +5,10 @@ slug: "malandasa"
 description: "## Malandasa: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.39368,38.2111435"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyuk-aga-medresesi"
 description: "## Büyük Ağa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Amasya-Kapı-Ağası-Medrese-02.JPG/1200px-Amasya-Kapı-Ağası-Medrese-02.JPG"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8348916,40.6585805"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sagmalagil-hoyugu"
 description: "## Sağmalağıl Höyüğü: Kırşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2413968,38.8330972"
 draft: "false"
 weight: "999"

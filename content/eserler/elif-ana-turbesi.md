@@ -5,10 +5,10 @@ slug: "elif-ana-turbesi"
 description: "## Elif Ana Türbesi: Kahramanmaraş'taki Bir Kültürel Miras..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Pazarcık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.0178291,37.2923037"
 draft: "false"
 weight: "999"

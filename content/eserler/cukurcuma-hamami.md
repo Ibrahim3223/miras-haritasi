@@ -5,10 +5,10 @@ slug: "cukurcuma-hamami"
 description: "## Çukurcuma Hamamı: İstanbul'un Gizli Çeşmeleri Arasındaki Efsanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.980477,41.031513"
 draft: "false"
 weight: "999"

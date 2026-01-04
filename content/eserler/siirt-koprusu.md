@@ -5,10 +5,10 @@ slug: "siirt-koprusu"
 description: "## Siirt Köprüsü: Geçmişi ve Kültür Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Eruh"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.822821,37.713536"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kule-maden-adasi"
 description: "## Kule, Maden Adası: Ayvalık'ın Tarihî Bir Zirvesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.584845768,39.38265887"
 draft: "false"
 weight: "999"

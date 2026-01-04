@@ -5,10 +5,10 @@ slug: "roma-koprusu-akcakoy"
 description: "## Roma Köprüsü, Akçaköy..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.087813,38.24342"
 draft: "false"
 weight: "999"

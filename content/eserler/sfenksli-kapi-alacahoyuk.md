@@ -5,10 +5,10 @@ slug: "sfenksli-kapi-alacahoyuk"
 description: "# Sfenksli Kapı, Alacahöyük..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.696186,40.233669"
 draft: "false"
 weight: "999"

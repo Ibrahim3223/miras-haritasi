@@ -5,10 +5,10 @@ slug: "sakir-pasa-camii"
 description: "### Şakir Paşa Camii..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.5022087,39.0445595"
 draft: "false"
 weight: "999"

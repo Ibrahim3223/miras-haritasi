@@ -5,10 +5,10 @@ slug: "justinianus-koprusu"
 description: "## Justinianus Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Sangarius_Bridge._Drawing_01.jpg/1200px-Sangarius_Bridge._Drawing_01.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "30.37276,40.73736"
 draft: "false"
 weight: "10"

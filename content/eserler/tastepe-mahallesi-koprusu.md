@@ -5,10 +5,10 @@ slug: "tastepe-mahallesi-koprusu"
 description: "## Taştepe Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Araklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.9812,40.781664"
 draft: "false"
 weight: "999"

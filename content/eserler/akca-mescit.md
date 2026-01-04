@@ -5,10 +5,10 @@ slug: "akca-mescit"
 description: "**Akça Mescit: Adana'nın Tarihî Bir Mirası**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3302994,36.985527"
 draft: "false"
 weight: "999"

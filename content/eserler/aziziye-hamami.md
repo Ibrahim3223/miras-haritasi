@@ -5,10 +5,10 @@ slug: "aziziye-hamami"
 description: "### Aziziye Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Aziziye_Hamamı.jpg/1200px-Aziziye_Hamamı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.026138888,40.994222222"
 draft: "false"
 weight: "10"

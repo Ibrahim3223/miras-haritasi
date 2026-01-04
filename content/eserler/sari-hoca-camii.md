@@ -5,10 +5,10 @@ slug: "sari-hoca-camii"
 description: "## Sarı Hoca Camii: Kırkağaç'taki Bir Tarihsel Çanı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6680336,39.1002083"
 draft: "false"
 weight: "999"

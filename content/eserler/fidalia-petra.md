@@ -5,10 +5,10 @@ slug: "fidalia-petra"
 description: "## Fidalia Petra: Muzafferlik ve Güçün Göstergesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.050838,41.099551"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amasya-ulu-camii"
 description: "# Amasya Ulu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Amasya-Mosque-06.JPG/1200px-Amasya-Mosque-06.JPG"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8324,40.6501"
 draft: "false"
 weight: "10"

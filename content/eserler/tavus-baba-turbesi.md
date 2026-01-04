@@ -5,10 +5,10 @@ slug: "tavus-baba-turbesi"
 description: "## Tavus Baba Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.419923,37.85237"
 draft: "false"
 weight: "999"

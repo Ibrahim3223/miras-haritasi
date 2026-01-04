@@ -5,10 +5,10 @@ slug: "boyaci-ali-camii"
 description: "## Boyacı Ali Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0475006,37.5157509"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alacaligol-hoyugu"
 description: "**Alacalıgöl Höyüğü: Çanakkale'nin Gizli Kahramanı**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1762123,39.9569855"
 draft: "false"
 weight: "999"

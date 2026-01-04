@@ -5,10 +5,10 @@ slug: "destari-mustafa-pasa-turbesi"
 description: "## Destari Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9567959,41.0135333"
 draft: "false"
 weight: "999"

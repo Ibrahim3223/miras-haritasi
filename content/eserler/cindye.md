@@ -5,10 +5,10 @@ slug: "cindye"
 description: "## Cindye: Milas'ın Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.650052,37.191684"
 draft: "false"
 weight: "999"

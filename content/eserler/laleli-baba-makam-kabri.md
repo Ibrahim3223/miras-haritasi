@@ -5,10 +5,10 @@ slug: "laleli-baba-makam-kabri"
 description: "## Laleli Baba Makam Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9557819,41.0097046"
 draft: "false"
 weight: "999"

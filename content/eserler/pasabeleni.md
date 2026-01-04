@@ -5,10 +5,10 @@ slug: "pasabeleni"
 description: "**Paşabeleni: Bir Ören Yeri ve Tarih Öncesi Kaya Mezarı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Mersin_Archaeological_Museum_3.jpg/1200px-Mersin_Archaeological_Museum_3.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Bozyazı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.978168,36.099828"
 draft: "false"
 weight: "10"

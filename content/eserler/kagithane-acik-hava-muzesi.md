@@ -5,10 +5,10 @@ slug: "kagithane-acik-hava-muzesi"
 description: "## Kağıthane Açık Hava Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9650249,41.0717354"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amycus-bitinya"
 description: "## Amycus (Bitinya): Bitinya'nın Gizemli Eski Kenti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.091469,41.135316"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "komurcu-mahallesi-koprusu"
 description: "### Kömürcü Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Yomra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.86474,40.903892"
 draft: "false"
 weight: "999"

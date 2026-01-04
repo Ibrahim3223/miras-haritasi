@@ -5,10 +5,10 @@ slug: "mevlutlu-taslitarla-tumulusu"
 description: "## Mevlütlü Taşlıtarla Tümülüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3408527,38.4775581"
 draft: "false"
 weight: "999"

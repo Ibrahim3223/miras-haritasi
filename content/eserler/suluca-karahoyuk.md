@@ -5,10 +5,10 @@ slug: "suluca-karahoyuk"
 description: "## Suluca Karahöyük: Geçmişin Ölümsüz Anıtları..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.561405,38.946934"
 draft: "false"
 weight: "999"

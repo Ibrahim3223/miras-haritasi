@@ -5,10 +5,10 @@ slug: "fatih-sultan-mehmet-cami"
 description: "# Fatih Sultan Mehmet Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Istanbul_Fatih_Sultan_Mehmet_Mosque_2.jpg/1200px-Istanbul_Fatih_Sultan_Mehmet_Mosque_2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.04872,41.09231"
 draft: "false"
 weight: "10"

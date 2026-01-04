@@ -5,10 +5,10 @@ slug: "huseyin-hoca-koyu-sahil-camii"
 description: "## Hüseyin Hoca Köyü Sahil Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Kalkandere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.420567,40.905359"
 draft: "false"
 weight: "999"

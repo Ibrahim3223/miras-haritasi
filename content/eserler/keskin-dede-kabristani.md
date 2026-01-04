@@ -5,10 +5,10 @@ slug: "keskin-dede-kabristani"
 description: "### Keskin Dede Kabristanı: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.944645,41.024528"
 draft: "false"
 weight: "999"

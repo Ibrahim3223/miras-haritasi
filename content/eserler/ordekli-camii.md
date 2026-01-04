@@ -5,10 +5,10 @@ slug: "ordekli-camii"
 description: "## Ördekli Camii: Ankara'nın Gizli Çehresinde Bir Ören..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8604469,39.9434242"
 draft: "false"
 weight: "999"

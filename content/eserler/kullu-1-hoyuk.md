@@ -5,10 +5,10 @@ slug: "kullu-1-hoyuk"
 description: "## Küllü 1 Höyük: Çiçekdağı'nda Gizlenen Geç Çağataylı Mirası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Çiçekdağı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.4803977,39.4989101"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mikhael-archangelos-kilisesi"
 description: "## Mikhael Archangelos Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6140633,40.1863708"
 draft: "false"
 weight: "999"

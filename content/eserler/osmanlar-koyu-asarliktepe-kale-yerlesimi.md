@@ -5,10 +5,10 @@ slug: "osmanlar-koyu-asarliktepe-kale-yerlesimi"
 description: "## Osmanlar Köyü Asarlıktepe Kale Yerleşimi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.6789494,40.0964813"
 draft: "false"
 weight: "999"

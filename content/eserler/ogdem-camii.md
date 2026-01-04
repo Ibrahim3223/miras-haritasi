@@ -5,10 +5,10 @@ slug: "ogdem-camii"
 description: "## Öğdem Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.635135,40.9166434"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "maltepe-bakiralan-tepe"
 description: "## Maltepe (Bakıralan Tepe): Manisa'nın Gizli Hazinesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.724867,39.08375"
 draft: "false"
 weight: "999"

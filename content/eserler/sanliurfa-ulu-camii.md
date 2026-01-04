@@ -5,10 +5,10 @@ slug: "sanliurfa-ulu-camii"
 description: "## Şanlıurfa Ulu Camii: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Urfa_Ulu_Camii_minaret_8945.jpg/1200px-Urfa_Ulu_Camii_minaret_8945.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.790131944,37.151346944"
 draft: "false"
 weight: "10"

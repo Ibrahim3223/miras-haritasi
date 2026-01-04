@@ -5,10 +5,10 @@ slug: "asagimollahasan-hoyugu"
 description: "## Aşağımollahasan Höyüğü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/41/Influencedurartu1.PNG"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Özalp"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.8970113,38.6537287"
 draft: "false"
 weight: "999"

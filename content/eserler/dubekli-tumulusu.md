@@ -5,10 +5,10 @@ slug: "dubekli-tumulusu"
 description: "## Dübekli Tümülüsü: Bozüyük'ün Gizemi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bozüyük"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.1685925,39.8841782"
 draft: "false"
 weight: "999"

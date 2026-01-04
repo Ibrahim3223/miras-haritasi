@@ -5,10 +5,10 @@ slug: "emirali-tepe-antik-yerlesimi"
 description: "## Emirali Tepe Antik Yerleşimi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9514713,39.0236969"
 draft: "false"
 weight: "999"

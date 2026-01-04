@@ -5,10 +5,10 @@ slug: "polis-sehitleri-aniti-konak"
 description: "## Polis Şehitleri Anıtı, Konak..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.1482811,38.4193382"
 draft: "false"
 weight: "999"

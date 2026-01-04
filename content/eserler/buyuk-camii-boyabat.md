@@ -5,10 +5,10 @@ slug: "buyuk-camii-boyabat"
 description: "### Büyük Camii, Boyabat..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Boyabat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7685165,41.466938"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukuhisar-iialpu"
 description: "## Çukuhisar II/Alpu: Eskişehir'in Gizli Şehri..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.983083,39.8426"
 draft: "false"
 weight: "999"

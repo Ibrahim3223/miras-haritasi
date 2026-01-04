@@ -5,10 +5,10 @@ slug: "ilica-koprusu"
 description: "## Ilıca Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6229992,37.9331017"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "duluk"
 description: "### Dülük: Gaziantep'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.3594379,37.1519282"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tellak-dede-kabri"
 description: "## Tellak Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9404278,41.0079575"
 draft: "false"
 weight: "999"

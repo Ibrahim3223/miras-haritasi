@@ -5,10 +5,10 @@ slug: "atrium-thermarum-liman-hamamlari-atriumu"
 description: "## Atrium Thermarum: Liman Hamamları Atriumu..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.337835942,37.942760328"
 draft: "false"
 weight: "999"

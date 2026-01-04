@@ -5,10 +5,10 @@ slug: "dinari-pamuk-camii"
 description: "## Dinari Pamuk Camii: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.738264,37.313221"
 draft: "false"
 weight: "999"

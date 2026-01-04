@@ -5,10 +5,10 @@ slug: "pazarkoy-merkez-camii"
 description: "### Pazarköy Merkez Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.577978146,41.001608126"
 draft: "false"
 weight: "999"

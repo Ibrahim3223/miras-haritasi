@@ -5,10 +5,10 @@ slug: "elif-anit-mezari"
 description: "## Elif Anıt Mezarı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Araban"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.8802261,37.3769073"
 draft: "false"
 weight: "999"

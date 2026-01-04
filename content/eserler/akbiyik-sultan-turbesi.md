@@ -5,10 +5,10 @@ slug: "akbiyik-sultan-turbesi"
 description: "### Akbıyık Sultan Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.062472,40.182028"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-ahmet-camii-abana"
 description: "## Hacı Ahmet Camii, Abana: Kastamonu'nun Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Abana"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0079002,41.9778709"
 draft: "false"
 weight: "999"

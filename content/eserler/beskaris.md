@@ -5,10 +5,10 @@ slug: "beskaris"
 description: "## Beşkarış: Altıntaş'taki Eski Şehir..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.188333,38.99635"
 draft: "false"
 weight: "999"

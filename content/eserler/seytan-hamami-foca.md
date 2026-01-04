@@ -5,10 +5,10 @@ slug: "seytan-hamami-foca"
 description: "## Şeytan Hamamı, Foça: Tarihî ve Mimarî Bir Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.7452698,38.6608429"
 draft: "false"
 weight: "999"

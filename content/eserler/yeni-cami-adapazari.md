@@ -5,10 +5,10 @@ slug: "yeni-cami-adapazari"
 description: "**Yeni Cami (Adapazarı)**..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.4040661,40.7728844"
 draft: "false"
 weight: "999"

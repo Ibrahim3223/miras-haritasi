@@ -5,10 +5,10 @@ slug: "server-camii"
 description: "## Server Camii: Kastamonu'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.770237,41.3786888"
 draft: "false"
 weight: "999"

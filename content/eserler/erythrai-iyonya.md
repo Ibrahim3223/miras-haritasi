@@ -5,10 +5,10 @@ slug: "erythrai-iyonya"
 description: "**Erythrai: İyonya'nın Gizli Mirası**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.514014,38.167325"
 draft: "false"
 weight: "999"

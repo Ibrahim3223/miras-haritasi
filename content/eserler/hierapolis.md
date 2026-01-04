@@ -5,10 +5,10 @@ slug: "hierapolis"
 description: "## Hierapolis: Pamukkale'nin Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/The_Roman_theatre,_built_in_the_2nd_century_AD_under_Hadrian_on_the_ruins_of_an_earlier_theatre,_later_renovated_under_Septimius_Severus,_Hierapolis,_Turkey_-_17033895960.jpg/1200px-The_Roman_theatre,_built_in_the_2nd_century_AD_under_Hadrian_on_the_ruins_of_an_earlier_theatre,_later_renovated_under_Septimius_Severus,_Hierapolis,_Turkey_-_17033895960.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.125833333,37.925"
 draft: "false"
 weight: "10"

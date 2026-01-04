@@ -5,10 +5,10 @@ slug: "gumusova-tepe-ii"
 description: "## Gümüşova Tepe II: Bergama'nın Gizli Mimari Harikası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2459,39.064167"
 draft: "false"
 weight: "999"

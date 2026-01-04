@@ -5,10 +5,10 @@ slug: "islahiye-kanboz-koprusu"
 description: "**İslahiye Kanboz Köprüsü**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Güneysu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.645983,40.982"
 draft: "false"
 weight: "999"

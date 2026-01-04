@@ -5,10 +5,10 @@ slug: "orta-mescit-bayindir"
 description: "## Orta Mescit, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6483994,38.2256012"
 draft: "false"
 weight: "999"

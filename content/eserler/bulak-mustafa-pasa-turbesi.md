@@ -5,10 +5,10 @@ slug: "bulak-mustafa-pasa-turbesi"
 description: "## Bulak Mustafa Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.933675,41.0476859"
 draft: "false"
 weight: "999"

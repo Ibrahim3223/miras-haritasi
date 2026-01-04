@@ -5,10 +5,10 @@ slug: "ciragan-sarayi"
 description: "## Çırağan Sarayı: İstanbul'un Gizli Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Istanbul_asv2020-02_img59_Çırağan_Palace.jpg/1200px-Istanbul_asv2020-02_img59_Çırağan_Palace.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: "29.015388888,41.043444444"
 draft: "false"
 weight: "10"

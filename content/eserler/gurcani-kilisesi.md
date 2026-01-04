@@ -5,10 +5,10 @@ slug: "gurcani-kilisesi"
 description: "## Gurcani Kilisesi: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Kutaisi Guberniyası"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.885486111,41.082544444"
 draft: "false"
 weight: "999"

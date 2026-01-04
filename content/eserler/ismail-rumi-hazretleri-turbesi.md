@@ -5,10 +5,10 @@ slug: "ismail-rumi-hazretleri-turbesi"
 description: "## İsmail Rumi Hazretleri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9811192,41.0297432"
 draft: "false"
 weight: "999"

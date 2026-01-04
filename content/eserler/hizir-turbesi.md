@@ -5,10 +5,10 @@ slug: "hizir-turbesi"
 description: "## Hızır Türbesi: Samandağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Khidr-Heiligum_Samandag.jpg/1200px-Khidr-Heiligum_Samandag.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Samandağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.94626164,36.081706891"
 draft: "false"
 weight: "10"

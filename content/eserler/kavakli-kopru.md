@@ -5,10 +5,10 @@ slug: "kavakli-kopru"
 description: "## Kavaklı Köprü: Çivril'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.640409,38.156738"
 draft: "false"
 weight: "999"

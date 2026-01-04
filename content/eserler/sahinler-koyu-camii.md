@@ -5,10 +5,10 @@ slug: "sahinler-koyu-camii"
 description: "## Şahinler Köyü Camii..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Burhaniye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9485397,39.4391136"
 draft: "false"
 weight: "999"

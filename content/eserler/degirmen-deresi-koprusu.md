@@ -5,10 +5,10 @@ slug: "degirmen-deresi-koprusu"
 description: "## Değirmen Deresi Köprüsü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2401905,38.420166"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yesilburc-kilise-camii-nigde"
 description: "## Yeşilburç Kilise Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6663399,38.0125465"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "episkopos-sarayi-side"
 description: "### Episkopos Sarayı: Side'deki Tarihî Bir Kervansaray..."
 featured_image: ""
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "31.394444444,36.767777777"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akoren-hoyuk"
 description: "**Akören Höyük: Eskişehir'in Gizli Tarihi**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.601267,39.622783"
 draft: "false"
 weight: "999"

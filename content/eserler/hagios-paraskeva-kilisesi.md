@@ -5,10 +5,10 @@ slug: "hagios-paraskeva-kilisesi"
 description: "## Hagios Paraskeva Kilisesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.6554794,40.1128578"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kizil-cami"
 description: "### Kızıl Cami: Eyüp'te Tarih ve Zenginlik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kızıl_Mescid-Eyüp.jpg/1200px-Kızıl_Mescid-Eyüp.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.934694444,41.045944444"
 draft: "false"
 weight: "10"

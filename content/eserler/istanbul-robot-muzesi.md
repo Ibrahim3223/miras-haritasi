@@ -5,10 +5,10 @@ slug: "istanbul-robot-muzesi"
 description: "## İstanbul Robot Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Robotmuseum.jpg/1200px-Robotmuseum.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.7287372,40.9823605"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "alay-han"
 description: "## Alay Han: Aksaray'da Bir Anıtın Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Alayhan01.jpg/1200px-Alayhan01.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.354444,38.518611"
 draft: "false"
 weight: "10"

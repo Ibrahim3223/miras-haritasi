@@ -5,10 +5,10 @@ slug: "bayrampasa-deresi-koprusu"
 description: "### Bayrampaşa Deresi Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.9337463,41.0213852"
 draft: "false"
 weight: "999"

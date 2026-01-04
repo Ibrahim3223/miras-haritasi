@@ -5,10 +5,10 @@ slug: "euromos-anit-mezar"
 description: "## Euromos Anıt Mezar: Tarihî ve Kültürel Mirasın Ihtişamı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6742039,37.3728142"
 draft: "false"
 weight: "999"

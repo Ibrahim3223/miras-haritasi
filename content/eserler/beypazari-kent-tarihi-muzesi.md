@@ -5,10 +5,10 @@ slug: "beypazari-kent-tarihi-muzesi"
 description: "### Beypazarı Kent Tarihi Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aphrodisias-tiyatro-hamami"
 description: "### Aphrodisias Tiyatro Hamamı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.7254124,37.7067108"
 draft: "false"
 weight: "999"

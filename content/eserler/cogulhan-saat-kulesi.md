@@ -5,10 +5,10 @@ slug: "cogulhan-saat-kulesi"
 description: "## Çoğulhan Saat Kulesi..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Afşin"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "37.0173721,38.3424339"
 draft: "false"
 weight: "999"

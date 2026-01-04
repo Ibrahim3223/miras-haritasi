@@ -5,10 +5,10 @@ slug: "bogazkesen-kumbeti"
 description: "### Boğazkesen Kümbeti: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.9243774,40.1740608"
 draft: "false"
 weight: "999"

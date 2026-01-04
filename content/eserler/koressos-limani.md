@@ -5,10 +5,10 @@ slug: "koressos-limani"
 description: "## Koressos Limanı: Ege'nin Gizemli Arkeolojik Sitleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3335,37.9435"
 draft: "false"
 weight: "999"

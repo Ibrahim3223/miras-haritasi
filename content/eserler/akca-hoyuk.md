@@ -5,10 +5,10 @@ slug: "akca-hoyuk"
 description: "## Akça Höyük: Kerkük'ün Öncüsü..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.445760081,37.197016961"
 draft: "false"
 weight: "999"

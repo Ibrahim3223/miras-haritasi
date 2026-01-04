@@ -5,10 +5,10 @@ slug: "haci-mimi-camii"
 description: "### Hacı Mimi Camii: Beyoğlu'ndaki Gizemli Bir Cami..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9773636,41.0277443"
 draft: "false"
 weight: "999"

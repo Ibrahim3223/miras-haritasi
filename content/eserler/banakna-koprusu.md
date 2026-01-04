@@ -5,10 +5,10 @@ slug: "banakna-koprusu"
 description: "## Banakna Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/a3/Banakna_Bridge3.jpg"
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka ilçesi"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.735751681,41.341609034"
 draft: "false"
 weight: "999"

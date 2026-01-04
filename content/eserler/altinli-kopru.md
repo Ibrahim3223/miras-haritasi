@@ -5,10 +5,10 @@ slug: "altinli-kopru"
 description: "# Altınlı Köprü: Adıyaman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Gölbaşı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.635212,37.830209"
 draft: "false"
 weight: "999"

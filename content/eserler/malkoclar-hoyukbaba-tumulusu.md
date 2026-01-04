@@ -5,10 +5,10 @@ slug: "malkoclar-hoyukbaba-tumulusu"
 description: "### Malkoçlar Höyükbaba Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.018343,42.040184"
 draft: "false"
 weight: "999"

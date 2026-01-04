@@ -5,10 +5,10 @@ slug: "sakarya-muzesi"
 description: "### Sakarya Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TR_Sakarya_asv2021-10_img13_Local_museum.jpg/1200px-TR_Sakarya_asv2021-10_img13_Local_museum.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.401666666,40.773888888"
 draft: "false"
 weight: "10"

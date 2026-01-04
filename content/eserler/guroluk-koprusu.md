@@ -5,10 +5,10 @@ slug: "guroluk-koprusu"
 description: "## Güroluk Köprüsü: Karadeniz'in Gizli Cenneti..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0590169,41.0198981"
 draft: "false"
 weight: "999"

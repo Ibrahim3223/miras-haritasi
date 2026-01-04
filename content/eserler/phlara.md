@@ -5,10 +5,10 @@ slug: "phlara"
 description: "## Phlara: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.594603,39.864116"
 draft: "false"
 weight: "999"

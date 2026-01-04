@@ -5,10 +5,10 @@ slug: "suleyman-pasa-turbesi"
 description: "## Süleyman Paşa Türbesi: Ardanuç'un Gizli Cenneti..."
 featured_image: ""
 province: "Kars Eyaleti"
-iller: '["Kars Eyaleti"]'
+iller: ["Kars Eyaleti"]
 district: "Ardanuç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.057975,41.128005"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kirkkizlar-kumbeti-niksar"
 description: "**Kırkkızlar Kümbeti, Niksar**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.9487,40.5906563"
 draft: "false"
 weight: "999"

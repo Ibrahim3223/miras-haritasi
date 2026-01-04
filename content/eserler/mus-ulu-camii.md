@@ -5,10 +5,10 @@ slug: "mus-ulu-camii"
 description: "### Muş Ulu Camii: Bir Tarihî Mirasın Anlatısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Muş_Ulucamii.jpg/1200px-Muş_Ulucamii.jpg"
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Muş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.487972222,38.730111111"
 draft: "false"
 weight: "10"

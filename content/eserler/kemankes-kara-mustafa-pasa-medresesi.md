@@ -5,10 +5,10 @@ slug: "kemankes-kara-mustafa-pasa-medresesi"
 description: "### Kemankeş Kara Mustafa Paşa Medresesi: Fatih'te Eğitime Öncülük Eden Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9673538,41.0089645"
 draft: "false"
 weight: "999"

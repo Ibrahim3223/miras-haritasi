@@ -5,10 +5,10 @@ slug: "yariktepe-b-tumulusu"
 description: "## Yarıktepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7659626,41.5533638"
 draft: "false"
 weight: "999"

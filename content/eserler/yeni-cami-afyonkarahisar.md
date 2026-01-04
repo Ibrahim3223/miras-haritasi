@@ -5,10 +5,10 @@ slug: "yeni-cami-afyonkarahisar"
 description: "## Yeni Cami (Afyonkarahisar)..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.535284,38.7550392"
 draft: "false"
 weight: "999"

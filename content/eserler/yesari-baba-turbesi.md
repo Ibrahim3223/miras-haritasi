@@ -5,10 +5,10 @@ slug: "yesari-baba-turbesi"
 description: "## Yesari Baba Türbesi: Sinop'un Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1585388,42.0252457"
 draft: "false"
 weight: "999"

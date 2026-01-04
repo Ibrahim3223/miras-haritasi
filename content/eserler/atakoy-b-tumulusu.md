@@ -5,10 +5,10 @@ slug: "atakoy-b-tumulusu"
 description: "## Ataköy B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4485512,41.5912704"
 draft: "false"
 weight: "999"

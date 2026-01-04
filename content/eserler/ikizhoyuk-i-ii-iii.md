@@ -5,10 +5,10 @@ slug: "ikizhoyuk-i-ii-iii"
 description: "## İkizhöyük I II III: Tarihî Bir Mirasın Geri Dönüşü..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.965633,38.193833"
 draft: "false"
 weight: "999"

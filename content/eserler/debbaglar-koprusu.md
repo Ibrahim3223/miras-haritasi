@@ -5,10 +5,10 @@ slug: "debbaglar-koprusu"
 description: "## Debbağlar Köprüsü: Aksaray'ın Eski İmparatorluk Geçişatı..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.023262,38.3730698"
 draft: "false"
 weight: "999"

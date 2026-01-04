@@ -5,10 +5,10 @@ slug: "durasil-kalesi"
 description: "# Durasıl Kalesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.9285126,38.9117393"
 draft: "false"
 weight: "999"

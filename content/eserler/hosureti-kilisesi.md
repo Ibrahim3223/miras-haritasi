@@ -5,10 +5,10 @@ slug: "hosureti-kilisesi"
 description: "## Hoşureti Kilisesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Hanak"
-iller: '["Hanak"]'
+iller: ["Hanak"]
 district: "Dilekdere"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.945466666,41.185897222"
 draft: "false"
 weight: "999"

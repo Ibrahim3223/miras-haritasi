@@ -5,10 +5,10 @@ slug: "toklu-ibrahim-dede-kabri"
 description: "# Toklu İbrahim Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.941288,41.0392494"
 draft: "false"
 weight: "999"

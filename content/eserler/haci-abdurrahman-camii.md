@@ -5,10 +5,10 @@ slug: "haci-abdurrahman-camii"
 description: "## Hacı Abdurrahman Camii: Manisa'nın Gizli Çehresini Açıklıyor..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6507015,38.5453453"
 draft: "false"
 weight: "999"

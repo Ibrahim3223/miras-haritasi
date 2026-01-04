@@ -5,10 +5,10 @@ slug: "kadyanda-antik-tiyatrosu"
 description: "## Kadyanda Antik Tiyatrosu: Muğla'nın Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.2356,36.715422"
 draft: "false"
 weight: "999"

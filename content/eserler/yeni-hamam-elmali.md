@@ -5,10 +5,10 @@ slug: "yeni-hamam-elmali"
 description: "## Yeni Hamam, Elmalı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Elmalı"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9132996,36.7444"
 draft: "false"
 weight: "999"

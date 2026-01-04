@@ -5,10 +5,10 @@ slug: "sagalassos-hamami"
 description: "### Sagalassos Hamamı: Ağlasun'un Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.518833,37.675827"
 draft: "false"
 weight: "999"

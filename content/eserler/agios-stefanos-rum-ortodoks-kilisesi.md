@@ -5,10 +5,10 @@ slug: "agios-stefanos-rum-ortodoks-kilisesi"
 description: "**Agios Stefanos Rum Ortodoks Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Church_of_Aghios_Stephanos_in_Yeşilköy_01.jpg/1200px-Church_of_Aghios_Stephanos_in_Yeşilköy_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8214302,40.9570503"
 draft: "false"
 weight: "10"

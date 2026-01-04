@@ -5,10 +5,10 @@ slug: "enver-pasa-anit-mezari"
 description: "## Enver Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9821,41.067672"
 draft: "false"
 weight: "999"

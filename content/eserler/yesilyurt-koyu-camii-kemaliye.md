@@ -5,10 +5,10 @@ slug: "yesilyurt-koyu-camii-kemaliye"
 description: "## Yeşilyurt Köyü Camii: Kemaliye'nin Gizli Cenneti..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.5574875,39.1978073"
 draft: "false"
 weight: "999"

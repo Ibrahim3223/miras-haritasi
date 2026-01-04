@@ -5,10 +5,10 @@ slug: "arasa-camii"
 description: "## Arasa Camii: Tarihi ve Kültürel Mirasın Gözbebeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/82/Kahramanmara%C5%9F_Arasa_Camii_058.jpg"
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Onikişubat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.9264526,37.5818863"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "efrenk-koprusu"
 description: "### Efrenk Köprüsü: Silifke'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.079571,36.60973"
 draft: "false"
 weight: "999"

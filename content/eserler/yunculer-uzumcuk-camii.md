@@ -5,10 +5,10 @@ slug: "yunculer-uzumcuk-camii"
 description: "## Yüncüler Üzümcük Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.3052364,40.794198"
 draft: "false"
 weight: "999"

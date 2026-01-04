@@ -5,10 +5,10 @@ slug: "tarihi-tekke-hamami"
 description: "**Tarihi Tekke Hamamı**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Tosya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.0301876,41.0239273"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pasaogullari-kondolotlar-hamami"
 description: "## Paşaoğulları Kondolotlar Hamamı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Paşaoğulları_Kondolotlar_Hamamı.jpg/1200px-Paşaoğulları_Kondolotlar_Hamamı.jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.223551,40.256521"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cermik-ulu-camii"
 description: "## Çermik Ulu Camii..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çermik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.445972222,38.135277777"
 draft: "false"
 weight: "999"

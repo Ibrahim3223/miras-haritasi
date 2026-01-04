@@ -5,10 +5,10 @@ slug: "tarabya-ayios-konstantinos-kilisesi"
 description: "## Tarabya Ayios Konstantinos Kilisesi: İstanbul'un Gizli Çehresinde Bir Aziz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0378208,41.1431236"
 draft: "false"
 weight: "999"

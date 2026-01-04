@@ -5,10 +5,10 @@ slug: "soroyna-kalesi"
 description: "### Soroyna Kalesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.2596054,40.445034"
 draft: "false"
 weight: "999"

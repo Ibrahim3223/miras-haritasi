@@ -5,10 +5,10 @@ slug: "menemen-ulu-cami"
 description: "## Menemen Ulu Cami: İzmirlinin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0665359,38.6101303"
 draft: "false"
 weight: "999"

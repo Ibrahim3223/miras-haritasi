@@ -5,10 +5,10 @@ slug: "enverpasa-koprusu"
 description: "## Enverpaşa Köprüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.50350326,41.090536299"
 draft: "false"
 weight: "999"

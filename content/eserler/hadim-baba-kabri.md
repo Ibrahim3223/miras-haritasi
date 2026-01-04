@@ -5,10 +5,10 @@ slug: "hadim-baba-kabri"
 description: "## Hadım Baba Kabri: İstanbul'un Gizli Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.618155905,41.157209881"
 draft: "false"
 weight: "999"

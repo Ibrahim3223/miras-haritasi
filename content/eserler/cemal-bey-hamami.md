@@ -5,10 +5,10 @@ slug: "cemal-bey-hamami"
 description: "## Cemal Bey Hamamı: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8415489,37.8519897"
 draft: "false"
 weight: "999"

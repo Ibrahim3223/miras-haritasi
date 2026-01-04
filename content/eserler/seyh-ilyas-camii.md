@@ -5,10 +5,10 @@ slug: "seyh-ilyas-camii"
 description: "## Şeyh İlyas Camii: Bor, Niğde'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bor_Şeyh_Ilyas_(Kale)_mosque_1077.jpg/1200px-Bor_Şeyh_Ilyas_(Kale)_mosque_1077.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5673141,37.8944893"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "yenikapi-batiklari"
 description: "### Yenikapı Batıkları..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9521389,41.0061188"
 draft: "false"
 weight: "999"

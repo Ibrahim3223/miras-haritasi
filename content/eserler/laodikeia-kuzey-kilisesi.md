@@ -5,10 +5,10 @@ slug: "laodikeia-kuzey-kilisesi"
 description: "## Laodikeia Kuzey Kilisesi: Pamukkale'de Gizlenen Bir Geçmiş..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1096325,37.8383179"
 draft: "false"
 weight: "999"

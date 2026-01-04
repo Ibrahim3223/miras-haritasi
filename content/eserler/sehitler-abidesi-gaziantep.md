@@ -5,10 +5,10 @@ slug: "sehitler-abidesi-gaziantep"
 description: "**Şehitler Abidesi: Gaziantep'in Ebedi Övgüsü**..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.3770828,37.0631599"
 draft: "false"
 weight: "999"

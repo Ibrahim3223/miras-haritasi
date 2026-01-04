@@ -5,10 +5,10 @@ slug: "sungur-aga-camii"
 description: "## Sungur Ağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Niğde_Sungurbey_mosque_050.jpg/1200px-Niğde_Sungurbey_mosque_050.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6773643,37.9656487"
 draft: "false"
 weight: "10"

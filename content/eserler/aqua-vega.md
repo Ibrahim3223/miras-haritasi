@@ -5,10 +5,10 @@ slug: "aqua-vega"
 description: "### Aqua Vega: Mamak'ta Bulunan Önemli Bir Kültürel Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.934924,39.888256"
 draft: "false"
 weight: "999"

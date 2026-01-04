@@ -5,10 +5,10 @@ slug: "ilion-kome"
 description: "## İlion Kome: Antik Yunanistan'ın Gizli Şehri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.343922,39.949075"
 draft: "false"
 weight: "999"

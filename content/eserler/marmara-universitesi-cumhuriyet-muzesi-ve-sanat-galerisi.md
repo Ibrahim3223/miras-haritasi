@@ -5,10 +5,10 @@ slug: "marmara-universitesi-cumhuriyet-muzesi-ve-sanat-galerisi"
 description: "## Marmara Üniversitesi Cumhuriyet Müzesi ve Sanat Galerisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.974582301,41.005098438"
 draft: "false"
 weight: "999"

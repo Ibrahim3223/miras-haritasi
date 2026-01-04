@@ -5,10 +5,10 @@ slug: "agios-dimitrios-kilisesi"
 description: "### Agios Dimitrios Kilisesi: Ayvalık'ta Bir Geçmişle Ortaklıklı Bir Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.661614,39.334563"
 draft: "false"
 weight: "999"

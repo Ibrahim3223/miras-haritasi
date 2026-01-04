@@ -5,10 +5,10 @@ slug: "manastir-kalesi"
 description: "## Manastır Kalesi: Gümüşhane'nin Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.1302795,40.5908318"
 draft: "false"
 weight: "999"

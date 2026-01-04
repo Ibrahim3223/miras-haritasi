@@ -5,10 +5,10 @@ slug: "cedid-ali-pasa-camii-marmaraereglisi"
 description: "## Cedid Ali Paşa Camii, Marmaraereğlisi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Marmaraereğlisi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9565353,40.9698715"
 draft: "false"
 weight: "999"

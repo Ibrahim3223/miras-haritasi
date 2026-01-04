@@ -5,10 +5,10 @@ slug: "nebiler-ilicasi-astyra"
 description: "### Nebiler Ilıcası (Astyra) Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.902939,39.158148"
 draft: "false"
 weight: "999"

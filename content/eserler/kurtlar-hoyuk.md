@@ -5,10 +5,10 @@ slug: "kurtlar-hoyuk"
 description: "## Kurtlar Höyük: Eskişehir'in Gizli Anıtı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Mahmudiye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.124291,39.589559"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cobancesme-koprusu"
 description: "## Çobançeşme Köprüsü: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bahçelievler"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.81988,40.99387"
 draft: "false"
 weight: "999"

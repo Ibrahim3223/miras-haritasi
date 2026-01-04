@@ -5,10 +5,10 @@ slug: "yelli-camii-becin"
 description: "## Yelli Camii: Beçin'in Tarihi Anıtı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7921162,37.2698097"
 draft: "false"
 weight: "999"

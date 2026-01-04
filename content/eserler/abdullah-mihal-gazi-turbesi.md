@@ -5,10 +5,10 @@ slug: "abdullah-mihal-gazi-turbesi"
 description: "# Abdullah Mihal Gazi Türbesi..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "İnhisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.422408086,40.126133118"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hamidiye-medresesi"
 description: "## Hamidiye Medresesi: İstanbul'un Gizli Cenneti..."
 featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hamidiye%20Medresesi%20-%20d%C4%B1%C5%9F%C4%B1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9737263,41.0155525"
 draft: "false"
 weight: "999"

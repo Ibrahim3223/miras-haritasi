@@ -5,10 +5,10 @@ slug: "tonguslu-camii"
 description: "## Töngüşlü Camii..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.9818962,37.0699636"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "efdalzade-medresesi"
 description: "## Efdalzade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.948327,41.02044"
 draft: "false"
 weight: "999"

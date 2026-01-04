@@ -5,10 +5,10 @@ slug: "dumlu-kalesi"
 description: "## Dumlu Kalesi: Ceyhan'ın Tarihi Şerefine..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.7014519,37.1502735"
 draft: "false"
 weight: "999"

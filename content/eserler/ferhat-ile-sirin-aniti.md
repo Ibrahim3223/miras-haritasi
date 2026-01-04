@@ -5,10 +5,10 @@ slug: "ferhat-ile-sirin-aniti"
 description: "## Ferhat ile Şirin Anıtı: Amasya'nın Efsanevi Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ferhat_ile_Şirin,_Amasya.jpg/1200px-Ferhat_ile_Şirin,_Amasya.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8119,40.6325"
 draft: "false"
 weight: "10"
