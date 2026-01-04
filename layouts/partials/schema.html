@@ -1,3 +1,33 @@
+{{/* HOMEPAGE SCHEMA */}}
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Miras Haritası",
+  "description": "Türkiye'nin 15,000+ kültürel mirası ve tarihi eserleri",
+  "url": "{{ .Site.BaseURL }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ .Site.BaseURL }}arama?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Miras Haritası",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": "{{ .Site.BaseURL }}images/logo.png",
+  "sameAs": []
+}
+</script>
+{{ end }}
+
+{{/* ESER DETAY SAYFASI SCHEMA */}}
 {{ if .IsPage }}
 <script type="application/ld+json">
 {
@@ -94,6 +124,55 @@
     {
       "@type": "ListItem",
       "position": 4,
+      "name": "{{ .Title }}"
+    }
+  ]
+}
+</script>
+{{ end }}
+
+{{/* TAXONOMY & CATEGORY PAGES SCHEMA */}}
+{{ if or (eq .Kind "taxonomy") (eq .Kind "term") }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "{{ .Title }}",
+  "description": "{{ .Title }} kategorisindeki tarihi eserler",
+  "url": "{{ .Permalink }}",
+  "numberOfItems": {{ len .Pages }},
+  "itemListElement": [
+    {{ range $index, $page := first 20 .Pages }}
+    {{ if gt $index 0 }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $index 1 }},
+      "item": {
+        "@type": "TouristAttraction",
+        "name": "{{ $page.Title }}",
+        "url": "{{ $page.Permalink }}"
+        {{ with $page.Params.featured_image }},"image": "{{ . | absURL }}"{{ end }}
+      }
+    }
+    {{ end }}
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Ana Sayfa",
+      "item": "{{ .Site.BaseURL }}"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
       "name": "{{ .Title }}"
     }
   ]

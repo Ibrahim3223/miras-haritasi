@@ -1,15 +1,64 @@
-<!-- Dynamic Title -->
+<!-- Dynamic Title & Meta Tags (SEO Optimized) -->
 {{ $cleanTitle := replaceRE " \\| Miras Haritası$" "" .Title }}
 {{ $cleanTitle = replaceRE `[\[\]"']` "" $cleanTitle }}
 {{ $cleanTitle = strings.TrimSpace $cleanTitle }}
-<title>{{ if .IsHome }}{{ .Site.Title }} | Türkiye'nin Kültürel Mirası (19.000+ Yapı){{ else if .Params.province }}{{ $cleanTitle }} | {{ .Params.province }} - Miras Haritası{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}</title>
+{{ $pageType := .Kind }}
 
-<!-- Basic Meta -->
-<meta name="description"
-    content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ $cleanTitle }}, {{ .Params.province }} ilinin {{ .Params.district }} ilçesinde bulunan tarihi bir {{ .Params.type }}. {{ .Summary | plainify | truncate 150 }}{{ end }}">
+{{/* TITLE TAG - Different formats for different page types */}}
+{{ if .IsHome }}
+  <title>Miras Haritası | Türkiye'nin 15,000+ Kültürel Mirası ve Tarihi Eserler</title>
+{{ else if .Params.province }}
+  {{/* Eser detay sayfası */}}
+  <title>{{ $cleanTitle }} | {{ .Params.type }} - {{ .Params.province }} {{ .Params.district }}</title>
+{{ else if eq $pageType "taxonomy" }}
+  {{/* Kategori/Tür/Şehir listesi */}}
+  {{ $count := len .Pages }}
+  <title>{{ $cleanTitle }} | {{ $count }}+ Tarihi Eser ve Yapı Listesi</title>
+{{ else if eq $pageType "term" }}
+  {{/* Tek bir taxonomy term (örn: "İstanbul" veya "Cami") */}}
+  {{ $termName := $cleanTitle }}
+  {{ $taxonomy := .Data.Singular }}
+  {{ $count := len .Pages }}
+  {{ if eq $taxonomy "iller" }}
+    <title>{{ $termName }}'daki Tarihi Eserler | {{ $count }}+ Cami, Saray, Müze ve Anıt</title>
+  {{ else if eq $taxonomy "turler" }}
+    <title>Türkiye'deki {{ $termName }} | {{ $count }} {{ $termName }} Listesi</title>
+  {{ else }}
+    <title>{{ $termName }} | {{ $count }} Eser - Miras Haritası</title>
+  {{ end }}
+{{ else if eq $pageType "section" }}
+  {{/* Section sayfası (eserler, vb.) */}}
+  {{ $count := len .Pages }}
+  <title>{{ $cleanTitle }} | {{ $count }}+ Tarihi Yapı - Miras Haritası</title>
+{{ else }}
+  {{/* Diğer sayfalar */}}
+  <title>{{ $cleanTitle }} | {{ .Site.Title }}</title>
+{{ end }}
 
-<meta name="keywords"
-    content="{{ if .Params.province }}{{ .Params.province }} tarihi yerler, {{ .Params.province }} gezilecek yerler, {{ end }}{{ if .Params.type }}{{ .Params.type }} mimarisi, {{ end }}kültürel miras, {{ .Title }}">
+{{/* META DESCRIPTION - SEO optimized descriptions */}}
+{{ if .IsHome }}
+  <meta name="description" content="Türkiye'nin camiler, kaleler, müzeler, antik kentler ve arkeolojik sitler. 15,000+ tarihi yapı, lokasyon bilgisi, fotoğraflar ve ziyaret rehberi. Osmanlı, Selçuklu, Roma, Bizans eserleri.">
+{{ else if .Params.province }}
+  {{/* Eser detay sayfası */}}
+  <meta name="description" content="{{ $cleanTitle }} {{ .Params.province }}'da yer alan {{ .Params.type }}. Giriş bilgileri, mimari özellikleri, tarihçesi ve fotoğrafları.{{ if .Params.district }} {{ .Params.district }} ilçesinde bulunur.{{ end }}">
+{{ else if eq $pageType "term" }}
+  {{ $termName := $cleanTitle }}
+  {{ $taxonomy := .Data.Singular }}
+  {{ $count := len .Pages }}
+  {{ if eq $taxonomy "iller" }}
+    <meta name="description" content="{{ $termName }}'un tarihi camileri, sarayları, müzeleri ve arkeolojik sitleri. {{ $count }}+ tarihi eser, detaylı ziyaret rehberi, açılış saatleri ve fotoğraflar.">
+  {{ else if eq $taxonomy "turler" }}
+    <meta name="description" content="Türkiye'nin {{ $count }} {{ $termName }} ve anıtsal yapısı. Osmanlı, Selçuklu ve Cumhuriyet dönemi {{ $termName }}, lokasyonları ve ziyaret bilgileri.">
+  {{ else }}
+    <meta name="description" content="{{ $termName }} kategorisindeki {{ $count }} tarihi eser ve yapı. Detaylı bilgi, fotoğraflar ve konum bilgisi.">
+  {{ end }}
+{{ else }}
+  {{/* Fallback */}}
+  <meta name="description" content="{{ .Summary | plainify | truncate 160 }}">
+{{ end }}
+
+{{/* META KEYWORDS */}}
+<meta name="keywords" content="{{ if .Params.province }}{{ .Params.province }} tarihi yerler, {{ .Params.province }} gezilecek yerler, {{ end }}{{ if .Params.type }}{{ .Params.type }} mimarisi, {{ .Params.type }} örnekleri, {{ end }}kültürel miras, türkiye müzeleri, osmanlı eserleri, antik kentler, unesco">
 
 <link rel="canonical" href="{{ .Permalink }}">
 
@@ -22,21 +71,48 @@
 {{ $defaultOgImage := "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Hagia_Sophia_Mars_2013.jpg/1200px-Hagia_Sophia_Mars_2013.jpg" }}
 {{ if not $ogImage }}{{ $ogImage = $defaultOgImage }}{{ end }}
 
-<!-- Open Graph / Facebook -->
+<!-- Open Graph / Facebook (Enhanced) -->
 <meta property="og:type" content="{{ if .IsHome }}website{{ else }}article{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-<meta property="og:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else if .Params.province }}{{ $cleanTitle }} | {{ .Params.province }} - Miras Haritası{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}">
-<meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .Params.province }}{{ $cleanTitle }}, {{ .Params.province }} bölgesinde ziyaret edebileceğiniz önemli bir {{ .Params.type }} yapısıdır.{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
-<meta property="og:image" content="{{ $ogImage }}">
+{{ if .IsHome }}
+  <meta property="og:title" content="Miras Haritası | Türkiye'nin 15,000+ Kültürel Mirası">
+  <meta property="og:description" content="Türkiye'nin camiler, kaleler, müzeler, antik kentler. 15,000+ tarihi yapı, lokasyon bilgisi ve ziyaret rehberi.">
+{{ else if .Params.province }}
+  <meta property="og:title" content="{{ $cleanTitle }} | {{ .Params.type }} - {{ .Params.province }}">
+  <meta property="og:description" content="{{ $cleanTitle }}, {{ .Params.province }}'da yer alan {{ .Params.type }}. Giriş bilgileri, mimari özellikleri ve tarihçesi.">
+  {{ if .Params.district }}<meta property="og:locality" content="{{ .Params.district }}">{{ end }}
+  <meta property="og:region" content="{{ .Params.province }}">
+  <meta property="og:country-name" content="Türkiye">
+{{ else if eq $pageType "term" }}
+  {{ $termName := $cleanTitle }}
+  {{ $count := len .Pages }}
+  <meta property="og:title" content="{{ $termName }} | {{ $count }}+ Tarihi Eser">
+  <meta property="og:description" content="{{ $termName }} bölgesindeki veya kategorisindeki {{ $count }} tarihi eser ve yapı.">
+{{ else }}
+  <meta property="og:title" content="{{ $cleanTitle }} | {{ .Site.Title }}">
+  <meta property="og:description" content="{{ .Summary | plainify | truncate 160 }}">
+{{ end }}
+<meta property="og:image" content="{{ $ogImage | absURL }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:site_name" content="{{ .Site.Title }}">
-<meta property="og:locale" content="{{ .Site.LanguageCode }}">
+<meta property="og:locale" content="tr_TR">
 
-<!-- Twitter -->
+<!-- Twitter Card (Enhanced) -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:url" content="{{ .Permalink }}">
-<meta name="twitter:title" content="{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ $cleanTitle }} | {{ .Site.Title }}{{ end }}">
-<meta name="twitter:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else }}{{ .Summary | plainify | truncate 160 }}{{ end }}">
-<meta name="twitter:image" content="{{ $ogImage }}">
+{{ if .IsHome }}
+  <meta name="twitter:title" content="Miras Haritası | Türkiye'nin Kültürel Mirası">
+  <meta name="twitter:description" content="15,000+ tarihi yapı, lokasyon bilgisi ve ziyaret rehberi.">
+{{ else if .Params.province }}
+  <meta name="twitter:title" content="{{ $cleanTitle }} | {{ .Params.province }}">
+  <meta name="twitter:description" content="{{ .Params.type }} - {{ .Params.province }} {{ .Params.district }}">
+{{ else }}
+  <meta name="twitter:title" content="{{ $cleanTitle }}">
+  <meta name="twitter:description" content="{{ .Summary | plainify | truncate 120 }}">
+{{ end }}
+<meta name="twitter:image" content="{{ $ogImage | absURL }}">
+<meta name="twitter:image:alt" content="{{ $cleanTitle }} görseli">
 
 <!-- Favicon -->
 <link rel="icon"
