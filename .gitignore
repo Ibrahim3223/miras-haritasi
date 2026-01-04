@@ -19,3 +19,8 @@ venv/
 # System
 .DS_Store
 Thumbs.db
+
+# Prevent API key exposure
+run_google_search.py
+**/*_api_key*.py
+.env.local
