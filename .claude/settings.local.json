@@ -31,7 +31,8 @@
       "Bash(python scripts/remove_pdf_images.py:*)",
       "Bash(timeout 5 tail:*)",
       "Bash(git reset:*)",
-      "Bash(python scripts/fix_taxonomy_format.py:*)"
+      "Bash(python scripts/fix_taxonomy_format.py:*)",
+      "Bash(git rm:*)"
     ]
   }
 }
