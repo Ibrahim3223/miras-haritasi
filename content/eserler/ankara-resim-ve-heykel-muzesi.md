@@ -5,10 +5,10 @@ slug: "ankara-resim-ve-heykel-muzesi"
 description: "## Ankara Resim ve Heykel Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg/1200px-Ankara_asv2021-10_img64_Arts_and_Sculpture_Museum.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.855833,39.933056"
 draft: "false"
 weight: "10"

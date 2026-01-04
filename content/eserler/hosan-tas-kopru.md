@@ -5,10 +5,10 @@ slug: "hosan-tas-kopru"
 description: "## Hoşan Taş Köprü: Ergani'nin Tarihi Bir Muhteşemliği..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Ergani"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.7949982,38.2324905"
 draft: "false"
 weight: "999"

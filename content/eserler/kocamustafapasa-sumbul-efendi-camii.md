@@ -5,10 +5,10 @@ slug: "kocamustafapasa-sumbul-efendi-camii"
 description: "# Kocamustafapaşa Sümbül Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/KocaMustafaPashaMosque20072812_03.jpg/1200px-KocaMustafaPashaMosque20072812_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9286,41.0034"
 draft: "false"
 weight: "10"

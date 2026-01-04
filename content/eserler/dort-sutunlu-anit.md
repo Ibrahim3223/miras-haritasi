@@ -5,10 +5,10 @@ slug: "dort-sutunlu-anit"
 description: "## Dört Sütunlu Anıt: Selçuk'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.338190552,37.942340013"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-seyhler"
 description: "## Roma Köprüsü, Şeyhler: Tarihî Bir Miras..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.8074038,37.0583107"
 draft: "false"
 weight: "999"

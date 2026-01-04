@@ -5,10 +5,10 @@ slug: "hoyuk-tepe-korkuteli"
 description: "### Höyük Tepe, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.3257008,37.1585999"
 draft: "false"
 weight: "999"

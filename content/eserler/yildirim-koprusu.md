@@ -5,10 +5,10 @@ slug: "yildirim-koprusu"
 description: "## Yıldırım Köprüsü: Edirne'nin Gizli Çehresi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.534832,41.677166"
 draft: "false"
 weight: "999"

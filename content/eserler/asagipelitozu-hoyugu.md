@@ -5,10 +5,10 @@ slug: "asagipelitozu-hoyugu"
 description: "## Aşağıpelitözü Höyüğü: Türkiye'nin Gizli Kıvılcımı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.6654701,40.4734192"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hidirlik-koprusu"
 description: "**Hıdırlık Köprüsü: Tokat'ın Eski Bir Köprüsü**..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.555939,40.330528"
 draft: "false"
 weight: "999"

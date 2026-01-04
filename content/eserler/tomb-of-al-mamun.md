@@ -5,10 +5,10 @@ slug: "tomb-of-al-mamun"
 description: "### Tomb of al-Ma'mun: Tarsus'un Gizli Anıtı..."
 featured_image: ""
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

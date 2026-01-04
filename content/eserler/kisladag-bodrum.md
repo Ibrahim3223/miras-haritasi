@@ -5,10 +5,10 @@ slug: "kisladag-bodrum"
 description: "## Kışladağ: Bodrum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4638176,37.0377884"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "imaret-i-isa-bey-camii"
 description: "## İmaret-i İsa Bey Camii: Bursa'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/İMARETİ_İSA_BEY_CAMİİ_HASTANE_CAMİİ_BURSA_-_panoramio.jpg/1200px-İMARETİ_İSA_BEY_CAMİİ_HASTANE_CAMİİ_BURSA_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.052536,40.1878929"
 draft: "false"
 weight: "10"

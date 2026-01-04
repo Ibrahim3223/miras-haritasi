@@ -5,10 +5,10 @@ slug: "gaspirali-sokak-cami"
 description: "## Gaspıralı Sokak Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.932972,41.0138512"
 draft: "false"
 weight: "999"

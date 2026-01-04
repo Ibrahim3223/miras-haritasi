@@ -5,10 +5,10 @@ slug: "asagioba-camii"
 description: "## Aşağıoba Camii: Serik'te Bir Geçmişin İzleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b6/NEW_HATAY_AIRPORT_-_panoramio.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.919760826,37.075369177"
 draft: "false"
 weight: "999"

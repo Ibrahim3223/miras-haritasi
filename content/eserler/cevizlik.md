@@ -5,10 +5,10 @@ slug: "cevizlik"
 description: "### Cevizlik Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.85993,41.629818"
 draft: "false"
 weight: "999"

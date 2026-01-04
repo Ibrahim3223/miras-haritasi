@@ -5,10 +5,10 @@ slug: "karapazar-hoyuk"
 description: "## Karapazar Höyük: Odunpazarı'nı Tanıtan Tarihi Bir Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.555683,39.587283"
 draft: "false"
 weight: "999"

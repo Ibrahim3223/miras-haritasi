@@ -5,10 +5,10 @@ slug: "roma-koprusu-gelibolu"
 description: "## Roma Köprüsü, Gelibolu..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.8379707,40.6027374"
 draft: "false"
 weight: "999"

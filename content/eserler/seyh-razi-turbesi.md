@@ -5,10 +5,10 @@ slug: "seyh-razi-turbesi"
 description: "## Şeyh Razi Türbesi: Fatih'in Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9284248,41.0036697"
 draft: "false"
 weight: "999"

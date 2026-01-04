@@ -5,10 +5,10 @@ slug: "cayir-hoyuk"
 description: "## Çayır Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Çifteler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.948433,39.407883"
 draft: "false"
 weight: "999"

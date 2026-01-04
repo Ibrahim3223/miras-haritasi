@@ -5,10 +5,10 @@ slug: "naib-kumbeti-divrigi"
 description: "## Naib Kümbeti, Divriği..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.1189232,39.3719978"
 draft: "false"
 weight: "999"

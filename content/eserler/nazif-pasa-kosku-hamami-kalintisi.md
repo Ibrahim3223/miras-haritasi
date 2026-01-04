@@ -5,10 +5,10 @@ slug: "nazif-pasa-kosku-hamami-kalintisi"
 description: "## Nazif Paşa Köşkü Hamamı Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.053072,41.0239944"
 draft: "false"
 weight: "999"

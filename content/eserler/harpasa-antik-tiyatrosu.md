@@ -5,10 +5,10 @@ slug: "harpasa-antik-tiyatrosu"
 description: "## Harpasa Antik Tiyatrosu..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "28.351246,37.803449"
 draft: "false"
 weight: "999"

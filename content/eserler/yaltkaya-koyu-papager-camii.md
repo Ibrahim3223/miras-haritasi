@@ -5,10 +5,10 @@ slug: "yaltkaya-koyu-papager-camii"
 description: "## Yaltkaya Köyü Papager Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.914532491,41.070530041"
 draft: "false"
 weight: "999"

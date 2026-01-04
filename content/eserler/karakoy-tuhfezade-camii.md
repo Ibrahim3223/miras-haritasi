@@ -5,10 +5,10 @@ slug: "karakoy-tuhfezade-camii"
 description: "### Karaköy Tuhfezade Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6335144,36.7622185"
 draft: "false"
 weight: "999"

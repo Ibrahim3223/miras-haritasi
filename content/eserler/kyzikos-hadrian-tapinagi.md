@@ -5,10 +5,10 @@ slug: "kyzikos-hadrian-tapinagi"
 description: "## Kyzikos Hadrian Tapınağı: Erdek'teki Antik Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/The_remains_of_the_Temple_of_Hadrian,_Cyzicus_(Kyzikos),_the_eighth_wonder_of_the_ancient_world,_Mysia,_Turkey_-_53076088188.jpg/1200px-The_remains_of_the_Temple_of_Hadrian,_Cyzicus_(Kyzikos),_the_eighth_wonder_of_the_ancient_world,_Mysia,_Turkey_-_53076088188.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.870588,40.387952"
 draft: "false"
 weight: "10"

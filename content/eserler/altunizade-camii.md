@@ -5,10 +5,10 @@ slug: "altunizade-camii"
 description: "### Altunizade Camii: Üsküdar'da Yüzyıllar Önce Yapılmış Bir Mimarî Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Altun_Izade_Mosque_5758.jpg/1200px-Altun_Izade_Mosque_5758.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.04555556,41.02027778"
 draft: "false"
 weight: "10"

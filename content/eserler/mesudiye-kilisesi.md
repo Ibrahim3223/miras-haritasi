@@ -5,10 +5,10 @@ slug: "mesudiye-kilisesi"
 description: "### Mesudiye Kilisesi: Türkiye'nin Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Mesudiye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.771563,40.461464"
 draft: "false"
 weight: "999"

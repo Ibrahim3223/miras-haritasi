@@ -5,10 +5,10 @@ slug: "uyuk-alti-mevkii"
 description: "## Üyük Altı Mevkii: Sandıklı'nın Gizli Harikası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.171367,38.36595"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sakarya-zaferi-muzesi-polatli"
 description: "## Sakarya Zaferi Müzesi, Polatlı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.136763,39.58643"
 draft: "false"
 weight: "999"

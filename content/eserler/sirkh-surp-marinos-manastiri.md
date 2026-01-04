@@ -5,10 +5,10 @@ slug: "sirkh-surp-marinos-manastiri"
 description: "## Sırkh Surp Marinos Manastırı: Van'ın Gizli Cenneti..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Gürpınar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.3566017,38.3457451"
 draft: "false"
 weight: "999"

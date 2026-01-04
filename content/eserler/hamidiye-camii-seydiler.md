@@ -5,10 +5,10 @@ slug: "hamidiye-camii-seydiler"
 description: "# Hamidiye Camii, Seydiler..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Seydiler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7200966,41.6202202"
 draft: "false"
 weight: "999"

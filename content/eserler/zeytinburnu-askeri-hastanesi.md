@@ -5,10 +5,10 @@ slug: "zeytinburnu-askeri-hastanesi"
 description: "### Zeytinburnu Askeri Hastanesi: Türkiye'nin Tarihi ve Kültür Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9080448,40.9871979"
 draft: "false"
 weight: "999"

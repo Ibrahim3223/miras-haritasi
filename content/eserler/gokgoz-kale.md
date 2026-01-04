@@ -5,10 +5,10 @@ slug: "gokgoz-kale"
 description: "## Gökgöz Kale: Eskişehir'in Gizli Tarihi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.7250214,39.2202339"
 draft: "false"
 weight: "999"

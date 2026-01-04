@@ -5,10 +5,10 @@ slug: "tepecik-cami-ve-haziresi"
 description: "## Tepecik Cami ve Haziresi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6135063,39.8104744"
 draft: "false"
 weight: "999"

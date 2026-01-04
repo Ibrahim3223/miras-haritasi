@@ -5,10 +5,10 @@ slug: "neikaia"
 description: "## Neikaia Arkeolojik Sit..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.088427,38.161899"
 draft: "false"
 weight: "999"

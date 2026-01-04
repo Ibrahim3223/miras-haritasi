@@ -5,10 +5,10 @@ slug: "mardin-ulu-camii"
 description: "### Mardin Ulu Camii: Tarih, Kültür ve Mimari Harika..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ulu_cami.jpg/1200px-Ulu_cami.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Mardin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.739305555,37.312722222"
 draft: "false"
 weight: "10"

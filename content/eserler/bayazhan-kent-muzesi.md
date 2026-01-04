@@ -5,10 +5,10 @@ slug: "bayazhan-kent-muzesi"
 description: "## Bayazhan Kent Müzesi: Gaziantep'in Tarihini Yaşamak..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.370759067,37.061729263"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "anadolu-protestan-kilisesi"
 description: "**Anadolu Protestan Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/62/Anadolu_protestan_kilisesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0230846,40.9888039"
 draft: "false"
 weight: "999"

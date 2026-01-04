@@ -5,10 +5,10 @@ slug: "yeniyeldegirmeni-hoyuk-altinova"
 description: "### Yeniyeldeğirmeni Höyük, Altınova: Ayvalık'taki Tarihi Bir Anıt..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.765484,39.210465"
 draft: "false"
 weight: "999"

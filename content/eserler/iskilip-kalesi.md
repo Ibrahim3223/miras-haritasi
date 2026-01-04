@@ -5,10 +5,10 @@ slug: "iskilip-kalesi"
 description: "## İskilip Kalesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.473896,40.7357445"
 draft: "false"
 weight: "999"

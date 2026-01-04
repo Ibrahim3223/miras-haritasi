@@ -5,10 +5,10 @@ slug: "bagnayr-manastiri"
 description: "## Bagnayr Manastırı: Kars'ta bir Hristiyan Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bagnayr_Monastery_from_the_east_Photo_by_Yermakov,_late_19th_century.jpg/1200px-Bagnayr_Monastery_from_the_east_Photo_by_Yermakov,_late_19th_century.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kozluca"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.4843205,40.5134061"
 draft: "false"
 weight: "10"

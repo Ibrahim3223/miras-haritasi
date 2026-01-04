@@ -5,10 +5,10 @@ slug: "kressa-traakya"
 description: "## Kressa (Traakya): Gelibolu'nun Gizli Zenginliği..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.625855,40.351152"
 draft: "false"
 weight: "999"

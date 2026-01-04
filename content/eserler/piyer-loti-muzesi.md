@@ -5,10 +5,10 @@ slug: "piyer-loti-muzesi"
 description: "## Piyer Loti Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Piyer_Loti_Museum_1.jpg/1200px-Piyer_Loti_Museum_1.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.93416667,41.05444444"
 draft: "false"
 weight: "10"

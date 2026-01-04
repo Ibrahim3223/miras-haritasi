@@ -5,10 +5,10 @@ slug: "hatay-dortyol-kuzuculu-halk-kutuphanesi"
 description: "### Hatay Dörtyol Kuzuculu Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Dörtyol"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "36.229225389,36.879179464"
 draft: "false"
 weight: "999"

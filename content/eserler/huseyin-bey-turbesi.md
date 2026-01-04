@@ -5,10 +5,10 @@ slug: "huseyin-bey-turbesi"
 description: "## Hüseyin Bey Türbesi: Tekirdağ'daki Bir Tarihî Anıt..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2814636,40.9356842"
 draft: "false"
 weight: "999"

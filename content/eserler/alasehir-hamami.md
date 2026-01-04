@@ -5,10 +5,10 @@ slug: "alasehir-hamami"
 description: "## Alaşehir Hamamı: Bir Geçmişin Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.5155296,38.350296"
 draft: "false"
 weight: "999"

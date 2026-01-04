@@ -5,10 +5,10 @@ slug: "peribleptos-manastiri"
 description: "## Peribleptos Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Peribleptos_Manastırı.jpg/1200px-Peribleptos_Manastırı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.933388888,41.001916666"
 draft: "false"
 weight: "10"

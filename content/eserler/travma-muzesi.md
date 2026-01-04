@@ -5,10 +5,10 @@ slug: "travma-muzesi"
 description: "## Travma Müzesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Hakkâri"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "43.735928,37.577815"
 draft: "false"
 weight: "999"

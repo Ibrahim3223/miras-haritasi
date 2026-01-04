@@ -5,10 +5,10 @@ slug: "sirkanos"
 description: "## Sirkanos: Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.657367,40.906596"
 draft: "false"
 weight: "999"

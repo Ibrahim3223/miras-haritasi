@@ -5,10 +5,10 @@ slug: "haci-ibrahim-aga-camii"
 description: "### Hacı İbrahim Ağa Camii: İzmir'de Bir Örnek Türk Mimarisinin Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6439991,38.2237015"
 draft: "false"
 weight: "999"

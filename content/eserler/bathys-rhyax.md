@@ -5,10 +5,10 @@ slug: "bathys-rhyax"
 description: "### Bathys Rhyax: Antik Yunanistan'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Asia_Minor_ca_842_AD-es.svg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.7011285,39.836743"
 draft: "false"
 weight: "999"

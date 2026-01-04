@@ -5,10 +5,10 @@ slug: "rahikizade-medresesi"
 description: "## Rahıkizade Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9691906,41.0123978"
 draft: "false"
 weight: "999"

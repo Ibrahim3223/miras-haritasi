@@ -5,10 +5,10 @@ slug: "fasil-ozu-1-hoyugu"
 description: "## Fasıl Özü 1 Höyüğü: Keskin'in Gizemi..."
 featured_image: ""
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Keskin"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.5782031,39.6026075"
 draft: "false"
 weight: "999"

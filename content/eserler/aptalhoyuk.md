@@ -5,10 +5,10 @@ slug: "aptalhoyuk"
 description: "### Aptalhöyük: Türkiye'nin Eski Kenti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2921227,38.6877626"
 draft: "false"
 weight: "999"

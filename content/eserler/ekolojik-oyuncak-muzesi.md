@@ -5,10 +5,10 @@ slug: "ekolojik-oyuncak-muzesi"
 description: "## Ekolojik Oyuncak Müzesi: Samsun'da Kültürel Mirasın Yeniden İfade Edilişi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Ekolojik_Oyuncak_Müzesi.jpg/1200px-Ekolojik_Oyuncak_Müzesi.jpg"
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Tekkeköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

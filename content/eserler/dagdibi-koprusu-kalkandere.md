@@ -5,10 +5,10 @@ slug: "dagdibi-koprusu-kalkandere"
 description: "## Dağdibi Köprüsü Kalkandere: Bir Tarihî Eğlence Yerinin Gizli Çehresi..."
 featured_image: ""
 province: "Kalkandere"
-iller: '["Kalkandere"]'
+iller: ["Kalkandere"]
 district: "Kalkandere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.4521,40.919817"
 draft: "false"
 weight: "999"

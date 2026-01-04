@@ -5,10 +5,10 @@ slug: "koprubasi-hoyuk"
 description: "### Köprübaşı Höyük: Alpu, Eskişehir'de Bir Arkeolojik Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.002283,39.757606"
 draft: "false"
 weight: "999"

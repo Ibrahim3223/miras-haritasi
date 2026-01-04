@@ -5,10 +5,10 @@ slug: "athena-tapinagi-priene"
 description: "## Athena Tapınağı (Priene)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Athena_temple_at_Priene.jpg/1200px-Athena_temple_at_Priene.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2964296,37.6593025"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "suryani-protestan-kilisesi"
 description: "## Süryani Protestan Kilisesi: Diyarbakır'ın Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "40.2374954,37.9085732"
 draft: "false"
 weight: "999"

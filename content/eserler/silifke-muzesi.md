@@ -5,10 +5,10 @@ slug: "silifke-muzesi"
 description: "### Silifke Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Silifke_Museum.JPG/1200px-Silifke_Museum.JPG"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.94222222,36.37361111"
 draft: "false"
 weight: "10"

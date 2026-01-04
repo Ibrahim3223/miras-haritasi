@@ -5,10 +5,10 @@ slug: "uzundere-ahsap-camii"
 description: "## Uzundere Ahşap Camii: Kocaeli'nin Gizli Çehresini Açığa Çıkaran Bir Miras..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Karamürsel"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.694241,40.669612"
 draft: "false"
 weight: "999"

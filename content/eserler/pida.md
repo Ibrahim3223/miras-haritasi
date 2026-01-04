@@ -5,10 +5,10 @@ slug: "pida"
 description: "# Pida Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.440124,40.719858"
 draft: "false"
 weight: "999"

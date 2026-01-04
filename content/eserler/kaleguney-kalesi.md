@@ -5,10 +5,10 @@ slug: "kaleguney-kalesi"
 description: "## Kalegüney Kalesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Beşikdüzü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "39.1761513,40.9920578"
 draft: "false"
 weight: "999"

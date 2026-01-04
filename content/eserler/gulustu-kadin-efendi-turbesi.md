@@ -5,10 +5,10 @@ slug: "gulustu-kadin-efendi-turbesi"
 description: "## Gülustu Kadın Efendi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.951148,41.018595"
 draft: "false"
 weight: "999"

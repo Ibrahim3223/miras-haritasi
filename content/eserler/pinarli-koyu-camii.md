@@ -5,10 +5,10 @@ slug: "pinarli-koyu-camii"
 description: "## Pınarlı Köyü Camii: Artvin'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.4640923,41.3554306"
 draft: "false"
 weight: "999"

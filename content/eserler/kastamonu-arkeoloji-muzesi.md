@@ -5,10 +5,10 @@ slug: "kastamonu-arkeoloji-muzesi"
 description: "### Kastamonu Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Kastamonu_Archaeological_Museum_8760.jpg/1200px-Kastamonu_Archaeological_Museum_8760.jpg"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.775762,41.3737"
 draft: "false"
 weight: "10"

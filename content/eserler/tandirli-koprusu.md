@@ -5,10 +5,10 @@ slug: "tandirli-koprusu"
 description: "## Tandırlı Köprüsü: Trabzon'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Arsin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.878155,40.792641"
 draft: "false"
 weight: "999"

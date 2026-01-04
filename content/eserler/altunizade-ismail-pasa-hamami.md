@@ -5,10 +5,10 @@ slug: "altunizade-ismail-pasa-hamami"
 description: "**Altunizade İsmail Paşa Hamamı: İskoç Sarayı'nın Karşıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Altunizade_İsmail_Paşa_Hamamı,_Üsküdar,_İstanbul_2025.jpg/1200px-Altunizade_İsmail_Paşa_Hamamı,_Üsküdar,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.045204,41.02007"
 draft: "false"
 weight: "10"

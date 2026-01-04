@@ -5,10 +5,10 @@ slug: "cincikli-hamami"
 description: "### Cincıklı Hamamı: Diyarbakır'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.238361111,37.912861111"
 draft: "false"
 weight: "999"

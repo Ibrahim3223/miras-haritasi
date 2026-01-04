@@ -5,10 +5,10 @@ slug: "karahayit-buyuk-hamam"
 description: "# Karahayıt Büyük Hamamı: Pamukkale'nin Gizemli Hamamı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.1022758,37.9605331"
 draft: "false"
 weight: "999"

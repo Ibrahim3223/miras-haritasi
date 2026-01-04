@@ -5,10 +5,10 @@ slug: "karsnia-kilisesi"
 description: "## Karsnia Kilisesi: Kapıköy'ün Gizli Cenneti..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Kapıköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.227527777,41.17875"
 draft: "false"
 weight: "999"

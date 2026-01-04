@@ -5,10 +5,10 @@ slug: "cakeri-camii"
 description: "## Çakeri Camii: Şanlıurfa'da Bir Tarihi Örnektir..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7940674,37.1459579"
 draft: "false"
 weight: "999"

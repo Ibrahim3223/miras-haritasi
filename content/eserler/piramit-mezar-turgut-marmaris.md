@@ -5,10 +5,10 @@ slug: "piramit-mezar-turgut-marmaris"
 description: "## Piramit Mezar-Turgut: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.1264,36.7403984"
 draft: "false"
 weight: "999"

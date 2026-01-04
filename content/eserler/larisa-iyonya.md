@@ -5,10 +5,10 @@ slug: "larisa-iyonya"
 description: "### Larisa (İyonya): Tarihî İyonya'nın Altın Madeni..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karacabey-hamami"
 description: "### Karacabey Hamamı: Tarihî ve Kültürel Mirasımız..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Ankara_asv2021-10_img26_Karacabey_Hamam.jpg/1200px-Ankara_asv2021-10_img26_Karacabey_Hamam.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.866,39.934027777"
 draft: "false"
 weight: "10"

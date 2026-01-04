@@ -5,10 +5,10 @@ slug: "seydisehir-hoyuk"
 description: "## Seydişehir Höyük: Türkiye'nin Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Seydişehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.8669701,37.4515648"
 draft: "false"
 weight: "999"

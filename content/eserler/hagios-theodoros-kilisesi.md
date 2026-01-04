@@ -5,10 +5,10 @@ slug: "hagios-theodoros-kilisesi"
 description: "## Hagios Theodoros Kilisesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.459103,40.45379"
 draft: "false"
 weight: "999"

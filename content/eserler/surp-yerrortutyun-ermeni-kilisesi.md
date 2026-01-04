@@ -5,10 +5,10 @@ slug: "surp-yerrortutyun-ermeni-kilisesi"
 description: "## Surp Yerrortutyun Ermeni Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Surp_Yerortutyun_Ermeni_Kilisesi.jpg/1200px-Surp_Yerortutyun_Ermeni_Kilisesi.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Tepebaşı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.5191345,39.7771873"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "taskiran-van-camii"
 description: "# Taşkıran Van Camii: Artvin'in Gizli Çehresini Açığa Çıkaran Bir Cami..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.3729793,38.5012085"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kasim-pasa-camii"
 description: "### Kasım Paşa Camii: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Kasım_Paşa_Camii_11.jpg/1200px-Kasım_Paşa_Camii_11.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.968646594,41.033053735"
 draft: "false"
 weight: "10"

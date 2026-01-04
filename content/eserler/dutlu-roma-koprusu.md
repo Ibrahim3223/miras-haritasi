@@ -5,10 +5,10 @@ slug: "dutlu-roma-koprusu"
 description: "# Dutlu Roma Köprüsü..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.2933006,41.3685989"
 draft: "false"
 weight: "999"

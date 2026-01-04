@@ -5,10 +5,10 @@ slug: "kemaliye-ermeni-kilisesi"
 description: "## Kemaliye Ermeni Kilisesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Kemaliye"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.4982,39.26"
 draft: "false"
 weight: "999"

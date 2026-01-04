@@ -5,10 +5,10 @@ slug: "bahcetepe"
 description: "## Bahçetepe Arkeolojik Sit..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.110833,37.863517"
 draft: "false"
 weight: "999"

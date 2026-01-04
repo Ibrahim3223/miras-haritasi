@@ -5,10 +5,10 @@ slug: "heva-kilisesi"
 description: "## Heva Kilisesi..."
 featured_image: ""
 province: "Göle"
-iller: '["Göle"]'
+iller: ["Göle"]
 district: "Sürügüden"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.630944444,40.91375"
 draft: "false"
 weight: "999"

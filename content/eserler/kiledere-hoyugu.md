@@ -5,10 +5,10 @@ slug: "kiledere-hoyugu"
 description: "## Kiledere Höyüğü: Niğde'nin Gizli Anlamı..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6885465,38.2942841"
 draft: "false"
 weight: "999"

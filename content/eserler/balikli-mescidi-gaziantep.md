@@ -5,10 +5,10 @@ slug: "balikli-mescidi-gaziantep"
 description: "# Balıklı Mescidi, Gaziantep..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3805847,37.0610886"
 draft: "false"
 weight: "999"

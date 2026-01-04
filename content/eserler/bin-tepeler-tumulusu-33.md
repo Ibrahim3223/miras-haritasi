@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-33"
 description: "## Bin Tepeler Tümülüsü 33: Manisa'nın Gizemli Arkeolojik Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.991838,38.584118"
 draft: "false"
 weight: "999"

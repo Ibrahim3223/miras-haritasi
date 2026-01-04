@@ -5,10 +5,10 @@ slug: "vespasianus-kapisi-side"
 description: "### Vespasianus Kapısı (Side)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Side.Great_Gate(02).jpg/1200px-Side.Great_Gate(02).jpg"
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.390555555,36.768611111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gecek-ulu-camii"
 description: "### Gecek Ulu Camii: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Günyüzü"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.7702732,39.3814278"
 draft: "false"
 weight: "999"

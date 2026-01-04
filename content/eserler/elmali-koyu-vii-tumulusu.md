@@ -5,10 +5,10 @@ slug: "elmali-koyu-vii-tumulusu"
 description: "## Elmalı Köyü VII Tümülüsü: Biga'nın Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.256506,40.163208"
 draft: "false"
 weight: "999"

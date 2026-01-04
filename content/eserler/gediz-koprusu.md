@@ -5,10 +5,10 @@ slug: "gediz-koprusu"
 description: "## Gediz Köprüsü: Menemen'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.0511112,38.6495056"
 draft: "false"
 weight: "999"

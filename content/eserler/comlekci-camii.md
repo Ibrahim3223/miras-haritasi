@@ -5,10 +5,10 @@ slug: "comlekci-camii"
 description: "# Çömlekçi Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.677,37.1637993"
 draft: "false"
 weight: "999"

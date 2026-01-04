@@ -5,10 +5,10 @@ slug: "tire-ulu-cami-medresesi"
 description: "## Tire Ulu Cami Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7367439,38.0836754"
 draft: "false"
 weight: "999"

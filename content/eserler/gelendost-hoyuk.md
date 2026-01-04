@@ -5,10 +5,10 @@ slug: "gelendost-hoyuk"
 description: "## Gelendost Höyük: Isparta'nın Gizli Kâse..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Gelendost"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.01385,38.103908"
 draft: "false"
 weight: "999"

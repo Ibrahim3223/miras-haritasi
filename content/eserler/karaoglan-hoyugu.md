@@ -5,10 +5,10 @@ slug: "karaoglan-hoyugu"
 description: "### Karaoğlan Höyüğü: Ankara'nın Gizli Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Gölbaşı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8334355,39.7346914"
 draft: "false"
 weight: "999"

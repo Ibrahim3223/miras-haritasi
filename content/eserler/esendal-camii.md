@@ -5,10 +5,10 @@ slug: "esendal-camii"
 description: "**Esendal Camii**..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5666,40.9636"
 draft: "false"
 weight: "999"

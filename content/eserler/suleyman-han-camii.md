@@ -5,10 +5,10 @@ slug: "suleyman-han-camii"
 description: "## Süleyman Han Camii: Alanya'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Süleyman_Mosque_as_seen_from_Alanya_Castle_Hill,_Alanya,_Turkey.JPG/1200px-Süleyman_Mosque_as_seen_from_Alanya_Castle_Hill,_Alanya,_Turkey.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.992888888,36.534888888"
 draft: "false"
 weight: "10"

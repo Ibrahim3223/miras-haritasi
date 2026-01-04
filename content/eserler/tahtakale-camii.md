@@ -5,10 +5,10 @@ slug: "tahtakale-camii"
 description: "### Tahtakale Camii: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7353497,38.0861588"
 draft: "false"
 weight: "999"

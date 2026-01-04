@@ -5,10 +5,10 @@ slug: "eski-cesme-mahallesi-mescidi-bodrum"
 description: "### Eski Çeşme Mahallesi Mescidi: Bodrum'un Tarihi Bir Zeytin Dalı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4203739,37.0363846"
 draft: "false"
 weight: "999"

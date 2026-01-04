@@ -5,10 +5,10 @@ slug: "pir-i-san-camii"
 description: "## Pir-i Sanî Camii..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "İç Anadolu Bölgesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8941193,40.8139381"
 draft: "false"
 weight: "999"

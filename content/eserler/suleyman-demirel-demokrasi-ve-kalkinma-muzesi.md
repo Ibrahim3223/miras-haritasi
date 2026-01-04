@@ -5,10 +5,10 @@ slug: "suleyman-demirel-demokrasi-ve-kalkinma-muzesi"
 description: "## Süleyman Demirel Demokrasi ve Kalkınma Müzesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.658522,37.926007"
 draft: "false"
 weight: "999"

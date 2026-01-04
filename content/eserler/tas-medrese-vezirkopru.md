@@ -5,10 +5,10 @@ slug: "tas-medrese-vezirkopru"
 description: "## Taş Medrese, Vezirköprü..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Vezirköprü"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "35.4583015,41.1439171"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bekirli-hoyuk"
 description: "## Bekirli Höyük: Tarihi ve Kültürel Mirası Anlatıyor..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.7625523,38.1760178"
 draft: "false"
 weight: "999"

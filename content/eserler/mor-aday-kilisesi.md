@@ -5,10 +5,10 @@ slug: "mor-aday-kilisesi"
 description: "## Mor Aday Kilisesi: Şırnak'taki Bir Zenginlik..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.7195358,37.3592644"
 draft: "false"
 weight: "999"

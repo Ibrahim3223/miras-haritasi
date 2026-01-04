@@ -5,10 +5,10 @@ slug: "asagi-kanara-girka-tepe-tumulusu"
 description: "## Aşağı Kanara Gırka Tepe Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0214977,42.0066414"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arapgir-ulu-camii"
 description: "### Arapgir Ulu Camii: Bir Tarihi Mirasın Tanıtımı..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.479305555,39.062111111"
 draft: "false"
 weight: "999"

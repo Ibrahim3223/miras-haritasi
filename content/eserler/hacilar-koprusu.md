@@ -5,10 +5,10 @@ slug: "hacilar-koprusu"
 description: "## Hacılar Köprüsü: Ankara'nın Eski Bir Köprüsü..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Beypazarı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.925282,40.170311"
 draft: "false"
 weight: "999"

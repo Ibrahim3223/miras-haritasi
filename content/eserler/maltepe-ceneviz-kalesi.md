@@ -5,10 +5,10 @@ slug: "maltepe-ceneviz-kalesi"
 description: "## Maltepe Ceneviz Kalesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.1565361,40.9574509"
 draft: "false"
 weight: "999"

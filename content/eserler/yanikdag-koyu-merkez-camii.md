@@ -5,10 +5,10 @@ slug: "yanikdag-koyu-merkez-camii"
 description: "## Yanıkdağ Köyü Merkez Camii: Tarihi ve Kültürel Mirasın Parçaları..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.749671077,41.074853171"
 draft: "false"
 weight: "999"

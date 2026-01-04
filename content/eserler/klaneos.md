@@ -5,10 +5,10 @@ slug: "klaneos"
 description: "## Klaneos Arkeolojik Sitesi..."
 featured_image: ""
 province: "Yunak"
-iller: '["Yunak"]'
+iller: ["Yunak"]
 district: "Turgut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.835,38.623333333"
 draft: "false"
 weight: "999"

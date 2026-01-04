@@ -5,10 +5,10 @@ slug: "sirindere-koprusu"
 description: "# Şirindere Köprüsü: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7771358,37.9281387"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aziz-philippus-kapisi-hierapolis"
 description: "## Aziz Philippus Kapısı, Hierapolis..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.129488,37.9298058"
 draft: "false"
 weight: "999"

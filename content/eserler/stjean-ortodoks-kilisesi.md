@@ -5,10 +5,10 @@ slug: "stjean-ortodoks-kilisesi"
 description: "## St. Jean Ortodoks Kilisesi: Manisa'nın Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.4331512,38.6178513"
 draft: "false"
 weight: "999"

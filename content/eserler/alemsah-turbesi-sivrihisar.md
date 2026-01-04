@@ -5,10 +5,10 @@ slug: "alemsah-turbesi-sivrihisar"
 description: "### Alemşah Türbesi, Sivrihisar..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.537455,39.451151"
 draft: "false"
 weight: "999"

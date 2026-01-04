@@ -5,10 +5,10 @@ slug: "tol-medrese"
 description: "## Tol Medrese: Karaman'ın Gizli Cenneti..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "32.8879166,36.6389656"
 draft: "false"
 weight: "999"

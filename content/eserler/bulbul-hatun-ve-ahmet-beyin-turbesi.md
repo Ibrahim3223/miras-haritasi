@@ -5,10 +5,10 @@ slug: "bulbul-hatun-ve-ahmet-beyin-turbesi"
 description: "## Bülbül Hatun ve Ahmet Bey’in Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Karacabey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3640747,40.2239418"
 draft: "false"
 weight: "999"

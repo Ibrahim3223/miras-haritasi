@@ -5,10 +5,10 @@ slug: "hatipoglutolu-hoyuk"
 description: "## Hatıpoğlutolu Höyük: Aksaray'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.8762301,38.3988633"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kayalik-tepe-kaya-mezari-kumru"
 description: "## Kayalık Tepe Kaya Mezarı: Kumru'nun Gizemli Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Kumru"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.27892,40.835854"
 draft: "false"
 weight: "999"

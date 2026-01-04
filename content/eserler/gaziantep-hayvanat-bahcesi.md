@@ -5,10 +5,10 @@ slug: "gaziantep-hayvanat-bahcesi"
 description: "# Gaziantep Hayvanat Bahçesi: Türünün En Önemli Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Gaziantep_zoo.jpg/1200px-Gaziantep_zoo.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Antep Sancağı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.29526944,37.03967778"
 draft: "false"
 weight: "10"

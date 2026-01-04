@@ -5,10 +5,10 @@ slug: "ataturk-ve-milli-egemenlik-aniti-sehzadeler"
 description: "## Atatürk ve Milli Egemenlik Anıtı, Şehzadeler..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4341812,38.6154213"
 draft: "false"
 weight: "999"

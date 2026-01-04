@@ -5,10 +5,10 @@ slug: "hazinedar-sinan-bey-camii"
 description: "## Hazinedar Sinan Bey Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5618496,41.6789322"
 draft: "false"
 weight: "999"

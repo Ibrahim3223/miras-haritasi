@@ -5,10 +5,10 @@ slug: "turbe-ziro-kalesi"
 description: "## Türbe Ziro Kalesi..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: "Bulanık"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.1245575,39.0723114"
 draft: "false"
 weight: "999"

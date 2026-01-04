@@ -5,10 +5,10 @@ slug: "alopeconnesus"
 description: "## Alopeconnesus: Gelibolu'nun Gizli Örtüleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Ellesponto_map-Simplificado-es.svg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.249444444,40.313888888"
 draft: "false"
 weight: "999"

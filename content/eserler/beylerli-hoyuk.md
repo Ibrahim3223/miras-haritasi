@@ -5,10 +5,10 @@ slug: "beylerli-hoyuk"
 description: "### Beylerli Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çardak"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.6213799,37.7137566"
 draft: "false"
 weight: "999"

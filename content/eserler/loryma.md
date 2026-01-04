@@ -5,10 +5,10 @@ slug: "loryma"
 description: "## Loryma: Muğla'nın Altın Sahili'nde Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bozuk_Kale_-_panoramio.jpg/1200px-Bozuk_Kale_-_panoramio.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.015277777,36.566111111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "van-ulu-camii"
 description: "## Van Ulu Camii..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Van"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.33894447,38.500854411"
 draft: "false"
 weight: "999"

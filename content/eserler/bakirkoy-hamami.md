@@ -5,10 +5,10 @@ slug: "bakirkoy-hamami"
 description: "**Bakırköy Hamamı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.875364,40.978582"
 draft: "false"
 weight: "999"

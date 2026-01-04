@@ -5,10 +5,10 @@ slug: "medikion-manastiri"
 description: "### Medikion Manastırı: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Monastery_of_Saint_Sergios_of_Medikion.jpg/1200px-Monastery_of_Saint_Sergios_of_Medikion.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.79058,40.38532"
 draft: "false"
 weight: "10"

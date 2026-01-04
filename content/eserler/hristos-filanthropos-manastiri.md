@@ -5,10 +5,10 @@ slug: "hristos-filanthropos-manastiri"
 description: "### Hristos Filanthropos Manastırı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.987436209,41.010631431"
 draft: "false"
 weight: "999"

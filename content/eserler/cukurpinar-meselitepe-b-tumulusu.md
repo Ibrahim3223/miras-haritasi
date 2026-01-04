@@ -5,10 +5,10 @@ slug: "cukurpinar-meselitepe-b-tumulusu"
 description: "### Çukurpınar Meşelitepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4694405,41.8406601"
 draft: "false"
 weight: "999"

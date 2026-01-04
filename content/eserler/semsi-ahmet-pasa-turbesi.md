@@ -5,10 +5,10 @@ slug: "semsi-ahmet-pasa-turbesi"
 description: "## Şemsi Ahmet Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Şemsi_Ahmet_Paşa_Türbesi_Sandukası.jpg/1200px-Şemsi_Ahmet_Paşa_Türbesi_Sandukası.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0114441,41.0260239"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bugus-camii"
 description: "### Büğüş Camii: Serik'teki Bir Kentin Kalbi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.007301,37.035507"
 draft: "false"
 weight: "999"

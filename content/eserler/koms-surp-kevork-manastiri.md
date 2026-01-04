@@ -5,10 +5,10 @@ slug: "koms-surp-kevork-manastiri"
 description: "## Koms Surp Kevork Manastırı..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Tatvan"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.6317918,38.4818849"
 draft: "false"
 weight: "999"

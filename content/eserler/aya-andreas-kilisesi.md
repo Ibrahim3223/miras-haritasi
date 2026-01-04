@@ -5,10 +5,10 @@ slug: "aya-andreas-kilisesi"
 description: "### Aya Andreas Kilisesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.978865,41.024625"
 draft: "false"
 weight: "999"

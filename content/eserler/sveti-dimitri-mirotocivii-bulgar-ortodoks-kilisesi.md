@@ -5,10 +5,10 @@ slug: "sveti-dimitri-mirotocivii-bulgar-ortodoks-kilisesi"
 description: "## Sveti Dimitri Mirotoçivii Bulgar Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9738007,41.0487518"
 draft: "false"
 weight: "999"

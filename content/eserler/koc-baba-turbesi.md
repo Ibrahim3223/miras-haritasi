@@ -5,10 +5,10 @@ slug: "koc-baba-turbesi"
 description: "## Koç Baba Türbesi: Tarihi ve Kültürel Mirasının İncisi..."
 featured_image: ""
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.114962,41.079524"
 draft: "false"
 weight: "999"

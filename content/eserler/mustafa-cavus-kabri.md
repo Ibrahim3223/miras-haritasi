@@ -5,10 +5,10 @@ slug: "mustafa-cavus-kabri"
 description: "## Mustafa Çavuş Kabri: İstanbul'un Tarihi Bir Ziyaret Günü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9283085,41.0173645"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "taskin-pasa-kumbeti"
 description: "### Taşkın Paşa Kümbeti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.947113,38.4918747"
 draft: "false"
 weight: "999"

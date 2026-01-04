@@ -5,10 +5,10 @@ slug: "akkose-mahallesi-camii"
 description: "### Akköse Mahallesi Camii: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Dernekpazarı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.275558519,40.789881606"
 draft: "false"
 weight: "999"

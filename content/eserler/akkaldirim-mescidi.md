@@ -5,10 +5,10 @@ slug: "akkaldirim-mescidi"
 description: "## Akkaldırım Mescidi: Bilecik'in Tarihsel Özelliklerini Barındıran Bir Cami..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9821815,40.1423225"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dedepinar-hoyuk"
 description: "# Dedepınar Höyük..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.758087,40.130409"
 draft: "false"
 weight: "999"

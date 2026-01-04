@@ -5,10 +5,10 @@ slug: "yuksekkaldirim-askenaz-sinagogu"
 description: "# Yüksekkaldırım Aşkenaz Sinagogu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.97521,41.024508"
 draft: "false"
 weight: "999"

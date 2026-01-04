@@ -5,10 +5,10 @@ slug: "canakkale-saat-kulesi"
 description: "## Çanakkale Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Çanakkale_saat_kulesi.jpg/1200px-Çanakkale_saat_kulesi.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "26.402047,40.149618"
 draft: "false"
 weight: "10"

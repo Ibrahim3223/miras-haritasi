@@ -5,10 +5,10 @@ slug: "tayfun-talipoglu-daktilo-muzesi"
 description: "## Tayfun Talipoğlu Daktilo Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Tayfun_Talipoğlu_wax_sculpture.jpg/1200px-Tayfun_Talipoğlu_wax_sculpture.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.52472222,39.76222222"
 draft: "false"
 weight: "10"

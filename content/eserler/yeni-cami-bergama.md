@@ -5,10 +5,10 @@ slug: "yeni-cami-bergama"
 description: "### Yeni Cami, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1791477,39.1194878"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fenerbahce-muzesi"
 description: "## Fenerbahçe Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Fenerbaahce_2010-2011_2_resize.jpg/1200px-Fenerbaahce_2010-2011_2_resize.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.037444,40.988073"
 draft: "false"
 weight: "10"

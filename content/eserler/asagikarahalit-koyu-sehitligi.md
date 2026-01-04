@@ -5,10 +5,10 @@ slug: "asagikarahalit-koyu-sehitligi"
 description: "# Aşağıkarahalit Köyü Şehitliği..."
 featured_image: ""
 province: "Ağrı"
-iller: '["Ağrı"]'
+iller: ["Ağrı"]
 district: "Tutak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.8338928,39.4707642"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cagaloglu-hamami"
 description: "## Cağaloğlu Hamamı: İstanbul'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Cağaloğlu_Hamam.jpg/1200px-Cağaloğlu_Hamam.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9756,41.0106"
 draft: "false"
 weight: "10"

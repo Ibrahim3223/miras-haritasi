@@ -5,10 +5,10 @@ slug: "elbasioglu-camii"
 description: "## Elbaşıoğlu Camii: Tokat'ın Zile Beldesinde Yükselen Tarihî Bir Özellik..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8943291,40.3056755"
 draft: "false"
 weight: "999"

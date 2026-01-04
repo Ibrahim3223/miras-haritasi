@@ -5,10 +5,10 @@ slug: "kizilcahamam-kirmizi-ebe-turbesi"
 description: "## Kızılcahamam Kırmızı Ebe Türbesi: Tarihi ve Kültürel Değerleri..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.7420082,40.3986549"
 draft: "false"
 weight: "999"

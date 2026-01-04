@@ -5,10 +5,10 @@ slug: "kastamonu-kent-tarihi-muzesi"
 description: "## Kastamonu Kent Tarihi Müzesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7789116,41.376091"
 draft: "false"
 weight: "999"

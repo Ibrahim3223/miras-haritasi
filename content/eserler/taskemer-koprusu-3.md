@@ -5,10 +5,10 @@ slug: "taskemer-koprusu-3"
 description: "## Taşkemer Köprüsü 3: Milas'ta Bir Tarihi Köprü..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8955288,37.3021164"
 draft: "false"
 weight: "999"

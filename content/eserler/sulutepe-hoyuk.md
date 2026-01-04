@@ -5,10 +5,10 @@ slug: "sulutepe-hoyuk"
 description: "### Sulutepe Höyük: Aksaray'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0989117,38.4181952"
 draft: "false"
 weight: "999"

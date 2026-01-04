@@ -5,10 +5,10 @@ slug: "oren-arkeopark-alani"
 description: "## Ören Arkeopark Alanı: Milas'ın Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.9726715,37.0370445"
 draft: "false"
 weight: "999"

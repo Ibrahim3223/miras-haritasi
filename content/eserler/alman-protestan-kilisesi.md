@@ -5,10 +5,10 @@ slug: "alman-protestan-kilisesi"
 description: "## Alman Protestan Kilisesi: Tarihi ve Mimari Özellikleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Deutsche_Evangelische_Kirche_(Alman_Kilisesi),_Istanbul_(1).JPG/1200px-Deutsche_Evangelische_Kirche_(Alman_Kilisesi),_Istanbul_(1).JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9739,41.036104"
 draft: "false"
 weight: "10"

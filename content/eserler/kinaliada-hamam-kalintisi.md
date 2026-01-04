@@ -5,10 +5,10 @@ slug: "kinaliada-hamam-kalintisi"
 description: "## Kınalıada Hamam Kalıntısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0541725,40.9087715"
 draft: "false"
 weight: "999"

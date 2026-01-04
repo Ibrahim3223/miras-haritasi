@@ -5,10 +5,10 @@ slug: "rahmanlar-koprusu"
 description: "## Rahmanlar Köprüsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.531332,38.1140327"
 draft: "false"
 weight: "999"

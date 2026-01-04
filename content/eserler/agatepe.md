@@ -5,10 +5,10 @@ slug: "agatepe"
 description: "### Ağatepe: Sivas'ta Bir Arkeolojik Şans..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.0316467,39.5924187"
 draft: "false"
 weight: "999"

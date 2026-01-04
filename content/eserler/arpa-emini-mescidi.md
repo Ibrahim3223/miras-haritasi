@@ -5,10 +5,10 @@ slug: "arpa-emini-mescidi"
 description: "### Arpa Emini Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Arpa_Emini_Mescidi.jpg/1200px-Arpa_Emini_Mescidi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931946365,41.0204373"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "karkin-hoyugu"
 description: "## Karkın Höyüğü: Konya'nın Gizli Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.8863139,37.6802269"
 draft: "false"
 weight: "999"

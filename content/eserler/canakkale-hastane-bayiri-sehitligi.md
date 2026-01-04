@@ -5,10 +5,10 @@ slug: "canakkale-hastane-bayiri-sehitligi"
 description: "## Çanakkale Hastane Bayırı Şehitliği: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4181042,40.1608276"
 draft: "false"
 weight: "999"

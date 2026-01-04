@@ -5,10 +5,10 @@ slug: "karanlikdere-koprusu"
 description: "### Karanlıkdere Köprüsü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.0625191,38.3392181"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahlat-anonim-kumbet"
 description: "# Ahlat Anonim Kümbet..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4639397,38.7491341"
 draft: "false"
 weight: "999"

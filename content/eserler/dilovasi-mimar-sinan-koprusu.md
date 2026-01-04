@@ -5,10 +5,10 @@ slug: "dilovasi-mimar-sinan-koprusu"
 description: "## Dilovası Mimar Sinan Köprüsü..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Dilovası"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.5300808,40.7887154"
 draft: "false"
 weight: "999"

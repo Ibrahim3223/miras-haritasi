@@ -5,10 +5,10 @@ slug: "yukari-dagdere-camii"
 description: "## Yukarı Dağdere Camii: Honaz'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Honaz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.404872,37.778903"
 draft: "false"
 weight: "999"

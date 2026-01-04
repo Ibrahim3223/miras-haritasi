@@ -5,10 +5,10 @@ slug: "abdal-murad-turbesi"
 description: "### Abdal Murad Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0463,40.180812"
 draft: "false"
 weight: "999"

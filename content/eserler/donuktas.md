@@ -5,10 +5,10 @@ slug: "donuktas"
 description: "### Donuktaş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Donuktaş_gate.jpg/1200px-Donuktaş_gate.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.903333,36.916389"
 draft: "false"
 weight: "10"

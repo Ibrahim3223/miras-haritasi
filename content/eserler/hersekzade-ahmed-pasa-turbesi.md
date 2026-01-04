@@ -5,10 +5,10 @@ slug: "hersekzade-ahmed-pasa-turbesi"
 description: "## Hersekzade Ahmed Paşa Türbesi..."
 featured_image: ""
 province: "Altınova"
-iller: '["Altınova"]'
+iller: ["Altınova"]
 district: "Hersek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.504591,40.7231789"
 draft: "false"
 weight: "999"

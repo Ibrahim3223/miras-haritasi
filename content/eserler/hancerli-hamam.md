@@ -5,10 +5,10 @@ slug: "hancerli-hamam"
 description: "## Hançerli Hamam: Fatih'teki Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Hançerli_Hamam_01.jpg/1200px-Hançerli_Hamam_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.942116,41.038003"
 draft: "false"
 weight: "10"

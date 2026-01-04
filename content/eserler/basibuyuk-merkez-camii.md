@@ -5,10 +5,10 @@ slug: "basibuyuk-merkez-camii"
 description: "## Başıbüyük Merkez Camii: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Babyk_Merkez_Camii_1761577297.jpg/1200px-Babyk_Merkez_Camii_1761577297.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1472012,40.9587853"
 draft: "false"
 weight: "10"

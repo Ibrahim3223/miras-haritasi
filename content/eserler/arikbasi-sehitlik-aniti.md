@@ -5,10 +5,10 @@ slug: "arikbasi-sehitlik-aniti"
 description: "# Arıkbaşı Şehitlik Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4966125,38.1776848"
 draft: "false"
 weight: "999"

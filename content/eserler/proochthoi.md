@@ -5,10 +5,10 @@ slug: "proochthoi"
 description: "## Proochthoi: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.058352,41.074114"
 draft: "false"
 weight: "999"

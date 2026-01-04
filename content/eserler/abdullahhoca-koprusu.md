@@ -5,10 +5,10 @@ slug: "abdullahhoca-koprusu"
 description: "### Abdullahhoca Köprüsü: Rize'nin Tarihi Yapraklarından Birisi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.7822167,41.0776667"
 draft: "false"
 weight: "999"

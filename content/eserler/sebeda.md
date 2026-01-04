@@ -5,10 +5,10 @@ slug: "sebeda"
 description: "### Sebeda..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Sebeda_Kaya_Mezarı.jpg/1200px-Sebeda_Kaya_Mezarı.jpg"
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.650917,36.173309"
 draft: "false"
 weight: "10"

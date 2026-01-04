@@ -5,10 +5,10 @@ slug: "surp-toros-ermeni-kilisesi"
 description: "## Surp Toros Ermeni Kilisesi: Kayseri'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.5736255,38.7161595"
 draft: "false"
 weight: "999"

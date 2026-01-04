@@ -5,10 +5,10 @@ slug: "aziz-vasil-kilisesi-tirilye"
 description: "### Aziz Vasil Kilisesi, Tirilye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/St._Basil's_Church,_Tirilye.jpg/1200px-St._Basil's_Church,_Tirilye.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.794277777,40.39175"
 draft: "false"
 weight: "10"

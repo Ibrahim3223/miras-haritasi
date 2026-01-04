@@ -5,10 +5,10 @@ slug: "incir-agaci-mevki-camii"
 description: "## İncir Ağacı Mevki Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.5117416,37.9097977"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aziz-antuan-latin-katolik-kilisesi"
 description: "# Aziz Antuan Latin Katolik Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Catholic_Church_of_Mersin.jpg/1200px-Catholic_Church_of_Mersin.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.63388889,36.80111111"
 draft: "false"
 weight: "10"

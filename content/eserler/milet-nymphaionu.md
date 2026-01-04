@@ -5,10 +5,10 @@ slug: "milet-nymphaionu"
 description: "## Milet Nymphaionu: Aydın'ın Büyülü Tarihsel Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Miletus_Nymphaeum_in_2007_4546_01.jpg/1200px-Miletus_Nymphaeum_in_2007_4546_01.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.280277777,37.528611111"
 draft: "false"
 weight: "10"

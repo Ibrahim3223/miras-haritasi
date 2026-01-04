@@ -5,10 +5,10 @@ slug: "lalapasa-merkez-camii"
 description: "## Lalapaşa Merkez Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7334995,41.8392334"
 draft: "false"
 weight: "999"

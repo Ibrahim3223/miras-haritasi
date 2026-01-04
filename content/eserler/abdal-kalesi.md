@@ -5,10 +5,10 @@ slug: "abdal-kalesi"
 description: "# Abdal Kalesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.660965,38.880455"
 draft: "false"
 weight: "999"

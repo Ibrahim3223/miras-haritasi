@@ -5,10 +5,10 @@ slug: "hersekzade-ahmed-pasa-camii"
 description: "## Hersekzade Ahmed Paşa Camii: Edirne'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Keşan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6284237,40.8545113"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kursunlu-camii-ilkadim"
 description: "## Kurşunlu Camii: İlkadım'ın Yüzyıllar Önce İnşa Edilen Tarihi Bir Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "İlkadım"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.3289757,41.2932854"
 draft: "false"
 weight: "999"

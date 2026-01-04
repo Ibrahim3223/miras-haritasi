@@ -5,10 +5,10 @@ slug: "alemdar-baba-turbesi"
 description: "**Alemdar Baba Türbesi: İstanbul'un Gizli Kahramanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.2104454,41.0589676"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "liman-hamami-kiyikoy"
 description: "## Liman Hamamı (Kıyıköy)..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.094527777,41.632194444"
 draft: "false"
 weight: "999"

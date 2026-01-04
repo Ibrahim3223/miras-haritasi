@@ -5,10 +5,10 @@ slug: "sinirli-koyu-camii"
 description: "## Sinirli Köyü Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.6800537,38.5979156"
 draft: "false"
 weight: "999"

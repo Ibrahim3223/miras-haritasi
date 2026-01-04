@@ -5,10 +5,10 @@ slug: "haci-hasan-efendi-turbesi"
 description: "# Hacı Hasan Efendi Türbesi: Alucra'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.897432,40.270764"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "erde-kalesi"
 description: "## Erde Kalesi: Batman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Gercüş"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.466272,37.540886"
 draft: "false"
 weight: "999"

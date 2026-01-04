@@ -5,10 +5,10 @@ slug: "cukurbuk-mahallesi-koprusu-4"
 description: "## Çukurbük Mahallesi Köprüsü 4: Samsun'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Kavak"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "36.169143,41.088705"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kibrisi-abdullah-efendi-medresesi"
 description: "## Kıbrısi Abdullah Efendi Medresesi: İstanbul'un Gizli Çehresi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.951966,41.023081"
 draft: "false"
 weight: "999"

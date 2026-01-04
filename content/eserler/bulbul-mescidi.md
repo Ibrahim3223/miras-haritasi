@@ -5,10 +5,10 @@ slug: "bulbul-mescidi"
 description: "# Bülbül Mescidi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bülbül_dış.jpg/1200px-Bülbül_dış.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.982,39.413888888"
 draft: "false"
 weight: "10"

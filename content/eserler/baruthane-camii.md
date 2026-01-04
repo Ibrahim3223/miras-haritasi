@@ -5,10 +5,10 @@ slug: "baruthane-camii"
 description: "# Baruthane Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Baturhane_Camii-2025.jpg/1200px-Baturhane_Camii-2025.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.558815,41.6838188"
 draft: "false"
 weight: "10"

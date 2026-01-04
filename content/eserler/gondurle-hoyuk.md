@@ -5,10 +5,10 @@ slug: "gondurle-hoyuk"
 description: "### Göndürle Höyük: Isparta'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Atabey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7152,37.903983"
 draft: "false"
 weight: "999"

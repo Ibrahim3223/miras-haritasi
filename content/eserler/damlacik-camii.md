@@ -5,10 +5,10 @@ slug: "damlacik-camii"
 description: "### Damlacık Camii: Konak, İzmir'in Tarihi Bir Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Izmir_Aug_2023_12_05_53_194000.jpeg/1200px-Izmir_Aug_2023_12_05_53_194000.jpeg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.129472222,38.413638888"
 draft: "false"
 weight: "10"

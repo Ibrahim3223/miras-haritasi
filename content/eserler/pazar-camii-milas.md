@@ -5,10 +5,10 @@ slug: "pazar-camii-milas"
 description: "## Pazar Camii, Bir Özenli Mimarinin Eseri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7800465,37.3165932"
 draft: "false"
 weight: "999"

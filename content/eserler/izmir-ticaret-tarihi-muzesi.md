@@ -5,10 +5,10 @@ slug: "izmir-ticaret-tarihi-muzesi"
 description: "## İzmir Ticaret Tarihi Müzesi: İzmir'in Ticaret ve Kültür Mirasını Yansıtması..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.132777777,38.426944444"
 draft: "false"
 weight: "999"

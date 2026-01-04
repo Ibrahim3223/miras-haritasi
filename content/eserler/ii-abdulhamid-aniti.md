@@ -5,10 +5,10 @@ slug: "ii-abdulhamid-aniti"
 description: "## II. Abdülhamid Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Haydarpaşa_Breakwater_20220506_103313_(cropped).jpg/1200px-Haydarpaşa_Breakwater_20220506_103313_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.011501977,40.996943245"
 draft: "false"
 weight: "10"

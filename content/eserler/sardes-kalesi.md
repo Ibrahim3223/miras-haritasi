@@ -5,10 +5,10 @@ slug: "sardes-kalesi"
 description: "### Sardes Kalesi: Tarihî Bir Miras..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.04462,38.47471"
 draft: "false"
 weight: "999"

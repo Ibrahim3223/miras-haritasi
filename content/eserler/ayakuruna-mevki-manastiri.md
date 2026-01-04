@@ -5,10 +5,10 @@ slug: "ayakuruna-mevki-manastiri"
 description: "### Ayakuruna Mevki Manastırı: Gökçeada'nın Gizli Çağı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8366337,40.1904869"
 draft: "false"
 weight: "999"

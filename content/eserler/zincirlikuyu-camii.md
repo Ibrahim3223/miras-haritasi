@@ -5,10 +5,10 @@ slug: "zincirlikuyu-camii"
 description: "# Zincirlikuyu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Zincirlikuyu_Mosque.jpg/1200px-Zincirlikuyu_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0086,41.073"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "haci-osman-aga-camii"
 description: "## Hacı Osman Ağa Camii: Şile'nin Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.614748,41.177475"
 draft: "false"
 weight: "999"

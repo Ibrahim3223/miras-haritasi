@@ -5,10 +5,10 @@ slug: "haci-sinan-hamami"
 description: "### Hacı Sinan Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.6467609,38.2241096"
 draft: "false"
 weight: "999"

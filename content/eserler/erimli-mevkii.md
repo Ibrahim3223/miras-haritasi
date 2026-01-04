@@ -5,10 +5,10 @@ slug: "erimli-mevkii"
 description: "## Erimli Mevkii: Afyonkarahisar'ın Gizli Harikası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Şuhut"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.626883,38.4849"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "topkoru-3-tumulusu"
 description: "### Topkoru 3 Tümülüsü: Kırklareli'nin Gizli Anıtı..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kofçaz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1621857,42.0084381"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bitlis-serefiye-camii"
 description: "## Bitlis Şerefiye Camii..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1072464,38.3995247"
 draft: "false"
 weight: "999"

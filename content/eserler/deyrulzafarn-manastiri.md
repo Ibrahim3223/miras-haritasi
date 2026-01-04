@@ -5,10 +5,10 @@ slug: "deyrulzafarn-manastiri"
 description: "### Deyrulzafarân Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Mor_Hananyo.jpg/1200px-Mor_Hananyo.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Mardin"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "40.792611111,37.299388888"
 draft: "false"
 weight: "10"

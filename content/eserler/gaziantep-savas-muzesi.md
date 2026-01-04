@@ -5,10 +5,10 @@ slug: "gaziantep-savas-muzesi"
 description: "### Gaziantep Savaş Müzesi: Tarih, Kültür ve Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Şahinbey_Milli_Mücadele_Müzesi_in_2024_Courtyard_8100.jpg/1200px-Şahinbey_Milli_Mücadele_Müzesi_in_2024_Courtyard_8100.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.391015,37.058005"
 draft: "false"
 weight: "10"

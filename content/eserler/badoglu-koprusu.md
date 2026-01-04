@@ -5,10 +5,10 @@ slug: "badoglu-koprusu"
 description: "### Badoğlu Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.11578,41.065666"
 draft: "false"
 weight: "999"

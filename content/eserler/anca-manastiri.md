@@ -5,10 +5,10 @@ slug: "anca-manastiri"
 description: "## Ança Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Ança.jpg/1200px-Ança.jpg"
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "İncilli"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "42.109666666,41.192222222"
 draft: "false"
 weight: "10"

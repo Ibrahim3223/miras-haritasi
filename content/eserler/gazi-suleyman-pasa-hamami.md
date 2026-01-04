@@ -5,10 +5,10 @@ slug: "gazi-suleyman-pasa-hamami"
 description: "# Gazi Süleyman Paşa Hamamı..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Göynük"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.786529,40.3991583"
 draft: "false"
 weight: "999"

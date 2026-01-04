@@ -5,10 +5,10 @@ slug: "sariabat-hoyuk"
 description: "# Sarıabat Höyük: Tarihin Gizemli Hazinesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1805,37.6208"
 draft: "false"
 weight: "999"

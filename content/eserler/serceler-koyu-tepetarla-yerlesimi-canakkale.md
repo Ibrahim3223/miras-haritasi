@@ -5,10 +5,10 @@ slug: "serceler-koyu-tepetarla-yerlesimi-canakkale"
 description: "## Serçeler Köyü Tepetarla Yerleşimi: Çanakkale'nin Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.572237,40.046257"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "agasar-koprusu"
 description: "## Ağasar Köprüsü: Trabzon'un Gizli Çehresini Keşfetmek..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Şalpazarı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.1962852,40.9478874"
 draft: "false"
 weight: "999"

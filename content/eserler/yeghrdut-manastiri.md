@@ -5,10 +5,10 @@ slug: "yeghrdut-manastiri"
 description: "## Yeghrdut Manastırı: Türkiye'nin Gizli Tarihi Mirası..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.259,38.7834"
 draft: "false"
 weight: "999"

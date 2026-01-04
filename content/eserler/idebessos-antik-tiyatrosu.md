@@ -5,10 +5,10 @@ slug: "idebessos-antik-tiyatrosu"
 description: "### İdebessos Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.202198,36.55458"
 draft: "false"
 weight: "999"

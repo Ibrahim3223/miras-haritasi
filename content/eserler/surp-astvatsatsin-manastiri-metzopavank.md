@@ -5,10 +5,10 @@ slug: "surp-astvatsatsin-manastiri-metzopavank"
 description: "## Surp Astvatsatsin Manastırı (Metzopavank)..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.199166666,39.158333333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mysia-stratonikea"
 description: "### Mysia Stratonikea: Tarihi Bir Arkeolojik Site..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.779231,39.155043"
 draft: "false"
 weight: "999"

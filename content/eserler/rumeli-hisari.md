@@ -5,10 +5,10 @@ slug: "rumeli-hisari"
 description: "### Rumeli Hisarı: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Twierdza_Rumeli_Istambuł_RB1.jpg/1200px-Twierdza_Rumeli_Istambuł_RB1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.056111111,41.084722222"
 draft: "false"
 weight: "10"

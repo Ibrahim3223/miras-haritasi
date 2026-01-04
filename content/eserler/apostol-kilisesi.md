@@ -5,10 +5,10 @@ slug: "apostol-kilisesi"
 description: "### Apostol Kilisesi: Bodrum'un Kıbrıslı Ruhuna Sahip Gizemli Bir Kilise..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/35/Ani%2C_rovine%2C_chiesa_degli_apostoli_%28arak%27elots%29_del_caravanserraglio%2C_X-XI_secolo%2C_con_aggiunta_nel_XIII%2C_cupoletta_01.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3711433,37.1654205"
 draft: "false"
 weight: "999"

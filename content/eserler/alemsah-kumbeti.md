@@ -5,10 +5,10 @@ slug: "alemsah-kumbeti"
 description: "## Alemşah Kümbeti: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/11/Alem%C5%9Fah_K%C3%BCmbeti.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.5374223,39.4510981"
 draft: "false"
 weight: "999"

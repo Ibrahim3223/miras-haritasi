@@ -5,10 +5,10 @@ slug: "iassos"
 description: "## İassos: Antik Kentin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/IasosAgora.jpg/1200px-IasosAgora.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.58638889,37.27777778"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "turk-dunyasi-kultur-mahallesi"
 description: "## Türk Dünyası Kültür Mahallesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Türk_Dünyası_Kültür_Mahallesi_(4).jpg/1200px-Türk_Dünyası_Kültür_Mahallesi_(4).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

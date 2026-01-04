@@ -5,10 +5,10 @@ slug: "devlet-mezarligi"
 description: "## Devlet Mezarlığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Devlet_Mezarlığı_Otağ.JPG/1200px-Devlet_Mezarlığı_Otağ.JPG"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.807222222,39.936944444"
 draft: "false"
 weight: "10"

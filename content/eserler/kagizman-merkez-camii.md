@@ -5,10 +5,10 @@ slug: "kagizman-merkez-camii"
 description: "## Kağızman Merkez Camii: Tarihî Bir Mirasın Anlamı..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kağızman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.1225,40.142139"
 draft: "false"
 weight: "999"

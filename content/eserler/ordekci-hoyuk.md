@@ -5,10 +5,10 @@ slug: "ordekci-hoyuk"
 description: "## Ördekçi Höyük: Tarih ve Kültür Mirasının Gizemli Yerleşkesi..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Şarkikaraağaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.263067,38.068266"
 draft: "false"
 weight: "999"

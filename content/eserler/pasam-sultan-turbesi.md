@@ -5,10 +5,10 @@ slug: "pasam-sultan-turbesi"
 description: "### Paşam Sultan Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.9751339,39.4182472"
 draft: "false"
 weight: "999"

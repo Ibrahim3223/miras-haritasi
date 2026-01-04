@@ -5,10 +5,10 @@ slug: "bedri-rahmi-eyuboglu-muze-evi"
 description: "### Bedri Rahmi Eyüboğlu Müze Evi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.043127657,40.978198096"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cifte-hamam"
 description: "## Çifte Hamam: Kastamonu'nın Tarihi Harikası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7735211,41.3757624"
 draft: "false"
 weight: "999"

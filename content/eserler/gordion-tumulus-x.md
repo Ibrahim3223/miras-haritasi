@@ -5,10 +5,10 @@ slug: "gordion-tumulus-x"
 description: "**Gordion Tümülüs X: Polatlı'nın Gizemli Mirası**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.000786,39.6521"
 draft: "false"
 weight: "999"

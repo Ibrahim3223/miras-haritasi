@@ -5,10 +5,10 @@ slug: "bostancilar-gomelt-camii"
 description: "## Bostancılar Gomelt Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4899223,41.0308905"
 draft: "false"
 weight: "999"

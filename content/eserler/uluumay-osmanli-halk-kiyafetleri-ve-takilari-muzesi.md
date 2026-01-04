@@ -5,10 +5,10 @@ slug: "uluumay-osmanli-halk-kiyafetleri-ve-takilari-muzesi"
 description: "**Uluumay Osmanlı Halk Kıyafetleri ve Takıları Müzesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.046138,40.191664"
 draft: "false"
 weight: "999"

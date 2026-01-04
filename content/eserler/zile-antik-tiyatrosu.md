@@ -5,10 +5,10 @@ slug: "zile-antik-tiyatrosu"
 description: "## Zile Antik Tiyatrosu..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.892015,40.304562"
 draft: "false"
 weight: "999"

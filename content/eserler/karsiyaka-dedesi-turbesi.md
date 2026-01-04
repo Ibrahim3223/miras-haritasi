@@ -5,10 +5,10 @@ slug: "karsiyaka-dedesi-turbesi"
 description: "### Karşıyaka Dedesi Türbesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.982331,39.08333"
 draft: "false"
 weight: "999"

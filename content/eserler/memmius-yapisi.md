@@ -5,10 +5,10 @@ slug: "memmius-yapisi"
 description: "## Memmius Yapısı: Tarih ve Kültür Mirasının Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Efes_(Ephesos)_-_MEMMIUSBAU_-_panoramio.jpg/1200px-Efes_(Ephesos)_-_MEMMIUSBAU_-_panoramio.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.343426317,37.937212044"
 draft: "false"
 weight: "10"

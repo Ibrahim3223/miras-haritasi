@@ -5,10 +5,10 @@ slug: "karapasa-medresesi"
 description: "## Karapaşa Medresesi: Milas'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.7886944,37.2676392"
 draft: "false"
 weight: "999"

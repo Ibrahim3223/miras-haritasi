@@ -5,10 +5,10 @@ slug: "bayirkoy-eksioglu-camii"
 description: "### Bayırköy (Ekşioğlu) Camii: Rize'nin Tarihi Bir Öreni..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.586527,40.752399"
 draft: "false"
 weight: "999"

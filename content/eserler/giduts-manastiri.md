@@ -5,10 +5,10 @@ slug: "giduts-manastiri"
 description: "# Gıduts Manastırı: Van'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Ktuts_monastery_1986.jpg/1200px-Ktuts_monastery_1986.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.0849849,38.6096223"
 draft: "false"
 weight: "10"

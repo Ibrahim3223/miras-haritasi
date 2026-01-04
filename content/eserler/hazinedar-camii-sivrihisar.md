@@ -5,10 +5,10 @@ slug: "hazinedar-camii-sivrihisar"
 description: "**Hazinedar Camii: Sivrihisar'ın Büyüleyici Mimari Çağı**..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.5348606,39.4496841"
 draft: "false"
 weight: "999"

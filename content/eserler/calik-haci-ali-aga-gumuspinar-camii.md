@@ -5,10 +5,10 @@ slug: "calik-haci-ali-aga-gumuspinar-camii"
 description: "## Çalık Hacı Ali Ağa Gümüşpınar Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.205677,40.9181786"
 draft: "false"
 weight: "999"

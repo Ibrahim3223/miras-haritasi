@@ -5,10 +5,10 @@ slug: "ferikoy-protestan-mezarligi-sapeli"
 description: "# Feriköy Protestan Mezarlığı Şapeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9853878,41.0532722"
 draft: "false"
 weight: "999"

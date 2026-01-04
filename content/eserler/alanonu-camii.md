@@ -5,10 +5,10 @@ slug: "alanonu-camii"
 description: "### Alanönü Camii..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5293217,39.7640991"
 draft: "false"
 weight: "999"

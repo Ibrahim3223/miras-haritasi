@@ -5,10 +5,10 @@ slug: "cedid-ali-pasa-medresesi"
 description: "### Cedid Ali Paşa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Semiz_Ali_Pasha_Medrese_in_2015_9336.jpg/1200px-Semiz_Ali_Pasha_Medrese_in_2015_9336.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.940885,41.025465"
 draft: "false"
 weight: "10"

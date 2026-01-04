@@ -5,10 +5,10 @@ slug: "roma-koprusu-kavaklidere"
 description: "## Roma Köprüsü, Kavaklıdere..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.814579,40.398392"
 draft: "false"
 weight: "999"

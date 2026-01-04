@@ -5,10 +5,10 @@ slug: "ayios-dimitrios-kanavis-kilisesi"
 description: "## Ayios Dimitrios Kanavis Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.944981,41.037139"
 draft: "false"
 weight: "999"

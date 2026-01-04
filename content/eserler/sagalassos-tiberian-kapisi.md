@@ -5,10 +5,10 @@ slug: "sagalassos-tiberian-kapisi"
 description: "## Sagalassos Tiberian Kapısı: Ağlasun'un Gizli Özdü..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.518116,37.675331"
 draft: "false"
 weight: "999"

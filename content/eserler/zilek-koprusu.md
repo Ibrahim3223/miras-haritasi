@@ -5,10 +5,10 @@ slug: "zilek-koprusu"
 description: "## Zilek Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9973,37.8291"
 draft: "false"
 weight: "999"

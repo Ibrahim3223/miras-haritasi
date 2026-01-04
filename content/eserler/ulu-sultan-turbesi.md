@@ -5,10 +5,10 @@ slug: "ulu-sultan-turbesi"
 description: "## Ulu Sultan Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.27782,39.68351"
 draft: "false"
 weight: "999"

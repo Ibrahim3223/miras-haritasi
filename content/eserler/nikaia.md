@@ -5,10 +5,10 @@ slug: "nikaia"
 description: "## Nikaia: İznik'te Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Nicaea_theatre_990.jpg/1200px-Nicaea_theatre_990.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.7195,40.429"
 draft: "false"
 weight: "10"

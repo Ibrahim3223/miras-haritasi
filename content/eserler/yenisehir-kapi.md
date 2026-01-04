@@ -5,10 +5,10 @@ slug: "yenisehir-kapi"
 description: "## Yenişehir Kapı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.7192383,40.4235039"
 draft: "false"
 weight: "999"

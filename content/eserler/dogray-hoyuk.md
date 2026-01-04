@@ -5,10 +5,10 @@ slug: "dogray-hoyuk"
 description: "# Doğray Höyük: Eskişehir'in Gizli Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Beylikova"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.303541,39.686517"
 draft: "false"
 weight: "999"

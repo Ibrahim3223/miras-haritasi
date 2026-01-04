@@ -5,10 +5,10 @@ slug: "ismail-bey-hamami"
 description: "## İsmail Bey Hamamı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.7220211,40.4334679"
 draft: "false"
 weight: "999"

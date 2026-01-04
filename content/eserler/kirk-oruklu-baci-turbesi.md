@@ -5,10 +5,10 @@ slug: "kirk-oruklu-baci-turbesi"
 description: "### Kırk Örüklü Bacı Türbesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Erzurum Vilayeti"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "39.4991837,39.7172203"
 draft: "false"
 weight: "999"

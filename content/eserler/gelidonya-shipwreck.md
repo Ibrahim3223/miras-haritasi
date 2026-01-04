@@ -5,10 +5,10 @@ slug: "gelidonya-shipwreck"
 description: "## Gelidonya Gemi Kaçağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Joan_du_Plat_Taylor_at_Cape_Gelidonya.jpg/1200px-Joan_du_Plat_Taylor_at_Cape_Gelidonya.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "10"

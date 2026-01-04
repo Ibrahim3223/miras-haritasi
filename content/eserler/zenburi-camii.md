@@ -5,10 +5,10 @@ slug: "zenburi-camii"
 description: "## Zenburi Camii: Konya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4982948,37.8746643"
 draft: "false"
 weight: "999"

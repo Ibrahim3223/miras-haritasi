@@ -5,10 +5,10 @@ slug: "bergama-halk-kutuphanesi"
 description: "### Bergama Halk Kütüphanesi: İzmir'in Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.1818943,39.1228523"
 draft: "false"
 weight: "999"

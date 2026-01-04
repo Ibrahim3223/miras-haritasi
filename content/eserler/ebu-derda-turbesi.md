@@ -5,10 +5,10 @@ slug: "ebu-derda-turbesi"
 description: "## Ebu Derda Türbesi: Bartın'da Bir Zenginlik..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.3472748,41.6231689"
 draft: "false"
 weight: "999"

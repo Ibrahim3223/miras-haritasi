@@ -5,10 +5,10 @@ slug: "hasan-aga-camii-mucur"
 description: "## Hasan Ağa Camii: Tarihi ve Kültürel Mirasın İncelenmesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.3781433,39.0647736"
 draft: "false"
 weight: "999"

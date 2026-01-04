@@ -5,10 +5,10 @@ slug: "halkali-tumulusu"
 description: "## Halkalı Tümülüsü: Edirne'nin Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9149189,41.7275162"
 draft: "false"
 weight: "999"

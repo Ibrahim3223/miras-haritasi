@@ -5,10 +5,10 @@ slug: "cakrak-koyu-koprusu-2"
 description: "## Çakrak Köyü Köprüsü (2)..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.60209,40.527097"
 draft: "false"
 weight: "999"

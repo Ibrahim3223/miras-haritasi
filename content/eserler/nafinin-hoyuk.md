@@ -5,10 +5,10 @@ slug: "nafinin-hoyuk"
 description: "### Nafinin Höyük: Kırşehir'in Gizli Hazineleri..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kırşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.87759,39.2106302"
 draft: "false"
 weight: "999"

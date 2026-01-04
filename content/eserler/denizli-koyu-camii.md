@@ -5,10 +5,10 @@ slug: "denizli-koyu-camii"
 description: "### Denizli Köyü Camii: Tarihe ve Kültür Mirasına Dair Bir Kâse..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.7394333,38.3794594"
 draft: "false"
 weight: "999"

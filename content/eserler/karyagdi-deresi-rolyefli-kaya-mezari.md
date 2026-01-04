@@ -5,10 +5,10 @@ slug: "karyagdi-deresi-rolyefli-kaya-mezari"
 description: "## Karyağdı Deresi Rölyefli Kaya Mezarı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9900284,36.5672417"
 draft: "false"
 weight: "999"

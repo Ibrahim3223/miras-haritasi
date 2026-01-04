@@ -5,10 +5,10 @@ slug: "tayboga-turbesi"
 description: "## Tayboğa Türbesi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1468086,42.0252037"
 draft: "false"
 weight: "999"

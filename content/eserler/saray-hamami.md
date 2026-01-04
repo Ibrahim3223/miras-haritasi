@@ -5,10 +5,10 @@ slug: "saray-hamami"
 description: "## Saray Hamamı: Ünye'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ünye"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.285222222,41.132777777"
 draft: "false"
 weight: "999"

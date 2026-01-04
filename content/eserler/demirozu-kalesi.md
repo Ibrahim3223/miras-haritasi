@@ -5,10 +5,10 @@ slug: "demirozu-kalesi"
 description: "### Demirözü Kalesi: Haymana'da Gizli Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Haymana"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.338017,39.247276"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "iznik-su-alti-bazilikasi"
 description: "## İznik Su Altı Bazilikası: Bir Bizans Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.7098,40.4258"
 draft: "false"
 weight: "999"

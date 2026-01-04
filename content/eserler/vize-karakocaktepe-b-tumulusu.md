@@ -5,10 +5,10 @@ slug: "vize-karakocaktepe-b-tumulusu"
 description: "### Vize Karakoçaktepe B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7774792,41.5829544"
 draft: "false"
 weight: "999"

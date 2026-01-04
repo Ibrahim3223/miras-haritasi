@@ -5,10 +5,10 @@ slug: "zincirli-minare-camii"
 description: "## Zincirli Minare Camii..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0238609,39.7497025"
 draft: "false"
 weight: "999"

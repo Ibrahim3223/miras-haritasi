@@ -5,10 +5,10 @@ slug: "yukarisarikaya-hoyuk"
 description: "## Yukarısarıkaya Höyük: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1621455,39.4225269"
 draft: "false"
 weight: "999"

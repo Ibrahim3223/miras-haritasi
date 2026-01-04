@@ -5,10 +5,10 @@ slug: "sivrihisar-frig-nekropolu"
 description: "## Sivrihisar Frig Nekropolü: Eskişehir'in Gizli Çağı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.4915886,39.5963211"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayazkoy-ayaskent"
 description: "**Ayazköy / Ayaskent: Bergama'nın Gizli Mücevheri**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3293495,39.1831703"
 draft: "false"
 weight: "999"

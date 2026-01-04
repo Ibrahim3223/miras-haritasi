@@ -5,10 +5,10 @@ slug: "tireras-hoyuk"
 description: "## Tireras Höyük: Tarihi ve Kültürel Mirasının Gizemli Yerleşimi..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "İdil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.7375546,37.1496607"
 draft: "false"
 weight: "999"

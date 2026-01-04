@@ -5,10 +5,10 @@ slug: "siyahser-turbesi"
 description: "## Siyahser Türbesi: Karaman'ın Tarihi bir Anıtı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2185631,37.1723785"
 draft: "false"
 weight: "999"

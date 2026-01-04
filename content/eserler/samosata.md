@@ -5,10 +5,10 @@ slug: "samosata"
 description: "## Samosata Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Samosata_Philipp_II_Rv.JPG/1200px-Samosata_Philipp_II_Rv.JPG"
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.481316666,37.57955"
 draft: "false"
 weight: "10"

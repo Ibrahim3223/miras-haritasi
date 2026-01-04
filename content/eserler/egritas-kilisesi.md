@@ -5,10 +5,10 @@ slug: "egritas-kilisesi"
 description: "## Eğritaş Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: ""
 draft: "false"
 weight: "999"

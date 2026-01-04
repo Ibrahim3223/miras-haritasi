@@ -5,10 +5,10 @@ slug: "dokuzhoyuk-koyici-tumulusu"
 description: "## Dokuzhöyük Köyiçi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0603352,41.6383095"
 draft: "false"
 weight: "999"

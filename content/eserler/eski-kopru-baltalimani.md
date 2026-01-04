@@ -5,10 +5,10 @@ slug: "eski-kopru-baltalimani"
 description: "## Eski Köprü, Baltalimanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.0324497,41.0985451"
 draft: "false"
 weight: "999"

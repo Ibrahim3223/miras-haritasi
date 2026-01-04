@@ -5,10 +5,10 @@ slug: "bac-koprusu"
 description: "**Baç Köprüsü**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Baç_Bridge.jpg/1200px-Baç_Bridge.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus (ilçe)"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "34.9187,36.9212"
 draft: "false"
 weight: "10"

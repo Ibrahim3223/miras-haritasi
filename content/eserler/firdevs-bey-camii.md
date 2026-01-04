@@ -5,10 +5,10 @@ slug: "firdevs-bey-camii"
 description: "**Firdevs Bey Camii**..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Isparta (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5547541,37.764375"
 draft: "false"
 weight: "999"

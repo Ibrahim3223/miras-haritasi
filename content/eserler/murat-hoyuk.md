@@ -5,10 +5,10 @@ slug: "murat-hoyuk"
 description: "## Murat Höyük: Bingöl'un Gizli Çarpıntısı..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Solhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.9619522,38.8904877"
 draft: "false"
 weight: "999"

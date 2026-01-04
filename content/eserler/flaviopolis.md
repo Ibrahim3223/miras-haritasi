@@ -5,10 +5,10 @@ slug: "flaviopolis"
 description: "### Flaviopolis Arkeolojik Sit..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Kadirli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.1015675,37.3664785"
 draft: "false"
 weight: "999"

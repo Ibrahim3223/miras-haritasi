@@ -5,10 +5,10 @@ slug: "hirka-camii"
 description: "# Hırka Camii..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9107056,37.4676781"
 draft: "false"
 weight: "999"

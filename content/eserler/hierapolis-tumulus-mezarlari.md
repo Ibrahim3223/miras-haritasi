@@ -5,10 +5,10 @@ slug: "hierapolis-tumulus-mezarlari"
 description: "### Hierapolis Tümülüs Mezarları..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.120882,37.9379959"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sinop-keten-muzesi"
 description: "### Sinop Keten Müzesi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.1464777,42.0251107"
 draft: "false"
 weight: "999"

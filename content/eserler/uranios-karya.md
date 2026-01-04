@@ -5,10 +5,10 @@ slug: "uranios-karya"
 description: "### Uranios (Karya): Bodrum'un Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8611,37.0429"
 draft: "false"
 weight: "999"

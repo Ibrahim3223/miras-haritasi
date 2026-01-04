@@ -5,10 +5,10 @@ slug: "istanbul-cervantes-kutuphanesi"
 description: "## İstanbul Cervantes Kütüphanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.982809,41.036796"
 draft: "false"
 weight: "999"

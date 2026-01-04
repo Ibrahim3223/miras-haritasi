@@ -5,10 +5,10 @@ slug: "patara-tiyatrosu"
 description: "## Patara Tiyatrosu: Antik Çağın Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Das_große_Theater_von_Patara.JPG/1200px-Das_große_Theater_von_Patara.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.31431,36.26008"
 draft: "false"
 weight: "10"

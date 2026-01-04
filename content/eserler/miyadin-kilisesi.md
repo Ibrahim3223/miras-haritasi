@@ -5,10 +5,10 @@ slug: "miyadin-kilisesi"
 description: "# Miyadin Kilisesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Çemişgezek"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.7481956,39.1041641"
 draft: "false"
 weight: "999"

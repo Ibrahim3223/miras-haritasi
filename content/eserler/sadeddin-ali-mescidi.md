@@ -5,10 +5,10 @@ slug: "sadeddin-ali-mescidi"
 description: "## Sadeddin Ali Mescidi: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2133865,37.1833115"
 draft: "false"
 weight: "999"

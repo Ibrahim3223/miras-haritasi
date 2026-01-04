@@ -5,10 +5,10 @@ slug: "masanti-hoyuk"
 description: "## Masantı Höyük: Akhisar'ın Tarihi Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.879385,38.933432"
 draft: "false"
 weight: "999"

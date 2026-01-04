@@ -5,10 +5,10 @@ slug: "pir-merdan-turbesi"
 description: "## Pirê Merdan Türbesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.683713,37.476626"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nalbur-koprusu"
 description: "# Nalbur Köprüsü: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.7840786,41.5749207"
 draft: "false"
 weight: "999"

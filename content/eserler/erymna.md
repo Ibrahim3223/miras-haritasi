@@ -5,10 +5,10 @@ slug: "erymna"
 description: "## Erymna Arkeolojik Sit: İbradı, Antalya'nın Gizli Şehri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "İbradı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.584094,37.0733965"
 draft: "false"
 weight: "999"

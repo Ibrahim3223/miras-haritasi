@@ -5,10 +5,10 @@ slug: "iskenderli-koprusu-2"
 description: "## İskenderli Köprüsü 2..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Tonya"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.237692,40.930293"
 draft: "false"
 weight: "999"

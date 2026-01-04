@@ -5,10 +5,10 @@ slug: "termessos-hadrian-anitsal-gecidi"
 description: "# Termessos Hadrian Anıtsal Geçidi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Döşemealtı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.466841,36.988029"
 draft: "false"
 weight: "999"

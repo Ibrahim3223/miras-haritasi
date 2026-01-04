@@ -5,10 +5,10 @@ slug: "oglanlar-tekkesi-turbesi"
 description: "# Oğlanlar Tekkesi Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.948431,41.0103645"
 draft: "false"
 weight: "999"

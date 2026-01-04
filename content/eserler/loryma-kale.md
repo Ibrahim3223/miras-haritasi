@@ -5,10 +5,10 @@ slug: "loryma-kale"
 description: "## Loryma Kale: Marmaris'in Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.0133495,36.5889587"
 draft: "false"
 weight: "999"

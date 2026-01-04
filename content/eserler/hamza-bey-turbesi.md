@@ -5,10 +5,10 @@ slug: "hamza-bey-turbesi"
 description: "## Hamza Bey Türbesi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: "http://commons.wikimedia.org/wiki/Special:FilePath/Hamza%20Bey%20T%C3%BCrbesi%2003.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0414505,40.1922951"
 draft: "false"
 weight: "999"

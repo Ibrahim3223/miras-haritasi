@@ -5,10 +5,10 @@ slug: "tutunsuz-baba-turbesi"
 description: "## Tütünsüz Baba Türbesi: Edirne'nin Gizli Gölgeli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.549834,41.678487"
 draft: "false"
 weight: "999"

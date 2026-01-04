@@ -5,10 +5,10 @@ slug: "gultepe-nekropolu"
 description: "### Gültepe Nekropolü: İzmit'in Kapalı Gölgeli Yerinin Gizemi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.928444444,40.782222222"
 draft: "false"
 weight: "999"

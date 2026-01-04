@@ -5,10 +5,10 @@ slug: "nisanci-pasa-camii"
 description: "### Nişancı Paşa Camii: Manisa'nın Tarihi Mimarisi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4369812,38.6129646"
 draft: "false"
 weight: "999"

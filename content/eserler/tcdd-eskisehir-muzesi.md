@@ -5,10 +5,10 @@ slug: "tcdd-eskisehir-muzesi"
 description: "### TCDD Eskişehir Müzesi: Eskişehir'in Tarihi ve Kültürel Mirasının Yeri..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.506356016,39.778740394"
 draft: "false"
 weight: "999"

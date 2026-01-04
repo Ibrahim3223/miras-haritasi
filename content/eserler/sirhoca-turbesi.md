@@ -5,10 +5,10 @@ slug: "sirhoca-turbesi"
 description: "### Sırhoca Türbesi: Sakarya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.2043991,40.0241013"
 draft: "false"
 weight: "999"

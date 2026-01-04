@@ -5,10 +5,10 @@ slug: "harekattepe-tumulusu"
 description: "# Harekattepe Tümülüsü: Tekirdağ'ın Gizli Tarihi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6544399,40.9998055"
 draft: "false"
 weight: "999"

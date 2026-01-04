@@ -5,10 +5,10 @@ slug: "bayafsar-camii"
 description: "## Bayafşar Camii: Beyşehir'in Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.799599241,37.580418998"
 draft: "false"
 weight: "999"

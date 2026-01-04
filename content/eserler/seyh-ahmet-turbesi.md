@@ -5,10 +5,10 @@ slug: "seyh-ahmet-turbesi"
 description: "## Şeyh Ahmet Türbesi..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Bingöl"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "40.5920906,38.9616203"
 draft: "false"
 weight: "999"

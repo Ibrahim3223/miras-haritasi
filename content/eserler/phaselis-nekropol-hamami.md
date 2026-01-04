@@ -5,10 +5,10 @@ slug: "phaselis-nekropol-hamami"
 description: "## Phaselis Nekropol Hamamı: Antik Kentin Gizli Harikası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5509834,36.5268517"
 draft: "false"
 weight: "999"

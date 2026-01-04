@@ -5,10 +5,10 @@ slug: "ataturkun-yurt-gezilerinde-kullandigi-vagonu"
 description: "## Atatürk'ün Yurt Gezilerinde Kullandığı Vagonu..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8424416,39.9365273"
 draft: "false"
 weight: "999"

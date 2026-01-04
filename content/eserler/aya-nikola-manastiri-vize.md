@@ -5,10 +5,10 @@ slug: "aya-nikola-manastiri-vize"
 description: "# Aya Nikola Manastırı, Vize: Bir Tarihsel Mirasın Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Aya_Nikola_Kilisesi..._-_panoramio.jpg/1200px-Aya_Nikola_Kilisesi..._-_panoramio.jpg"
 province: "Vize"
-iller: '["Vize"]'
+iller: ["Vize"]
 district: "Kıyıköy"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "28.084726061,41.633976285"
 draft: "false"
 weight: "10"

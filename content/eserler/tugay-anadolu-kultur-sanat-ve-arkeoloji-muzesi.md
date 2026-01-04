@@ -5,10 +5,10 @@ slug: "tugay-anadolu-kultur-sanat-ve-arkeoloji-muzesi"
 description: "## Tugay Anadolu Kültür, Sanat ve Arkeoloji Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Çavdarhisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

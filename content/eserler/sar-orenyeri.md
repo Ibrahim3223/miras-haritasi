@@ -5,10 +5,10 @@ slug: "sar-orenyeri"
 description: "## Şar Örenyeri: Tarihî Mirasın Gizemi..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Tufanbeyli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

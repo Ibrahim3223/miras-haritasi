@@ -5,10 +5,10 @@ slug: "amasya-saat-kulesi"
 description: "### Amasya Saat Kulesi: Tarih ve Kültür Mirasının Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Amasya_Saat_Kulesi.jpg/1200px-Amasya_Saat_Kulesi.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.833472222,40.652861111"
 draft: "false"
 weight: "10"

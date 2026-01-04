@@ -5,10 +5,10 @@ slug: "indere-koyu-camii"
 description: "## İndere Köyü Camii..."
 featured_image: ""
 province: "Adıyaman"
-iller: '["Adıyaman"]'
+iller: ["Adıyaman"]
 district: "Adıyaman"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.2493439,37.8077316"
 draft: "false"
 weight: "999"

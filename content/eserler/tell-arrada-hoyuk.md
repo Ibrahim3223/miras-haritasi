@@ -5,10 +5,10 @@ slug: "tell-arrada-hoyuk"
 description: "## Tell Arrada Höyük: Mardin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.412385225,37.019819821"
 draft: "false"
 weight: "999"

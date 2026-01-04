@@ -5,10 +5,10 @@ slug: "15-temmuz-sehitler-koprusu-adana"
 description: "### 15 Temmuz Şehitler Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.33611111,37.03138889"
 draft: "false"
 weight: "999"

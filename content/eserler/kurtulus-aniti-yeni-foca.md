@@ -5,10 +5,10 @@ slug: "kurtulus-aniti-yeni-foca"
 description: "### Kurtuluş Anıtı: Yeni Foça'nın Özenli İşleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.8383865,38.7414169"
 draft: "false"
 weight: "999"

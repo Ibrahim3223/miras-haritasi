@@ -5,10 +5,10 @@ slug: "temple-a"
 description: "## Temple A: Denizli'nin Gizemli Arkeolojik Siti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Laodicea_Temple-A_20240929_090544.jpg/1200px-Laodicea_Temple-A_20240929_090544.jpg"
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1096537,37.8362079"
 draft: "false"
 weight: "10"

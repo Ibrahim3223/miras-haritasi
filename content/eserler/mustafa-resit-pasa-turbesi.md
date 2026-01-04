@@ -5,10 +5,10 @@ slug: "mustafa-resit-pasa-turbesi"
 description: "### Mustafa Reşit Paşa Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9653629,41.0096291"
 draft: "false"
 weight: "999"

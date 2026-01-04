@@ -5,10 +5,10 @@ slug: "ertugrul-camii-torbali"
 description: "### Ertuğrul Camii, Torbalı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3603935,38.1552925"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ulubey-ulu-cami"
 description: "## Ulubey Ulu Camii: Uşak'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.2912617,38.4202118"
 draft: "false"
 weight: "999"

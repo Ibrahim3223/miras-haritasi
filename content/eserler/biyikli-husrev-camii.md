@@ -5,10 +5,10 @@ slug: "biyikli-husrev-camii"
 description: "## Bıyıklı Hüsrev Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9391937,41.0050735"
 draft: "false"
 weight: "999"

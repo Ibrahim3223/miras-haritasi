@@ -5,10 +5,10 @@ slug: "surgu-hoyuk"
 description: "### Sürgü Höyük: Malatya'nın Tarihi Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Doğanşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.9611435,38.0033913"
 draft: "false"
 weight: "999"

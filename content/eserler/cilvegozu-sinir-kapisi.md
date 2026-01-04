@@ -5,10 +5,10 @@ slug: "cilvegozu-sinir-kapisi"
 description: "## Cilvegözü Sınır Kapısı: Hatay'ın Gizli Çandırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Cilvegözü_Sınır_Kapısı.jpg/1200px-Cilvegözü_Sınır_Kapısı.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "36.67971,36.23383"
 draft: "false"
 weight: "10"

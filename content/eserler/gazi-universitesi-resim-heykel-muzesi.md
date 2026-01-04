@@ -5,10 +5,10 @@ slug: "gazi-universitesi-resim-heykel-muzesi"
 description: "## Gazi Üniversitesi Resim Heykel Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.855702,39.933272"
 draft: "false"
 weight: "999"

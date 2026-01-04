@@ -5,10 +5,10 @@ slug: "kane-dikili"
 description: "### Kane (Dikili)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8,39.03333333"
 draft: "false"
 weight: "999"

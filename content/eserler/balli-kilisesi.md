@@ -5,10 +5,10 @@ slug: "balli-kilisesi"
 description: "## Ballı Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.6637764,38.0717239"
 draft: "false"
 weight: "999"

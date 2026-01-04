@@ -5,10 +5,10 @@ slug: "gordion-tumulus-p"
 description: "## Gordion Tümülüs P: Antik Anadolu'nun Gizemli Yerleşimi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.998144,39.651855"
 draft: "false"
 weight: "999"

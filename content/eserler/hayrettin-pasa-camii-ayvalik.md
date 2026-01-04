@@ -5,10 +5,10 @@ slug: "hayrettin-pasa-camii-ayvalik"
 description: "## Hayrettin Paşa Camii: Ayvalık'taki Tarihi Bir Miras..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.693368,39.314326"
 draft: "false"
 weight: "999"

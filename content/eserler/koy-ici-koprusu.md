@@ -5,10 +5,10 @@ slug: "koy-ici-koprusu"
 description: "### Köy İçi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7888374,38.0489388"
 draft: "false"
 weight: "999"

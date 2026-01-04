@@ -5,10 +5,10 @@ slug: "aspendos-bazilikasi"
 description: "### Aspendos Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Turkey_2006_(132767739).jpeg/1200px-Turkey_2006_(132767739).jpeg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik (ilçe)"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.1694922,36.9404078"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "nure-sofi-turbesi"
 description: "### Nure Sofi Türbesi: Mut, Mersin'in Değerli Anıtı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.1426808,36.6709075"
 draft: "false"
 weight: "999"

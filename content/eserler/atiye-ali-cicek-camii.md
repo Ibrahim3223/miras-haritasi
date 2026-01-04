@@ -5,10 +5,10 @@ slug: "atiye-ali-cicek-camii"
 description: "## Atiye-Ali Çiçek Camii: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Atiye-Ali_Çiçek_Mosque_01.jpg/1200px-Atiye-Ali_Çiçek_Mosque_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Güzelbahçe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.874027777,38.362333333"
 draft: "false"
 weight: "10"

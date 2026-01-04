@@ -5,10 +5,10 @@ slug: "demirdoven-venhal-camii"
 description: "## Demirdöven Venhal Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.340437,40.911292"
 draft: "false"
 weight: "999"

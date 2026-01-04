@@ -5,10 +5,10 @@ slug: "seyh-ebul-vefa-camii"
 description: "## Şeyh Ebul Vefa Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.420933263,37.855065532"
 draft: "false"
 weight: "999"

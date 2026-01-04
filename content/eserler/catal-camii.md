@@ -5,10 +5,10 @@ slug: "catal-camii"
 description: "## Çatal Camii: Manisa'daki Bir Tarihi ve Kültürel Öncü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4418526,38.6142387"
 draft: "false"
 weight: "999"

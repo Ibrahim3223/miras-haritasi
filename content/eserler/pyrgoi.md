@@ -5,10 +5,10 @@ slug: "pyrgoi"
 description: "# Pyrgoi Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.957135,37.227855"
 draft: "false"
 weight: "999"

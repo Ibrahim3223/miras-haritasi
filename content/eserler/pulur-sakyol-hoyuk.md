@@ -5,10 +5,10 @@ slug: "pulur-sakyol-hoyuk"
 description: "### Pulur / Sakyol Höyük..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.862854,38.9032974"
 draft: "false"
 weight: "999"

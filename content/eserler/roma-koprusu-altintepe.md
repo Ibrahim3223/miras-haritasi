@@ -5,10 +5,10 @@ slug: "roma-koprusu-altintepe"
 description: "## Roma Köprüsü, Altıntepe..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menderes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1631104,38.2301349"
 draft: "false"
 weight: "999"

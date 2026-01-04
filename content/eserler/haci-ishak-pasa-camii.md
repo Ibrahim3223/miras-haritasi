@@ -5,10 +5,10 @@ slug: "haci-ishak-pasa-camii"
 description: "### Hacı İshak Paşa Camii..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.8843689,40.3026199"
 draft: "false"
 weight: "999"

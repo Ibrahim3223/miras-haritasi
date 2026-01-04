@@ -5,10 +5,10 @@ slug: "canakkale-seramik-muzesi"
 description: "## Çanakkale Seramik Müzesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.4123287,40.1570473"
 draft: "false"
 weight: "999"

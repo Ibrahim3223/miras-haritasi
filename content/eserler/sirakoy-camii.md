@@ -5,10 +5,10 @@ slug: "sirakoy-camii"
 description: "## Sıraköy Camii: Çamlıhemşin'in Gizemi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.916547002,40.801410739"
 draft: "false"
 weight: "999"

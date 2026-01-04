@@ -5,10 +5,10 @@ slug: "nysa"
 description: "## Nysa Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nysa,_Anatolia.JPG/1200px-Nysa,_Anatolia.JPG"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.14666667,37.90166667"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "darica-camii"
 description: "## Darıca Camii: Tarihi ve Kültürel Mirasın Parçalarından Biri..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.7952,40.7322"
 draft: "false"
 weight: "999"

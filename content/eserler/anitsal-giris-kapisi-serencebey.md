@@ -5,10 +5,10 @@ slug: "anitsal-giris-kapisi-serencebey"
 description: "## Anıtsal Giriş Kapısı, Serencebey..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0100803,41.0455284"
 draft: "false"
 weight: "999"

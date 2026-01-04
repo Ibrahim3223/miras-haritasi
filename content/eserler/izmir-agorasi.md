@@ -5,10 +5,10 @@ slug: "izmir-agorasi"
 description: "## İzmir Agorası: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Agora_of_Smyrna.jpg/1200px-Agora_of_Smyrna.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.137777777,38.418888888"
 draft: "false"
 weight: "10"

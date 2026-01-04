@@ -5,10 +5,10 @@ slug: "bandirma-tumulusu"
 description: "# Bandırma Tümülüsü..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.948381199,40.340069872"
 draft: "false"
 weight: "999"

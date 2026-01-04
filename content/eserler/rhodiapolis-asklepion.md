@@ -5,10 +5,10 @@ slug: "rhodiapolis-asklepion"
 description: "## Rhodiapolis Asklepion: Geçmişe Yolculuk..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "30.2654552,36.3866234"
 draft: "false"
 weight: "999"

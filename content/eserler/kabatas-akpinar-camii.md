@@ -5,10 +5,10 @@ slug: "kabatas-akpinar-camii"
 description: "## Kabataş Akpınar Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Çaykara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.267758468,40.759798751"
 draft: "false"
 weight: "999"

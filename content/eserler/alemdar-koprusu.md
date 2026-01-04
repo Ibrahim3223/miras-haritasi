@@ -5,10 +5,10 @@ slug: "alemdar-koprusu"
 description: "## Alemdar Köprüsü: Bitlis'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "42.1058655,38.3983002"
 draft: "false"
 weight: "999"

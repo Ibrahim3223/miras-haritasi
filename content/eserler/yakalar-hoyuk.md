@@ -5,10 +5,10 @@ slug: "yakalar-hoyuk"
 description: "# Yakalar Höyük: Kemer'in Gizemi..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Kemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0032997,37.3251991"
 draft: "false"
 weight: "999"

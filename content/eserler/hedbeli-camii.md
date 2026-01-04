@@ -5,10 +5,10 @@ slug: "hedbeli-camii"
 description: "## Hedbeli Camii: Hatay'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1678505,36.1983032"
 draft: "false"
 weight: "999"

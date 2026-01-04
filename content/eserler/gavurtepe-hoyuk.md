@@ -5,10 +5,10 @@ slug: "gavurtepe-hoyuk"
 description: "### Gavurtepe Höyük..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Alaşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.520033,38.3391"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tell-uzunarab"
 description: "**Tell Uzunarab Arkeolojik Sit: Antakya'nın Gizli Mirası**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.299786,36.234798"
 draft: "false"
 weight: "999"

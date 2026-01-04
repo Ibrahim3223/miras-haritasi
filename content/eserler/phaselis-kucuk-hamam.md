@@ -5,10 +5,10 @@ slug: "phaselis-kucuk-hamam"
 description: "## Phaselis Küçük Hamamı: Antik Bir Evin İzleri..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kemer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5523643,36.5239334"
 draft: "false"
 weight: "999"

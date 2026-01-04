@@ -5,10 +5,10 @@ slug: "canakkale-piri-reis-muzesi-ve-galerisi"
 description: "## Çanakkale Piri Reis Müzesi ve Galerisi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.4072418,40.1524811"
 draft: "false"
 weight: "999"

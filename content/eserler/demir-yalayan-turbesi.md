@@ -5,10 +5,10 @@ slug: "demir-yalayan-turbesi"
 description: "## Demir Yalayan Türbesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.5403766,38.7614368"
 draft: "false"
 weight: "999"

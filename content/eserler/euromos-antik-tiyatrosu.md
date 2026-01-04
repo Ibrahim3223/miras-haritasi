@@ -5,10 +5,10 @@ slug: "euromos-antik-tiyatrosu"
 description: "## Euromos Antik Tiyatrosu: Antik Çağın Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "27.675148,37.376595"
 draft: "false"
 weight: "999"

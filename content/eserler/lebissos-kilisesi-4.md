@@ -5,10 +5,10 @@ slug: "lebissos-kilisesi-4"
 description: "## Lebissos Kilisesi 4: Muğla'da Bir İlahi Cennet..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0705452,36.553894"
 draft: "false"
 weight: "999"

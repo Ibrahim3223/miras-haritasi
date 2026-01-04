@@ -5,10 +5,10 @@ slug: "saruhan-bey-turbesi"
 description: "## Saruhan Bey Türbesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.4277,38.6098"
 draft: "false"
 weight: "999"

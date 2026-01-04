@@ -5,10 +5,10 @@ slug: "urgup-hamami"
 description: "### Ürgüp Hamamı: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.909668,38.6299438"
 draft: "false"
 weight: "999"

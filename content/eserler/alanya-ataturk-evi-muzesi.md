@@ -5,10 +5,10 @@ slug: "alanya-ataturk-evi-muzesi"
 description: "## Alanya Atatürk Evi Müzesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

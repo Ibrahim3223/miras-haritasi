@@ -5,10 +5,10 @@ slug: "kocagedik-tepe-kalesi"
 description: "### Kocagedik Tepe Kalesi: Demre'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Demre"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.9225311,36.2689285"
 draft: "false"
 weight: "999"

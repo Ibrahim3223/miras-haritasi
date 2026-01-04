@@ -5,10 +5,10 @@ slug: "tetrtsihe"
 description: "# Tetrtsihe: Kıyıların Gizemli Kaleleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: ""
 draft: "false"
 weight: "999"

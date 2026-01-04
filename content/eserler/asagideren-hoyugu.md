@@ -5,10 +5,10 @@ slug: "asagideren-hoyugu"
 description: "# Aşağıderen Höyük: Şanlıurfa'nın Gizemi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Akçakale"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.0211983,36.765892"
 draft: "false"
 weight: "999"

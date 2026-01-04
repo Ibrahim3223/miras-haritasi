@@ -5,10 +5,10 @@ slug: "dionysopolis"
 description: "## Dionysopolis: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Bekilli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.4295,38.2148"
 draft: "false"
 weight: "999"

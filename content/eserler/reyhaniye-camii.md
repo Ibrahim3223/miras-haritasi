@@ -5,10 +5,10 @@ slug: "reyhaniye-camii"
 description: "## Reyhaniye Camii: Mardin'in Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.7419281,37.3134766"
 draft: "false"
 weight: "999"

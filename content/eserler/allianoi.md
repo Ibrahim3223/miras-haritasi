@@ -5,10 +5,10 @@ slug: "allianoi"
 description: "## Allianoi: İzmir'in Gizli Kahramanları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Allianoi1.JPEG/1200px-Allianoi1.JPEG"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.305574,39.234846"
 draft: "false"
 weight: "10"

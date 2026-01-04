@@ -5,10 +5,10 @@ slug: "karaoz-hoyuk"
 description: "### Karaöz Höyük: Kayseri'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Sarıoğlan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.9315831,39.1933783"
 draft: "false"
 weight: "999"

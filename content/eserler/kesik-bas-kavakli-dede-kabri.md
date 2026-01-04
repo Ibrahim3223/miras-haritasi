@@ -5,10 +5,10 @@ slug: "kesik-bas-kavakli-dede-kabri"
 description: "### Kesik Baş Kavaklı Dede Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9236431,41.0028343"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "acisu-kaya-kilisesi"
 description: "## Acısu Kaya Kilisesi: Bulancak'taki Tarihî Bir Çıplak..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Bulancak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.2085,40.925131"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hatuniye-medresesi"
 description: "# Hatuniye Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Karaman_Hatuniye_Medresi_4812.jpg/1200px-Karaman_Hatuniye_Medresi_4812.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.21138,37.1829376"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "karayusuf-tumulusu"
 description: "## Karayusuf Tümülüsü: Edirne'nin Gizli Şövalyesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.70257,41.7155342"
 draft: "false"
 weight: "999"

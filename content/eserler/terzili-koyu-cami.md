@@ -5,10 +5,10 @@ slug: "terzili-koyu-cami"
 description: "## Terzili Köyü Cami: Kırklareli'nin Gizli Öncüleri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.0375099,41.5282097"
 draft: "false"
 weight: "999"

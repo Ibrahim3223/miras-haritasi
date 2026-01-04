@@ -5,10 +5,10 @@ slug: "isa-kumbet-camii"
 description: "## İsa Kümbet Camii..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4823227,38.7183571"
 draft: "false"
 weight: "999"

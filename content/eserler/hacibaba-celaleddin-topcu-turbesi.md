@@ -5,10 +5,10 @@ slug: "hacibaba-celaleddin-topcu-turbesi"
 description: "## Hacıbaba Celaleddin Topçu Türbesi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.27781,39.68301"
 draft: "false"
 weight: "999"

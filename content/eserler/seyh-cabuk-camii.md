@@ -5,10 +5,10 @@ slug: "seyh-cabuk-camii"
 description: "## Şeyh Çabuk Camii: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.731823,37.3129387"
 draft: "false"
 weight: "999"

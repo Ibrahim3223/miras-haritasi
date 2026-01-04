@@ -5,10 +5,10 @@ slug: "bilal-dede-turbesi"
 description: "# Bilal Dede Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.6634769,37.7687073"
 draft: "false"
 weight: "999"

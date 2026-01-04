@@ -5,10 +5,10 @@ slug: "cumhuriyet-egitim-muzesi"
 description: "## Cumhuriyet Eğitim Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9742336,41.0053253"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dede-mahmud-turbesi"
 description: "### Dede Mahmud Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Pasinler"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.7316,39.9441"
 draft: "false"
 weight: "999"

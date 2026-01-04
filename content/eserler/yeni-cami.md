@@ -5,10 +5,10 @@ slug: "yeni-cami"
 description: "## Yeni Cami: Beyoğlu'nun Semaya Katan Bir Şaheser..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.973252,41.023232"
 draft: "false"
 weight: "999"

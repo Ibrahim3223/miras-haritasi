@@ -5,10 +5,10 @@ slug: "gre-virike-hoyugu"
 description: "**Gre Virike Höyüğü: Şanlıurfa'nın Gizli Anıtı**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0154,36.922745"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yahya-efendi-camii"
 description: "### Yahya Efendi Camii: Beşiktaş'ta Tarihi Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Yahya_Efendi_Mosque_01.jpg/1200px-Yahya_Efendi_Mosque_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0179492,41.0457237"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "suleyman-pasa-camii-kosk"
 description: "## Süleyman Paşa Camii (Köşk): Aydın'ın Gizli Çehresini İnceleyelim..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0519943,37.8531342"
 draft: "false"
 weight: "999"

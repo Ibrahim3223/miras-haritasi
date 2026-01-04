@@ -5,10 +5,10 @@ slug: "anasa-kalesi"
 description: "## Anaşa Kalesi: Pozantı'nın Tarihî Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Pozantı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.9047394,37.3932457"
 draft: "false"
 weight: "999"

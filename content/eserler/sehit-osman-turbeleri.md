@@ -5,10 +5,10 @@ slug: "sehit-osman-turbeleri"
 description: "## Şehit Osman Türbeleri..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.2198529,40.2610168"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdulkadir-erbili-turbesi"
 description: "# Abdulkadir Erbili Türbesi..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.793245,37.1499486"
 draft: "false"
 weight: "999"

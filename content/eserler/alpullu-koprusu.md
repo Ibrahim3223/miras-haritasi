@@ -5,10 +5,10 @@ slug: "alpullu-koprusu"
 description: "## Alpullu Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Alpullu_(near_Babaeski),_Sokollu_era_bridge_over_Ergene_(L48a-22,_1970s).jpg/1200px-Alpullu_(near_Babaeski),_Sokollu_era_bridge_over_Ergene_(L48a-22,_1970s).jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.141916666,41.364388888"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "emine-hatun-camii"
 description: "## Emine Hatun Camii..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.3779488,39.0632858"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-saip-pasa-cami"
 description: "### Ali Saip Paşa Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/00/Ali_Saip_Pa%C5%9Fa.JPG"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.5584984,38.687355"
 draft: "false"
 weight: "999"

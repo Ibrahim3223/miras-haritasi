@@ -5,10 +5,10 @@ slug: "ismail-bey-turbesi"
 description: "# İsmail Bey Türbesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.7773018,41.3839645"
 draft: "false"
 weight: "999"

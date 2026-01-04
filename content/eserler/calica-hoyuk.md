@@ -5,10 +5,10 @@ slug: "calica-hoyuk"
 description: "## Çalıca Höyük: Tavas'ta Gizli Bir Miras..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.0475998,37.5657005"
 draft: "false"
 weight: "999"

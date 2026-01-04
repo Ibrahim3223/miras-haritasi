@@ -5,10 +5,10 @@ slug: "sarikavak-camii"
 description: "## Sarıkavak Camii: Denizli'nin Tarihi Çıkntısı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çameli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.1937637,37.0328789"
 draft: "false"
 weight: "999"

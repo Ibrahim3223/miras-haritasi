@@ -5,10 +5,10 @@ slug: "oluk-kopru"
 description: "## Oluk Köprü: Antalya'nın Eski Bir Zirve..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Eurymedon_Bridge,_Selge,_Turkey._Pic_02.jpg/1200px-Eurymedon_Bridge,_Selge,_Turkey._Pic_02.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.18107,37.19201"
 draft: "false"
 weight: "10"

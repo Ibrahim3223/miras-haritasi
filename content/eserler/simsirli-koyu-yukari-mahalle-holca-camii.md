@@ -5,10 +5,10 @@ slug: "simsirli-koyu-yukari-mahalle-holca-camii"
 description: "## Şimşirli Köyü Yukarı Mahalle Holca Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.483912,40.801872"
 draft: "false"
 weight: "999"

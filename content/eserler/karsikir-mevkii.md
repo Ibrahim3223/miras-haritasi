@@ -5,10 +5,10 @@ slug: "karsikir-mevkii"
 description: "## Karşıkır Mevkii: Afyonkarahisar'ın Gizli Hazinesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sandıklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.185267,38.476433"
 draft: "false"
 weight: "999"

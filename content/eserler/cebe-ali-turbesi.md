@@ -5,10 +5,10 @@ slug: "cebe-ali-turbesi"
 description: "## Cabe Ali Türbesi: Fatih'teki Hicazlı Mütevelli'nin Eşiyle Bağlı Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.958663,41.02626"
 draft: "false"
 weight: "999"

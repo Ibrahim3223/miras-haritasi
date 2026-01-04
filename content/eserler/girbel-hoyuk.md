@@ -5,10 +5,10 @@ slug: "girbel-hoyuk"
 description: "## Gırbel Höyük: Mardin'in Tarihi Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Kızıltepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.441791289,37.085198147"
 draft: "false"
 weight: "999"

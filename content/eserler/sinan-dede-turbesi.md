@@ -5,10 +5,10 @@ slug: "sinan-dede-turbesi"
 description: "## Sinan Dede Türbesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.323,37.9305229"
 draft: "false"
 weight: "999"

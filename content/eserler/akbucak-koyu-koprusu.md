@@ -5,10 +5,10 @@ slug: "akbucak-koyu-koprusu"
 description: "## Akbucak Köyü Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.93805,41.095817"
 draft: "false"
 weight: "999"

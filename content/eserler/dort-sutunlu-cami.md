@@ -5,10 +5,10 @@ slug: "dort-sutunlu-cami"
 description: "### Dört Sütunlu Cami: Didim'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2769451,37.530365"
 draft: "false"
 weight: "999"

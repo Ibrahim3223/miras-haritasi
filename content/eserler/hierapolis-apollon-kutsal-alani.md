@@ -5,10 +5,10 @@ slug: "hierapolis-apollon-kutsal-alani"
 description: "## Hierapolis Apollon Kutsal Alanı..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Pamukkale"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.1265373,37.9268837"
 draft: "false"
 weight: "999"

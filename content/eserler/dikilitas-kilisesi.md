@@ -5,10 +5,10 @@ slug: "dikilitas-kilisesi"
 description: "## Dikilitaş Kilisesi: Niğde'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.0903893,38.105938"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "artemision-yakinindaki-tribuna"
 description: "### Artemision Yakınındaki Tribuna: İzmir'in Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.36110174,37.94943498"
 draft: "false"
 weight: "999"

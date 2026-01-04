@@ -5,10 +5,10 @@ slug: "seyh-ali-camii"
 description: "### Şeyh Ali Camii: Hatay'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Antakya_Shey_Ali_Mosque_in_2008_03.jpg/1200px-Antakya_Shey_Ali_Mosque_in_2008_03.jpg"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.1675606,36.202095"
 draft: "false"
 weight: "10"

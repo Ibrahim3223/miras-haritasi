@@ -5,10 +5,10 @@ slug: "yavuz-sultan-selim-turbesi"
 description: "## Yavuz Sultan Selim Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.951647,41.026271"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "toprakkale-kalesi"
 description: "## Toprakkale Kalesi: Osmaniye'nin Tarihi Çehresini Taşıyan Bir Miras..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Toprakkale"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.136569,37.050362"
 draft: "false"
 weight: "999"

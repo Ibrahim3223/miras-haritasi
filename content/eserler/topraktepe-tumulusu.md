@@ -5,10 +5,10 @@ slug: "topraktepe-tumulusu"
 description: "## Topraktepe Tümülüsü: Manisa'nın Gizli Kutsal Alanı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7451458,38.5705299"
 draft: "false"
 weight: "999"

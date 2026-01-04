@@ -5,10 +5,10 @@ slug: "arapkahve"
 description: "### Arap Kahvesi: İzmir'in Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3248,38.160533"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aperlai-asagi-kilise"
 description: "## Aperlai Aşağı Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.7834396,36.1592674"
 draft: "false"
 weight: "999"

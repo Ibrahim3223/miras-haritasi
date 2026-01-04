@@ -5,10 +5,10 @@ slug: "abdurrahman-camii-edirne"
 description: "## Abdurrahman Camii, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5648155,41.6684265"
 draft: "false"
 weight: "999"

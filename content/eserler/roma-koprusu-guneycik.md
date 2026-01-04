@@ -5,10 +5,10 @@ slug: "roma-koprusu-guneycik"
 description: "## Roma Köprüsü, Güneycik..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gündoğmuş"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.7745249,36.754285"
 draft: "false"
 weight: "999"

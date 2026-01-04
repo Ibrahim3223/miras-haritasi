@@ -5,10 +5,10 @@ slug: "argyronion"
 description: "## Argyronion: Eski Yunanistan'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.076268,41.165174"
 draft: "false"
 weight: "999"

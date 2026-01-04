@@ -5,10 +5,10 @@ slug: "marmaracik-hoyuk"
 description: "### Marmaracık Höyük: Bursa'nın Gizli Tarihi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yenişehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.429007,40.235282"
 draft: "false"
 weight: "999"

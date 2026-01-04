@@ -5,10 +5,10 @@ slug: "anonim-turbe-5-altindag"
 description: "## Anonim Türbe-5, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.85343166,39.93885832"
 draft: "false"
 weight: "999"

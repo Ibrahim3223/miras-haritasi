@@ -5,10 +5,10 @@ slug: "kizilay-agadere-muzesi"
 description: "## Kızılay Ağadere Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.3697815,40.1603355"
 draft: "false"
 weight: "999"

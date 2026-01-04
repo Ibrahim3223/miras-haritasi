@@ -5,10 +5,10 @@ slug: "surp-vortvots-vorodman-kilisesi"
 description: "### Surp Vortvots Vorodman Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9611454,41.0043716"
 draft: "false"
 weight: "999"

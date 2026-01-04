@@ -5,10 +5,10 @@ slug: "kabaktepe-sehitligi-kurtun"
 description: "### Kabaktepe Şehitliği, Kürtün..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kürtün"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.057124,40.652488"
 draft: "false"
 weight: "999"

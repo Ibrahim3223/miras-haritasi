@@ -5,10 +5,10 @@ slug: "orendibi"
 description: "## Örendibi Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Örendibi_08.jpg/1200px-Örendibi_08.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.07375,36.581778"
 draft: "false"
 weight: "10"

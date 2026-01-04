@@ -5,10 +5,10 @@ slug: "ferhat-bey-hamami"
 description: "## Ferhat Bey Hamamı: Kırklareli'nin Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Vize_-_Ferhat_Bey_Hammam_-_20250602094219.jpg/1200px-Vize_-_Ferhat_Bey_Hammam_-_20250602094219.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.764805555,41.577194444"
 draft: "false"
 weight: "10"

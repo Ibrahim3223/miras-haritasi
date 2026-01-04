@@ -5,10 +5,10 @@ slug: "leyne-ilyas-bey-camii"
 description: "## Leyne İlyas Bey Camii..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.0301151,37.3725891"
 draft: "false"
 weight: "999"

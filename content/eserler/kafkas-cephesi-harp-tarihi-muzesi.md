@@ -5,10 +5,10 @@ slug: "kafkas-cephesi-harp-tarihi-muzesi"
 description: "## Kafkas Cephesi Harp Tarihi Müzesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

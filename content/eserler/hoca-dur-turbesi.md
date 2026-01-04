@@ -5,10 +5,10 @@ slug: "hoca-dur-turbesi"
 description: "## Hoca Dur Türbesi: Kilis'in Gizemi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.114234,36.715592"
 draft: "false"
 weight: "999"

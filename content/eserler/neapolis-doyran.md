@@ -5,10 +5,10 @@ slug: "neapolis-doyran"
 description: "## Neapolis (Doyran): Antalya'nın Gizli Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.513888888,36.914722222"
 draft: "false"
 weight: "999"

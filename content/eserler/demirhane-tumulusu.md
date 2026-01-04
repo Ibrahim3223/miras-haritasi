@@ -5,10 +5,10 @@ slug: "demirhane-tumulusu"
 description: "## Demirhane Tümülüsü: Tarihî Bir Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.788662,41.820179"
 draft: "false"
 weight: "999"

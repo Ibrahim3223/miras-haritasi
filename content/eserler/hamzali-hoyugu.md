@@ -5,10 +5,10 @@ slug: "hamzali-hoyugu"
 description: "### Hamzalı Höyük: Yozgat'ta Gizemli Bir Miras..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yerköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.6842751,39.6378211"
 draft: "false"
 weight: "999"

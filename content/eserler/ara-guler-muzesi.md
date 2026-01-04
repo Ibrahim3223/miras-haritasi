@@ -5,10 +5,10 @@ slug: "ara-guler-muzesi"
 description: "## Ara Güler Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Ara_Güler_Museum.jpg/1200px-Ara_Güler_Museum.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.98075,41.058194444"
 draft: "false"
 weight: "10"

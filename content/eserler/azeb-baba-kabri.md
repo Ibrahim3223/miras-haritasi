@@ -5,10 +5,10 @@ slug: "azeb-baba-kabri"
 description: "## Azeb Baba Kabri: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.96001348,41.021685572"
 draft: "false"
 weight: "999"

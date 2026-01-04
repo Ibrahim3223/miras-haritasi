@@ -5,10 +5,10 @@ slug: "seyh-yunus-efendi-turbesi"
 description: "## Şeyh Yunus Efendi Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Gündoğmuş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.932005287,36.832550363"
 draft: "false"
 weight: "999"

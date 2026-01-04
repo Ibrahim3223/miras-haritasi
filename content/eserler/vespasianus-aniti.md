@@ -5,10 +5,10 @@ slug: "vespasianus-aniti"
 description: "**Vespasianus Anıtı**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vespasianus_Ant_2025-10-08_1759954270.JPG/1200px-Vespasianus_Ant_2025-10-08_1759954270.JPG"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.3905525,36.7686348"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "civicilimani-camii"
 description: "## Çivicilimanı Camii: İstanbul'un Gizli Öyküsünü Gizleyen Bir Miras..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9840431,41.02808"
 draft: "false"
 weight: "999"

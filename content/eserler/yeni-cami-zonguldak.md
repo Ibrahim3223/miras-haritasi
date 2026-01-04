@@ -5,10 +5,10 @@ slug: "yeni-cami-zonguldak"
 description: "## Yeni Cami (Zonguldak)..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Zonguldak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.7907009,41.4521446"
 draft: "false"
 weight: "999"

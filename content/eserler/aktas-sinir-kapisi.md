@@ -5,10 +5,10 @@ slug: "aktas-sinir-kapisi"
 description: "## Aktaş Sınır Kapısı: Tarihî Bir Kervansarayın Öyküsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "43.2010746,41.235091297"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "surp-harutyun-kilisesi-yerkan"
 description: "### Surp Harutyun Kilisesi (Yerkan)..."
 featured_image: ""
 province: "Hozat"
-iller: '["Hozat"]'
+iller: ["Hozat"]
 district: "Geçimli"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.2674835,39.0307584"
 draft: "false"
 weight: "999"

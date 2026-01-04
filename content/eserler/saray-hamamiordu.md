@@ -5,10 +5,10 @@ slug: "saray-hamamiordu"
 description: "## Saray Hamamı: Altınordu'nun Tarihi Bir Görgü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.8759211,40.9840644"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osmanli-hamami"
 description: "## Osmanlı Hamamı: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.7274609,37.7079697"
 draft: "false"
 weight: "999"

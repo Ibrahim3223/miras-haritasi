@@ -5,10 +5,10 @@ slug: "seyh-halil-turbesi"
 description: "**Şeyh Halil Türbesi: Silvan'ın Tarihi Bir Anıtı**..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.009131,38.142546"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ebemcesmesi-hoyuk"
 description: "## Ebemçesmesi Höyük..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1291885,40.5468178"
 draft: "false"
 weight: "999"

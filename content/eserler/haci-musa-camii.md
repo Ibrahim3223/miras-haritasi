@@ -5,10 +5,10 @@ slug: "haci-musa-camii"
 description: "## Hacı Musa Camii: Aksaray'ın Tarihi Ören Yeri..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Aksaray"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.0271683,38.376461"
 draft: "false"
 weight: "999"

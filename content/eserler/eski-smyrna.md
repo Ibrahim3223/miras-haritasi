@@ -5,10 +5,10 @@ slug: "eski-smyrna"
 description: "### Eski Smyrna Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/TR_Izmir_asv2020-02_img41_Tepekule_Smyrna_ruins.jpg/1200px-TR_Izmir_asv2020-02_img41_Tepekule_Smyrna_ruins.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayraklı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.17,38.464444444"
 draft: "false"
 weight: "10"

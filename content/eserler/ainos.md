@@ -5,10 +5,10 @@ slug: "ainos"
 description: "### Ainos: Enez'in Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/19/The_Black_Forest_on_Winter.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Enez"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.08046,40.7242"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tavsantepe-hoyugu"
 description: "## Tavşantepe Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.4223677,37.751938"
 draft: "false"
 weight: "999"

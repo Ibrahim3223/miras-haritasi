@@ -5,10 +5,10 @@ slug: "sih-ahmet-camii"
 description: "# Şıh Ahmet Camii..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1182213,36.7131119"
 draft: "false"
 weight: "999"

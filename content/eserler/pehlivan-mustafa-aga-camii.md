@@ -5,10 +5,10 @@ slug: "pehlivan-mustafa-aga-camii"
 description: "### Pehlivan Mustafa Ağa Camii: Kırklareli'nin Güzeli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2290154,41.7343521"
 draft: "false"
 weight: "999"

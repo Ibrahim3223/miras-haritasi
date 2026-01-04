@@ -5,10 +5,10 @@ slug: "mehmet-aga-camii-edirne"
 description: "**Mehmet Ağa Camii: Edirne'nin Gizli Çehresinde Bir Kıymetli Cami**..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.557431732,41.672816164"
 draft: "false"
 weight: "999"

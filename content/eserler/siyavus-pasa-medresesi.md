@@ -5,10 +5,10 @@ slug: "siyavus-pasa-medresesi"
 description: "## Siyavuş Paşa Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.966287,41.017187"
 draft: "false"
 weight: "999"

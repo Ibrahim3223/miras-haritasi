@@ -5,10 +5,10 @@ slug: "polis-muzesi"
 description: "## Polis Müzesi: Ankara'nın Gizli Çehresini Açığa Çıkaran Bir Tarihî Yapı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Polis_Muzesi_1.jpg/1200px-Polis_Muzesi_1.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8456383,39.8972626"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gulgun-hatun-hamami"
 description: "### Gülgün Hatun Hamamı: Manisa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.4227594,38.6061048"
 draft: "false"
 weight: "999"

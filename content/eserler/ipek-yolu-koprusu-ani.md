@@ -5,10 +5,10 @@ slug: "ipek-yolu-koprusu-ani"
 description: "## İpek Yolu Köprüsü, Ani..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ani_-_bridge.jpg/1200px-Ani_-_bridge.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.5728,40.5044"
 draft: "false"
 weight: "10"

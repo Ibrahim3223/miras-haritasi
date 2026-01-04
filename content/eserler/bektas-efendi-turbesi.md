@@ -5,10 +5,10 @@ slug: "bektas-efendi-turbesi"
 description: "### Bektaş Efendi Türbesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.5613976,38.9408722"
 draft: "false"
 weight: "999"

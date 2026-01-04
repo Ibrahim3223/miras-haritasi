@@ -5,10 +5,10 @@ slug: "beykoz-cam-ve-billur-muzesi"
 description: "## Beykoz Cam ve Billur Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/BGCM_21.jpg/1200px-BGCM_21.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.1035,41.1384"
 draft: "false"
 weight: "10"

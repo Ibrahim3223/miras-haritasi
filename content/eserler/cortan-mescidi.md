@@ -5,10 +5,10 @@ slug: "cortan-mescidi"
 description: "# Çortan Mescidi: Erzurum'un Tarihi Şarkısı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2725677,39.909771"
 draft: "false"
 weight: "999"

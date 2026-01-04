@@ -5,10 +5,10 @@ slug: "rum-hamami"
 description: "### Rum Hamamı: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8459969,37.8515091"
 draft: "false"
 weight: "999"

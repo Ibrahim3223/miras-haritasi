@@ -5,10 +5,10 @@ slug: "culhalar-kalesi"
 description: "### Çulhalar Kalesi: Aydın'ın Gizli Güzeli..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6816998,37.7450981"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cacabey-medresesi"
 description: "## Cacabey Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Cacabey.jpg/1200px-Cacabey.jpg"
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: ""
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.1613464,39.1451645"
 draft: "false"
 weight: "10"

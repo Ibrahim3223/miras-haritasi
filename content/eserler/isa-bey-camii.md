@@ -5,10 +5,10 @@ slug: "isa-bey-camii"
 description: "## İsa Bey Camii: İzmir'in Tarihi Bir Mirası..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/İsa_Bey_Camii.jpg/1200px-İsa_Bey_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.365833333,37.952222222"
 draft: "false"
 weight: "10"

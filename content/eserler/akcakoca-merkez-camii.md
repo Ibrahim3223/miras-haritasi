@@ -5,10 +5,10 @@ slug: "akcakoca-merkez-camii"
 description: "## Akçakoca Merkez Camii: Düzce'nin Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Akçakoca_Camii_(4997269718).jpg/1200px-Akçakoca_Camii_(4997269718).jpg"
 province: "Düzce"
-iller: '["Düzce"]'
+iller: ["Düzce"]
 district: "Akçakoca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.124388,41.089325"
 draft: "false"
 weight: "10"

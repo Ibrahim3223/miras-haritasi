@@ -5,10 +5,10 @@ slug: "vezneciler-hamami"
 description: "## Vezneciler Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9613,41.0112"
 draft: "false"
 weight: "999"

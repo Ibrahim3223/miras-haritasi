@@ -5,10 +5,10 @@ slug: "lalandos"
 description: "## Lalandos Arkeolojik Siti: Gömü'nin Gizemi..."
 featured_image: ""
 province: "Emirdağ"
-iller: '["Emirdağ"]'
+iller: ["Emirdağ"]
 district: "Gömü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.083257,39.063475"
 draft: "false"
 weight: "999"

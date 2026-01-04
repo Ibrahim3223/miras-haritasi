@@ -5,10 +5,10 @@ slug: "ortankoy-koprusu"
 description: "## Ortanköy Köprüsü: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.9898239,41.007176"
 draft: "false"
 weight: "999"

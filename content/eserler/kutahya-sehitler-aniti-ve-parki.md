@@ -5,10 +5,10 @@ slug: "kutahya-sehitler-aniti-ve-parki"
 description: "## Kütahya Şehitler Anıtı ve Parkı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.019558,39.4117622"
 draft: "false"
 weight: "999"

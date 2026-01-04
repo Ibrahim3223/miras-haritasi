@@ -5,10 +5,10 @@ slug: "bin-tepeler-tumulusu-14"
 description: "**Bin Tepeler Tümülüsü 14**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.021835,38.572792"
 draft: "false"
 weight: "999"

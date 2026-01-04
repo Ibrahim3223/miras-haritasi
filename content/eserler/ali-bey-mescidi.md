@@ -5,10 +5,10 @@ slug: "ali-bey-mescidi"
 description: "## Ali Bey Mescidi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8552666,39.9404793"
 draft: "false"
 weight: "999"

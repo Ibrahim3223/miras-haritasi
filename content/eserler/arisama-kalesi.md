@@ -5,10 +5,10 @@ slug: "arisama-kalesi"
 description: "## Arısama Kalesi: Konya'nın Gizli Çarığı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Emirgazi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.8563576,37.9291801"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "becin-kalesi"
 description: "## Beçin Kalesi: Milas'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Becin_5322.jpg/1200px-Becin_5322.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.78916667,37.275"
 draft: "false"
 weight: "10"

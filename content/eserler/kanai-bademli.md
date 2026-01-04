@@ -5,10 +5,10 @@ slug: "kanai-bademli"
 description: "**Kanai, Bademli: Dikili'nin Gizli Cenneti**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.813608333,39.039780555"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tsihia-kilisesi"
 description: "## Tsihia Kilisesi: Yoncalı'daki Bir İhtişam..."
 featured_image: ""
 province: "Şavşat"
-iller: '["Şavşat"]'
+iller: ["Şavşat"]
 district: "Yoncalı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.433638888,41.356555555"
 draft: "false"
 weight: "999"

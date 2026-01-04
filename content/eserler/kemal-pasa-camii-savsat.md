@@ -5,10 +5,10 @@ slug: "kemal-pasa-camii-savsat"
 description: "## Kemal Paşa Camii, Şavşat..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Şavşat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.3601341,41.2522545"
 draft: "false"
 weight: "999"

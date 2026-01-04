@@ -5,10 +5,10 @@ slug: "darica-eski-camii"
 description: "## Darıca Eski Camii: Kocaeli'nin Tarihî Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.3825111,40.7590866"
 draft: "false"
 weight: "999"

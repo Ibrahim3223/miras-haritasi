@@ -5,10 +5,10 @@ slug: "kopru-yenikoy-sile"
 description: "## Köprü, Yeniköy-Şile..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.6492882,41.1226082"
 draft: "false"
 weight: "999"

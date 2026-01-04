@@ -5,10 +5,10 @@ slug: "ameletos"
 description: "## Ameletos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.386266,41.105749"
 draft: "false"
 weight: "999"

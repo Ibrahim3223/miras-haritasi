@@ -5,10 +5,10 @@ slug: "senyuva-koyu-karsi-mahalle-camii"
 description: "### Şenyuva Köyü Karşı Mahalle Camii Tanıtımı..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.971752459,41.001743961"
 draft: "false"
 weight: "999"

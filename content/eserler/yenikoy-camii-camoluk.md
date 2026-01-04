@@ -5,10 +5,10 @@ slug: "yenikoy-camii-camoluk"
 description: "**Yeniköy Camii: Çamoluk'un Gizli Çarpıntısı**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.742527,40.185465"
 draft: "false"
 weight: "999"

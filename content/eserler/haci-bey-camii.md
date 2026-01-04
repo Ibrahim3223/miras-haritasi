@@ -5,10 +5,10 @@ slug: "haci-bey-camii"
 description: "## Hacı Bey Camii: Köyceğiz'in Tarihi Çandırı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.688242,36.9566231"
 draft: "false"
 weight: "999"

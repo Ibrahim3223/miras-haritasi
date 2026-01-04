@@ -5,10 +5,10 @@ slug: "ince-kopru"
 description: "## İnce Köprü: Aydın'ın Tarihi Taşınmaz Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.7639751,37.9203606"
 draft: "false"
 weight: "999"

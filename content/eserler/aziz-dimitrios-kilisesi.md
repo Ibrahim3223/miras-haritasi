@@ -5,10 +5,10 @@ slug: "aziz-dimitrios-kilisesi"
 description: "## Aziz Dimitrios Kilisesi: Erdek'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.6905365,40.4739723"
 draft: "false"
 weight: "999"

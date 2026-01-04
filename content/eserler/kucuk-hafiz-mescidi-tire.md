@@ -5,10 +5,10 @@ slug: "kucuk-hafiz-mescidi-tire"
 description: "## Küçük Hafız Mescidi: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7321224,38.0833893"
 draft: "false"
 weight: "999"

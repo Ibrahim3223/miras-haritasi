@@ -5,10 +5,10 @@ slug: "alacahirka-camii"
 description: "**Alacahırka Camii: Bursa'nın Tarihi ve Kültürel Mirası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Alacah%C4%B1rka-Bursa_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0479679,40.1836777"
 draft: "false"
 weight: "999"

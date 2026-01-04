@@ -5,10 +5,10 @@ slug: "ishak-fakih-camii"
 description: "## İshak Fakih Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Ishak_fakih_genel.JPG/1200px-Ishak_fakih_genel.JPG"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.974444444,39.419777777"
 draft: "false"
 weight: "10"

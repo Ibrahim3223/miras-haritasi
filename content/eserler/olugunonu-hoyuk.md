@@ -5,10 +5,10 @@ slug: "olugunonu-hoyuk"
 description: "## Oluğunönü Höyük: Adana'nın Gizli Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "İmamoğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.613350986,37.247070432"
 draft: "false"
 weight: "999"

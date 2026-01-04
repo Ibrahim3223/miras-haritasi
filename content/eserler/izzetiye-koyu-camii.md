@@ -5,10 +5,10 @@ slug: "izzetiye-koyu-camii"
 description: "## İzzetiye Köyü Camii..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.6464367,40.8124466"
 draft: "false"
 weight: "999"

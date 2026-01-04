@@ -5,10 +5,10 @@ slug: "silivri-kapisi"
 description: "## Silivri Kapısı: Fatih'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Silivri_Kapısı1,_Fatih,_İstanbul_2025.jpg/1200px-Silivri_Kapısı1,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.921701,41.006126"
 draft: "false"
 weight: "10"

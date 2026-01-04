@@ -5,10 +5,10 @@ slug: "gritille"
 description: "## Gritille: Tarihin Eseri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.579479319,37.574464703"
 draft: "false"
 weight: "999"

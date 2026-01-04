@@ -5,10 +5,10 @@ slug: "catalan-koprusu"
 description: "## Çatalan Köprüsü: Adana'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Adana_Seyhan_Barajı_-_panoramio.jpg/1200px-Adana_Seyhan_Barajı_-_panoramio.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.2742,37.0771"
 draft: "false"
 weight: "10"

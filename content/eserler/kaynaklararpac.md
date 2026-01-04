@@ -5,10 +5,10 @@ slug: "kaynaklararpac"
 description: "## Kaynaklar/Arpaç Arkeolojik Sitinin Tanıtımı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.874491,41.671919"
 draft: "false"
 weight: "999"

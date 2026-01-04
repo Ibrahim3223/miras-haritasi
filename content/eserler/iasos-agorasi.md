@@ -5,10 +5,10 @@ slug: "iasos-agorasi"
 description: "## Iasos Agorası: İnsanlığın Tarihine Tanıklık Eden Efsanevi Bir Yer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/The_Agora,_reconstructed_mainly_during_Hadrian’s_time,_its_initial_building_must_have_started_in_the_4th_century_BC,_Iassos,_Caria,_Turkey_(20806588152).jpg/1200px-The_Agora,_reconstructed_mainly_during_Hadrian’s_time,_its_initial_building_must_have_started_in_the_4th_century_BC,_Iassos,_Caria,_Turkey_(20806588152).jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.585083333,37.279777777"
 draft: "false"
 weight: "10"

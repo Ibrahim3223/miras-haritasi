@@ -5,10 +5,10 @@ slug: "yukarisimsirli-kecman-koprusu"
 description: "**Yukarışimşirli Keçman Köprüsü: Tarihi ve Mimarisi**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.0675,41.020483"
 draft: "false"
 weight: "999"

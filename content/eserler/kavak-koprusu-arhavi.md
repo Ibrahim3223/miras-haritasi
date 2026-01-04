@@ -5,10 +5,10 @@ slug: "kavak-koprusu-arhavi"
 description: "## Kavak Köprüsü: Arhavi'nin Tarihi ve Görsel Özelliklere Sahip Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: ""
 draft: "false"
 weight: "999"

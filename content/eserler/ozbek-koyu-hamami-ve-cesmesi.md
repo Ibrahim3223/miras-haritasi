@@ -5,10 +5,10 @@ slug: "ozbek-koyu-hamami-ve-cesmesi"
 description: "## Özbek Köyü Hamamı ve Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.4736176,40.1660614"
 draft: "false"
 weight: "999"

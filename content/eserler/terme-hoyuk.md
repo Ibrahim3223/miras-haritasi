@@ -5,10 +5,10 @@ slug: "terme-hoyuk"
 description: "## Terme Höyük: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.5426636,40.3764801"
 draft: "false"
 weight: "999"

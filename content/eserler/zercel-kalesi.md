@@ -5,10 +5,10 @@ slug: "zercel-kalesi"
 description: "## Zercel Kalesi: Batman'ın Gizli Kalesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.485111,38.077339"
 draft: "false"
 weight: "999"

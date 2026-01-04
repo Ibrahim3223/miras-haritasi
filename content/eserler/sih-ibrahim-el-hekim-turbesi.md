@@ -5,10 +5,10 @@ slug: "sih-ibrahim-el-hekim-turbesi"
 description: "## Şıh İbrahim El Hekim Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.7922096,36.8098526"
 draft: "false"
 weight: "999"

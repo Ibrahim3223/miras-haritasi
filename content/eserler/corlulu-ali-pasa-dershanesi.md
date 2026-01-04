@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-dershanesi"
 description: "# Çorlulu Ali Paşa Dershanesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.968493,41.008966"
 draft: "false"
 weight: "999"

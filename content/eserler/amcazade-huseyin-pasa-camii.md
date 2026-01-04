@@ -5,10 +5,10 @@ slug: "amcazade-huseyin-pasa-camii"
 description: "**Amcazade Hüseyin Paşa Camii**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Amcazade_H%C3%BCseyin_Pa%C5%9Fa_Mansion%2C_Bosphorus%2C_%C4%B0stanbul_%2814056989580%29.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9521427,41.0152245"
 draft: "false"
 weight: "999"

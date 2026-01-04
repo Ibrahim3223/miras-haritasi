@@ -5,10 +5,10 @@ slug: "aksu-agalar-camii"
 description: "## Aksu Ağalar Camii: Antalya'nın Tarihi bir Mirası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.8508186,36.9749489"
 draft: "false"
 weight: "999"

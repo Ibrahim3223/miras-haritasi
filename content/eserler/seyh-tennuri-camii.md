@@ -5,10 +5,10 @@ slug: "seyh-tennuri-camii"
 description: "### Şeyh Tennuri Camii: Kayseri'nin Görsel Bir Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Kayseri_Şeyh_camii_Exterior_in_2005_008.jpg/1200px-Kayseri_Şeyh_camii_Exterior_in_2005_008.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4897766,38.7183151"
 draft: "false"
 weight: "10"

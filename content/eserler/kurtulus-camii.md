@@ -5,10 +5,10 @@ slug: "kurtulus-camii"
 description: "## Kurtuluş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Gaziantep_Kurtuluş_Mosque_in_2007_0423.jpg/1200px-Gaziantep_Kurtuluş_Mosque_in_2007_0423.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.375694444,37.060305555"
 draft: "false"
 weight: "10"

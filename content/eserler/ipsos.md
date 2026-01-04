@@ -5,10 +5,10 @@ slug: "ipsos"
 description: "## İpsos: Antik Kentin Gizemi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.549206,38.856193"
 draft: "false"
 weight: "999"

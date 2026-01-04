@@ -5,10 +5,10 @@ slug: "burdur-saat-kulesi"
 description: "# Burdur Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Burdur_Clock_tower_3232.jpg/1200px-Burdur_Clock_tower_3232.jpg"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "30.28627,37.71762"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sogut-hamidiye-camii"
 description: "## Söğüt Hamidiye Camii..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1815662,40.0158577"
 draft: "false"
 weight: "999"

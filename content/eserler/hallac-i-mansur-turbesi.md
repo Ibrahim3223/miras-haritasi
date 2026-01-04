@@ -5,10 +5,10 @@ slug: "hallac-i-mansur-turbesi"
 description: "## Hallac-ı Mansur Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Gelibolu_Hallâc-ı_Mansûr_Türbesi_dışarıdan.jpg/1200px-Gelibolu_Hallâc-ı_Mansûr_Türbesi_dışarıdan.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.6781025,40.4097862"
 draft: "false"
 weight: "10"

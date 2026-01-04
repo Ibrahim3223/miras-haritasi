@@ -5,10 +5,10 @@ slug: "ferit-yazici-heykel-calismasi"
 description: "## Ferit Yazıcı Heykel Çalışması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.04326,41.068509"
 draft: "false"
 weight: "999"

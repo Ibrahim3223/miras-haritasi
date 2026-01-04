@@ -5,10 +5,10 @@ slug: "hazeranlar-konagi"
 description: "### Hazeranlar Konağı Müzesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.829775,40.652344"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yahsi-bey-camii"
 description: "## Yahşi Bey Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.733387,38.0856667"
 draft: "false"
 weight: "999"

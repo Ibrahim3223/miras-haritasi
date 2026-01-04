@@ -5,10 +5,10 @@ slug: "siyahser-camii"
 description: "## Siyahser Camii: Karaman'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.218732,37.172803"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultaniye-kaplicasi"
 description: "# Sultaniye Kaplıcası: Bir Tarih Öreni ve Kültürel Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Köyceğiz"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.6023045,36.873848"
 draft: "false"
 weight: "999"

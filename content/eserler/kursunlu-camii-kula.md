@@ -5,10 +5,10 @@ slug: "kursunlu-camii-kula"
 description: "## Kurşunlu Camii, Kula..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.646368,38.5447998"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "barbaros-hayreddin-pasa-turbesi"
 description: "## Barbaros Hayreddin Paşa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/İstanbul_5155.jpg/1200px-İstanbul_5155.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.00666667,41.04166667"
 draft: "false"
 weight: "10"

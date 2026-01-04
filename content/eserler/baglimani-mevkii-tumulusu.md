@@ -5,10 +5,10 @@ slug: "baglimani-mevkii-tumulusu"
 description: "### Bağlimanı Mevkii Tümülüsü..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1620064,39.8881645"
 draft: "false"
 weight: "999"

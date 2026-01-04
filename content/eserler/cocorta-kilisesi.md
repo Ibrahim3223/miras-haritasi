@@ -5,10 +5,10 @@ slug: "cocorta-kilisesi"
 description: "## Cocorta Kilisesi: Kayabeyi'ndeki Bir Geçmişe Dönük Anıt..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Kayabeyi"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.094777777,41.219777777"
 draft: "false"
 weight: "999"

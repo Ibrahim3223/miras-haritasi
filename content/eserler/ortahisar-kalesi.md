@@ -5,10 +5,10 @@ slug: "ortahisar-kalesi"
 description: "## Ortahisar Kalesi: Ürgüp'ün Tarihî Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Cappadocia_March_2006.jpg/1200px-Cappadocia_March_2006.jpg"
 province: "Ürgüp"
-iller: '["Ürgüp"]'
+iller: ["Ürgüp"]
 district: "Ortahisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.864329046,38.619935365"
 draft: "false"
 weight: "10"

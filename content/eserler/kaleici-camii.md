@@ -5,10 +5,10 @@ slug: "kaleici-camii"
 description: "## Kaleiçi Camii..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.2579136,37.8599091"
 draft: "false"
 weight: "999"

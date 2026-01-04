@@ -5,10 +5,10 @@ slug: "arkhangelos-kilisesi"
 description: "## Arkhangelos Kilisesi: Sinop'un Gizli Cenneti..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Ayancık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.5803223,41.9467964"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cirpi-koprusu"
 description: "### Çırpı Köprüsü: Bayındır'da Tarih ve Mimarinin Birleşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.5033092,38.1598434"
 draft: "false"
 weight: "999"

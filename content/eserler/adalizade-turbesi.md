@@ -5,10 +5,10 @@ slug: "adalizade-turbesi"
 description: "## Adalızade Türbesi: Kuşadası'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.2617264,37.8549156"
 draft: "false"
 weight: "999"

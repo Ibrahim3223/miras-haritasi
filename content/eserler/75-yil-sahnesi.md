@@ -5,10 +5,10 @@ slug: "75-yil-sahnesi"
 description: "## 75. Yıl Sahnesi: Ankara'nın Eski Tiyatro Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "32.856527777,39.924194444"
 draft: "false"
 weight: "999"

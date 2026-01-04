@@ -5,10 +5,10 @@ slug: "ortabelen-tepe-hoyugu"
 description: "### Ortabelen Tepe Höyüğü: Milas'ın Gizli İncisi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.7248955,37.3507233"
 draft: "false"
 weight: "999"

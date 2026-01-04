@@ -5,10 +5,10 @@ slug: "uryanizade-ahmet-esat-efendi-camii"
 description: "## Üryanizade Ahmet Esat Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Üryanizade_Ahmet_Esat_Efendi_Mosque_(2).jpg/1200px-Üryanizade_Ahmet_Esat_Efendi_Mosque_(2).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.034433369,41.039528587"
 draft: "false"
 weight: "10"

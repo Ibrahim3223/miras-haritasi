@@ -5,10 +5,10 @@ slug: "irlamaz-kilisesi"
 description: "## Irlamaz Kilisesi Tanıtımı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Turgutlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.7111111,38.4578896"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mor-yakup-dkarno-manastiri"
 description: "## Mor Yakup D'Karno Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Mor_yakup_manastırı.jpg/1200px-Mor_yakup_manastırı.jpg"
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Nusaybin"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.4453964,37.2007294"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kazanci-tumulusu"
 description: "## Kazancı Tümülüsü: Vize'nin Gizli Tarihi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6388988,41.4932327"
 draft: "false"
 weight: "999"

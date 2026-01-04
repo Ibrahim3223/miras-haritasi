@@ -5,10 +5,10 @@ slug: "dengbej-evi"
 description: "## Dengbej Evi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "40.2341499,37.910038"
 draft: "false"
 weight: "999"

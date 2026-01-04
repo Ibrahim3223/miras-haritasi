@@ -5,10 +5,10 @@ slug: "balatcik-kalesi"
 description: "## Balatçık Kalesi: Aydın'ın Gizli Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.4755993,37.9132004"
 draft: "false"
 weight: "999"

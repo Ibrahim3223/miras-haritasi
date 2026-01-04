@@ -5,10 +5,10 @@ slug: "dolmabahce-saat-kulesi"
 description: "### Dolmabahçe Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Palacio_de_Dolmabahçe,_Estambul,_Turquía,_2024-09-28,_DD_106.jpg/1200px-Palacio_de_Dolmabahçe,_Estambul,_Turquía,_2024-09-28,_DD_106.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "28.996368,41.037612"
 draft: "false"
 weight: "10"

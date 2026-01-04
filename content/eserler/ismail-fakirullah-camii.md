@@ -5,10 +5,10 @@ slug: "ismail-fakirullah-camii"
 description: "## İsmail Fakirullah Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Smail_Fakirullah_Camii_1761630126.jpg/1200px-Smail_Fakirullah_Camii_1761630126.jpg"
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.0117607,37.9487152"
 draft: "false"
 weight: "10"

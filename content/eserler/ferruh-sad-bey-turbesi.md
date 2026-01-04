@@ -5,10 +5,10 @@ slug: "ferruh-sad-bey-turbesi"
 description: "## Ferruh Şad Bey Türbesi..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Çemişgezek"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "39.0516014,39.0291405"
 draft: "false"
 weight: "999"

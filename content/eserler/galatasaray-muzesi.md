@@ -5,10 +5,10 @@ slug: "galatasaray-muzesi"
 description: "## Galatasaray Müzesi: İstanbul'un Beyoğlu semtinde Yükselen Tarihsel Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Galatasaray_Museum.JPG/1200px-Galatasaray_Museum.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.97749,41.03376"
 draft: "false"
 weight: "10"

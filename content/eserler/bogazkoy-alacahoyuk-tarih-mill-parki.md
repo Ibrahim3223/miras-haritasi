@@ -5,10 +5,10 @@ slug: "bogazkoy-alacahoyuk-tarih-mill-parki"
 description: "## Boğazköy-Alacahöyük Tarihî Millî Parkı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Lion_Gate,_Hattusa_01.jpg/1200px-Lion_Gate,_Hattusa_01.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.610555555,40.075277777"
 draft: "false"
 weight: "10"

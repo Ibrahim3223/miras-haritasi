@@ -5,10 +5,10 @@ slug: "seyh-abdurrahman-gazi-camii"
 description: "## Şeyh Abdurrahman Gazi Camii..."
 featured_image: ""
 province: "Van Vilayeti"
-iller: '["Van Vilayeti"]'
+iller: ["Van Vilayeti"]
 district: "İpekyolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.3447075,38.5021858"
 draft: "false"
 weight: "999"

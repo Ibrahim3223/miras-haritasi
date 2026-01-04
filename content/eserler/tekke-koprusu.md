@@ -5,10 +5,10 @@ slug: "tekke-koprusu"
 description: "## Tekke Köprüsü: Sivas'ta Bir Tarihi İkincil Köprü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Zara"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.7545013,39.8629456"
 draft: "false"
 weight: "999"

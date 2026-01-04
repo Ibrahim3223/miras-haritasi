@@ -5,10 +5,10 @@ slug: "kosk-hoyuk"
 description: "## Köşk Höyük: Niğde'de Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/KöskHüyük1.jpg/1200px-KöskHüyük1.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.612222,37.8475"
 draft: "false"
 weight: "10"

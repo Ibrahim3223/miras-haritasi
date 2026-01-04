@@ -5,10 +5,10 @@ slug: "samikale-kalesi"
 description: "## Samikale Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Narman"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.884775,40.376857"
 draft: "false"
 weight: "999"

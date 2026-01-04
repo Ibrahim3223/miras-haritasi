@@ -5,10 +5,10 @@ slug: "iski-su-medeniyetleri-muzesi"
 description: "## İSKİ Su Medeniyetleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.673597418,41.300965933"
 draft: "false"
 weight: "999"

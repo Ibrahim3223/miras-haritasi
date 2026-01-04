@@ -5,10 +5,10 @@ slug: "derekoy-kilisesi"
 description: "### Dereköy Kilisesi: Mudanya'nın Gizli Çehresinde Bir Kilise..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.8023491,40.3165016"
 draft: "false"
 weight: "999"

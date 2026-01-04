@@ -5,10 +5,10 @@ slug: "haci-seyfettin-camii"
 description: "### Hacı Seyfettin Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Fotograflar_mustafa_dumanın_arşivinde_2014_-_panoramio_(31).jpg/1200px-Fotograflar_mustafa_dumanın_arşivinde_2014_-_panoramio_(31).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0819473,40.1834145"
 draft: "false"
 weight: "10"

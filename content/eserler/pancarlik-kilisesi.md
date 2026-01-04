@@ -5,10 +5,10 @@ slug: "pancarlik-kilisesi"
 description: "## Pancarlık Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Pancarlık_Kilise-Fresques_(13).jpg/1200px-Pancarlık_Kilise-Fresques_(13).jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8926923,38.6142213"
 draft: "false"
 weight: "10"

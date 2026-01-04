@@ -5,10 +5,10 @@ slug: "meydan-hamami"
 description: "## Meydan Hamamı..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Antakya"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "36.1640906,36.2036474"
 draft: "false"
 weight: "999"

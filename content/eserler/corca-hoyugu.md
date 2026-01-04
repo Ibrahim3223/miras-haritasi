@@ -5,10 +5,10 @@ slug: "corca-hoyugu"
 description: "## Çorca Höyüğü: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Cihanbeyli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.9183994,38.7586068"
 draft: "false"
 weight: "999"

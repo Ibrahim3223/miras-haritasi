@@ -5,10 +5,10 @@ slug: "ataturk-ve-kazak-ismail-aniti"
 description: "## Atatürk ve Kazak İsmail Anıtı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.9480801,39.6140633"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kortik-tepe"
 description: "## Körtik Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.989503503,37.813993453"
 draft: "false"
 weight: "999"

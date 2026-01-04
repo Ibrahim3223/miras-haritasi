@@ -5,10 +5,10 @@ slug: "uskup-bayrak-tepe-tumulusu"
 description: "**Üsküp Bayrak Tepe Tümülüsü**..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4164772,41.7135696"
 draft: "false"
 weight: "999"

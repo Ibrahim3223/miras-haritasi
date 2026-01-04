@@ -5,10 +5,10 @@ slug: "roma-koprusu-pesrefli"
 description: "## Roma Köprüsü, Peşrefli..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.8468761,38.0958214"
 draft: "false"
 weight: "999"

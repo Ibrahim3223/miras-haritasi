@@ -5,10 +5,10 @@ slug: "tarsus-muzesi"
 description: "## Tarsus Müzesi: Kilikya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Tarsus75thAnniversaryCulturalCenter_(2).JPG/1200px-Tarsus75thAnniversaryCulturalCenter_(2).JPG"
 province: "Kilikya"
-iller: '["Kilikya"]'
+iller: ["Kilikya"]
 district: "Tarsus"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.892108156,36.916983914"
 draft: "false"
 weight: "10"

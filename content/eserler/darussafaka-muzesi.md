@@ -5,10 +5,10 @@ slug: "darussafaka-muzesi"
 description: "### Darüşşafaka Müzesi: Türk Eğitim Tarihi'nin Gizemli Yerleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.025878074,41.12659919"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "deniz-gezmis-heykeli"
 description: "## Deniz Gezmiş Heykeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.094698,40.9997368"
 draft: "false"
 weight: "999"

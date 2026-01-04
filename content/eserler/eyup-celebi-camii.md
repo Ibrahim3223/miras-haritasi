@@ -5,10 +5,10 @@ slug: "eyup-celebi-camii"
 description: "## Eyüp Çelebi Camii: Merzifon'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4662399,40.8729019"
 draft: "false"
 weight: "999"

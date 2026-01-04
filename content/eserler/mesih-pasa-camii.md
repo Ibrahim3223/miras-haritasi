@@ -5,10 +5,10 @@ slug: "mesih-pasa-camii"
 description: "# Mesih Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mesih_Mehmed_Pasha_Mosque_2514.jpg/1200px-Mesih_Mehmed_Pasha_Mosque_2514.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.943427,41.021948"
 draft: "false"
 weight: "10"

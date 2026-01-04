@@ -5,10 +5,10 @@ slug: "kucukkilic-tumulusu"
 description: "### Küçükkılıç Tümülüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.1918602,41.1233521"
 draft: "false"
 weight: "999"

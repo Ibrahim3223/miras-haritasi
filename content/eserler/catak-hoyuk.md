@@ -5,10 +5,10 @@ slug: "catak-hoyuk"
 description: "## Çatak Höyük: Yozgat'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Sarıkaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4332176,39.3392099"
 draft: "false"
 weight: "999"

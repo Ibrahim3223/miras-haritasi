@@ -5,10 +5,10 @@ slug: "pars-bey-turbesi"
 description: "## Pars Bey Türbesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0607719,40.1874428"
 draft: "false"
 weight: "999"

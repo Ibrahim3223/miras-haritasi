@@ -5,10 +5,10 @@ slug: "mor-aho-manastiri"
 description: "### Mor Aho Manastırı: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "41.4673119,37.7040138"
 draft: "false"
 weight: "999"

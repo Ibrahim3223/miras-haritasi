@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-valide-kapisi"
 description: "## Yıldız Sarayı Valide Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.01117288,41.04980729"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nisanci-pasa-hamami"
 description: "## Nişancı Paşa Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9308376,41.0405388"
 draft: "false"
 weight: "999"

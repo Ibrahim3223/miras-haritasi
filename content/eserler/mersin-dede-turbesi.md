@@ -5,10 +5,10 @@ slug: "mersin-dede-turbesi"
 description: "## Mersin Dede Türbesi: Çanakkale'nin Gizli Cenneti..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4042,40.1473"
 draft: "false"
 weight: "999"

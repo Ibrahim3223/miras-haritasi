@@ -5,10 +5,10 @@ slug: "seyh-kasim-turbesi"
 description: "## Şeyh Kasım Türbesi: Tarihi ve Kültürel Mirası Anıtsal Bir Yer..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Çınar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.4260292,37.7632484"
 draft: "false"
 weight: "999"

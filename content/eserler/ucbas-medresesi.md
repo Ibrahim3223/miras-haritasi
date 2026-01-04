@@ -5,10 +5,10 @@ slug: "ucbas-medresesi"
 description: "## Üçbaş Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.943113,41.025025"
 draft: "false"
 weight: "999"

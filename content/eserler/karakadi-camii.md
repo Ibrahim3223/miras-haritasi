@@ -5,10 +5,10 @@ slug: "karakadi-camii"
 description: "## Karakadı Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0680599,40.184803"
 draft: "false"
 weight: "999"

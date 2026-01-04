@@ -5,10 +5,10 @@ slug: "iran-turkey-border-crossing-2895"
 description: "## İran-Türkiye Sınır İniş Anıtı #2895: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.389484885,39.412513237"
 draft: "false"
 weight: "999"

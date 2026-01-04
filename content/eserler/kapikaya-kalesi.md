@@ -5,10 +5,10 @@ slug: "kapikaya-kalesi"
 description: "## Kapıkaya Kalesi: Tortum'un Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Tortum"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.3595657,40.313446"
 draft: "false"
 weight: "999"

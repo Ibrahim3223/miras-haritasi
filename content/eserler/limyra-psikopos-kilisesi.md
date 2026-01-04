@@ -5,10 +5,10 @@ slug: "limyra-psikopos-kilisesi"
 description: "### Limyra Psikopos Kilisesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "30.170716532,36.341494227"
 draft: "false"
 weight: "999"

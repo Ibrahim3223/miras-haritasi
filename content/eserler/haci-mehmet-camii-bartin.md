@@ -5,10 +5,10 @@ slug: "haci-mehmet-camii-bartin"
 description: "### Hacı Mehmet Camii, Bartın..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.3377953,41.6329842"
 draft: "false"
 weight: "999"

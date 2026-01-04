@@ -5,10 +5,10 @@ slug: "hunkr-kosku"
 description: "## Hünkâr Köşkü: Bursa'da Tarih ve Müzikin Birleştiği Yer..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.064904,40.174194"
 draft: "false"
 weight: "999"

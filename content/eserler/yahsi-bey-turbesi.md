@@ -5,10 +5,10 @@ slug: "yahsi-bey-turbesi"
 description: "## Yahşi Bey Türbesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.4586,39.7504"
 draft: "false"
 weight: "999"

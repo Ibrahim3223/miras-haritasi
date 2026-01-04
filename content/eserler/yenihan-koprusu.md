@@ -5,10 +5,10 @@ slug: "yenihan-koprusu"
 description: "## Yenihan Köprüsü: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Ulus"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.5349846,41.5261955"
 draft: "false"
 weight: "999"

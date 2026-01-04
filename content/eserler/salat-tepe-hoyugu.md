@@ -5,10 +5,10 @@ slug: "salat-tepe-hoyugu"
 description: "## Salat Tepe Höyüğü: Diyarbakır'ın Gizli Öyküsü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Bismil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.901980194,37.839483647"
 draft: "false"
 weight: "999"

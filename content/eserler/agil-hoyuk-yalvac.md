@@ -5,10 +5,10 @@ slug: "agil-hoyuk-yalvac"
 description: "## Ağıl Höyük: Yalvaç'taki Gizemli Arkeolojik Sit..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Yalvaç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.9216,38.292583"
 draft: "false"
 weight: "999"

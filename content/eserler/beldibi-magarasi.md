@@ -5,10 +5,10 @@ slug: "beldibi-magarasi"
 description: "## Beldibi Mağarası: Antalya'nın Gizli Çanak Çömleği..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.57,36.745278"
 draft: "false"
 weight: "999"

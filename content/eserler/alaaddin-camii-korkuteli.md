@@ -5,10 +5,10 @@ slug: "alaaddin-camii-korkuteli"
 description: "## Alaaddin Camii, Korkuteli..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Korkuteli"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.1697235,37.0818176"
 draft: "false"
 weight: "999"

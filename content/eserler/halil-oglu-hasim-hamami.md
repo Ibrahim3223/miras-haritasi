@@ -5,10 +5,10 @@ slug: "halil-oglu-hasim-hamami"
 description: "## Halil Oğlu Haşim Hamamı..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.9182014,38.7041397"
 draft: "false"
 weight: "999"

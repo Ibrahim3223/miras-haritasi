@@ -5,10 +5,10 @@ slug: "kaya-mezari-3-delikkaya-mahallesi-altinordu"
 description: "## Kaya Mezarı 3 (Delikkaya Mahallesi), Altınordu: Bir Tarih Öreni..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Altınordu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.848975,40.901166"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "naib-hamami"
 description: "## Naib Hamamı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Gaziantep"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "37.3834,37.0676498"
 draft: "false"
 weight: "999"

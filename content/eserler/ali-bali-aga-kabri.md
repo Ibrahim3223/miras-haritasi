@@ -5,10 +5,10 @@ slug: "ali-bali-aga-kabri"
 description: "## Ali Bali Ağa Kabri: Üsküdar'ın Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.017168,41.02174"
 draft: "false"
 weight: "999"

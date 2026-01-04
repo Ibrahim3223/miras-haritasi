@@ -5,10 +5,10 @@ slug: "kayislar-hoyuk"
 description: "## Kayışlar Höyük: Geçmişi ve Kültürel Mirası..."
 featured_image: ""
 province: "Saruhanlı (ilçe)"
-iller: '["Saruhanlı (ilçe)"]'
+iller: ["Saruhanlı (ilçe)"]
 district: "Kayışlar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.706317,38.855117"
 draft: "false"
 weight: "999"

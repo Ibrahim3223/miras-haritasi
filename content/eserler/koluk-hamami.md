@@ -5,10 +5,10 @@ slug: "koluk-hamami"
 description: "## Kölük Hamamı: Kayseri'nin Tarihi Bir Hamamı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "35.4810257,38.7190208"
 draft: "false"
 weight: "999"

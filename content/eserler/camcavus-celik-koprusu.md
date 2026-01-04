@@ -5,10 +5,10 @@ slug: "camcavus-celik-koprusu"
 description: "# Çamçavuş Çelik Köprüsü..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Kars"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "43.0588951,40.5816269"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bigadic-kalesi"
 description: "## Bigadiç Kalesi: Tarihçesi ve Özellikleri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bigadiç"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1354599,39.3958092"
 draft: "false"
 weight: "999"

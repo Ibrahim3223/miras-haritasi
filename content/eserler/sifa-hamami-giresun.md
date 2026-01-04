@@ -5,10 +5,10 @@ slug: "sifa-hamami-giresun"
 description: "### Şifa Hamamı, Giresun..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "38.395579,40.916511"
 draft: "false"
 weight: "999"

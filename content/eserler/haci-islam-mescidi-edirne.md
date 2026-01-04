@@ -5,10 +5,10 @@ slug: "haci-islam-mescidi-edirne"
 description: "## Hacı İslam Mescidi, Edirne..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.5651226,41.6731453"
 draft: "false"
 weight: "999"

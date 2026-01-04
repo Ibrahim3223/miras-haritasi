@@ -5,10 +5,10 @@ slug: "seymen-eski-camii"
 description: "## Seymen Eski Camii: Silivri'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1709156,41.1569443"
 draft: "false"
 weight: "999"

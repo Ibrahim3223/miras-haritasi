@@ -5,10 +5,10 @@ slug: "panamara"
 description: "## Panamara: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0989,37.2677"
 draft: "false"
 weight: "999"

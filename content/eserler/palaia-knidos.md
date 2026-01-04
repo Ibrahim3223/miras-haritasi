@@ -5,10 +5,10 @@ slug: "palaia-knidos"
 description: "### Palaia Knidos: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6983356,36.7350235"
 draft: "false"
 weight: "999"

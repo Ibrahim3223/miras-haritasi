@@ -5,10 +5,10 @@ slug: "velimese-camii"
 description: "## Velimeşe Camii: Tekirdağ'ın Tarihi ve Kültürel Mirasının Örnekleri Arasındaki Bir Düzenek..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8809376,41.2480392"
 draft: "false"
 weight: "999"

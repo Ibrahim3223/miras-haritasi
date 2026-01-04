@@ -5,10 +5,10 @@ slug: "tarihi-yali-hamami"
 description: "# Tarihi Yalı Hamamı..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.9241791,40.7626724"
 draft: "false"
 weight: "999"

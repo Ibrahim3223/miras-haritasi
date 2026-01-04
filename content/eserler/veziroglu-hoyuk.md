@@ -5,10 +5,10 @@ slug: "veziroglu-hoyuk"
 description: "## Veziroğlu Höyük: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.455254,38.671823"
 draft: "false"
 weight: "999"

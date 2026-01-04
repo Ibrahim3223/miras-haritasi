@@ -5,10 +5,10 @@ slug: "kestel-kalesi"
 description: "## Kestel Kalesi: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Kestel"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "29.215584,40.201805"
 draft: "false"
 weight: "999"

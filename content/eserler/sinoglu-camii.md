@@ -5,10 +5,10 @@ slug: "sinoglu-camii"
 description: "### Sinoğlu Camii: Diyarbakır'ın Eski Şehir Merkezi'nde Gizli Bir Cennet..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.234861111,37.911194444"
 draft: "false"
 weight: "999"

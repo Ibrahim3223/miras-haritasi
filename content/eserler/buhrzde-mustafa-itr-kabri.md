@@ -5,10 +5,10 @@ slug: "buhrzde-mustafa-itr-kabri"
 description: "## Buhûrîzâde Mustafa Itrî Kabri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Buhûrîzâde_Mustafa_Itrî_Kabri.jpg/1200px-Buhûrîzâde_Mustafa_Itrî_Kabri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.933258,41.034542"
 draft: "false"
 weight: "10"

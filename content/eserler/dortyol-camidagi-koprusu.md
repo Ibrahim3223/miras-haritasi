@@ -5,10 +5,10 @@ slug: "dortyol-camidagi-koprusu"
 description: "### Dörtyol Camidağı Köprüsü: Rize'nin Eski Zanaatkarlığının Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.554883,40.988033"
 draft: "false"
 weight: "999"

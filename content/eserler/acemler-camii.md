@@ -5,10 +5,10 @@ slug: "acemler-camii"
 description: "## Acemler Camii Tanıtımı..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.063795096,40.188008131"
 draft: "false"
 weight: "999"

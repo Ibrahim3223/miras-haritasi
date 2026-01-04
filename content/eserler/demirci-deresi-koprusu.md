@@ -5,10 +5,10 @@ slug: "demirci-deresi-koprusu"
 description: "## Demirci Deresi Köprüsü: Ayvacık'ta Bir Köprü Tarihçesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.357992628,39.564695112"
 draft: "false"
 weight: "999"

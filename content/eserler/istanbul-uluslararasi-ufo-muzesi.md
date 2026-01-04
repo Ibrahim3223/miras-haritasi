@@ -5,10 +5,10 @@ slug: "istanbul-uluslararasi-ufo-muzesi"
 description: "**İstanbul Uluslararası UFO Müzesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Istanbulgrey.jpg/1200px-Istanbulgrey.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

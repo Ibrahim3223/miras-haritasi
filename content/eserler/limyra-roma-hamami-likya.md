@@ -5,10 +5,10 @@ slug: "limyra-roma-hamami-likya"
 description: "## Limyra Roma Hamamı: Likya'nın Gizli Çeşmesinden Roma'nın Güzelliğine..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.169897217,36.343076701"
 draft: "false"
 weight: "999"

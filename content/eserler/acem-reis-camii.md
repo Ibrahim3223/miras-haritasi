@@ -5,10 +5,10 @@ slug: "acem-reis-camii"
 description: "### Acem Reis Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/20241204_Acem_Reis_Camisi.jpg/1200px-20241204_Acem_Reis_Camisi.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.073484,40.187397"
 draft: "false"
 weight: "10"

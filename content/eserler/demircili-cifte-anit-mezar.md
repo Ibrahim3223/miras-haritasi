@@ -5,10 +5,10 @@ slug: "demircili-cifte-anit-mezar"
 description: "### Demircili Çifte Anıt Mezar: Silifke'nin Gizli Çiçeği..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9565239,36.445755"
 draft: "false"
 weight: "999"

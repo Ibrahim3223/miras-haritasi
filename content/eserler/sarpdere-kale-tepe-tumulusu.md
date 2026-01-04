@@ -5,10 +5,10 @@ slug: "sarpdere-kale-tepe-tumulusu"
 description: "## Sarpdere Kale Tepe Tümülüsü: Demirköy'ün Gizli Mirası..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5989819,41.8415031"
 draft: "false"
 weight: "999"

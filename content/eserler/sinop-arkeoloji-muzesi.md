@@ -5,10 +5,10 @@ slug: "sinop-arkeoloji-muzesi"
 description: "### Sinop Arkeoloji Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sinop_Museum_entrance.jpg/1200px-Sinop_Museum_entrance.jpg"
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.151666666,42.0275"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ladik-saat-kulesi"
 description: "### Ladik Saat Kulesi: Samsun'un Tarihi Güzelliği..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "35.89575,40.912916666"
 draft: "false"
 weight: "999"

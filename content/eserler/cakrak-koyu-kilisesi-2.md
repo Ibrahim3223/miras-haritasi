@@ -5,10 +5,10 @@ slug: "cakrak-koyu-kilisesi-2"
 description: "# Çakrak Köyü Kilisesi: Giresun'un Gizli Cenneti..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.601712,40.527608"
 draft: "false"
 weight: "999"

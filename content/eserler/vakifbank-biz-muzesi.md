@@ -5,10 +5,10 @@ slug: "vakifbank-biz-muzesi"
 description: "## Vakıfbank B'iz Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.109815297,40.999279865"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-mercan-kapisi"
 description: "## İstanbul Üniversitesi Mercan Kapısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9658604,41.012619"
 draft: "false"
 weight: "999"

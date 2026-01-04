@@ -5,10 +5,10 @@ slug: "alamut-hoyugu"
 description: "## Alamut Höyüğü: Aydın'ın Gizli Arkeolojik Çıkığı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.3076992,37.8033981"
 draft: "false"
 weight: "999"

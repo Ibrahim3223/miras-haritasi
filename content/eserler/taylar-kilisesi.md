@@ -5,10 +5,10 @@ slug: "taylar-kilisesi"
 description: "## Taylar Kilisesi: Ani'nin Gizemli Anıtı..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.6375809,40.5373688"
 draft: "false"
 weight: "999"

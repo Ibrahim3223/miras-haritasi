@@ -5,10 +5,10 @@ slug: "kydramos-tumulus-iii"
 description: "## Kydramos Tümülüs III: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.129975459,37.345799385"
 draft: "false"
 weight: "999"

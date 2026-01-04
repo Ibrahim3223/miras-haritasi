@@ -5,10 +5,10 @@ slug: "sarpdere-koprusu"
 description: "## Sarpdere Köprüsü..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Ulubey"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.741915,40.856226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emir-mirza-bey-turbesi"
 description: "## Emir Mirza Bey Türbesi..."
 featured_image: ""
 province: "Trabzon Vilayeti"
-iller: '["Trabzon Vilayeti"]'
+iller: ["Trabzon Vilayeti"]
 district: "Bafra"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.9259567,41.6102715"
 draft: "false"
 weight: "999"

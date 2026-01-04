@@ -5,10 +5,10 @@ slug: "baggedigi-kalesi-marmaris"
 description: "## Bağgediği Kalesi, Marmaris..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.1340809,36.6579132"
 draft: "false"
 weight: "999"

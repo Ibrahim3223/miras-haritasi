@@ -5,10 +5,10 @@ slug: "ataturk-kitapligi"
 description: "## Atatürk Kitaplığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Atatürk_Kitaplığı_Taksim_İstanbul_3.JPG/1200px-Atatürk_Kitaplığı_Taksim_İstanbul_3.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "28.989466666,41.03915"
 draft: "false"
 weight: "10"

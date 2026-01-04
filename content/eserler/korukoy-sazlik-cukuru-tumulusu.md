@@ -5,10 +5,10 @@ slug: "korukoy-sazlik-cukuru-tumulusu"
 description: "### Koruköy Sazlık Çukuru Tümülüsü: Tarihî ve Kültürel Mirası Tanıyın..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3281574,41.8471794"
 draft: "false"
 weight: "999"

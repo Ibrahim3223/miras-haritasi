@@ -5,10 +5,10 @@ slug: "manavgat-koprusu"
 description: "# Manavgat Köprüsü: Antalya'nın Tarihi ve Mimari Değerleri Arasındaki Bir Örnek..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "31.4479027,36.7870255"
 draft: "false"
 weight: "999"

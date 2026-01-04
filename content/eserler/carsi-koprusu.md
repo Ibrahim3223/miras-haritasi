@@ -5,10 +5,10 @@ slug: "carsi-koprusu"
 description: "## Çarşı Köprüsü: Gümüşhane'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.455494,40.450701"
 draft: "false"
 weight: "999"

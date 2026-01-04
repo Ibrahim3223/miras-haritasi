@@ -5,10 +5,10 @@ slug: "ismet-inonu-lahdi"
 description: "## İsmet İnönü Lahdi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8363419,39.9246292"
 draft: "false"
 weight: "999"

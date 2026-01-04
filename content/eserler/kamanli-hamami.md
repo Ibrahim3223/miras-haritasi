@@ -5,10 +5,10 @@ slug: "kamanli-hamami"
 description: "# Kamanlı Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7772427,38.3218117"
 draft: "false"
 weight: "999"

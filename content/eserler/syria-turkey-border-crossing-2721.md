@@ -5,10 +5,10 @@ slug: "syria-turkey-border-crossing-2721"
 description: "## Suriye - Türkiye Sınır Kapısı #2721: Bir Kervansarayın Gizli Tarihi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "42.185165278,37.290408804"
 draft: "false"
 weight: "999"

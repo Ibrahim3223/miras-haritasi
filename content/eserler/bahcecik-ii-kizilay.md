@@ -5,10 +5,10 @@ slug: "bahcecik-ii-kizilay"
 description: "## Bahçecik II, Kızılay: Odunpazarı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.835967,39.8224"
 draft: "false"
 weight: "999"

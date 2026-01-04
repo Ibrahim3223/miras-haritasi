@@ -5,10 +5,10 @@ slug: "merdivenli-kapi"
 description: "## Merdivenli Kapı: İstanbul'un Tarihî Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.96875,41.0098419"
 draft: "false"
 weight: "999"

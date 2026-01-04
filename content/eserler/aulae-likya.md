@@ -5,10 +5,10 @@ slug: "aulae-likya"
 description: "## Aulae (Likya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.134462,36.760796"
 draft: "false"
 weight: "999"

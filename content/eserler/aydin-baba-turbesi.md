@@ -5,10 +5,10 @@ slug: "aydin-baba-turbesi"
 description: "## Aydın Baba Türbesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.38817,37.056962"
 draft: "false"
 weight: "999"

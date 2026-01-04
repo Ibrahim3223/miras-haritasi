@@ -5,10 +5,10 @@ slug: "mermer-cadde"
 description: "### Mermer Cadde: İzmir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Turkey-2801_(2217172440).jpg/1200px-Turkey-2801_(2217172440).jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.341519037,37.93969961"
 draft: "false"
 weight: "10"

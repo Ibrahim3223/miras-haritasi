@@ -5,10 +5,10 @@ slug: "aya-arseni-manastiri"
 description: "### Aya Arseni Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.8169003,40.1841011"
 draft: "false"
 weight: "999"

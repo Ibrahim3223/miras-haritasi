@@ -5,10 +5,10 @@ slug: "men-tapinagi-side"
 description: "**Men Tapınağı (Side)**..."
 featured_image: ""
 province: "Manavgat (ilçe)"
-iller: '["Manavgat (ilçe)"]'
+iller: ["Manavgat (ilçe)"]
 district: "Side"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.388055555,36.764166666"
 draft: "false"
 weight: "999"

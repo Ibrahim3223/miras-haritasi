@@ -5,10 +5,10 @@ slug: "seyh-muhammed-kesikbas-turbesi"
 description: "### Şeyh Muhammed Kesikbaş Türbesi: Cizre'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Şırnak"
-iller: '["Şırnak"]'
+iller: ["Şırnak"]
 district: "Cizre"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.1878433,37.3243332"
 draft: "false"
 weight: "999"

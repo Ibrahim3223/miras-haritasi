@@ -5,10 +5,10 @@ slug: "yahya-tevfik-efendi-medresesi"
 description: "## Yahya Tevfik Efendi Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.946089,41.022331"
 draft: "false"
 weight: "999"

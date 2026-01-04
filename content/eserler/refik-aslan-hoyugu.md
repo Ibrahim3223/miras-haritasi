@@ -5,10 +5,10 @@ slug: "refik-aslan-hoyugu"
 description: "## Refik Aslan Höyüğü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8893089,38.7932663"
 draft: "false"
 weight: "999"

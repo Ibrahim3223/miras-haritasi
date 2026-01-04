@@ -5,10 +5,10 @@ slug: "tuse"
 description: "## Tüse: Kaş'ın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.751492,36.267252"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yagcili-b-tumulusu"
 description: "# Yağcılı B Tümülüsü: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8398323,41.7814026"
 draft: "false"
 weight: "999"

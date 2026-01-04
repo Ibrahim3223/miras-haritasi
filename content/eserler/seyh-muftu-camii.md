@@ -5,10 +5,10 @@ slug: "seyh-muftu-camii"
 description: "## Şeyh Müftü Camii: Bursa'nın Gizli Çehresinde Bir Önemli Eser..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mustafakemalpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4104137,40.0350761"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sofular-hoyuk-bala"
 description: "# Sofular Höyük, Bala: Tarihin Eski Kenti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Balâ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.1223335,39.2602654"
 draft: "false"
 weight: "999"

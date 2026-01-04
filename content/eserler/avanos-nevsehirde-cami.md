@@ -5,10 +5,10 @@ slug: "avanos-nevsehirde-cami"
 description: "# Avanos, Nevşehir'de Bir Cami: Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6c/%C5%9Eairler.png"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8473,38.7191"
 draft: "false"
 weight: "999"

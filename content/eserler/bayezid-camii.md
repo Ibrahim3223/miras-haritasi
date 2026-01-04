@@ -5,10 +5,10 @@ slug: "bayezid-camii"
 description: "## Bayezid Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/İstanbul_5054.jpg/1200px-İstanbul_5054.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.965277777,41.010277777"
 draft: "false"
 weight: "10"

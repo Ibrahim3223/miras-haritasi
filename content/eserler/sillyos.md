@@ -5,10 +5,10 @@ slug: "sillyos"
 description: "## Sillyos Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.058959,38.501299"
 draft: "false"
 weight: "999"

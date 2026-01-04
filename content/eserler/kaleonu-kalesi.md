@@ -5,10 +5,10 @@ slug: "kaleonu-kalesi"
 description: "### Kaleönü Kalesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Fatsa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.4672928,41.0091019"
 draft: "false"
 weight: "999"

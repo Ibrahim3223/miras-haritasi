@@ -5,10 +5,10 @@ slug: "taskemer-koprusu-4"
 description: "### Taşkemer Köprüsü 4 - Yatağan, Muğla..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.9531345,37.3029213"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tahir-pasa-konagi-kent-muzesi"
 description: "## Tahir Paşa Konağı Kent Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.881815,40.376334"
 draft: "false"
 weight: "999"

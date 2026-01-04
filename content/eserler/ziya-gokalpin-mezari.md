@@ -5,10 +5,10 @@ slug: "ziya-gokalpin-mezari"
 description: "# Ziya Gökalp'in Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9728528,41.0086872"
 draft: "false"
 weight: "999"

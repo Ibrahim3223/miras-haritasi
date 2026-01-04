@@ -5,10 +5,10 @@ slug: "zulfikar-kilic-arslan-camii"
 description: "# Zülfikar Kılıç Arslan Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Nevşehir_Zülfikar_Kılıç_Arslan_mosque_in_2011_9854.jpg/1200px-Nevşehir_Zülfikar_Kılıç_Arslan_mosque_in_2011_9854.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7131793,38.620548079"
 draft: "false"
 weight: "10"

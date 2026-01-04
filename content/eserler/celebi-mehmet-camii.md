@@ -5,10 +5,10 @@ slug: "celebi-mehmet-camii"
 description: "## Çelebi Mehmet Camii: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8678741,39.9311295"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bademli-camii"
 description: "# Bademli Camii: Dinar'ın Gizli İncisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Bademli%2C_Dikili.jpg"
 province: "Dinar ilçesi"
-iller: '["Dinar ilçesi"]'
+iller: ["Dinar ilçesi"]
 district: "Dinar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.0851002,37.9653015"
 draft: "false"
 weight: "999"

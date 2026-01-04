@@ -5,10 +5,10 @@ slug: "pitane-antik-tiyatrosu"
 description: "### Pitane Antik Tiyatrosu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "26.9379387,38.9299812"
 draft: "false"
 weight: "999"

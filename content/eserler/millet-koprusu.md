@@ -5,10 +5,10 @@ slug: "millet-koprusu"
 description: "### Millet Köprüsü..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Haliliye"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.7872963,37.1566658"
 draft: "false"
 weight: "999"

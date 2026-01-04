@@ -5,10 +5,10 @@ slug: "samsa-cavus-camii"
 description: "## Samsa Çavuş Camii: Bolu'nun Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0100861,40.4942055"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yenimahalle-sinagogu"
 description: "### Yenimahalle Sinagogu: İstanbul'un Gizli Tarihi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "29.0256424,41.0529823"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "turkobasi-hoyuktepe-tumulusu"
 description: "## Türkobası Höyüktepe Tümülüsü: Edirne'nin Gizli Anıtı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.6186752,41.0899734"
 draft: "false"
 weight: "999"

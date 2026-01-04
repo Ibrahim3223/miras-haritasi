@@ -5,10 +5,10 @@ slug: "baskaya-karemis-koprusu"
 description: "## Başkaya-Karemiş Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Hemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.8932333,41.0677333"
 draft: "false"
 weight: "999"

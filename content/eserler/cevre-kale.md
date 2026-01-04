@@ -5,10 +5,10 @@ slug: "cevre-kale"
 description: "### Çevre Kale: Konya'nın Gizli Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Kulu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "32.907093,39.1803513"
 draft: "false"
 weight: "999"

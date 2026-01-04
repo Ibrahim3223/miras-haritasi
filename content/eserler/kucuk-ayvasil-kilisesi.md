@@ -5,10 +5,10 @@ slug: "kucuk-ayvasil-kilisesi"
 description: "## Küçük Ayvasıl Kilisesi: Tarih, Mimarlık ve Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Müqəddəs_Anna_kilsəsi_Trabzon_(1).jpg/1200px-Müqəddəs_Anna_kilsəsi_Trabzon_(1).jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "39.7233,41.0061"
 draft: "false"
 weight: "10"

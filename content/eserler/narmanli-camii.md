@@ -5,10 +5,10 @@ slug: "narmanli-camii"
 description: "## Narmanlı Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Erzurum_Narmanlı_Camii.jpg/1200px-Erzurum_Narmanlı_Camii.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.27975,39.905916666"
 draft: "false"
 weight: "10"

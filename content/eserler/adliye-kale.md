@@ -5,10 +5,10 @@ slug: "adliye-kale"
 description: "## Adliye Kale..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Geyve"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.3591309,40.6522522"
 draft: "false"
 weight: "999"

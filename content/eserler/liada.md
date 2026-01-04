@@ -5,10 +5,10 @@ slug: "liada"
 description: "## Liada: İznik'in Gizli Mimari Harikası..."
 featured_image: ""
 province: "İznik (ilçe)"
-iller: '["İznik (ilçe)"]'
+iller: ["İznik (ilçe)"]
 district: "Sarıağıl"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.668747,40.559956"
 draft: "false"
 weight: "999"

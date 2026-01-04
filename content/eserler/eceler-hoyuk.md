@@ -5,10 +5,10 @@ slug: "eceler-hoyuk"
 description: "# Eceler Höyük: Muğla'nın Gizli Kahramanı..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.636977,36.814482"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "abdullah-ve-abdulkerim-dede-turbesi"
 description: "## Abdullah ve Abdülkerim Dede Türbesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.9170341,39.9361725"
 draft: "false"
 weight: "999"

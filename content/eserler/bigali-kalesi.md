@@ -5,10 +5,10 @@ slug: "bigali-kalesi"
 description: "### Bigalı Kalesi: Eceabat'ta Gizli Bir Geçmişi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.389263,40.213398"
 draft: "false"
 weight: "999"

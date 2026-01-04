@@ -5,10 +5,10 @@ slug: "cihanbegendi-kahvesi-mescidi-karabaglar-yaylasi"
 description: "**Cihanbeğendi Kahvesi Mescidi, Karabağlar Yaylası**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3951206,37.1863556"
 draft: "false"
 weight: "999"

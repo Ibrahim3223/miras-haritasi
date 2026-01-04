@@ -5,10 +5,10 @@ slug: "kuriki-hoyuk"
 description: "**Kuriki Höyük: Batman'ın Gizli Kahramanı**..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Batman"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.0127563,37.7912598"
 draft: "false"
 weight: "999"

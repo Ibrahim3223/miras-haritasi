@@ -5,10 +5,10 @@ slug: "seyyid-battal-gazi-turbesi"
 description: "## Seyyid Battal Gazi Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Seyit_Battal_Gazi_Türbesi_önden.jpg/1200px-Seyit_Battal_Gazi_Türbesi_önden.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.694539,39.442082"
 draft: "false"
 weight: "10"

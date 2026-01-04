@@ -5,10 +5,10 @@ slug: "alaaddin-savci-bey-turbesi-niksar"
 description: "### Alaaddin Savcı Bey Türbesi, Niksar..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Niksar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.9643974,40.5910225"
 draft: "false"
 weight: "999"

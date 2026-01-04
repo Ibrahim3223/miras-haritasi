@@ -5,10 +5,10 @@ slug: "turkgozu-sinir-kapisi"
 description: "## Türkgözü Sınır Kapısı: Tarihi ve Mimari Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Türkgözü_Sınır_Kapısı.jpg/1200px-Türkgözü_Sınır_Kapısı.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "42.818333333,41.587777777"
 draft: "false"
 weight: "10"

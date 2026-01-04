@@ -5,10 +5,10 @@ slug: "bitlis-etnografya-muzesi"
 description: "## Bitlis Etnografya Müzesi..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Bitlis"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "42.109918,38.408967"
 draft: "false"
 weight: "999"

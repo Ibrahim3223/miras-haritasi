@@ -5,10 +5,10 @@ slug: "perge-demetrius-apollonios-taki"
 description: "### Perge Demetrius Apollonios Takı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Aksu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.8547974,36.9651222"
 draft: "false"
 weight: "999"

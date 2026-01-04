@@ -5,10 +5,10 @@ slug: "beikta-palace"
 description: "## Beșiktaș Palace: Istanbul'un Gizli Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Saray"
-turler: '["Saray"]'
+turler: ["Saray"]
 coords: ""
 draft: "false"
 weight: "999"

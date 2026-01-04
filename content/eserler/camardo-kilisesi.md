@@ -5,10 +5,10 @@ slug: "camardo-kilisesi"
 description: "## Çamardo Kilisesi: Tarihi ve Kültürel Mirasın İyice Tanımlanması..."
 featured_image: ""
 province: "Çıldır"
-iller: '["Çıldır"]'
+iller: ["Çıldır"]
 district: "Akdarı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.152083333,41.278722222"
 draft: "false"
 weight: "999"

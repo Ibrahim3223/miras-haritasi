@@ -5,10 +5,10 @@ slug: "seyhan-viyadugu"
 description: "## Seyhan Viyadüğü: Güneydoğu Anadolu'nun Tarihi Köprüsü..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.1927,37.0127"
 draft: "false"
 weight: "999"

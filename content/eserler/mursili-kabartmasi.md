@@ -5,10 +5,10 @@ slug: "mursili-kabartmasi"
 description: "## Murşili Kabartması..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sirkeli_entferntes_Relief1.jpg/1200px-Sirkeli_entferntes_Relief1.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

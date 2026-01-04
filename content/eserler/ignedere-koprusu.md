@@ -5,10 +5,10 @@ slug: "ignedere-koprusu"
 description: "## İğnedere Köprüsü: Menemen'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.1591682,38.6564598"
 draft: "false"
 weight: "999"

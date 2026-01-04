@@ -5,10 +5,10 @@ slug: "roma-koprusu-incesirt"
 description: "## Roma Köprüsü, İncesırt..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.598949,41.940159"
 draft: "false"
 weight: "999"

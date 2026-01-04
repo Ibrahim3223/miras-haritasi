@@ -5,10 +5,10 @@ slug: "ukkase-turbesi"
 description: "## Ukkaşe Türbesi: Gaziantep'in Gizli Cenneti..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "36.837982706,37.080362233"
 draft: "false"
 weight: "999"

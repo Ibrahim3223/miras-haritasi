@@ -5,10 +5,10 @@ slug: "saracin-turbesi"
 description: "## Saracın Türbesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "38.118721,39.3709564"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "namazgah-tepe-kabristani"
 description: "### Namazgah Tepe Kabristanı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.854406974,39.93282578"
 draft: "false"
 weight: "999"

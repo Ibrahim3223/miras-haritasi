@@ -5,10 +5,10 @@ slug: "ginc-kalesi"
 description: "## Ginc Kalesi: Bingöl'ün Tarihi Mirası..."
 featured_image: ""
 province: "Bingöl"
-iller: '["Bingöl"]'
+iller: ["Bingöl"]
 district: "Solhan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.0533981,38.7967949"
 draft: "false"
 weight: "999"

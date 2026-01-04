@@ -5,10 +5,10 @@ slug: "manatli-kilisesi"
 description: "### Manatlı Kilisesi: Torul'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.4997902,40.5855026"
 draft: "false"
 weight: "999"

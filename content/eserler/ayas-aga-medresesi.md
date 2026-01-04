@@ -5,10 +5,10 @@ slug: "ayas-aga-medresesi"
 description: "### Ayas Ağa Medresesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.8330421,40.6588593"
 draft: "false"
 weight: "999"

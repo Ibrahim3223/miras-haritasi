@@ -5,10 +5,10 @@ slug: "alcitepe-sehitligi"
 description: "## Alçıtepe Şehitliği..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2330647,40.0965309"
 draft: "false"
 weight: "999"

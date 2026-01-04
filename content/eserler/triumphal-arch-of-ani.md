@@ -5,10 +5,10 @@ slug: "triumphal-arch-of-ani"
 description: "# Triumphal Arch of Ani: Erzurum'a Kadar Uzanan Tarih..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahuban-camii"
 description: "## Şahuban Camii: Gölmarmara'nın İhtişamlı Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gölmarmara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.9164429,38.7078438"
 draft: "false"
 weight: "999"

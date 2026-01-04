@@ -5,10 +5,10 @@ slug: "surp-garabed-ermeni-kilisesi"
 description: "### Surp Garabed Ermeni Kilisesi..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Hafik"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "37.3383331,39.7532616"
 draft: "false"
 weight: "999"

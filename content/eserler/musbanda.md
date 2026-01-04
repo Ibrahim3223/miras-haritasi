@@ -5,10 +5,10 @@ slug: "musbanda"
 description: "## Musbanda: Karaman'ın Gizli Anıtı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.564022,36.540522"
 draft: "false"
 weight: "999"

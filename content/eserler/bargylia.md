@@ -5,10 +5,10 @@ slug: "bargylia"
 description: "## Bargylia..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fluted_columns_at_Bargylia.jpg/1200px-Fluted_columns_at_Bargylia.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.5755,37.2"
 draft: "false"
 weight: "10"

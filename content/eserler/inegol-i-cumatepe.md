@@ -5,10 +5,10 @@ slug: "inegol-i-cumatepe"
 description: "## İnegöl I, Cumatepe Arkeolojik Sit..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İnegöl"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.510233,40.079883"
 draft: "false"
 weight: "999"

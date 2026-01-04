@@ -5,10 +5,10 @@ slug: "seyh-vefa-camii"
 description: "## Şeyh Vefa Camii: Fatih'in Gizli Çehresinde Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Shaykh_Ebu'l_Vefa_Mosque_01.jpg/1200px-Shaykh_Ebu'l_Vefa_Mosque_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9596119,41.0170135"
 draft: "false"
 weight: "10"

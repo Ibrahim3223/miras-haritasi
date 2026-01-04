@@ -5,10 +5,10 @@ slug: "nyssa"
 description: "# Nyssa Arkeolojik Sit..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.959229,38.954295"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yavukluoglu-camii-tire"
 description: "## Yavukluoğlu Camii: Tire'nin Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7263737,38.0807114"
 draft: "false"
 weight: "999"

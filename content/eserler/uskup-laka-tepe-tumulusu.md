@@ -5,10 +5,10 @@ slug: "uskup-laka-tepe-tumulusu"
 description: "### Üsküp Laka Tepe Tümülüsü: Kırklareli'nin Gizli Kahramanları..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4190102,41.7656441"
 draft: "false"
 weight: "999"

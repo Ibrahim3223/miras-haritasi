@@ -5,10 +5,10 @@ slug: "aperlae"
 description: "### Aperlae: Antik Çağın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Lykischer_Sarkophag.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Antalya"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.78361111,36.15861111"
 draft: "false"
 weight: "999"

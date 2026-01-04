@@ -5,10 +5,10 @@ slug: "sumela-manastiri"
 description: "## Sümela Manastırı: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Sümela_Manastır.jpg/1200px-Sümela_Manastır.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Maçka"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.65833333,40.69"
 draft: "false"
 weight: "1"

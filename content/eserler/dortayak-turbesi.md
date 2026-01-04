@@ -5,10 +5,10 @@ slug: "dortayak-turbesi"
 description: "### Dörtayak Türbesi: Niğde'nin Gizli Öztürkleri..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.675721,37.973441"
 draft: "false"
 weight: "999"

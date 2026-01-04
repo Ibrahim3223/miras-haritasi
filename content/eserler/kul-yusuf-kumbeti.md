@@ -5,10 +5,10 @@ slug: "kul-yusuf-kumbeti"
 description: "## Kul Yusuf Kümbeti: Iğdır'ın Gizli Şehri..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Sürmeli uyezdi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "44.0711288,40.0202713"
 draft: "false"
 weight: "999"

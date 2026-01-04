@@ -5,10 +5,10 @@ slug: "yedek-camii"
 description: "## Yedek Camii: Develi'nin Değerli Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.492856304,38.359360468"
 draft: "false"
 weight: "999"

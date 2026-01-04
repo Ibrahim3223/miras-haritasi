@@ -5,10 +5,10 @@ slug: "milet-aziz-mihail-kilisesi-ve-dionysos-tapinagi"
 description: "## Milet Aziz Mihail Kilisesi ve Dionysos Tapınağı..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.2783909,37.5297279"
 draft: "false"
 weight: "999"

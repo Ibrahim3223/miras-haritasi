@@ -5,10 +5,10 @@ slug: "avcala-kalesi"
 description: "## Avçala Kalesi: Oltu'da Bir Tarihî Eğlence Merkezi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Oltu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.1555,40.679111111"
 draft: "false"
 weight: "999"

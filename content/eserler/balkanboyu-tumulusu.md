@@ -5,10 +5,10 @@ slug: "balkanboyu-tumulusu"
 description: "## Balkanboyu Tümülüsü: Vize'de Gizlenen Tarihî Miras..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.818161,41.5583"
 draft: "false"
 weight: "999"

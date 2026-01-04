@@ -5,10 +5,10 @@ slug: "tavsancil-merkez-cami"
 description: "### Tavşancıl Merkez Cami: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Dilovası"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.5748138,40.7723465"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kudbeddin-dede-turbesi"
 description: "## Kudbeddin Dede Türbesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.5352001,39.4487"
 draft: "false"
 weight: "999"

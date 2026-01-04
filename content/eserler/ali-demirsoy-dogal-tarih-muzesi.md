@@ -5,10 +5,10 @@ slug: "ali-demirsoy-dogal-tarih-muzesi"
 description: "## Ali Demirsoy Doğal Tarih Müzesi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Kemaliye"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.4975,39.260833333"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ortakoy-camii-mamak"
 description: "## Ortaköy Camii: Mamak'taki Bir Önemli Cami..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.021055733,39.930813161"
 draft: "false"
 weight: "999"

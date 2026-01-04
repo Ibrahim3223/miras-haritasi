@@ -5,10 +5,10 @@ slug: "catal-cesme-camii"
 description: "## Çatal Çeşme Camii: Kütahya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9697304,39.4155388"
 draft: "false"
 weight: "999"

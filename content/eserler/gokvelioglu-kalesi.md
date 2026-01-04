@@ -5,10 +5,10 @@ slug: "gokvelioglu-kalesi"
 description: "### Gökvelioğlu Kalesi: Adana'nın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gökvelioglu3.jpg/1200px-Gökvelioglu3.jpg"
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: ""
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.60833333,36.84472222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ali-kuscu-camii"
 description: "## Ali Kuşçu Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ali_Kuşçu_Cami.jpg/1200px-Ali_Kuşçu_Cami.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.745583349,41.253636917"
 draft: "false"
 weight: "10"

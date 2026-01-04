@@ -5,10 +5,10 @@ slug: "imaret-tepe-sehitligi-bayburt"
 description: "## İmaret Tepe Şehitliği: Bayburt'un Anıt Yeri..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.224744,40.254537"
 draft: "false"
 weight: "999"

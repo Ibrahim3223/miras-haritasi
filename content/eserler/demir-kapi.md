@@ -5,10 +5,10 @@ slug: "demir-kapi"
 description: "## Demir Kapı: Fatih'te Bir Anıtsal Yapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9798698,41.0148659"
 draft: "false"
 weight: "999"

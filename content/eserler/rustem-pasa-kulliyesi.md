@@ -5,10 +5,10 @@ slug: "rustem-pasa-kulliyesi"
 description: "## Rüstem Paşa Külliyesi: Tekirdağ'ın Tarihi Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Edirne Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.5163,40.9777"
 draft: "false"
 weight: "999"

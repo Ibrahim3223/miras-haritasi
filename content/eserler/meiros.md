@@ -5,10 +5,10 @@ slug: "meiros"
 description: "### Meiros Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.376179,39.2051885"
 draft: "false"
 weight: "999"

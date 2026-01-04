@@ -5,10 +5,10 @@ slug: "aya-nikola-manastiri-buyukada"
 description: "### Aya Nikola Manastırı (Büyükada)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.1234798,40.8548241"
 draft: "false"
 weight: "999"

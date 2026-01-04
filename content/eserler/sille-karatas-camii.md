@@ -5,10 +5,10 @@ slug: "sille-karatas-camii"
 description: "### Sille Karataş Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4150391,37.928936"
 draft: "false"
 weight: "999"

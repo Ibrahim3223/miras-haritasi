@@ -5,10 +5,10 @@ slug: "seyh-mansuri-camii"
 description: "### Giriş..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.736092,37.325847"
 draft: "false"
 weight: "999"

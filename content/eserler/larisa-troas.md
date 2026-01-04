@@ -5,10 +5,10 @@ slug: "larisa-troas"
 description: "## Larisa (Troas): Tarihî Bir Mirasın İzleri..."
 featured_image: ""
 province: "Ayvacık (Çanakkale ilçesi)"
-iller: '["Ayvacık (Çanakkale ilçesi)"]'
+iller: ["Ayvacık (Çanakkale ilçesi)"]
 district: "Kösedere"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.14527778,39.61527778"
 draft: "false"
 weight: "999"

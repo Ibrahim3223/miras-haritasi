@@ -5,10 +5,10 @@ slug: "stektorium"
 description: "## Stektorium: Antik Dönemin Gizemli Katedrali..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.14376,38.33261"
 draft: "false"
 weight: "999"

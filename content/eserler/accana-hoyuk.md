@@ -5,10 +5,10 @@ slug: "accana-hoyuk"
 description: "## Aççana Höyük: Hatay'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Archaeological_site_of_Alalakh_(Tell_Atchana).JPG/1200px-Archaeological_site_of_Alalakh_(Tell_Atchana).JPG"
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "36.384722222,36.237777777"
 draft: "false"
 weight: "10"

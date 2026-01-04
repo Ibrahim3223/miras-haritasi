@@ -5,10 +5,10 @@ slug: "seraceddin-medresesi"
 description: "## Seraceddin Medresesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "35.4924393,38.7199898"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pigela-likya"
 description: "### Likya'nın Gizli Şehri: Pigela..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.332,36.455"
 draft: "false"
 weight: "999"

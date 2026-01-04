@@ -5,10 +5,10 @@ slug: "veli-semseddin-camii"
 description: "### Veli Şemseddin Camii..."
 featured_image: ""
 province: "Orhangazi (ilçe)"
-iller: '["Orhangazi (ilçe)"]'
+iller: ["Orhangazi (ilçe)"]
 district: "Maksem"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.063055,40.1801071"
 draft: "false"
 weight: "999"

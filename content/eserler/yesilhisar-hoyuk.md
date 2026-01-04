@@ -5,10 +5,10 @@ slug: "yesilhisar-hoyuk"
 description: "### Yeşilhisar Höyük: Boğazlıyan'ın Gizli Şehri..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.1480236,39.1992238"
 draft: "false"
 weight: "999"

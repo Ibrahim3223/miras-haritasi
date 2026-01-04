@@ -5,10 +5,10 @@ slug: "sillyon-antik-tiyatrosu"
 description: "## Sillyon Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Sillyon_Antik_Tiyatrosu.jpg/1200px-Sillyon_Antik_Tiyatrosu.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.987437,36.990319"
 draft: "false"
 weight: "10"

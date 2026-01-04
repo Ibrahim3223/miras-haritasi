@@ -5,10 +5,10 @@ slug: "eukarpia"
 description: "## Eukarpia Arkeolojik Sit..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.119166666,38.4725"
 draft: "false"
 weight: "999"

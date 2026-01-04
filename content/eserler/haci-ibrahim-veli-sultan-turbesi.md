@@ -5,10 +5,10 @@ slug: "haci-ibrahim-veli-sultan-turbesi"
 description: "## Hacı İbrahim Veli Sultan Türbesi: Akşehir'in Şifalı Sultansı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.424235,38.413976"
 draft: "false"
 weight: "999"

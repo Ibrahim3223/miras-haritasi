@@ -5,10 +5,10 @@ slug: "sultan-alaaddin-turbesi"
 description: "## Sultan Alaaddin Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0461903,40.1905518"
 draft: "false"
 weight: "999"

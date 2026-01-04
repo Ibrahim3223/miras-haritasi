@@ -5,10 +5,10 @@ slug: "manisa-ulu-cami-medresesi"
 description: "## Manisa Ulu Cami Medresesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.4299507,38.6081085"
 draft: "false"
 weight: "999"

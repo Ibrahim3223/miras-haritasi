@@ -5,10 +5,10 @@ slug: "ignedere-camii"
 description: "## İğnedere Camii..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1589642,38.6562157"
 draft: "false"
 weight: "999"

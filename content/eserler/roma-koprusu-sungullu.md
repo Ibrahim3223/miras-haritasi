@@ -5,10 +5,10 @@ slug: "roma-koprusu-sungullu"
 description: "## Roma Köprüsü, Süngüllü..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.308146,38.869461"
 draft: "false"
 weight: "999"

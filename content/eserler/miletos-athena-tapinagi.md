@@ -5,10 +5,10 @@ slug: "miletos-athena-tapinagi"
 description: "### Miletos Athena Tapınağı: İyonya'nın Gizemi..."
 featured_image: ""
 province: "İyonya"
-iller: '["İyonya"]'
+iller: ["İyonya"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.271666666,37.528333333"
 draft: "false"
 weight: "999"

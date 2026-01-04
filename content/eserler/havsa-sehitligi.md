@@ -5,10 +5,10 @@ slug: "havsa-sehitligi"
 description: "## Havsa Şehitliği..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.8513699,41.5400047"
 draft: "false"
 weight: "999"

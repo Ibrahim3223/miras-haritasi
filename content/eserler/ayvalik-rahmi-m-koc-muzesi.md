@@ -5,10 +5,10 @@ slug: "ayvalik-rahmi-m-koc-muzesi"
 description: "## Ayvalık Rahmi M. Koç Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.6932735,39.3231392"
 draft: "false"
 weight: "999"

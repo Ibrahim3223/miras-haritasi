@@ -5,10 +5,10 @@ slug: "alibey"
 description: "## Alibey Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Alibey_River_%282%29.jpg"
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.159367,39.078767"
 draft: "false"
 weight: "999"

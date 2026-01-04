@@ -5,10 +5,10 @@ slug: "xanthos-antik-tiyatrosu"
 description: "## Xanthos Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Xanthos_theater_by_schopar_2.jpg/1200px-Xanthos_theater_by_schopar_2.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.318262,36.356552"
 draft: "false"
 weight: "10"

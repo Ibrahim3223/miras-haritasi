@@ -5,10 +5,10 @@ slug: "havza-ataturk-evi"
 description: "## Havza Atatürk Evi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Havza"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "35.658821,40.97062"
 draft: "false"
 weight: "999"

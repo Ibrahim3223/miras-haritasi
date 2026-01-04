@@ -5,10 +5,10 @@ slug: "tymnos"
 description: "### Tymnos: Marmaris'in Gizli Şehri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.062243,36.690466"
 draft: "false"
 weight: "999"

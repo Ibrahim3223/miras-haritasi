@@ -5,10 +5,10 @@ slug: "mukaddem-dede-turbesi"
 description: "## Mukaddem Dede Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.9277382,36.3711048"
 draft: "false"
 weight: "999"

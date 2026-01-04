@@ -5,10 +5,10 @@ slug: "ihsaniye-camii-seferihisar"
 description: "## İhsaniye Camii Hakkında Bilgi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8095169,38.2744904"
 draft: "false"
 weight: "999"

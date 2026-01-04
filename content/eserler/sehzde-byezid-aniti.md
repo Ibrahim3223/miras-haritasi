@@ -5,10 +5,10 @@ slug: "sehzde-byezid-aniti"
 description: "## Şehzâde Bâyezid Anıtı..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8407936,40.6532059"
 draft: "false"
 weight: "999"

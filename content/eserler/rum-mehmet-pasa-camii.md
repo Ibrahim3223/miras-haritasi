@@ -5,10 +5,10 @@ slug: "rum-mehmet-pasa-camii"
 description: "### Rum Mehmet Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Rum_Mehmed_Pasha_Mosque,_Üsküdar.jpg/1200px-Rum_Mehmed_Pasha_Mosque,_Üsküdar.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.010859,41.024651"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bulanik-koyu-camii"
 description: "## Bulanık Köyü Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Ardanuç"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.176541,41.060246"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-hamidi-turbesi"
 description: "### Şeyh Hamidi Türbesi: Mardin'in Kutsal Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.956499453,37.179387403"
 draft: "false"
 weight: "999"

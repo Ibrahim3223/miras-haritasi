@@ -5,10 +5,10 @@ slug: "haci-bekts-i-vel-muzesi"
 description: "### Hacı Bektâş-ı Velî Müzesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.562643,38.942114"
 draft: "false"
 weight: "999"

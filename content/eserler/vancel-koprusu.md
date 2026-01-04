@@ -5,10 +5,10 @@ slug: "vancel-koprusu"
 description: "# Vancel Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "İkizdere"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.47475,40.819033"
 draft: "false"
 weight: "999"

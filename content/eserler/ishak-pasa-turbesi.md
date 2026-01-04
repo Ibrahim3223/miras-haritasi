@@ -5,10 +5,10 @@ slug: "ishak-pasa-turbesi"
 description: "## İshak Paşa Türbesi: Karatay, Konya'daki Bir Geçmiş Gizem..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.4976845,37.8739319"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sari-yakup-turbesi"
 description: "### Sarı Yakup Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.502318,37.863862"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "evangelistria-manastiri"
 description: "## Evangelistria Manastırı: Ayvalık'ta Bir Azizlik Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "26.688951,39.334462"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "simav-ulu-cami"
 description: "## Simav Ulu Camii: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Simav"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.976972222,39.0855"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zeki-muren-sanat-muzesi"
 description: "## Zeki Müren Sanat Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Zeki_Müren_Sanat_Müzesi_04.jpg/1200px-Zeki_Müren_Sanat_Müzesi_04.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.4398289,37.0302582"
 draft: "false"
 weight: "10"

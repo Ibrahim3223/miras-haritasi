@@ -5,10 +5,10 @@ slug: "minnetler-yukari-tumulus"
 description: "## Minnetler Yukarı Tümülüs..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0013542,41.4231529"
 draft: "false"
 weight: "999"

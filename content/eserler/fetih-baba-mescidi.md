@@ -5,10 +5,10 @@ slug: "fetih-baba-mescidi"
 description: "## Fetih Baba Mescidi..."
 featured_image: ""
 province: "Sinop"
-iller: '["Sinop"]'
+iller: ["Sinop"]
 district: "Sinop"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1505623,42.0265121"
 draft: "false"
 weight: "999"

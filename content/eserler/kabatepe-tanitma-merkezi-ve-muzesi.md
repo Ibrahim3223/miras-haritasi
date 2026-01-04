@@ -5,10 +5,10 @@ slug: "kabatepe-tanitma-merkezi-ve-muzesi"
 description: "## Kabatepe Tanıtma Merkezi Ve Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.281231,40.206794"
 draft: "false"
 weight: "999"

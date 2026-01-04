@@ -5,10 +5,10 @@ slug: "arnavutkoy-tahsiarhis-rum-kilisesi"
 description: "## Arnavutköy Tahsisarhis Rum Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Church_of_Hagia_Strati_in_Arnavutköy_Front.jpg/1200px-Church_of_Hagia_Strati_in_Arnavutköy_Front.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.04333333,41.06805556"
 draft: "false"
 weight: "10"

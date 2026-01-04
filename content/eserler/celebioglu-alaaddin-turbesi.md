@@ -5,10 +5,10 @@ slug: "celebioglu-alaaddin-turbesi"
 description: "**Çelebioğlu Alaaddin Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9701672,41.0155029"
 draft: "false"
 weight: "999"

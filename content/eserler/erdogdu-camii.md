@@ -5,10 +5,10 @@ slug: "erdogdu-camii"
 description: "**Erdoğdu Camii**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7123718,41.0009804"
 draft: "false"
 weight: "999"

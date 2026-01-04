@@ -5,10 +5,10 @@ slug: "dioclea-frigya"
 description: "## Dioclea (Frigya) Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.88814,38.6638015"
 draft: "false"
 weight: "999"

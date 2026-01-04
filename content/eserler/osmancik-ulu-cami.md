@@ -5,10 +5,10 @@ slug: "osmancik-ulu-cami"
 description: "## Osmancık Ulu Cami: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Osmancık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.7981987,40.9725075"
 draft: "false"
 weight: "999"

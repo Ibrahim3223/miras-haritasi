@@ -5,10 +5,10 @@ slug: "dibek-camii"
 description: "### Dibek Camii: Fatih'teki Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9435921,41.0181999"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "boztepe-arkeolojik-yerlesimi-cine"
 description: "## Boztepe Arkeolojik Yerleşimi: Aydın'ın Gizli Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0078201,37.7128563"
 draft: "false"
 weight: "999"

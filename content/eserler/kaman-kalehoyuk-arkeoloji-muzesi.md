@@ -5,10 +5,10 @@ slug: "kaman-kalehoyuk-arkeoloji-muzesi"
 description: "## Kaman Kalehöyük Arkeoloji Müzesi..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Kaman"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7913399,39.34589"
 draft: "false"
 weight: "999"

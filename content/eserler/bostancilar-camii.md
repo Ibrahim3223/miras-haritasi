@@ -5,10 +5,10 @@ slug: "bostancilar-camii"
 description: "## Bostancılar Camii: Artvin'in Gizli Cenneti..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5349999,40.9627"
 draft: "false"
 weight: "999"

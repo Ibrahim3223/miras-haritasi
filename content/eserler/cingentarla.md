@@ -5,10 +5,10 @@ slug: "cingentarla"
 description: "**Çingentarla: Burhaniye'nin Eski Uygarlığının Mirası**..."
 featured_image: ""
 province: "Burhaniye (ilçe)"
-iller: '["Burhaniye (ilçe)"]'
+iller: ["Burhaniye (ilçe)"]
 district: "Burhaniye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.9777012,39.4154854"
 draft: "false"
 weight: "999"

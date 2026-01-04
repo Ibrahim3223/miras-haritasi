@@ -5,10 +5,10 @@ slug: "unur-hoyugu"
 description: "## Ünür Höyüğü: Çankırı'nın Tarihi Gizemi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.0111961,40.5865211"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "azize-euphemia-kilisesi"
 description: "# Azize Euphemia Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.975029,41.007335"
 draft: "false"
 weight: "999"

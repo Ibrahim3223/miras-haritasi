@@ -5,10 +5,10 @@ slug: "buyukada-carsi-camii"
 description: "## Büyükada Çarşı Camii: Adalar'ın Yüzyıllar Öncesi Tarihini Saklayan Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Construction_of_Büyükada_Çarşı_Mosque_20220506.jpg/1200px-Construction_of_Büyükada_Çarşı_Mosque_20220506.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.130010154,40.874699091"
 draft: "false"
 weight: "10"

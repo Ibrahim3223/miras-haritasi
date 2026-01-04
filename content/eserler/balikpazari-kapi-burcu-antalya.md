@@ -5,10 +5,10 @@ slug: "balikpazari-kapi-burcu-antalya"
 description: "**Balıkpazarı Kapı Burcu: Antalya'nın Tarihi Mirası**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.7057247,36.8840828"
 draft: "false"
 weight: "999"

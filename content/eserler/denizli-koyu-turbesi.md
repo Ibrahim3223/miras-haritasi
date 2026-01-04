@@ -5,10 +5,10 @@ slug: "denizli-koyu-turbesi"
 description: "## Denizli Köyü Türbesi: İzmir'in Eski Çağdaki Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.741314,38.381797"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "fatma-sultan-turbesi"
 description: "## Fatma Sultan Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9578094,41.0131836"
 draft: "false"
 weight: "999"

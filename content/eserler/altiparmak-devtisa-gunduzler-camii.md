@@ -5,10 +5,10 @@ slug: "altiparmak-devtisa-gunduzler-camii"
 description: "## Altıparmak Devtisa Gündüzler Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.4876491,40.9596074"
 draft: "false"
 weight: "999"

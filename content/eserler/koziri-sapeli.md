@@ -5,10 +5,10 @@ slug: "koziri-sapeli"
 description: "## Koziri Şapeli: Borçka'nın Gizli Mücevheri..."
 featured_image: ""
 province: "Borçka"
-iller: '["Borçka"]'
+iller: ["Borçka"]
 district: "Aralık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.693227777,41.405238888"
 draft: "false"
 weight: "999"

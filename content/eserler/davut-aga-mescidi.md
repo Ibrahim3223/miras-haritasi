@@ -5,10 +5,10 @@ slug: "davut-aga-mescidi"
 description: "## Davut Ağa Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.931862,41.039489"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yahsibey-koyu-eski-cami"
 description: "### Yahşibey Köyü Eski Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.840681,39.031437"
 draft: "false"
 weight: "999"

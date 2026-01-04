@@ -5,10 +5,10 @@ slug: "kayaburun-koyu-kilisesi"
 description: "## Kayaburun Köyü Kilisesi: Divriği'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Divriği"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "38.0172729,39.2924728"
 draft: "false"
 weight: "999"

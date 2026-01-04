@@ -5,10 +5,10 @@ slug: "garipli-2-hoyuk"
 description: "## Garipli 2 Höyük..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Mucur"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5844078,39.1993519"
 draft: "false"
 weight: "999"

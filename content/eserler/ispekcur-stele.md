@@ -5,10 +5,10 @@ slug: "ispekcur-stele"
 description: "## İspekçür Stele..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Stele_İspekçür_01.jpg/1200px-Stele_İspekçür_01.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: ""
 draft: "false"
 weight: "10"

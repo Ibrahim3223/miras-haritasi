@@ -5,10 +5,10 @@ slug: "yaglioglu-turbesi"
 description: "## Yağlıoğlu Türbesi: Tarihî Bir Anıtın Öyküsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.7464657,38.0914383"
 draft: "false"
 weight: "999"

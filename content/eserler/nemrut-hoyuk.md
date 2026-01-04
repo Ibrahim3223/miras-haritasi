@@ -5,10 +5,10 @@ slug: "nemrut-hoyuk"
 description: "### Nemrut Höyük: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.525698,38.448381"
 draft: "false"
 weight: "999"

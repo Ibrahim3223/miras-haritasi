@@ -5,10 +5,10 @@ slug: "seyh-necmeddin-gayyur-turbesi"
 description: "**Şeyh Necmeddin Gayyur Türbesi**..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Tarsus"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.8916664,36.9143867"
 draft: "false"
 weight: "999"

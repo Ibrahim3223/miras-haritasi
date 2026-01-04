@@ -5,10 +5,10 @@ slug: "karaman-sah-camii"
 description: "## Karaman Şah Camii..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.2123337,37.1830902"
 draft: "false"
 weight: "999"

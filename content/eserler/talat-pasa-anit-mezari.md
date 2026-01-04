@@ -5,10 +5,10 @@ slug: "talat-pasa-anit-mezari"
 description: "# Talat Paşa Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.981515,41.067967"
 draft: "false"
 weight: "999"

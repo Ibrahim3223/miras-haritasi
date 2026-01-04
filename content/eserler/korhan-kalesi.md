@@ -5,10 +5,10 @@ slug: "korhan-kalesi"
 description: "## Korhan Kalesi: Iğdır'ın Gizli Tarihi..."
 featured_image: ""
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: "Sürmeli uyezdi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "44.2501526,39.7954254"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "keltepeler-b-tumulusu"
 description: "## Keltepeler B Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.8373146,41.5374107"
 draft: "false"
 weight: "999"

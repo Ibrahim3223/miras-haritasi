@@ -5,10 +5,10 @@ slug: "ortahisar-camii"
 description: "## Ortahisar Camii: Trabzon'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.719639,41.00466"
 draft: "false"
 weight: "999"

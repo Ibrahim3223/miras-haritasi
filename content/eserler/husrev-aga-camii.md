@@ -5,10 +5,10 @@ slug: "husrev-aga-camii"
 description: "## Hüsrev Ağa Camii..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.4376144,38.6151924"
 draft: "false"
 weight: "999"

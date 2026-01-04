@@ -5,10 +5,10 @@ slug: "marmaris-muzesi"
 description: "### Marmaris Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.274374,36.8506622"
 draft: "false"
 weight: "999"

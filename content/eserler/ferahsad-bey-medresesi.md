@@ -5,10 +5,10 @@ slug: "ferahsad-bey-medresesi"
 description: "## Ferahşad Bey Medresesi: Demirözü'de Bir Kültür Mirası..."
 featured_image: ""
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Demirözü"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "39.7510452,40.133709"
 draft: "false"
 weight: "999"

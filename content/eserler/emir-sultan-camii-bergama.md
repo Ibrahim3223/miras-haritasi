@@ -5,10 +5,10 @@ slug: "emir-sultan-camii-bergama"
 description: "### Emir Sultan Camii (Bergama)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1826,39.1189995"
 draft: "false"
 weight: "999"

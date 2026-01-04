@@ -5,10 +5,10 @@ slug: "yusuf-sinaneddin-turbesi"
 description: "### Yusuf Sinaneddin Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8246155,40.6489716"
 draft: "false"
 weight: "999"

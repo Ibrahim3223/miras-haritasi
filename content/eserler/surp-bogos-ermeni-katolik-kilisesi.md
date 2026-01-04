@@ -5,10 +5,10 @@ slug: "surp-bogos-ermeni-katolik-kilisesi"
 description: "## Surp Boğos Ermeni-Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.04693,41.162255"
 draft: "false"
 weight: "999"

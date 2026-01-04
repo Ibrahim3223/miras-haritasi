@@ -5,10 +5,10 @@ slug: "karasu-kucukdere-koprusu"
 description: "## Karasu Küçükdere Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.562267,40.898933"
 draft: "false"
 weight: "999"

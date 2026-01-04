@@ -5,10 +5,10 @@ slug: "savi-hoyuk"
 description: "## Savi Höyük: Şanlıurfa'nın Gizli Çanak Çömleği..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Birecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0105339,36.9417263"
 draft: "false"
 weight: "999"

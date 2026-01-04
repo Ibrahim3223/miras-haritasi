@@ -5,10 +5,10 @@ slug: "koprubasi-koyu-camii"
 description: "## Köprübaşı Köyü Camii..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.00947214,41.072840269"
 draft: "false"
 weight: "999"

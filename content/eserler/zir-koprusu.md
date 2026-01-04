@@ -5,10 +5,10 @@ slug: "zir-koprusu"
 description: "### Zir Köprüsü: Ankara'nın Tarihi Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.525775,39.991087"
 draft: "false"
 weight: "999"

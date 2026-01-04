@@ -5,10 +5,10 @@ slug: "ardistama"
 description: "## Ardıçlı Dağı (Ardistama)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.85653,37.92922"
 draft: "false"
 weight: "999"

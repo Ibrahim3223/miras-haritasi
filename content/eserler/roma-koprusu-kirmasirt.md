@@ -5,10 +5,10 @@ slug: "roma-koprusu-kirmasirt"
 description: "## Roma Köprüsü, Kırmasırt..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.3020882,37.8215287"
 draft: "false"
 weight: "999"

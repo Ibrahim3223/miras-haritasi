@@ -5,10 +5,10 @@ slug: "haci-evhattin-hamami"
 description: "## Hacı Evhattin Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.924003,40.997124"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ragibiye-camii"
 description: "### Ragıbiye Camii: Diyarbakır'ın Gizli Azınlık Kültürü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2356796,37.9106255"
 draft: "false"
 weight: "999"

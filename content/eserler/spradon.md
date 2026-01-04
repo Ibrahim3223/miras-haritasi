@@ -5,10 +5,10 @@ slug: "spradon"
 description: "### Spradon Arkeolojik Sit..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Avcılar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.7079105,41.0666428"
 draft: "false"
 weight: "999"

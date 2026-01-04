@@ -5,10 +5,10 @@ slug: "piri-mehmed-pasa-camii"
 description: "### Piri Mehmed Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/PiriMehmetPashaMosqueSilivri_(38).jpg/1200px-PiriMehmetPashaMosqueSilivri_(38).jpg"
 province: "Silivri (ilçe)"
-iller: '["Silivri (ilçe)"]'
+iller: ["Silivri (ilçe)"]
 district: "Piri Mehmet Paşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.24565,41.07345"
 draft: "false"
 weight: "10"

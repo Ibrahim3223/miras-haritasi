@@ -5,10 +5,10 @@ slug: "asarcik-tepe"
 description: "## Asarcık Tepe: Muğla'nın Gizli Öreni..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Kavaklıdere"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "28.3257141,37.4929924"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sebastopolis-bizans-kilisesi"
 description: "## Sebastopolis Bizans Kilisesi: Tokat'ın Gizli Çarpıcı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Sulusaray"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "36.0830956,39.9980774"
 draft: "false"
 weight: "999"

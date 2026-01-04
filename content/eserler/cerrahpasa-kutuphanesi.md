@@ -5,10 +5,10 @@ slug: "cerrahpasa-kutuphanesi"
 description: "## Cerrahpaşa Kütüphanesi: İstanbul'un Gizli Öykülerini Hafızasında Tutmak..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

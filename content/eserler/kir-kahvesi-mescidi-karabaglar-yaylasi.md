@@ -5,10 +5,10 @@ slug: "kir-kahvesi-mescidi-karabaglar-yaylasi"
 description: "## Kır Kahvesi Mescidi, Karabağlar Yaylası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.382,37.1850014"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tas-kopru-1"
 description: "## Taş Köprü 1: Tarihini Yaşatan Bir Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.6095123,38.3978539"
 draft: "false"
 weight: "999"

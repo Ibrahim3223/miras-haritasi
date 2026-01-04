@@ -5,10 +5,10 @@ slug: "yeni-mahalle-tumulusu"
 description: "## Yeni Mahalle Tümülüsü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.2958412,40.3958435"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "harmantepe-kalesi"
 description: "## Harmantepe Kalesi: Sakarya'nın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Harmantepe_Kalesi_Panorama.jpg/1200px-Harmantepe_Kalesi_Panorama.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Söğütlü"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "30.436061111,40.891205555"
 draft: "false"
 weight: "10"

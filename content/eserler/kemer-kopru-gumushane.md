@@ -5,10 +5,10 @@ slug: "kemer-kopru-gumushane"
 description: "### Kemer Köprü'sü Keşfetmek..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.478,40.45864"
 draft: "false"
 weight: "999"

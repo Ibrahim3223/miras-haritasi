@@ -5,10 +5,10 @@ slug: "zivistan-kalesi"
 description: "## Zivistan Kalesi: Edremit'in Hazinesi..."
 featured_image: ""
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "Edremit"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "43.3111305,38.3987503"
 draft: "false"
 weight: "999"

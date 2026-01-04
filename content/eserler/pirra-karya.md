@@ -5,10 +5,10 @@ slug: "pirra-karya"
 description: "### Pirra (Karya)..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.38243,37.55694"
 draft: "false"
 weight: "999"

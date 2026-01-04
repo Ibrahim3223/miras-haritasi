@@ -5,10 +5,10 @@ slug: "sefer-baba-turbesi"
 description: "**Sefer Baba Türbesi: Beyoğlu'ndaki Tarihi Bir Anıt**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.972559,41.038383"
 draft: "false"
 weight: "999"

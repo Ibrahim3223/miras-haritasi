@@ -5,10 +5,10 @@ slug: "kamisca-tumulusu"
 description: "### Kamışça Tümülüsü: Malkara'nın Gizli Mirası..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7357922,40.9932289"
 draft: "false"
 weight: "999"

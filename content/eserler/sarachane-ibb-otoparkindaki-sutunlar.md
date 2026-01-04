@@ -5,10 +5,10 @@ slug: "sarachane-ibb-otoparkindaki-sutunlar"
 description: "## Saraçhane İBB Otoparkındaki Sütunlar: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9557438,41.0129852"
 draft: "false"
 weight: "999"

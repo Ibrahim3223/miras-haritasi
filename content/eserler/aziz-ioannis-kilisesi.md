@@ -5,10 +5,10 @@ slug: "aziz-ioannis-kilisesi"
 description: "## Aziz İoannis Kilisesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.6866741,41.2714615"
 draft: "false"
 weight: "999"

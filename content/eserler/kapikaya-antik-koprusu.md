@@ -5,10 +5,10 @@ slug: "kapikaya-antik-koprusu"
 description: "## Kapıkaya Antik Köprüsü..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Karaisalı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "35.0149701,37.2333921"
 draft: "false"
 weight: "999"

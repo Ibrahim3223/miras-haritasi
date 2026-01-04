@@ -5,10 +5,10 @@ slug: "demircihalil-babatepe-koprusu"
 description: "## Demircihalil Babatepe Köprüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3071423,41.8411026"
 draft: "false"
 weight: "999"

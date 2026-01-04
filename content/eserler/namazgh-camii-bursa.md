@@ -5,10 +5,10 @@ slug: "namazgh-camii-bursa"
 description: "### Namazgâh Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/NAMAZGAH_CAMİ_BURSA_-_panoramio.jpg/1200px-NAMAZGAH_CAMİ_BURSA_-_panoramio.jpg"
 province: "Yıldırım"
-iller: '["Yıldırım"]'
+iller: ["Yıldırım"]
 district: "Namazgah"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.075666666,40.177805555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ballikaya-tumulusu-hekimhan"
 description: "### Ballıkaya Tümülüsü: Hekimhan'ın Gizemli Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.1384621,38.843338"
 draft: "false"
 weight: "999"

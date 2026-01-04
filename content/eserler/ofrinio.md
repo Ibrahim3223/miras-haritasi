@@ -5,10 +5,10 @@ slug: "ofrinio"
 description: "**Ofrinio: Çanakkale'nin Gizli Öreni**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.335,40.02277778"
 draft: "false"
 weight: "999"

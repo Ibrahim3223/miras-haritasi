@@ -5,10 +5,10 @@ slug: "mustafa-turb-turbesi"
 description: "## Mustafa Türâbî Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.4087906,38.3600464"
 draft: "false"
 weight: "999"

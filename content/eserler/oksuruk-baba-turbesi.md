@@ -5,10 +5,10 @@ slug: "oksuruk-baba-turbesi"
 description: "### Öksürük Baba Türbesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.2888184,39.9060593"
 draft: "false"
 weight: "999"

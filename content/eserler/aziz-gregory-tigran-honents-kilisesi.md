@@ -5,10 +5,10 @@ slug: "aziz-gregory-tigran-honents-kilisesi"
 description: "## Aziz Gregory Tigran Honents Kilisesi: Ani'nin Gizemli Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/20110419_Saint_Gregory_(Tigran_Honents)_Ani_Turkey.jpg/1200px-20110419_Saint_Gregory_(Tigran_Honents)_Ani_Turkey.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.5787,40.5059"
 draft: "false"
 weight: "10"

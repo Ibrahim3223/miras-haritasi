@@ -5,10 +5,10 @@ slug: "sanliurfa-saat-kulesi"
 description: "### Şanlıurfa Saat Kulesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Şanlıurfa_Saat_Kulesi.jpg/1200px-Şanlıurfa_Saat_Kulesi.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Şanlıurfa"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "38.790194444,37.151305555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "roma-koprusu-hatunsaray"
 description: "## Roma Köprüsü, Hatunsaray: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3928249,37.5646383"
 draft: "false"
 weight: "999"

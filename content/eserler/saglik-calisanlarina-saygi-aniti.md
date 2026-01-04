@@ -5,10 +5,10 @@ slug: "saglik-calisanlarina-saygi-aniti"
 description: "### Sağlık Çalışanlarına Saygı Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sağlık_Çalışanlarına_Saygı_Anıtı.jpg/1200px-Sağlık_Çalışanlarına_Saygı_Anıtı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.866777777,40.993777777"
 draft: "false"
 weight: "10"

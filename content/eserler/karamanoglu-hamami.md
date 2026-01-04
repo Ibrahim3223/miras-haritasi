@@ -5,10 +5,10 @@ slug: "karamanoglu-hamami"
 description: "### Karamanoğlu Hamamı..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8905247,36.6408977"
 draft: "false"
 weight: "999"

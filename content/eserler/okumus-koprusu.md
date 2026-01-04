@@ -5,10 +5,10 @@ slug: "okumus-koprusu"
 description: "## Okumuş Köprüsü: Ardeşen'in Tarihî Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Ardeşen"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.1771,41.1309"
 draft: "false"
 weight: "999"

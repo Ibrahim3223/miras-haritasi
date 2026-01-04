@@ -5,10 +5,10 @@ slug: "aureliopolis-lidya"
 description: "## Aureliopolis (Lidya): Geçmişin Gizli Şehirleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.877777,38.476241"
 draft: "false"
 weight: "999"

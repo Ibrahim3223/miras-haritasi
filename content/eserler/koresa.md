@@ -5,10 +5,10 @@ slug: "koresa"
 description: "# Koresa..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.585778,38.624086"
 draft: "false"
 weight: "999"

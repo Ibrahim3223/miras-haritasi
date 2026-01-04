@@ -5,10 +5,10 @@ slug: "oruc-bey-turbesi"
 description: "## Oruç Bey Türbesi: Bursa'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Oruç_bey_türbesi_bursa_-_panoramio_(8).jpg/1200px-Oruç_bey_türbesi_bursa_-_panoramio_(8).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0542545,40.1846733"
 draft: "false"
 weight: "10"

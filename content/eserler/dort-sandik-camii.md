@@ -5,10 +5,10 @@ slug: "dort-sandik-camii"
 description: "## Dört Sandık Camii: Bitlis'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "42.1081276,38.4061356"
 draft: "false"
 weight: "999"

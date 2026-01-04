@@ -5,10 +5,10 @@ slug: "tas-kopru-pelitalan"
 description: "## Taş Köprü, Pelitalan: Manisa'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.3323994,38.8464012"
 draft: "false"
 weight: "999"

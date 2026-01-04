@@ -5,10 +5,10 @@ slug: "evcihuyuk"
 description: "## Evci Höyük: Elbistan'ın Gizli Mirası..."
 featured_image: ""
 province: "Halep Vilayeti"
-iller: '["Halep Vilayeti"]'
+iller: ["Halep Vilayeti"]
 district: "Elbistan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.2147454,38.3472316"
 draft: "false"
 weight: "999"

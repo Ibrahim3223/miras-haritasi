@@ -5,10 +5,10 @@ slug: "besik-tepe-kolonai"
 description: "## Beşik Tepe (Kolonai): Ezine'nin Gizli Cenneti..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.159917,39.70885"
 draft: "false"
 weight: "999"

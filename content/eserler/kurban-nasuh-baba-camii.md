@@ -5,10 +5,10 @@ slug: "kurban-nasuh-baba-camii"
 description: "## Kurban Nasuh Baba Camii: Üsküdar'da Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Kurban_Nasuh_Baba_Mosque.jpg/1200px-Kurban_Nasuh_Baba_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.019744798,41.018754481"
 draft: "false"
 weight: "10"

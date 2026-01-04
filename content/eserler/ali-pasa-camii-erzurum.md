@@ -5,10 +5,10 @@ slug: "ali-pasa-camii-erzurum"
 description: "# Ali Paşa Camii, Erzurum..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.2766647,39.9126816"
 draft: "false"
 weight: "999"

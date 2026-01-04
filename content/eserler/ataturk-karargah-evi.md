@@ -5,10 +5,10 @@ slug: "ataturk-karargah-evi"
 description: "### Atatürk Karargah Evi Müzesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Dumlupınar"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.9791965,38.8545265"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hidayet-camii"
 description: "# Hidayet Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hidayet_Mosque_6166.jpg/1200px-Hidayet_Mosque_6166.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.973883959,41.016695372"
 draft: "false"
 weight: "10"

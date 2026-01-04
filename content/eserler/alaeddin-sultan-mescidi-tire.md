@@ -5,10 +5,10 @@ slug: "alaeddin-sultan-mescidi-tire"
 description: "### Alaeddin Sultan Mescidi: Tire'de Bir Ölümsüz Cami..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7292042,38.08358"
 draft: "false"
 weight: "999"

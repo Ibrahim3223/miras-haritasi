@@ -5,10 +5,10 @@ slug: "cesmeci-millet-camii"
 description: "## Çeşmeci Millet Camii: İznik'in Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/20250621_Çeşmeci_Millet_Camii_02.jpg/1200px-20250621_Çeşmeci_Millet_Camii_02.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.711984867,40.424443526"
 draft: "false"
 weight: "10"

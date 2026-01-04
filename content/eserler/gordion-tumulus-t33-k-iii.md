@@ -5,10 +5,10 @@ slug: "gordion-tumulus-t33-k-iii"
 description: "## Gordion Tümülüs T33 – K-III..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.995392,39.652538"
 draft: "false"
 weight: "999"

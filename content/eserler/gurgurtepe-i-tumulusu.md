@@ -5,10 +5,10 @@ slug: "gurgurtepe-i-tumulusu"
 description: "### Gurgurtepe I Tümülüsü: İzmir'in Gizli Şehri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.4083004,38.1724014"
 draft: "false"
 weight: "999"

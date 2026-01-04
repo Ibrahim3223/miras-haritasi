@@ -5,10 +5,10 @@ slug: "kocaoba-kalesi-dikili"
 description: "## Kocaoba Kalesi: Dikili'nin Tarihi ve Efsanevi Kaleleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "26.9723263,39.0777779"
 draft: "false"
 weight: "999"

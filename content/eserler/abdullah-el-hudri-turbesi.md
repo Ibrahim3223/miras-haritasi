@@ -5,10 +5,10 @@ slug: "abdullah-el-hudri-turbesi"
 description: "# Abdullah El-Hudri Türbesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.93975,41.037802"
 draft: "false"
 weight: "999"

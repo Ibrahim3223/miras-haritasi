@@ -5,10 +5,10 @@ slug: "gonen-eski-hamam"
 description: "## Gönen Eski Hamamı: Isparta'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Gönen"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.5140228,37.9553909"
 draft: "false"
 weight: "999"

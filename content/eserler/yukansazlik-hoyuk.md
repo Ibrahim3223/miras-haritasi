@@ -5,10 +5,10 @@ slug: "yukansazlik-hoyuk"
 description: "## Yukansazlık Höyük: Şefaatli'deki Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Şefaatli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.789865302,39.412155101"
 draft: "false"
 weight: "999"

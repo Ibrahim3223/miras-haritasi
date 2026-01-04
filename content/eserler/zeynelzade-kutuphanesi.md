@@ -5,10 +5,10 @@ slug: "zeynelzade-kutuphanesi"
 description: "## Zeynelzade Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Zeynelzade_Library,_Akhisar,_Manisa,_Türkiye_(2025).jpg/1200px-Zeynelzade_Library,_Akhisar,_Manisa,_Türkiye_(2025).jpg"
 province: "Akhisar (ilçe)"
-iller: '["Akhisar (ilçe)"]'
+iller: ["Akhisar (ilçe)"]
 district: "Hashoca"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.846033771,38.919736234"
 draft: "false"
 weight: "10"

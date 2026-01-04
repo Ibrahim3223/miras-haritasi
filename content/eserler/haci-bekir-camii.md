@@ -5,10 +5,10 @@ slug: "haci-bekir-camii"
 description: "## Hacı Bekir Camii: Malatya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.318821,38.1436272"
 draft: "false"
 weight: "999"

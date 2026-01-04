@@ -5,10 +5,10 @@ slug: "alicin-manastiri"
 description: "## Alicin Manastırı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kızılcahamam"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "32.4278088,40.3671909"
 draft: "false"
 weight: "999"

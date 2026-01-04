@@ -5,10 +5,10 @@ slug: "unubol-camii"
 description: "## Aydın'ın Gizli Çiçeği: Ünübol Camii..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.1964741,37.8287849"
 draft: "false"
 weight: "999"

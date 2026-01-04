@@ -5,10 +5,10 @@ slug: "cerrah-mehmed-pasa-camii"
 description: "### Cerrah Mehmed Paşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Istanbul_Cerrah_Pasha_Mosque_exterior_0941.jpg/1200px-Istanbul_Cerrah_Pasha_Mosque_exterior_0941.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.944888888,41.007911111"
 draft: "false"
 weight: "10"

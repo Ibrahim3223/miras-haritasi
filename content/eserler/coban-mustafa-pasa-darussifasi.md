@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-darussifasi"
 description: "## Çoban Mustafa Paşa Darüşşifası: Gebze'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.4318504,40.8001213"
 draft: "false"
 weight: "999"

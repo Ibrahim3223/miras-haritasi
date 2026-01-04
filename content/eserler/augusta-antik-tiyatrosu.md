@@ -5,10 +5,10 @@ slug: "augusta-antik-tiyatrosu"
 description: "**Augusta Antik Tiyatrosu**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Sarıçam"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.332628,37.106336"
 draft: "false"
 weight: "999"

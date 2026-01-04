@@ -5,10 +5,10 @@ slug: "gordion-tumulus-k-i"
 description: "## Gordion Tümülüs K-I: Polatlı'da Antik Bir Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Polatlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.990845,39.651184"
 draft: "false"
 weight: "999"

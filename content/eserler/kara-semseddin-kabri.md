@@ -5,10 +5,10 @@ slug: "kara-semseddin-kabri"
 description: "### Kara Şemseddin Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9549198,41.0196724"
 draft: "false"
 weight: "999"

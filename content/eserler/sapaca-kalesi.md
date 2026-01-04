@@ -5,10 +5,10 @@ slug: "sapaca-kalesi"
 description: "**Sapaca Kalesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Uzundere"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "41.617026,40.543874"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyyit-ali-efendi-kabri"
 description: "## Seyyit Ali Efendi Kabri: İstanbul'un Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.965332179,41.018177163"
 draft: "false"
 weight: "999"

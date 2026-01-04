@@ -5,10 +5,10 @@ slug: "karafrenk-kalesi"
 description: "## Karafrenk Kalesi: Osmaniye'nin Tarih Özellikli Yerlerindendir..."
 featured_image: ""
 province: "Osmaniye"
-iller: '["Osmaniye"]'
+iller: ["Osmaniye"]
 district: "Hasanbeyli"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.6021309,37.1312218"
 draft: "false"
 weight: "999"

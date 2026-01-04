@@ -5,10 +5,10 @@ slug: "elyasa-peygamber-turbesi"
 description: "## Elyasa Peygamber Türbesi: Diyarbakır'ın Gizli Cenneti..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Eğil"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "40.0984,38.2535"
 draft: "false"
 weight: "999"

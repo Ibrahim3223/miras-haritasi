@@ -5,10 +5,10 @@ slug: "yildirim-kemal-sehitligi"
 description: "## Yıldırım Kemal Şehitliği..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Sinanpaşa"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.124321,38.8777771"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "begendik-gumruk-sirti-tumulusu"
 description: "## Beğendik Gümrük Sırtı Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.0277653,41.9677925"
 draft: "false"
 weight: "999"

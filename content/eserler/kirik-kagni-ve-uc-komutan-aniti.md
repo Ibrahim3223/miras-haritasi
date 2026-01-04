@@ -5,10 +5,10 @@ slug: "kirik-kagni-ve-uc-komutan-aniti"
 description: "### Kırık Kağnı Ve Üç Komutan Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Altıntaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.0643044,38.9296494"
 draft: "false"
 weight: "999"

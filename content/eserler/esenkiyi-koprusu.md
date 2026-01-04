@@ -5,10 +5,10 @@ slug: "esenkiyi-koprusu"
 description: "## Esenkıyı Köprüsü..."
 featured_image: ""
 province: "Hopa"
-iller: '["Hopa"]'
+iller: ["Hopa"]
 district: "Esenkıyı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.459888888,41.438222222"
 draft: "false"
 weight: "999"

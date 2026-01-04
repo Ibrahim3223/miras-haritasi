@@ -5,10 +5,10 @@ slug: "uyanik-hoyuk"
 description: "## Uyanık Höyük: Afyonkarahisar'ın Gizli Mücevheri..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Çay"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.0595662,38.6054771"
 draft: "false"
 weight: "999"

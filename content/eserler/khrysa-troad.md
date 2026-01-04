@@ -5,10 +5,10 @@ slug: "khrysa-troad"
 description: "### Khrysa (Troad): Ayvacık'taki Eski Bir Kent..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Chryse.jpg/1200px-Chryse.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.1175,39.53638889"
 draft: "false"
 weight: "10"

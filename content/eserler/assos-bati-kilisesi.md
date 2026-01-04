@@ -5,10 +5,10 @@ slug: "assos-bati-kilisesi"
 description: "### Assos Batı Kilisesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.3346252,39.4879074"
 draft: "false"
 weight: "999"

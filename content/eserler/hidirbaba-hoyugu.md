@@ -5,10 +5,10 @@ slug: "hidirbaba-hoyugu"
 description: "### Hıdırbaba Höyüğü..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.9575729,38.7762947"
 draft: "false"
 weight: "999"

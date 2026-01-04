@@ -5,10 +5,10 @@ slug: "yesilkoy-surp-stepanos-kilisesi"
 description: "## Yeşilköy Surp Stepanos Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.820527777,40.956916666"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "astra"
 description: "## Astra Arkeolojik Sit: Hadim, Konya'nın Gizemli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/36/Tov_Kvark_Myrhorod_-_traktor.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Hadim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.399344,37.035234"
 draft: "false"
 weight: "999"

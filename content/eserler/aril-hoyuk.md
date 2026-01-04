@@ -5,10 +5,10 @@ slug: "aril-hoyuk"
 description: "### Arıl Höyük: Gaziantep'in Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep alt bölgesi"
-iller: '["Gaziantep alt bölgesi"]'
+iller: ["Gaziantep alt bölgesi"]
 district: "Şehitkâmil"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.6020241,37.1087379"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "muzafferiye-medresesi"
 description: "### Muzafferiye Medresesi: Burdur'un Tarihi ve Kültürel Mirasının Yeri..."
 featured_image: ""
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Burdur"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.2868824,37.7176247"
 draft: "false"
 weight: "999"

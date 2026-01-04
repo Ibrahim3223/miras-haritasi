@@ -5,10 +5,10 @@ slug: "liman-kalesi"
 description: "Liman Kalesi: Silifke'nin Tarihi Yüzyıllarını Hafızalarda Tutan Bir Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/LimanKalesi1.jpg/1200px-LimanKalesi1.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Silifke"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "33.8356275,36.2782347"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "bozdogan-hoyuk"
 description: "## Bozdoğan Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.0541975,40.1589327"
 draft: "false"
 weight: "999"

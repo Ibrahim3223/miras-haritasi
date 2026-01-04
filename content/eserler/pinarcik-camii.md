@@ -5,10 +5,10 @@ slug: "pinarcik-camii"
 description: "### Pınarcık Camii: Serik'in Tarihi bir Çanak..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.104447,36.917399"
 draft: "false"
 weight: "999"

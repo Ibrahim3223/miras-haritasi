@@ -5,10 +5,10 @@ slug: "manastir-vadisi"
 description: "## Manastır Vadisi: Aksaray'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/GüzelyurtKlostertal.jpg/1200px-GüzelyurtKlostertal.jpg"
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Güzelyurt"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.36944444,38.26722222"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ovali-pazari-mescidi"
 description: "### Ovalı Pazarı Mescidi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.7733383,41.3775253"
 draft: "false"
 weight: "999"

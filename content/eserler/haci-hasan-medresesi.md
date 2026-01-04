@@ -5,10 +5,10 @@ slug: "haci-hasan-medresesi"
 description: "## Hacı Hasan Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.954721,41.020988"
 draft: "false"
 weight: "999"

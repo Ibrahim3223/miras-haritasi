@@ -5,10 +5,10 @@ slug: "boyali-camii"
 description: "## Boyalı Camii..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Yusufeli İlçesi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.5645118,40.989259"
 draft: "false"
 weight: "999"

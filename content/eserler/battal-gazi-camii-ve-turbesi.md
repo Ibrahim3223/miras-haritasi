@@ -5,10 +5,10 @@ slug: "battal-gazi-camii-ve-turbesi"
 description: "## Battal Gazi Camii ve Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4803467,38.7067451"
 draft: "false"
 weight: "999"

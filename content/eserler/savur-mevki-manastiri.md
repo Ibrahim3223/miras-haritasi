@@ -5,10 +5,10 @@ slug: "savur-mevki-manastiri"
 description: "## Savur Mevki Manastırı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "25.7751999,40.1186981"
 draft: "false"
 weight: "999"

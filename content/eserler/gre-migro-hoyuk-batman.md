@@ -5,10 +5,10 @@ slug: "gre-migro-hoyuk-batman"
 description: "### Gre Migro Höyük: Batman'ın Gizli Hazineleri..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Güneydoğu Anadolu Bölgesi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.1571693,37.9913101"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kavakli-merkez-camii"
 description: "## Kavaklı Merkez Camii..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1715603,41.6561737"
 draft: "false"
 weight: "999"

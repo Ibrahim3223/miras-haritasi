@@ -5,10 +5,10 @@ slug: "karadeniz-eregli-muzesi"
 description: "## Karadeniz Ereğli Müzesi: Karadeniz'in En Güzel Müzeleri Arasındaki Bir Çanak..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Karadeniz Ereğli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "31.418333333,41.280833333"
 draft: "false"
 weight: "999"

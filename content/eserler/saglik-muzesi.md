@@ -5,10 +5,10 @@ slug: "saglik-muzesi"
 description: "## Sağlık Müzesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.975266,41.008225"
 draft: "false"
 weight: "999"

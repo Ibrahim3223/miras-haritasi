@@ -5,10 +5,10 @@ slug: "zaganos-pasa-hamami"
 description: "### Zağanos Paşa Hamamı: Karesi, Balıkesir'in Gizli Cenneti..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.8792152,39.6491318"
 draft: "false"
 weight: "999"

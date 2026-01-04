@@ -5,10 +5,10 @@ slug: "cingirt-kayasi-kalesi-fatsa"
 description: "## Cıngırt Kayası Kalesi: Fatsa'nın Tarihi bir Zirvesi..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Fatsa"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "37.4447212,41.0661163"
 draft: "false"
 weight: "999"

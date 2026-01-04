@@ -5,10 +5,10 @@ slug: "karkabo"
 description: "**Karkabho: Tarihi ve Kültürel Bir Miras**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.00221,36.32915"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "agalar-dairesi"
 description: "## Ağalar Dairesi: Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.0257816,41.1194687"
 draft: "false"
 weight: "999"

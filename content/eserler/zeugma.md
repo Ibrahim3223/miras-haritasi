@@ -5,10 +5,10 @@ slug: "zeugma"
 description: "## Zeugma: Gaziantep'in Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Zeugma.jpg/1200px-Zeugma.jpg"
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.86583333,37.05861111"
 draft: "false"
 weight: "1"

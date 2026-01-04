@@ -5,10 +5,10 @@ slug: "seddulbahir-eski-cami"
 description: "### Seddülbahir Eski Cami..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.189064,40.042942"
 draft: "false"
 weight: "999"

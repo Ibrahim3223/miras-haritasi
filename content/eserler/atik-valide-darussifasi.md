@@ -5,10 +5,10 @@ slug: "atik-valide-darussifasi"
 description: "# Atik Valide Darüşşifası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "29.022638,41.018539"
 draft: "false"
 weight: "999"

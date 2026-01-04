@@ -5,10 +5,10 @@ slug: "rakoci-muzesi"
 description: "### Rakoçi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rodostó,_Rákóczi_Múzeum_2024_03.jpg/1200px-Rodostó,_Rákóczi_Múzeum_2024_03.jpg"
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Edirne Vilayeti"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.50995,40.97407"
 draft: "false"
 weight: "10"

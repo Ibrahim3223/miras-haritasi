@@ -5,10 +5,10 @@ slug: "dara-baraji"
 description: "## Dara Barajı: Türkiye'nin Efsanevi Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.95122222,37.18297222"
 draft: "false"
 weight: "999"

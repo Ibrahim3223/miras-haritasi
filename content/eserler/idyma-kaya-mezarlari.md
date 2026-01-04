@@ -5,10 +5,10 @@ slug: "idyma-kaya-mezarlari"
 description: "## Idyma Kaya Mezarları: Muğla'nın Gizli Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.3532658,37.0520248"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "basnalar-kalesi"
 description: "## Başnalar Kalesi: Mersin'in Gizli Kahramanı..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Yenişehir"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "34.4875641,36.8433189"
 draft: "false"
 weight: "999"

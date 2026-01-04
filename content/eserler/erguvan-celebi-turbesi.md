@@ -5,10 +5,10 @@ slug: "erguvan-celebi-turbesi"
 description: "**Erguvan Çelebi Türbesi: Kütahya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.976635,39.417248"
 draft: "false"
 weight: "999"

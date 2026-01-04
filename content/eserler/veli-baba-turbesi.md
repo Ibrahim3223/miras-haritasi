@@ -5,10 +5,10 @@ slug: "veli-baba-turbesi"
 description: "## Veli Baba Türbesi: Pendik'te Tarih ve Kültür..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Veli_Baba_Trbesi_1761580607.jpg/1200px-Veli_Baba_Trbesi_1761580607.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.258007,40.9020691"
 draft: "false"
 weight: "10"

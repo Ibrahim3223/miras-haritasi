@@ -5,10 +5,10 @@ slug: "panayia-hanceriotissa-kilisesi"
 description: "**Panayia Hançeriotissa Kilisesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.94088889,41.03297222"
 draft: "false"
 weight: "999"

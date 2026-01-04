@@ -5,10 +5,10 @@ slug: "cayirdere-badem-tepe-kalesi-kirklareli"
 description: "# Çayırdere Badem Tepe Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.5146809,41.6949272"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sveti-konstantin-elena-kilisesi"
 description: "## Sveti Konstantin-Elena Kilisesi: Edirne'nin Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Sts._Constantine_and_Helen_Church_(Edirne),_Front.jpg/1200px-Sts._Constantine_and_Helen_Church_(Edirne),_Front.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.56411944,41.66343056"
 draft: "false"
 weight: "10"

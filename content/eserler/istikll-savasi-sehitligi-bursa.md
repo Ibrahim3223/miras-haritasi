@@ -5,10 +5,10 @@ slug: "istikll-savasi-sehitligi-bursa"
 description: "### İstiklâl Savaşı Şehitliği, Bursa..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0574265,40.1867676"
 draft: "false"
 weight: "999"

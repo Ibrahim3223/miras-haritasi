@@ -5,10 +5,10 @@ slug: "comlekkoy-hamami"
 description: "## Çömlekköy Hamamı: Edirne'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Lalapaşa"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.6051903,41.8398743"
 draft: "false"
 weight: "999"

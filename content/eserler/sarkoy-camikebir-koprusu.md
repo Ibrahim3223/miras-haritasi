@@ -5,10 +5,10 @@ slug: "sarkoy-camikebir-koprusu"
 description: "## Şarköy Camikebir Köprüsü..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.0952339,40.6447182"
 draft: "false"
 weight: "999"

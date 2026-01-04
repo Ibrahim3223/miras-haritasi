@@ -5,10 +5,10 @@ slug: "gaziantep-sehit-kamil-bilgi-yili-ilce-halk-kutuphanesi"
 description: "## Gaziantep Şehit Kamil Bilgi Yılı İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şehitkâmil"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

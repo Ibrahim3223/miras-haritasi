@@ -5,10 +5,10 @@ slug: "kazokhuyugu"
 description: "**Kazokhüyüğü: Şanlıurfa'nın Gizli Kahramanı**..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Ceylanpınar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7834627,36.8219039"
 draft: "false"
 weight: "999"

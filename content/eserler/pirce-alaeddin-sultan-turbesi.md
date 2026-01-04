@@ -5,10 +5,10 @@ slug: "pirce-alaeddin-sultan-turbesi"
 description: "## Pirce Alaeddin Sultan Türbesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Alanya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.238766,36.500631"
 draft: "false"
 weight: "999"

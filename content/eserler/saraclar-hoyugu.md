@@ -5,10 +5,10 @@ slug: "saraclar-hoyugu"
 description: "## Saraçlar Höyüğü: Aydın'ın Gizli Anıtı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9738007,37.6114006"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "develi-kalesi"
 description: "## Develi Kalesi: Tarih ve Kültür Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Develi"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "35.4885864,38.3660049"
 draft: "false"
 weight: "999"

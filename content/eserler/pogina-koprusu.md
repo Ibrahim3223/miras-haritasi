@@ -5,10 +5,10 @@ slug: "pogina-koprusu"
 description: "## Pogina Köprüsü: Rize'nin Tarihi Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.958982,41.0569958"
 draft: "false"
 weight: "999"

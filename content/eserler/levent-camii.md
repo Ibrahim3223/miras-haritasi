@@ -5,10 +5,10 @@ slug: "levent-camii"
 description: "### Levent Camii: İstanbul'un Beşiktaş Bölgesinde Bir Önemli Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Levent_Camii.jpg/1200px-Levent_Camii.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.01763889,41.07909722"
 draft: "false"
 weight: "10"

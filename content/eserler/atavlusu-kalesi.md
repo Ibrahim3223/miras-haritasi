@@ -5,10 +5,10 @@ slug: "atavlusu-kalesi"
 description: "## Atavlusu Kalesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karpuzlu"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.7727947,37.5069695"
 draft: "false"
 weight: "999"

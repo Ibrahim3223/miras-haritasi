@@ -5,10 +5,10 @@ slug: "artsvaber-manastiri"
 description: "## Artsvaber Manastırı: Tarihi ve Kültürel Mirası Tanıtımı..."
 featured_image: ""
 province: "Erciş district"
-iller: '["Erciş district"]'
+iller: ["Erciş district"]
 district: "Çelebibağı"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "43.434166666,39.048055555"
 draft: "false"
 weight: "999"

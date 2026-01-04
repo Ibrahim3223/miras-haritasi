@@ -5,10 +5,10 @@ slug: "ulu-camii"
 description: "## Ulu Camii: Diyarbakır'ın Tarihî ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Great_Mosque,_Diyarbakir.jpg/1200px-Great_Mosque,_Diyarbakir.jpg"
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Diyarbakır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.235833333,37.912222222"
 draft: "false"
 weight: "10"

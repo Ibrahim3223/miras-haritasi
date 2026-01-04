@@ -5,10 +5,10 @@ slug: "ilber-ortayli-kutuphanesi"
 description: "## İlber Ortaylı Kütüphanesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.1439342,38.4286766"
 draft: "false"
 weight: "999"

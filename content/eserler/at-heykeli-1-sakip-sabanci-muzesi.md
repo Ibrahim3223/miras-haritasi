@@ -5,10 +5,10 @@ slug: "at-heykeli-1-sakip-sabanci-muzesi"
 description: "## At Heykeli 1 (Sakıp Sabancı Müzesi)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0563354,41.1062775"
 draft: "false"
 weight: "999"

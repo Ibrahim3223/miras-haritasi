@@ -5,10 +5,10 @@ slug: "belentepe-antik-yerlesimi"
 description: "## Belentepe Antik Yerleşimi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.9314518,37.0993805"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "arvalya-hoyuk"
 description: "## Arvalya Höyük: İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3056068,37.9313927"
 draft: "false"
 weight: "999"

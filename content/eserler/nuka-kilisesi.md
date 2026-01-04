@@ -5,10 +5,10 @@ slug: "nuka-kilisesi"
 description: "## Nuka Kilisesi: Artvin'in Gizli Çağılan..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Alabalık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.088222222,41.256666666"
 draft: "false"
 weight: "999"

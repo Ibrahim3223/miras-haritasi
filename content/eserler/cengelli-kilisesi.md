@@ -5,10 +5,10 @@ slug: "cengelli-kilisesi"
 description: "## Çengelli Kilisesi: Gümüşhane'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.444397,40.5475426"
 draft: "false"
 weight: "999"

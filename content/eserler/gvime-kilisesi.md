@@ -5,10 +5,10 @@ slug: "gvime-kilisesi"
 description: "## Ğvime Kilisesi: Bir Geçmişi ve Etkileyici Mimarisine Sahip Tarihi Bir Ölümsüz..."
 featured_image: ""
 province: "Posof"
-iller: '["Posof"]'
+iller: ["Posof"]
 district: "Kumlukoz"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.780611111,41.569555555"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "garip-dede-kabri"
 description: "## Garip Dede Kabri: Çekmeköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.2220993,41.0340347"
 draft: "false"
 weight: "999"

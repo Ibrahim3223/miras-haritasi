@@ -5,10 +5,10 @@ slug: "aydinoglu-camii-selcuk"
 description: "### Aydınoğlu Camii: Selçuk'ta Bir Geçiş Dönemi Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3683815,37.9474716"
 draft: "false"
 weight: "999"

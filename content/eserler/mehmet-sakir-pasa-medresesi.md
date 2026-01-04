@@ -5,10 +5,10 @@ slug: "mehmet-sakir-pasa-medresesi"
 description: "### Mehmet Şakir Paşa Medresesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mustafapaşa-Façade_de_la_medersa_(1).jpg/1200px-Mustafapaşa-Façade_de_la_medersa_(1).jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "34.8983,38.5834"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kulaksiz-hamami"
 description: "## Kulaksız Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.96225,41.039083333"
 draft: "false"
 weight: "999"

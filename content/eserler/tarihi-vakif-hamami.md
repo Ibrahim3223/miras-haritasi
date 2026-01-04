@@ -5,10 +5,10 @@ slug: "tarihi-vakif-hamami"
 description: "### Tarihi Vakıf Hamamı..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "33.7713763,41.373182"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cukur-cesme-camii"
 description: "## Çukur Çeşme Camii: Kütahya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9725723,39.4150124"
 draft: "false"
 weight: "999"

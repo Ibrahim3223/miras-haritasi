@@ -5,10 +5,10 @@ slug: "hill-60-new-zealand-memorial"
 description: "### Hill 60 (Yeni Zelanda) Anıtı..."
 featured_image: ""
 province: "Eceabat"
-iller: '["Eceabat"]'
+iller: ["Eceabat"]
 district: "Büyükanafarta"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.2933,40.27273"
 draft: "false"
 weight: "999"

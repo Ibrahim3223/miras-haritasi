@@ -5,10 +5,10 @@ slug: "sivriler-sakirga-tepe-kalesi-kirklareli"
 description: "## Sivriler Sakırga Tepe Kalesi: Kırklareli'nin Gizli Cenneti..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Demirköy"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.9262924,41.807354"
 draft: "false"
 weight: "999"

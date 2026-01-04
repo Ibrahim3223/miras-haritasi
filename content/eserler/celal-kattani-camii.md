@@ -5,10 +5,10 @@ slug: "celal-kattani-camii"
 description: "## Celal Kattani Camii: Altındağ'un Tarihi Çağı..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Kale"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8625145,39.9357262"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cuhadarli-kalesi"
 description: "**Çuhadarlı Kalesi: Kahramanmaraş'ın Gizli Ören Yeri**..."
 featured_image: ""
 province: "Kahramanmaraş"
-iller: '["Kahramanmaraş"]'
+iller: ["Kahramanmaraş"]
 district: "Andırın"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.4511185,37.558918"
 draft: "false"
 weight: "999"

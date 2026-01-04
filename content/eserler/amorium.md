@@ -5,10 +5,10 @@ slug: "amorium"
 description: "## Amorium: Afyonkarahisar'ın Gizli Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Amorion,_Unterstadt.jpg/1200px-Amorion,_Unterstadt.jpg"
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.295,39.0225"
 draft: "false"
 weight: "10"

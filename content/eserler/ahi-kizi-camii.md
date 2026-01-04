@@ -5,10 +5,10 @@ slug: "ahi-kizi-camii"
 description: "**Ahi Kızı Camii: Antalya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Muratpaşa"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.7038593,36.885498"
 draft: "false"
 weight: "999"

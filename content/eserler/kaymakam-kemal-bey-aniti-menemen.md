@@ -5,10 +5,10 @@ slug: "kaymakam-kemal-bey-aniti-menemen"
 description: "## Kaymakam Kemal Bey Anıtı: Menemen'in Tarihî Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "27.0640182,38.608387"
 draft: "false"
 weight: "999"

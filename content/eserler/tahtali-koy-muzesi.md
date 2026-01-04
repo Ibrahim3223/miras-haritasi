@@ -5,10 +5,10 @@ slug: "tahtali-koy-muzesi"
 description: "## Tahtalı Köy Müzesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Karamürsel"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.6497822,40.5752831"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nisibis"
 description: "## Nisibis: Tarihin Kaynağı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.21444444,37.07"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-hasan-ve-musa-turbesi"
 description: "## Şeyh Hasan ve Musa Türbesi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Akdeniz"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6184654,36.7920685"
 draft: "false"
 weight: "999"

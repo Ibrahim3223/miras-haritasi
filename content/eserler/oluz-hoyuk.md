@@ -5,10 +5,10 @@ slug: "oluz-hoyuk"
 description: "## Oluz Höyük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Oluz_Höyük_02.jpg/1200px-Oluz_Höyük_02.jpg"
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.6285,40.5457"
 draft: "false"
 weight: "10"

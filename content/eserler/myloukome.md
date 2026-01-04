@@ -5,10 +5,10 @@ slug: "myloukome"
 description: "## Myloukome: Kemaliye'de Bir Arkeolojik Sit..."
 featured_image: ""
 province: "Alaşehir (ilçe)"
-iller: '["Alaşehir (ilçe)"]'
+iller: ["Alaşehir (ilçe)"]
 district: "Kemaliye"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.42664,38.46374"
 draft: "false"
 weight: "999"

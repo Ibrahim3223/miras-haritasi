@@ -5,10 +5,10 @@ slug: "kavasbasi-kabri"
 description: "## Kavasbaşı Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.937305158,41.027424118"
 draft: "false"
 weight: "999"

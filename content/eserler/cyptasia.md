@@ -5,10 +5,10 @@ slug: "cyptasia"
 description: "## Cyptasia: Türkiye'nin Gizli Çarpıntısı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.068707,41.92842"
 draft: "false"
 weight: "999"

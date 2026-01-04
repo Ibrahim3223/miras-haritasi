@@ -5,10 +5,10 @@ slug: "cigdemli-camii"
 description: "## Çiğdemli Camii: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "33.1282196,37.2350273"
 draft: "false"
 weight: "999"

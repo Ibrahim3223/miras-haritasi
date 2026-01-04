@@ -5,10 +5,10 @@ slug: "ermeni-protestan-kilisesi"
 description: "**Ermeni Protestan Kilisesi: Merzifon'un Gizli Cenneti**..."
 featured_image: ""
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "35.463726,40.8742752"
 draft: "false"
 weight: "999"

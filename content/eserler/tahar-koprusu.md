@@ -5,10 +5,10 @@ slug: "tahar-koprusu"
 description: "### Tahar Köprüsü..."
 featured_image: ""
 province: "Tunceli"
-iller: '["Tunceli"]'
+iller: ["Tunceli"]
 district: "Çemişgezek"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.9132631,39.0472025"
 draft: "false"
 weight: "999"

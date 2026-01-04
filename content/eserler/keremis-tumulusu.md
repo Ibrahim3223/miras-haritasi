@@ -5,10 +5,10 @@ slug: "keremis-tumulusu"
 description: "**Keremis Tümülüsü**..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.0142136,38.2799187"
 draft: "false"
 weight: "999"

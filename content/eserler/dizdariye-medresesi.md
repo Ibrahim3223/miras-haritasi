@@ -5,10 +5,10 @@ slug: "dizdariye-medresesi"
 description: "## Dizdariye Medresesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.9721088,41.0062103"
 draft: "false"
 weight: "999"

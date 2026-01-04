@@ -5,10 +5,10 @@ slug: "comakli-hoyuk"
 description: "### Çomaklı Höyük: Boğazlıyan'ın Gizli Anıtı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Boğazlıyan"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.2055757,39.1850443"
 draft: "false"
 weight: "999"

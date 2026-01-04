@@ -5,10 +5,10 @@ slug: "cocuk-esirgeme-kurumu-muzesi-bahcelievler"
 description: "# Çocuk Esirgeme Kurumu Müzesi, Bahçelievler..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.828583,39.932509"
 draft: "false"
 weight: "999"

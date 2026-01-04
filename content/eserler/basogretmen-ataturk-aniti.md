@@ -5,10 +5,10 @@ slug: "basogretmen-ataturk-aniti"
 description: "## Başöğretmen Atatürk Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/06/Ankara_Ba%C5%9F%C3%B6%C4%9Fretmen_Atat%C3%BCrk_An%C4%B1t%C4%B1_in_2014_4320_%281%29.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.022667,40.99157"
 draft: "false"
 weight: "999"

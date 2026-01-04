@@ -5,10 +5,10 @@ slug: "roma-koprusu-pacali"
 description: "## Roma Köprüsü, Pacalı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.468887,38.807213"
 draft: "false"
 weight: "999"

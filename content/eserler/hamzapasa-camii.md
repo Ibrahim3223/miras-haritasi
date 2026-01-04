@@ -5,10 +5,10 @@ slug: "hamzapasa-camii"
 description: "## Hamzapaşa Camii: Trabzon'un Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Hamzapaşa_Camii.jpg/1200px-Hamzapaşa_Camii.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.712827,41.004289"
 draft: "false"
 weight: "10"

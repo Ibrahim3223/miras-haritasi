@@ -5,10 +5,10 @@ slug: "buyuk-anafarta-koyu-ozay-gundogan-muzesi"
 description: "## Büyük Anafarta Köyü Özay Gündoğan Müzesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "26.328484,40.281709"
 draft: "false"
 weight: "999"

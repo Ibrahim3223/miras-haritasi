@@ -5,10 +5,10 @@ slug: "sarapsa-hani"
 description: "## Şarapsa Hanı: Antalya'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Sarapsa-Han_03.jpg/1200px-Sarapsa-Han_03.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.87111111,36.58819444"
 draft: "false"
 weight: "10"

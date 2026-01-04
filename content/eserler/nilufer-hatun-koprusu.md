@@ -5,10 +5,10 @@ slug: "nilufer-hatun-koprusu"
 description: "## Nilüfer Hatun Köprüsü..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.91952,40.27465"
 draft: "false"
 weight: "999"

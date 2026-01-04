@@ -5,10 +5,10 @@ slug: "efdalzade-camii"
 description: "## Efdalzade Camii: Fatih'teki Bir Tarihi Ölümsüzlük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Efdalzade_Camii_1.JPG/1200px-Efdalzade_Camii_1.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.948246,41.0204926"
 draft: "false"
 weight: "10"

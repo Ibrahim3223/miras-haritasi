@@ -5,10 +5,10 @@ slug: "aysekadin-hamami"
 description: "### Ayşekadın Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.961734,41.014786"
 draft: "false"
 weight: "999"

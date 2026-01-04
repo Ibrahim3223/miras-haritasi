@@ -5,10 +5,10 @@ slug: "yatirtepe-hoyuk"
 description: "# Yatırtepe Höyük: Tarihçe ve Kültürel Miras..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Suruç"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.3792073,36.9714691"
 draft: "false"
 weight: "999"

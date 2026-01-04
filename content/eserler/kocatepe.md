@@ -5,10 +5,10 @@ slug: "kocatepe"
 description: "## Kocatepe: Edirne'nin Gizli Mirası..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.90065,41.735167"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tahtali-camii-adana"
 description: "**Tahtalı Camii, Adana**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.3256798,36.9885063"
 draft: "false"
 weight: "999"

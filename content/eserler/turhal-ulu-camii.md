@@ -5,10 +5,10 @@ slug: "turhal-ulu-camii"
 description: "## Turhal Ulu Camii Tanıtımı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Turhal"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.090305555,40.387138888"
 draft: "false"
 weight: "999"

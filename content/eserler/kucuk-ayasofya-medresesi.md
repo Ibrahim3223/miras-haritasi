@@ -5,10 +5,10 @@ slug: "kucuk-ayasofya-medresesi"
 description: "### Küçük Ayasofya Medresesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "28.971659,41.002968"
 draft: "false"
 weight: "1"

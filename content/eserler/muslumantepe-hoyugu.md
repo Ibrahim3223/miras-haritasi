@@ -5,10 +5,10 @@ slug: "muslumantepe-hoyugu"
 description: "## Müslümantepe Höyüğü..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "40.9363527,37.8043586"
 draft: "false"
 weight: "999"

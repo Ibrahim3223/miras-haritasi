@@ -5,10 +5,10 @@ slug: "sofular-camii"
 description: "## Sofular Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Merzifon-sofular-cami.JPG/1200px-Merzifon-sofular-cami.JPG"
 province: "Merzifon İlçesi"
-iller: '["Merzifon İlçesi"]'
+iller: ["Merzifon İlçesi"]
 district: "Merzifon"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.460988814,40.878548294"
 draft: "false"
 weight: "10"

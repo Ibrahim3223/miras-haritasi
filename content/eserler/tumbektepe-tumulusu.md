@@ -5,10 +5,10 @@ slug: "tumbektepe-tumulusu"
 description: "## Tümbektepe Tümülüsü: Lapseki'nin Gizli Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8317719,40.3491249"
 draft: "false"
 weight: "999"

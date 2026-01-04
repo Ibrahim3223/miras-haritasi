@@ -5,10 +5,10 @@ slug: "balikesir-basin-muzesi"
 description: "## Balıkesir Basın Müzesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "27.8788261,39.6502151"
 draft: "false"
 weight: "999"

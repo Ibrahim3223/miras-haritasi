@@ -5,10 +5,10 @@ slug: "hidrellez-kilisesi"
 description: "### Hıdrellez Kilisesi: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "31.9755,36.570666666"
 draft: "false"
 weight: "999"

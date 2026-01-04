@@ -5,10 +5,10 @@ slug: "cullaz-camii"
 description: "## Cullaz Camii: Niğde'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.6768036,37.9668007"
 draft: "false"
 weight: "999"

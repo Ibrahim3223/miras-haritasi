@@ -5,10 +5,10 @@ slug: "tazicilar-mescidi"
 description: "## Tazıcılar Mescidi: Üsküdar'ın Eski ve Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.020060314,41.008992829"
 draft: "false"
 weight: "999"

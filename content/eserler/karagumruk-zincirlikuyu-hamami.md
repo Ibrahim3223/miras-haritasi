@@ -5,10 +5,10 @@ slug: "karagumruk-zincirlikuyu-hamami"
 description: "## Karagümrük Zincirlikuyu Hamamı: İstanbul'un Eski Günlerinin Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.942204,41.025437"
 draft: "false"
 weight: "999"

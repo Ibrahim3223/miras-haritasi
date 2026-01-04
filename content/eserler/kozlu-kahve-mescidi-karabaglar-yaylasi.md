@@ -5,10 +5,10 @@ slug: "kozlu-kahve-mescidi-karabaglar-yaylasi"
 description: "# Kozlu Kahve Mescidi: Karabağlar Yaylası'nda Gizemli Bir Cami..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3915997,37.1735001"
 draft: "false"
 weight: "999"

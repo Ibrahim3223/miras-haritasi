@@ -5,10 +5,10 @@ slug: "karasakal-camii"
 description: "## Karasakal Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Karasakal_Camii_IMG_7585.jpg/1200px-Karasakal_Camii_IMG_7585.jpg"
 province: "Bayburt"
-iller: '["Bayburt"]'
+iller: ["Bayburt"]
 district: "Bayburt ili genel seçim sonuçları"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.2296486,40.2602654"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "galata-surp-krikor-lusavoric-kilisesi"
 description: "## Galata Surp Krikor Lusavoriç Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Lusavoric_Armenian_Church_3699.jpg/1200px-Lusavoric_Armenian_Church_3699.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.978416666,41.025666666"
 draft: "false"
 weight: "10"

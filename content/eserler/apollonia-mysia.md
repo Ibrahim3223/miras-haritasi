@@ -5,10 +5,10 @@ slug: "apollonia-mysia"
 description: "## Apollonia (Mysia): Tarihin İhtişamı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.494574,39.202362"
 draft: "false"
 weight: "999"

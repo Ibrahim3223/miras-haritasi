@@ -5,10 +5,10 @@ slug: "cami-koprusu"
 description: "## Görele Cami Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.084999,40.95834"
 draft: "false"
 weight: "999"

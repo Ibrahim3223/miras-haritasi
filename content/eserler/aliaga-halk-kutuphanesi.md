@@ -5,10 +5,10 @@ slug: "aliaga-halk-kutuphanesi"
 description: "## Aliağa Halk Kütüphanesi: İzmir'in Kültür Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "26.9731197,38.8006325"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cobandede-koprusu"
 description: "# Çobandede Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Köprüköy,_ponte_di_Çobandede,_1160_ca.,_03.jpg/1200px-Köprüköy,_ponte_di_Çobandede,_1160_ca.,_03.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Köprüköy"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.88863,39.96985"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "blaundos-antik-tiyatrosu"
 description: "## Blaundos Antik Tiyatrosu..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.2108688,38.3579445"
 draft: "false"
 weight: "999"

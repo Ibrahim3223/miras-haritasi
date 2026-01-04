@@ -5,10 +5,10 @@ slug: "konya-tropikal-kelebek-bahcesi"
 description: "### Konya Tropikal Kelebek Bahçesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Konya_Tropical_Butterfly_Garden_6.jpg/1200px-Konya_Tropical_Butterfly_Garden_6.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.461944444,37.948611111"
 draft: "false"
 weight: "10"

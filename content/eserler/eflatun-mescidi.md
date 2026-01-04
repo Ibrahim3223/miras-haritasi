@@ -5,10 +5,10 @@ slug: "eflatun-mescidi"
 description: "## Eflatun Mescidi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.491805555,37.872305555"
 draft: "false"
 weight: "999"

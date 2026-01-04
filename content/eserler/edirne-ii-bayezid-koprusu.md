@@ -5,10 +5,10 @@ slug: "edirne-ii-bayezid-koprusu"
 description: "## Edirne II. Bayezid Köprüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "26.544101,41.684371"
 draft: "false"
 weight: "999"

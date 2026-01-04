@@ -5,10 +5,10 @@ slug: "pisarissos"
 description: "## Pisarissos: Türkiye'nin Gizli Ören Yeri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.728062,36.660868"
 draft: "false"
 weight: "999"

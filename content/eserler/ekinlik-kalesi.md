@@ -5,10 +5,10 @@ slug: "ekinlik-kalesi"
 description: "# Ekinlik Kalesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Olur"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.2119179,40.8924484"
 draft: "false"
 weight: "999"

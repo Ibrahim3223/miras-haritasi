@@ -5,10 +5,10 @@ slug: "catalpinar-camii"
 description: "## Çatalpınar Camii: Sivas'ın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0203972,39.7546463"
 draft: "false"
 weight: "999"

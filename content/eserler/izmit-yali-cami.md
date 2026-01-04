@@ -5,10 +5,10 @@ slug: "izmit-yali-cami"
 description: "## İzmit Yalı Cami..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9268227,40.7619133"
 draft: "false"
 weight: "999"

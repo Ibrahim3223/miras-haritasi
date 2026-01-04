@@ -5,10 +5,10 @@ slug: "agcaoren-hoyuk"
 description: "## Ağcaören Höyük: Çorum'un Gizli Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Mecitözü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.1937408,40.5652084"
 draft: "false"
 weight: "999"

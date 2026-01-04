@@ -5,10 +5,10 @@ slug: "kaya-halil-kumbeti"
 description: "**Kaya Halil Kümbeti: Karaman'ın Gizli Anıtı**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.22347964,37.178493698"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bogatepe-peynir-muzesi"
 description: "### Boğatepe Peynir Müzesi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "42.9,40.8"
 draft: "false"
 weight: "999"

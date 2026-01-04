@@ -5,10 +5,10 @@ slug: "husnu-ataberk-camii"
 description: "## Hüsnü Ataberk Camii: İzmir'in Tarihi Bir Ören Yeri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1051655,38.4045372"
 draft: "false"
 weight: "999"

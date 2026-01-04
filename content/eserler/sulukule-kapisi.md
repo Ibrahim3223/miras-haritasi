@@ -5,10 +5,10 @@ slug: "sulukule-kapisi"
 description: "## Sulukule Kapısı: Fatih'in Gizli Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.931862,41.026878"
 draft: "false"
 weight: "999"

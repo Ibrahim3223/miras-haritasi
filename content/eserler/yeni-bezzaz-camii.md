@@ -5,10 +5,10 @@ slug: "yeni-bezzaz-camii"
 description: "## Yeni Bezzaz Camii..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0636997,40.1866875"
 draft: "false"
 weight: "999"

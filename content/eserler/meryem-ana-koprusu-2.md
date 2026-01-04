@@ -5,10 +5,10 @@ slug: "meryem-ana-koprusu-2"
 description: "#### Meryem Ana Köprüsü 2..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "39.350774,40.545939"
 draft: "false"
 weight: "999"

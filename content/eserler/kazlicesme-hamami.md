@@ -5,10 +5,10 @@ slug: "kazlicesme-hamami"
 description: "## Kazlıçeşme Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.915554,40.990661"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emir-saban-turbesi"
 description: "## Emir Şaban Türbesi..."
 featured_image: ""
 province: "Hakkari"
-iller: '["Hakkari"]'
+iller: ["Hakkari"]
 district: "Çukurca"
 type: "Türbe"
-turler: '["Türbe"]'
+turler: ["Türbe"]
 coords: "43.6124382,37.2464104"
 draft: "false"
 weight: "999"

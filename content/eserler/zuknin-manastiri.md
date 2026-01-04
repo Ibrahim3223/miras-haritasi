@@ -5,10 +5,10 @@ slug: "zuknin-manastiri"
 description: "## Zuknin Manastırı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "40.24,37.91"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sarikiz-tepe"
 description: "### Sarıkız Tepe: Edremit'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "26.8745308,39.6916122"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yulafli-koyu-cami"
 description: "### Yulaflı Köyü Cami: Tekirdağ'ın Gizli Cevheri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8328114,41.2116356"
 draft: "false"
 weight: "999"

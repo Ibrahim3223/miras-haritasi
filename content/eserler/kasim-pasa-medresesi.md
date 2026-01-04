@@ -5,10 +5,10 @@ slug: "kasim-pasa-medresesi"
 description: "## Kasım Paşa Medresesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Menemen"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "27.0727005,38.6090012"
 draft: "false"
 weight: "999"

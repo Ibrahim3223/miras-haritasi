@@ -5,10 +5,10 @@ slug: "canta-cukuru-tumulusu"
 description: "### Çanta Çukuru Tümülüsü Tanıtımı..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7223587,41.3141136"
 draft: "false"
 weight: "999"

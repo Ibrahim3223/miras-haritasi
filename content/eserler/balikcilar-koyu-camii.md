@@ -5,10 +5,10 @@ slug: "balikcilar-koyu-camii"
 description: "**Balıkçılar Köyü Camii**..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Rize"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.648869186,41.060672219"
 draft: "false"
 weight: "999"

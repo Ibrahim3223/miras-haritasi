@@ -5,10 +5,10 @@ slug: "eczacibasi-sanal-muzesi"
 description: "### Eczacıbaşı Sanal Müzesi: İstanbul'un En İlgi Çekici Sanal Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.010143,41.079989"
 draft: "false"
 weight: "999"

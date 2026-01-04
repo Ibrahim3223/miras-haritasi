@@ -5,10 +5,10 @@ slug: "kavakli-camii-mugla"
 description: "## Kavaklı Camii: Muğla'nın Gizli Çehresi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Muğla_65.jpg/1200px-Muğla_65.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.3630619,37.219059"
 draft: "false"
 weight: "10"

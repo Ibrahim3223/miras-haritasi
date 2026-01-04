@@ -5,10 +5,10 @@ slug: "bekse-kilisesi"
 description: "## Bekse Kilisesi: Sason, Batman'daki Bir İç Anadolu Kilisesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Sason"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.3601227,38.3629837"
 draft: "false"
 weight: "999"

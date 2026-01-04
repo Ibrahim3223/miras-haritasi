@@ -5,10 +5,10 @@ slug: "sulu-cami"
 description: "## Sulu Cami: Şanlıurfa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3176613,37.7536812"
 draft: "false"
 weight: "999"

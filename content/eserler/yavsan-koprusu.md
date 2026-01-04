@@ -5,10 +5,10 @@ slug: "yavsan-koprusu"
 description: "### Yavşan Köprüsü..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.466261,40.827692"
 draft: "false"
 weight: "999"

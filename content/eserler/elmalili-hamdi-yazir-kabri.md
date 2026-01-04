@@ -5,10 +5,10 @@ slug: "elmalili-hamdi-yazir-kabri"
 description: "## Elmalılı Hamdi Yazır Kabri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0769939,40.984127"
 draft: "false"
 weight: "999"

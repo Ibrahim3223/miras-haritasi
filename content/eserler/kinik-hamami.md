@@ -5,10 +5,10 @@ slug: "kinik-hamami"
 description: "## Kınık Hamamı: Tarihî ve Kültürel Mirasın Parçaları Arasında..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "27.3813,39.084301"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karacabey-turbesi"
 description: "## Karacabey Türbesi: Ankara'nın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Karacabey_Türbesi.jpg/1200px-Karacabey_Türbesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8653107,39.9313087"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "haci-hasan-camii"
 description: "## Hacı Hasan Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.955023,41.020917"
 draft: "false"
 weight: "999"

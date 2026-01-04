@@ -5,10 +5,10 @@ slug: "amnista"
 description: "## Amnista: Marmaris'in Gizli Şehri..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Marmaris (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.185205,36.945624"
 draft: "false"
 weight: "999"

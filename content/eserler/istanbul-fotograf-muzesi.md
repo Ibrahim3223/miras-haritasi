@@ -5,10 +5,10 @@ slug: "istanbul-fotograf-muzesi"
 description: "## İstanbul Fotoğraf Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.967813,41.004692"
 draft: "false"
 weight: "999"

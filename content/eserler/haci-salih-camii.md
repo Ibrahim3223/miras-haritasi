@@ -5,10 +5,10 @@ slug: "haci-salih-camii"
 description: "## Hacı Salih Camii..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.724521,41.007797"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-mina-kilisesi"
 description: "## Aya Mina Kilisesi: İstanbul'un Gizli Çehresinde Bir Kutsal Eser..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Church_of_Saint_Menas_01.jpg/1200px-Church_of_Saint_Menas_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.931897,41.000417"
 draft: "false"
 weight: "10"

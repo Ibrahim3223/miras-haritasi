@@ -5,10 +5,10 @@ slug: "kadoi"
 description: "## Kadoi: Gediz'in Gizli Anıtı..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Gediz"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.411526,39.043048"
 draft: "false"
 weight: "999"

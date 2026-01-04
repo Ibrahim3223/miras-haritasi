@@ -5,10 +5,10 @@ slug: "side-buyuk-hamam"
 description: "## Side Büyük Hamam..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.3890877,36.7656136"
 draft: "false"
 weight: "999"

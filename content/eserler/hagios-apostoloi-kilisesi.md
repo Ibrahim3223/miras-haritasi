@@ -5,10 +5,10 @@ slug: "hagios-apostoloi-kilisesi"
 description: "## Hagios Apostoloi Kilisesi: Mudanya'nın Tarihî Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9152546,40.3313904"
 draft: "false"
 weight: "999"

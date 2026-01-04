@@ -5,10 +5,10 @@ slug: "gokceli-hoyuk"
 description: "### Gökçeli Höyük: Gaziantep'in Gizli Kutsalı..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nizip"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.7056545,36.8802823"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yeni-komurhan-koprusu"
 description: "## Yeni Kömürhan Köprüsü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: ""
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.8188,38.44065"
 draft: "false"
 weight: "999"

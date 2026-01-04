@@ -5,10 +5,10 @@ slug: "emir-sultan-turbesi-kayseri"
 description: "## Emir Sultan Türbesi, Kayseri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4893456,38.7177849"
 draft: "false"
 weight: "999"

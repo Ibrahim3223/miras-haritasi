@@ -5,10 +5,10 @@ slug: "tacettin-turbesi"
 description: "### Tacettin Türbesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.491907001,38.715102078"
 draft: "false"
 weight: "999"

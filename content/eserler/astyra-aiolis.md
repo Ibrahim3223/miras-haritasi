@@ -5,10 +5,10 @@ slug: "astyra-aiolis"
 description: "## Astyra (Aiolis): Antik Çağın Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.178235,39.560183"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "doga-ve-bilim-muzesi"
 description: "## Doğa ve Bilim Müzesi: İstanbul'un Doğası ve Teknolojisi Üzerine Bilgi Paylaşıyor..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Pendik"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.278335,40.858064"
 draft: "false"
 weight: "999"

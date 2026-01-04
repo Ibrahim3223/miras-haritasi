@@ -5,10 +5,10 @@ slug: "moda-sahnesi"
 description: "## Moda Sahnesi: Antik Tiyatro'nun Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Moda_Sahnesi.jpg/1200px-Moda_Sahnesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: "29.028638888,40.987"
 draft: "false"
 weight: "10"

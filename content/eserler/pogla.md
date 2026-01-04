@@ -5,10 +5,10 @@ slug: "pogla"
 description: "## Pogla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.248,37.2903"
 draft: "false"
 weight: "999"

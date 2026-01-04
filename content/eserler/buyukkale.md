@@ -5,10 +5,10 @@ slug: "buyukkale"
 description: "## Büyükkale: Hattuşa'nın Gizemli Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Ḫattuša_Büyükkale_01_.jpg/1200px-Ḫattuša_Büyükkale_01_.jpg"
 province: "Boğazkale"
-iller: '["Boğazkale"]'
+iller: ["Boğazkale"]
 district: "Hattuşa"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.618611,40.015"
 draft: "false"
 weight: "10"

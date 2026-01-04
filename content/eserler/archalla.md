@@ -5,10 +5,10 @@ slug: "archalla"
 description: "### Archalla Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.295289,38.83458"
 draft: "false"
 weight: "999"

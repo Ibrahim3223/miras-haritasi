@@ -5,10 +5,10 @@ slug: "hacilar-camii"
 description: "## Hacılar Camii: Bursa'nın Altın Çağının Gizli Çehresi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0664062,40.1817703"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aigai"
 description: "### Aigai Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/AigaiMarkthalle1.jpg/1200px-AigaiMarkthalle1.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.18861111,38.83111111"
 draft: "false"
 weight: "10"

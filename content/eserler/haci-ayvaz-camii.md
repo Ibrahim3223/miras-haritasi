@@ -5,10 +5,10 @@ slug: "haci-ayvaz-camii"
 description: "## Hacı Ayvaz Camii: Ankara'nın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.863842,39.9348488"
 draft: "false"
 weight: "999"

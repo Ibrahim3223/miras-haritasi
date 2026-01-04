@@ -5,10 +5,10 @@ slug: "papazli-ciftligi"
 description: "## Papazli Çiftliği: Silivri'nin Tarihi Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.087785892,41.062173939"
 draft: "false"
 weight: "999"

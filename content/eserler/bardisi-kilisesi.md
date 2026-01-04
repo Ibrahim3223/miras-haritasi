@@ -5,10 +5,10 @@ slug: "bardisi-kilisesi"
 description: "## Bardisi Kilisesi: Tarihi ve Mücevher..."
 featured_image: ""
 province: "Şenkaya İlçesi"
-iller: '["Şenkaya İlçesi"]'
+iller: ["Şenkaya İlçesi"]
 district: "Gaziler"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.344777777,40.427472222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-ali-cami"
 description: "# Hoca Ali Cami..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9767265,41.0261497"
 draft: "false"
 weight: "999"

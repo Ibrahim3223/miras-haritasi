@@ -5,10 +5,10 @@ slug: "asagi-mahalle-camii-safranbolu"
 description: "## Aşağı Mahalle Camii: Safranbolu'nun Tarihî Mirası..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.795630065,41.223317749"
 draft: "false"
 weight: "999"

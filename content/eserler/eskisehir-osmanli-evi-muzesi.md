@@ -5,10 +5,10 @@ slug: "eskisehir-osmanli-evi-muzesi"
 description: "## Eskişehir Osmanlı Evi Müzesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.526478,39.76212"
 draft: "false"
 weight: "999"

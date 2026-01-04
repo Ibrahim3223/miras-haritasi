@@ -5,10 +5,10 @@ slug: "pergamon-antik-tiyatrosu"
 description: "### Pergamon Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theatre_of_Pergamon.jpg/1200px-Theatre_of_Pergamon.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.183405,39.131787"
 draft: "false"
 weight: "10"

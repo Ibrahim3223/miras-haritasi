@@ -5,10 +5,10 @@ slug: "gara-kilise"
 description: "## Bodrum'un Gizli Değerleri: Gara Kilisesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.3747864,37.0334015"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-fuat-pasa-kuvayi-milliye-muzesi"
 description: "## Ali Fuat Paşa Kuvayı Milliye Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ali_Fuat_Cebesoy_Müzesi.jpg/1200px-Ali_Fuat_Cebesoy_Müzesi.jpg"
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Geyve"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "30.29602,40.535499"
 draft: "false"
 weight: "10"

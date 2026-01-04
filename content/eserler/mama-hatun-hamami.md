@@ -5,10 +5,10 @@ slug: "mama-hatun-hamami"
 description: "## Mama Hatun Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Erzincan"
-iller: '["Erzincan"]'
+iller: ["Erzincan"]
 district: "Tercan"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "40.3860512,39.7776375"
 draft: "false"
 weight: "999"

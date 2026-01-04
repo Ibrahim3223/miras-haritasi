@@ -5,10 +5,10 @@ slug: "metamorfosis-rum-ortodoks-kilisesi"
 description: "## Metamorfosis Rum Ortodoks Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "29.0619335,41.0703354"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "alankoy-2-tumulusu"
 description: "## Alanköy 2 Tümülüsü: Çanakkale'nin Gizli Hazinesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.7901363,40.0353279"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "katranci-koprusu"
 description: "## Katrancı Köprüsü..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.2173748,37.7023582"
 draft: "false"
 weight: "999"

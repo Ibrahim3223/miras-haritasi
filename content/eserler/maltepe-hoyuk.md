@@ -5,10 +5,10 @@ slug: "maltepe-hoyuk"
 description: "## Maltepe Höyük: Sivas'ta Bir Arkeolojik SİT..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Zara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.774094,39.8650121"
 draft: "false"
 weight: "999"

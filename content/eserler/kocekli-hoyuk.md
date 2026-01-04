@@ -5,10 +5,10 @@ slug: "kocekli-hoyuk"
 description: "### Köçekli Höyük: Kırşehir'in Gizli Harikası..."
 featured_image: ""
 province: "Kırşehir"
-iller: '["Kırşehir"]'
+iller: ["Kırşehir"]
 district: "Boztepe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.2646783,39.3043921"
 draft: "false"
 weight: "999"

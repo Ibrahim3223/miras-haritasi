@@ -5,10 +5,10 @@ slug: "narin-camii-tire"
 description: "## Narin Camii: Tire'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.736208,38.0820808"
 draft: "false"
 weight: "999"

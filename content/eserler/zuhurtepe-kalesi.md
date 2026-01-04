@@ -5,10 +5,10 @@ slug: "zuhurtepe-kalesi"
 description: "### Zuhurtepe Kalesi..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Silvan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "40.9590759,38.2224464"
 draft: "false"
 weight: "999"

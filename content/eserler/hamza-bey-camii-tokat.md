@@ -5,10 +5,10 @@ slug: "hamza-bey-camii-tokat"
 description: "### Hamza Bey Camii, Tokat..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.5562782,40.3176498"
 draft: "false"
 weight: "999"

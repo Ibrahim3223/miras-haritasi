@@ -5,10 +5,10 @@ slug: "devlet-mezarligi-muzesi"
 description: "## Devlet Mezarlığı Müzesi: Türkiye'nin Tarihsel Mirasının Gizemi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Yenimahalle"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8069229,39.9368973"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-bezirganli-hoyuk"
 description: "## Küçük Bezirganlı Höyük: Aksaray'ın Gizli Mirası..."
 featured_image: ""
 province: "Aksaray"
-iller: '["Aksaray"]'
+iller: ["Aksaray"]
 district: "Ortaköy"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.9589361,38.955496"
 draft: "false"
 weight: "999"

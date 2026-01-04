@@ -5,10 +5,10 @@ slug: "elvan-hazretleri-kabri"
 description: "## Elvan Hazretleri Kabri: İstanbul'un Tarihsel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.954586,41.0255203"
 draft: "false"
 weight: "999"

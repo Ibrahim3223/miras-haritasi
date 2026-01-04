@@ -5,10 +5,10 @@ slug: "pir-huseyin-bey-camii"
 description: "### Pir Hüseyin Bey Camii..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Konya"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.4086647,38.2682838"
 draft: "false"
 weight: "999"

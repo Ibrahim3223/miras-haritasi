@@ -5,10 +5,10 @@ slug: "anemurium-halk-hamami"
 description: "## Anemurium Halk Hamamı: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Anamur"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "32.8020325,36.0216751"
 draft: "false"
 weight: "999"

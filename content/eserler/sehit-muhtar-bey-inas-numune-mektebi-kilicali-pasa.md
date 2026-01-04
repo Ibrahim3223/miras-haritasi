@@ -5,10 +5,10 @@ slug: "sehit-muhtar-bey-inas-numune-mektebi-kilicali-pasa"
 description: "## Şehit Muhtar Bey İnas Numune Mektebi, Kılıç Ali Paşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9848633,41.0301208"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "muradiye-mezar-taslari-muzesi"
 description: "### Muradiye Mezar Taşları Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Mezar_taşları.jpg/1200px-Mezar_taşları.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.046402,40.1904831"
 draft: "false"
 weight: "10"

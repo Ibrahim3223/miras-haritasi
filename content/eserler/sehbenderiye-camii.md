@@ -5,10 +5,10 @@ slug: "sehbenderiye-camii"
 description: "## Şehbenderiye Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7894249,37.1596718"
 draft: "false"
 weight: "999"

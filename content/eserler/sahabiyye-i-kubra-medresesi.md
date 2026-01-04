@@ -5,10 +5,10 @@ slug: "sahabiyye-i-kubra-medresesi"
 description: "### Şahabiyye-i Kübra Medresesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Battalgazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "38.3670044,38.4199409"
 draft: "false"
 weight: "999"

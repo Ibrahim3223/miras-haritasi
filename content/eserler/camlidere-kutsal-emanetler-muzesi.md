@@ -5,10 +5,10 @@ slug: "camlidere-kutsal-emanetler-muzesi"
 description: "## Çamlıdere Kutsal Emanetler Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çamlıdere"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.4693222,40.4859467"
 draft: "false"
 weight: "999"

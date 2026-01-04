@@ -5,10 +5,10 @@ slug: "hamidiye-yanik-kale-kirklareli"
 description: "## Hamidiye Yanık Kale..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.9608574,41.6838989"
 draft: "false"
 weight: "999"

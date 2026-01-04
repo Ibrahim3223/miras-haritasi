@@ -5,10 +5,10 @@ slug: "veled-i-enbiya-camii"
 description: "**Veled-i Enbiya Camii**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0620155,40.1865082"
 draft: "false"
 weight: "999"

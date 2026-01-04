@@ -5,10 +5,10 @@ slug: "kurt-celebi-turbesi"
 description: "## Kurt Çelebi Türbesi: İstanbul'un Eski Beyoğlu'nde Gizlenen Tarihi Bir Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.965485,41.033981"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pisye"
 description: "## Pisye: Muğla'nın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.287227,37.18655"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmud-pasa-turbesi"
 description: "## Mahmud Paşa Türbesi: Fatih'te Bir Aziz Ruhun Ebedi Yurdu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mahmut_Pasha_turbesi_DSCF1268.jpg/1200px-Mahmut_Pasha_turbesi_DSCF1268.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.971303,41.0108759"
 draft: "false"
 weight: "10"

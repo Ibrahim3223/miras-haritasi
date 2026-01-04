@@ -5,10 +5,10 @@ slug: "divin-kapisi-kaya-mescidi"
 description: "## Divin Kapısı Kaya Mescidi..."
 featured_image: ""
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: "Ani"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.5736046,40.5054016"
 draft: "false"
 weight: "999"

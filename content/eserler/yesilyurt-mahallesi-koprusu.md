@@ -5,10 +5,10 @@ slug: "yesilyurt-mahallesi-koprusu"
 description: "### Yeşilyurt Mahallesi Köprüsü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Araklı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.011174,40.729905"
 draft: "false"
 weight: "999"

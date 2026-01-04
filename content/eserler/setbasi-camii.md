@@ -5,10 +5,10 @@ slug: "setbasi-camii"
 description: "## Setbaşı Camii: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0702515,40.1808014"
 draft: "false"
 weight: "999"

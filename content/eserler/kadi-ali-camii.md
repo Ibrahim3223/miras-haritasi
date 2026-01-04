@@ -5,10 +5,10 @@ slug: "kadi-ali-camii"
 description: "## Kadı Ali Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lüleburgaz_Kadılı_Cami_0001.jpg/1200px-Lüleburgaz_Kadılı_Cami_0001.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.3475285,41.40728"
 draft: "false"
 weight: "10"

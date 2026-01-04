@@ -5,10 +5,10 @@ slug: "halic-kapiustu-mescidi"
 description: "# Haliç Kapıüstü Mescidi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9685497,41.0286064"
 draft: "false"
 weight: "999"

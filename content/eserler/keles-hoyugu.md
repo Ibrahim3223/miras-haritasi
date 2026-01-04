@@ -5,10 +5,10 @@ slug: "keles-hoyugu"
 description: "**Keleş Höyüğü: Hatay'ın Gizli Tarihi**..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Reyhanlı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.503122165,36.259666511"
 draft: "false"
 weight: "999"

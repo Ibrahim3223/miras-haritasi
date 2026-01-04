@@ -5,10 +5,10 @@ slug: "yenice-kalesi-kirklareli"
 description: "## Yenice Kalesi, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.6365318,41.7581825"
 draft: "false"
 weight: "999"

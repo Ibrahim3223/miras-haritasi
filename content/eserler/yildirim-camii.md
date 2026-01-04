@@ -5,10 +5,10 @@ slug: "yildirim-camii"
 description: "# Yıldırım Camii: Bursa'nın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/View_of_Bursa_and_the_Sultan_Bayezid_I_Camii_between_1880_and_1893.jpg/1200px-View_of_Bursa_and_the_Sultan_Bayezid_I_Camii_between_1880_and_1893.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Hüdavendigâr Vilayeti"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0825,40.1875"
 draft: "false"
 weight: "10"

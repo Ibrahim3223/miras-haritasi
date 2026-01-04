@@ -5,10 +5,10 @@ slug: "kalafat-camii"
 description: "## Kalafat Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.13554,38.413311"
 draft: "false"
 weight: "999"

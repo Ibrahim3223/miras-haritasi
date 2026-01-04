@@ -5,10 +5,10 @@ slug: "serif-ali-turbesi"
 description: "## Şerif Ali Türbesi: Niğde'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "34.6739578,37.9695091"
 draft: "false"
 weight: "999"

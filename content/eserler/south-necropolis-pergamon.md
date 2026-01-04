@@ -5,10 +5,10 @@ slug: "south-necropolis-pergamon"
 description: "## Güney Mezarlığı (Pergamon)..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.1805,39.1155"
 draft: "false"
 weight: "999"

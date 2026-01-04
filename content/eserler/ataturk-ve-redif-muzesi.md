@@ -5,10 +5,10 @@ slug: "ataturk-ve-redif-muzesi"
 description: "## Atatürk ve Redif Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Atatürk_ve_Redif_Müzesi.jpg/1200px-Atatürk_ve_Redif_Müzesi.jpg"
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ertokus-hani"
 description: "## Ertokuş Hanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ertokuş_Han_01.jpg/1200px-Ertokuş_Han_01.jpg"
 province: "Isparta"
-iller: '["Isparta"]'
+iller: ["Isparta"]
 district: "Gelendost"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.970833333,37.992777777"
 draft: "false"
 weight: "10"

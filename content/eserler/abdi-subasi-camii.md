@@ -5,10 +5,10 @@ slug: "abdi-subasi-camii"
 description: "## Abdi Subaşı Camii..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.951519,41.028868"
 draft: "false"
 weight: "999"

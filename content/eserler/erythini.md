@@ -5,10 +5,10 @@ slug: "erythini"
 description: "## Erythini: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.484075,41.779469"
 draft: "false"
 weight: "999"

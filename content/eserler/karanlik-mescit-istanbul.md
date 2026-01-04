@@ -5,10 +5,10 @@ slug: "karanlik-mescit-istanbul"
 description: "## Karanlık Mescit: İstanbul'un Gizli Bir Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9577579,41.0240746"
 draft: "false"
 weight: "999"

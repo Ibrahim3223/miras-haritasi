@@ -5,10 +5,10 @@ slug: "neve-salom-sinagogu"
 description: "## Neve Şalom Sinagogu: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Neve_Şalom,_Istanbul.jpg/1200px-Neve_Şalom,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Sinagog"
-turler: '["Sinagog"]'
+turler: ["Sinagog"]
 coords: "28.972416666,41.026694444"
 draft: "false"
 weight: "10"

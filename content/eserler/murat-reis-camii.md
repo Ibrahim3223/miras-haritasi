@@ -5,10 +5,10 @@ slug: "murat-reis-camii"
 description: "## Murat Reis Camii: Üsküdar'da Bir Tarihi Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.027611111,41.018444444"
 draft: "false"
 weight: "999"

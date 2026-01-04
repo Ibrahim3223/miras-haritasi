@@ -5,10 +5,10 @@ slug: "duzgecit-koprusu"
 description: "## Düzgeçit Köprüsü..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çayeli"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "40.793567,41.0736"
 draft: "false"
 weight: "999"

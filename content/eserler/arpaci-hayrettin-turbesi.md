@@ -5,10 +5,10 @@ slug: "arpaci-hayrettin-turbesi"
 description: "**Arpacı Hayrettin Türbesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.935936,41.0420761"
 draft: "false"
 weight: "999"

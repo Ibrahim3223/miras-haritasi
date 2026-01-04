@@ -5,10 +5,10 @@ slug: "cesnigir-kutuphanesi"
 description: "**Çeşnigir Kütüphanesi: Manisa'nın Gizli Çeşme Kütüphanesi**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.433076556,38.611241924"
 draft: "false"
 weight: "999"

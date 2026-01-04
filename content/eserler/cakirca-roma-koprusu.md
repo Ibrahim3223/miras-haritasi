@@ -5,10 +5,10 @@ slug: "cakirca-roma-koprusu"
 description: "### Çakırca Roma Köprüsü: İznik'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "29.6923973,40.4615408"
 draft: "false"
 weight: "999"

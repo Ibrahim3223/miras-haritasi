@@ -5,10 +5,10 @@ slug: "fettah-camii"
 description: "## Fettah Camii..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1431236,38.4211273"
 draft: "false"
 weight: "999"

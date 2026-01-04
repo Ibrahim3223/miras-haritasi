@@ -5,10 +5,10 @@ slug: "surp-stepanos-katolik-kilisesi-yesilkoy"
 description: "## Surp Stepanos Katolik Kilisesi: İstanbulluların Gizli Cenneti..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.821888888,40.957527777"
 draft: "false"
 weight: "999"

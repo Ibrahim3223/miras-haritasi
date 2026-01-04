@@ -5,10 +5,10 @@ slug: "kormas-kalesi-sirvan"
 description: "## Kormas Kalesi: Şirvan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Siirt"
-iller: '["Siirt"]'
+iller: ["Siirt"]
 district: "Şirvan"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "42.1305275,38.0317879"
 draft: "false"
 weight: "999"

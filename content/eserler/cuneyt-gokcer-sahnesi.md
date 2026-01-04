@@ -5,10 +5,10 @@ slug: "cuneyt-gokcer-sahnesi"
 description: "## Cüneyt Gökçer Sahnesi: Ankara'nın Eski Tiyatro Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Ankara"
 type: "Antik Tiyatro"
-turler: '["Antik Tiyatro"]'
+turler: ["Antik Tiyatro"]
 coords: ""
 draft: "false"
 weight: "999"

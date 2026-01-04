@@ -5,10 +5,10 @@ slug: "kapakli-cayirlik-deresi-tumulusu"
 description: "## Kapaklı Çayırlık Deresi Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.340292,41.9018784"
 draft: "false"
 weight: "999"

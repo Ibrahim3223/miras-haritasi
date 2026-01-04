@@ -5,10 +5,10 @@ slug: "hatay-belen-ilce-halk-kutuphanesi"
 description: "### Hatay Belen İlçe Halk Kütüphanesi..."
 featured_image: ""
 province: "Hatay"
-iller: '["Hatay"]'
+iller: ["Hatay"]
 district: "Belen"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: ""
 draft: "false"
 weight: "999"

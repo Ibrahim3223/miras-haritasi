@@ -5,10 +5,10 @@ slug: "orduyeri-koprusu"
 description: "## Orduyeri Köprüsü: Bartın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bartın"
-iller: '["Bartın"]'
+iller: ["Bartın"]
 district: "Bartın"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.3428345,41.6402397"
 draft: "false"
 weight: "999"

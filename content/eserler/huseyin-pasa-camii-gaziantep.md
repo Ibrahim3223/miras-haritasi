@@ -5,10 +5,10 @@ slug: "huseyin-pasa-camii-gaziantep"
 description: "## Hüseyin Paşa Camii: Gaziantep'in Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.3849258,37.0606575"
 draft: "false"
 weight: "999"

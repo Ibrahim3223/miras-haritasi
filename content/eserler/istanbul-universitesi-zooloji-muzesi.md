@@ -5,10 +5,10 @@ slug: "istanbul-universitesi-zooloji-muzesi"
 description: "## İstanbul Üniversitesi Zooloji Müzesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.963611,41.013333"
 draft: "false"
 weight: "999"

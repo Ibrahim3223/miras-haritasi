@@ -5,10 +5,10 @@ slug: "anarad-higutyun-ermeni-katolik-kilisesi"
 description: "## Anarad Hığutyun Ermeni Katolik Kilisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "28.9306717,40.9994812"
 draft: "false"
 weight: "999"

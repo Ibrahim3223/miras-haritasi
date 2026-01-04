@@ -5,10 +5,10 @@ slug: "yegenbey-camii"
 description: "# Yeğenbey Camii: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8595505,39.9387093"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "belen-camii"
 description: "## Belen Camii: Milas'ta Bir Geç Çağdaş Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Milas_Belen_Camii_4922.jpg"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7811508,37.3160553"
 draft: "false"
 weight: "999"

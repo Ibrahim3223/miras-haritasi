@@ -5,10 +5,10 @@ slug: "mulayim-dede-turbesi-dedebali"
 description: "### Mülayim Dede Türbesi (Dedebali)..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Tavşanlı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.4862595,39.5457535"
 draft: "false"
 weight: "999"

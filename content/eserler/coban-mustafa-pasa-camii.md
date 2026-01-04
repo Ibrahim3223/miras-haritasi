@@ -5,10 +5,10 @@ slug: "coban-mustafa-pasa-camii"
 description: "### Çoban Mustafa Paşa Camii: Gebze'nin Tarihi Bir Öreni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Coban_mustafa_Pasa_Camii_-_panoramio.jpg/1200px-Coban_mustafa_Pasa_Camii_-_panoramio.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.431698752,40.800017125"
 draft: "false"
 weight: "10"

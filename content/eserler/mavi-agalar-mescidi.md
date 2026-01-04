@@ -5,10 +5,10 @@ slug: "mavi-agalar-mescidi"
 description: "## Mavi Ağalar Mescidi: Ankara'nın Tarihî Mirasının Değerli Bir Parçası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.8633614,39.9353523"
 draft: "false"
 weight: "999"

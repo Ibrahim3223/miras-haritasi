@@ -5,10 +5,10 @@ slug: "eudoksia-sutunu"
 description: "### Eudoksia Sütunu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.979081,41.008885"
 draft: "false"
 weight: "999"

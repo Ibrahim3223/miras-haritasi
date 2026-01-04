@@ -5,10 +5,10 @@ slug: "merdivenli-koyu-camii"
 description: "## Merdivenli Köyü Camii: Pazar, Rize'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Pazar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.795715354,41.148690764"
 draft: "false"
 weight: "999"

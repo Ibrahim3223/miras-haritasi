@@ -5,10 +5,10 @@ slug: "aya-matrona-kilisesi"
 description: "## Aya Matrona Kilisesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "26.4810848,38.38134"
 draft: "false"
 weight: "999"

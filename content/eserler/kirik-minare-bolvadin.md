@@ -5,10 +5,10 @@ slug: "kirik-minare-bolvadin"
 description: "## Kırık Minare, Bolvadin..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.0422745,38.7398949"
 draft: "false"
 weight: "999"

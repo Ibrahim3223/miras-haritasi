@@ -5,10 +5,10 @@ slug: "gul-baba-turbesi-burhaniye"
 description: "## Gül Baba Türbesi, Burhaniye..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.047544507,41.02907645"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esrefoglu-suleyman-bey-turbesi"
 description: "## Eşrefoğlu Süleyman Bey Türbesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "31.718835773,37.683483466"
 draft: "false"
 weight: "999"

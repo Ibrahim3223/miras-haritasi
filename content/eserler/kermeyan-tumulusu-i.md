@@ -5,10 +5,10 @@ slug: "kermeyan-tumulusu-i"
 description: "## Kermeyan Tümülüsü I..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.0846882,40.9289818"
 draft: "false"
 weight: "999"

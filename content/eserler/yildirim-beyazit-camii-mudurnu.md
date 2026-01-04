@@ -5,10 +5,10 @@ slug: "yildirim-beyazit-camii-mudurnu"
 description: "# Yıldırım Beyazıt Camii (Mudurnu)..."
 featured_image: ""
 province: "Bolu"
-iller: '["Bolu"]'
+iller: ["Bolu"]
 district: "Mudurnu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.211935,40.46418"
 draft: "false"
 weight: "999"

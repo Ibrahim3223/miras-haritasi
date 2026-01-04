@@ -5,10 +5,10 @@ slug: "hamza-beyin-esi-ve-kizlari-turbesi"
 description: "## Hamza Bey’in Eşi ve Kızları Türbesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.0415421,40.1921501"
 draft: "false"
 weight: "999"

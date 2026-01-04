@@ -5,10 +5,10 @@ slug: "kasim-celebi-camii-seferihisar"
 description: "### Kasım Çelebi Camii: Seferihisar'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.8160229,38.2425804"
 draft: "false"
 weight: "999"

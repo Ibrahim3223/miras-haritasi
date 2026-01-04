@@ -5,10 +5,10 @@ slug: "issos-yakinlarindaki-iskenderiye"
 description: "## İssos Yakınlarındaki İskenderiye: Antik Kentin Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.28055556,36.97138889"
 draft: "false"
 weight: "999"

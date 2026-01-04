@@ -5,10 +5,10 @@ slug: "akcapinar-camii"
 description: "### Akçapınar Camii: Serik'te Birinci Sınıf Cami..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/90/Akyaka_-_Marmaris_-_panoramio_%2810%29.jpg"
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.905866,37.148826"
 draft: "false"
 weight: "999"

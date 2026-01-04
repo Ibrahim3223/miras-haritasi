@@ -5,10 +5,10 @@ slug: "ipekyolu-vanda-cami"
 description: "### İpekyolu Cami: Van'ın Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/OTAltVanOsmanMoschee.jpg/1200px-OTAltVanOsmanMoschee.jpg"
 province: "Van"
-iller: '["Van"]'
+iller: ["Van"]
 district: "İpekyolu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "43.338694444,38.498111111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "poimanenon-turbe-kalintisi"
 description: "## Poimanenon Türbe Kalıntısı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Manyas"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.0560875,40.0023613"
 draft: "false"
 weight: "999"

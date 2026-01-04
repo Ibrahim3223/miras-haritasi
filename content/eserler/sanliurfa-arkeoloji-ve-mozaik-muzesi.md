@@ -5,10 +5,10 @@ slug: "sanliurfa-arkeoloji-ve-mozaik-muzesi"
 description: "## Şanlıurfa Arkeoloji ve Mozaik Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/UrfaMuseumGöbekli.jpg/1200px-UrfaMuseumGöbekli.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Şanlıurfa"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "38.781666666,37.153611111"
 draft: "false"
 weight: "10"

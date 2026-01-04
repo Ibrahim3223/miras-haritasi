@@ -5,10 +5,10 @@ slug: "kucuk-kopru-ciceklikoy"
 description: "### Küçük Köprü, Çiçekliköy: Bornova, İzmir'in Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "27.298008,38.4953117"
 draft: "false"
 weight: "999"

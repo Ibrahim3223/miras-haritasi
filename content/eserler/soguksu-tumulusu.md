@@ -5,10 +5,10 @@ slug: "soguksu-tumulusu"
 description: "### Soğuksu Tümülüsü: Edirne'nin Gizli Tarihi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Uzunköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.928875,41.1744308"
 draft: "false"
 weight: "999"

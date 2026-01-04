@@ -5,10 +5,10 @@ slug: "tuz-baba-turbesi"
 description: "## Tuz Baba Türbesi: Beşiktaş'ın Tarihî Bir Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "29.003934,41.046246"
 draft: "false"
 weight: "999"

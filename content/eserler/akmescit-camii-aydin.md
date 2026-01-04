@@ -5,10 +5,10 @@ slug: "akmescit-camii-aydin"
 description: "## Akmescit Camii, Aydın: Tarih, Mimari Özellikler ve Ziyaret Bilgileri..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.8488178,37.8458328"
 draft: "false"
 weight: "999"

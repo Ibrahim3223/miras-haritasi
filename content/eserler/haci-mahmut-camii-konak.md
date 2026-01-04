@@ -5,10 +5,10 @@ slug: "haci-mahmut-camii-konak"
 description: "## Hacı Mahmut Camii: İzmir'in Tarihi bir Ziyareti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.1308174,38.41679"
 draft: "false"
 weight: "999"

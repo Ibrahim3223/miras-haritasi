@@ -5,10 +5,10 @@ slug: "antiochia-lamotis"
 description: "## Antiochia Lamotis: Erdemli'nin Gizli Tarihi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6b/LANGLOIS%281861%29_p283_-_VUE_DES_RUINES_D%27_LAMAS.jpg"
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Erdemli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.241111111,36.557222222"
 draft: "false"
 weight: "999"

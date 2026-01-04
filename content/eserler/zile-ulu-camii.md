@@ -5,10 +5,10 @@ slug: "zile-ulu-camii"
 description: "## Zile Ulu Camii: Tokat'ta Bir Osmanlı Dönemi Anıtı..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Zile"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.886388888,40.302805555"
 draft: "false"
 weight: "999"

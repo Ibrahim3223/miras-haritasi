@@ -5,10 +5,10 @@ slug: "sultan-suleyman-kulliyesi"
 description: "## Sultan Süleyman Külliyesi..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Hasankeyf"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "41.4130592,37.7125359"
 draft: "false"
 weight: "999"

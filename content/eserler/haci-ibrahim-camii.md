@@ -5,10 +5,10 @@ slug: "haci-ibrahim-camii"
 description: "**Hacı İbrahim Camii**..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.595211,38.2128525"
 draft: "false"
 weight: "999"

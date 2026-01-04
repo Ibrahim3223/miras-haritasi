@@ -5,10 +5,10 @@ slug: "sadgeldi-turbesi"
 description: "## Şadgeldi Türbesi..."
 featured_image: ""
 province: "Amasya"
-iller: '["Amasya"]'
+iller: ["Amasya"]
 district: "Amasya"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8229942,40.6492081"
 draft: "false"
 weight: "999"

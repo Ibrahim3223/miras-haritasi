@@ -5,10 +5,10 @@ slug: "kastamonu-hukmet-konagi"
 description: "### Kastamonu Hükûmet Konağı: Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kastamonu_Hükümet_Konağı_panoramik.JPG/1200px-Kastamonu_Hükümet_Konağı_panoramik.JPG"
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "33.7787533,41.3758827"
 draft: "false"
 weight: "10"

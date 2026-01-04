@@ -5,10 +5,10 @@ slug: "sokollu-mehmed-pasa-camii-bor"
 description: "## Sokollu Mehmed Paşa Camii: Bor'da bir Osmanlı Dönemi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bor,_Niğde_Sokullu_Mehmet_Pasha_mosque_exterior_in_2023_4959.jpg/1200px-Bor,_Niğde_Sokullu_Mehmet_Pasha_mosque_exterior_in_2023_4959.jpg"
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Bor"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.5607529,37.8935165"
 draft: "false"
 weight: "10"

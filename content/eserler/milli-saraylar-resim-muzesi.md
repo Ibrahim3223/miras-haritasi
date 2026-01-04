@@ -5,10 +5,10 @@ slug: "milli-saraylar-resim-muzesi"
 description: "## Milli Saraylar Resim Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Golden_Horn_-_Bosphorous_River_cruise_-_Istanbul,_Turkey_(10582900944).jpg/1200px-Golden_Horn_-_Bosphorous_River_cruise_-_Istanbul,_Turkey_(10582900944).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "29.002689,41.039642"
 draft: "false"
 weight: "10"

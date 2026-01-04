@@ -5,10 +5,10 @@ slug: "oren-mevkii"
 description: "## Ören Mevkii Arkeolojik Sit..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.637233,38.158917"
 draft: "false"
 weight: "999"

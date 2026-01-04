@@ -5,10 +5,10 @@ slug: "hasbek-kadi-kumbeti"
 description: "## Hasbek Kadı Kümbeti: Kayseri'nin Tarihî Bir Anıtı..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.4820109,38.7227932"
 draft: "false"
 weight: "999"

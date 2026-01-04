@@ -5,10 +5,10 @@ slug: "gavur-kayasi-tumulusu"
 description: "## Gavur Kayası Tümülüsü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.891758,38.3356705"
 draft: "false"
 weight: "999"

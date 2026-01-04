@@ -5,10 +5,10 @@ slug: "agarak-manastiri"
 description: "### Agarak Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Agarak_church_01.jpg/1200px-Agarak_church_01.jpg"
 province: "Iğdır"
-iller: '["Iğdır"]'
+iller: ["Iğdır"]
 district: ""
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "43.6664363,39.962602"
 draft: "false"
 weight: "10"

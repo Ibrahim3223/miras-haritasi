@@ -5,10 +5,10 @@ slug: "apollo-karneios-tapinagi-knidos"
 description: "### Datça'daki Bir Antik Harika: Apollo Karneios Tapınağı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Ruines_et_colonnes_éparses_à_Cnide.JPG/1200px-Ruines_et_colonnes_éparses_à_Cnide.JPG"
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.373055555,36.688611111"
 draft: "false"
 weight: "10"

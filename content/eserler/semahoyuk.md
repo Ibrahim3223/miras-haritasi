@@ -5,10 +5,10 @@ slug: "semahoyuk"
 description: "### Semahöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: ""
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyh-necmettin-kumbeti"
 description: "### Şeyh Necmettin Kümbeti: Ahlat'ta Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Bitlis"
-iller: '["Bitlis"]'
+iller: ["Bitlis"]
 district: "Ahlat"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "42.4991417,38.7575645"
 draft: "false"
 weight: "999"

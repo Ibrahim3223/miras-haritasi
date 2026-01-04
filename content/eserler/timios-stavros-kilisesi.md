@@ -5,10 +5,10 @@ slug: "timios-stavros-kilisesi"
 description: "## Timios Stavros Kilisesi: Gümüşhane'nin Gizli Cenneti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.456332,40.451289"
 draft: "false"
 weight: "999"

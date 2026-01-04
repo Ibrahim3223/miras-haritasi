@@ -5,10 +5,10 @@ slug: "maghasberd"
 description: "## Maghasberd: Kars'ın Gizli Arkeolojik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/MAGHASBERD.jpg/1200px-MAGHASBERD.jpg"
 province: "Kars"
-iller: '["Kars"]'
+iller: ["Kars"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "43.5385,40.4718"
 draft: "false"
 weight: "10"

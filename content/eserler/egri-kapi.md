@@ -5,10 +5,10 @@ slug: "egri-kapi"
 description: "## Eğri Kapı: İstanbul'un Tarihî ve Kültürel Mirasının Değerli Parçaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eğri_Kapı.jpg/1200px-Eğri_Kapı.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.939388,41.036442"
 draft: "false"
 weight: "10"

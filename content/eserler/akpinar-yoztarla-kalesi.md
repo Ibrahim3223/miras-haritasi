@@ -5,10 +5,10 @@ slug: "akpinar-yoztarla-kalesi"
 description: "## Akpınar Yoztarla Kalesi: Vize'nin Gizli Mücevheri..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "27.8671799,41.6036186"
 draft: "false"
 weight: "999"

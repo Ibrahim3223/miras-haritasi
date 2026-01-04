@@ -5,10 +5,10 @@ slug: "orhan-camii-becin"
 description: "## Orhan Camii, Beçin..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "27.7885551,37.2727814"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyit-battal-gazi-camii"
 description: "## Seyit Battal Gazi Camii: Eskişehir'in Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mosque_and_Tomb,_Seyit_Battal_Gazi_Külliyesi.jpg/1200px-Mosque_and_Tomb,_Seyit_Battal_Gazi_Külliyesi.jpg"
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "30.6946926,39.4421349"
 draft: "false"
 weight: "10"

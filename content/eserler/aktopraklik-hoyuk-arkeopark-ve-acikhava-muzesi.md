@@ -5,10 +5,10 @@ slug: "aktopraklik-hoyuk-arkeopark-ve-acikhava-muzesi"
 description: "### Aktopraklık Höyük Arkeopark ve Açıkhava Müzesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Nilüfer"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.769825,40.1746597"
 draft: "false"
 weight: "999"

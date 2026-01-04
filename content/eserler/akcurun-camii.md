@@ -5,10 +5,10 @@ slug: "akcurun-camii"
 description: "## Akçurun Camii: Kilis'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.1177635,36.7187271"
 draft: "false"
 weight: "999"

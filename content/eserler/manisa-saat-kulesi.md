@@ -5,10 +5,10 @@ slug: "manisa-saat-kulesi"
 description: "## Manisa Saat Kulesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Clock_tower_-_manisa_saat_kulesi_2004.jpg/1200px-Clock_tower_-_manisa_saat_kulesi_2004.jpg"
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Manisa"
 type: "Saat Kulesi"
-turler: '["Saat Kulesi"]'
+turler: ["Saat Kulesi"]
 coords: "27.430194444,38.608416666"
 draft: "false"
 weight: "10"

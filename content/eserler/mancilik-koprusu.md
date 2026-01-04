@@ -5,10 +5,10 @@ slug: "mancilik-koprusu"
 description: "## Mancılık Köprüsü..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Kangal"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "37.2194519,39.0859451"
 draft: "false"
 weight: "999"

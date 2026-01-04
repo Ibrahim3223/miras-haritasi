@@ -5,10 +5,10 @@ slug: "dikilitas-turbesi"
 description: "## Dikilitaş Türbesi: Ladik'in Gizli Hazineleri..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.8919089,40.90921"
 draft: "false"
 weight: "999"

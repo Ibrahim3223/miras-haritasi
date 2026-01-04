@@ -5,10 +5,10 @@ slug: "thebai-iyonya"
 description: "## Thebai (İyonya) Arkeolojik Sitesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.14383,37.63439"
 draft: "false"
 weight: "999"

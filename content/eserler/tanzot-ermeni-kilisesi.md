@@ -5,10 +5,10 @@ slug: "tanzot-ermeni-kilisesi"
 description: "# Tanzot Ermeni Kilisesi..."
 featured_image: ""
 province: "Ardanuç"
-iller: '["Ardanuç"]'
+iller: ["Ardanuç"]
 district: "Aydınköy"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.095027777,41.042777777"
 draft: "false"
 weight: "999"

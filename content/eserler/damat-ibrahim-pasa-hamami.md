@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-hamami"
 description: "## Damat İbrahim Paşa Hamamı: Nevşehir'in Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.713887,38.622756"
 draft: "false"
 weight: "999"

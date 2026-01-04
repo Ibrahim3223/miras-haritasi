@@ -5,10 +5,10 @@ slug: "muradiye-kutuphanesi-manisa"
 description: "## Muradiye Kütüphanesi, Manisa: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "27.429260817,38.609848053"
 draft: "false"
 weight: "999"

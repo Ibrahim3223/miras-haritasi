@@ -5,10 +5,10 @@ slug: "agin-koprusu"
 description: "### Ağın Köprüsü: Ağın, Elazığ'da Bir Geçit Yaşıyor..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Ağın"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "38.66283,38.91526"
 draft: "false"
 weight: "999"

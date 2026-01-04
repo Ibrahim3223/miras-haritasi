@@ -5,10 +5,10 @@ slug: "haci-yahya-camii"
 description: "## Hacı Yahya Camii: Trabzon'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Haji_Yahya_Mosque_Trabzon.jpg/1200px-Haji_Yahya_Mosque_Trabzon.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.7223358,41.0080528"
 draft: "false"
 weight: "10"

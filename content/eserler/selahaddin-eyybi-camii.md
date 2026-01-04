@@ -5,10 +5,10 @@ slug: "selahaddin-eyybi-camii"
 description: "### Selahaddin Eyyûbi Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "38.7856636,37.1494827"
 draft: "false"
 weight: "999"

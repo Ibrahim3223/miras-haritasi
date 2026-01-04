@@ -5,10 +5,10 @@ slug: "demirciler-camii"
 description: "## Demirciler Camii: Antalya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "31.059428,37.224019"
 draft: "false"
 weight: "999"

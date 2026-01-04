@@ -5,10 +5,10 @@ slug: "agalar-camii-ula"
 description: "## Ağalar Camii: Ula'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.4179516,37.1022072"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emir-musa-bey-medresesi"
 description: "**Emir Musa Bey Medresesi**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "33.2069931,37.1807327"
 draft: "false"
 weight: "999"

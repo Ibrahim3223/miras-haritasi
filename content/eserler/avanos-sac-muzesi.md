@@ -5,10 +5,10 @@ slug: "avanos-sac-muzesi"
 description: "**Avanos Saç Müzesi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "34.8486,38.7198"
 draft: "false"
 weight: "999"

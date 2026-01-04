@@ -5,10 +5,10 @@ slug: "asma-kopru-borcka"
 description: "## Asma Köprü, Borçka: Doğu Karadeniz'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Artvin"
-iller: '["Artvin"]'
+iller: ["Artvin"]
 district: "Borçka"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "41.903687,41.092071"
 draft: "false"
 weight: "999"

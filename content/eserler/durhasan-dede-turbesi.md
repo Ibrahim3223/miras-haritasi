@@ -5,10 +5,10 @@ slug: "durhasan-dede-turbesi"
 description: "## Durhasan Dede Türbesi: Ceyhan'ın Tarihi Bir Anıt..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "35.7365837,36.8824196"
 draft: "false"
 weight: "999"

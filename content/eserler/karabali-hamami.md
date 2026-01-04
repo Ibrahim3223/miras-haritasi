@@ -5,10 +5,10 @@ slug: "karabali-hamami"
 description: "### Karabali Hamamı: Kocaeli'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Karamürsel"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.6185513,40.6946411"
 draft: "false"
 weight: "999"

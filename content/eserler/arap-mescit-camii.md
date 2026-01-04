@@ -5,10 +5,10 @@ slug: "arap-mescit-camii"
 description: "## Arap Mescit Camii..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "30.5354,38.7565"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "termessos-minor"
 description: "## Termessos Minor: Muğla'nın Gizli Harikası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.56268,36.82629"
 draft: "false"
 weight: "999"

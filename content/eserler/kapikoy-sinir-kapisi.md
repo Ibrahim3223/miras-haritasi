@@ -5,10 +5,10 @@ slug: "kapikoy-sinir-kapisi"
 description: "## Kapıköy Sınır Kapısı: Türkiye'nin Tarihi Bir Kervansarayı..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Kervansaray"
-turler: '["Kervansaray"]'
+turler: ["Kervansaray"]
 coords: "44.321079,38.497534097"
 draft: "false"
 weight: "999"

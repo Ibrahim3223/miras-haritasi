@@ -5,10 +5,10 @@ slug: "yundalan-buyuk-kocara-tumulusu"
 description: "## Yündalan Büyük Koçara Tümülüsü..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.3455124,41.7599983"
 draft: "false"
 weight: "999"

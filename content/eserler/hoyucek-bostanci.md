@@ -5,10 +5,10 @@ slug: "hoyucek-bostanci"
 description: "### Höyücek, Bostancı: Gönen'in Gizli Kahramanı..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Gönen"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.6754303,40.2184105"
 draft: "false"
 weight: "999"

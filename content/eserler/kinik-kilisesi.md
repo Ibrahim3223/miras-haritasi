@@ -5,10 +5,10 @@ slug: "kinik-kilisesi"
 description: "# Kınık Kilisesi: İzmir'in Gizli Kahramanı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "27.386055,39.0863113"
 draft: "false"
 weight: "999"

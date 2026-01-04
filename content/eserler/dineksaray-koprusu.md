@@ -5,10 +5,10 @@ slug: "dineksaray-koprusu"
 description: "### Dineksaray Köprüsü: Türkiye'nin Eski Bir Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Çumra"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.6062248,37.3883233"
 draft: "false"
 weight: "999"

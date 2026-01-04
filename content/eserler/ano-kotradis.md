@@ -5,10 +5,10 @@ slug: "ano-kotradis"
 description: "## Ano Kotradis: Kıbrıs'ta Eski Çağlar'ın İzleri..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "32.471456,36.530839"
 draft: "false"
 weight: "999"

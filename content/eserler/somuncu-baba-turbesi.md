@@ -5,10 +5,10 @@ slug: "somuncu-baba-turbesi"
 description: "## Somuncu Baba Türbesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Darende"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.4921989,38.5768013"
 draft: "false"
 weight: "999"

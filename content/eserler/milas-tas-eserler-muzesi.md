@@ -5,10 +5,10 @@ slug: "milas-tas-eserler-muzesi"
 description: "# Milas Taş Eserler Müzesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

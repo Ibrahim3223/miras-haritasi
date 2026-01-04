@@ -5,10 +5,10 @@ slug: "1-nolu-aziziye-tabyasi-sehitligi-1"
 description: "### 1 No'lu Aziziye Tabyası Şehitliği 1..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Palandöken"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "41.3077278,39.9131432"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "goreme-bezirhane-kilisesi"
 description: "### Göreme Bezirhane Kilisesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Göreme"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.8248558,38.6449547"
 draft: "false"
 weight: "999"

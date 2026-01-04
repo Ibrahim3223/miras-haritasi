@@ -5,10 +5,10 @@ slug: "olympos-vespasianus-hamami"
 description: "## Olympos Vespasianus Hamamı..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "30.4753704,36.3954582"
 draft: "false"
 weight: "999"

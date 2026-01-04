@@ -5,10 +5,10 @@ slug: "yuk-tepe"
 description: "## Yük Tepe Arkeolojik Sit..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Ladik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "35.893383,40.98848"
 draft: "false"
 weight: "999"

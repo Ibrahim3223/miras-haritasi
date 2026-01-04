@@ -5,10 +5,10 @@ slug: "budak-camii"
 description: "## Budak Camii: Ordu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: ""
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.397806,40.823421"
 draft: "false"
 weight: "999"

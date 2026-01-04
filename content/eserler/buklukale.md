@@ -5,10 +5,10 @@ slug: "buklukale"
 description: "# Büklükale Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Büklükale_01.jpg/1200px-Büklükale_01.jpg"
 province: "Kırıkkale"
-iller: '["Kırıkkale"]'
+iller: ["Kırıkkale"]
 district: "Karakeçili"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "33.428417,39.583528"
 draft: "false"
 weight: "10"

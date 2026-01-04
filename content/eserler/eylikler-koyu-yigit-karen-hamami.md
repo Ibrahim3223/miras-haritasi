@@ -5,10 +5,10 @@ slug: "eylikler-koyu-yigit-karen-hamami"
 description: "## Eylikler Köyü Yiğit Karen Hamamı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Beyşehir"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "31.737372,37.727297"
 draft: "false"
 weight: "999"

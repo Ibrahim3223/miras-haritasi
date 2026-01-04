@@ -5,10 +5,10 @@ slug: "eski-gordes-koprusu"
 description: "**Eski Gördes Köprüsü: Geçmişin Gizemi**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Gördes"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "28.3034477,38.9203987"
 draft: "false"
 weight: "999"

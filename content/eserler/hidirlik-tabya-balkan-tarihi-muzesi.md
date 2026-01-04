@@ -5,10 +5,10 @@ slug: "hidirlik-tabya-balkan-tarihi-muzesi"
 description: "### Hıdırlık Tabya Balkan Tarihi Müzesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

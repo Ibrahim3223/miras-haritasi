@@ -5,10 +5,10 @@ slug: "etenna"
 description: "## Etenna Arkeolojik Sit..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Manavgat"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "31.44916667,37.00166667"
 draft: "false"
 weight: "999"

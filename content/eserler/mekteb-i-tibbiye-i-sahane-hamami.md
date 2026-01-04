@@ -5,10 +5,10 @@ slug: "mekteb-i-tibbiye-i-sahane-hamami"
 description: "### Mekteb-i Tıbbiye-i Şahane Hamamı: İstanbul'un Gizli Çehresini Açığa Çıkaran Bir Hamam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.021,41.003235"
 draft: "false"
 weight: "999"

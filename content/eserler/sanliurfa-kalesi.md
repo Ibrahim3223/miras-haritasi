@@ -5,10 +5,10 @@ slug: "sanliurfa-kalesi"
 description: "## Şanlıurfa Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/UrfaKale.jpg/1200px-UrfaKale.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Eyyübiye"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "38.784,37.1454"
 draft: "false"
 weight: "10"

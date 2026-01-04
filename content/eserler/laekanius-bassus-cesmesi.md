@@ -5,10 +5,10 @@ slug: "laekanius-bassus-cesmesi"
 description: "## Laekanius Bassus Çeşmesi..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İzmir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.343325188,37.936115287"
 draft: "false"
 weight: "999"

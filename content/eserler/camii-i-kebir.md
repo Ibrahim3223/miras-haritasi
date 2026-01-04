@@ -5,10 +5,10 @@ slug: "camii-i-kebir"
 description: "### Camii-i Kebir: Elazığ'ın Gizli Cenneti..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.667335853,38.391886397"
 draft: "false"
 weight: "999"

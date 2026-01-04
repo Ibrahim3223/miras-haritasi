@@ -5,10 +5,10 @@ slug: "kumbet-kocabahce"
 description: "## Kümbet Kocabahce: Ezine'nin Gizli Mimari Harikası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.239617,39.7649"
 draft: "false"
 weight: "999"

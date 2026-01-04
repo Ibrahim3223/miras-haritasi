@@ -5,10 +5,10 @@ slug: "hava-kuvvetleri-muzesi"
 description: "### Hava Kuvvetleri Müzesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: ""
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: ""
 draft: "false"
 weight: "999"

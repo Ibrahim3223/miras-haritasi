@@ -5,10 +5,10 @@ slug: "kaletepe-hoyuk"
 description: "### Kaletepe Höyük: Tarihî ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Gülşehir"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "34.5518893,38.8394464"
 draft: "false"
 weight: "999"

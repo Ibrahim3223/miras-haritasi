@@ -5,10 +5,10 @@ slug: "yagcili-a-tumulusu"
 description: "## Yağcılı A Tümülüsü..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Süloğlu"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.8356018,41.7741432"
 draft: "false"
 weight: "999"

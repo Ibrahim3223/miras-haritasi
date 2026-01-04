@@ -5,10 +5,10 @@ slug: "ovacik-kilise-camii"
 description: "## Ovacık Kilise Camii: Niğde'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "34.8176498,38.0728035"
 draft: "false"
 weight: "999"

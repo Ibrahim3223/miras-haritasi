@@ -5,10 +5,10 @@ slug: "iscehisar-hoyugu"
 description: "### İscehisar Höyüğü: Tarihin Eski Kenti..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "İscehisar"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.7521755,38.8624604"
 draft: "false"
 weight: "999"

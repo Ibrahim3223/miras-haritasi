@@ -5,10 +5,10 @@ slug: "ucpinar-kursunlu-cami"
 description: "# Üçpınar Kurşunlu Cami: Konya'nın Gizli Cenneti..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Bozkır"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "32.2616,37.13299"
 draft: "false"
 weight: "999"

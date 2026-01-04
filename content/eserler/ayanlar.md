@@ -5,10 +5,10 @@ slug: "ayanlar"
 description: "## Ayanlar: Şanlıurfa'daki bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/92/View_of_Ayanlar_H%C3%B6y%C3%BCk_from_the_North.jpg"
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Karaköprü"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "38.5607338,37.1853104"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aphrodisias-trakya"
 description: "## Aphrodisias: Trakya'nın Gizli Çehresini Keşfedin..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.834645,40.538708"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kabali-camii"
 description: "### Kabalı Camii: Sivas'ta Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Sivas"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "37.0212097,39.7409096"
 draft: "false"
 weight: "999"

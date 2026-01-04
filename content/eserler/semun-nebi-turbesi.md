@@ -5,10 +5,10 @@ slug: "semun-nebi-turbesi"
 description: "### Şem’un Nebi Türbesi..."
 featured_image: ""
 province: "Kilis"
-iller: '["Kilis"]'
+iller: ["Kilis"]
 district: "Kilis"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "37.116099,36.713219"
 draft: "false"
 weight: "999"

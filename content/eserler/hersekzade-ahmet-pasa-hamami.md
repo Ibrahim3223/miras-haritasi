@@ -5,10 +5,10 @@ slug: "hersekzade-ahmet-pasa-hamami"
 description: "## Hersekzade Ahmet Paşa Hamamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "26.7687893,38.3210373"
 draft: "false"
 weight: "999"

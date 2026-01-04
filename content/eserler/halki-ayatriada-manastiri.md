@@ -5,10 +5,10 @@ slug: "halki-ayatriada-manastiri"
 description: "**Halki Ayatriada Manastırı: Adalar'ın Gizli Cenneti**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Halki_seminary_cemetery.JPG/1200px-Halki_seminary_cemetery.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Manastır"
-turler: '["Manastır"]'
+turler: ["Manastır"]
 coords: "29.094639,40.882139"
 draft: "false"
 weight: "10"

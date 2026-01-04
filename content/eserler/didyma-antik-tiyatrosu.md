@@ -5,10 +5,10 @@ slug: "didyma-antik-tiyatrosu"
 description: "## Didyma Antik Tiyatrosu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Didyma_Theatre_Plan.jpg/1200px-Didyma_Theatre_Plan.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Didim"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "27.256944444,37.383888888"
 draft: "false"
 weight: "10"

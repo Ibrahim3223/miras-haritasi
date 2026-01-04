@@ -5,10 +5,10 @@ slug: "tios-bizans-kilisesi"
 description: "## Tios Bizans Kilisesi..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Çaycuma"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "32.0312309,41.5737877"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ucharman-koprusu"
 description: "## Üçharman Köprüsü..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ayrancı"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.8124237,37.2857933"
 draft: "false"
 weight: "999"

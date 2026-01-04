@@ -5,10 +5,10 @@ slug: "garipce-hoyuk"
 description: "### Garipçe Höyük: Kayseri'nin Eski Şehri..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Pınarbaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.0707844,38.5698975"
 draft: "false"
 weight: "999"

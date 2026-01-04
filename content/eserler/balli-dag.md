@@ -5,10 +5,10 @@ slug: "balli-dag"
 description: "# Ballı Dağ Arkeolojik Sit..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Pınarbaşı"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.290233,39.875833"
 draft: "false"
 weight: "999"

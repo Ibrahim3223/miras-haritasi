@@ -5,10 +5,10 @@ slug: "nail-cakirhan-evi"
 description: "## Nail Çakırhan Evi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Ula"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.3234844,37.0539513"
 draft: "false"
 weight: "999"

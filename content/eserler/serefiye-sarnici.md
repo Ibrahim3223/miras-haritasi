@@ -5,10 +5,10 @@ slug: "serefiye-sarnici"
 description: "## Şerefiye Sarnıcı: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Theodosius_cistern_08.jpg/1200px-Theodosius_cistern_08.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.9726,41.00725"
 draft: "false"
 weight: "10"

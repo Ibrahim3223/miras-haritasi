@@ -5,10 +5,10 @@ slug: "evliya-kasimpasa-camii"
 description: "## Evliya Kasımpaşa Camii: Edirne'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.56034,41.66438"
 draft: "false"
 weight: "999"

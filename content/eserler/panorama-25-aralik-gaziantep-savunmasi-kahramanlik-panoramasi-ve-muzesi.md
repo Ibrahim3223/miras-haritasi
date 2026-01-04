@@ -5,10 +5,10 @@ slug: "panorama-25-aralik-gaziantep-savunmasi-kahramanlik-panoramasi-ve-muzesi"
 description: "## Panorama 25 Aralık Gaziantep Savunması Kahramanlık Panoraması ve Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.3792763,37.0658798"
 draft: "false"
 weight: "999"

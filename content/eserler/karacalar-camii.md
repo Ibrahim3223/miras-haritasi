@@ -5,10 +5,10 @@ slug: "karacalar-camii"
 description: "## Karacalar Camii: Bilecik'te Bir Önemli Cami..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.9855995,40.1406593"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mor-sobo-kilisesi"
 description: "## Mor Sobo Kilisesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Midyat"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "41.610027777,37.4765"
 draft: "false"
 weight: "999"

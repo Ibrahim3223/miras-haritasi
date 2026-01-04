@@ -5,10 +5,10 @@ slug: "dedemkoyu-hoyuk"
 description: "## Dedemköyü Höyük: Denizli'nin Eski Eserlerinden Biri..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.692817,38.197617"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-hasan-hamami"
 description: "## Hoca Hasan Hamamı: Elazığ'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Elazığ"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "39.250777777,38.703611111"
 draft: "false"
 weight: "999"

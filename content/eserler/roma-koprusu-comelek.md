@@ -5,10 +5,10 @@ slug: "roma-koprusu-comelek"
 description: "## Roma Köprüsü, Çömelek..."
 featured_image: ""
 province: "Mersin"
-iller: '["Mersin"]'
+iller: ["Mersin"]
 district: "Mut"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "33.7084512,36.7063796"
 draft: "false"
 weight: "999"

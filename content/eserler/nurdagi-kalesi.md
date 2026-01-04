@@ -5,10 +5,10 @@ slug: "nurdagi-kalesi"
 description: "## Nurdağı Kalesi: Gaziantep'in Tarihî Mirası..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Nurdağı"
 type: "Kale"
-turler: '["Kale"]'
+turler: ["Kale"]
 coords: "36.7254372,37.1892624"
 draft: "false"
 weight: "999"

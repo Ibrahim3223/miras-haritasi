@@ -5,10 +5,10 @@ slug: "boran-tepesi"
 description: "# Boran Tepesi: Sivas'ın Gizli Arkeolojik Sırı..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Ulaş"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "36.8208155,39.4177226"
 draft: "false"
 weight: "999"

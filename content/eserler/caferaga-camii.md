@@ -5,10 +5,10 @@ slug: "caferaga-camii"
 description: "## Caferağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cafer_Ağa_Camii.jpg/1200px-Cafer_Ağa_Camii.jpg"
 province: ""
-iller: '[""]'
+iller: [""]
 district: "İstanbul"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0243975,40.9893344"
 draft: "false"
 weight: "10"

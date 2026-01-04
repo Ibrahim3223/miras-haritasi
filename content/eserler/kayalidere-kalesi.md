@@ -5,10 +5,10 @@ slug: "kayalidere-kalesi"
 description: "### Kayalıdere Kalesi: Muş'un Gizli Kahramanı..."
 featured_image: ""
 province: "Muş"
-iller: '["Muş"]'
+iller: ["Muş"]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "41.56064,39.07157"
 draft: "false"
 weight: "999"

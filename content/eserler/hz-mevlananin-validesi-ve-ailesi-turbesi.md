@@ -5,10 +5,10 @@ slug: "hz-mevlananin-validesi-ve-ailesi-turbesi"
 description: "## Hz. Mevlana'nın Validesi ve Ailesi Türbesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "33.2134,37.1829"
 draft: "false"
 weight: "999"

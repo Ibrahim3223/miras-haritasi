@@ -5,10 +5,10 @@ slug: "hilye-i-serif-ve-tesbih-muzesi"
 description: "## Hilye-i Şerif ve Tesbih Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "28.9661541,41.0172043"
 draft: "false"
 weight: "999"

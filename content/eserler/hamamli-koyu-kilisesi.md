@@ -5,10 +5,10 @@ slug: "hamamli-koyu-kilisesi"
 description: "## Hamamlı Köyü Kilisesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Niğde"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "34.6579819,37.9804764"
 draft: "false"
 weight: "999"

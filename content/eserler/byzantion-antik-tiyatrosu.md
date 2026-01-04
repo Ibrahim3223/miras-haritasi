@@ -5,10 +5,10 @@ slug: "byzantion-antik-tiyatrosu"
 description: "**Byzantion Antik Tiyatrosu: İstanbul'un Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "28.985339,41.014459"
 draft: "false"
 weight: "999"

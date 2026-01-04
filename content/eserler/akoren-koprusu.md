@@ -5,10 +5,10 @@ slug: "akoren-koprusu"
 description: "# Akören Köprüsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akören"
 type: "Köprü"
-turler: '["Köprü"]'
+turler: ["Köprü"]
 coords: "32.411568596,37.464611955"
 draft: "false"
 weight: "999"

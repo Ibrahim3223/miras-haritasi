@@ -5,10 +5,10 @@ slug: "gokgol-camii"
 description: "## Gökgöl Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Asarcık"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "36.2626076,41.0438881"
 draft: "false"
 weight: "999"

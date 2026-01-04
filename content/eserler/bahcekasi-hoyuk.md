@@ -5,10 +5,10 @@ slug: "bahcekasi-hoyuk"
 description: "## Bahçekaşı Höyük: Ergani'nin Gizli Kahramanı..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Ergani"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "39.7350037,38.2683217"
 draft: "false"
 weight: "999"

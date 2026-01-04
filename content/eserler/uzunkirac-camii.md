@@ -5,10 +5,10 @@ slug: "uzunkirac-camii"
 description: "### Uzunkıraç Camii..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Alaçam"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.4235992,41.4756012"
 draft: "false"
 weight: "999"

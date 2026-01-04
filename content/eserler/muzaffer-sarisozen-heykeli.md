@@ -5,10 +5,10 @@ slug: "muzaffer-sarisozen-heykeli"
 description: "## Muzaffer Sarısözen Heykeli..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "32.8528595,39.9327927"
 draft: "false"
 weight: "999"

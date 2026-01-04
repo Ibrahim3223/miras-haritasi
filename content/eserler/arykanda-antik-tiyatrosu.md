@@ -5,10 +5,10 @@ slug: "arykanda-antik-tiyatrosu"
 description: "### Arykanda Antik Tiyatrosu..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Finike"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.059942,36.514319"
 draft: "false"
 weight: "999"

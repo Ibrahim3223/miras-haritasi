@@ -5,10 +5,10 @@ slug: "arikdere-hoyugu"
 description: "## Arıkdere Höyüğü: Tarih ve Kültürel Mirasın Eseri..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Karkamış"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "37.8472486,36.82114"
 draft: "false"
 weight: "999"

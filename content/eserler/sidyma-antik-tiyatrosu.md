@@ -5,10 +5,10 @@ slug: "sidyma-antik-tiyatrosu"
 description: "### Sidyma Antik Tiyatrosu: Muğla'nın Tarihi Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Seydikemer"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.1939812,36.4094925"
 draft: "false"
 weight: "999"

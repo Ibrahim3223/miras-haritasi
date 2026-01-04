@@ -5,10 +5,10 @@ slug: "tabakhane-dedesi-mescidi-ve-turbesi"
 description: "## Tabakhane Dedesi Mescidi ve Türbesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.6156998,37.7285004"
 draft: "false"
 weight: "999"

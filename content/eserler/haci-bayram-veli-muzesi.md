@@ -5,10 +5,10 @@ slug: "haci-bayram-veli-muzesi"
 description: "## Hacı Bayram Veli Müzesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "32.8700371,39.9345741"
 draft: "false"
 weight: "999"

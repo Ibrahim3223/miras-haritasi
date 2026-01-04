@@ -5,10 +5,10 @@ slug: "yorucek-cami"
 description: "### Yörücek Cami..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "26.9038277,41.0004501"
 draft: "false"
 weight: "999"

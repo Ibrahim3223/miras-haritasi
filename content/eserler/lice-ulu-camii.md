@@ -5,10 +5,10 @@ slug: "lice-ulu-camii"
 description: "## Lice Ulu Camii: Diyarbakır'ın Tarihî Miraslarından Bir Örnek..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Lice"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "40.643305555,38.459416666"
 draft: "false"
 weight: "999"

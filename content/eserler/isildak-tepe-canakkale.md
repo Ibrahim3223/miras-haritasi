@@ -5,10 +5,10 @@ slug: "isildak-tepe-canakkale"
 description: "# Işıldak Tepe Arkeolojik Sit, Çanakkale..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.28995,40.005233"
 draft: "false"
 weight: "999"

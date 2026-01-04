@@ -5,10 +5,10 @@ slug: "altintas-koyu-camii"
 description: "### Altıntaş Köyü Camii: Tarihi Bir Miras..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Alaca"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "35.1318092,40.0348053"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bascavus-hamami"
 description: "## Başçavuş Hamamı..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Yozgat"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "34.8058243,39.8241463"
 draft: "false"
 weight: "999"

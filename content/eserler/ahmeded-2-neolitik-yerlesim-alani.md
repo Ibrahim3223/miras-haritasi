@@ -5,10 +5,10 @@ slug: "ahmeded-2-neolitik-yerlesim-alani"
 description: "## Ahmeded 2 Neolitik Yerleşim Alanı..."
 featured_image: ""
 province: "Bilecik"
-iller: '["Bilecik"]'
+iller: ["Bilecik"]
 district: "Bilecik"
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "30.0963707,40.1401596"
 draft: "false"
 weight: "999"

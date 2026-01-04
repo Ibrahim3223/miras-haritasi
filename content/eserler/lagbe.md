@@ -5,10 +5,10 @@ slug: "lagbe"
 description: "# Lagbe: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "29.924947,37.142961"
 draft: "false"
 weight: "999"

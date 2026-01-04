@@ -5,10 +5,10 @@ slug: "gulabi-bey-camii"
 description: "## Gülabi Bey Camii..."
 featured_image: ""
 province: "Şanlıurfa"
-iller: '["Şanlıurfa"]'
+iller: ["Şanlıurfa"]
 district: "Siverek"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "39.3184929,37.756813"
 draft: "false"
 weight: "999"

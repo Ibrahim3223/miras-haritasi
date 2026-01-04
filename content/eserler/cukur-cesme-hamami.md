@@ -5,10 +5,10 @@ slug: "cukur-cesme-hamami"
 description: "## Çukur Çeşme Hamamı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9575481,41.0110664"
 draft: "false"
 weight: "999"

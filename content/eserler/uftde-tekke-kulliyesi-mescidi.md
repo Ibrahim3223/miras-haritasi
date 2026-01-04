@@ -5,10 +5,10 @@ slug: "uftde-tekke-kulliyesi-mescidi"
 description: "## Üftâde Tekke Külliyesi Mescidi: Bursa'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0541916,40.1779633"
 draft: "false"
 weight: "999"

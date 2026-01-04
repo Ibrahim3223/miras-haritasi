@@ -5,10 +5,10 @@ slug: "mihrimah-sultan-hamami-edirnekapi"
 description: "## Mihrimah Sultan Hamamı, Edirnekapı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Mihrimah_Sultan_Hamamı,_Edirnekapı_01.jpg/1200px-Mihrimah_Sultan_Hamamı,_Edirnekapı_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "28.9364594,41.0288158"
 draft: "false"
 weight: "10"

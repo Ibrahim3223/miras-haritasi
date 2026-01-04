@@ -5,10 +5,10 @@ slug: "ilion"
 description: "### İlion Arkeolojik Sit..."
 featured_image: ""
 province: ""
-iller: '[""]'
+iller: [""]
 district: ""
 type: "Arkeolojik Sit"
-turler: '["Arkeolojik Sit"]'
+turler: ["Arkeolojik Sit"]
 coords: "26.23888889,39.9575"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cobanbasi-ali-fakih-kabri"
 description: "## Çobanbaşı Ali Fakih Kabri: Fatih'in Güzeli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.926579589,41.001622507"
 draft: "false"
 weight: "999"

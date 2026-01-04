@@ -5,10 +5,10 @@ slug: "eruseti-kilisesi"
 description: "### Eruşeti Kilisesi..."
 featured_image: ""
 province: "Ardahan"
-iller: '["Ardahan"]'
+iller: ["Ardahan"]
 district: "Hanak"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "42.964527777,41.256527777"
 draft: "false"
 weight: "999"

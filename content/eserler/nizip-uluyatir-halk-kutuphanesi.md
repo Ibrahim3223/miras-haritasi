@@ -5,10 +5,10 @@ slug: "nizip-uluyatir-halk-kutuphanesi"
 description: "## Nizip Uluyatır Halk Kütüphanesi: Gaziantep'te Kültür ve Bilgi Merkezi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: ""
 type: "Kütüphane"
-turler: '["Kütüphane"]'
+turler: ["Kütüphane"]
 coords: "37.694191209,36.96267645"
 draft: "false"
 weight: "999"

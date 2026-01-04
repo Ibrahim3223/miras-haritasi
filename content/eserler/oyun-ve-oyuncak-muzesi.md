@@ -5,10 +5,10 @@ slug: "oyun-ve-oyuncak-muzesi"
 description: "## Oyun ve Oyuncak Müzesi..."
 featured_image: ""
 province: "Gaziantep"
-iller: '["Gaziantep"]'
+iller: ["Gaziantep"]
 district: "Şahinbey"
 type: "Müze"
-turler: '["Müze"]'
+turler: ["Müze"]
 coords: "37.3773,37.0614"
 draft: "false"
 weight: "999"

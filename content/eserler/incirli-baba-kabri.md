@@ -5,10 +5,10 @@ slug: "incirli-baba-kabri"
 description: "## İncirli Baba Kabri: İstanbul'un Gizli Anıt Mezarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "28.9558372,41.0207634"
 draft: "false"
 weight: "999"

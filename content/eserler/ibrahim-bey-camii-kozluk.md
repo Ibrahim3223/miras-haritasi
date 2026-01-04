@@ -5,10 +5,10 @@ slug: "ibrahim-bey-camii-kozluk"
 description: "## İbrahim Bey Camii, Kozluk..."
 featured_image: ""
 province: "Batman"
-iller: '["Batman"]'
+iller: ["Batman"]
 district: "Kozluk"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "41.490345,38.1935921"
 draft: "false"
 weight: "999"

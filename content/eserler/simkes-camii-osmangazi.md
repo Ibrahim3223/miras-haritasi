@@ -5,10 +5,10 @@ slug: "simkes-camii-osmangazi"
 description: "## Simkeş Camii: Bursa'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "29.0659065,40.1839523"
 draft: "false"
 weight: "999"

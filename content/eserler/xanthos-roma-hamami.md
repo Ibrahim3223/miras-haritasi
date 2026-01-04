@@ -5,10 +5,10 @@ slug: "xanthos-roma-hamami"
 description: "### Xanthos Roma Hamamı: Kaş'taki Tarihî Bir Miras..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Hamam"
-turler: '["Hamam"]'
+turler: ["Hamam"]
 coords: "29.319078,36.356258"
 draft: "false"
 weight: "999"

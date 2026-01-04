@@ -5,10 +5,10 @@ slug: "erenkaya-kilisesi"
 description: "## Erenkaya Kilisesi: Şiran'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Kilise"
-turler: '["Kilise"]'
+turler: ["Kilise"]
 coords: "39.1086044,40.2298584"
 draft: "false"
 weight: "999"

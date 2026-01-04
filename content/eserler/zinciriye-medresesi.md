@@ -5,10 +5,10 @@ slug: "zinciriye-medresesi"
 description: "### Zinciriye Medresesi: Diyarbakır'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Diyarbakır"
-iller: '["Diyarbakır"]'
+iller: ["Diyarbakır"]
 district: "Sur"
 type: "Medrese"
-turler: '["Medrese"]'
+turler: ["Medrese"]
 coords: "40.2350502,37.9122543"
 draft: "false"
 weight: "999"

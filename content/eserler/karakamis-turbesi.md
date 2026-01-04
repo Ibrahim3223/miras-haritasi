@@ -5,10 +5,10 @@ slug: "karakamis-turbesi"
 description: "## Karakamış Türbesi: Sakarya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Anıt"
-turler: '["Anıt"]'
+turler: ["Anıt"]
 coords: "30.3732281,40.8125"
 draft: "false"
 weight: "999"

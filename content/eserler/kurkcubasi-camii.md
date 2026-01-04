@@ -5,10 +5,10 @@ slug: "kurkcubasi-camii"
 description: "### Kürkçübaşı Camii: Tarihi ve Miras Değerleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Kürkçübaşı_Camii,_Cerrahpaşa.jpg/1200px-Kürkçübaşı_Camii,_Cerrahpaşa.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Cami"
-turler: '["Cami"]'
+turler: ["Cami"]
 coords: "28.9455967,41.0071907"
 draft: "false"
 weight: "10"
