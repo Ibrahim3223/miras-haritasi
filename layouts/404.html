@@ -2,11 +2,14 @@
 <div class="container" style="padding: 80px 20px; text-align: center; min-height: 60vh; display: flex; flex-direction: column; align-items: center; justify-content: center;">
     <div style="font-size: 8rem; margin-bottom: 20px; opacity: 0.8;">🏛️</div>
     <h1 style="font-size: 3rem; margin-bottom: 15px; color: var(--primary);">404</h1>
-    <h2 style="font-size: 1.5rem; margin-bottom: 20px; color: var(--text-light); font-weight: 400;">Sayfa Bulunamadı</h2>
-    <p style="max-width: 500px; color: var(--text-light); margin-bottom: 40px; line-height: 1.6;">
+    <h2 id="pageTitle" style="font-size: 1.5rem; margin-bottom: 20px; color: var(--text-light); font-weight: 400;">Sayfa Bulunamadı</h2>
+    <p id="pageMessage" style="max-width: 500px; color: var(--text-light); margin-bottom: 40px; line-height: 1.6;">
         Aradığınız tarihi eser veya sayfa mevcut değil ya da taşınmış olabilir.
         Türkiye'nin zengin kültürel mirasını keşfetmeye devam edin!
     </p>
+    <div id="redirectTimer" style="display: none; font-size: 1.2rem; color: var(--secondary); font-weight: 600; margin-bottom: 20px;">
+        <span id="countdown">3</span> saniye içinde yönlendiriliyorsunuz...
+    </div>
 
     <div style="display: flex; gap: 15px; flex-wrap: wrap; justify-content: center; margin-bottom: 50px;">
         <a href="/" class="btn btn-primary">Ana Sayfaya Dön</a>
@@ -25,4 +28,42 @@
         </div>
     </div>
 </div>
+
+<script>
+    // Auto-redirect deleted fountain (çeşme) pages
+    (function() {
+        const currentPath = window.location.pathname.toLowerCase();
+
+        // Check if URL contains çeşme/cesme variants
+        const fountainPatterns = ['cesme', 'çesme', 'cesmesi', 'çesmesi'];
+        const isFountainPage = fountainPatterns.some(pattern => currentPath.includes(pattern));
+
+        if (isFountainPage) {
+            // Update UI for fountain pages
+            document.getElementById('pageTitle').textContent = 'Bu Sayfa Arşivlendi';
+            document.getElementById('pageMessage').innerHTML =
+                'Çeşme sayfalarımız arşivlenmiştir. <br>Tüm tarihi eserlerimizi ana listeden keşfedebilirsiniz.';
+            document.getElementById('redirectTimer').style.display = 'block';
+
+            // Countdown timer
+            let seconds = 3;
+            const countdownEl = document.getElementById('countdown');
+            const timer = setInterval(() => {
+                seconds--;
+                countdownEl.textContent = seconds;
+                if (seconds <= 0) {
+                    clearInterval(timer);
+                    window.location.href = '/eserler/';
+                }
+            }, 1000);
+
+            // Update button to skip countdown
+            const mainBtn = document.querySelector('.btn-primary');
+            if (mainBtn) {
+                mainBtn.textContent = 'Hemen Git';
+                mainBtn.href = '/eserler/';
+            }
+        }
+    })();
+</script>
 {{ end }}
