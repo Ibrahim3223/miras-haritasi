@@ -5,10 +5,10 @@ slug: "hadim-ibrahim-pasa-camii-sadirvani"
 description: "## Hadım İbrahim Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9223461,41.0061417"
 draft: "false"
 weight: "999"

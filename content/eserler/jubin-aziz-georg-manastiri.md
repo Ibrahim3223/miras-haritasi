@@ -4,8 +4,7 @@ date: "2025-12-25T09:48:05+03:00"
 slug: "jubin-aziz-georg-manastiri"
 description: "## Jubin Aziz Georg Manastırı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

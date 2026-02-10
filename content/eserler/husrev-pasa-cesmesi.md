@@ -5,10 +5,10 @@ slug: "husrev-pasa-cesmesi"
 description: "### Hüsrev Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9428177,41.0186462"
 draft: "false"
 weight: "999"

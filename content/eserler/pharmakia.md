@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:59+03:00"
 slug: "pharmakia"
 description: "## Pharmakia: Antik İyonya'nın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

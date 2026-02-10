@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:30+03:00"
 slug: "hacihamza-hoyugu"
 description: "## Hacıhamza Höyüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

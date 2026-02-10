@@ -5,10 +5,10 @@ slug: "bedevi-tekkesi-cesmesi"
 description: "## Bedevi Tekkesi Çeşmesi: Üsküdar'ın Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.045621,41.040288"
 draft: "false"
 weight: "999"

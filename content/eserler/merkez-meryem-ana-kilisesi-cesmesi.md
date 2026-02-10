@@ -5,10 +5,10 @@ slug: "merkez-meryem-ana-kilisesi-cesmesi"
 description: "## Merkez Meryem Ana Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979246404,41.025023665"
 draft: "false"
 weight: "999"

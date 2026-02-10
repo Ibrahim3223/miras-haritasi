@@ -4,8 +4,7 @@ date: "2025-12-25T14:47:02+03:00"
 slug: "ahi-serafeddin-turbesi"
 description: "# Ahi Şerafeddin Türbesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

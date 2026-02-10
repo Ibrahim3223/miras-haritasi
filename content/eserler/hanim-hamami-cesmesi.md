@@ -5,10 +5,10 @@ slug: "hanim-hamami-cesmesi"
 description: "## Hanım Hamamı Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.275032,39.9075203"
 draft: "false"
 weight: "999"

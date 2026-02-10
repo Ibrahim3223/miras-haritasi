@@ -5,10 +5,10 @@ slug: "abdurrahman-aga-cesmesi"
 description: "### Abdurrahman Ağa Çeşmesi: İskilip'te Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4712563,40.7328949"
 draft: "false"
 weight: "999"

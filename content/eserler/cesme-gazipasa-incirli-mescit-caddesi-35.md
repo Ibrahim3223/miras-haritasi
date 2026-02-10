@@ -5,10 +5,10 @@ slug: "cesme-gazipasa-incirli-mescit-caddesi-35"
 description: "**Çeşme – Gazipaşa, İncirli Mescit Caddesi, 35: Bergama'nın Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1763992,39.1208"
 draft: "false"
 weight: "999"

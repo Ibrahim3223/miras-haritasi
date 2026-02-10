@@ -5,10 +5,10 @@ slug: "maltepe-merkez-camii-sadirvani"
 description: "## Maltepe Merkez Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1306038,40.9247208"
 draft: "false"
 weight: "999"

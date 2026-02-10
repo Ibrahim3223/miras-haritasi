@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:33+03:00"
 slug: "sidene"
 description: "# Sidene Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:18+03:00"
 slug: "mantineion"
 description: "## Mantineion: Antik Mantineia'nın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

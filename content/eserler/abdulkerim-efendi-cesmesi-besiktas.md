@@ -5,10 +5,10 @@ slug: "abdulkerim-efendi-cesmesi-besiktas"
 description: "## Abdülkerim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0238667,41.0489655"
 draft: "false"
 weight: "999"

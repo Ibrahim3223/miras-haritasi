@@ -5,10 +5,10 @@ slug: "pazar-cesmesi"
 description: "## Pazar Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2911434,38.4190025"
 draft: "false"
 weight: "999"

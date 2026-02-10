@@ -5,10 +5,10 @@ slug: "nasrullah-camii-sadirvani"
 description: "### Nasrullah Camii Şadırvanı: Kastamonu'nun Güzeli..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.775309913,41.377534649"
 draft: "false"
 weight: "999"

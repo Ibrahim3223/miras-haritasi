@@ -4,8 +4,7 @@ date: "2025-12-25T04:58:06+03:00"
 slug: "sambaktys"
 description: "## Sambaktys Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

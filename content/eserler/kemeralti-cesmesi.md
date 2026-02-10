@@ -5,10 +5,10 @@ slug: "kemeralti-cesmesi"
 description: "**Kemeraltı Çeşmesi: Fatih'te Bir Ölümsüz**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961222,41.012916"
 draft: "false"
 weight: "999"

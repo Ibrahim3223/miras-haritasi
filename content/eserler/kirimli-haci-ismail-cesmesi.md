@@ -5,10 +5,10 @@ slug: "kirimli-haci-ismail-cesmesi"
 description: "**Kırımlı Hacı İsmail Çeşmesi**..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Dilovası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.5549812,40.8460655"
 draft: "false"
 weight: "999"

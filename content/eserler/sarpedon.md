@@ -4,8 +4,7 @@ date: "2025-12-25T05:20:25+03:00"
 slug: "sarpedon"
 description: "### Sarpedon: Lycia'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

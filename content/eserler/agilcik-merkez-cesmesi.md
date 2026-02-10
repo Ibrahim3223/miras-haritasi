@@ -5,10 +5,10 @@ slug: "agilcik-merkez-cesmesi"
 description: "### Ağılcık Merkez Çeşmesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.982392983,40.226150154"
 draft: "false"
 weight: "999"

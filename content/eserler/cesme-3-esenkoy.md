@@ -5,10 +5,10 @@ slug: "cesme-3-esenkoy"
 description: "### Çeşme 3, Esenköy: Aydın'ın Tarihî Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3482,37.8045"
 draft: "false"
 weight: "999"

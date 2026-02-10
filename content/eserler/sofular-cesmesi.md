@@ -5,10 +5,10 @@ slug: "sofular-cesmesi"
 description: "## Sofular Çeşmesi: Vize'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.71725,41.641861111"
 draft: "false"
 weight: "999"

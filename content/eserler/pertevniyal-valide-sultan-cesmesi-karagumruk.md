@@ -5,10 +5,10 @@ slug: "pertevniyal-valide-sultan-cesmesi-karagumruk"
 description: "## Pertevniyal Valide Sultan Çeşmesi, Karagümrük..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9389114,41.0245934"
 draft: "false"
 weight: "999"

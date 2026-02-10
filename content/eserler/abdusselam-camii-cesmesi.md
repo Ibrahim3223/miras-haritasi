@@ -5,10 +5,10 @@ slug: "abdusselam-camii-cesmesi"
 description: "## Abdüsselam Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Abdüsselam_Camii_Çeşmesi.jpg/1200px-Abdüsselam_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7723503,40.9917564"
 draft: "false"
 weight: "10"

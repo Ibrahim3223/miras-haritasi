@@ -5,10 +5,10 @@ slug: "saman-pazari-sokak-cesmesi-bergama"
 description: "## Saman Pazarı Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1821003,39.1232986"
 draft: "false"
 weight: "999"

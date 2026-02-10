@@ -5,10 +5,10 @@ slug: "taksiyarhis-kilise-cesmesi"
 description: "## Taksiyarhis Kilise Çeşmesi: Ayvalık'taki Büyüleyici Tarihi Eser..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6947498,39.3195763"
 draft: "false"
 weight: "999"

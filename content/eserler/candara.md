@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:46+03:00"
 slug: "candara"
 description: "## Candara: Geçmişin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:32+03:00"
 slug: "petobriga"
 description: "## Petobriga: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

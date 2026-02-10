@@ -5,10 +5,10 @@ slug: "mutevelli-suyu-cesmesi"
 description: "## Mütevelli Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.236252,41.049461"
 draft: "false"
 weight: "999"

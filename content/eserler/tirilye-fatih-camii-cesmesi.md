@@ -5,10 +5,10 @@ slug: "tirilye-fatih-camii-cesmesi"
 description: "## Tirilye Fatih Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7967339,40.3930893"
 draft: "false"
 weight: "999"

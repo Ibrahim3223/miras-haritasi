@@ -5,10 +5,10 @@ slug: "gazi-ahmet-pasa-camii-sadirvani"
 description: "## Gazi Ahmet Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşme Öncüsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9290981,41.0212555"
 draft: "false"
 weight: "999"

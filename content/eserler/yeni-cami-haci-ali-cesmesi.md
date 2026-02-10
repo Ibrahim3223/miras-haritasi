@@ -5,10 +5,10 @@ slug: "yeni-cami-haci-ali-cesmesi"
 description: "### Yeni Cami Hacı Ali Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4691277,40.732872"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "komiserin-cesmesi"
 description: "## Komiserin Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.453765,40.449217"
 draft: "false"
 weight: "999"

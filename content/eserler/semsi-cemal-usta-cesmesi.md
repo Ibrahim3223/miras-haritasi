@@ -5,10 +5,10 @@ slug: "semsi-cemal-usta-cesmesi"
 description: "### Şemsi Cemal Usta Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Şemsi_Cemal_Usta_Fountain.jpg/1200px-Şemsi_Cemal_Usta_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940134,41.0405083"
 draft: "false"
 weight: "10"

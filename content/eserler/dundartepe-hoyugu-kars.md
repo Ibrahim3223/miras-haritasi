@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:54+03:00"
 slug: "dundartepe-hoyugu-kars"
 description: "### Dündartepe Höyüğü: Kars'ta Gizli Bir Geçmiş..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

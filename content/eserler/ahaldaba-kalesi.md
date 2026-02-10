@@ -4,8 +4,7 @@ date: "2025-12-25T01:20:01+03:00"
 slug: "ahaldaba-kalesi"
 description: "### Ahaldaba Kalesi: Tarihî Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Longotkhevi.png/1200px-Longotkhevi.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kale"
 turler: ["Kale"]

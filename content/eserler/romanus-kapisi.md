@@ -4,8 +4,7 @@ date: "2025-12-25T13:18:47+03:00"
 slug: "romanus-kapisi"
 description: "### Romanus Kapısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Rom_kap_splj.jpg/1200px-Rom_kap_splj.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

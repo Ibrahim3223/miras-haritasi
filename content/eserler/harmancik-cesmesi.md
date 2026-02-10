@@ -5,10 +5,10 @@ slug: "harmancik-cesmesi"
 description: "## Harmancık Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4478912,37.8301353"
 draft: "false"
 weight: "999"

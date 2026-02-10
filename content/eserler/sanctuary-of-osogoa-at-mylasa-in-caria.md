@@ -4,8 +4,7 @@ date: "2025-12-25T08:13:08+03:00"
 slug: "sanctuary-of-osogoa-at-mylasa-in-caria"
 description: "**Sanctuary of Osogoa at Mylasa in Caria**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

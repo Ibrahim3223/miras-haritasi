@@ -5,10 +5,10 @@ slug: "haci-mehmet-aga-cesmesi"
 description: "## Hacı Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3062477,38.321949"
 draft: "false"
 weight: "999"

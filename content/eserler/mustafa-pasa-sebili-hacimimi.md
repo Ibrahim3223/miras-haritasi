@@ -5,10 +5,10 @@ slug: "mustafa-pasa-sebili-hacimimi"
 description: "## Mustafa Paşa Sebili, Hacımimi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9801922,41.0269394"
 draft: "false"
 weight: "999"

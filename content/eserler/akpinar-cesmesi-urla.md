@@ -5,10 +5,10 @@ slug: "akpinar-cesmesi-urla"
 description: "## Akpınar Çeşmesi, Urla: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.770689,38.3216591"
 draft: "false"
 weight: "999"

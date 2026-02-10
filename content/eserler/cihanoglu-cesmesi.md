@@ -5,10 +5,10 @@ slug: "cihanoglu-cesmesi"
 description: "## Cihanoğlu Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7056847,37.7590446"
 draft: "false"
 weight: "999"

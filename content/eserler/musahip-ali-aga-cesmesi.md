@@ -5,10 +5,10 @@ slug: "musahip-ali-aga-cesmesi"
 description: "## Musahip Ali Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.016245,41.00531"
 draft: "false"
 weight: "999"

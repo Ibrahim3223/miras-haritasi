@@ -4,11 +4,10 @@ date: "2025-12-25T10:06:41+03:00"
 slug: "konyali-cikmazi-cesmesi"
 description: "# Konyalı Çıkmazı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/414.36-Konyalı_Çıkmazı_Çeşmesi-1889_01.jpg/1200px-414.36-Konyalı_Çıkmazı_Çeşmesi-1889_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.17808889,39.12371667"
 draft: "false"
 weight: "10"

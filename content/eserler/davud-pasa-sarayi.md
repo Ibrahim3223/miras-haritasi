@@ -4,8 +4,7 @@ date: "2025-12-25T13:12:51+03:00"
 slug: "davud-pasa-sarayi"
 description: "### Davud Paşa Sarayı Tanıtımı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

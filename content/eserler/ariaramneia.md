@@ -4,8 +4,7 @@ date: "2025-12-25T04:38:05+03:00"
 slug: "ariaramneia"
 description: "## Ariaramneia: Antik Çağın Gizemli Yerleşimi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

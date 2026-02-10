@@ -4,8 +4,7 @@ date: "2025-12-25T08:59:49+03:00"
 slug: "kilise-tepe-rum-kilisesi"
 description: "## Kilise Tepe Rum Kilisesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -5,10 +5,10 @@ slug: "sarikocatas-cesmesi"
 description: "## Sarıkocataş Çeşmesi: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6011677,37.7242165"
 draft: "false"
 weight: "999"

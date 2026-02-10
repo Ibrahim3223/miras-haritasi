@@ -5,10 +5,10 @@ slug: "kurtlu-cesmesi"
 description: "## Kurtlu Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7133293,38.6110878"
 draft: "false"
 weight: "999"

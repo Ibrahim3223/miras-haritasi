@@ -4,8 +4,7 @@ date: "2025-12-24T23:32:22+03:00"
 slug: "hakim-efendi-camii"
 description: "## Hakim Efendi Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hakim_Efendi_Camii.jpg/1200px-Hakim_Efendi_Camii.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

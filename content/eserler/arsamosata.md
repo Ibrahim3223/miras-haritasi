@@ -4,8 +4,7 @@ date: "2025-12-25T04:22:58+03:00"
 slug: "arsamosata"
 description: "## Arsamosata: Geç Antik Dönemin Gizli Şehirleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/9/95/Asia_Minor_ca_780_AD.svg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

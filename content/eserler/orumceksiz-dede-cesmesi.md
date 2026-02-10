@@ -5,10 +5,10 @@ slug: "orumceksiz-dede-cesmesi"
 description: "## Örümceksiz Dede Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.926567,41.013386"
 draft: "false"
 weight: "999"

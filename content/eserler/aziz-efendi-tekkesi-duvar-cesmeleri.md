@@ -5,10 +5,10 @@ slug: "aziz-efendi-tekkesi-duvar-cesmeleri"
 description: "### Aziz Efendi Tekkesi Duvar Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.97741,41.004131"
 draft: "false"
 weight: "999"

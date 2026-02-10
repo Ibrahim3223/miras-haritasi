@@ -5,10 +5,10 @@ slug: "kazdaglioglu-cesmesi"
 description: "## Kazdağlıoğlu Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Kazdağlıoğlu_Çeşmesi.jpg/1200px-Kazdağlıoğlu_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6928329,41.2455864"
 draft: "false"
 weight: "10"

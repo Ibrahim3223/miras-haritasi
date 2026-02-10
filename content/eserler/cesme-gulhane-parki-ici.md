@@ -5,10 +5,10 @@ slug: "cesme-gulhane-parki-ici"
 description: "## Çeşme, Gülhane Parkı İçi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9803085,41.0138779"
 draft: "false"
 weight: "999"

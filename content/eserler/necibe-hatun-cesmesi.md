@@ -5,10 +5,10 @@ slug: "necibe-hatun-cesmesi"
 description: "## Necibe Hatun Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Necibe_Hatun_Çeşmesi_22.JPG/1200px-Necibe_Hatun_Çeşmesi_22.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5609093,41.6752243"
 draft: "false"
 weight: "10"

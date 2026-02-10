@@ -5,10 +5,10 @@ slug: "ayvalik-caddesi-cesmesi"
 description: "## Ayvalık Caddesi Çeşmesi: Ayvalık'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6580162,39.3326912"
 draft: "false"
 weight: "999"

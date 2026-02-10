@@ -5,10 +5,10 @@ slug: "eski-cesme-2-urla"
 description: "## Eski Çeşme 2, Urla: Urla'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7652225,38.3192253"
 draft: "false"
 weight: "999"

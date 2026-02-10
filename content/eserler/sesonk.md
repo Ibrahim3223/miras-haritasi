@@ -4,8 +4,7 @@ date: "2025-12-25T04:17:55+03:00"
 slug: "sesonk"
 description: "# Sesönk Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

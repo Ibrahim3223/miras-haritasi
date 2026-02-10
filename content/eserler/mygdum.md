@@ -4,8 +4,7 @@ date: "2025-12-25T05:24:39+03:00"
 slug: "mygdum"
 description: "### Ege'nin Gizemi: Mygdum Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

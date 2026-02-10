@@ -5,10 +5,10 @@ slug: "trabzon-ayasofya-camii-cesmesi"
 description: "# Trabzon Ayasofya Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Trabzon_Ayasofya_Camii_Çeşmesi.jpg/1200px-Trabzon_Ayasofya_Camii_Çeşmesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.6959076,41.0027504"
 draft: "false"
 weight: "1"

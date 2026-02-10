@@ -5,10 +5,10 @@ slug: "turan-sokak-cesmesi"
 description: "### Turan Sokak Çeşmesi..."
 featured_image: ""
 province: "Mudanya"
-iller: '["Mudanya"]'
+iller: ["Mudanya"]
 district: "Tirilye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7934647,40.392746"
 draft: "false"
 weight: "999"

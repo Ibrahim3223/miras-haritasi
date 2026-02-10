@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:44+03:00"
 slug: "larymna-karya"
 description: "## Larymna (Karya): Antik Şehir ve Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

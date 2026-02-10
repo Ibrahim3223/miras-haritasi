@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:03+03:00"
 slug: "siricae"
 description: "## Siricae Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

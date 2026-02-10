@@ -5,10 +5,10 @@ slug: "kaptan-huseyin-pasa-cesmesi"
 description: "## Kaptan Hüseyin Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Kaptan_Hüseyin_Paşa_Çeşmesi_IMG_0482.jpg/1200px-Kaptan_Hüseyin_Paşa_Çeşmesi_IMG_0482.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.965757,41.03223"
 draft: "false"
 weight: "10"

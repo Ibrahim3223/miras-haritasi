@@ -4,8 +4,7 @@ date: "2025-12-24T22:53:50+03:00"
 slug: "eyyuhum-ahmet-celebi-camii"
 description: "### Eyyûhum Ahmet Çelebi Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

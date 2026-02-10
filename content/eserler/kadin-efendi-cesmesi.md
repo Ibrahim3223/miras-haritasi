@@ -5,10 +5,10 @@ slug: "kadin-efendi-cesmesi"
 description: "## Kadın Efendi Çeşmesi: Kuruçeşme'nin Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Kadın_Efendi_Çeşmesi.jpg/1200px-Kadın_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0352185,41.058087"
 draft: "false"
 weight: "10"

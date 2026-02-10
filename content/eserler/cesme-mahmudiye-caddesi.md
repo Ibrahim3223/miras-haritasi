@@ -5,10 +5,10 @@ slug: "cesme-mahmudiye-caddesi"
 description: "## Çeşme, Mahmudiye Caddesi: Eyüpsultan'daki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9232998,41.0502014"
 draft: "false"
 weight: "999"

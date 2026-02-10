@@ -5,10 +5,10 @@ slug: "defne-sokak-cesmesi"
 description: "## Defne Sokak Çeşmesi: Sarıyer'in Tarihi Bir Semt Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.051951,41.138981"
 draft: "false"
 weight: "999"

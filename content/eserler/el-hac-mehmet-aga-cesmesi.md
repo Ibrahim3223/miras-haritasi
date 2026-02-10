@@ -5,10 +5,10 @@ slug: "el-hac-mehmet-aga-cesmesi"
 description: "### El Hac Mehmet Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/El_Hac_Mehmet_Ağa_Çeşmesi.jpg/1200px-El_Hac_Mehmet_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020148953,41.019929449"
 draft: "false"
 weight: "10"

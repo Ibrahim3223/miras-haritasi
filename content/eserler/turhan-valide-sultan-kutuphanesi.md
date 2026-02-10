@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:38+03:00"
 slug: "turhan-valide-sultan-kutuphanesi"
 description: "## Turhan Valide Sultan Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

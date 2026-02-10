@@ -5,10 +5,10 @@ slug: "mustafa-efendi-cesmesi-bayindir"
 description: "## Mustafa Efendi Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6486912,38.2261734"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-abdullah-cesmesi"
 description: "### Hacı Abdullah Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7731743,41.3793564"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sathi-hanim-cesmesi"
 description: "## Sathı Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/148.40-Hatice_Hanım_Çeşmesi-1884_02.jpg/1200px-148.40-Hatice_Hanım_Çeşmesi-1884_02.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.182175,39.12065556"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T15:45:09+03:00"
 slug: "kodrigai"
 description: "## Kodriga Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

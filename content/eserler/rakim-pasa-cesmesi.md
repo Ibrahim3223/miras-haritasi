@@ -4,11 +4,10 @@ date: "2025-12-25T10:12:20+03:00"
 slug: "rakim-pasa-cesmesi"
 description: "# Rakım Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rakım_Paşa_Çeşmesi.jpg/1200px-Rakım_Paşa_Çeşmesi.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.056725,41.088593"
 draft: "false"
 weight: "10"

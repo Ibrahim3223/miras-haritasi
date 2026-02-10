@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:06+03:00"
 slug: "assos-samian-ware-discovery-site"
 description: "### Assos (Samian Ware Discovery Site)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

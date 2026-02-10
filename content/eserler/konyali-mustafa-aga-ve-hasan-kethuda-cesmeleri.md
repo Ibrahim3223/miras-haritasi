@@ -5,10 +5,10 @@ slug: "konyali-mustafa-aga-ve-hasan-kethuda-cesmeleri"
 description: "## Konyalı Mustafa Ağa ve Hasan Kethüda Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.352438,38.2321739"
 draft: "false"
 weight: "999"

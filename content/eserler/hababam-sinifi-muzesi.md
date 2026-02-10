@@ -4,8 +4,7 @@ date: "2025-12-25T04:02:15+03:00"
 slug: "hababam-sinifi-muzesi"
 description: "## Hababam Sınıfı Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

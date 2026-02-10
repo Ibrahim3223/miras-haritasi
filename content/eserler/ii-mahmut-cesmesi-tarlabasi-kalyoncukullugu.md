@@ -5,10 +5,10 @@ slug: "ii-mahmut-cesmesi-tarlabasi-kalyoncukullugu"
 description: "## II. Mahmut Çeşmesi, Tarlabaşı Kalyoncukulluğu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/II._Mahmut_Çeşmesi,_Tarlabaşı_Kalyoncukulluğu_IMG_6276.jpg/1200px-II._Mahmut_Çeşmesi,_Tarlabaşı_Kalyoncukulluğu_IMG_6276.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9766505,41.0379111"
 draft: "false"
 weight: "10"

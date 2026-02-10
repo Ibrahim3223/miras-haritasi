@@ -4,8 +4,7 @@ date: "2025-12-24T22:17:02+03:00"
 slug: "dibekli-emin-bey-camii"
 description: "## Dibekli Emin Bey Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg/1200px-Dibekli_Emin_Bey_Camii,_Fatih,_İstanbul.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

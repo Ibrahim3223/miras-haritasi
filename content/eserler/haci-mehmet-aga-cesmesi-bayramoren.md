@@ -5,10 +5,10 @@ slug: "haci-mehmet-aga-cesmesi-bayramoren"
 description: "### Hacı Mehmet Ağa Çeşmesi, Bayramören..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.203604021,40.943399052"
 draft: "false"
 weight: "999"

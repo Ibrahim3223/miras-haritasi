@@ -4,8 +4,7 @@ date: "2025-12-25T04:33:15+03:00"
 slug: "mela-bithynia"
 description: "## Mela, Bithynia..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "ovacik-cesmesi-kemalpasa"
 description: "## Ovacık Çeşmesi, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6812611,38.3499527"
 draft: "false"
 weight: "999"

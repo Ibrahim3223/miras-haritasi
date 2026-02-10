@@ -4,8 +4,7 @@ date: "2025-12-24T22:56:05+03:00"
 slug: "hatuniye-camii-ve-ahmet-pasa-cesmesi"
 description: "# Hatuniye Camii ve Ahmet Paşa Çeşmesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "haci-besir-aga-medrese-cesmesi"
 description: "## Hacı Beşir Ağa Medrese Çeşmesi: Fatih'in Gizli Cehenneminde Bir Çeşme Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Hacı_Beşir_Ağa_Medrese_Çeşmesi.jpg/1200px-Hacı_Beşir_Ağa_Medrese_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9770126,41.0106812"
 draft: "false"
 weight: "10"

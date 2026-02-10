@@ -5,10 +5,10 @@ slug: "meydan-cesmesi-yenice-pinarhisar"
 description: "## Meydan Çeşmesi (Yenice, Pınarhisar)..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.637555555,41.735861111"
 draft: "false"
 weight: "999"

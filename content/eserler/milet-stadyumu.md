@@ -4,8 +4,7 @@ date: "2025-12-25T08:19:56+03:00"
 slug: "milet-stadyumu"
 description: "## Milet Stadyumu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Milet_stadtmitte_1997.jpg/1200px-Milet_stadtmitte_1997.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "bezmialem-valide-sultan-cesmesi-maltepe"
 description: "## Bezmialem Valide Sultan Çeşmesi: İstanbul'un Gizli Cevheri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.926237,41.022667"
 draft: "false"
 weight: "999"

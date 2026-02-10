@@ -5,10 +5,10 @@ slug: "sukru-seker-konagi-cesmesi"
 description: "# Şükrü Şeker Konağı Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9775505,39.421505"
 draft: "false"
 weight: "999"

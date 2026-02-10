@@ -4,8 +4,7 @@ date: "2025-12-25T13:14:20+03:00"
 slug: "kuruceme-palace"
 description: "## Kuruçeșme Palace: İstanbul'un Gizli Gizemleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

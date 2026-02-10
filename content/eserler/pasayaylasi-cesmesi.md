@@ -5,10 +5,10 @@ slug: "pasayaylasi-cesmesi"
 description: "## Paşayaylası Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8918991,37.9431"
 draft: "false"
 weight: "999"

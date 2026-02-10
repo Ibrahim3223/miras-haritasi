@@ -5,10 +5,10 @@ slug: "boyacikoy-kilise-cesmesi"
 description: "## Boyacıköy Kilise Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.052497,41.101523"
 draft: "false"
 weight: "999"

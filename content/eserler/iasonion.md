@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:51+03:00"
 slug: "iasonion"
 description: "## Iasonion: İçinden İhtişam, Dışından Gizem..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

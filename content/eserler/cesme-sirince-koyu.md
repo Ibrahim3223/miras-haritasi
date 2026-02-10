@@ -5,10 +5,10 @@ slug: "cesme-sirince-koyu"
 description: "### Çeşme, Şirince Köyü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4326363,37.9442749"
 draft: "false"
 weight: "999"

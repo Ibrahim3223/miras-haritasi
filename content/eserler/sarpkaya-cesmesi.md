@@ -5,10 +5,10 @@ slug: "sarpkaya-cesmesi"
 description: "# Sarpkaya Çeşmesi: Giresun'un Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.5542068,40.1373901"
 draft: "false"
 weight: "999"

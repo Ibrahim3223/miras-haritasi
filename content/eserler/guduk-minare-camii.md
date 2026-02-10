@@ -4,8 +4,7 @@ date: "2025-12-24T23:06:29+03:00"
 slug: "guduk-minare-camii"
 description: "## Güdük Minare Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

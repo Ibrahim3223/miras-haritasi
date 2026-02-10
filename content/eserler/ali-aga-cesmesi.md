@@ -5,10 +5,10 @@ slug: "ali-aga-cesmesi"
 description: "## Ali Ağa Çeşmesi: Uşak'ta Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ali_Aa_emesi_1761589686.jpg/1200px-Ali_Aa_emesi_1761589686.jpg"
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4026432,38.6807861"
 draft: "false"
 weight: "999"

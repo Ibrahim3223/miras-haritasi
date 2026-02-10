@@ -5,10 +5,10 @@ slug: "asub-kadin-cesmesi"
 description: "### Aşub Kadın Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9636059,41.0098228"
 draft: "false"
 weight: "999"

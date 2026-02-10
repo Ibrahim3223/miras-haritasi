@@ -5,10 +5,10 @@ slug: "cesme-reiskoy"
 description: "## Çeşme, Reisköy: Aydın'ın Germencik'te Gizli Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5916805,37.8473167"
 draft: "false"
 weight: "999"

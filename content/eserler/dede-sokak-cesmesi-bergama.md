@@ -5,10 +5,10 @@ slug: "dede-sokak-cesmesi-bergama"
 description: "**Dede Sokak Çeşmesi, Bergama**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1831913,39.1232414"
 draft: "false"
 weight: "999"

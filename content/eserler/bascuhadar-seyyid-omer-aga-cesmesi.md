@@ -5,10 +5,10 @@ slug: "bascuhadar-seyyid-omer-aga-cesmesi"
 description: "## Başçuhadar Seyyid Ömer Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Başçuhadar_Seyyid_Ömer_Ağa_Fountain.jpg/1200px-Başçuhadar_Seyyid_Ömer_Ağa_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978282,41.009796"
 draft: "false"
 weight: "10"

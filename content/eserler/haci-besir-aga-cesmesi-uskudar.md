@@ -5,10 +5,10 @@ slug: "haci-besir-aga-cesmesi-uskudar"
 description: "## Hacı Beşir Ağa Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0198822,41.0195389"
 draft: "false"
 weight: "999"

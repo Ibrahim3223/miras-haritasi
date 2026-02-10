@@ -5,10 +5,10 @@ slug: "haci-ismail-aga-cesmesi-zeyrek"
 description: "## Hacı İsmail Ağa Çeşmesi, Zeyrek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951764,41.020228"
 draft: "false"
 weight: "999"

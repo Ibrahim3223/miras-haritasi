@@ -5,10 +5,10 @@ slug: "cevizalti-cesmesi"
 description: "## Cevizaltı Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5414562,38.7535667"
 draft: "false"
 weight: "999"

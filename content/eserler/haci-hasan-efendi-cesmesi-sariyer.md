@@ -5,10 +5,10 @@ slug: "haci-hasan-efendi-cesmesi-sariyer"
 description: "## Hacı Hasan Efendi Çeşmesi: Sarıyer'in Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Hacı_Hasan_Efendi_Çeşmesi_(Sarıyer)_IMG_7400.jpg/1200px-Hacı_Hasan_Efendi_Çeşmesi_(Sarıyer)_IMG_7400.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.064022,41.116875"
 draft: "false"
 weight: "10"

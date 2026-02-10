@@ -5,10 +5,10 @@ slug: "yeni-cadde-cesmesi"
 description: "### Yeni Cadde Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9736595,39.4235306"
 draft: "false"
 weight: "999"

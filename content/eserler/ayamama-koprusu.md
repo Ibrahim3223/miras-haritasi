@@ -4,8 +4,7 @@ date: "2025-12-25T02:06:35+03:00"
 slug: "ayamama-koprusu"
 description: "### Ayamama Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Köprü"
 turler: ["Köprü"]

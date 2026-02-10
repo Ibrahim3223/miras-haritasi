@@ -5,10 +5,10 @@ slug: "salih-pasa-cesmesi-cibali"
 description: "## Salih Paşa Çeşmesi, Cibali..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Salih_Pasha_Mosque_02.jpg/1200px-Salih_Pasha_Mosque_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958786,41.022814"
 draft: "false"
 weight: "10"

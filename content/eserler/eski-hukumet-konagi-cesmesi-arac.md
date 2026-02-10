@@ -5,10 +5,10 @@ slug: "eski-hukumet-konagi-cesmesi-arac"
 description: "## Eski Hükümet Konağı Çeşmesi, Araç..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.324555921,41.241281357"
 draft: "false"
 weight: "999"

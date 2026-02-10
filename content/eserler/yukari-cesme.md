@@ -5,10 +5,10 @@ slug: "yukari-cesme"
 description: "## Yukarı Çeşme: Bodrum'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Yalıkavak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2999992,37.0849991"
 draft: "false"
 weight: "999"

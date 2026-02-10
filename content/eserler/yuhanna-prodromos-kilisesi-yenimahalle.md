@@ -4,8 +4,7 @@ date: "2025-12-25T08:58:17+03:00"
 slug: "yuhanna-prodromos-kilisesi-yenimahalle"
 description: "## Yuhanna Prodromos Kilisesi (Yenimahalle)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

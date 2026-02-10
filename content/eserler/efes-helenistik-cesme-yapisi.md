@@ -5,10 +5,10 @@ slug: "efes-helenistik-cesme-yapisi"
 description: "### Efes Helenistik Çeşme Yapısı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3421383,37.9413147"
 draft: "false"
 weight: "999"

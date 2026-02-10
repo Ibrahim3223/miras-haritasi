@@ -5,10 +5,10 @@ slug: "cinili-camii-sadirvani"
 description: "## Çinili Camii Şadırvanı: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Çinili_Camii_Şadırvanı.jpg/1200px-Çinili_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.029111,41.02009"
 draft: "false"
 weight: "10"

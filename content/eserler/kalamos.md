@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:10+03:00"
 slug: "kalamos"
 description: "## Kalamos: Bir Kıbrıs Adası'nda Bulunan Tarihi ve Kültürel Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

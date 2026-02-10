@@ -4,8 +4,7 @@ date: "2025-12-25T04:18:29+03:00"
 slug: "barsalion"
 description: "# Barsalion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "kenan-pasa-sebili"
 description: "**Kenan Paşa Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9736996,41.0224533"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-kilic-kerimesi-vesile-hanim-cesmesi"
 description: "## Ali Kılıç Kerimesi Vesile Hanım Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9686928,38.2256279"
 draft: "false"
 weight: "999"

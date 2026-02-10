@@ -5,10 +5,10 @@ slug: "haci-mehmed-cesmesi"
 description: "## Hacı Mehmed Çeşmesi: Gelibolu'da Bir Tarih Örneği..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6723366,40.4090652"
 draft: "false"
 weight: "999"

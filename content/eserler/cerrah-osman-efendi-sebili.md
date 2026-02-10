@@ -5,10 +5,10 @@ slug: "cerrah-osman-efendi-sebili"
 description: "**Cerrah Osman Efendi Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9443913,41.0201378"
 draft: "false"
 weight: "999"

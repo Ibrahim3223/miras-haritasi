@@ -5,10 +5,10 @@ slug: "cihangir-susam-sokagi-cesmesi"
 description: "### Cihangir Susam Sokağı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cihangir_Susam_Sokağı_Çeşmesi_IMG_5492.jpg/1200px-Cihangir_Susam_Sokağı_Çeşmesi_IMG_5492.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.986275,41.030571"
 draft: "false"
 weight: "10"

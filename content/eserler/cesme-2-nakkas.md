@@ -5,10 +5,10 @@ slug: "cesme-2-nakkas"
 description: "## Eskişehir'de Nakkaş Çeşmesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Çeşme_2,_Nakkaş_IMG_1395.jpg/1200px-Çeşme_2,_Nakkaş_IMG_1395.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5564384,41.1888466"
 draft: "false"
 weight: "10"

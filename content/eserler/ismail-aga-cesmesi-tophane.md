@@ -5,10 +5,10 @@ slug: "ismail-aga-cesmesi-tophane"
 description: "# İsmail Ağa Çeşmesi, Tophane..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9805698,41.0297699"
 draft: "false"
 weight: "999"

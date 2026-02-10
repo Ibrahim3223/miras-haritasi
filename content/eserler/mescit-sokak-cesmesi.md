@@ -5,10 +5,10 @@ slug: "mescit-sokak-cesmesi"
 description: "## Mescit Sokak Çeşmesi: Aydın'ın Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.463644,37.9152565"
 draft: "false"
 weight: "999"

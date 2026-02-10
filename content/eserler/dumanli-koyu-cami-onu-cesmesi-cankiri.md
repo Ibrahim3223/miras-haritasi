@@ -5,10 +5,10 @@ slug: "dumanli-koyu-cami-onu-cesmesi-cankiri"
 description: "## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.239324663,40.691060754"
 draft: "false"
 weight: "999"

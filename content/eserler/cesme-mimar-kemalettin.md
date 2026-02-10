@@ -5,10 +5,10 @@ slug: "cesme-mimar-kemalettin"
 description: "## Çeşme, Mimar Kemalettin: Fatih, İstanbul'un Eski Meydanı'nın Yıldızlarından biri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9656887,41.0087395"
 draft: "false"
 weight: "999"

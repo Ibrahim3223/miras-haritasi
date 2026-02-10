@@ -5,10 +5,10 @@ slug: "abdal-camii-cesmesi"
 description: "**Abdal Camii Çeşmesi: Bursa'nın Tarihî Bir Çeşmesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0679855,40.1867561"
 draft: "false"
 weight: "999"

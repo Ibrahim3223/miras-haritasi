@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:53+03:00"
 slug: "agrae-pisidya"
 description: "## Agrae (Pisidya): Tarihi ve Kültürel Mirasın Bir Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

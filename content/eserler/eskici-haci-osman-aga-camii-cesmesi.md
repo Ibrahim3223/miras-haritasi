@@ -5,10 +5,10 @@ slug: "eskici-haci-osman-aga-camii-cesmesi"
 description: "### Eskici Hacı Osman Ağa Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5165215,37.8743286"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mollacikzade-sebili"
 description: "## Mollacıkzade Sebili: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0241833,41.0097923"
 draft: "false"
 weight: "999"

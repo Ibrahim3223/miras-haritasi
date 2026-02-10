@@ -5,10 +5,10 @@ slug: "ayia-paraskevi-kilisesi-ayazmasi-haskoy"
 description: "## Ayia Paraskevi Kilisesi Ayazması: Hasköy'de Bir Osmanlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9512253,41.0409698"
 draft: "false"
 weight: "999"

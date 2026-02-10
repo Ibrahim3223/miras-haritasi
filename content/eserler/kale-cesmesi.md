@@ -5,10 +5,10 @@ slug: "kale-cesmesi"
 description: "## Kale Çeşmesi: Milas'ın Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7893734,37.2740822"
 draft: "false"
 weight: "999"

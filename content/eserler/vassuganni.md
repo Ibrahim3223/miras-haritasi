@@ -4,8 +4,7 @@ date: "2025-12-25T04:19:27+03:00"
 slug: "vassuganni"
 description: "### Vaşşuganni: Türkiye'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

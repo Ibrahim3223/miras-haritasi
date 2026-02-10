@@ -4,8 +4,7 @@ date: "2025-12-25T13:12:43+03:00"
 slug: "aynali-kosk"
 description: "## Aynalı Köşk..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

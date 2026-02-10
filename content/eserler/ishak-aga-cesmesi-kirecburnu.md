@@ -5,10 +5,10 @@ slug: "ishak-aga-cesmesi-kirecburnu"
 description: "## İshak Ağa Çeşmesi, Kireçburnu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.045836,41.14813"
 draft: "false"
 weight: "999"

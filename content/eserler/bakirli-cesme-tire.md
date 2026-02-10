@@ -5,10 +5,10 @@ slug: "bakirli-cesme-tire"
 description: "**Bakırlı Çeşme: Tire'nin Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.738451,38.0841179"
 draft: "false"
 weight: "999"

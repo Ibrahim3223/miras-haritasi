@@ -5,10 +5,10 @@ slug: "izzetpasa-sokak-cesmesi"
 description: "## İzzetpaşa Sokak Çeşmesi: Şişli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9866123,41.0554352"
 draft: "false"
 weight: "999"

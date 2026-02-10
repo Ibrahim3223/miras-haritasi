@@ -5,10 +5,10 @@ slug: "iii-selim-han-cesmesi-yildiz"
 description: "## III. Selim Han Çeşmesi, Yıldız..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.011969,41.049673"
 draft: "false"
 weight: "999"

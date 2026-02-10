@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-1-kadikoy-silivri"
 description: "## Havuzlu Çeşme 1, Kadıköy Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3636971,41.1388512"
 draft: "false"
 weight: "999"

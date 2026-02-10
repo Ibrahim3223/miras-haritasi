@@ -5,10 +5,10 @@ slug: "cinarli-cesme"
 description: "## Çınarlı Çeşme: Mudanya'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7940617,40.3924828"
 draft: "false"
 weight: "999"

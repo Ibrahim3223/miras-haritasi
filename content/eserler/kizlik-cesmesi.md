@@ -5,10 +5,10 @@ slug: "kizlik-cesmesi"
 description: "### Kızlık Çeşmesi: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.74149,37.311506"
 draft: "false"
 weight: "999"

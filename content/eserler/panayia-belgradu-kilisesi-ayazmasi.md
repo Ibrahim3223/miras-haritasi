@@ -5,10 +5,10 @@ slug: "panayia-belgradu-kilisesi-ayazmasi"
 description: "## Panayia Belgradu Kilisesi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9220886,41.0000496"
 draft: "false"
 weight: "999"

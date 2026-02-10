@@ -5,10 +5,10 @@ slug: "ikiz-cesme-yenice-pinarhisar"
 description: "## İkiz Çeşme (Yenice, Pınarhisar)..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Pınarhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.639055555,41.736222222"
 draft: "false"
 weight: "999"

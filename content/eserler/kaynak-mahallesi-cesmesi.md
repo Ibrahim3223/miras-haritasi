@@ -5,10 +5,10 @@ slug: "kaynak-mahallesi-cesmesi"
 description: "## Kaynak Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4138279,38.6089897"
 draft: "false"
 weight: "999"

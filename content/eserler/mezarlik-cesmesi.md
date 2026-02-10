@@ -5,10 +5,10 @@ slug: "mezarlik-cesmesi"
 description: "**Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4116745,38.3648491"
 draft: "false"
 weight: "999"

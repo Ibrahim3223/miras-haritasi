@@ -5,10 +5,10 @@ slug: "ahmet-pasa-cesmesi-turbe-onu"
 description: "**Ahmet Paşa Çeşmesi, Türbe Önü**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9506092,41.0192947"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-cesme"
 description: "## Eski Çeşme: Eşme'nin Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Eşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8988304,38.5771446"
 draft: "false"
 weight: "999"

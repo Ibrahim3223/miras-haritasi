@@ -5,10 +5,10 @@ slug: "mustafa-el-hac-cesmesi"
 description: "## Mustafa El Hac Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Mustafa_El_Hac_Çesmesi.jpg/1200px-Mustafa_El_Hac_Çesmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.949361111,41.016"
 draft: "false"
 weight: "10"

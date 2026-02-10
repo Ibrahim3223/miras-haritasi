@@ -5,10 +5,10 @@ slug: "kayicivi-koyu-cesmesi-cankiri"
 description: "## Kayıçivi Köyü Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.463131,40.6988144"
 draft: "false"
 weight: "999"

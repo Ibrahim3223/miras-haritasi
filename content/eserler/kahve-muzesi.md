@@ -4,8 +4,7 @@ date: "2025-12-25T03:44:32+03:00"
 slug: "kahve-muzesi"
 description: "## Kahve Müzesi: Türkiye'nin Kahve Kültürünün Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

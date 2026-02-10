@@ -5,10 +5,10 @@ slug: "haci-hamza-efendi-cesmesi"
 description: "### Hacı Hamza Efendi Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7656555,41.3750153"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmet-semsettin-efendi-cesmesi"
 description: "## Ahmet Şemsettin Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Ahmet_Şemsettin_Efendi_Çeşmesi_IMG_7451.jpg/1200px-Ahmet_Şemsettin_Efendi_Çeşmesi_IMG_7451.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.054165,41.114492"
 draft: "false"
 weight: "10"

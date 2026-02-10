@@ -4,8 +4,7 @@ date: "2025-12-25T07:15:00+03:00"
 slug: "ilyas-tepe-tumulus"
 description: "## Ilyas Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

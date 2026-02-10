@@ -5,10 +5,10 @@ slug: "cesme-2-balatcik"
 description: "# Çeşme 2, Balatçık: Aydın'ın Germencik İlçesindeki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4916668,37.9096375"
 draft: "false"
 weight: "999"

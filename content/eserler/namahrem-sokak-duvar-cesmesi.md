@@ -5,10 +5,10 @@ slug: "namahrem-sokak-duvar-cesmesi"
 description: "## Namahrem Sokak Duvar Çeşmesi: Süleymaniye'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.963047,41.018158"
 draft: "false"
 weight: "999"

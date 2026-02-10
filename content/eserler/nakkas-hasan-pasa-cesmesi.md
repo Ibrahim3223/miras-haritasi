@@ -5,10 +5,10 @@ slug: "nakkas-hasan-pasa-cesmesi"
 description: "### Nakkaş Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.935205,41.045044"
 draft: "false"
 weight: "999"

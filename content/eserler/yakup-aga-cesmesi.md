@@ -5,10 +5,10 @@ slug: "yakup-aga-cesmesi"
 description: "### Yakup Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.024313,41.016915"
 draft: "false"
 weight: "999"

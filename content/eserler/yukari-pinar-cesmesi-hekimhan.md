@@ -5,10 +5,10 @@ slug: "yukari-pinar-cesmesi-hekimhan"
 description: "## Yukarı Pınar Çeşmesi: Hekimhan'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.934119069,38.817374868"
 draft: "false"
 weight: "999"

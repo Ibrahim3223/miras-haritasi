@@ -4,8 +4,7 @@ date: "2025-12-25T04:50:42+03:00"
 slug: "limnai-pamfilya"
 description: "# Limnai (Pamfilya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

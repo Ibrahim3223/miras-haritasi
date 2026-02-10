@@ -5,10 +5,10 @@ slug: "abbas-aga-sebili-iskenderpasa"
 description: "## Abbas Ağa Sebili, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9530067,41.0121994"
 draft: "false"
 weight: "999"

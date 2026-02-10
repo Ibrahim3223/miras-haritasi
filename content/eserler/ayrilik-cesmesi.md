@@ -5,10 +5,10 @@ slug: "ayrilik-cesmesi"
 description: "**Ayrılık Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Ayrılık_Çeşmesi.jpg/1200px-Ayrılık_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.03,40.998416666"
 draft: "false"
 weight: "10"

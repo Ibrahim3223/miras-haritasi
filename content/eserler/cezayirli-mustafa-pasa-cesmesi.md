@@ -5,10 +5,10 @@ slug: "cezayirli-mustafa-pasa-cesmesi"
 description: "### Cezayirli Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2560997,37.8595009"
 draft: "false"
 weight: "999"

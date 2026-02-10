@@ -5,10 +5,10 @@ slug: "memba-suyu-cesmesi"
 description: "# Memba Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Memba_Suyu_Çeşmesi_IMG_1010.jpg/1200px-Memba_Suyu_Çeşmesi_IMG_1010.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941306,41.048919"
 draft: "false"
 weight: "10"

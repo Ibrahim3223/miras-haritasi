@@ -5,10 +5,10 @@ slug: "yahya-pasa-camii-meydan-cesmesi"
 description: "## Yahya Paşa Camii Meydan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3248405,37.9022141"
 draft: "false"
 weight: "999"

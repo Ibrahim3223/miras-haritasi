@@ -4,8 +4,7 @@ date: "2025-12-25T17:45:12+03:00"
 slug: "dijital-arsiv-projesi"
 description: "## Dijital Arşiv Projesi: Türkiye'nin Kültürel Mirasının Yeniden Keşfi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

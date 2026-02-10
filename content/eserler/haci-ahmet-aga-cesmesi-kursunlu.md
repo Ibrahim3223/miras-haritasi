@@ -5,10 +5,10 @@ slug: "haci-ahmet-aga-cesmesi-kursunlu"
 description: "# Hacı Ahmet Ağa Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.42196773,40.838069472"
 draft: "false"
 weight: "999"

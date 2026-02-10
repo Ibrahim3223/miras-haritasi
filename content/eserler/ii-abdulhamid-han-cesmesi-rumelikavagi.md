@@ -5,10 +5,10 @@ slug: "ii-abdulhamid-han-cesmesi-rumelikavagi"
 description: "## II. Abdülhamid Han Çeşmesi, Rumelikavağı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0763474,41.1845589"
 draft: "false"
 weight: "999"

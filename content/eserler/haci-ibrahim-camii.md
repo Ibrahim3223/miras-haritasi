@@ -4,8 +4,7 @@ date: "2025-12-24T23:27:49+03:00"
 slug: "haci-ibrahim-camii"
 description: "**Hacı İbrahim Camii**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

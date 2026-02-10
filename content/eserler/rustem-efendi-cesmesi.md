@@ -5,10 +5,10 @@ slug: "rustem-efendi-cesmesi"
 description: "## Rüstem Efendi Çeşmesi: Tekirdağ'ın Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5157585,40.9763756"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "daltaban-cesmesi"
 description: "### Daltaban Çeşmesi: Gümüşhane'nin Tarihî Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.4691963,40.4606323"
 draft: "false"
 weight: "999"

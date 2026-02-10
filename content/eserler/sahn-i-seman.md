@@ -4,8 +4,7 @@ date: "2025-12-25T17:24:24+03:00"
 slug: "sahn-i-seman"
 description: "## Sahn-ı Seman Medresesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Medrese"
 turler: ["Medrese"]

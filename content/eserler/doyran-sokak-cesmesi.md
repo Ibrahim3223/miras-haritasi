@@ -5,10 +5,10 @@ slug: "doyran-sokak-cesmesi"
 description: "## Doyran Sokak Çeşmesi: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.863616555,39.938448817"
 draft: "false"
 weight: "999"

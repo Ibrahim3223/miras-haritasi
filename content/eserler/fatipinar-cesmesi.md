@@ -5,10 +5,10 @@ slug: "fatipinar-cesmesi"
 description: "## Fatıpınar Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8783112,39.6420898"
 draft: "false"
 weight: "999"

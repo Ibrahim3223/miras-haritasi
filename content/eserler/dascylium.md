@@ -4,8 +4,7 @@ date: "2025-12-25T04:46:34+03:00"
 slug: "dascylium"
 description: "## Dascylium: Antik Çağın Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

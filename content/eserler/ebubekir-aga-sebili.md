@@ -5,10 +5,10 @@ slug: "ebubekir-aga-sebili"
 description: "### Ebubekir Ağa Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.950204,41.009133"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tas-cesme"
 description: "### Taş Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7776566,41.3833656"
 draft: "false"
 weight: "999"

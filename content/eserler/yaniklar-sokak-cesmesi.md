@@ -5,10 +5,10 @@ slug: "yaniklar-sokak-cesmesi"
 description: "### Yanıklar Sokak Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4688911,40.7368469"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aya-ekaterini-ayazmasi-moda"
 description: "## Aya Ekaterini Ayazması, Moda..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0247555,40.979969"
 draft: "false"
 weight: "999"

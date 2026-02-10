@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:27+03:00"
 slug: "homadena"
 description: "**Homadena Arkeolojik Sit**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

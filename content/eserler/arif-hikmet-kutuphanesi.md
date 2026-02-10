@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:23+03:00"
 slug: "arif-hikmet-kutuphanesi"
 description: "## Arif Hikmet Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

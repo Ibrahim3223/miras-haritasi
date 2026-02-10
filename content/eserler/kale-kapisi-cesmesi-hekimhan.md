@@ -5,10 +5,10 @@ slug: "kale-kapisi-cesmesi-hekimhan"
 description: "### Kale Kapısı Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.934009332,38.815732045"
 draft: "false"
 weight: "999"

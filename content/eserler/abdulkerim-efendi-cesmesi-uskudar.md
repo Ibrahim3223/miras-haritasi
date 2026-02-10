@@ -5,10 +5,10 @@ slug: "abdulkerim-efendi-cesmesi-uskudar"
 description: "### Abdülkerim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.047371,41.042828"
 draft: "false"
 weight: "999"

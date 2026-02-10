@@ -4,8 +4,7 @@ date: "2025-12-24T22:56:32+03:00"
 slug: "yavasca-sahin-mescidi"
 description: "## Yavaşça Şahin Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "seferci-cesmesi"
 description: "## Seferci Çeşmesi: Nevşehir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7101288,38.620945"
 draft: "false"
 weight: "999"

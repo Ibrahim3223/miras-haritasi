@@ -5,10 +5,10 @@ slug: "abdulhamid-han-i-cesmesi"
 description: "## Abdulhamid Han I Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Üsküdar_-_Abdulhamid_Khan_I_Fountain_-_20250406134530.jpg/1200px-Üsküdar_-_Abdulhamid_Khan_I_Fountain_-_20250406134530.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.04641,41.044179"
 draft: "false"
 weight: "10"

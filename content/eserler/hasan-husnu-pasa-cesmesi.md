@@ -5,10 +5,10 @@ slug: "hasan-husnu-pasa-cesmesi"
 description: "### Hasan Hüsnü Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.039644,40.994869"
 draft: "false"
 weight: "999"

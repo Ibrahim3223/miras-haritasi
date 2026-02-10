@@ -5,10 +5,10 @@ slug: "kazim-karabekir-caddesi-sokak-cesmesi-inebolu"
 description: "# Kazım Karabekir Caddesi Sokak Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.777270911,41.972646663"
 draft: "false"
 weight: "999"

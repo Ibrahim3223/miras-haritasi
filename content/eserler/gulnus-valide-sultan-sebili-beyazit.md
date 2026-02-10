@@ -5,10 +5,10 @@ slug: "gulnus-valide-sultan-sebili-beyazit"
 description: "## Gülnuş Valide Sultan Sebili, Beyazıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.962591,41.009298"
 draft: "false"
 weight: "999"

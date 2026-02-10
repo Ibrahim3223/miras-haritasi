@@ -5,10 +5,10 @@ slug: "sultan-iv-murat-cesmesi"
 description: "### Sultan IV. Murat Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.044191,40.993957"
 draft: "false"
 weight: "999"

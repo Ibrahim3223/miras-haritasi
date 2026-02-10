@@ -15,7 +15,7 @@
     <!-- Type Buttons Grid -->
     <div id="turlerGrid" style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center; max-width: 1200px; margin: 0 auto;">
         {{ range .Data.Terms.ByCount }}
-        {{ $cleanName := .Page.Title }}
+        {{ $cleanName := .Page.Title | replaceRE `[\[\]"']` "" | strings.TrimSpace }}
         {{ if ne $cleanName "" }}
         <a href="{{ .Page.Permalink }}"
            class="tur-btn"

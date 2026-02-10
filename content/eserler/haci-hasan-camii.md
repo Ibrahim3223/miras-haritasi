@@ -4,8 +4,7 @@ date: "2025-12-24T22:54:41+03:00"
 slug: "haci-hasan-camii"
 description: "## Hacı Hasan Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

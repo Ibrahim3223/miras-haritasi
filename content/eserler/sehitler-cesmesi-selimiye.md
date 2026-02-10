@@ -5,10 +5,10 @@ slug: "sehitler-cesmesi-selimiye"
 description: "### Şehitler Çeşmesi, Selimiye..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.016357801,41.008295984"
 draft: "false"
 weight: "999"

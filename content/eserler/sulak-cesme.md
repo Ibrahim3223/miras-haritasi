@@ -5,10 +5,10 @@ slug: "sulak-cesme"
 description: "## Sulak Çeşme: Beyoğlu'ndaki Bir Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Sulak_Çeşme_IMG_7968.jpg/1200px-Sulak_Çeşme_IMG_7968.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.99106,41.035679"
 draft: "false"
 weight: "10"

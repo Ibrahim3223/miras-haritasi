@@ -5,10 +5,10 @@ slug: "kara-halife-mehmet-efendi-cesmesi"
 description: "## Kara Halife Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9594307,41.0179405"
 draft: "false"
 weight: "999"

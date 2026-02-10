@@ -4,8 +4,7 @@ date: "2025-12-25T08:44:46+03:00"
 slug: "kale-manastiri-kilisesi"
 description: "## Kale Manastırı Kilisesi: Tarih, Mimari ve Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -5,10 +5,10 @@ slug: "ahmet-gazi-medrese-cesmesi"
 description: "## Ahmet Gazi Medrese Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7882652,37.2731857"
 draft: "false"
 weight: "999"

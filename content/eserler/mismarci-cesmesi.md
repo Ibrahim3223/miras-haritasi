@@ -5,10 +5,10 @@ slug: "mismarci-cesmesi"
 description: "## Mismarcı Çeşmesi: Fatih'te Bir Ölümsüz Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.952431,41.027949"
 draft: "false"
 weight: "999"

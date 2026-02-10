@@ -5,10 +5,10 @@ slug: "haci-besir-aga-cesmesi-mercan"
 description: "## Hacı Beşir Ağa Çeşmesi, Mercan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.968456,41.0117"
 draft: "false"
 weight: "999"

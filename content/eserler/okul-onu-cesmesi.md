@@ -5,10 +5,10 @@ slug: "okul-onu-cesmesi"
 description: "### Okul Önü Çeşmesi: Ürgüp'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9112434,38.6336479"
 draft: "false"
 weight: "999"

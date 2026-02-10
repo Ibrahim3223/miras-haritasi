@@ -5,10 +5,10 @@ slug: "cesme-gazipasa-incirli-mescit-caddesi-78"
 description: "## Çeşme – Gazipaşa, İncirli Mescit Caddesi, 78: Bergama'nın Şirin Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1752396,39.1215477"
 draft: "false"
 weight: "999"

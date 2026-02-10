@@ -5,10 +5,10 @@ slug: "valide-atik-camii-dogu-cesmesi"
 description: "### Valide Atik Camii Doğu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.024139,41.019036"
 draft: "false"
 weight: "999"

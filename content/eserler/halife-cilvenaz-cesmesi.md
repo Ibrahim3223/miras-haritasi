@@ -5,10 +5,10 @@ slug: "halife-cilvenaz-cesmesi"
 description: "## Halife Cilvenaz Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9674473,41.0098839"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "katip-mustafa-efendi-cesmesi"
 description: "## Katip Mustafa Efendi Çeşmesi: Üsküdar'daki Bir Çeşme Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Katip_Mustafa_Efendi_Fountain.jpg/1200px-Katip_Mustafa_Efendi_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020821236,41.01981719"
 draft: "false"
 weight: "10"

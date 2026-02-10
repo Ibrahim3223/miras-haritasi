@@ -1,0 +1,27 @@
+{{ define "main" }}
+<div class="container" style="padding-top: 60px; padding-bottom: 80px; max-width: 860px;">
+
+    <!-- Breadcrumb -->
+    <nav style="margin-bottom: 30px; font-size: 0.9rem; color: var(--text-light);">
+        <a href="/">Anasayfa</a>
+        <span style="margin: 0 8px;">/</span>
+        <span style="color: var(--primary); font-weight: 600;">{{ .Title }}</span>
+    </nav>
+
+    <!-- Title -->
+    <h1 style="font-size: 2.2rem; margin-bottom: 10px; color: var(--primary);">{{ .Title }}</h1>
+    {{ if .Description }}
+    <p style="font-size: 1.1rem; color: var(--text-light); margin-bottom: 40px; border-bottom: 1px solid var(--border); padding-bottom: 30px;">
+        {{ .Description }}
+    </p>
+    {{ else }}
+    <div style="border-bottom: 1px solid var(--border); margin-bottom: 40px; padding-bottom: 0;"></div>
+    {{ end }}
+
+    <!-- Content -->
+    <div class="content-body" style="line-height: 1.9; font-size: 1.05rem;">
+        {{ .Content }}
+    </div>
+
+</div>
+{{ end }}

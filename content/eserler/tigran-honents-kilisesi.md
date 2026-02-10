@@ -4,8 +4,7 @@ date: "2025-12-25T08:57:44+03:00"
 slug: "tigran-honents-kilisesi"
 description: "## Tigran Honents Kilisesi: Ermeni Tarihine Örnek Bir Anıt..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

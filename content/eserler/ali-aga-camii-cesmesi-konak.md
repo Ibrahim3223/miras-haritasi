@@ -5,10 +5,10 @@ slug: "ali-aga-camii-cesmesi-konak"
 description: "## Ali Ağa Camii Çeşmesi: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1304474,38.4142494"
 draft: "false"
 weight: "999"

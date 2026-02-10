@@ -5,10 +5,10 @@ slug: "musgebi-mezarlik-cesmesi"
 description: "### Müsgebi Mezarlık Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Ortakent Yahşi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3465004,37.0477982"
 draft: "false"
 weight: "999"

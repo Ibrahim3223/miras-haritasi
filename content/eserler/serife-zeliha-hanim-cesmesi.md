@@ -5,10 +5,10 @@ slug: "serife-zeliha-hanim-cesmesi"
 description: "## Şerife Zeliha Hanım Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.975031,41.012238"
 draft: "false"
 weight: "999"

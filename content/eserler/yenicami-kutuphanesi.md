@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:16+03:00"
 slug: "yenicami-kutuphanesi"
 description: "### Yenicami Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

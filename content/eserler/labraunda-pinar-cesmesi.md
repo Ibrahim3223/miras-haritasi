@@ -5,10 +5,10 @@ slug: "labraunda-pinar-cesmesi"
 description: "### Labraunda Pınar Çeşmesi: Milas'ta Bir Antik Marvel..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8200321,37.4194603"
 draft: "false"
 weight: "999"

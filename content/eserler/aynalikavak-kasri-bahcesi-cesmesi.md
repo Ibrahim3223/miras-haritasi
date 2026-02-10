@@ -5,10 +5,10 @@ slug: "aynalikavak-kasri-bahcesi-cesmesi"
 description: "## Aynalıkavak Kasrı Bahçesi Çeşmesi: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9553318,41.0381241"
 draft: "false"
 weight: "999"

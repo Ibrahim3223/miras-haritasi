@@ -4,8 +4,7 @@ date: "2025-12-25T04:35:53+03:00"
 slug: "amelas"
 description: "### Amelas..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T08:20:38+03:00"
 slug: "guney-kapisi-agora"
 description: "## Güney Kapısı (Agora)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Mazeus-Mithridates_Gate_in_Ephesus_1.jpg/1200px-Mazeus-Mithridates_Gate_in_Ephesus_1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-cesmeleri"
 description: "## Mihrişah Valide Sultan Çeşmeleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Mihrişah_Valide_Sultan_Çeşmesi.jpg/1200px-Mihrişah_Valide_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934419,41.048339"
 draft: "false"
 weight: "10"

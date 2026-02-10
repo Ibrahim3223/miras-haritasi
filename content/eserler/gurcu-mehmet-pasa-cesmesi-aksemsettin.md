@@ -5,10 +5,10 @@ slug: "gurcu-mehmet-pasa-cesmesi-aksemsettin"
 description: "## Gürcü Mehmet Paşa Çeşmesi: Fatih'ten Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.94383,41.015839"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:00+03:00"
 slug: "tahsin-aga-kutuphanesi"
 description: "## Tahsin Ağa Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

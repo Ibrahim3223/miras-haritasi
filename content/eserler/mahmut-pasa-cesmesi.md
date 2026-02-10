@@ -5,10 +5,10 @@ slug: "mahmut-pasa-cesmesi"
 description: "## Mahmut Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971226,41.011592"
 draft: "false"
 weight: "999"

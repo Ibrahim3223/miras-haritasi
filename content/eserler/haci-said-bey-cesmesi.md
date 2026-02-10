@@ -5,10 +5,10 @@ slug: "haci-said-bey-cesmesi"
 description: "## Hacı Said Bey Çeşmesi: Tekirdağ'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5125084,40.9758492"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:05:32+03:00"
 slug: "karbala"
 description: "## Karbala: Hz. Ali'nin Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

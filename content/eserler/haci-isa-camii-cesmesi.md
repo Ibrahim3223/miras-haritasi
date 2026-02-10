@@ -5,10 +5,10 @@ slug: "haci-isa-camii-cesmesi"
 description: "# Hacı İsa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Hacı_İsa_Camii_Çeşmesi.jpg/1200px-Hacı_İsa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944695,41.03336"
 draft: "false"
 weight: "10"

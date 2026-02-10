@@ -5,10 +5,10 @@ slug: "kutkut-cesmesi"
 description: "### Kütküt Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.458271,40.304287"
 draft: "false"
 weight: "999"

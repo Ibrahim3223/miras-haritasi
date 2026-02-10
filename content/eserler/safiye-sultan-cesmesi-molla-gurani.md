@@ -5,10 +5,10 @@ slug: "safiye-sultan-cesmesi-molla-gurani"
 description: "## Safiye Sultan Çeşmesi: Molla Gürani'nin Gözde Yaratısı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940781,41.015018"
 draft: "false"
 weight: "999"

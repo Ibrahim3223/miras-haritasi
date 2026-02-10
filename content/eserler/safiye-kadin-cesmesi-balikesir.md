@@ -5,10 +5,10 @@ slug: "safiye-kadin-cesmesi-balikesir"
 description: "## Safiye Kadın Çeşmesi, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.878574896,39.647315525"
 draft: "false"
 weight: "999"

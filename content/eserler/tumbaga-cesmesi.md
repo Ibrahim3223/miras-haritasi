@@ -5,10 +5,10 @@ slug: "tumbaga-cesmesi"
 description: "# Tumbağa Çeşmesi: Mardin'in Tarihi ve Kültürel Bir Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.741676,37.314478"
 draft: "false"
 weight: "999"

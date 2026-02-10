@@ -5,10 +5,10 @@ slug: "taspinar-mahallesi-cesmesi"
 description: "**Taşpınar Mahallesi Çeşmesi: Afyonkarahisar'ın Değerli Kültürel Mirası**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5251026,38.7544556"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T09:50:43+03:00"
 slug: "prassareos-manastiri"
 description: "## Prassareos Manastırı: Kıbrıs'ın Tarihî Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Meryem_Ana_Manastır_Harabeleri_02_Ruins_of_the_Monastery_of_the_Virgin_Mary_-_panoramio.jpg/1200px-Meryem_Ana_Manastır_Harabeleri_02_Ruins_of_the_Monastery_of_the_Virgin_Mary_-_panoramio.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

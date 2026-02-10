@@ -5,10 +5,10 @@ slug: "dutdibi-sokak-cesmesi"
 description: "## Dutdibi Sokak Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7690125,41.3764381"
 draft: "false"
 weight: "999"

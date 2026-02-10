@@ -4,8 +4,7 @@ date: "2025-12-24T22:47:14+03:00"
 slug: "basci-mahmut-bey-camii"
 description: "## Başçı Mahmut Bey Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "gugumcu-huseyin-aga-cesmesi"
 description: "## Güğümcü Hüseyin Ağa Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.506843314,39.015943376"
 draft: "false"
 weight: "999"

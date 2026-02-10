@@ -5,10 +5,10 @@ slug: "sarachane-cesmesi"
 description: "## Saraçhane Çeşmesi: Manisa'nın Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4356079,38.6128731"
 draft: "false"
 weight: "999"

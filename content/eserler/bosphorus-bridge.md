@@ -4,8 +4,7 @@ date: "2025-12-25T03:05:29+03:00"
 slug: "bosphorus-bridge"
 description: "**Bosphorus Bridge**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_12.jpg/1200px-Bosphorus_Bridge(15_July_Martyrs_Bridge),_Istanbul,_Turkey_(Ank_Kumar)_12.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

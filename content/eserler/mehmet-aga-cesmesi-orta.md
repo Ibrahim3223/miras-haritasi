@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-orta"
 description: "## Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.941597965,40.586644781"
 draft: "false"
 weight: "999"

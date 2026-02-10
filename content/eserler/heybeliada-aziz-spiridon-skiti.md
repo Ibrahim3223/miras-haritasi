@@ -4,8 +4,7 @@ date: "2025-12-25T09:50:23+03:00"
 slug: "heybeliada-aziz-spiridon-skiti"
 description: "## Heybeliada Aziz Spiridon Skiti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/St_Spyridon_Monastery_Heybeliada_2013.jpg/1200px-St_Spyridon_Monastery_Heybeliada_2013.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

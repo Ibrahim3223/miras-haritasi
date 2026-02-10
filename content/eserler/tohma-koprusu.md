@@ -4,8 +4,7 @@ date: "2025-12-25T03:06:10+03:00"
 slug: "tohma-koprusu"
 description: "## Tohma Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

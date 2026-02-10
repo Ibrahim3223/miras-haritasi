@@ -5,10 +5,10 @@ slug: "catal-cesme-tire"
 description: "## Çatal Çeşme: İzmir'in Tarihi ve Etkileyici Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7360573,38.0828667"
 draft: "false"
 weight: "999"

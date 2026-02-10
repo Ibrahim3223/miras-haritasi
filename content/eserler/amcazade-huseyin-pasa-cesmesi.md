@@ -5,10 +5,10 @@ slug: "amcazade-huseyin-pasa-cesmesi"
 description: "## Amcazade Hüseyin Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9415932,41.0100594"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T16:28:32+03:00"
 slug: "old-turkish-bath-of-hudavendigar-complex"
 description: "## Hüdavendigar Kompleksi'ndeki Eski Türk Hamamı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Hamam"
 turler: ["Hamam"]

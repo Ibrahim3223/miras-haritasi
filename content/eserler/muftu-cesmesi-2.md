@@ -5,10 +5,10 @@ slug: "muftu-cesmesi-2"
 description: "**Müftü Çeşmesi 2: Şebinkarahisar'ın Tarihi Çeşmesi**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.419287,40.284977"
 draft: "false"
 weight: "999"

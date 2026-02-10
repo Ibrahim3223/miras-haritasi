@@ -5,10 +5,10 @@ slug: "hatice-hatun-cesmesi-gokceyurt"
 description: "### Hatice Hatun Çeşmesi, Gökçeyurt..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.032409648,39.960318889"
 draft: "false"
 weight: "999"

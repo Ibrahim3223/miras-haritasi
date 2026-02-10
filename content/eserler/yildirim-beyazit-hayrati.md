@@ -5,10 +5,10 @@ slug: "yildirim-beyazit-hayrati"
 description: "## Yıldırım Beyazıt Hayratı: Bursa'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0811653,40.1863365"
 draft: "false"
 weight: "999"

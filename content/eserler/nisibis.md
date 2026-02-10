@@ -4,8 +4,7 @@ date: "2025-12-25T04:35:46+03:00"
 slug: "nisibis"
 description: "## Nisibis: Tarihin Kaynağı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

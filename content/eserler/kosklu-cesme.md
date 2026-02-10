@@ -5,10 +5,10 @@ slug: "kosklu-cesme"
 description: "## Köşklü Çeşme: Gebze'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4144669,40.7961464"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:44:53+03:00"
 slug: "egritas-kilisesi"
 description: "## Eğritaş Kilisesi: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -4,8 +4,7 @@ date: "2025-12-24T22:31:31+03:00"
 slug: "caglan-koyu-camii"
 description: "### Çağlan Köyü Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

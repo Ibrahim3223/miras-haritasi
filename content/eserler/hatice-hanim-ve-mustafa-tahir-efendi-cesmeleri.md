@@ -5,10 +5,10 @@ slug: "hatice-hanim-ve-mustafa-tahir-efendi-cesmeleri"
 description: "## Hatice Hanım ve Mustafa Tahir Efendi Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.058715,41.051117"
 draft: "false"
 weight: "999"

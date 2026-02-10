@@ -5,10 +5,10 @@ slug: "suslu-karakol-cesmesi"
 description: "## Süslü Karakol Çeşmesi: Beşiktaş'taki Bir İmparatorluk Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0047626,41.0499916"
 draft: "false"
 weight: "999"

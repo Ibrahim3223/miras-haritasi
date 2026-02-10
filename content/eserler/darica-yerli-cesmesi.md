@@ -5,10 +5,10 @@ slug: "darica-yerli-cesmesi"
 description: "## Darıca Yerli Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Darıca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3833523,40.7586632"
 draft: "false"
 weight: "999"

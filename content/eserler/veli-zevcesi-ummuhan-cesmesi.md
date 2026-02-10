@@ -5,10 +5,10 @@ slug: "veli-zevcesi-ummuhan-cesmesi"
 description: "## Veli Zevcesi Ümmühan Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2762642,37.0004005"
 draft: "false"
 weight: "999"

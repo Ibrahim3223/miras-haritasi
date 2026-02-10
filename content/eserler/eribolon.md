@@ -4,8 +4,7 @@ date: "2025-12-25T05:24:55+03:00"
 slug: "eribolon"
 description: "## Eribolon: Antik Çağın Gizemli Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "iptidai-mektebi-cesmesi"
 description: "### İptidai Mektebi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8673897,39.9352684"
 draft: "false"
 weight: "999"

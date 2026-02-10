@@ -4,8 +4,7 @@ date: "2025-12-25T07:11:22+03:00"
 slug: "archaeological-site-of-ephesus"
 description: "### Ephesus Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ephesus_-_Celsus_Library.jpg/1200px-Ephesus_-_Celsus_Library.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

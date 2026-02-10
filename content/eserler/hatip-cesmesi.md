@@ -5,10 +5,10 @@ slug: "hatip-cesmesi"
 description: "## Hatip Çeşmesi: Karacasu, Aydın'da Gizli Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6065998,37.7244987"
 draft: "false"
 weight: "999"

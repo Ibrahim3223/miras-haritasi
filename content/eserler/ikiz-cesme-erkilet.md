@@ -5,10 +5,10 @@ slug: "ikiz-cesme-erkilet"
 description: "# İkiz Çeşme, Erkilet: Kayseri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.445053405,38.822792309"
 draft: "false"
 weight: "999"

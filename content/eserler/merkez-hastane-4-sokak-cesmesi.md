@@ -5,10 +5,10 @@ slug: "merkez-hastane-4-sokak-cesmesi"
 description: "### Merkez Hastane 4. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6922207,39.3129959"
 draft: "false"
 weight: "999"

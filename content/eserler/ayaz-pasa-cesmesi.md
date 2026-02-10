@@ -5,10 +5,10 @@ slug: "ayaz-pasa-cesmesi"
 description: "## Ayaz Paşa Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2754097,39.9099312"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmet-kethuda-cesmesi"
 description: "**Mehmet Kethüda Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.922192,41.014023"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kulakli-cesme"
 description: "## Kulaklı Çeşme: Ortahisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7199554,41.0047874"
 draft: "false"
 weight: "999"

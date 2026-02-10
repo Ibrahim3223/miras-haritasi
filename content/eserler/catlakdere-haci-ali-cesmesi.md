@@ -5,10 +5,10 @@ slug: "catlakdere-haci-ali-cesmesi"
 description: "### Çatlakdere Hacı Ali Çeşmesi: İskilip'in Tarihi Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4684181,40.7369614"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sah-sultan-turbesi-cesmeleri"
 description: "## Şah Sultan Türbesi Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9364339,41.0444043"
 draft: "false"
 weight: "999"

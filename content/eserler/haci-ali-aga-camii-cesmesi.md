@@ -5,10 +5,10 @@ slug: "haci-ali-aga-camii-cesmesi"
 description: "**Hacı Ali Ağa Camii Çeşmesi**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3222122,37.9032249"
 draft: "false"
 weight: "999"

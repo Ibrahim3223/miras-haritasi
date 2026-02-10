@@ -5,10 +5,10 @@ slug: "yukari-mahelle-cesmesi-arguvan"
 description: "## Yukarı Mahalle Çeşmesi, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.326163551,38.755910366"
 draft: "false"
 weight: "999"

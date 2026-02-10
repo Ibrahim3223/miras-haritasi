@@ -5,10 +5,10 @@ slug: "zeynep-sultan-cesmesi-alemdar"
 description: "### Zeynep Sultan Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9784374,41.0089989"
 draft: "false"
 weight: "999"

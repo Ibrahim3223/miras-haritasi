@@ -5,10 +5,10 @@ slug: "lohzade-mehmed-emin-cesmesi"
 description: "## Lohzade Mehmed Emin Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5188084,39.763279"
 draft: "false"
 weight: "999"

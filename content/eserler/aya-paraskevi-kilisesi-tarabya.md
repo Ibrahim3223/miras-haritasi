@@ -4,8 +4,7 @@ date: "2025-12-25T09:00:05+03:00"
 slug: "aya-paraskevi-kilisesi-tarabya"
 description: "## Aya Paraskevi Kilisesi: Tarabya'da Bir İkon..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -5,10 +5,10 @@ slug: "hisar-camii-cesmeleri"
 description: "### Hisar Camii Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.133604,38.4216003"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:35:12+03:00"
 slug: "iran-turkey-border-crossing-2883"
 description: "## İran-Türkiye sınır geçidi #2883: Bir Kervansarayın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

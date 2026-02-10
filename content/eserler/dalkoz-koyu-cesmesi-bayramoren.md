@@ -5,10 +5,10 @@ slug: "dalkoz-koyu-cesmesi-bayramoren"
 description: "### Dalkoz Köyü Çeşmesi, Bayramören: Bir Örgü Çeşmesinin Gizemi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.236621344,40.94690991"
 draft: "false"
 weight: "999"

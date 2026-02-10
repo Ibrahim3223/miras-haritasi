@@ -5,10 +5,10 @@ slug: "yedi-kizlar-turbesi-cesmesi"
 description: "## Yedi Kızlar Türbesi Çeşmesi: Manisa'nın Eski Şövalyesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4236774,38.6062241"
 draft: "false"
 weight: "999"

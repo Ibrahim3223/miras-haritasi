@@ -5,10 +5,10 @@ slug: "sekerci-cesmesi-cesme"
 description: "## Şekerci Çeşmesi: Çeşme'nin Birinci Sınıf Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3048706,38.3225365"
 draft: "false"
 weight: "999"

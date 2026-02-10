@@ -5,10 +5,10 @@ slug: "kutuklu-cesmesi"
 description: "## Kütüklü Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7084579,38.6215515"
 draft: "false"
 weight: "999"

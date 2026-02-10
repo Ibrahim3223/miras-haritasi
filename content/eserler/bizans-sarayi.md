@@ -4,8 +4,7 @@ date: "2025-12-25T06:59:12+03:00"
 slug: "bizans-sarayi"
 description: "## Bizans Sarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

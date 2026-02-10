@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:48+03:00"
 slug: "can-hasan-3"
 description: "## Can Hasan 3: Türkiye'nin Gizli Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

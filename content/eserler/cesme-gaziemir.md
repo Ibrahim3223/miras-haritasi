@@ -5,10 +5,10 @@ slug: "cesme-gaziemir"
 description: "**Çeşme, Gaziemir: Bir Tarihi Örneğin Gizemi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Gaziemir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.125206,38.3198051"
 draft: "false"
 weight: "999"

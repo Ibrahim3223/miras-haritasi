@@ -5,10 +5,10 @@ slug: "bagpinar-cesmesi"
 description: "## Bağpınar Çeşmesi: Melikgazi'nin Eski Şehir Merkezi'ndeki Tarihsel Bir Çeşme..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.6553116,38.811882"
 draft: "false"
 weight: "999"

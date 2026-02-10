@@ -5,10 +5,10 @@ slug: "kalekoy-kilise-cesmesi"
 description: "## Kaleköy Kilise Çeşmesi: Gökçeada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "25.8990746,40.2334518"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-sadirvani"
 description: "## Çorlulu Ali Paşa Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.968236,41.009118"
 draft: "false"
 weight: "999"

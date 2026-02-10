@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:16+03:00"
 slug: "gorbeus"
 description: "## Gorbeus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "haci-ilbey-ilkokulu-cesmesi"
 description: "**Hacı İlbey İlkokulu Çeşmesi**..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5229034,40.9822273"
 draft: "false"
 weight: "999"

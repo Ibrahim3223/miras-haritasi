@@ -5,10 +5,10 @@ slug: "haci-bayezid-cesmesi"
 description: "### Hacı Bayezid Çeşmesi: Bolvadin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.0457039,38.7076263"
 draft: "false"
 weight: "999"

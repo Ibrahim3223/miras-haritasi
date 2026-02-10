@@ -5,10 +5,10 @@ slug: "ayasofya-sebili"
 description: "# Ayasofya Sebili: İstanbul'un Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9797668,41.0076637"
 draft: "false"
 weight: "1"

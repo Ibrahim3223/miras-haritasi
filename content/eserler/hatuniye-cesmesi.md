@@ -5,10 +5,10 @@ slug: "hatuniye-cesmesi"
 description: "## Hatuniye Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Hatuniye_Fountain_(Hacı_Bayram)_01.jpg/1200px-Hatuniye_Fountain_(Hacı_Bayram)_01.jpg"
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.857913714,39.937538388"
 draft: "false"
 weight: "10"

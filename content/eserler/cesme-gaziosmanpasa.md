@@ -5,10 +5,10 @@ slug: "cesme-gaziosmanpasa"
 description: "## Çeşme, Gaziosmanpaşa: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Gaziosmanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9074001,41.0752983"
 draft: "false"
 weight: "999"

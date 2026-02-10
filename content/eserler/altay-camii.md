@@ -4,8 +4,7 @@ date: "2025-12-24T22:45:24+03:00"
 slug: "altay-camii"
 description: "## Altay Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Altay-izmir-1997-10-08.png"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

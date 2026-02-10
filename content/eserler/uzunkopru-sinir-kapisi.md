@@ -4,8 +4,7 @@ date: "2025-12-25T08:36:46+03:00"
 slug: "uzunkopru-sinir-kapisi"
 description: "## Uzunköprü Sınır Kapısı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

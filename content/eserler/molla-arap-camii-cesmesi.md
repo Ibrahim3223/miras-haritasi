@@ -5,10 +5,10 @@ slug: "molla-arap-camii-cesmesi"
 description: "## Molla Arap Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0739441,40.1745644"
 draft: "false"
 weight: "999"

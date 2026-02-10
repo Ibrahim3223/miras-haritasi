@@ -5,10 +5,10 @@ slug: "karapinar-cesmesi"
 description: "## Karapınar Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4949093,37.8698158"
 draft: "false"
 weight: "999"

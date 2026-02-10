@@ -5,10 +5,10 @@ slug: "tuglacibasi-camii-cesmesi"
 description: "### Tuğlacıbaşı Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0477238,40.9846382"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesme-kocali"
 description: "## Çeşme, Koçali: Ezine'nin Eğrelti Çeşmesi..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2505569,39.739048"
 draft: "false"
 weight: "999"

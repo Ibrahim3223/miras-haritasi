@@ -5,10 +5,10 @@ slug: "rustem-pasa-cesmesi-kucuk-ayasofya"
 description: "### Rüstem Paşa Çeşmesi: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972435,41.003549"
 draft: "false"
 weight: "1"

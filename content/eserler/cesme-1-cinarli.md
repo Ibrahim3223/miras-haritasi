@@ -5,10 +5,10 @@ slug: "cesme-1-cinarli"
 description: "## Çeşme 1, Çınarlı: Çanakkale'de Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.389590043,40.050129521"
 draft: "false"
 weight: "999"

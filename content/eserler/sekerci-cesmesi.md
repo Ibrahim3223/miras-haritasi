@@ -5,10 +5,10 @@ slug: "sekerci-cesmesi"
 description: "### Şekerci Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7088089,38.6205444"
 draft: "false"
 weight: "999"

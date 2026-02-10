@@ -5,10 +5,10 @@ slug: "kasap-ali-sokak-cesmesi"
 description: "### Kasap Ali Sokak Çeşmesi: Safranbolu'nun Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Kasap_Ali_Sokak_Çeşmesi.jpg/1200px-Kasap_Ali_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6929016,41.2423439"
 draft: "false"
 weight: "10"

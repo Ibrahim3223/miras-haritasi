@@ -5,10 +5,10 @@ slug: "ayios-dimitrios-ayazmasi-kurucesme"
 description: "## Ayios Dimitrios Ayazması, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0351639,41.0611725"
 draft: "false"
 weight: "999"

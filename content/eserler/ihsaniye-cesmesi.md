@@ -5,10 +5,10 @@ slug: "ihsaniye-cesmesi"
 description: "**İhsaniye Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.013122,41.01527"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ishaklar-koyu-cesmesi"
 description: "### İshaklar Köyü Çeşmesi: Ulubey'in Tarihî Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3761768,38.3410034"
 draft: "false"
 weight: "999"

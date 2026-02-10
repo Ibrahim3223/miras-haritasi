@@ -4,8 +4,7 @@ date: "2025-12-25T05:03:36+03:00"
 slug: "atenia-pisidya"
 description: "## Atenia (Pisidya): Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

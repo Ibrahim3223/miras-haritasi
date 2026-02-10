@@ -5,10 +5,10 @@ slug: "haci-huseyin-cesmesi-inebolu"
 description: "## Hacı Hüseyin Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.759928159,41.976749846"
 draft: "false"
 weight: "999"

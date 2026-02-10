@@ -4,8 +4,7 @@ date: "2025-12-25T04:35:37+03:00"
 slug: "mandane"
 description: "## Mandane Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

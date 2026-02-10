@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-camii-cesmesi-1"
 description: "## Nişancı Mehmet Paşa Camii Çeşmesi 1..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961158,41.006035"
 draft: "false"
 weight: "999"

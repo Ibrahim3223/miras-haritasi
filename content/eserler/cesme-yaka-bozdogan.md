@@ -5,10 +5,10 @@ slug: "cesme-yaka-bozdogan"
 description: "## Bozdoğan Çeşme: Tarihi ve Zenginliği..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3614788,37.6370506"
 draft: "false"
 weight: "999"

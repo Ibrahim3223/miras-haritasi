@@ -5,10 +5,10 @@ slug: "ozgur-kadin-heykeli"
 description: "## Özgür Kadın Heykeli: Konak, İzmir'in Ölümsüz Yıldızı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Kültürpark,_Montrö_Kapısı_-_panoramio.jpg/1200px-Kültürpark,_Montrö_Kapısı_-_panoramio.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.141166666,38.427916666"
 draft: "false"
 weight: "10"

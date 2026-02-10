@@ -5,10 +5,10 @@ slug: "aya-triada-manastiri-ayazmasi-heybeliada"
 description: "## Aya Triada Manastırı Ayazması, Heybeliada..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0950146,40.8820114"
 draft: "false"
 weight: "999"

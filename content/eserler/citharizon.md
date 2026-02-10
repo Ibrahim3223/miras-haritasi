@@ -4,8 +4,7 @@ date: "2025-12-25T04:21:41+03:00"
 slug: "citharizon"
 description: "# Citharizon: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

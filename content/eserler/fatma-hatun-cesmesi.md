@@ -5,10 +5,10 @@ slug: "fatma-hatun-cesmesi"
 description: "## Fatma Hatun Çeşmesi: Beykoz'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fatma_Hatun_Çeşmesi_IMG_9573.jpg/1200px-Fatma_Hatun_Çeşmesi_IMG_9573.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.088566,41.17384"
 draft: "false"
 weight: "10"

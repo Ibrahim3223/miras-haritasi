@@ -5,10 +5,10 @@ slug: "merkez-efendi-turbe-duvarindaki-cesme"
 description: "## Merkez Efendi Türbe Duvarındaki Çeşme: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.920044,41.0160182"
 draft: "false"
 weight: "999"

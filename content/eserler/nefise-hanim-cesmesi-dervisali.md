@@ -5,10 +5,10 @@ slug: "nefise-hanim-cesmesi-dervisali"
 description: "### Nefise Hanım Çeşmesi, Dervişali..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940534,41.030226"
 draft: "false"
 weight: "999"

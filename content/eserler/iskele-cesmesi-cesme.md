@@ -5,10 +5,10 @@ slug: "iskele-cesmesi-cesme"
 description: "## İskele Çeşmesi: Çeşme'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2961006,38.3218956"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vakifavlu-sokak-cesmesi"
 description: "## Vakıfavlı Sokak Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5238419,40.9821892"
 draft: "false"
 weight: "999"

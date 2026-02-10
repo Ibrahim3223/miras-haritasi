@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:33+03:00"
 slug: "korama"
 description: "## Korama Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

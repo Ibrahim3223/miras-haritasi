@@ -5,10 +5,10 @@ slug: "ii-abdulhamid-han-cesmesi-gumussuyu"
 description: "## II. Abdülhamid Han Çeşmesi, Gümüşsuyu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9888935,41.0354156"
 draft: "false"
 weight: "999"

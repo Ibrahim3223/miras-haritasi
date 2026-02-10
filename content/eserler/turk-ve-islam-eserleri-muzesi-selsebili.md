@@ -5,10 +5,10 @@ slug: "turk-ve-islam-eserleri-muzesi-selsebili"
 description: "## Türk ve İslam Eserleri Müzesi Selsebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9749761,41.0063657"
 draft: "false"
 weight: "999"

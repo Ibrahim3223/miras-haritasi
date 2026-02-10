@@ -5,10 +5,10 @@ slug: "hamidiye-cesmesi-asariye"
 description: "## Hamidiye Çeşmesi, Asariye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Hamidiye_Fountain_(Asariye),_Beşiktaş.jpg/1200px-Hamidiye_Fountain_(Asariye),_Beşiktaş.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.011859,41.04669"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kese-koyu-cesmesi-2-ilgaz"
 description: "## Kese Köyü Çeşmesi 2: Ilgaz'ın Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.621940764,40.948035031"
 draft: "false"
 weight: "999"

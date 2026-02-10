@@ -4,8 +4,7 @@ date: "2025-12-24T23:44:49+03:00"
 slug: "karakol-yani-camii"
 description: "## Karakol Yanı Camii: İzmir'in Tarihi ve Kültürel Mirasının BİR Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

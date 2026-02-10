@@ -5,10 +5,10 @@ slug: "acanoz-cesmesi"
 description: "## Acanoz Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.70548,38.364724"
 draft: "false"
 weight: "999"

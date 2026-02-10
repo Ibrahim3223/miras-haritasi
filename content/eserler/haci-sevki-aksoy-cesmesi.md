@@ -5,10 +5,10 @@ slug: "haci-sevki-aksoy-cesmesi"
 description: "# Hacı Şevki Aksoy Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.5613441,38.6887512"
 draft: "false"
 weight: "999"

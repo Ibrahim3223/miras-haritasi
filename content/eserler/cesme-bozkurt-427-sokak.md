@@ -5,10 +5,10 @@ slug: "cesme-bozkurt-427-sokak"
 description: "## Çeşme – Bozkurt, 427 Sokak: İzmirlinin Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.132,38.414299"
 draft: "false"
 weight: "999"

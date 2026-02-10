@@ -4,8 +4,7 @@ date: "2025-12-25T08:10:18+03:00"
 slug: "sanctuary-of-the-nemeses-in-smyrna"
 description: "## Sanctuary of the Nemeses in Smyrna: İzmir'in Tarihî Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

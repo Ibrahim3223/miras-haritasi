@@ -5,10 +5,10 @@ slug: "cesme-4"
 description: "## Çeşme 4: Ayvacık'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6195965,39.5695305"
 draft: "false"
 weight: "999"

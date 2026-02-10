@@ -5,10 +5,10 @@ slug: "karadayi-koyu-cesmesi-cankiri"
 description: "## Karadayı Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.789351795,40.351418738"
 draft: "false"
 weight: "999"

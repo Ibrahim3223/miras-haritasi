@@ -5,10 +5,10 @@ slug: "guzelkoy-cami-cesmesi"
 description: "## Güzelköy Cami Çeşmesi: Şarköy'de Bir İhtişamlı Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.29175,40.7414169"
 draft: "false"
 weight: "999"

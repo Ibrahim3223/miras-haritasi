@@ -5,10 +5,10 @@ slug: "siyavus-pasa-cesmesi-eyupsultan"
 description: "## Siyavuş Paşa Çeşmesi, Eyüpsultan..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Siyavuş_Paşa_Çeşmesi,_Eyüpsultan.jpg/1200px-Siyavuş_Paşa_Çeşmesi,_Eyüpsultan.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934402,41.047443"
 draft: "false"
 weight: "10"

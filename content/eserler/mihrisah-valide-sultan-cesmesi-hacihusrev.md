@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-cesmesi-hacihusrev"
 description: "## Mihrişah Valide Sultan Çeşmesi, Hacıhüsrev: İstanbul'un Beyoğlu'nda Gizli Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976412,41.043453"
 draft: "false"
 weight: "999"

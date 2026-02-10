@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:39+03:00"
 slug: "karene-misya"
 description: "### Karene (Misya) Tanıtımı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

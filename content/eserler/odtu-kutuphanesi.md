@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:33+03:00"
 slug: "odtu-kutuphanesi"
 description: "## ODTÜ Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/METU_Library_-_14847345684.jpg/1200px-METU_Library_-_14847345684.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

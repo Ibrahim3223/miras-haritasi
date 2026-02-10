@@ -5,10 +5,10 @@ slug: "hamzahocali-cesmesi"
 description: "**Hamzahocalı Çeşmesi: Kınık'taki Bir İznik Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kınık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4625664,39.1253548"
 draft: "false"
 weight: "999"

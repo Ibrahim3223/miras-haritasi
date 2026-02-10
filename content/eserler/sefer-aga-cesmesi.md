@@ -5,10 +5,10 @@ slug: "sefer-aga-cesmesi"
 description: "Sefer Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Sefer_Ağa_Çeşmesi1,_Süleymaniye,_Fatih,_İstanbul_2023.jpg/1200px-Sefer_Ağa_Çeşmesi1,_Süleymaniye,_Fatih,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961196,41.013425"
 draft: "false"
 weight: "10"

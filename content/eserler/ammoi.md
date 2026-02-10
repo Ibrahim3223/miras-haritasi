@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:25+03:00"
 slug: "ammoi"
 description: "## Ammoi: Türkiye'nin Gizli Şehri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

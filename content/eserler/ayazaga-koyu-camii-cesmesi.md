@@ -5,10 +5,10 @@ slug: "ayazaga-koyu-camii-cesmesi"
 description: "## Ayazağa Köyü Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9985962,41.1157227"
 draft: "false"
 weight: "999"

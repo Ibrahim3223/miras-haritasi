@@ -4,8 +4,7 @@ date: "2025-12-25T04:27:21+03:00"
 slug: "daminon-teichos"
 description: "## Daminon Teichos: Antik Dünya'nın Gizemli Kalesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "kapalicarsi-haci-besir-aga-sebili"
 description: "## Kapalıçarşı Hacı Beşir Ağa Sebili: İstanbul'un Gizli Çağrışım Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9682541,41.0115547"
 draft: "false"
 weight: "999"

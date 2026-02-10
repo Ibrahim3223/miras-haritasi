@@ -5,10 +5,10 @@ slug: "askeriye-cesmesi"
 description: "## Askeriye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.00095,41.040924"
 draft: "false"
 weight: "999"

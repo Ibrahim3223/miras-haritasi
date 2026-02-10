@@ -5,10 +5,10 @@ slug: "cezayirli-hasan-pasa-camii-sadirvani"
 description: "## Cezayirli Hasan Paşa Camii, Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9682617,41.0314293"
 draft: "false"
 weight: "999"

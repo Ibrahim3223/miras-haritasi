@@ -4,8 +4,7 @@ date: "2025-12-25T04:31:39+03:00"
 slug: "theangela"
 description: "## Theangela: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "mihrisah-kadin-cesmesi"
 description: "## Mihrişah Kadın Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Mihrişah_Kadın_Fountain_in_August_2025.jpg/1200px-Mihrişah_Kadın_Fountain_in_August_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976891,41.026134"
 draft: "false"
 weight: "10"

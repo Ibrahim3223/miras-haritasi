@@ -5,10 +5,10 @@ slug: "coban-cesmesi"
 description: "# Çoban Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bahçelievler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.819468,40.993813"
 draft: "false"
 weight: "999"

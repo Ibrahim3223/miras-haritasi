@@ -4,8 +4,7 @@ date: "2025-12-24T23:03:31+03:00"
 slug: "kiraz-ulu-cami"
 description: "### Kiraz Ulu Cami: İzmir'in Tarihî Bir Zirvesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

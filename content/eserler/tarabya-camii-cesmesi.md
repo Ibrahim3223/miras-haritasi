@@ -5,10 +5,10 @@ slug: "tarabya-camii-cesmesi"
 description: "## Tarabya Camii Çeşmesi: Sarıyer'in Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.053266,41.138125"
 draft: "false"
 weight: "999"

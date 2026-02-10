@@ -4,8 +4,7 @@ date: "2025-12-24T22:46:30+03:00"
 slug: "ascibasi-camii-eyupsultan"
 description: "## Aşçıbaşı Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Aşçıbaşı_Camii_IMG_4950.jpg/1200px-Aşçıbaşı_Camii_IMG_4950.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "rustem-pasa-sebili"
 description: "## Rüstem Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9576721,41.0131302"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gevher-nesibe-cesmesi"
 description: "### Gevher Nesibe Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4836311,38.7238045"
 draft: "false"
 weight: "999"

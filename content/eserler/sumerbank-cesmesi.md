@@ -5,10 +5,10 @@ slug: "sumerbank-cesmesi"
 description: "## Sümerbank Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9261684,40.7624397"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:37:09+03:00"
 slug: "serve-sinir-kapisi"
 description: "## Serve Sınır Kapısı: Geçmişin Kervansaraylarından Bir Örnek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

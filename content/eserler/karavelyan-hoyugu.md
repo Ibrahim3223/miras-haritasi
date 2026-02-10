@@ -4,8 +4,7 @@ date: "2025-12-25T07:08:06+03:00"
 slug: "karavelyan-hoyugu"
 description: "## Karavelyan Höyüğü: Türkiye'nin Tarihî Mirasının Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

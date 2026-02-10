@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:25+03:00"
 slug: "apsoda"
 description: "## Apsoda: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Apsoda.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "lutfullah-efendi-cesmesi"
 description: "### Lütfullah Efendi Çeşmesi: Fatih'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9521427,41.025631"
 draft: "false"
 weight: "999"

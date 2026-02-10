@@ -5,10 +5,10 @@ slug: "kirklar-tekkesi-cesmesi"
 description: "# Kırklar Tekkesi Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.510006,40.9819336"
 draft: "false"
 weight: "999"

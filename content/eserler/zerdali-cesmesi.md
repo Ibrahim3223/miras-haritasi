@@ -5,10 +5,10 @@ slug: "zerdali-cesmesi"
 description: "### Zerdali Çeşmesi: Aydın'ın Tarihini Ebediyen Koruyan Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6035995,37.7224998"
 draft: "false"
 weight: "999"

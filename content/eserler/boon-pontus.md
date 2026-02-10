@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:59+03:00"
 slug: "boon-pontus"
 description: "## Boon (Pontus) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

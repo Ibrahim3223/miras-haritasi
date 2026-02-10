@@ -5,10 +5,10 @@ slug: "orta-mescit-cesmesi-bayindir"
 description: "## Orta Mescit Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6482067,38.2255783"
 draft: "false"
 weight: "999"

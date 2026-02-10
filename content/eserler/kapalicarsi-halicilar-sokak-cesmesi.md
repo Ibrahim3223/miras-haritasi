@@ -5,10 +5,10 @@ slug: "kapalicarsi-halicilar-sokak-cesmesi"
 description: "## Kapalıçarşı Halıcılar Sokak Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967827,41.011055"
 draft: "false"
 weight: "999"

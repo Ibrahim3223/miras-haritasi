@@ -5,10 +5,10 @@ slug: "abdulhamid-i-sebili"
 description: "### Abdülhamid I Sebili: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Abdulhamit_I_sebil.jpg/1200px-Abdulhamit_I_sebil.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978656,41.010412"
 draft: "false"
 weight: "10"

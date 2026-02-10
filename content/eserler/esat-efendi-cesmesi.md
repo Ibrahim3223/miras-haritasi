@@ -5,10 +5,10 @@ slug: "esat-efendi-cesmesi"
 description: "### Esat Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9539642,41.0223122"
 draft: "false"
 weight: "999"

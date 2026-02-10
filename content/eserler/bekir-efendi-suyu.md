@@ -5,10 +5,10 @@ slug: "bekir-efendi-suyu"
 description: "## Bekir Efendi Suyu: Sarıyer'in Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.044118,41.146863"
 draft: "false"
 weight: "999"

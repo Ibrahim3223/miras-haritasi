@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:24+03:00"
 slug: "duden-hoyuk"
 description: "# Düden Höyük Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

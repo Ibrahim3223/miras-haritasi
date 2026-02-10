@@ -4,8 +4,7 @@ date: "2025-12-24T22:21:57+03:00"
 slug: "sahib-ata-camii"
 description: "## Sahib Ata Camii: Bir Osmanlı Dönemi Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

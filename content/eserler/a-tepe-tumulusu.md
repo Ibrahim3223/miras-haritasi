@@ -4,8 +4,7 @@ date: "2025-12-25T07:16:44+03:00"
 slug: "a-tepe-tumulusu"
 description: "## A Tepe Tümülüsü: İzmir'in Gizli Öreni..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

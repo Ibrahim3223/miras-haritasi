@@ -5,10 +5,10 @@ slug: "seyitnizam-cesmesi"
 description: "### Seyitnizam Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9111462,41.0047417"
 draft: "false"
 weight: "999"

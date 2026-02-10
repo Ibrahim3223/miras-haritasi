@@ -5,10 +5,10 @@ slug: "kalpakci-cesmesi"
 description: "## Kalpakçı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Kalpakçı_Fountain_(1).jpg/1200px-Kalpakçı_Fountain_(1).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9461746,41.0311623"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cesme-selcuk-haci-beyazit-caddesi"
 description: "## Çeşme – Selçuk, Hacı Beyazıt Caddesi: Bergama'nın Tarihi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1776276,39.1229591"
 draft: "false"
 weight: "999"

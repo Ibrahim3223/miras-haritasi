@@ -5,10 +5,10 @@ slug: "iskele-meydani-cesmesi"
 description: "## İskele Meydanı Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.791288644,40.395597879"
 draft: "false"
 weight: "999"

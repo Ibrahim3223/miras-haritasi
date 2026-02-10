@@ -5,10 +5,10 @@ slug: "vezir-mehmet-pasa-cesmesi-topcular"
 description: "## Vezir Mehmet Paşa Çeşmesi: Eyüpsultan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9311924,41.0274734"
 draft: "false"
 weight: "999"

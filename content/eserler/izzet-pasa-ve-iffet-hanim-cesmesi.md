@@ -5,10 +5,10 @@ slug: "izzet-pasa-ve-iffet-hanim-cesmesi"
 description: "## İzzet Paşa ve İffet Hanım Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9593086,41.0110283"
 draft: "false"
 weight: "999"

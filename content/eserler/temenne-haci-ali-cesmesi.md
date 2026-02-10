@@ -5,10 +5,10 @@ slug: "temenne-haci-ali-cesmesi"
 description: "## Temenne Hacı Ali Çeşmesi: İskilip'teki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4710541,40.7343826"
 draft: "false"
 weight: "999"

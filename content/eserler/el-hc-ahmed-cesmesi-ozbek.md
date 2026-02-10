@@ -5,10 +5,10 @@ slug: "el-hc-ahmed-cesmesi-ozbek"
 description: "### El-Hâc Ahmed Çeşmesi: Urla'nın İhtişamlı Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.706629,38.365397"
 draft: "false"
 weight: "999"

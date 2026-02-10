@@ -4,8 +4,7 @@ date: "2025-12-25T05:39:51+03:00"
 slug: "corniaspa"
 description: "**Corniaspa: Antik Çağ'ın Gizemi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

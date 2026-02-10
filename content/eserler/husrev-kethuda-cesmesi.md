@@ -5,10 +5,10 @@ slug: "husrev-kethuda-cesmesi"
 description: "## Hüsrev Kethüda Çeşmesi: Malkara'da Bir Öne Çıkan Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Malkara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9017048,40.891098"
 draft: "false"
 weight: "999"

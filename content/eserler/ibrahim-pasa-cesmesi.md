@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-cesmesi"
 description: "## İbrahim Paşa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4337902,40.79842"
 draft: "false"
 weight: "999"

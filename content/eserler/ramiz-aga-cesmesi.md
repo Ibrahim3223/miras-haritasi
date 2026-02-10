@@ -5,10 +5,10 @@ slug: "ramiz-aga-cesmesi"
 description: "## Ramiz Ağa Çeşmesi: Beşiktaş'taki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ramiz_Ağa_Çeşmesi_IMG_8166.jpg/1200px-Ramiz_Ağa_Çeşmesi_IMG_8166.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.999163,41.044495"
 draft: "false"
 weight: "10"

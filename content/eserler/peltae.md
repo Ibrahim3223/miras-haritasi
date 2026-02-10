@@ -4,8 +4,7 @@ date: "2025-12-25T04:32:39+03:00"
 slug: "peltae"
 description: "## Peltae Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

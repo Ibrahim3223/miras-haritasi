@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:12+03:00"
 slug: "tavas-karahisar-hoyugu"
 description: "### Tavas Karahisar Höyüğü: Bir Tarih Öyküsünün Anıtsal İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "umurbey-camii-cesmesi"
 description: "## Umurbey Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Umurbey_Camii_Çeşmesi,_Balıkesir,_2023.jpg/1200px-Umurbey_Camii_Çeşmesi,_Balıkesir,_2023.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8845501,39.6469803"
 draft: "false"
 weight: "10"

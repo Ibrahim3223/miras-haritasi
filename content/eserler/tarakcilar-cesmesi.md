@@ -5,10 +5,10 @@ slug: "tarakcilar-cesmesi"
 description: "### Tarakçılar Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7718658,41.379509"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "carsi-cesmesi-ayas"
 description: "## Çarşı Çeşmesi, Ayaş..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.332823431,40.015396131"
 draft: "false"
 weight: "999"

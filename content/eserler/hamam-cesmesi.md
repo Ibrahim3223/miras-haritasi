@@ -5,10 +5,10 @@ slug: "hamam-cesmesi"
 description: "### Hamam Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2071419,37.1810875"
 draft: "false"
 weight: "999"

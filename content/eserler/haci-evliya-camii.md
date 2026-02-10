@@ -4,8 +4,7 @@ date: "2025-12-24T22:56:17+03:00"
 slug: "haci-evliya-camii"
 description: "## Hacı Evliya Camii: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hacı_Evliya_Camii.jpg/1200px-Hacı_Evliya_Camii.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

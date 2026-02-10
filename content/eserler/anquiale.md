@@ -4,8 +4,7 @@ date: "2025-12-25T04:33:07+03:00"
 slug: "anquiale"
 description: "## Anquiale: Antik Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

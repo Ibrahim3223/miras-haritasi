@@ -5,10 +5,10 @@ slug: "seyyidi-haci-mehmet-cesmesi"
 description: "## Seyyidi Hacı Mehmet Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Seyyidi_Hacı_Mehmet_Çeşmesi.jpg/1200px-Seyyidi_Hacı_Mehmet_Çeşmesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7156601,41.0045586"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cesme-2-uzuncam"
 description: "## Çeşme 2, Uzunçam: Nazilli, Aydın'da Bir Önemli Tarihsel Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.360286607,37.776088982"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T13:38:04+03:00"
 slug: "seyh-yunus-emre-turbesi"
 description: "## Şeyh Yunus Emre Türbesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

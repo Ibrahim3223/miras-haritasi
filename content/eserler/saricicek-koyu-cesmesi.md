@@ -5,10 +5,10 @@ slug: "saricicek-koyu-cesmesi"
 description: "## Sarıçiçek Köyü Çeşmesi: Tarihî Bir Mirasın Gizli Öyküsü..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Sarıçiçek"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.855442,40.4435005"
 draft: "false"
 weight: "999"

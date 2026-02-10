@@ -5,10 +5,10 @@ slug: "atlas-koyu-cesmesi"
 description: "## Atlas Köyü Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Günyüzü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.7729378,39.3529167"
 draft: "false"
 weight: "999"

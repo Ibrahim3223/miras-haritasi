@@ -5,10 +5,10 @@ slug: "fetih-mescidi-cesmesi"
 description: "### Fetih Mescidi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4294548,38.6068382"
 draft: "false"
 weight: "999"

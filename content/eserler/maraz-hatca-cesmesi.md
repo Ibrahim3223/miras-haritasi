@@ -5,10 +5,10 @@ slug: "maraz-hatca-cesmesi"
 description: "## Maraz Hatça Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9572945,40.5491028"
 draft: "false"
 weight: "999"

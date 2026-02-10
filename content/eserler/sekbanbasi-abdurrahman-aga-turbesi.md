@@ -4,8 +4,7 @@ date: "2025-12-25T15:06:53+03:00"
 slug: "sekbanbasi-abdurrahman-aga-turbesi"
 description: "### Sekbanbaşı Abdurrahman Ağa Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Sekbanbaşı_Abdurrahman_Ağa_Türbesi_01.jpg/1200px-Sekbanbaşı_Abdurrahman_Ağa_Türbesi_01.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

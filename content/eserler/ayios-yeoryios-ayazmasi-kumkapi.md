@@ -5,10 +5,10 @@ slug: "ayios-yeoryios-ayazmasi-kumkapi"
 description: "## Ayios Yeoryios Ayazması, Kumkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9634018,41.0046654"
 draft: "false"
 weight: "999"

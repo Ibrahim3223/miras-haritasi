@@ -5,10 +5,10 @@ slug: "silahtar-mustafa-aga-cesmesi"
 description: "## Silahtar Mustafa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Silahtar_Mustafa_Ağa_Çeşmesi.jpg/1200px-Silahtar_Mustafa_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.009157,41.020653"
 draft: "false"
 weight: "10"

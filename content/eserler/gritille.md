@@ -4,8 +4,7 @@ date: "2025-12-25T07:06:05+03:00"
 slug: "gritille"
 description: "## Gritille: Tarihin Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "erzurumlu-muhtarzade-mehmet-aga-cesmesi"
 description: "### Erzurumlu Muhtarzade Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.26189698,40.83891178"
 draft: "false"
 weight: "999"

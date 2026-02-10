@@ -5,10 +5,10 @@ slug: "vezirpinari-cesmesi-elmadag"
 description: "## Vezirpınarı Çeşmesi: Elmadağ'ın Tarihi Çiçeği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Vezir_Pınarı_Çeşmesi_Elmadağ_Ankara.jpg/1200px-Vezir_Pınarı_Çeşmesi_Elmadağ_Ankara.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Elmadağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.241031,39.91889"
 draft: "false"
 weight: "10"

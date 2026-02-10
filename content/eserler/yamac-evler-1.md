@@ -4,8 +4,7 @@ date: "2025-12-25T04:26:47+03:00"
 slug: "yamac-evler-1"
 description: "## Yamaç Evler 1: İzmir'in Kayıp Kenti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Ephesus_-_Terrace_Houses.jpg/1200px-Ephesus_-_Terrace_Houses.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

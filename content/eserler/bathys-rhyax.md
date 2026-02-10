@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:13+03:00"
 slug: "bathys-rhyax"
 description: "### Bathys Rhyax: Antik Yunanistan'ın Gizli Kahramanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Asia_Minor_ca_842_AD-es.svg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

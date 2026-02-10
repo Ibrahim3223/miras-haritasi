@@ -5,10 +5,10 @@ slug: "sogucak-cesmesi"
 description: "## Soğucak Çeşmesi: Kuşadası'nın Tarihî Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2988949,37.7825356"
 draft: "false"
 weight: "999"

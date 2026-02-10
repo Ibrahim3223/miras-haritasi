@@ -5,10 +5,10 @@ slug: "daldirici-cesmesi"
 description: "## Daldırıcı Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4124527,38.3665085"
 draft: "false"
 weight: "999"

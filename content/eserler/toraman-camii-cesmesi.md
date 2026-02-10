@@ -5,10 +5,10 @@ slug: "toraman-camii-cesmesi"
 description: "### Toraman Camii Çeşmesi: Karatay, Konya'daki Bir Zenginlik..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5111465,37.8749084"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-bayir-cesmesi"
 description: "## Eski Bayır Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2637978,37.2669716"
 draft: "false"
 weight: "999"

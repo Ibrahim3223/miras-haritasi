@@ -5,10 +5,10 @@ slug: "kethuda-yusuf-efendi-cesmesi"
 description: "### Kethüda Yusuf Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Kethüda_Yusuf_Efendi_Fountain_in_May_2024.jpg/1200px-Kethüda_Yusuf_Efendi_Fountain_in_May_2024.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.981101,41.029211"
 draft: "false"
 weight: "10"

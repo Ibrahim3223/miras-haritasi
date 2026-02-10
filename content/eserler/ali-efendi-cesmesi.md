@@ -5,10 +5,10 @@ slug: "ali-efendi-cesmesi"
 description: "## Ali Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Ali_Efendi_Çeşmesi.jpg/1200px-Ali_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961029,41.018746"
 draft: "false"
 weight: "10"

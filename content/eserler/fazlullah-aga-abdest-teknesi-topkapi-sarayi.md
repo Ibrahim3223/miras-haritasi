@@ -5,10 +5,10 @@ slug: "fazlullah-aga-abdest-teknesi-topkapi-sarayi"
 description: "## Fazlullah Ağa Abdest Teknesi: Topkapı Sarayı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9840736,41.0133743"
 draft: "false"
 weight: "1"

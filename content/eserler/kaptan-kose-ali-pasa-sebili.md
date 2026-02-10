@@ -5,10 +5,10 @@ slug: "kaptan-kose-ali-pasa-sebili"
 description: "## Kaptan Köse Ali Paşa Sebili: Fatih'te Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9615459,41.0217209"
 draft: "false"
 weight: "999"

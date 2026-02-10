@@ -5,10 +5,10 @@ slug: "sehir-anlaci-cesmesi-arapgir"
 description: "### Şehir Anlacı Çeşmesi: Arapgir'in Büyülü Yapısı..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.474709343,39.05895146"
 draft: "false"
 weight: "999"

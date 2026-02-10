@@ -5,10 +5,10 @@ slug: "hidayetullah-pasa-cesmesi"
 description: "## Hidayetullah Paşa Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4234409,38.6138763"
 draft: "false"
 weight: "999"

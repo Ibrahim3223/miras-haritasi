@@ -5,10 +5,10 @@ slug: "zuhurat-baba-cesmesi"
 description: "## Zuhurat Baba Çeşmesi: Bakırköy'de Bir Çağdaş Çeşme Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.867338,40.982437"
 draft: "false"
 weight: "999"

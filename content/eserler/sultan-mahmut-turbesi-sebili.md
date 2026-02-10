@@ -5,10 +5,10 @@ slug: "sultan-mahmut-turbesi-sebili"
 description: "## Sultan Mahmut Türbesi Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9729353,41.0084095"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "dalkoz-koyu-orta-mahalle-cesmesi"
 description: "# Dalkoz Köyü Orta Mahalle Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.234722,40.951667"
 draft: "false"
 weight: "999"

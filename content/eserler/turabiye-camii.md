@@ -4,8 +4,7 @@ date: "2025-12-24T23:16:45+03:00"
 slug: "turabiye-camii"
 description: "## Turabiye Camii: İzmir'in Gizli Çehresinde Bir Özerklik Dönemi Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "yozgatli-cesmesi-cankiri"
 description: "## Yozgatlı Çeşmesi: Çankırı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.611636881,40.60518751"
 draft: "false"
 weight: "999"

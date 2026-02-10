@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:10+03:00"
 slug: "olbasa-pisidya"
 description: "## Olbasa (Pisidya) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

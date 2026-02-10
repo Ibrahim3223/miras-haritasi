@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:47+03:00"
 slug: "kosilaos"
 description: "# Kosilaos Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

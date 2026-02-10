@@ -5,10 +5,10 @@ slug: "kileci-cesmesi"
 description: "### Kileci Çeşmesi: Safranbolu'daki Bir Kültürel Devrim..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Kileci_Çeşmesi.jpg/1200px-Kileci_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6932907,41.2432137"
 draft: "false"
 weight: "10"

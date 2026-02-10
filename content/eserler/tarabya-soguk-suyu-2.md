@@ -5,10 +5,10 @@ slug: "tarabya-soguk-suyu-2"
 description: "## Tarabya Soğuk Suyu 2: İstanbul'un Eski Şenliklerinde Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.051377,41.138746"
 draft: "false"
 weight: "999"

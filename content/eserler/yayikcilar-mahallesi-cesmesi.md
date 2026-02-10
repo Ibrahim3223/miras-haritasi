@@ -5,10 +5,10 @@ slug: "yayikcilar-mahallesi-cesmesi"
 description: "## Yayıkçılar Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.149611,40.494113"
 draft: "false"
 weight: "999"

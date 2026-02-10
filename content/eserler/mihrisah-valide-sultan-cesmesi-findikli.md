@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-cesmesi-findikli"
 description: "## Mihrişah Valide Sultan Çeşmesi, Fındıklı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9902496,41.0334396"
 draft: "false"
 weight: "999"

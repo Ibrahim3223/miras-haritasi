@@ -5,10 +5,10 @@ slug: "abbas-aga-cesmesi"
 description: "**Abbas Ağa Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Abbas_Ağa_Çeşmesi_IMG_8312.jpg/1200px-Abbas_Ağa_Çeşmesi_IMG_8312.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.005916666,41.045027777"
 draft: "false"
 weight: "10"

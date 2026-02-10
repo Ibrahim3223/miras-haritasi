@@ -4,8 +4,7 @@ date: "2025-12-25T07:14:18+03:00"
 slug: "pergamon-x-tepe-tumulusu"
 description: "### Pergamon X Tepe Tümülüsü: İzmir'in Tarihî Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

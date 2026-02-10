@@ -5,10 +5,10 @@ slug: "kanije-sokagi-cesmesi"
 description: "# Kanije Sokağı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.067341,41.082687"
 draft: "false"
 weight: "999"

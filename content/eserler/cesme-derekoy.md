@@ -5,10 +5,10 @@ slug: "cesme-derekoy"
 description: "## Çeşme – Dereköy: Aydın'ın Eski Köy Çeşmelerinden Bir Örnek..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0373993,37.7947998"
 draft: "false"
 weight: "999"

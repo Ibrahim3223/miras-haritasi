@@ -4,8 +4,7 @@ date: "2025-12-25T07:08:13+03:00"
 slug: "gelinciktepe"
 description: "### Gelinciktepe: Türkiye'nin Etkileyici Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

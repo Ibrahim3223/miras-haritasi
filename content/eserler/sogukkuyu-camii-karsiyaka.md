@@ -4,8 +4,7 @@ date: "2025-12-24T23:06:21+03:00"
 slug: "sogukkuyu-camii-karsiyaka"
 description: "## Soğukkuyu Camii: İzmir'in Tarihi ve Kültür Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

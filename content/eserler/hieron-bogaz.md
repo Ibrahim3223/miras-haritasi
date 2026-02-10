@@ -4,8 +4,7 @@ date: "2025-12-25T08:28:39+03:00"
 slug: "hieron-bogaz"
 description: "## Hieron (Boğaz)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

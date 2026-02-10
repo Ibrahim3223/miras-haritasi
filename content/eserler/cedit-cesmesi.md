@@ -5,10 +5,10 @@ slug: "cedit-cesmesi"
 description: "**Cedit Çeşmesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2783813,39.9094429"
 draft: "false"
 weight: "999"

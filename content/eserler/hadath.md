@@ -4,8 +4,7 @@ date: "2025-12-25T04:30:55+03:00"
 slug: "hadath"
 description: "### Hadath Arkeolojik Sit: Türkiye'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

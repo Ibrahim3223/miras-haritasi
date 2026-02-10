@@ -5,10 +5,10 @@ slug: "tosun-pasa-cesmesi-cesme"
 description: "## Tosun Paşa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3616009,38.3082008"
 draft: "false"
 weight: "999"

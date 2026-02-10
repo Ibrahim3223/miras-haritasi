@@ -5,10 +5,10 @@ slug: "asagi-mahalle-cesmesi-arguvan"
 description: "## Aşağı Mahalle Çeşmesi, Arguvan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arguvan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.326957469,38.754153282"
 draft: "false"
 weight: "999"

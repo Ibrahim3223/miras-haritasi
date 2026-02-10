@@ -4,8 +4,7 @@ date: "2025-12-25T08:35:04+03:00"
 slug: "kapikoy-sinir-kapisi"
 description: "## Kapıköy Sınır Kapısı: Türkiye'nin Tarihi Bir Kervansarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

@@ -5,10 +5,10 @@ slug: "emine-sultan-cesmesi-mevlanakapi"
 description: "## Emine Sultan Çeşmesi: Fatih'teki Bir Klasik Osmanlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9265423,41.0170708"
 draft: "false"
 weight: "999"

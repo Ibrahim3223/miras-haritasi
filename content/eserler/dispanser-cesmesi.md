@@ -5,10 +5,10 @@ slug: "dispanser-cesmesi"
 description: "## Dispanser Çeşmesi: Ayaş'taki Bir Kültür Mirası..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.331719302,40.015687694"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:38:26+03:00"
 slug: "doara"
 description: "## Doara Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

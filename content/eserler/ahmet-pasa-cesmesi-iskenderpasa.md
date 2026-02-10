@@ -5,10 +5,10 @@ slug: "ahmet-pasa-cesmesi-iskenderpasa"
 description: "## Ahmet Paşa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9512577,41.0102425"
 draft: "false"
 weight: "999"

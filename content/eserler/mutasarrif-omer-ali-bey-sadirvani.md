@@ -5,10 +5,10 @@ slug: "mutasarrif-omer-ali-bey-sadirvani"
 description: "### Mutasarrıf Ömer Ali Bey Şadırvanı: Karesi'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mutasarrıf_Ömer_Ali_Bey_Şadırvanı1,_Balıkesir,_2023.jpg/1200px-Mutasarrıf_Ömer_Ali_Bey_Şadırvanı1,_Balıkesir,_2023.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.879903,39.645245"
 draft: "false"
 weight: "10"

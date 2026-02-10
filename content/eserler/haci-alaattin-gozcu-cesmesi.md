@@ -5,10 +5,10 @@ slug: "haci-alaattin-gozcu-cesmesi"
 description: "## Hacı Alaattin Gözcü Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.049,41.139693"
 draft: "false"
 weight: "999"

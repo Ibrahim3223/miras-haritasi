@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:07+03:00"
 slug: "denizli-il-halk-kutuphanesi"
 description: "## Denizli İl Halk Kütüphanesi: Kitaplar ve Kültür..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -5,10 +5,10 @@ slug: "meydan-cesmesi-han"
 description: "# Meydan Çeşmesi, Han..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.8636303,39.1585655"
 draft: "false"
 weight: "999"

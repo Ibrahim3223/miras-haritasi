@@ -4,8 +4,7 @@ date: "2025-12-24T23:13:48+03:00"
 slug: "tepeboz-camii"
 description: "## Tepeboz Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

@@ -4,8 +4,7 @@ date: "2025-12-25T08:21:11+03:00"
 slug: "xystoi-verulanus-stoalari"
 description: "### Xystoi/ Verulanus Stoaları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "badalan-dede-cesmesi"
 description: "## Badalan Dede Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.768488,38.324938"
 draft: "false"
 weight: "999"

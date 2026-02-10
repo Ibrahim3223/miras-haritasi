@@ -4,8 +4,7 @@ date: "2025-12-25T05:17:15+03:00"
 slug: "temenotira"
 description: "# Temenotira: Antik Bir Kentin Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

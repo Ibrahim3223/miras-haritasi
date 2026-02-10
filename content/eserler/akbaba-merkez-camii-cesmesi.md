@@ -5,10 +5,10 @@ slug: "akbaba-merkez-camii-cesmesi"
 description: "## Akbaba Merkez Camii Çeşmesi: Beykoz'un Tarihî Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Akbaba_Merkez_Camii_emesi_1761587839.jpg/1200px-Akbaba_Merkez_Camii_emesi_1761587839.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.11732,41.15086"
 draft: "false"
 weight: "10"

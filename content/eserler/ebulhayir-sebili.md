@@ -5,10 +5,10 @@ slug: "ebulhayir-sebili"
 description: "## Ebülhayir Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9588432,41.0168991"
 draft: "false"
 weight: "999"

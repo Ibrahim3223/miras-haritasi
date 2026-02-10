@@ -5,10 +5,10 @@ slug: "ayasofya-ucyuzlu-cesmesi"
 description: "## Ayasofya Üçyüzlü Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Ayasofya_Üçyüzlü_Çeşmesi,_İstanbul.jpg/1200px-Ayasofya_Üçyüzlü_Çeşmesi,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978583333,41.009055555"
 draft: "false"
 weight: "1"

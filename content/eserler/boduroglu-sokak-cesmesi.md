@@ -5,10 +5,10 @@ slug: "boduroglu-sokak-cesmesi"
 description: "### Boduroğlu Sokak Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7451,38.0858994"
 draft: "false"
 weight: "999"

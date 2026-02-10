@@ -4,8 +4,7 @@ date: "2025-12-25T14:14:36+03:00"
 slug: "antakya-stele"
 description: "## Antakya Stelesi: Türkiye'nin Tarihsel Mirasının Gizli Bir Parçası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Antakya_Arkeoloji_Muzesi_0145.jpg/1200px-Antakya_Arkeoloji_Muzesi_0145.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

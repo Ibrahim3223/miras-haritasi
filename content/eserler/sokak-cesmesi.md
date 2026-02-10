@@ -5,10 +5,10 @@ slug: "sokak-cesmesi"
 description: "## Sokak Çeşmesi: Eskişehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Han"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.8625317,39.1552696"
 draft: "false"
 weight: "999"

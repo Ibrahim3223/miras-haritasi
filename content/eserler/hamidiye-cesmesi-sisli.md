@@ -5,10 +5,10 @@ slug: "hamidiye-cesmesi-sisli"
 description: "## Hamidiye Çeşmesi, Şişli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0099888,41.0697784"
 draft: "false"
 weight: "999"

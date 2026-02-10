@@ -5,10 +5,10 @@ slug: "pastirmaci-yokusu-cesmesi"
 description: "## Pastırmacı Yokuşu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9434395,41.0333252"
 draft: "false"
 weight: "999"

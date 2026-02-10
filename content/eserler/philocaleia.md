@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:41+03:00"
 slug: "philocaleia"
 description: "## Philocaleia: Antik Dünyanın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

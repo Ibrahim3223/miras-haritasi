@@ -5,10 +5,10 @@ slug: "saatli-kule-cesmesi"
 description: "## Saatli Kule Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3656807,37.2178459"
 draft: "false"
 weight: "999"

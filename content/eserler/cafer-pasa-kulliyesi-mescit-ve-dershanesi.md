@@ -4,8 +4,7 @@ date: "2025-12-24T22:49:28+03:00"
 slug: "cafer-pasa-kulliyesi-mescit-ve-dershanesi"
 description: "## Cafer Paşa Külliyesi Mescit ve Dershanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

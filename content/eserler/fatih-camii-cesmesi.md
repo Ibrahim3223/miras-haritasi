@@ -5,10 +5,10 @@ slug: "fatih-camii-cesmesi"
 description: "## Fatih Camii Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7982407,41.1629333"
 draft: "false"
 weight: "999"

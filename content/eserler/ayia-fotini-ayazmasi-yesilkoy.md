@@ -5,10 +5,10 @@ slug: "ayia-fotini-ayazmasi-yesilkoy"
 description: "**Ayia Fotini Ayazması: Bakırköy'deki Bir Değerli Çeşme**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8213196,40.9569893"
 draft: "false"
 weight: "999"

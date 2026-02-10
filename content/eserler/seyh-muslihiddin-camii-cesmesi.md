@@ -5,10 +5,10 @@ slug: "seyh-muslihiddin-camii-cesmesi"
 description: "**Şeyh Muslihiddin Camii Çeşmesi: Sakarya'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Kaynarca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.2907448,41.0726891"
 draft: "false"
 weight: "999"

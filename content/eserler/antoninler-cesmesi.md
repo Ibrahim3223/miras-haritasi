@@ -5,10 +5,10 @@ slug: "antoninler-cesmesi"
 description: "### Antoninler Çeşmesi: Ağlasun'un Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Antoninler_Cesmesi_2.JPG/1200px-Antoninler_Cesmesi_2.JPG"
 province: "Burdur"
-iller: '["Burdur"]'
+iller: ["Burdur"]
 district: "Ağlasun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.517777777,37.677388888"
 draft: "false"
 weight: "10"

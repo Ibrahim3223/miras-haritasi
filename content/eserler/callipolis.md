@@ -4,8 +4,7 @@ date: "2025-12-25T08:28:15+03:00"
 slug: "callipolis"
 description: "### Callipolis Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

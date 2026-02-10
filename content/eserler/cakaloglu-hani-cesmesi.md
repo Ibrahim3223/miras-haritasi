@@ -5,10 +5,10 @@ slug: "cakaloglu-hani-cesmesi"
 description: "## Çakaloğlu Hanı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Çakaloğlu_Hanı_Çeşmesi.jpg/1200px-Çakaloğlu_Hanı_Çeşmesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1319714,38.4216576"
 draft: "false"
 weight: "10"

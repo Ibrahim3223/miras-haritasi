@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:10+03:00"
 slug: "silbium"
 description: "## Silbium: Geçmişin Eski Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

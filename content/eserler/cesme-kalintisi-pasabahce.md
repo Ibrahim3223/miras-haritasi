@@ -5,10 +5,10 @@ slug: "cesme-kalintisi-pasabahce"
 description: "## Çeşme Kalıntısı, Paşabahçe: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0971241,41.1175232"
 draft: "false"
 weight: "999"

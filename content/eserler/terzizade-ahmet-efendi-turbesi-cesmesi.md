@@ -5,10 +5,10 @@ slug: "terzizade-ahmet-efendi-turbesi-cesmesi"
 description: "## Terzizade Ahmet Efendi Türbesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4360485,38.611908"
 draft: "false"
 weight: "999"

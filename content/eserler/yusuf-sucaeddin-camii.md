@@ -4,8 +4,7 @@ date: "2025-12-24T22:16:42+03:00"
 slug: "yusuf-sucaeddin-camii"
 description: "## Yusuf Şucaeddin Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Yusuf_Şucaeddin_Camii1.jpg/1200px-Yusuf_Şucaeddin_Camii1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "halil-efendi-cesmesi-selami-ali-efendi-caddesi"
 description: "## Halil Efendi Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Halil_Efendi_Çeşmesi,_Selami_Ali_Efendi_Caddesi.jpg/1200px-Halil_Efendi_Çeşmesi,_Selami_Ali_Efendi_Caddesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.02239,41.023478"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "serife-fatma-hanim-cesmesi"
 description: "## Şerife Fatma Hanım Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.070805,41.084014"
 draft: "false"
 weight: "999"

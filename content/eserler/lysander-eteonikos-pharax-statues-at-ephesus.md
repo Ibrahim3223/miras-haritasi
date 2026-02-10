@@ -4,8 +4,7 @@ date: "2025-12-25T13:40:48+03:00"
 slug: "lysander-eteonikos-pharax-statues-at-ephesus"
 description: "## Lysander, Eteonikos, Pharax Heykelleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

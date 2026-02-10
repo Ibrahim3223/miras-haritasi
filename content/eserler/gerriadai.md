@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:25+03:00"
 slug: "gerriadai"
 description: "# Gerriadai: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

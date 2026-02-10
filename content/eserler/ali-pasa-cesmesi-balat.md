@@ -5,10 +5,10 @@ slug: "ali-pasa-cesmesi-balat"
 description: "### Ali Paşa Çeşmesi, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.947262,41.029454"
 draft: "false"
 weight: "999"

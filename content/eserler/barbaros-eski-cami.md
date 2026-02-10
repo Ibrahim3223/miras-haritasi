@@ -4,8 +4,7 @@ date: "2025-12-24T22:13:08+03:00"
 slug: "barbaros-eski-cami"
 description: "# Barbaros Eski Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

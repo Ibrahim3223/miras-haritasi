@@ -4,8 +4,7 @@ date: "2025-12-25T03:05:56+03:00"
 slug: "bogazici-yuzer-koprusu"
 description: "### Boğaziçi Yüzer Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

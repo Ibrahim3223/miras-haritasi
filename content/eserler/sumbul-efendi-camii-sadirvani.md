@@ -5,10 +5,10 @@ slug: "sumbul-efendi-camii-sadirvani"
 description: "### Sümbül Efendi Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9284344,41.0035477"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "asagi-tabakhane-sokak-cesmesi"
 description: "## Aşağı Tabakhane Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dağdelen_Camii_Çeşmesi.jpg/1200px-Dağdelen_Camii_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6902313,41.2425842"
 draft: "false"
 weight: "10"

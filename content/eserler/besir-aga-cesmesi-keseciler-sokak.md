@@ -5,10 +5,10 @@ slug: "besir-aga-cesmesi-keseciler-sokak"
 description: "## Beşir Ağa Çeşmesi: Fatih, İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967819,41.01032"
 draft: "false"
 weight: "999"

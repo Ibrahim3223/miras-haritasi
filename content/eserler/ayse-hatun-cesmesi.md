@@ -5,10 +5,10 @@ slug: "ayse-hatun-cesmesi"
 description: "## Ayşe Hatun Çeşmesi: Üsküdar'da Bir Osmanlı Dönemi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.01734,41.025967"
 draft: "false"
 weight: "999"

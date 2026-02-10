@@ -5,10 +5,10 @@ slug: "kumluk-cesmesi-ve-camasirhanesi"
 description: "## Kumluk Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.7483063,38.3224983"
 draft: "false"
 weight: "999"

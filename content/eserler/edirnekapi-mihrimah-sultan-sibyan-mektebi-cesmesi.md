@@ -4,11 +4,10 @@ date: "2025-12-25T10:37:57+03:00"
 slug: "edirnekapi-mihrimah-sultan-sibyan-mektebi-cesmesi"
 description: "## Edirnekapı Mihrimah Sultan Sıbyan Mektebi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Edirnekapı_Mihrimah_Sultan_Sıbyan_Mektebi_Çeşmesi_01.jpg/1200px-Edirnekapı_Mihrimah_Sultan_Sıbyan_Mektebi_Çeşmesi_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.93550334,41.028955273"
 draft: "false"
 weight: "10"

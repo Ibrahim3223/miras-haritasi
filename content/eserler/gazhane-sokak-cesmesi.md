@@ -5,10 +5,10 @@ slug: "gazhane-sokak-cesmesi"
 description: "### Gazhane Sokak Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4938049,37.8652763"
 draft: "false"
 weight: "999"

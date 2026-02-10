@@ -5,10 +5,10 @@ slug: "narmanli-camii-cesmesi"
 description: "## Narmanlı Camii Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.279583,39.9060326"
 draft: "false"
 weight: "999"

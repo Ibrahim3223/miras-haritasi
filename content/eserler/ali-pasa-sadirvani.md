@@ -4,11 +4,10 @@ date: "2025-12-25T10:02:24+03:00"
 slug: "ali-pasa-sadirvani"
 description: "## Ali Paşa Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/IzİzmirAlipaşaŞadırvanı.jpg/1200px-IzİzmirAlipaşaŞadırvanı.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İzmir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.132888888,38.419333333"
 draft: "false"
 weight: "10"

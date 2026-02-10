@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-kushane-girisindeki-cesme"
 description: "## Topkapı Sarayı Kuşhane Girişindeki Çeşme: İhtişam ve Edeplilikin Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9837041,41.0128746"
 draft: "false"
 weight: "1"

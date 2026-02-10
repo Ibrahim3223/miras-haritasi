@@ -5,10 +5,10 @@ slug: "ibadullah-camii-cesmesi"
 description: "## İbadullah Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8578377,39.9396896"
 draft: "false"
 weight: "999"

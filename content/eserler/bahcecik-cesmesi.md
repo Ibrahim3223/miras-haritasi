@@ -5,10 +5,10 @@ slug: "bahcecik-cesmesi"
 description: "## Bahçecik Çeşmesi: Ortahisar'ın Tarihi Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7122955,40.9947128"
 draft: "false"
 weight: "999"

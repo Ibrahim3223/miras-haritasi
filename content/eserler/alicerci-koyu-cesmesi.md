@@ -5,10 +5,10 @@ slug: "alicerci-koyu-cesmesi"
 description: "### Aliçerçi Köyü Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Ahırlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.144110908,37.254788348"
 draft: "false"
 weight: "999"

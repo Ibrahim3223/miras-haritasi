@@ -4,8 +4,7 @@ date: "2025-12-25T04:31:47+03:00"
 slug: "hrisopolis"
 description: "## Hrisopolis: Türkiye'nin Gizli Şehri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

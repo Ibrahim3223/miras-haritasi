@@ -4,8 +4,7 @@ date: "2025-12-24T22:50:03+03:00"
 slug: "calik-haci-ali-aga-gumuspinar-camii"
 description: "## Çalık Hacı Ali Ağa Gümüşpınar Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "esma-sultan-cesmesi"
 description: "## Esma Sultan Çeşmesi: Kartal'da Bir Tarihi Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Esma_Sultan_emesi_1761584116.jpg/1200px-Esma_Sultan_emesi_1761584116.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.229808,40.917852"
 draft: "false"
 weight: "10"

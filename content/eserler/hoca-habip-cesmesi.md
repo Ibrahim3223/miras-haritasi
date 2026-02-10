@@ -5,10 +5,10 @@ slug: "hoca-habip-cesmesi"
 description: "## Hoca Habip Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5020447,37.8732071"
 draft: "false"
 weight: "999"

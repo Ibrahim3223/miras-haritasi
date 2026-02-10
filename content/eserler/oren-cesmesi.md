@@ -5,10 +5,10 @@ slug: "oren-cesmesi"
 description: "## Ören Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Eynesil"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.148883,41.0183469"
 draft: "false"
 weight: "999"

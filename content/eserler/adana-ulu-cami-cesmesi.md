@@ -5,10 +5,10 @@ slug: "adana-ulu-cami-cesmesi"
 description: "**Adana Ulu Cami Çeşmesi**..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Seyhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.330653112,36.984987244"
 draft: "false"
 weight: "999"

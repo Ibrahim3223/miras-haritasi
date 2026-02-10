@@ -4,8 +4,7 @@ date: "2025-12-25T06:58:53+03:00"
 slug: "gambrion"
 description: "# Gambrion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "asklepion-kutsal-su"
 description: "## Asklepion Kutsal Su: Bergama'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1654339,39.119072"
 draft: "false"
 weight: "999"

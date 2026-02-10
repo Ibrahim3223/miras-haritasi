@@ -5,10 +5,10 @@ slug: "uckurnalar-cesmesi"
 description: "## Üçkurnalar Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0572815,40.1818695"
 draft: "false"
 weight: "999"

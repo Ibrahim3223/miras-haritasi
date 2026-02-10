@@ -5,10 +5,10 @@ slug: "hamidiye-saatli-cesmesi"
 description: "### Hamidiye Saatli Çeşmesi: Yozgat'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Yozgat"
-iller: '["Yozgat"]'
+iller: ["Yozgat"]
 district: "Ankara Vilayeti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.805888888,39.82175"
 draft: "false"
 weight: "999"

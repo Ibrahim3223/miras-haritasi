@@ -5,10 +5,10 @@ slug: "soguk-cesme"
 description: "## Soğuk Çeşme: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7154083,41.0030937"
 draft: "false"
 weight: "999"

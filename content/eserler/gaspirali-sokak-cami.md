@@ -4,8 +4,7 @@ date: "2025-12-24T22:53:17+03:00"
 slug: "gaspirali-sokak-cami"
 description: "## Gaspıralı Sokak Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

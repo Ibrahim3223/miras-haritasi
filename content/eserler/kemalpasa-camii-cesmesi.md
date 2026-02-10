@@ -5,10 +5,10 @@ slug: "kemalpasa-camii-cesmesi"
 description: "## Kemalpaşa Camii Çeşmesi: Söke'nin Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5453205,37.7028236"
 draft: "false"
 weight: "999"

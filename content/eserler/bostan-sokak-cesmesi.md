@@ -5,10 +5,10 @@ slug: "bostan-sokak-cesmesi"
 description: "### Bostan Sokak Çeşmesi: Büyükçekmece'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bostan_Sokak_Çeşmesi.jpg/1200px-Bostan_Sokak_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.577354563,41.022475867"
 draft: "false"
 weight: "10"

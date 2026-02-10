@@ -5,10 +5,10 @@ slug: "sefika-hanim-cesmesi"
 description: "### Şefika Hanım Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4894028,38.7169266"
 draft: "false"
 weight: "999"

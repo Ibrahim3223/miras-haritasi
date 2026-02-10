@@ -4,8 +4,7 @@ date: "2025-12-25T05:12:25+03:00"
 slug: "pontanena"
 description: "## Pontanena: Antik Çağın Gizemli Kalesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

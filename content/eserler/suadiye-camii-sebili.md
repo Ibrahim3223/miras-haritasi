@@ -5,10 +5,10 @@ slug: "suadiye-camii-sebili"
 description: "### Suadiye Camii Sebili: Kadıköy'ün Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0797036,40.962306"
 draft: "false"
 weight: "999"

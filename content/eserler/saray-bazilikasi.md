@@ -4,8 +4,7 @@ date: "2025-12-25T07:12:14+03:00"
 slug: "saray-bazilikasi"
 description: "## Saray Bazilikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Palace_Basilica_Constantinople_(1).JPG/1200px-Palace_Basilica_Constantinople_(1).JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

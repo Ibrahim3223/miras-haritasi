@@ -5,10 +5,10 @@ slug: "bergama-voyvodasi-mehmet-aga-cesmesi"
 description: "### Bergama Voyvodası Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1819992,39.1197014"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "nalinci-mehmet-mimi-dede-turbesi-cesmesi"
 description: "## Nalıncı Mehmet Mimi Dede Türbesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.959952,41.023455"
 draft: "false"
 weight: "999"

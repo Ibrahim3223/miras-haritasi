@@ -5,10 +5,10 @@ slug: "amcazade-huseyin-pasa-sebili"
 description: "**Amcazade Hüseyin Paşa Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9524406,41.0153758"
 draft: "false"
 weight: "999"

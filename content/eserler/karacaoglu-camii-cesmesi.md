@@ -5,10 +5,10 @@ slug: "karacaoglu-camii-cesmesi"
 description: "**Karacaoğlu Camii Çeşmesi**..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4803772,38.7121124"
 draft: "false"
 weight: "999"

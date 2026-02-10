@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:29+03:00"
 slug: "sidussa"
 description: "# Sidussa: Anadolu'nun Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

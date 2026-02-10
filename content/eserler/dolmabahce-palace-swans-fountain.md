@@ -5,10 +5,10 @@ slug: "dolmabahce-palace-swans-fountain"
 description: "## Dolmabahçe Sarayı - Kuğu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Gardens_of_Dolmabahçe_Palace,_Istanbul,_Turkey_003.jpg/1200px-Gardens_of_Dolmabahçe_Palace,_Istanbul,_Turkey_003.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.998175194,41.038438086"
 draft: "false"
 weight: "10"

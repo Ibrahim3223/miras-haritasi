@@ -5,10 +5,10 @@ slug: "cesme-2-sabanci-muzesi"
 description: "## Çeşme 2, Sabancı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Çeşme_2,_Sabancı_Müzesi_IMG_7480.jpg/1200px-Çeşme_2,_Sabancı_Müzesi_IMG_7480.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0566273,41.1059227"
 draft: "false"
 weight: "10"

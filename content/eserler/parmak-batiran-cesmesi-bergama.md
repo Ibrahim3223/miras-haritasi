@@ -5,10 +5,10 @@ slug: "parmak-batiran-cesmesi-bergama"
 description: "### Parmak Batıran Çeşmesi: Bergama'nın Görsel Zirvesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1867008,39.1225014"
 draft: "false"
 weight: "999"

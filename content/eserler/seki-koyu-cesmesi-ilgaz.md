@@ -5,10 +5,10 @@ slug: "seki-koyu-cesmesi-ilgaz"
 description: "## Seki Köyü Çeşmesi, Ilgaz..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.55449652,40.972622819"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayazma-camii-avlusu-icindeki-duvar-cesmesi"
 description: "### Ayazma Camii Avlusu İçindeki Duvar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Ayazma_Camii_Avlusu_İçindeki_Duvar_Çeşmesi.jpg/1200px-Ayazma_Camii_Avlusu_İçindeki_Duvar_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.008746,41.022872"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "catal-cesme"
 description: "### Çatal Çeşme: Kadıköy'ün Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.08627,40.956377194"
 draft: "false"
 weight: "999"

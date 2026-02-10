@@ -5,10 +5,10 @@ slug: "kabakci-cesmesi"
 description: "## Kabakçı Çeşmesi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1104412,41.2310791"
 draft: "false"
 weight: "999"

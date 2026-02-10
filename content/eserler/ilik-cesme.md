@@ -5,10 +5,10 @@ slug: "ilik-cesme"
 description: "## Ilık Çeşme: Kütahya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9742317,39.4215622"
 draft: "false"
 weight: "999"

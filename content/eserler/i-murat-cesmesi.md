@@ -5,10 +5,10 @@ slug: "i-murat-cesmesi"
 description: "## I. Murat Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020888776,40.202509456"
 draft: "false"
 weight: "999"

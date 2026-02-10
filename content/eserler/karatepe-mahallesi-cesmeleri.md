@@ -5,10 +5,10 @@ slug: "karatepe-mahallesi-cesmeleri"
 description: "## Karatepe Mahallesi Çeşmeleri: Kocaeli'nin Kültür Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Kartepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.0144405,40.6861191"
 draft: "false"
 weight: "999"

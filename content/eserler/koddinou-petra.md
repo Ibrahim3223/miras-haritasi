@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:58+03:00"
 slug: "koddinou-petra"
 description: "## Koddinou Petra: Kıbrıs'ta Bir Gizli Şehri Keşfetmek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

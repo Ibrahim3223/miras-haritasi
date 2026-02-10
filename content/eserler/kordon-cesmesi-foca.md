@@ -5,10 +5,10 @@ slug: "kordon-cesmesi-foca"
 description: "## Kordon Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7548733,38.672226"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "berberzade-mehmet-efendi-cesmesi"
 description: "## Berberzade Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1334381,38.418293"
 draft: "false"
 weight: "999"

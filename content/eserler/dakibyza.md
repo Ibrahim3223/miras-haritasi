@@ -4,8 +4,7 @@ date: "2025-12-25T04:58:53+03:00"
 slug: "dakibyza"
 description: "## Dakibyza Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

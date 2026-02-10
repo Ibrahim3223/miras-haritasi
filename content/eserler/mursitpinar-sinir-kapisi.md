@@ -4,8 +4,7 @@ date: "2025-12-25T08:35:08+03:00"
 slug: "mursitpinar-sinir-kapisi"
 description: "## Mürşitpınar Sınır Kapısı: Türkiye'nin Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

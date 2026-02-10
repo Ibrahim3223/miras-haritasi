@@ -4,8 +4,7 @@ date: "2025-12-25T13:40:32+03:00"
 slug: "tosun-terzioglu-bahcesi"
 description: "## Tosun Terzioğlu Bahçesi: Anıtsal Bir Zemin..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TosunTerzioğluBahçesi_02.jpg/1200px-TosunTerzioğluBahçesi_02.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

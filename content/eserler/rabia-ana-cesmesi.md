@@ -5,10 +5,10 @@ slug: "rabia-ana-cesmesi"
 description: "## Rabia Ana Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2792511,39.9024315"
 draft: "false"
 weight: "999"

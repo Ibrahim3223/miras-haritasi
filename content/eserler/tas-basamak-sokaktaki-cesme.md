@@ -5,10 +5,10 @@ slug: "tas-basamak-sokaktaki-cesme"
 description: "## Taş Basamak Sokaktaki Çeşme: Beşiktaş'ta Bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023078,41.049714"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:50+03:00"
 slug: "poleatikon"
 description: "### Poleatikon: Tarihî Bir Mirasın Geri Buzulması..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

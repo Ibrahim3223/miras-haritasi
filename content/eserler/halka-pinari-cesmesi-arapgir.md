@@ -5,10 +5,10 @@ slug: "halka-pinari-cesmesi-arapgir"
 description: "**Halka Pınarı Çeşmesi: Arapgir'deki Bir Tarihi ve Kültürel Öncü**..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.622498529,39.077514741"
 draft: "false"
 weight: "999"

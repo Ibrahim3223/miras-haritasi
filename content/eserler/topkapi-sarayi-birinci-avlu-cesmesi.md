@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-birinci-avlu-cesmesi"
 description: "## Topkapı Sarayı Birinci Avlu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.982382,41.010345"
 draft: "false"
 weight: "1"

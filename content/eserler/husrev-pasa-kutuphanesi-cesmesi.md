@@ -5,10 +5,10 @@ slug: "husrev-pasa-kutuphanesi-cesmesi"
 description: "## Hüsrev Paşa Kütüphanesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9348564,41.0484505"
 draft: "false"
 weight: "999"

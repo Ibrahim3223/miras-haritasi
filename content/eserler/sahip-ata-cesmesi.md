@@ -5,10 +5,10 @@ slug: "sahip-ata-cesmesi"
 description: "## Sahip Ata Çeşmesi: Meram, Konya'daki Bir Ünlü Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4944801,37.8679504"
 draft: "false"
 weight: "999"

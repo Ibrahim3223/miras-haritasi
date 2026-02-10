@@ -5,10 +5,10 @@ slug: "haci-ibrahim-sokak-cesmesi"
 description: "# Hacı İbrahim Sokak Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9749813,39.4228783"
 draft: "false"
 weight: "999"

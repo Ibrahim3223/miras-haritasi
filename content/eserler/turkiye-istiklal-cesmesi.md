@@ -5,10 +5,10 @@ slug: "turkiye-istiklal-cesmesi"
 description: "## Türkiye İstiklal Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7113724,38.6243019"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:48:05+03:00"
 slug: "iyte-kutuphanesi"
 description: "## İYTE Kütüphanesi: İlim ve Kültür Merkezinde Bir Örnek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

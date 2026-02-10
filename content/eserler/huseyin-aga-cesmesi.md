@@ -5,10 +5,10 @@ slug: "huseyin-aga-cesmesi"
 description: "## Hüseyin Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Hüseyin_Ağa_Çeşmesi.jpg/1200px-Hüseyin_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.025914,40.989864"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ayios-ionis-ayazmasi"
 description: "**Ayios İonis Ayazması: Üsküdar'daki Eski Çeşme**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0251961,41.0333443"
 draft: "false"
 weight: "999"

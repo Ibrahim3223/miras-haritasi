@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:46+03:00"
 slug: "dergipark"
 description: "## DergiPark Kütüphanesi: Türkiye'nin Kaynaşan Bilgi Merkezleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

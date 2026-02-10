@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:07+03:00"
 slug: "kinik-hoyuk-bilecik"
 description: "## Kınık Höyük: Bilecik'teki Kıvrak Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

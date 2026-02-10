@@ -5,10 +5,10 @@ slug: "beybagi-sokagi-cesmesi"
 description: "## Beybağı Sokağı Çeşmesi: Safranbolu'da Bir Kent Çeşmesinden Bahsetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Beybağı_Sokağı_Çeşmesi.jpg/1200px-Beybağı_Sokağı_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6917801,41.2478561"
 draft: "false"
 weight: "10"

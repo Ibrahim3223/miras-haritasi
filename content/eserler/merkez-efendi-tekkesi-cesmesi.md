@@ -5,10 +5,10 @@ slug: "merkez-efendi-tekkesi-cesmesi"
 description: "## Merkez Efendi Tekkesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Merkez_Efendi_Tekkesi_Çeşmesi.jpg/1200px-Merkez_Efendi_Tekkesi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9200532,41.0157655"
 draft: "false"
 weight: "10"

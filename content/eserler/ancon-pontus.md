@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:18+03:00"
 slug: "ancon-pontus"
 description: "## Ancon (Pontus) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

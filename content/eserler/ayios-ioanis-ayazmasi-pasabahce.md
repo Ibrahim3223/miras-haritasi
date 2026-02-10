@@ -5,10 +5,10 @@ slug: "ayios-ioanis-ayazmasi-pasabahce"
 description: "## Ayios Ioanis Ayazması, Paşabahçe: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0966892,41.1170197"
 draft: "false"
 weight: "999"

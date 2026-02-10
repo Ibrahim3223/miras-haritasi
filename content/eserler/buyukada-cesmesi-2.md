@@ -5,10 +5,10 @@ slug: "buyukada-cesmesi-2"
 description: "## Büyükada Çeşmesi 2: İbrahim Hakkı Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.117371,40.860651"
 draft: "false"
 weight: "999"

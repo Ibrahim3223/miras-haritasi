@@ -5,10 +5,10 @@ slug: "kilic-ali-sokak-cesmesi-bergama"
 description: "## Kılıç Ali Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1849003,39.1231003"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:03+03:00"
 slug: "sakarya-il-ozel-idaresi-kutuphanesi"
 description: "## Sakarya İl Özel İdaresi Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

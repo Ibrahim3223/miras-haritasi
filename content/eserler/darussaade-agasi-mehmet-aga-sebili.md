@@ -5,10 +5,10 @@ slug: "darussaade-agasi-mehmet-aga-sebili"
 description: "### Darüssaade Ağası Mehmet Ağa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9739666,41.0082893"
 draft: "false"
 weight: "999"

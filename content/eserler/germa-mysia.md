@@ -4,8 +4,7 @@ date: "2025-12-25T04:44:13+03:00"
 slug: "germa-mysia"
 description: "## Germa (Mysia): Antik Mabetin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "meydan-cesmesi-ahmetli"
 description: "## Meydan Çeşmesi: Torbalı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3557167,38.0828094"
 draft: "false"
 weight: "999"

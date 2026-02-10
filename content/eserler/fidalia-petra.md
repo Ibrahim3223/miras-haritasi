@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:55+03:00"
 slug: "fidalia-petra"
 description: "## Fidalia Petra: Muzafferlik ve Güçün Göstergesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

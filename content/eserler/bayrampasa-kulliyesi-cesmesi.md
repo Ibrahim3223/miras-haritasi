@@ -5,10 +5,10 @@ slug: "bayrampasa-kulliyesi-cesmesi"
 description: "## Bayrampaşa Külliyesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Bayram_Paşa_Külliyesi_Çeşmesi.jpg/1200px-Bayram_Paşa_Külliyesi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.942312,41.008781"
 draft: "false"
 weight: "10"

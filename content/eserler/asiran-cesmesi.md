@@ -5,10 +5,10 @@ slug: "asiran-cesmesi"
 description: "## Aşiran Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2209778,37.1754341"
 draft: "false"
 weight: "999"

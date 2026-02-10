@@ -5,10 +5,10 @@ slug: "efdalzade-sebili"
 description: "### Efdalzade Sebili: İstanbul'un Gizli Çeşme Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9441109,41.0245819"
 draft: "false"
 weight: "999"

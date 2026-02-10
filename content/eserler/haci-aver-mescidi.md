@@ -4,8 +4,7 @@ date: "2025-12-24T22:53:22+03:00"
 slug: "haci-aver-mescidi"
 description: "# Hacı Aver Mescidi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

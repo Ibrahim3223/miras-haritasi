@@ -4,11 +4,10 @@ date: "2025-12-25T10:37:24+03:00"
 slug: "ahmet-aga-cesmesi-karagumruk"
 description: "## Ahmet Ağa Çeşmesi (Karagümrük)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ahmet_Ağa_Çeşmesi,_Karagümrük_02.jpg/1200px-Ahmet_Ağa_Çeşmesi,_Karagümrük_02.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933913927,41.026865687"
 draft: "false"
 weight: "10"

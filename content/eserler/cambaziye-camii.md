@@ -4,8 +4,7 @@ date: "2025-12-24T22:49:23+03:00"
 slug: "cambaziye-camii"
 description: "## Cambaziye Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

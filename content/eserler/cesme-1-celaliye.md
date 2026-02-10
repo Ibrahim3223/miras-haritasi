@@ -5,10 +5,10 @@ slug: "cesme-1-celaliye"
 description: "## Çeşme 1, Celaliye: Büyükçekmece'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4190521,41.0525284"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:03+03:00"
 slug: "bonita-paflagonya"
 description: "## Bonita (Paflagonya): Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

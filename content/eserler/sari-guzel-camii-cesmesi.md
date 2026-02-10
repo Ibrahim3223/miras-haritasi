@@ -5,10 +5,10 @@ slug: "sari-guzel-camii-cesmesi"
 description: "### Sarı Güzel Camii Çeşmesi: Akşemsettin, Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9455013,41.0175705"
 draft: "false"
 weight: "999"

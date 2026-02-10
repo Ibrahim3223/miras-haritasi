@@ -5,10 +5,10 @@ slug: "catalpinari-cesmesi"
 description: "## Çatalpınarı Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Çatalpınarı_Çeşmesi.jpg/1200px-Çatalpınarı_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6942062,41.2428093"
 draft: "false"
 weight: "10"

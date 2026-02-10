@@ -4,8 +4,7 @@ date: "2025-12-25T04:28:02+03:00"
 slug: "nora-kapadokya"
 description: "### Nora (Kapadokya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

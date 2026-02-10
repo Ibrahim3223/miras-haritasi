@@ -5,10 +5,10 @@ slug: "ayn-melha-cesmesi"
 description: "## Ayn Melha Çeşmesi: Mardin'in Gizli Cenneti..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.749298,37.314622"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "besir-aga-cesmesi-anadolu-kavagi"
 description: "### Beşir Ağa Çeşmesi: Beykoz'un Tarihî ve Kültürel Bir Zenginliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0777454,41.1571312"
 draft: "false"
 weight: "999"

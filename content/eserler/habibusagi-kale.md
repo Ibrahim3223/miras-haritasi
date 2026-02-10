@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:10+03:00"
 slug: "habibusagi-kale"
 description: "## Habibuşağı Kale..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

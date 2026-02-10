@@ -5,10 +5,10 @@ slug: "kaymakam-suyu-cesmesi"
 description: "## Kaymakam Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Kaymakam_Suyu_Çeşmesi.jpg/1200px-Kaymakam_Suyu_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6993408,41.2473907"
 draft: "false"
 weight: "10"

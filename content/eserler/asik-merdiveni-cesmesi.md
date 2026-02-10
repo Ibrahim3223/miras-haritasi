@@ -5,10 +5,10 @@ slug: "asik-merdiveni-cesmesi"
 description: "## Aşık Merdiveni Çeşmesi: İzmit'in Tarihi Bir Ziyaretçi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9215908,40.7656479"
 draft: "false"
 weight: "999"

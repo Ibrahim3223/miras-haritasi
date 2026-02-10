@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:26+03:00"
 slug: "diolkides"
 description: "**Diolkides**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

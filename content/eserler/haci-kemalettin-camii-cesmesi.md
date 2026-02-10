@@ -5,10 +5,10 @@ slug: "haci-kemalettin-camii-cesmesi"
 description: "# Hacı Kemalettin Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6513748,38.2242165"
 draft: "false"
 weight: "999"

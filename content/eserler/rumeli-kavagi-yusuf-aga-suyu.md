@@ -5,10 +5,10 @@ slug: "rumeli-kavagi-yusuf-aga-suyu"
 description: "### Rumeli Kavağı Yusuf Ağa Suyu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.072416,41.18363"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ilyas-celebi-camii-cesmesi"
 description: "## İlyas Çelebi Camii Çeşmesi: Beyoğlu'nun Gizli Cezvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.984798,41.029293"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T01:58:45+03:00"
 slug: "eski-kopru-hasankeyf"
 description: "## Hasankeyf Eski Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Heskîf_2012.jpg/1200px-Heskîf_2012.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

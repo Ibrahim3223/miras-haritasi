@@ -5,10 +5,10 @@ slug: "aya-yorgi-kilisesi-duvar-cesmesi"
 description: "## Aya Yorgi Kilisesi Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0524453,41.0512832"
 draft: "false"
 weight: "999"

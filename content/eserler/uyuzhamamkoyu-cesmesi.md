@@ -5,10 +5,10 @@ slug: "uyuzhamamkoyu-cesmesi"
 description: "## Uyuzhamamköyü Çeşmesi: Alpu, Eskişehir'de Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Alpu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.0397358,39.6858368"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:37:06+03:00"
 slug: "esendere-sinir-kapisi"
 description: "## Esendere Sınır Kapısı: Tarihi Kervansaray..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

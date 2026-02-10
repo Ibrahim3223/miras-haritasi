@@ -5,10 +5,10 @@ slug: "kumbetli-camii-cesmesi"
 description: "## Kümbetli Camii Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5293541,37.8868866"
 draft: "false"
 weight: "999"

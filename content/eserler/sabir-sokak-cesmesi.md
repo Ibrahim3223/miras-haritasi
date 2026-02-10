@@ -5,10 +5,10 @@ slug: "sabir-sokak-cesmesi"
 description: "### Sabır Sokak Çeşmesi: Meram'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4919586,37.8666229"
 draft: "false"
 weight: "999"

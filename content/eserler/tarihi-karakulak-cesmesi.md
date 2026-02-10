@@ -5,10 +5,10 @@ slug: "tarihi-karakulak-cesmesi"
 description: "### Tarihi Karakulak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Tarihi_Karakulak_emesi_1761587991.jpg/1200px-Tarihi_Karakulak_emesi_1761587991.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.125792,41.151182"
 draft: "false"
 weight: "10"

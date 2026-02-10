@@ -4,8 +4,7 @@ date: "2025-12-25T08:35:40+03:00"
 slug: "aktas-sinir-kapisi"
 description: "## Aktaş Sınır Kapısı: Tarihî Bir Kervansarayın Öyküsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

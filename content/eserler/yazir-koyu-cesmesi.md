@@ -5,10 +5,10 @@ slug: "yazir-koyu-cesmesi"
 description: "## Yazır Köyü Çeşmesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çubuk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.975081,40.184398"
 draft: "false"
 weight: "999"

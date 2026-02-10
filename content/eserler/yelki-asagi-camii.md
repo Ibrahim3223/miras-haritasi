@@ -4,8 +4,7 @@ date: "2025-12-24T23:46:51+03:00"
 slug: "yelki-asagi-camii"
 description: "## Yelki Aşağı Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

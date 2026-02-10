@@ -4,8 +4,7 @@ date: "2025-12-25T08:33:42+03:00"
 slug: "hms-arno-1915"
 description: "## HMS Arno (1915)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Contratorpedeiro_Liz_(1914-1915).jpg/1200px-Contratorpedeiro_Liz_(1914-1915).jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

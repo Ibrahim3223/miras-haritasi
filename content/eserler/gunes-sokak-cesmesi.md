@@ -5,10 +5,10 @@ slug: "gunes-sokak-cesmesi"
 description: "## Güneş Sokak Çeşmesi: Uşak'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4027023,38.6797485"
 draft: "false"
 weight: "999"

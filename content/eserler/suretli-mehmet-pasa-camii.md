@@ -4,8 +4,7 @@ date: "2025-12-24T23:08:31+03:00"
 slug: "suretli-mehmet-pasa-camii"
 description: "## Suretli Mehmet Paşa Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "cesme-subasi"
 description: "## Çatalca Subaşı Çeşmesi: Tarihçesi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4587803,41.2284546"
 draft: "false"
 weight: "999"

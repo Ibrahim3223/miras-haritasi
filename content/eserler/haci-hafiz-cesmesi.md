@@ -5,10 +5,10 @@ slug: "haci-hafiz-cesmesi"
 description: "## Hacı Hafız Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hacı_Hafız_Çeşmesi.jpg/1200px-Hacı_Hafız_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6763496,41.2636795"
 draft: "false"
 weight: "10"

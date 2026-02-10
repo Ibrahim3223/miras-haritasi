@@ -5,10 +5,10 @@ slug: "mustafa-aga-cesmesi"
 description: "## Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Turgutreis"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2770004,36.9995995"
 draft: "false"
 weight: "999"

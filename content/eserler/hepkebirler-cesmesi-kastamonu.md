@@ -5,10 +5,10 @@ slug: "hepkebirler-cesmesi-kastamonu"
 description: "## Hepkebirler Çeşmesi: Kastamonu'da Bir Altın Değer..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.773230856,41.375287433"
 draft: "false"
 weight: "999"

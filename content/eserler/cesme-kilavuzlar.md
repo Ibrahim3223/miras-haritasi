@@ -5,10 +5,10 @@ slug: "cesme-kilavuzlar"
 description: "## Çeşme, Kılavuzlar: Aydın'ın Gizemli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3040104,37.7308884"
 draft: "false"
 weight: "999"

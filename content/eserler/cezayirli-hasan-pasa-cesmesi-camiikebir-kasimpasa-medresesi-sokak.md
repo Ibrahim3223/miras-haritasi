@@ -5,10 +5,10 @@ slug: "cezayirli-hasan-pasa-cesmesi-camiikebir-kasimpasa-medresesi-sokak"
 description: "## Cezayirli Hasan Paşa Çeşmesi, Camiikebir – Kasımpaşa Medresesi Sokak..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cezayirli_Hasan_Paşa_Çeşmesi,_Camiikebir_IMG_0230.jpg/1200px-Cezayirli_Hasan_Paşa_Çeşmesi,_Camiikebir_IMG_0230.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.968754,41.033413"
 draft: "false"
 weight: "10"

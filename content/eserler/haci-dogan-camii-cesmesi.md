@@ -5,10 +5,10 @@ slug: "haci-dogan-camii-cesmesi"
 description: "### Hacı Doğan Camii Çeşmesi: Altındağ'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8566628,39.9390755"
 draft: "false"
 weight: "999"

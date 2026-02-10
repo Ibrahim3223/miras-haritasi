@@ -5,10 +5,10 @@ slug: "sinan-aga-camii-cesmesi"
 description: "## Sinan Ağa Camii Çeşmesi: Beykoz'un Tarihî Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0972919,41.1196747"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ismail-oglu-mehmet-cesmesi"
 description: "## İsmail oğlu Mehmet Çeşmesi: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4473991,36.6940079"
 draft: "false"
 weight: "999"

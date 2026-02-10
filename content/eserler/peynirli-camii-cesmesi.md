@@ -5,10 +5,10 @@ slug: "peynirli-camii-cesmesi"
 description: "### Peynirli Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4793587,38.715519"
 draft: "false"
 weight: "999"

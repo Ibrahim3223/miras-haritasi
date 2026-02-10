@@ -4,8 +4,7 @@ date: "2025-12-25T05:40:30+03:00"
 slug: "timolaeum"
 description: "# Timolaeum: Antik Dönemin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

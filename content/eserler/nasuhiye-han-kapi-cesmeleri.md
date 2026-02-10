@@ -5,10 +5,10 @@ slug: "nasuhiye-han-kapi-cesmeleri"
 description: "## Nasuhiye Han Kapı Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9689426,41.0145378"
 draft: "false"
 weight: "999"

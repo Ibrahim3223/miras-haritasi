@@ -5,10 +5,10 @@ slug: "ulukavakdibi-pinari-cesmesi"
 description: "## Ulukavakdibi Pınarı Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6943588,41.2440948"
 draft: "false"
 weight: "999"

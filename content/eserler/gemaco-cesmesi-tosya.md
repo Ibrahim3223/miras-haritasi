@@ -5,10 +5,10 @@ slug: "gemaco-cesmesi-tosya"
 description: "## Gemaco Çeşmesi: Tosya'nın tarihi bir simgesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Tosya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.033296252,41.021311009"
 draft: "false"
 weight: "999"

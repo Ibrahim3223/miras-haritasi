@@ -5,10 +5,10 @@ slug: "nalbant-pinari-cesmesi-arapgir"
 description: "## Nalbant Pınarı Çeşmesi: Arapgir'in Bir Ölümsüz Çeşmesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.47029247,39.056615203"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:21:02+03:00"
 slug: "oroanda"
 description: "## Oroanda Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

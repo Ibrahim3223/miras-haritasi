@@ -5,10 +5,10 @@ slug: "gebze-namazgh-cesmesi"
 description: "## Gebze Namazgâh Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4243126,40.7917786"
 draft: "false"
 weight: "999"

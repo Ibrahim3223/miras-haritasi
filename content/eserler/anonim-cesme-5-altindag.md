@@ -5,10 +5,10 @@ slug: "anonim-cesme-5-altindag"
 description: "## Anonim Çeşme-5, Altındağ: Bir Kültür Mirası Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.856286546,39.939911614"
 draft: "false"
 weight: "999"

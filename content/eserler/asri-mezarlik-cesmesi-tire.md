@@ -5,10 +5,10 @@ slug: "asri-mezarlik-cesmesi-tire"
 description: "## Asri Mezarlık Çeşmesi: Tire'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.746336,38.0909576"
 draft: "false"
 weight: "999"

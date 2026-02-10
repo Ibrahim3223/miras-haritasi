@@ -5,10 +5,10 @@ slug: "esnaf-seyh-camii-cesmesi"
 description: "## Esnaf Şeyh Camii Çeşmesi: İzmir'in Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1329708,38.4160156"
 draft: "false"
 weight: "999"

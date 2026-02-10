@@ -5,10 +5,10 @@ slug: "surmeli-ali-pasa-cesmesi"
 description: "## Sürmeli Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sürmeli_Ali_Paşa_Fountain.jpg/1200px-Sürmeli_Ali_Paşa_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.025069444,40.990558333"
 draft: "false"
 weight: "10"

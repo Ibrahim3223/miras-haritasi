@@ -5,10 +5,10 @@ slug: "cesme-ertugrul-narli-sokak-19"
 description: "## Çeşme – Ertuğrul: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1788998,39.1167984"
 draft: "false"
 weight: "999"

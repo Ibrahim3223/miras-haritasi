@@ -5,10 +5,10 @@ slug: "atiye-hanim-cesmesi"
 description: "## Atiye Hanım Çeşmesi: İstanbul'un Gizli Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9529781,41.0147476"
 draft: "false"
 weight: "999"

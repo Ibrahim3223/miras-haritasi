@@ -5,10 +5,10 @@ slug: "ali-galip-pasa-camii-cesmesi"
 description: "## Ali Galip Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.107523,40.955856"
 draft: "false"
 weight: "999"

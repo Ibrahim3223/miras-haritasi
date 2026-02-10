@@ -5,10 +5,10 @@ slug: "bunyamin-cesmesi"
 description: "# Bünyamin Çeşmesi..."
 featured_image: ""
 province: "Ankara Vilayeti"
-iller: '["Ankara Vilayeti"]'
+iller: ["Ankara Vilayeti"]
 district: "Ayaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.3344307,40.0154839"
 draft: "false"
 weight: "999"

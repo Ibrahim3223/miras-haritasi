@@ -4,8 +4,7 @@ date: "2025-12-24T21:49:59+03:00"
 slug: "iskele-camii-antalya"
 description: "## İskele Camii (Antalya)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/İskele_Camii.JPG/1200px-İskele_Camii.JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

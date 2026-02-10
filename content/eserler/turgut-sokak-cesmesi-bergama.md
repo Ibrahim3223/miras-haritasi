@@ -5,10 +5,10 @@ slug: "turgut-sokak-cesmesi-bergama"
 description: "## Turgut Sokak Çeşmesi, Bergama..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/528.49-Turgut_Sokak_Çeşmesi-19.yy_01.jpg/1200px-528.49-Turgut_Sokak_Çeşmesi-19.yy_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1854,39.1226997"
 draft: "false"
 weight: "10"

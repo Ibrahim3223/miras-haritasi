@@ -4,8 +4,7 @@ date: "2025-12-25T08:26:05+03:00"
 slug: "tas-tepeler"
 description: "## Taş Tepeler: Türkiye'nin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

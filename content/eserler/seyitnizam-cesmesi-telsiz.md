@@ -5,10 +5,10 @@ slug: "seyitnizam-cesmesi-telsiz"
 description: "## Seyitnizam Çeşmesi, Telsiz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Seyitnizam_Çeşmesi,_Telsiz.jpg/1200px-Seyitnizam_Çeşmesi,_Telsiz.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9122028,41.0047569"
 draft: "false"
 weight: "10"

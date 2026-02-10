@@ -5,10 +5,10 @@ slug: "haci-kamil-efendi-cesmesi"
 description: "## Hacı Kamil Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Hacı_Kamil_Efendi_Çeşmesi.jpg/1200px-Hacı_Kamil_Efendi_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6915398,41.2435989"
 draft: "false"
 weight: "10"

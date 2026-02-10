@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:48+03:00"
 slug: "syria-turkey-border-crossing-2697"
 description: "# Suriye-Türkiye Sınırı #2697 Kervansarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

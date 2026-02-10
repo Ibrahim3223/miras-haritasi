@@ -5,10 +5,10 @@ slug: "seyyit-halil-aga-cesmesi"
 description: "### Seyyit Halil Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945829,41.015854"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "salih-pasa-cesmesi"
 description: "## Salih Paşa Çeşmesi: Safranbolu'nun Değerli Hazinesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Salih_Paşa_Çeşmesi.jpg/1200px-Salih_Paşa_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6901627,41.2493782"
 draft: "false"
 weight: "10"

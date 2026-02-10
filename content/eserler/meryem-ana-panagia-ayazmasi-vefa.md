@@ -5,10 +5,10 @@ slug: "meryem-ana-panagia-ayazmasi-vefa"
 description: "# Meryem Ana (Panagia) Ayazması, Vefa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9589195,41.018074"
 draft: "false"
 weight: "999"

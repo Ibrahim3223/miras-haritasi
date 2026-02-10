@@ -5,10 +5,10 @@ slug: "cesme-kalintisi-sancaktepe"
 description: "## Çeşme Kalıntısı, Sancaktepe..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sancaktepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2266827,40.984436"
 draft: "false"
 weight: "999"

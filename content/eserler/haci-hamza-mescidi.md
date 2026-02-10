@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:06+03:00"
 slug: "haci-hamza-mescidi"
 description: "## Hacı Hamza Mescidi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Hacı_Hamza_Mescidi.jpg/1200px-Hacı_Hamza_Mescidi.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

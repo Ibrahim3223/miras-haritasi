@@ -5,10 +5,10 @@ slug: "kadife-sokak-cesmesi"
 description: "## Kadife Sokak Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8630028,39.939045"
 draft: "false"
 weight: "999"

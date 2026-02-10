@@ -5,10 +5,10 @@ slug: "haci-bekir-aga-cesmesi"
 description: "## Hacı Bekir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9429855,41.0326271"
 draft: "false"
 weight: "999"

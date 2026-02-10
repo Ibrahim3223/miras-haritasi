@@ -5,10 +5,10 @@ slug: "ahmet-aga-cesmesi-rumelifeneri"
 description: "### Ahmet Ağa Çeşmesi, Rumelifeneri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ahmet_Ağa_Çeşmesi,_Rumelifeneri_IMG_0055.jpg/1200px-Ahmet_Ağa_Çeşmesi,_Rumelifeneri_IMG_0055.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.107851,41.2350655"
 draft: "false"
 weight: "10"

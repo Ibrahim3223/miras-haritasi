@@ -5,10 +5,10 @@ slug: "adakale-mahallesi-cesmesi"
 description: "# Adakale Mahallesi Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4253731,38.6074142"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yayla-namazgahi"
 description: "## Yayla Namazgahı: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4459991,37.5895996"
 draft: "false"
 weight: "999"

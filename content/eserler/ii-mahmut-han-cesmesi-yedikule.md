@@ -5,10 +5,10 @@ slug: "ii-mahmut-han-cesmesi-yedikule"
 description: "## II. Mahmut Han Çeşmesi, Yedikule: Bir İmparatorlukun İkna Edici Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924188,41.000375"
 draft: "false"
 weight: "999"

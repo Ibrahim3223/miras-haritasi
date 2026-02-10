@@ -5,10 +5,10 @@ slug: "akseki-sokak-cesmesi-2"
 description: "## Akseki Sokak Çeşmesi 2: Safranbolu'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Akseki_Sokak_Çeşmesi_2.jpg/1200px-Akseki_Sokak_Çeşmesi_2.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6890602,41.2448997"
 draft: "false"
 weight: "10"

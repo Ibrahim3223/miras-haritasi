@@ -5,10 +5,10 @@ slug: "muftu-pinari-cesmesi"
 description: "## Müftü Pınarı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Müftü_Pınarı_Çeşmesi.jpg/1200px-Müftü_Pınarı_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6701164,41.2618942"
 draft: "false"
 weight: "10"

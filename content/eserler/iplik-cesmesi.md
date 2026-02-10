@@ -5,10 +5,10 @@ slug: "iplik-cesmesi"
 description: "## İplik Çeşmesi: Sincan'ın Tarihî Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4812012,40.0870476"
 draft: "false"
 weight: "999"

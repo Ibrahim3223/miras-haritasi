@@ -5,10 +5,10 @@ slug: "cesme-1-akhisar"
 description: "## Çeşme 1, Akhisar: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Akhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.844797267,38.922527817"
 draft: "false"
 weight: "999"

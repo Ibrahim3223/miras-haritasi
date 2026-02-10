@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:58+03:00"
 slug: "haci-bayram-i-kaftani-camii"
 description: "## Hacı Bayram-ı Veli Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

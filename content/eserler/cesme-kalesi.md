@@ -4,8 +4,7 @@ date: "2025-12-25T01:16:33+03:00"
 slug: "cesme-kalesi"
 description: "## Çeşme Kalesi: İzmir'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Çeşme_Kalesi,_İzmir,_2020_07.jpg/1200px-Çeşme_Kalesi,_İzmir,_2020_07.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Kale"
 turler: ["Kale"]

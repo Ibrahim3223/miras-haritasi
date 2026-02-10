@@ -5,10 +5,10 @@ slug: "harbiye-mektebi-cesmesi"
 description: "## Harbiye Mektebi Çeşmesi: Şişli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9880123,41.0477371"
 draft: "false"
 weight: "999"

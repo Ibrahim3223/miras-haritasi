@@ -5,10 +5,10 @@ slug: "sadrazam-semiz-ali-pasa-cesmesi"
 description: "## Sadrazam Semiz Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934469,41.037949"
 draft: "false"
 weight: "999"

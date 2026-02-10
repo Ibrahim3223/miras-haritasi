@@ -5,10 +5,10 @@ slug: "ayazma-basibuyuk"
 description: "## Ayazma, Başıbüyük: Maltepe'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1449909,40.9625244"
 draft: "false"
 weight: "999"

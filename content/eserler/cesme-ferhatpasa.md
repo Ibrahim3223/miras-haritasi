@@ -5,10 +5,10 @@ slug: "cesme-ferhatpasa"
 description: "## Çeşme, Ferhatpaşa: İstanbul'un Saklı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4658794,41.1385841"
 draft: "false"
 weight: "999"

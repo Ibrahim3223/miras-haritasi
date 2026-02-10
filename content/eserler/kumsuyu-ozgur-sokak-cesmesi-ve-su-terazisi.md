@@ -5,10 +5,10 @@ slug: "kumsuyu-ozgur-sokak-cesmesi-ve-su-terazisi"
 description: "## Kumsuyu Özgür Sokak Çeşmesi ve Su Terazisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0634751,41.1244453"
 draft: "false"
 weight: "999"

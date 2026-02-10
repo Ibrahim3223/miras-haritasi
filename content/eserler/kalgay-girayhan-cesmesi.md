@@ -5,10 +5,10 @@ slug: "kalgay-girayhan-cesmesi"
 description: "### Giriş..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3013153,38.3192139"
 draft: "false"
 weight: "999"

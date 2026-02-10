@@ -4,8 +4,7 @@ date: "2025-12-25T17:56:12+03:00"
 slug: "sobiad-atif-dizini"
 description: "## Sobiad Atıf Dizini..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -5,10 +5,10 @@ slug: "omer-baba-cesmesi-arapgir"
 description: "## Ömer Baba Çeşmesi: Arapgir'de Bir Kentin Yüzyıllar Boyu Yaşamasının İzleri..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.492458436,39.04850467"
 draft: "false"
 weight: "999"

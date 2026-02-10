@@ -4,8 +4,7 @@ date: "2025-12-25T04:12:39+03:00"
 slug: "macellum-sagalassos"
 description: "## Macellum (Sagalassos)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

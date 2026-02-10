@@ -5,10 +5,10 @@ slug: "meleksima-cesmesi"
 description: "## Meleksima Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.070463,41.020058"
 draft: "false"
 weight: "999"

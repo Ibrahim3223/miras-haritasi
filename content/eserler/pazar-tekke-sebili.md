@@ -5,10 +5,10 @@ slug: "pazar-tekke-sebili"
 description: "## Pazar Tekke Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9283218,41.0187683"
 draft: "false"
 weight: "999"

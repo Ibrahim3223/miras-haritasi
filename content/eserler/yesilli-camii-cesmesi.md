@@ -5,10 +5,10 @@ slug: "yesilli-camii-cesmesi"
 description: "## Yeşilli Camii Çeşmesi: Balıkesir'in Zengin Mirasının Parçası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Balıkesir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8818474,39.6473923"
 draft: "false"
 weight: "999"

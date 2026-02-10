@@ -5,10 +5,10 @@ slug: "eski-cesme-urla"
 description: "## Eski Çeşme, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7715359,38.322731"
 draft: "false"
 weight: "999"

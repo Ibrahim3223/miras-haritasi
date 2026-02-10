@@ -5,10 +5,10 @@ slug: "gumus-sokak-cesmesi-3"
 description: "## Gümüş Sokak Çeşmesi 3: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gümüş_Sokak_Çeşmesi-_3.jpg/1200px-Gümüş_Sokak_Çeşmesi-_3.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6911011,41.2477989"
 draft: "false"
 weight: "10"

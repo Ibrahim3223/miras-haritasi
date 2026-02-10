@@ -5,10 +5,10 @@ slug: "hacilar-cesmesi-hoca-giyasettin"
 description: "## Hacılar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.960835,41.019439"
 draft: "false"
 weight: "999"

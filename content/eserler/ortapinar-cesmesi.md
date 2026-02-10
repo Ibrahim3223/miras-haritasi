@@ -5,10 +5,10 @@ slug: "ortapinar-cesmesi"
 description: "## Ortapınar Çeşmesi: Sincan'ın Tarihi Parıltısı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.2883072,39.786972"
 draft: "false"
 weight: "999"

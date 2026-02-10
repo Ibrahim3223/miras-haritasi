@@ -5,10 +5,10 @@ slug: "ferhat-bey-cesmesi"
 description: "### Ferhat Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Vize_-_Ferhat_Bey_Fountain_-_20250602094140.jpg/1200px-Vize_-_Ferhat_Bey_Fountain_-_20250602094140.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.764722222,41.576888888"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "gavur-cesmesi"
 description: "## Gavur Çeşmesi: Ayvalık'ta Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6975403,39.3185616"
 draft: "false"
 weight: "999"

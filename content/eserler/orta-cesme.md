@@ -5,10 +5,10 @@ slug: "orta-cesme"
 description: "## Orta Çeşme: Esenyurt'ta Bir Tarihi Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenyurt"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6469021,41.0365372"
 draft: "false"
 weight: "999"

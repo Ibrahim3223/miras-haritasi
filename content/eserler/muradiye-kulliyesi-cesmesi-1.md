@@ -5,10 +5,10 @@ slug: "muradiye-kulliyesi-cesmesi-1"
 description: "### Muradiye Külliyesi Çeşmesi-1: Manisa'nın Tarihi bir Simgesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4288158,38.610424"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "rayet-kesan-kalfa-cesmesi"
 description: "### Rayet Kesan Kalfa Çeşmesi: Eyüp'te Bir Geçmişe Dair Anıtsal Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933081,41.054443"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "oluk-cesme-bayindir"
 description: "# Oluk Çeşme, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6438007,38.2251015"
 draft: "false"
 weight: "999"

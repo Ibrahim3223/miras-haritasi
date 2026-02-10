@@ -5,10 +5,10 @@ slug: "mahmudiye-cesmesi-turk-islam-eserleri-muzesi"
 description: "## Mahmudiye Çeşmesi, Türk İslam Eserleri Müzesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9745617,41.0063354"
 draft: "false"
 weight: "999"

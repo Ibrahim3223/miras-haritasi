@@ -5,10 +5,10 @@ slug: "batpazari-cesmesi"
 description: "**Batpazarı Çeşmesi**..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2774086,39.9089355"
 draft: "false"
 weight: "999"

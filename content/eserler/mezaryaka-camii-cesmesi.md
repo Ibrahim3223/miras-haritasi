@@ -5,10 +5,10 @@ slug: "mezaryaka-camii-cesmesi"
 description: "## Mezaryaka Camii Çeşmesi..."
 featured_image: ""
 province: "Selçuklu"
-iller: '["Selçuklu"]'
+iller: ["Selçuklu"]
 district: "Sille"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4180069,37.9284668"
 draft: "false"
 weight: "999"

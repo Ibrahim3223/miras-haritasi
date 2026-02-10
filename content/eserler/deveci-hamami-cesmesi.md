@@ -5,10 +5,10 @@ slug: "deveci-hamami-cesmesi"
 description: "## Deveci Hamamı Çeşmesi: Kayseri'nin Ölümsüz Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4906998,38.7139206"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "musalla-mahallesi-cesmesi"
 description: "### Musalla Mahallesi Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.690876,41.2411766"
 draft: "false"
 weight: "999"

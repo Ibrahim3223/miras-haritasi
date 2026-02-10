@@ -4,8 +4,7 @@ date: "2025-12-25T08:21:15+03:00"
 slug: "herakles-hercules-kapisi"
 description: "## Herakles (Hercules) Kapısı: İzmir'in Gizli Cezanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

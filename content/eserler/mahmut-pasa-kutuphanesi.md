@@ -4,8 +4,7 @@ date: "2025-12-25T17:56:56+03:00"
 slug: "mahmut-pasa-kutuphanesi"
 description: "### Mahmut Paşa Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

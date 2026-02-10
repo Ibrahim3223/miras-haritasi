@@ -5,10 +5,10 @@ slug: "cesme-altindag-bornova"
 description: "## Çeşme – Altındağ, Bornova..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2007694,38.4169273"
 draft: "false"
 weight: "999"

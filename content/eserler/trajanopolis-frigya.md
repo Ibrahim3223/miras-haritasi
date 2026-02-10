@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:35+03:00"
 slug: "trajanopolis-frigya"
 description: "## Trajanopolis (Frigya): Tarihî Bir Mirasın Büyüklüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

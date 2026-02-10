@@ -5,10 +5,10 @@ slug: "kayabasi-cesmesi-cankiri"
 description: "## Kayabaşı Çeşmesi: Çankırı'nın İhtişamını Yansıtan Bir Miras..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.613870447,40.603034917"
 draft: "false"
 weight: "999"

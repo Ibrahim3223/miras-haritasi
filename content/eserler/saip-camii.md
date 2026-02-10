@@ -4,8 +4,7 @@ date: "2025-12-24T22:43:44+03:00"
 slug: "saip-camii"
 description: "# Saip Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

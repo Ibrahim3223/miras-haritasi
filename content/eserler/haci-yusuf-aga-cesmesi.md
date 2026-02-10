@@ -5,10 +5,10 @@ slug: "haci-yusuf-aga-cesmesi"
 description: "### Hacı Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9523983,41.0115929"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T16:13:33+03:00"
 slug: "eliav-sinagogu"
 description: "## Eliav Sinagogu..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Sinagog"
 turler: ["Sinagog"]

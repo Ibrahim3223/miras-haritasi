@@ -5,10 +5,10 @@ slug: "karcali-camii-cesmesi"
 description: "### Karcalı Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7589645,38.0836449"
 draft: "false"
 weight: "999"

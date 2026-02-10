@@ -5,10 +5,10 @@ slug: "sultanhamit-camii-cesmesi"
 description: "## Sultanhamit Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3271065,38.120945"
 draft: "false"
 weight: "999"

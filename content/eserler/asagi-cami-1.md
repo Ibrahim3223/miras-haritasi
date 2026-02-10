@@ -4,8 +4,7 @@ date: "2025-12-24T22:15:35+03:00"
 slug: "asagi-cami-1"
 description: "## Aşağı Cami 1: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

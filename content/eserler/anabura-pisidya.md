@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:46+03:00"
 slug: "anabura-pisidya"
 description: "# Anabura (Pisidya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

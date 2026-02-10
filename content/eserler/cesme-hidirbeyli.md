@@ -5,10 +5,10 @@ slug: "cesme-hidirbeyli"
 description: "## Çeşme, Hıdırbeyli: Germencik'teki Bir Tarih Öreni..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Germencik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5887127,37.8914909"
 draft: "false"
 weight: "999"

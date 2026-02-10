@@ -5,10 +5,10 @@ slug: "halil-bey-cesmesi"
 description: "## Halil Bey Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8699226,39.9386597"
 draft: "false"
 weight: "999"

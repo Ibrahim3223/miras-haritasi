@@ -5,10 +5,10 @@ slug: "yazicizade-cesmesi"
 description: "## Yazıcızade Çeşmesi: Yakutiye'nin Tarihî Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.269146,39.9034309"
 draft: "false"
 weight: "999"

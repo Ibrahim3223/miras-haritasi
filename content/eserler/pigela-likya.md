@@ -4,8 +4,7 @@ date: "2025-12-25T04:56:38+03:00"
 slug: "pigela-likya"
 description: "### Likya'nın Gizli Şehri: Pigela..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "seyyid-mehmed-said-aga-cesmesi"
 description: "## Seyyid Mehmed Said Ağa Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7813873,37.3168716"
 draft: "false"
 weight: "999"

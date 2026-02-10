@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:14+03:00"
 slug: "sarpi-border-post"
 description: "## Sarpi Sınır Postu: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

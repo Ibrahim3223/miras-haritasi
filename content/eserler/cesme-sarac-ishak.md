@@ -5,10 +5,10 @@ slug: "cesme-sarac-ishak"
 description: "## Saraç İshak Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9624348,41.0070496"
 draft: "false"
 weight: "999"

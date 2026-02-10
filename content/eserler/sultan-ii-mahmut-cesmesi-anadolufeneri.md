@@ -5,10 +5,10 @@ slug: "sultan-ii-mahmut-cesmesi-anadolufeneri"
 description: "### Sultan II. Mahmut Çeşmesi, Anadolufeneri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sultan_II._Mahmut_Çeşmesi,_Anadolufeneri_IMG_3177.jpg/1200px-Sultan_II._Mahmut_Çeşmesi,_Anadolufeneri_IMG_3177.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.153623,41.216713"
 draft: "false"
 weight: "10"

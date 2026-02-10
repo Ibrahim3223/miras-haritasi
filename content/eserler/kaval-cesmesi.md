@@ -5,10 +5,10 @@ slug: "kaval-cesmesi"
 description: "## Kaval Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4208336,38.6075554"
 draft: "false"
 weight: "999"

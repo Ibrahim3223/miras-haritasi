@@ -5,10 +5,10 @@ slug: "camasirhane-cesmesi-cankiri"
 description: "## Çamaşırhane Çeşmesi: Çankırı'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.615560569,40.601221052"
 draft: "false"
 weight: "999"

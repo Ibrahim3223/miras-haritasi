@@ -5,10 +5,10 @@ slug: "karaoglan-cesmesi"
 description: "## Karaoğlan Çeşmesi: Balıkesir'in Tarihsel Bir Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8777428,39.6477356"
 draft: "false"
 weight: "999"

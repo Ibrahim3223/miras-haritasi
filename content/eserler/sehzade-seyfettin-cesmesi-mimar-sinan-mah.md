@@ -5,10 +5,10 @@ slug: "sehzade-seyfettin-cesmesi-mimar-sinan-mah"
 description: "**Şehzade Seyfettin Çeşmesi: Üsküdar'da Bir Mimar Sinan Eseri**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018484,41.021175"
 draft: "false"
 weight: "999"

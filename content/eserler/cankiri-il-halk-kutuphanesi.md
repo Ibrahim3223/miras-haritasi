@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:45+03:00"
 slug: "cankiri-il-halk-kutuphanesi"
 description: "## Çankırı İl Halk Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

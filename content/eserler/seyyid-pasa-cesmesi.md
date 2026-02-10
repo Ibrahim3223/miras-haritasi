@@ -5,10 +5,10 @@ slug: "seyyid-pasa-cesmesi"
 description: "## Seyyid Paşa Çeşmesi: Kadıköy'de Bir Tarihsel Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0840015,40.9704132"
 draft: "false"
 weight: "999"

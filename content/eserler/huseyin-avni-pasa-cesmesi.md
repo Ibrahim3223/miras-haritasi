@@ -5,10 +5,10 @@ slug: "huseyin-avni-pasa-cesmesi"
 description: "## Hüseyin Avni Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hüseyin_Avni_Paşa_Çeşmesi.jpg/1200px-Hüseyin_Avni_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0224527,41.031868"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "etiler-sokak-cesmesi"
 description: "## Etiler Sokak Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4917297,38.7146988"
 draft: "false"
 weight: "999"

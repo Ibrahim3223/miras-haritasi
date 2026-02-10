@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:10+03:00"
 slug: "adrotta"
 description: "# Adrotta Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

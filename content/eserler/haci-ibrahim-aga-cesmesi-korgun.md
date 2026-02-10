@@ -5,10 +5,10 @@ slug: "haci-ibrahim-aga-cesmesi-korgun"
 description: "**Hacı İbrahim Ağa Çeşmesi, Korgun**..."
 featured_image: ""
 province: "Ordu"
-iller: '["Ordu"]'
+iller: ["Ordu"]
 district: "Korgan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.525586521,40.789671761"
 draft: "false"
 weight: "999"

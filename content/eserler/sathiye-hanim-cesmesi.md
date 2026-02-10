@@ -5,10 +5,10 @@ slug: "sathiye-hanim-cesmesi"
 description: "**Sathiye Hanım Çeşmesi**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1776009,39.1166992"
 draft: "false"
 weight: "999"

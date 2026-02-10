@@ -5,10 +5,10 @@ slug: "cukur-cesme-laleli"
 description: "### Çukur Çeşme, Laleli: Fatih, İstanbul'da Bir Ölümsüz..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9571018,41.0112228"
 draft: "false"
 weight: "999"

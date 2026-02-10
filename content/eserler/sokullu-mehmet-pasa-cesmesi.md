@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-cesmesi"
 description: "## Sokullu Mehmet Paşa Çeşmesi: İstanbul'un Gizli Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9342709,41.0473557"
 draft: "false"
 weight: "999"

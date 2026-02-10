@@ -4,8 +4,7 @@ date: "2025-12-24T22:50:36+03:00"
 slug: "ekmekci-muhyiddin-camii"
 description: "### Ekmekçi Muhyiddin Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

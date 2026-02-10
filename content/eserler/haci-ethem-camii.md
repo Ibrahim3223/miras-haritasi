@@ -4,8 +4,7 @@ date: "2025-12-24T23:29:08+03:00"
 slug: "haci-ethem-camii"
 description: "### Hacı Ethem Camii: İzmir'in Önemli Tarihî Eserleri Arasındaki Bir Ölümsüz..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

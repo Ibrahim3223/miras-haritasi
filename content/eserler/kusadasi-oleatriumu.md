@@ -4,8 +4,7 @@ date: "2025-12-25T04:00:20+03:00"
 slug: "kusadasi-oleatriumu"
 description: "### Kuşadası Oleatrium'u..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Kuşadası_2013-03-28a.jpg/1200px-Kuşadası_2013-03-28a.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

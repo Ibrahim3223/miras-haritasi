@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:01+03:00"
 slug: "phazemon"
 description: "## Phazemon Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

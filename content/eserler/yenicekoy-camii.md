@@ -4,8 +4,7 @@ date: "2025-12-24T23:47:59+03:00"
 slug: "yenicekoy-camii"
 description: "## Yeniceköy Camii: İzmir'in Doğal Güzelliği ile Birlikte Bir Önemli Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

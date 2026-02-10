@@ -5,10 +5,10 @@ slug: "ladik-kasi-cesmesi"
 description: "## Ladik Kaşı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.3733177,38.1900902"
 draft: "false"
 weight: "999"

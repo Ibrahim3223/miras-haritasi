@@ -5,10 +5,10 @@ slug: "necip-bey-cesmesi-sariyer"
 description: "### Necip Bey Çeşmesi, Sarıyer..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0561562,41.091259"
 draft: "false"
 weight: "999"

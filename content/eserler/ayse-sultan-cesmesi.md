@@ -5,10 +5,10 @@ slug: "ayse-sultan-cesmesi"
 description: "### Ayşe Sultan Çeşmesi: Kalenderhane'daki Bir Osmanlı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ayşe_Sultan_Çeşmesi,_Fatih,_İstanbul,_2023.jpg/1200px-Ayşe_Sultan_Çeşmesi,_Fatih,_İstanbul,_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956079,41.013858"
 draft: "false"
 weight: "10"

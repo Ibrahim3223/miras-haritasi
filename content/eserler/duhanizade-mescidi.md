@@ -4,8 +4,7 @@ date: "2025-12-24T22:51:07+03:00"
 slug: "duhanizade-mescidi"
 description: "## Duhanizade Mescidi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

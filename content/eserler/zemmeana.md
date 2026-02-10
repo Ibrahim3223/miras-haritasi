@@ -4,8 +4,7 @@ date: "2025-12-25T05:19:59+03:00"
 slug: "zemmeana"
 description: "### Zemmeana Arkeolojik Sit Tanıtımı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

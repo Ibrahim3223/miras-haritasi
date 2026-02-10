@@ -5,10 +5,10 @@ slug: "kasim-envari-sokagi-cesmesi"
 description: "## Kasım Envari Sokağı Çeşmesi: Kıymetli bir Tarihî Miras..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.429306,37.8575439"
 draft: "false"
 weight: "999"

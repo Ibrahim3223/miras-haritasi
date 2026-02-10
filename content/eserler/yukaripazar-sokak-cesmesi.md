@@ -5,10 +5,10 @@ slug: "yukaripazar-sokak-cesmesi"
 description: "## Yukarıpazar Sokak Çeşmesi: Kastamonu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7692108,41.3771744"
 draft: "false"
 weight: "999"

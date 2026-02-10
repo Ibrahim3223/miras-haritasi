@@ -5,10 +5,10 @@ slug: "kandak-cesmesi"
 description: "## Kandak Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6560001,37.4337997"
 draft: "false"
 weight: "999"

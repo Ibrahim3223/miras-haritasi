@@ -5,10 +5,10 @@ slug: "agli-meydan-cesmesi"
 description: "## Ağlı Meydan Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Ağlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.553821352,41.686965788"
 draft: "false"
 weight: "999"

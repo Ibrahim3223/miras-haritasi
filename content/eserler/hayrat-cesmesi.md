@@ -5,10 +5,10 @@ slug: "hayrat-cesmesi"
 description: "**Hayrat Çeşmesi**..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.213866,40.512835"
 draft: "false"
 weight: "999"

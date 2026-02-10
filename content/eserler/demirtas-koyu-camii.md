@@ -4,8 +4,7 @@ date: "2025-12-24T22:36:08+03:00"
 slug: "demirtas-koyu-camii"
 description: "### Demirtaş Köyü Camii: İzmir'in Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

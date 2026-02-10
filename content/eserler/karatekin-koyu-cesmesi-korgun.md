@@ -5,10 +5,10 @@ slug: "karatekin-koyu-cesmesi-korgun"
 description: "## Karatekin Köyü Çeşmesi: Korgun'un Tarihi Bir Zirvesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.51023927,40.666680768"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tesvikiye-camii-cesmesi"
 description: "## Teşvikiye Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.994177535,41.048923782"
 draft: "false"
 weight: "999"

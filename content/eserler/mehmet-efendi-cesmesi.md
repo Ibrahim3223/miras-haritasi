@@ -5,10 +5,10 @@ slug: "mehmet-efendi-cesmesi"
 description: "**Mehmet Efendi Çeşmesi: Küçük Ayasofya'nın Gizli Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Mehmet_Efendi_Çeşmesi,_Istanbul_01.jpg/1200px-Mehmet_Efendi_Çeşmesi,_Istanbul_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972051,41.003212"
 draft: "false"
 weight: "10"

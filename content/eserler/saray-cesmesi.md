@@ -5,10 +5,10 @@ slug: "saray-cesmesi"
 description: "## Saray Çeşmesi: Küçükçekmece'nin Tarihî Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7957134,41.0354271"
 draft: "false"
 weight: "999"

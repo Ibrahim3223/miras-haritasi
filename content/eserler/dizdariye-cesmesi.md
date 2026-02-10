@@ -5,10 +5,10 @@ slug: "dizdariye-cesmesi"
 description: "## Dizdariye Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970365,41.006402"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seyyid-hasan-pasa-cesmesi-iskenderpasa"
 description: "# Seyyid Hasan Paşa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951603,41.012306"
 draft: "false"
 weight: "999"

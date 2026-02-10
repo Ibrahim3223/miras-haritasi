@@ -5,10 +5,10 @@ slug: "yaban-cesme-konak"
 description: "# Yaban Çeşme: İzmir'in Eğriçeşme Köyü'ndeki Gizemli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1363068,38.4144363"
 draft: "false"
 weight: "999"

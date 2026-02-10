@@ -4,8 +4,7 @@ date: "2025-12-24T22:19:38+03:00"
 slug: "halil-bey-camii"
 description: "## Halil Bey Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

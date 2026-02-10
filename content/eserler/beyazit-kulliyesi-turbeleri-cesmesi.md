@@ -5,10 +5,10 @@ slug: "beyazit-kulliyesi-turbeleri-cesmesi"
 description: "### Beyazıt Külliyesi Türbeleri Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.965759,41.0097889"
 draft: "false"
 weight: "999"

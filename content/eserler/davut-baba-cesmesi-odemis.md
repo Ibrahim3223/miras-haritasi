@@ -5,10 +5,10 @@ slug: "davut-baba-cesmesi-odemis"
 description: "## Davut Baba Çeşmesi: Ödemiş'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9885006,38.1083984"
 draft: "false"
 weight: "999"

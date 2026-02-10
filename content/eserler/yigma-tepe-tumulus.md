@@ -4,8 +4,7 @@ date: "2025-12-25T07:17:00+03:00"
 slug: "yigma-tepe-tumulus"
 description: "### Yigma Tepe Tumulus: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:53+03:00"
 slug: "soandos"
 description: "## Soandos: Geçmişin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

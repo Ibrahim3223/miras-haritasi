@@ -5,10 +5,10 @@ slug: "katolik-kilisesi-cesmesi"
 description: "## Katolik Kilisesi Çeşmesi: Bir Tarih Öreni..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8553543,39.9348526"
 draft: "false"
 weight: "999"

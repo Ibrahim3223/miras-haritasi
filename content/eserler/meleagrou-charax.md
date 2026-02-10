@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:25+03:00"
 slug: "meleagrou-charax"
 description: "## Meleagrou Charax: Antik Çağın Gizemli Limanı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

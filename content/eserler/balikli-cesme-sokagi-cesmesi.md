@@ -5,10 +5,10 @@ slug: "balikli-cesme-sokagi-cesmesi"
 description: "### Balıklı Çeşme Sokağı Çeşmesi: Konya'da Bir Öykü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.497715,37.8678246"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "muradiye-kulliyesi-cesmesi"
 description: "## Muradiye Külliyesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0452156,40.1910019"
 draft: "false"
 weight: "999"

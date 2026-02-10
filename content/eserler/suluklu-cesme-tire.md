@@ -5,10 +5,10 @@ slug: "suluklu-cesme-tire"
 description: "## Sülüklü Çeşme: Tarihî Bir Mimarî Eserin Hikayesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7407036,38.083889"
 draft: "false"
 weight: "999"

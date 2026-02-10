@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:03+03:00"
 slug: "palaigambrion"
 description: "## Palaigambrion: Kıbrıs'ta Eski Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

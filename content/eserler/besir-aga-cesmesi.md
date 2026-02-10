@@ -5,10 +5,10 @@ slug: "besir-aga-cesmesi"
 description: "# Beşir Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/EMİRSULTAN_CAMİİ_KÜLLİYESİ_TARİHİ_SOKAK_ÇESMESİ_-_panoramio.jpg/1200px-EMİRSULTAN_CAMİİ_KÜLLİYESİ_TARİHİ_SOKAK_ÇESMESİ_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0808086,40.1809654"
 draft: "false"
 weight: "10"

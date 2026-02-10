@@ -5,10 +5,10 @@ slug: "suleymaniye-camii-su-taksim-ve-havalandirma-sistemi"
 description: "## Süleymaniye Camii Su Taksim ve Havalandırma Sistemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9635658,41.0164413"
 draft: "false"
 weight: "1"

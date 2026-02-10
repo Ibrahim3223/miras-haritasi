@@ -5,10 +5,10 @@ slug: "13-nisan-caddesi-20-sokak-cesmesi"
 description: "## 13 Nisan Caddesi 20. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6939774,39.3135147"
 draft: "false"
 weight: "999"

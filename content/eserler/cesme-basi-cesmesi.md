@@ -5,10 +5,10 @@ slug: "cesme-basi-cesmesi"
 description: "## Çeşme Başı Çeşmesi: Kuşadası'nın Eski Şöminesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2540493,37.8579636"
 draft: "false"
 weight: "999"

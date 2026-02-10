@@ -5,10 +5,10 @@ slug: "carsi-cesmesi-yenifoca"
 description: "## Çarşı Çeşmesi: Foça'nın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.8382607,38.7404938"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-24T23:41:21+03:00"
 slug: "kale-ici-camii"
 description: "## Kale İçi Camii: İzmir'in Tarihsel Bir Zirvesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

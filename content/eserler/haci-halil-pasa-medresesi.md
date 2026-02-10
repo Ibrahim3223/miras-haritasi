@@ -4,8 +4,7 @@ date: "2025-12-25T17:43:55+03:00"
 slug: "haci-halil-pasa-medresesi"
 description: "## Hacı Halil Paşa Medresesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Medrese"
 turler: ["Medrese"]

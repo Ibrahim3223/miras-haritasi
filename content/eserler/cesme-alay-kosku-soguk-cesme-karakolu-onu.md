@@ -5,10 +5,10 @@ slug: "cesme-alay-kosku-soguk-cesme-karakolu-onu"
 description: "### Çeşme: Alay Köşkü Soğuk Çeşme Karakolu Önü, Fatih, İstanbul..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9783916,41.0110435"
 draft: "false"
 weight: "999"

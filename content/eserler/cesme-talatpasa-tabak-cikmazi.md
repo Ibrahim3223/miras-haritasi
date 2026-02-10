@@ -5,10 +5,10 @@ slug: "cesme-talatpasa-tabak-cikmazi"
 description: "### Çeşme – Talatpaşa, Tabak Çıkmazı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1826,39.1226997"
 draft: "false"
 weight: "999"

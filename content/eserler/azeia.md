@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:13+03:00"
 slug: "azeia"
 description: "## Azeia Arkeolojik Sitesi: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

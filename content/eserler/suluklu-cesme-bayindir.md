@@ -5,10 +5,10 @@ slug: "suluklu-cesme-bayindir"
 description: "## Sülüklü Çeşme, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6422005,38.2229996"
 draft: "false"
 weight: "999"

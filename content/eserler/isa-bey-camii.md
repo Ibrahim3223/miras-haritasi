@@ -4,8 +4,7 @@ date: "2025-12-24T15:11:48+03:00"
 slug: "isa-bey-camii"
 description: "## İsa Bey Camii: İzmir'in Tarihi Bir Mirası..."
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/İsa_Bey_Camii.jpg/1200px-İsa_Bey_Camii.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

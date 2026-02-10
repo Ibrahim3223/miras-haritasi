@@ -5,10 +5,10 @@ slug: "nazir-huseyin-aga-cesmesi"
 description: "## Nazır Hüseyin Ağa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Darıca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4243431,40.7765121"
 draft: "false"
 weight: "999"

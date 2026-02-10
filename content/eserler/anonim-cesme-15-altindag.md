@@ -5,10 +5,10 @@ slug: "anonim-cesme-15-altindag"
 description: "**Anonim Çeşme-15: Ankara'nın Eski Eserleri Arasındaki Bir Örgün**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.859379315,39.933144948"
 draft: "false"
 weight: "999"

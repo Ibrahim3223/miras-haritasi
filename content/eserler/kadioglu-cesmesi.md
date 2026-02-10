@@ -5,10 +5,10 @@ slug: "kadioglu-cesmesi"
 description: "## Kadıoğlu Çeşmesi: Yakutiye'nin Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2796707,39.9134941"
 draft: "false"
 weight: "999"

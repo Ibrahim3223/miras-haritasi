@@ -5,10 +5,10 @@ slug: "sirin-sokak-cesmesi"
 description: "## Şirin Sokak Çeşmesi: Emirgan'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0506682,41.1012946"
 draft: "false"
 weight: "999"

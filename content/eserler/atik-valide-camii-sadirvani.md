@@ -5,10 +5,10 @@ slug: "atik-valide-camii-sadirvani"
 description: "**Atik Valide Camii Şadırvanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0236168,41.0189056"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultan-ahmet-arastasi-duvar-cesmesi"
 description: "## Sultan Ahmet Arastası Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.977984,41.00566"
 draft: "false"
 weight: "999"

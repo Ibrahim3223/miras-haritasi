@@ -4,8 +4,7 @@ date: "2025-12-25T01:39:27+03:00"
 slug: "eskipazar-kalesi"
 description: "### Eskipazar Kalesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kale"
 turler: ["Kale"]

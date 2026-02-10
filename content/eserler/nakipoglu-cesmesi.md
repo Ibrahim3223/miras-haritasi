@@ -5,10 +5,10 @@ slug: "nakipoglu-cesmesi"
 description: "### Nakipoğlu Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.504818,37.8761444"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:52:02+03:00"
 slug: "cordyle"
 description: "## Cordyle Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

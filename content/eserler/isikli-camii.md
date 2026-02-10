@@ -4,8 +4,7 @@ date: "2025-12-24T22:24:49+03:00"
 slug: "isikli-camii"
 description: "## Işıklı Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

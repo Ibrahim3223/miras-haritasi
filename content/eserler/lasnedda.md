@@ -4,8 +4,7 @@ date: "2025-12-25T05:06:27+03:00"
 slug: "lasnedda"
 description: "# Lasnedda Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

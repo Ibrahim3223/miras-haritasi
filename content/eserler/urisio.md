@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:32+03:00"
 slug: "urisio"
 description: "## Urisio: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

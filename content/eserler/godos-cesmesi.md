@@ -5,10 +5,10 @@ slug: "godos-cesmesi"
 description: "## Godoş Çeşmesi: Kelkit'in Tarihî Mirası..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.4345589,40.2056618"
 draft: "false"
 weight: "999"

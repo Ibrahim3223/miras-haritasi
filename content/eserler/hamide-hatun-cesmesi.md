@@ -5,10 +5,10 @@ slug: "hamide-hatun-cesmesi"
 description: "## Hamide Hatun Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hamide_Hatun_Çeşmesi.jpg/1200px-Hamide_Hatun_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6900291,41.2441368"
 draft: "false"
 weight: "10"

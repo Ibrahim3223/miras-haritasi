@@ -5,10 +5,10 @@ slug: "arpaz-aile-mezarligi-cesmesi"
 description: "### Arpaz Aile Mezarlığı Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.347093345,37.808160739"
 draft: "false"
 weight: "999"

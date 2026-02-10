@@ -5,10 +5,10 @@ slug: "rum-hastanesi-cesmesi"
 description: "## Rum Hastanesi Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.544796,37.7035751"
 draft: "false"
 weight: "999"

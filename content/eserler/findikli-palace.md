@@ -4,8 +4,7 @@ date: "2025-12-25T13:14:16+03:00"
 slug: "findikli-palace"
 description: "## Fındıklı Sarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

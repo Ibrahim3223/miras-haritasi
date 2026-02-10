@@ -4,8 +4,7 @@ date: "2025-12-24T23:02:20+03:00"
 slug: "gazez-camii"
 description: "## Gazez Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

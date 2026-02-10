@@ -4,8 +4,7 @@ date: "2025-12-25T04:32:31+03:00"
 slug: "eudocia"
 description: "## Eudocia: Antik Liman Şehirinin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

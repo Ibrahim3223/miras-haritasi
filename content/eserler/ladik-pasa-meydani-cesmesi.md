@@ -5,10 +5,10 @@ slug: "ladik-pasa-meydani-cesmesi"
 description: "## Ladik Paşa Meydanı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Sarayönü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.3747559,38.191494"
 draft: "false"
 weight: "999"

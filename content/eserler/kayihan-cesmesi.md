@@ -5,10 +5,10 @@ slug: "kayihan-cesmesi"
 description: "## Kayıhan Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0702934,40.1837997"
 draft: "false"
 weight: "999"

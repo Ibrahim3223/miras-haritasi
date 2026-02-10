@@ -5,10 +5,10 @@ slug: "feyzullah-efendi-cesmesi-fatih"
 description: "## Feyzullah Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9497985,41.0171766"
 draft: "false"
 weight: "999"

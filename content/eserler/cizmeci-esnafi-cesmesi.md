@@ -5,10 +5,10 @@ slug: "cizmeci-esnafi-cesmesi"
 description: "## Çizmeci Esnafı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1784992,39.1216011"
 draft: "false"
 weight: "999"

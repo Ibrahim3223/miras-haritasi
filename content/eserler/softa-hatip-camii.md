@@ -4,8 +4,7 @@ date: "2025-12-24T22:16:22+03:00"
 slug: "softa-hatip-camii"
 description: "### Softa Hatip Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Softa_Hatip_Mosque.jpg/1200px-Softa_Hatip_Mosque.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

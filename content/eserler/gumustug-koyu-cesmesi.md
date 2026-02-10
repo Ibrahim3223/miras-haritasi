@@ -5,10 +5,10 @@ slug: "gumustug-koyu-cesmesi"
 description: "### Gümüştuğ Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.1354065,40.4524918"
 draft: "false"
 weight: "999"

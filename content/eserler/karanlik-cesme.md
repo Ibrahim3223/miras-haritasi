@@ -5,10 +5,10 @@ slug: "karanlik-cesme"
 description: "### Karanlık Çeşme..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2718506,39.9095306"
 draft: "false"
 weight: "999"

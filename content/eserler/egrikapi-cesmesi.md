@@ -5,10 +5,10 @@ slug: "egrikapi-cesmesi"
 description: "## Eğrikapı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Eğrikapı_Çeşmesi_02.jpg/1200px-Eğrikapı_Çeşmesi_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.939707,41.036434"
 draft: "false"
 weight: "10"

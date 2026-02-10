@@ -5,10 +5,10 @@ slug: "danaci-cesmesi-kemalpasa"
 description: "## Danacı Çeşmesi, Kemalpaşa..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4352112,38.4218292"
 draft: "false"
 weight: "999"

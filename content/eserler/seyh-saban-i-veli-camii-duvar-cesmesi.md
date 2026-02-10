@@ -5,10 +5,10 @@ slug: "seyh-saban-i-veli-camii-duvar-cesmesi"
 description: "## Şeyh Şaban-ı Veli Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7641182,41.3744278"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehli-caddesi-cesmesi-darende"
 description: "## Şehli Caddesi Çeşmesi, Darende..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Darende"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.58507158,38.466719819"
 draft: "false"
 weight: "999"

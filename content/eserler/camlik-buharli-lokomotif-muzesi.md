@@ -4,8 +4,7 @@ date: "2025-12-25T03:10:57+03:00"
 slug: "camlik-buharli-lokomotif-muzesi"
 description: "## Çamlık Buharlı Lokomotif Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/57_01_Camlik1.jpg/1200px-57_01_Camlik1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Müze"
 turler: ["Müze"]

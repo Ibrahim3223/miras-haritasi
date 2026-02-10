@@ -5,10 +5,10 @@ slug: "eski-cami-sokak-cesmesi-urla"
 description: "### Eski Cami Sokak Çeşmesi: Urla'da Bir Kentin Gizli Kâşifleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7675514,38.3204117"
 draft: "false"
 weight: "999"

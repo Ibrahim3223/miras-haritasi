@@ -5,10 +5,10 @@ slug: "gazi-umur-bey-cesmesi-birgi"
 description: "### Gazi Umur Bey Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0645103,38.253933"
 draft: "false"
 weight: "999"

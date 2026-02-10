@@ -5,10 +5,10 @@ slug: "haci-ibrahim-aga-cesmesi"
 description: "**Hacı İbrahim Ağa Çeşmesi: Tarihî Bir Anıtsal Yapı**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3996296,40.1484337"
 draft: "false"
 weight: "999"

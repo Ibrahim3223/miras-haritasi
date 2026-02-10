@@ -5,10 +5,10 @@ slug: "atakoy-baruthane-i-mire-cesmesi"
 description: "## Ataköy Baruthane-i Âmire Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ataköy_Baruthane-i_Âmire_Çeşmesi_IMG_0156.jpg/1200px-Ataköy_Baruthane-i_Âmire_Çeşmesi_IMG_0156.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8587399,40.9742737"
 draft: "false"
 weight: "10"

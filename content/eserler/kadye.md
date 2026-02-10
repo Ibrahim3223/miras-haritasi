@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:01+03:00"
 slug: "kadye"
 description: "## Kadye: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

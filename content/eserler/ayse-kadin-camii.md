@@ -4,8 +4,7 @@ date: "2025-12-24T22:13:12+03:00"
 slug: "ayse-kadin-camii"
 description: "#### Ayşe Kadın Camii Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/5/59/Ay%C5%9Fe_Kad%C4%B1n_Simit_F%C4%B1r%C4%B1n%C4%B1.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

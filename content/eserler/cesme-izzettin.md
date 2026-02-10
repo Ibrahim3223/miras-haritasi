@@ -5,10 +5,10 @@ slug: "cesme-izzettin"
 description: "### İzzettin Çeşmesi: Çatalca'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Çeşme,_İzzettin.jpg/1200px-Çeşme,_İzzettin.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.503727,41.1771812"
 draft: "false"
 weight: "10"

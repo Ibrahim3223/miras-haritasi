@@ -4,8 +4,7 @@ date: "2025-12-25T05:04:18+03:00"
 slug: "miletos-mysia"
 description: "## Miletos (Mysia) Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

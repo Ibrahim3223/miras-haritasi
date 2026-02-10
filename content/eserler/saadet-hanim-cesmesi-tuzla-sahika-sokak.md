@@ -5,10 +5,10 @@ slug: "saadet-hanim-cesmesi-tuzla-sahika-sokak"
 description: "## Saadet Hanım Çeşmesi: Tuzla'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Saadet_Hanm_emesi_1761578481.jpg/1200px-Saadet_Hanm_emesi_1761578481.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3085041,40.8201485"
 draft: "false"
 weight: "10"

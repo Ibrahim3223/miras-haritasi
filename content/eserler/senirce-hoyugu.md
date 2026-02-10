@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:19+03:00"
 slug: "senirce-hoyugu"
 description: "### Senirce Höyüğü: Türkiye'nin Eski Uygarlığının Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "mehmet-oglu-halil-cesmesi"
 description: "### Mehmet Oğlu Halil Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2639427,37.0618324"
 draft: "false"
 weight: "999"

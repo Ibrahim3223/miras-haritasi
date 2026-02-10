@@ -5,10 +5,10 @@ slug: "husrev-pasa-sebili"
 description: "## Hüsrev Paşa Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9427013,41.0187073"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T06:48:35+03:00"
 slug: "anastasios-suru"
 description: "## Anastasios Suru: Geçmişte Yaşayan Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Anastasian_Wall_path.svg/1200px-Anastasian_Wall_path.svg.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

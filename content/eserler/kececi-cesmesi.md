@@ -5,10 +5,10 @@ slug: "kececi-cesmesi"
 description: "### Keçeci Çeşmesi: Karesi'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8818855,39.644455"
 draft: "false"
 weight: "999"

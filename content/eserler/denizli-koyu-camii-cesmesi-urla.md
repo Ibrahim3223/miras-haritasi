@@ -5,10 +5,10 @@ slug: "denizli-koyu-camii-cesmesi-urla"
 description: "### Urla'nın Tarihî Çeşmesi: Urla Köyü Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.739397,38.37957"
 draft: "false"
 weight: "999"

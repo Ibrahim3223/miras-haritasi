@@ -5,10 +5,10 @@ slug: "altinpark-cesmesi"
 description: "## Altınpark Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1439209,38.4206467"
 draft: "false"
 weight: "999"

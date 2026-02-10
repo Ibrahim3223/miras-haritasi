@@ -5,10 +5,10 @@ slug: "osman-efendi-cesmesi"
 description: "### Osman Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9605274,41.0123863"
 draft: "false"
 weight: "999"

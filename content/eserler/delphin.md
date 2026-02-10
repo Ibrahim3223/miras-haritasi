@@ -4,8 +4,7 @@ date: "2025-12-25T04:50:11+03:00"
 slug: "delphin"
 description: "**Delphin: Antik Roma'nın Gizemi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

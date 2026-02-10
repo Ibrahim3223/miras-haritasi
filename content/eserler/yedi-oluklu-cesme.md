@@ -5,10 +5,10 @@ slug: "yedi-oluklu-cesme"
 description: "### Yedi Oluklu Çeşme'nin Öyküsü..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Ermenek"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8903732,36.6414948"
 draft: "false"
 weight: "999"

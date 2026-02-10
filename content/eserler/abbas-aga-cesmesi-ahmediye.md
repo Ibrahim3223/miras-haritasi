@@ -5,10 +5,10 @@ slug: "abbas-aga-cesmesi-ahmediye"
 description: "## Abbas Ağa Çeşmesi, Ahmediye..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Abbas_Ağa_Çeşmesi_1.jpg/1200px-Abbas_Ağa_Çeşmesi_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018139385,41.021811505"
 draft: "false"
 weight: "10"

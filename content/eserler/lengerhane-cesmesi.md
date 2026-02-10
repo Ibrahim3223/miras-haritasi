@@ -5,10 +5,10 @@ slug: "lengerhane-cesmesi"
 description: "### Lengerhane Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lengerhane_Çeşmesi_IMG_0489.jpg/1200px-Lengerhane_Çeşmesi_IMG_0489.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9490566,41.0431671"
 draft: "false"
 weight: "10"

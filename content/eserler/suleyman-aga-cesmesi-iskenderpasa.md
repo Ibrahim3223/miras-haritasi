@@ -5,10 +5,10 @@ slug: "suleyman-aga-cesmesi-iskenderpasa"
 description: "## Süleyman Ağa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9509735,41.0161209"
 draft: "false"
 weight: "999"

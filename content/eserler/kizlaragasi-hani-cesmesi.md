@@ -5,10 +5,10 @@ slug: "kizlaragasi-hani-cesmesi"
 description: "## Kızlarağası Hanı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1327286,38.4212189"
 draft: "false"
 weight: "999"

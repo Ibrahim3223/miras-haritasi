@@ -5,10 +5,10 @@ slug: "hatuniye-cesmesi-bergama"
 description: "## Hatuniye Çeşmesi, Bergama..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/26.77-Hatuniye_Çeşmesi-1876_01.jpg/1200px-26.77-Hatuniye_Çeşmesi-1876_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "İzmir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1776981,39.1161995"
 draft: "false"
 weight: "10"

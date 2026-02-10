@@ -5,10 +5,10 @@ slug: "igneli-belkis-camii-cesmesi"
 description: "## İğneli Belkıs Camii Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8545876,39.9441528"
 draft: "false"
 weight: "999"

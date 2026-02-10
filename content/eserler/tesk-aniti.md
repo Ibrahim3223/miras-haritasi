@@ -4,8 +4,7 @@ date: "2025-12-25T15:55:49+03:00"
 slug: "tesk-aniti"
 description: "### TESK Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

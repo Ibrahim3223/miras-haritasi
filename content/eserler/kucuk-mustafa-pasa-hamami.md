@@ -4,8 +4,7 @@ date: "2025-12-25T16:26:10+03:00"
 slug: "kucuk-mustafa-pasa-hamami"
 description: "### Küçük Mustafa Paşa Hamamı: İstanbul'un Eski Günleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Küçük_Mustafa_Paşa_Hamamı_01.jpg/1200px-Küçük_Mustafa_Paşa_Hamamı_01.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Hamam"
 turler: ["Hamam"]

@@ -5,10 +5,10 @@ slug: "kible-cesmesi"
 description: "### Kıble Çeşmesi: Demirtaş'taki Bir Geçmişe Dönen Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.964401,41.019175"
 draft: "false"
 weight: "999"

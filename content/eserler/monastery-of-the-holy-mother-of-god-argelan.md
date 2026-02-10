@@ -4,8 +4,7 @@ date: "2025-12-25T09:54:38+03:00"
 slug: "monastery-of-the-holy-mother-of-god-argelan"
 description: "# Argelan Aziz Meryem Manastırı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

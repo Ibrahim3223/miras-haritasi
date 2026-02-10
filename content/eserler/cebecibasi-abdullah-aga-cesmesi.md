@@ -5,10 +5,10 @@ slug: "cebecibasi-abdullah-aga-cesmesi"
 description: "## Cebecibaşı Abdullah Ağa Çeşmesi: 19. Yüzyılın Ölümsüz Abidesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cebecibaşı_Abdullah_Ağa_Çeşmesi.jpg/1200px-Cebecibaşı_Abdullah_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.982885,41.034565"
 draft: "false"
 weight: "10"

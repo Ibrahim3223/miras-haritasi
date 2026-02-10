@@ -5,10 +5,10 @@ slug: "yukari-sinan-aga-cesmesi"
 description: "**Yukarı Sinan Ağa Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Yukarı_Sinan_Ağa_Çeşmesi.jpg/1200px-Yukarı_Sinan_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9448738,41.0355606"
 draft: "false"
 weight: "10"

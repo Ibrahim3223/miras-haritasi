@@ -5,10 +5,10 @@ slug: "dutluk-pinari-cesmesi-hekimhan"
 description: "## Dutluk Pınarı Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.938906627,38.810997515"
 draft: "false"
 weight: "999"

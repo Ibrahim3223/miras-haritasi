@@ -4,8 +4,7 @@ date: "2025-12-24T23:38:45+03:00"
 slug: "incirli-mescit"
 description: "## İncirli Mescit: İzmir'in Tarihi Bir Camisi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

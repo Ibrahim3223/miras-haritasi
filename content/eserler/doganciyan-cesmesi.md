@@ -5,10 +5,10 @@ slug: "doganciyan-cesmesi"
 description: "### Doğancıyan Çeşmesi: İzmir'in Tarihi Bir Ögesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7409821,38.083786"
 draft: "false"
 weight: "999"

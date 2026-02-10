@@ -5,10 +5,10 @@ slug: "ihramci-mehmed-sadik-efendi-cesmesi"
 description: "### İhramcı Mehmed Sadık Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/İhramcı_Mehmet_Sıddık_Efendi_Çeşmesi_01.jpg/1200px-İhramcı_Mehmet_Sıddık_Efendi_Çeşmesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956068,41.026875"
 draft: "false"
 weight: "10"

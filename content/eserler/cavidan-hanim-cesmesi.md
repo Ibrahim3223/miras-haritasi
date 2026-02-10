@@ -5,10 +5,10 @@ slug: "cavidan-hanim-cesmesi"
 description: "## Cavidan Hanım Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5415306,41.6885147"
 draft: "false"
 weight: "999"

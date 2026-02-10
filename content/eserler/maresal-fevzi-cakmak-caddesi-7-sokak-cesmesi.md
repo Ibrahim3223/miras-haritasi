@@ -5,10 +5,10 @@ slug: "maresal-fevzi-cakmak-caddesi-7-sokak-cesmesi"
 description: "### Mareşal Fevzi Çakmak Caddesi 7. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6956615,39.3190193"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-cesmesi-hirka-i-serif"
 description: "## Çorlulu Ali Paşa Çeşmesi, Hırka-i Şerif..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Çorlulu_Ali_Paşa_Çeşmesi,_Hırka-i_Şerif.jpg/1200px-Çorlulu_Ali_Paşa_Çeşmesi,_Hırka-i_Şerif.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941373,41.0221881"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "meydan-cesmesi-kosk"
 description: "## Meydan Çeşmesi – Köşk: Milas'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6920853,37.353756"
 draft: "false"
 weight: "999"

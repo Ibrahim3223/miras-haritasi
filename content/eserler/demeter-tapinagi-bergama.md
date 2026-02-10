@@ -4,8 +4,7 @@ date: "2025-12-25T06:56:06+03:00"
 slug: "demeter-tapinagi-bergama"
 description: "# Demeter Tapınağı: Bergama'nın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pergamon_Demeterheiligtum.JPG/1200px-Pergamon_Demeterheiligtum.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

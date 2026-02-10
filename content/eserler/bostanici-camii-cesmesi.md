@@ -5,10 +5,10 @@ slug: "bostanici-camii-cesmesi"
 description: "## Bostaniçi Camii Çeşmesi: Beyoğlu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9791584,41.0290222"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kubbeli-cesme"
 description: "## Kubbeli Çeşme..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7882118,37.2726288"
 draft: "false"
 weight: "999"

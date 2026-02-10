@@ -5,10 +5,10 @@ slug: "kara-hayrettin-pasa-cesmesi-tire"
 description: "## Kara Hayrettin Paşa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7307606,38.0830727"
 draft: "false"
 weight: "999"

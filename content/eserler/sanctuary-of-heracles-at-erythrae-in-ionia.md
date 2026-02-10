@@ -4,8 +4,7 @@ date: "2025-12-25T08:10:56+03:00"
 slug: "sanctuary-of-heracles-at-erythrae-in-ionia"
 description: "## Erythrae'deki Heracles Tapınağı: Ege'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

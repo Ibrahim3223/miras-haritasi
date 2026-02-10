@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-camii-cesmesi"
 description: "## Hekimoğlu Ali Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.935212,41.00663"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:55+03:00"
 slug: "guzelova-hoyuk"
 description: "## Güzelova Höyük: Türkiye'nin Eski Köyleri Arasında Gizli Kalan Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

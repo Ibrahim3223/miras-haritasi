@@ -5,10 +5,10 @@ slug: "arili-koyu-cesmesi"
 description: "## Arılı Köyü Çeşmesi: Tarihi ve Kültürel Mirasın Eski Şöhreti..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.3155403,40.4505043"
 draft: "false"
 weight: "999"

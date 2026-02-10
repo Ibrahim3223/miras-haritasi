@@ -5,10 +5,10 @@ slug: "taksim-caddesi-cesmesi-bergama"
 description: "## Taksim Caddesi Çeşmesi: Bergama'nın Tarihi Bir Cezbesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1856995,39.1232986"
 draft: "false"
 weight: "999"

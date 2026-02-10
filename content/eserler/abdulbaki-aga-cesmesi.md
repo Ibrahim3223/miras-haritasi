@@ -5,10 +5,10 @@ slug: "abdulbaki-aga-cesmesi"
 description: "### Abdulbaki Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Abdulbaki_Ağa_Çeşmesi_IMG_0259.jpg/1200px-Abdulbaki_Ağa_Çeşmesi_IMG_0259.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971981,41.035127"
 draft: "false"
 weight: "10"

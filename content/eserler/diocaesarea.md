@@ -4,8 +4,7 @@ date: "2025-12-25T04:46:22+03:00"
 slug: "diocaesarea"
 description: "## Diocaesarea: Türkiye'nin Gizli Hazineleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

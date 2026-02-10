@@ -5,10 +5,10 @@ slug: "ayios-nikitas-ayazmasi"
 description: "## Ayios Nikitas Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9401588,41.0371132"
 draft: "false"
 weight: "999"

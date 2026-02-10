@@ -4,8 +4,7 @@ date: "2025-12-25T05:23:04+03:00"
 slug: "pedaeum"
 description: "## Pedaeum: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

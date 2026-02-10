@@ -5,10 +5,10 @@ slug: "nuruosmaniye-sebili"
 description: "## Nuruosmaniye Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970045605,41.010033343"
 draft: "false"
 weight: "999"

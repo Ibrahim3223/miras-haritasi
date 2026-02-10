@@ -5,10 +5,10 @@ slug: "abdulkadir-aga-cesmesi"
 description: "## Abdülkadir Ağa Çeşmesi ..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.965265,41.040033"
 draft: "false"
 weight: "999"

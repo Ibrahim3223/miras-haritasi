@@ -5,10 +5,10 @@ slug: "sogutlu-cesme"
 description: "## Söğütlü Çeşme: Ulubey, Uşak'da Bir Ölümsüz..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2176151,38.4305344"
 draft: "false"
 weight: "999"

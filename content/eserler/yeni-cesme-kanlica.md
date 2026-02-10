@@ -5,10 +5,10 @@ slug: "yeni-cesme-kanlica"
 description: "## Eski Çeşme, Kanlıca: Beykoz'un Zeytinlik Köyü'ndeki Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.066501,41.09882"
 draft: "false"
 weight: "999"

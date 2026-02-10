@@ -5,10 +5,10 @@ slug: "ii-selim-cesmesi"
 description: "### II. Selim Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5633087,41.673893"
 draft: "false"
 weight: "999"

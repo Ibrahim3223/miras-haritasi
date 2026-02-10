@@ -5,10 +5,10 @@ slug: "haci-nasuh-cesmesi"
 description: "## Hacı Nasuh Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.543314,38.7508774"
 draft: "false"
 weight: "999"

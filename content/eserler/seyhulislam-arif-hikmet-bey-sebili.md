@@ -5,10 +5,10 @@ slug: "seyhulislam-arif-hikmet-bey-sebili"
 description: "## Şeyhülislam Arif Hikmet Bey Sebili..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Şeyhülislam_Arif_Hikmet_Bey_Sebili.jpg/1200px-Şeyhülislam_Arif_Hikmet_Bey_Sebili.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.028795,41.01572"
 draft: "false"
 weight: "10"

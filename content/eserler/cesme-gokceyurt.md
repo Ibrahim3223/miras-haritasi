@@ -5,10 +5,10 @@ slug: "cesme-gokceyurt"
 description: "**Çeşme, Gökçeyurt: Ankara'nın Gizli Çeşme Öreni**..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.032336566,39.960194971"
 draft: "false"
 weight: "999"

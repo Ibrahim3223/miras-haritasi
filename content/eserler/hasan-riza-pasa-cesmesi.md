@@ -5,10 +5,10 @@ slug: "hasan-riza-pasa-cesmesi"
 description: "**Hasan Rıza Paşa Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Hasan_Rıza_Pasha_Fountain_(Osmanağa)_20210312.jpg/1200px-Hasan_Rıza_Pasha_Fountain_(Osmanağa)_20210312.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.027828,40.989516"
 draft: "false"
 weight: "10"

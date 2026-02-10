@@ -5,10 +5,10 @@ slug: "emir-baba-cesmesi-bayindir"
 description: "## Emir Baba Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6368008,38.2242012"
 draft: "false"
 weight: "999"

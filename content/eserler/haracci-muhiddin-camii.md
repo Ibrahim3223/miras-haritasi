@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:09+03:00"
 slug: "haracci-muhiddin-camii"
 description: "## Haraççı Muhiddin Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

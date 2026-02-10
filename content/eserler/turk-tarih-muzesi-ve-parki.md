@@ -4,8 +4,7 @@ date: "2025-12-25T03:47:34+03:00"
 slug: "turk-tarih-muzesi-ve-parki"
 description: "## Türk Tarih Müzesi ve Parkı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

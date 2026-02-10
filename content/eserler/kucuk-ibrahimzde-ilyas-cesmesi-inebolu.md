@@ -5,10 +5,10 @@ slug: "kucuk-ibrahimzde-ilyas-cesmesi-inebolu"
 description: "## Küçük İbrahimzâde İlyas Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.760207109,41.976787234"
 draft: "false"
 weight: "999"

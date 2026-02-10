@@ -4,8 +4,7 @@ date: "2025-12-25T05:29:33+03:00"
 slug: "alexandria-troas-samian-ware-discovery-site"
 description: "### Alexandria Troas (Samian Ware Discovery Site)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

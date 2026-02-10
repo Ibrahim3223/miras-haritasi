@@ -5,10 +5,10 @@ slug: "metroloji-kilisesi-cesmesi"
 description: "**Metroloji Kilisesi Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9491882,41.0307541"
 draft: "false"
 weight: "999"

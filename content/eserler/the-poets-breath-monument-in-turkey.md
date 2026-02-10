@@ -4,8 +4,7 @@ date: "2025-12-25T14:01:23+03:00"
 slug: "the-poets-breath-monument-in-turkey"
 description: "## The Poet's Breath (Monument in Turkey)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

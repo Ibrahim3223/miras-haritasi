@@ -5,10 +5,10 @@ slug: "kadi-cesmesi-umurbey"
 description: "### Kadı Çeşmesi, Umurbey: Lapseki'nin Tarihi Ögesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Lapseki"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6044312,40.2352638"
 draft: "false"
 weight: "999"

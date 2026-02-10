@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:55+03:00"
 slug: "su-yolu-cikmazi-cesmesi"
 description: "## Su Yolu Çıkmazı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/144.98-Sokak_Çeşmesi-1914_01.jpg/1200px-144.98-Sokak_Çeşmesi-1914_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.179688888,39.118155555"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kizilagac-cesmesi"
 description: "### Kızılağaç Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5576725,37.3409157"
 draft: "false"
 weight: "999"

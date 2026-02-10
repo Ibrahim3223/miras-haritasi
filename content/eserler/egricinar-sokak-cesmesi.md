@@ -5,10 +5,10 @@ slug: "egricinar-sokak-cesmesi"
 description: "## Eğriçınar Sokak Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0122299,41.0467796"
 draft: "false"
 weight: "999"

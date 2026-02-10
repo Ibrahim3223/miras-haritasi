@@ -5,10 +5,10 @@ slug: "ikiz-cesme"
 description: "### İkiz Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5178261,37.8816223"
 draft: "false"
 weight: "999"

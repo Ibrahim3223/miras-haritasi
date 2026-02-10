@@ -5,10 +5,10 @@ slug: "isa-bey-cesmesi-buyukkale"
 description: "### İsa Bey Çeşmesi, Büyükkale..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.559,38.0323982"
 draft: "false"
 weight: "999"

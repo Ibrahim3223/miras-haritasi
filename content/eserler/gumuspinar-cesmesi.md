@@ -5,10 +5,10 @@ slug: "gumuspinar-cesmesi"
 description: "### Gümüşpınar Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0181999,37.5620995"
 draft: "false"
 weight: "999"

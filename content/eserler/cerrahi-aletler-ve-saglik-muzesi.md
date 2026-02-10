@@ -4,8 +4,7 @@ date: "2025-12-25T03:33:16+03:00"
 slug: "cerrahi-aletler-ve-saglik-muzesi"
 description: "## Cerrahi Aletler ve Sağlık Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

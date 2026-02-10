@@ -4,8 +4,7 @@ date: "2025-12-25T04:04:31+03:00"
 slug: "kanuni-evi"
 description: "### Kanuni Evi Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

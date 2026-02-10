@@ -4,8 +4,7 @@ date: "2025-12-25T05:23:21+03:00"
 slug: "misthi-kapadokya"
 description: "## Misthi, Kapadokya..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

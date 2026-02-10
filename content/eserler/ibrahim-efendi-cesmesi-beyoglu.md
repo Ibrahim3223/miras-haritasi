@@ -5,10 +5,10 @@ slug: "ibrahim-efendi-cesmesi-beyoglu"
 description: "## İbrahim Efendi Çeşmesi: Beyoğlu'ndaki Bir Örnek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/İbrahim_Efendi_Çeşmesi,_Beyoğlu_IMG_0868.jpg/1200px-İbrahim_Efendi_Çeşmesi,_Beyoğlu_IMG_0868.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9735374,41.0231552"
 draft: "false"
 weight: "10"

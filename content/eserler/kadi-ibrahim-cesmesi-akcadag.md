@@ -5,10 +5,10 @@ slug: "kadi-ibrahim-cesmesi-akcadag"
 description: "## Kadı İbrahim Çeşmesi: Akçadağ'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Akçadağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.981141451,38.505809328"
 draft: "false"
 weight: "999"

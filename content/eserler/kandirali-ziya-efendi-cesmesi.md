@@ -5,10 +5,10 @@ slug: "kandirali-ziya-efendi-cesmesi"
 description: "## Kandıralı Ziya Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3034,38.3125992"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esma-hanim-cesmesi"
 description: "### Esma Hanım Çeşmesi: Talas'ta Bir Klasik Çeşme..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.557663,38.6904221"
 draft: "false"
 weight: "999"

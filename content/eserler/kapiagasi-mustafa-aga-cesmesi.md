@@ -5,10 +5,10 @@ slug: "kapiagasi-mustafa-aga-cesmesi"
 description: "### Kapıağası Mustafa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kapıağası_Mustafa_Ağa_Fountain.jpg/1200px-Kapıağası_Mustafa_Ağa_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.931581,41.048843"
 draft: "false"
 weight: "10"

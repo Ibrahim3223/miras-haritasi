@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:19+03:00"
 slug: "endeira"
 description: "## Endeira Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

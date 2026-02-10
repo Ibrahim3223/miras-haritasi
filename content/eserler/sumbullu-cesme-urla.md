@@ -5,10 +5,10 @@ slug: "sumbullu-cesme-urla"
 description: "## Sümbüllü Çeşme: Urla'nın Tarihi Bir Ziraat Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7676697,38.3198814"
 draft: "false"
 weight: "999"

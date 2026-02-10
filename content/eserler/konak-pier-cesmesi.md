@@ -5,10 +5,10 @@ slug: "konak-pier-cesmesi"
 description: "## Konak Pier Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1302757,38.4225159"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osman-hamdi-bey-konagi-cesmesi"
 description: "## Osman Hamdi Bey Konağı Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Yatağan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0308571,37.373745"
 draft: "false"
 weight: "999"

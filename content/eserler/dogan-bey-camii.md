@@ -4,8 +4,7 @@ date: "2025-12-24T22:35:10+03:00"
 slug: "dogan-bey-camii"
 description: "### Doğan Bey Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

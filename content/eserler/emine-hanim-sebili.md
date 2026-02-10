@@ -5,10 +5,10 @@ slug: "emine-hanim-sebili"
 description: "## Emine Hanım Sebili: Fatih'te Bir Çeşmenin Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9283237,41.0033073"
 draft: "false"
 weight: "999"

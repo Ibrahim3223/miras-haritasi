@@ -5,10 +5,10 @@ slug: "yukari-kahve-cesmesi"
 description: "## Yukarı Kahve Çeşmesi: Aydın'ın Efsanevi Abidesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.96772,37.8561096"
 draft: "false"
 weight: "999"

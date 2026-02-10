@@ -4,8 +4,7 @@ date: "2025-12-24T23:08:47+03:00"
 slug: "sadirvanli-camii"
 description: "**Şadırvanlı Camii**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

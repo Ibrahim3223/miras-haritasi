@@ -5,10 +5,10 @@ slug: "cihangir-camii-avlusundaki-cesme"
 description: "## Cihangir Camii Avlusundaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.987286,41.030275"
 draft: "false"
 weight: "999"

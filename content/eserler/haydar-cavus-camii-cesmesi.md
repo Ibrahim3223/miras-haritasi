@@ -5,10 +5,10 @@ slug: "haydar-cavus-camii-cesmesi"
 description: "## Haydar Çavuş Camii Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9699898,40.3544846"
 draft: "false"
 weight: "999"

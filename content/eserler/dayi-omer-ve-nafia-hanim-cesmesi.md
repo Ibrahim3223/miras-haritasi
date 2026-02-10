@@ -5,10 +5,10 @@ slug: "dayi-omer-ve-nafia-hanim-cesmesi"
 description: "## Dayı Ömer ve Nafia Hanım Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941354,41.003776"
 draft: "false"
 weight: "999"

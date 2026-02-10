@@ -5,10 +5,10 @@ slug: "acaroglu-cesmesi-arac"
 description: "# Acaroğlu Çeşmesi: Araç'ta Bir Çağdaş Mimari Örneği..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.320698762,41.300072974"
 draft: "false"
 weight: "999"

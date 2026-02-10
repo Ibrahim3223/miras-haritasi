@@ -5,10 +5,10 @@ slug: "zafer-cesmesi-luleburgaz"
 description: "## Zafer Çeşmesi: Lüleburgaz'un Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Zafer_Fountain_(Lüleburgaz)_-_20250531165100.jpg/1200px-Zafer_Fountain_(Lüleburgaz)_-_20250531165100.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Lüleburgaz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.350916666,41.408833333"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:56:11+03:00"
 slug: "arnabanda"
 description: "# Arnabanda: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

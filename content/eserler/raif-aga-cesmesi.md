@@ -5,10 +5,10 @@ slug: "raif-aga-cesmesi"
 description: "## Raif Ağa Çeşmesi: Beşiktaş'taki Bir Değerli Tarihi Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Raif_Ağa_Çeşmesi_IMG_8186.jpg/1200px-Raif_Ağa_Çeşmesi_IMG_8186.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.997437,41.047143"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:22:01+03:00"
 slug: "kainon-chorion"
 description: "## Kainon Chorion: Türkiye'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

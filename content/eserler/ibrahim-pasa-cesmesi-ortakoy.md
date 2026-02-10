@@ -5,10 +5,10 @@ slug: "ibrahim-pasa-cesmesi-ortakoy"
 description: "## İbrahim Paşa Çeşmesi, Ortaköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Ortaköy_Meydan_Çeşmesi_01.jpg/1200px-Ortaköy_Meydan_Çeşmesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.026489,41.04763"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:01:44+03:00"
 slug: "seydikoy-tren-istasyonu"
 description: "## Seydiköy Tren İstasyonu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Seydiköy_Tren_İstasyonu.png/1200px-Seydiköy_Tren_İstasyonu.png"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Müze"
 turler: ["Müze"]

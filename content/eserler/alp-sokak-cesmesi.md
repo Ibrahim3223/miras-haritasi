@@ -5,10 +5,10 @@ slug: "alp-sokak-cesmesi"
 description: "**Alp Sokak Çeşmesi: Bergama'nın Tarihi Bir Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/450.48-Alp_Sokak_Çeşmesi-19.yy_01.jpg/1200px-450.48-Alp_Sokak_Çeşmesi-19.yy_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1838226,39.1230698"
 draft: "false"
 weight: "10"

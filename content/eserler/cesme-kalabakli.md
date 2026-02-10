@@ -5,10 +5,10 @@ slug: "cesme-kalabakli"
 description: "### Çanakkale'nin Gizli Çeşmesi: Kalabaklı Çeşme..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.418731051,40.083978938"
 draft: "false"
 weight: "999"

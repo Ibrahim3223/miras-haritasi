@@ -4,8 +4,7 @@ date: "2025-12-25T13:38:15+03:00"
 slug: "ferhatpasa-ciftligi"
 description: "## Ferhatpaşa Çiftliği: İstanbul'un Gizli Tarihi Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

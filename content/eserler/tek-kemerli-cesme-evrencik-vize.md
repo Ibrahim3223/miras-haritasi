@@ -5,10 +5,10 @@ slug: "tek-kemerli-cesme-evrencik-vize"
 description: "## Tek Kemerli Çeşme (Evrencik, Vize)..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.713611111,41.651944444"
 draft: "false"
 weight: "999"

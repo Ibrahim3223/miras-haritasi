@@ -5,10 +5,10 @@ slug: "cukur-cesme-kirklareli"
 description: "## Çukur Çeşme, Kırklareli..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.221034929,41.734426675"
 draft: "false"
 weight: "999"

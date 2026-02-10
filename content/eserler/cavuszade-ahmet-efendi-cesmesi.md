@@ -5,10 +5,10 @@ slug: "cavuszade-ahmet-efendi-cesmesi"
 description: "**Çavuşzade Ahmet Efendi Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Çavuşzade_Ahmet_Efendi_Çeşmesi_02.jpg/1200px-Çavuşzade_Ahmet_Efendi_Çeşmesi_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.931245755,41.004819389"
 draft: "false"
 weight: "10"

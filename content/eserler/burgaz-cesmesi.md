@@ -5,10 +5,10 @@ slug: "burgaz-cesmesi"
 description: "## Burgaz Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7789001,37.3171997"
 draft: "false"
 weight: "999"

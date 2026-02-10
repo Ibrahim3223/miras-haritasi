@@ -5,10 +5,10 @@ slug: "morali-hasan-pasa-cesmesi"
 description: "### Moralı Hasan Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Moralı_Hasan_Paşa_Çeşmesi.jpg/1200px-Moralı_Hasan_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.013334,41.01823"
 draft: "false"
 weight: "10"

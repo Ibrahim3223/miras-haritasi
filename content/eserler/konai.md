@@ -4,8 +4,7 @@ date: "2025-12-25T04:20:13+03:00"
 slug: "konai"
 description: "## Konai Arkeolojik Sit: Türkiye'nin Eski Mirasının Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

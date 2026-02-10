@@ -5,10 +5,10 @@ slug: "panayia-elpida-kilisesi-cesmesi"
 description: "## Panayia Elpida Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9639664,41.0045891"
 draft: "false"
 weight: "999"

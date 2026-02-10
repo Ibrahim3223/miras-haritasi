@@ -5,10 +5,10 @@ slug: "sipahi-pazari-vakfi-cesmesi-1"
 description: "## Sipahi Pazarı Vakfı Çeşmesi- 1..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4323578,38.6114616"
 draft: "false"
 weight: "999"

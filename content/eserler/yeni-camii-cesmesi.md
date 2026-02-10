@@ -5,10 +5,10 @@ slug: "yeni-camii-cesmesi"
 description: "**Yeni Camii Çeşmesi: Sarıyer'in Gizli Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1116905,41.2337761"
 draft: "false"
 weight: "999"

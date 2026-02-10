@@ -5,10 +5,10 @@ slug: "tas-mescit-cesmesi"
 description: "### Taş Mescit Çeşmesi: Konya'nın Tarihî Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.493885,37.8649559"
 draft: "false"
 weight: "999"

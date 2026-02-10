@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:56+03:00"
 slug: "iran-turkey-border-crossing-2889"
 description: "## İran-Türkiye Sınır Giriş #2889: Tarihi Bir Kervansaray..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

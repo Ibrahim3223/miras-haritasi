@@ -5,10 +5,10 @@ slug: "mihrisah-valide-sultan-cesmesi-uskudar"
 description: "## Mihrişah Valide Sultan Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020979,41.013191"
 draft: "false"
 weight: "999"

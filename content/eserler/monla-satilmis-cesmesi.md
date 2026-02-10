@@ -5,10 +5,10 @@ slug: "monla-satilmis-cesmesi"
 description: "## Monla Satılmış Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4860229,40.0474129"
 draft: "false"
 weight: "999"

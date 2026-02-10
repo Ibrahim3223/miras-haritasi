@@ -5,10 +5,10 @@ slug: "turkuaz-sokak-cesmesi"
 description: "### Turkuaz Sokak Çeşmesi ..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9533443,40.7966499"
 draft: "false"
 weight: "999"

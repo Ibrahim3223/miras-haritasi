@@ -5,10 +5,10 @@ slug: "fuat-pasa-cesmesi"
 description: "## Fuat Paşa Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9749107,39.4250107"
 draft: "false"
 weight: "999"

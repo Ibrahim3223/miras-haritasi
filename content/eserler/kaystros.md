@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:07+03:00"
 slug: "kaystros"
 description: "### Kaystros Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-mercan"
 description: "## Mehmet Ağa Çeşmesi, Mercan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9665813,41.0123024"
 draft: "false"
 weight: "999"

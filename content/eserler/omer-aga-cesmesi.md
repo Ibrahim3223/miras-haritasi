@@ -5,10 +5,10 @@ slug: "omer-aga-cesmesi"
 description: "## Ömer Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4338379,38.6120262"
 draft: "false"
 weight: "999"

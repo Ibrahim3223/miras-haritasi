@@ -5,10 +5,10 @@ slug: "suleyman-pasa-medresesi-cesmesi"
 description: "## Süleyman Paşa Medresesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.7230015,40.4279518"
 draft: "false"
 weight: "999"

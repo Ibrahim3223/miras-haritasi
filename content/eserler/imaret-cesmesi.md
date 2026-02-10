@@ -5,10 +5,10 @@ slug: "imaret-cesmesi"
 description: "## İmaret Çeşmesi Hakkında..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951204,41.01822"
 draft: "false"
 weight: "999"

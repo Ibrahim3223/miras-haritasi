@@ -5,10 +5,10 @@ slug: "babiali-cesmeleri"
 description: "**Babıali Çeşmeleri: Tarihi ve Kültürel Bir Miras**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Babıali_Çeşmeleri_2025.jpg/1200px-Babıali_Çeşmeleri_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.977983,41.011145"
 draft: "false"
 weight: "10"

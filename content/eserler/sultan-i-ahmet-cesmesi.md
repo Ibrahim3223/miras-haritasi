@@ -5,10 +5,10 @@ slug: "sultan-i-ahmet-cesmesi"
 description: "### Sultan I. Ahmet Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sultan_I._Ahmet_Çeşmesi_(2).jpg/1200px-Sultan_I._Ahmet_Çeşmesi_(2).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9787583,41.0105333"
 draft: "false"
 weight: "10"

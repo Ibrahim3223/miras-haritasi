@@ -5,10 +5,10 @@ slug: "koyun-kiz-cesmesi"
 description: "## Koyun Kız Çeşmesi: Hacettepe'de Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8701591,39.9342232"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:18:20+03:00"
 slug: "efes-agorasi"
 description: "### Efes Agorası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Commercial_Agora_(13975446283).jpg/1200px-The_Commercial_Agora_(13975446283).jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:33:41+03:00"
 slug: "tiyatro-gymnasionu"
 description: "### Tiyatro Gymnasionu: Ege'de Antik Bir Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ephesos_Theatergymnasion.JPG/1200px-Ephesos_Theatergymnasion.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

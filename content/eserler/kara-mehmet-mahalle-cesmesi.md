@@ -5,10 +5,10 @@ slug: "kara-mehmet-mahalle-cesmesi"
 description: "### Kara Mehmet Mahalle Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3612995,37.2198982"
 draft: "false"
 weight: "999"

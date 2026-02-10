@@ -5,10 +5,10 @@ slug: "bosnevi-hasan-aga-cesmesi"
 description: "## Bosnevi Hasan Ağa Çeşmesi: Fatih'te Bir Örenlik..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9451837,41.0120906"
 draft: "false"
 weight: "999"

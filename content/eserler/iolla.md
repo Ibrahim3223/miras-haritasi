@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:50+03:00"
 slug: "iolla"
 description: "## Iolla: Türkiye'nin Gizli Tarihi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

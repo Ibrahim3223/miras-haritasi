@@ -5,10 +5,10 @@ slug: "oluklu-pinar-cesmesi-orta"
 description: "## Oluklu Pınar Çeşmesi: Orta, Çankırı'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.1729887,40.67874416"
 draft: "false"
 weight: "999"

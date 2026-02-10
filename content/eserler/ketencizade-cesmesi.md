@@ -5,10 +5,10 @@ slug: "ketencizade-cesmesi"
 description: "### Giriş..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2767982,39.9053726"
 draft: "false"
 weight: "999"

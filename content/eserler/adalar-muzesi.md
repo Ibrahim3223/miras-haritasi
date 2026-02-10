@@ -4,8 +4,7 @@ date: "2025-12-25T03:25:00+03:00"
 slug: "adalar-muzesi"
 description: "## Adalar Müzesi: İstanbul'un Gizli Çehresini Keşfetmek..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Adalar_muzesi_hangar_binasi.jpg/1200px-Adalar_muzesi_hangar_binasi.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

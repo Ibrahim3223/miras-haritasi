@@ -5,10 +5,10 @@ slug: "alaeddin-pasa-camii-cesmesi"
 description: "## Alaeddin Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Alaüddin_paşa_camisi_bursa_-_panoramio_(3).jpg/1200px-Alaüddin_paşa_camisi_bursa_-_panoramio_(3).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0499763,40.1853409"
 draft: "false"
 weight: "10"

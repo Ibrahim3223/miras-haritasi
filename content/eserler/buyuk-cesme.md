@@ -5,10 +5,10 @@ slug: "buyuk-cesme"
 description: "### Büyük Çeşme: Ulubey'de Bir Geçiş Dönemi Eseri..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2562771,38.2830887"
 draft: "false"
 weight: "999"

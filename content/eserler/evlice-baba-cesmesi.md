@@ -5,10 +5,10 @@ slug: "evlice-baba-cesmesi"
 description: "## Evlice Baba Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929457,41.052696"
 draft: "false"
 weight: "999"

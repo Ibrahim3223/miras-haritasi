@@ -5,10 +5,10 @@ slug: "hamdi-reis-sokak-cesmesi-inebolu"
 description: "## Hamdi Reis Sokak Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.753624707,41.976586634"
 draft: "false"
 weight: "999"

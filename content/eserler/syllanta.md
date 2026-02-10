@@ -4,8 +4,7 @@ date: "2025-12-25T05:12:54+03:00"
 slug: "syllanta"
 description: "## Syllanta Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

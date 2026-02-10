@@ -5,10 +5,10 @@ slug: "muradiye-camii-cesmesi"
 description: "# Muradiye Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0467224,40.1912804"
 draft: "false"
 weight: "999"

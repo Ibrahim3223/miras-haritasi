@@ -4,11 +4,10 @@ date: "2025-12-25T13:01:59+03:00"
 slug: "incirkoy-cesmesi"
 description: "## İncirköy Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/İncirköy_Çeşmesi2,_Beykoz,_İstanbul_2024.jpg/1200px-İncirköy_Çeşmesi2,_Beykoz,_İstanbul_2024.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0975761,41.1194038"
 draft: "false"
 weight: "10"

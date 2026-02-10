@@ -5,10 +5,10 @@ slug: "ayse-hatun-cesmesi-tire"
 description: "## Ayşe Hatun Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.750124,38.0831718"
 draft: "false"
 weight: "999"

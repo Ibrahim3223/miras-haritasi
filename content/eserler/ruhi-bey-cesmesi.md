@@ -5,10 +5,10 @@ slug: "ruhi-bey-cesmesi"
 description: "## Ruhi Bey Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.954854,41.026046"
 draft: "false"
 weight: "999"

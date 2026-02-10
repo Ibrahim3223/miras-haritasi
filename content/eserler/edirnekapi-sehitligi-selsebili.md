@@ -5,10 +5,10 @@ slug: "edirnekapi-sehitligi-selsebili"
 description: "### Edirnekapı Şehitliği Selsebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.930879,41.033052"
 draft: "false"
 weight: "999"

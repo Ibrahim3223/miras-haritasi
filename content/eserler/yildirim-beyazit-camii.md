@@ -4,8 +4,7 @@ date: "2025-12-24T23:47:22+03:00"
 slug: "yildirim-beyazit-camii"
 description: "## Yıldırım Beyazıt Camii: İzmir'in Tarihi bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

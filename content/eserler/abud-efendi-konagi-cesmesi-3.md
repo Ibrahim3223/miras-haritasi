@@ -5,10 +5,10 @@ slug: "abud-efendi-konagi-cesmesi-3"
 description: "**Abud Efendi Konağı Çeşmesi – 3**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9785061,41.0091629"
 draft: "false"
 weight: "999"

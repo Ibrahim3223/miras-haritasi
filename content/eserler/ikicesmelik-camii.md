@@ -4,8 +4,7 @@ date: "2025-12-24T23:38:37+03:00"
 slug: "ikicesmelik-camii"
 description: "## İkiçeşmelik Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

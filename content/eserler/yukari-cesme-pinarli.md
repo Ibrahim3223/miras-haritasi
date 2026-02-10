@@ -5,10 +5,10 @@ slug: "yukari-cesme-pinarli"
 description: "### Yukarı Çeşme, Pınarlı: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3018417,37.7045822"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-24T22:49:16+03:00"
 slug: "cafer-aga-camii"
 description: "### Cafer Ağa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

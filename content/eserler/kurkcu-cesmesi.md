@@ -5,10 +5,10 @@ slug: "kurkcu-cesmesi"
 description: "## Kürkçü Çeşmesi: Fatih'te Bir Örnek Osmanlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9279175,41.0187187"
 draft: "false"
 weight: "999"

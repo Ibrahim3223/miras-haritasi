@@ -5,10 +5,10 @@ slug: "dogramaci-mehmed-aga-cesmesi"
 description: "### Doğramacı Mehmed Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944958805,41.019713235"
 draft: "false"
 weight: "999"

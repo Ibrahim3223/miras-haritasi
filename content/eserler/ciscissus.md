@@ -4,8 +4,7 @@ date: "2025-12-25T05:03:12+03:00"
 slug: "ciscissus"
 description: "# Ciscissus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

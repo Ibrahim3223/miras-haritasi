@@ -5,10 +5,10 @@ slug: "gurpinar-koyu-cesmesi"
 description: "**Gürpınar Köyü Çeşmesi**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Of"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.3050117,40.8347206"
 draft: "false"
 weight: "999"

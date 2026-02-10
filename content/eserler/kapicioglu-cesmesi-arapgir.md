@@ -5,10 +5,10 @@ slug: "kapicioglu-cesmesi-arapgir"
 description: "## Kapıcıoğlu Çeşmesi, Arapgir..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.479323702,39.060309261"
 draft: "false"
 weight: "999"

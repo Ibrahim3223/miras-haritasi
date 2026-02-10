@@ -4,8 +4,7 @@ date: "2025-12-24T23:18:32+03:00"
 slug: "uzunburun-koyu-camii"
 description: "## Uzunburun Köyü Camii: İzmir'in Ziraat ve Sanayi Mirasının Ortaklığı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

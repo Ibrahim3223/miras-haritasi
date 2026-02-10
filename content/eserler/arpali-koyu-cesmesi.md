@@ -5,10 +5,10 @@ slug: "arpali-koyu-cesmesi"
 description: "# Arpalı Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.1374207,40.5355186"
 draft: "false"
 weight: "999"

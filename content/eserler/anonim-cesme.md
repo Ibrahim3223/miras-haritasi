@@ -5,10 +5,10 @@ slug: "anonim-cesme"
 description: "**Anonim Çeşme: Aydın'ın Kuytu Yerlerinde bir Değer**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6284809,37.7573738"
 draft: "false"
 weight: "999"

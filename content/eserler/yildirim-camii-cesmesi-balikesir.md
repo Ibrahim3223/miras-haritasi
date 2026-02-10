@@ -5,10 +5,10 @@ slug: "yildirim-camii-cesmesi-balikesir"
 description: "## Yıldırım Camii Çeşmesi, Balıkesir..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.882812475,39.650310162"
 draft: "false"
 weight: "999"

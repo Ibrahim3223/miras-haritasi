@@ -5,10 +5,10 @@ slug: "karatazi-cesmesi"
 description: "## Karatazı Çeşmesi: Erzurum'un Görsel Yaratısı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2835846,39.907341"
 draft: "false"
 weight: "999"

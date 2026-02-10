@@ -5,10 +5,10 @@ slug: "mustafa-celebi-cesmesi"
 description: "## Mustafa Çelebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9458027,41.0221748"
 draft: "false"
 weight: "999"

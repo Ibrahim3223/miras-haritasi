@@ -5,10 +5,10 @@ slug: "hilal-cesmesi"
 description: "## Hilal Çeşmesi: Gelibolu'nun Tarihi Bir Ölümsüzü..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7604218,40.5100136"
 draft: "false"
 weight: "999"

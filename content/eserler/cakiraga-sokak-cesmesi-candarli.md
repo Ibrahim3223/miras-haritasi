@@ -5,10 +5,10 @@ slug: "cakiraga-sokak-cesmesi-candarli"
 description: "### Çakırağa Sokak Çeşmesi: Dikili'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9349613,38.9332733"
 draft: "false"
 weight: "999"

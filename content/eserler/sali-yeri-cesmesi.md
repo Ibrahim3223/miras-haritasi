@@ -5,10 +5,10 @@ slug: "sali-yeri-cesmesi"
 description: "### Salı Yeri Çeşmesi: Kırklareli'nin Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Kirklareli_sali_yeri_cesmesi_01.jpg/1200px-Kirklareli_sali_yeri_cesmesi_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.225222222,41.734277777"
 draft: "false"
 weight: "10"

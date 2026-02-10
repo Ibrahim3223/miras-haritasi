@@ -4,8 +4,7 @@ date: "2025-12-25T03:24:22+03:00"
 slug: "the-moving-museum"
 description: "## The Moving Museum..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

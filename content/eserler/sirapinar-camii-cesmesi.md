@@ -5,10 +5,10 @@ slug: "sirapinar-camii-cesmesi"
 description: "## Sırapınar Camii Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çekmeköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.328295101,41.101380279"
 draft: "false"
 weight: "999"

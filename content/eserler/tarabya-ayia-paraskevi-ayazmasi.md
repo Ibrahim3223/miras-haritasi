@@ -5,10 +5,10 @@ slug: "tarabya-ayia-paraskevi-ayazmasi"
 description: "### Tarabya Ayia Paraskevi Ayazması: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0566998,41.1366997"
 draft: "false"
 weight: "999"

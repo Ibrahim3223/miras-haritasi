@@ -4,8 +4,7 @@ date: "2025-12-25T05:19:13+03:00"
 slug: "palaeobeudus"
 description: "**Palaeobeudus: Türkiye'nin Gizli Arkeolojik Harikası**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

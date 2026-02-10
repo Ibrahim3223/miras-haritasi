@@ -5,10 +5,10 @@ slug: "ali-saip-pasa-cesmesi"
 description: "## Ali Saip Paşa Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.5584602,38.6875305"
 draft: "false"
 weight: "999"

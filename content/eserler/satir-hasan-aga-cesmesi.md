@@ -5,10 +5,10 @@ slug: "satir-hasan-aga-cesmesi"
 description: "## Şatır Hasan Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Şatır_Hasan_Ağa_Çeşmesi.jpg/1200px-Şatır_Hasan_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.943794,41.038647"
 draft: "false"
 weight: "10"

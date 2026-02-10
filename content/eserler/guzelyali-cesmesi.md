@@ -5,10 +5,10 @@ slug: "guzelyali-cesmesi"
 description: "## Güzelyalı Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Arsin"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.9055557,40.9524994"
 draft: "false"
 weight: "999"

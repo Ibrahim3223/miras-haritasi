@@ -5,10 +5,10 @@ slug: "husmen-aga-cesmesi"
 description: "## Hüsmen Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Hüsmen_Ağa_Çeşmesi.jpg/1200px-Hüsmen_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.963342,41.005736"
 draft: "false"
 weight: "10"

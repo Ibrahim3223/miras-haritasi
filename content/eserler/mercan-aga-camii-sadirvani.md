@@ -5,10 +5,10 @@ slug: "mercan-aga-camii-sadirvani"
 description: "## Mercan Ağa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9677563,41.0125809"
 draft: "false"
 weight: "999"

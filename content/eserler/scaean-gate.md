@@ -4,8 +4,7 @@ date: "2025-12-25T13:16:18+03:00"
 slug: "scaean-gate"
 description: "### Scaean Gate Tanıtımı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

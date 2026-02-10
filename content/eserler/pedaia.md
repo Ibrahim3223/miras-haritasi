@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:18+03:00"
 slug: "pedaia"
 description: "## Pedaia: Eski Türkiye'nin Gizli Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

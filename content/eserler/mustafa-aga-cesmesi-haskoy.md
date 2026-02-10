@@ -5,10 +5,10 @@ slug: "mustafa-aga-cesmesi-haskoy"
 description: "## Mustafa Ağa Çeşmesi, Hasköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.95089,41.041767"
 draft: "false"
 weight: "999"

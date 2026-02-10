@@ -5,10 +5,10 @@ slug: "sapel-bagcilar"
 description: "## Şapel, Bağcılar: İstanbul'un Gizli Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bağcılar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8244667,41.031208"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "takkeci-ibrahim-aga-sebili-avlu-giris"
 description: "## Takkeci İbrahim Ağa Sebili, Avlu Giriş: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.921152505,41.022344336"
 draft: "false"
 weight: "999"

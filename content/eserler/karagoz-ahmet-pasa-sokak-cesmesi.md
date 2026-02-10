@@ -5,10 +5,10 @@ slug: "karagoz-ahmet-pasa-sokak-cesmesi"
 description: "## Karagöz Ahmet Paşa Sokak Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9804573,39.4187469"
 draft: "false"
 weight: "999"

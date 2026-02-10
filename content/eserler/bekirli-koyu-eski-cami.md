@@ -4,8 +4,7 @@ date: "2025-12-24T22:47:42+03:00"
 slug: "bekirli-koyu-eski-cami"
 description: "## Bekirli Köyü Eski Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

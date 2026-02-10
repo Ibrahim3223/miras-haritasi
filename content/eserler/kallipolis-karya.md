@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:06+03:00"
 slug: "kallipolis-karya"
 description: "## Kallipolis (Karya): Ege Denizi'nin Gizli Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

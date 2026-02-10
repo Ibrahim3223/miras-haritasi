@@ -5,10 +5,10 @@ slug: "3-numarali-boyacioglu-cesmesi"
 description: "## 3 Numaralı Boyacıoğlu Çeşmesi: Afyonkarahisar'ın Tarihi Bir Zirvesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5357342,38.7603722"
 draft: "false"
 weight: "999"

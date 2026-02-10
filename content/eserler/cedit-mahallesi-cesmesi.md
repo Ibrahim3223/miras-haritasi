@@ -5,10 +5,10 @@ slug: "cedit-mahallesi-cesmesi"
 description: "### Cedit Mahallesi Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9729042,39.4229774"
 draft: "false"
 weight: "999"

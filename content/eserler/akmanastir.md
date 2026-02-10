@@ -4,8 +4,7 @@ date: "2025-12-25T10:00:08+03:00"
 slug: "akmanastir"
 description: "## Akmanastır: Tarihî Bir Manastırın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

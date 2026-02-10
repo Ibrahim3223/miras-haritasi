@@ -5,10 +5,10 @@ slug: "deveciler-cesmesi"
 description: "## Deveciler Çeşmesi: Aydınlık Köşenin Gizemi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8602448,37.8482094"
 draft: "false"
 weight: "999"

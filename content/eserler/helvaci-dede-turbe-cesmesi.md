@@ -5,10 +5,10 @@ slug: "helvaci-dede-turbe-cesmesi"
 description: "## Helvacı Dede Türbe Çeşmesi: Bergama'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1733837,39.1258507"
 draft: "false"
 weight: "999"

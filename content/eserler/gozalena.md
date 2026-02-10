@@ -4,8 +4,7 @@ date: "2025-12-25T05:06:48+03:00"
 slug: "gozalena"
 description: "## Gozalena: Türkiye'nin Gizli Öreni..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:06+03:00"
 slug: "heracleium"
 description: "## Heracleium: Antik Bir Uygarlığın İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

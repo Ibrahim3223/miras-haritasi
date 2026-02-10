@@ -5,10 +5,10 @@ slug: "kadifekale-hava-sehitleri-cesmesi"
 description: "# Kadifekale Hava Şehitleri Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1416054,38.4128418"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "akcakoy-cesmesi"
 description: "## Akçaköy Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0221996,37.9631996"
 draft: "false"
 weight: "999"

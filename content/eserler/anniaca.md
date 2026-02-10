@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:37+03:00"
 slug: "anniaca"
 description: "## Anniaca: Tarihî Bir Yerinin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T04:08:50+03:00"
 slug: "garanti-galeri"
 description: "### Garanti Galeri: İstanbul'un Sanat ve Kültür Merkezi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

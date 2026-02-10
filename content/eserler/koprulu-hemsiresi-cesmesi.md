@@ -5,10 +5,10 @@ slug: "koprulu-hemsiresi-cesmesi"
 description: "## Köprülü Hemşiresi Çeşmesi: Tarihin Sütunlarından Bekleyen Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.037479,41.061308"
 draft: "false"
 weight: "999"

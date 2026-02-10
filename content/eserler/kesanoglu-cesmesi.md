@@ -5,10 +5,10 @@ slug: "kesanoglu-cesmesi"
 description: "### Keşanoğlu Çeşmesi: Gelibolu'nun Tarihi ve Kültürel Değerlerini Takip Eden Bir Çeşme..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.884285,40.6663628"
 draft: "false"
 weight: "999"

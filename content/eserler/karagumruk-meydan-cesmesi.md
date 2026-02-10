@@ -5,10 +5,10 @@ slug: "karagumruk-meydan-cesmesi"
 description: "## Karagümrük Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9393819,41.0251718"
 draft: "false"
 weight: "999"

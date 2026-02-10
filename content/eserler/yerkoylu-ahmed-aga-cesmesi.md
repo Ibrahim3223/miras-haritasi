@@ -5,10 +5,10 @@ slug: "yerkoylu-ahmed-aga-cesmesi"
 description: "## Yerköylü Ahmed Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.955341,41.028152"
 draft: "false"
 weight: "999"

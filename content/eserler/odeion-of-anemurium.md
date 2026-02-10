@@ -4,8 +4,7 @@ date: "2025-12-25T08:27:20+03:00"
 slug: "odeion-of-anemurium"
 description: "## Odeion of Anemurium: Antik Çağın Gizli Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

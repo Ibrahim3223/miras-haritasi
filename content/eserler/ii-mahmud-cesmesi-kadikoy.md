@@ -5,10 +5,10 @@ slug: "ii-mahmud-cesmesi-kadikoy"
 description: "### II. Mahmud Çeşmesi (Kadıköy)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/II._Mahmud_Çeşmesi,_Bostancı,_Kadıköy.jpg/1200px-II._Mahmud_Çeşmesi,_Bostancı,_Kadıköy.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.095584888,40.953143888"
 draft: "false"
 weight: "10"

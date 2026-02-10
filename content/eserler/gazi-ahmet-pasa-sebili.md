@@ -5,10 +5,10 @@ slug: "gazi-ahmet-pasa-sebili"
 description: "**Gazi Ahmet Paşa Sebili: İstanbul'un Tarihî Miraslarından Bir Örneği**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9281826,41.0209084"
 draft: "false"
 weight: "999"

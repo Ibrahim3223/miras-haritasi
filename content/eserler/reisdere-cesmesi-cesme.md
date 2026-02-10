@@ -5,10 +5,10 @@ slug: "reisdere-cesmesi-cesme"
 description: "## Reisdere Çeşmesi: Çeşme'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.4229393,38.3298035"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sahabiye-cesmesi"
 description: "## Sahabiye Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4871254,38.7232933"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "uzun-havuz"
 description: "## Uzun Havuz: İzmirlinin Tarihi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.14325,38.428222222"
 draft: "false"
 weight: "999"

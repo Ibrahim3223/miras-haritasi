@@ -5,10 +5,10 @@ slug: "karatas-camii-cesmesi"
 description: "### Karataş Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4149132,37.9288177"
 draft: "false"
 weight: "999"

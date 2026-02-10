@@ -5,10 +5,10 @@ slug: "pasasuyu-cesmesi-tire"
 description: "## Paşasuyu Çeşmesi: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7357006,38.0849991"
 draft: "false"
 weight: "999"

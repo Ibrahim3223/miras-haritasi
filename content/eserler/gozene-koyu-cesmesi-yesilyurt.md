@@ -5,10 +5,10 @@ slug: "gozene-koyu-cesmesi-yesilyurt"
 description: "## Gözene Köyü Çeşmesi, Yeşilyurt..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yeşilyurt"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.049950485,38.183457661"
 draft: "false"
 weight: "999"

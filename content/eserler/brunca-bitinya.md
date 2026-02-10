@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:20+03:00"
 slug: "brunca-bitinya"
 description: "## Brunca (Bitinya): Tarihî bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "haci-ali-aga-mescidi-duvar-cesmesi"
 description: "## Hacı Ali Ağa Mescidi Duvar Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9325428,38.935154"
 draft: "false"
 weight: "999"

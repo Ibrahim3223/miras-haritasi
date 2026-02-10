@@ -5,10 +5,10 @@ slug: "koca-cesme"
 description: "## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2819805,38.5443192"
 draft: "false"
 weight: "999"

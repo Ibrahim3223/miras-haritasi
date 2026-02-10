@@ -5,10 +5,10 @@ slug: "haci-mustafa-aga-cesmesi-seyyid-omer"
 description: "## Hacı Mustafa Ağa Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9319229,41.0098038"
 draft: "false"
 weight: "999"

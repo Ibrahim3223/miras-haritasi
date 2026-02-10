@@ -4,8 +4,7 @@ date: "2025-12-25T08:33:18+03:00"
 slug: "corycus-likya"
 description: "## Corycus (Likya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

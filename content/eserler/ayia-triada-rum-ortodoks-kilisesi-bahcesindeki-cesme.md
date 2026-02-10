@@ -5,10 +5,10 @@ slug: "ayia-triada-rum-ortodoks-kilisesi-bahcesindeki-cesme"
 description: "### Ayia Triada Rum Ortodoks Kilisesi Bahçesindeki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.98355,41.035634"
 draft: "false"
 weight: "999"

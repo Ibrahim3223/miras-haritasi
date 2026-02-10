@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:04+03:00"
 slug: "proochthoi"
 description: "## Proochthoi: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

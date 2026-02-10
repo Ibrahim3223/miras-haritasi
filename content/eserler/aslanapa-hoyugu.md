@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:47+03:00"
 slug: "aslanapa-hoyugu"
 description: "## Aslanapa Höyüğü: Antik Uygarlığın İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

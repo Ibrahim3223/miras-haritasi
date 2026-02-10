@@ -5,10 +5,10 @@ slug: "polat-haci-mehmet-aga-cesmesi"
 description: "## Polat Hacı Mehmet Ağa Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4327335,38.6127472"
 draft: "false"
 weight: "999"

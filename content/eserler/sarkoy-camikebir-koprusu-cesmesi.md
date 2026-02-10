@@ -5,10 +5,10 @@ slug: "sarkoy-camikebir-koprusu-cesmesi"
 description: "## Şarköy Camikebir Köprüsü Çeşmesi: Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0948753,40.6451721"
 draft: "false"
 weight: "999"

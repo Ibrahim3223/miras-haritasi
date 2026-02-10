@@ -5,10 +5,10 @@ slug: "bozkus-koyu-asagi-pinar-cesmesi-atkaracalar"
 description: "## Bozkuş Köyü Aşağı Pınar Çeşmesi, Atkaracalar..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Atkaracalar İlçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.142633957,40.83016128"
 draft: "false"
 weight: "999"

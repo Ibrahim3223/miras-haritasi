@@ -5,10 +5,10 @@ slug: "telli-haci-halil-camisi-cesmesi"
 description: "### Telli Hacı Halil Camisi Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8654747,39.9350853"
 draft: "false"
 weight: "999"

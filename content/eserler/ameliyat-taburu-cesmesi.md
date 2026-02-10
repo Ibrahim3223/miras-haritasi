@@ -5,10 +5,10 @@ slug: "ameliyat-taburu-cesmesi"
 description: "### Ameliyat Taburu Çeşmesi: Sarıyer'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.992572,41.179163"
 draft: "false"
 weight: "999"

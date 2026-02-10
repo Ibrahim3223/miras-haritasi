@@ -4,8 +4,7 @@ date: "2025-12-25T16:14:22+03:00"
 slug: "andriake-sinagogu"
 description: "## Andriake Sinagogu: Geçmişteki Gizemi Koruyan Efsanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Ruins_in_Andriake,_Myra,_Turkey.jpg/1200px-Ruins_in_Andriake,_Myra,_Turkey.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Sinagog"
 turler: ["Sinagog"]

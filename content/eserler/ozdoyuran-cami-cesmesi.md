@@ -5,10 +5,10 @@ slug: "ozdoyuran-cami-cesmesi"
 description: "## Özdoyuran Cami Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5092945,40.9756775"
 draft: "false"
 weight: "999"

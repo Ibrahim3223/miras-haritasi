@@ -5,10 +5,10 @@ slug: "sinan-pasa-cesmesi-harbiye"
 description: "## Sinan Paşa Çeşmesi, Harbiye..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.98966,41.046585"
 draft: "false"
 weight: "999"

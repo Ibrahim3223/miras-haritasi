@@ -5,10 +5,10 @@ slug: "bekri-mustafa-turbesi-cesmesi"
 description: "### Bekri Mustafa Türbesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9688492,41.0188828"
 draft: "false"
 weight: "999"

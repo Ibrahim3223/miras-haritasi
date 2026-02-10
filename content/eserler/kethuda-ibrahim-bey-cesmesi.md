@@ -5,10 +5,10 @@ slug: "kethuda-ibrahim-bey-cesmesi"
 description: "## Kethüda İbrahim Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.027997,41.141119"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "develer-cesmesi"
 description: "## Develer Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2799187,39.9101982"
 draft: "false"
 weight: "999"

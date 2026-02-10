@@ -4,8 +4,7 @@ date: "2025-12-25T17:45:16+03:00"
 slug: "islm-tarih-sanat-ve-kultur-arastirma-merkezi"
 description: "### İslâm Tarih, Sanat ve Kültür Araştırma Merkezi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -5,10 +5,10 @@ slug: "piyer-verbek-cesmesi"
 description: "## Piyer Verbek Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1560097,38.4380302"
 draft: "false"
 weight: "999"

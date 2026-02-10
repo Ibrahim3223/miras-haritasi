@@ -5,10 +5,10 @@ slug: "kaya-otel-cesmesi"
 description: "## Kaya Otel Çeşmesi: Ürgüp'te Bir Çağdaş Çeşme Eseri..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9094124,38.6326523"
 draft: "false"
 weight: "999"

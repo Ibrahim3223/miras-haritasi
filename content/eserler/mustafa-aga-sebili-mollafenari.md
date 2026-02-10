@@ -5,10 +5,10 @@ slug: "mustafa-aga-sebili-mollafenari"
 description: "## Mustafa Ağa Sebili, Mollafenari..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971655042,41.011514446"
 draft: "false"
 weight: "999"

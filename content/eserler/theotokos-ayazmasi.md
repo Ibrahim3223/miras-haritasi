@@ -5,10 +5,10 @@ slug: "theotokos-ayazmasi"
 description: "## Theotokos Ayazması: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9798698,41.0046463"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ebu-ishak-turbesi-cesmesi"
 description: "### Ebu İshak Türbesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.070776,40.1856651"
 draft: "false"
 weight: "999"

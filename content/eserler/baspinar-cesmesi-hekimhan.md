@@ -5,10 +5,10 @@ slug: "baspinar-cesmesi-hekimhan"
 description: "## Başpınar Çeşmesi: Hekimhan'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.919465723,38.759238934"
 draft: "false"
 weight: "999"

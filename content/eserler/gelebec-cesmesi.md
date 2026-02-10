@@ -5,10 +5,10 @@ slug: "gelebec-cesmesi"
 description: "## Gelebeç Çeşmesi: Aydın'ın Zümrütlü Köyü'ndeki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3123665,37.6686287"
 draft: "false"
 weight: "999"

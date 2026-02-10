@@ -5,10 +5,10 @@ slug: "camasirhane-cesmesi-bayindir"
 description: "## Çamaşırhane Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6412907,38.2243729"
 draft: "false"
 weight: "999"

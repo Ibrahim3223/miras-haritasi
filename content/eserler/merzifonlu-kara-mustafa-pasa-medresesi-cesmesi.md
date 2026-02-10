@@ -5,10 +5,10 @@ slug: "merzifonlu-kara-mustafa-pasa-medresesi-cesmesi"
 description: "### Merzifonlu Kara Mustafa Paşa Medresesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9677272,41.0085161"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmed-aga-cesmesi-eyupsultan"
 description: "### Mehmed Ağa Çeşmesi, Eyüpsultan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929952,41.050163"
 draft: "false"
 weight: "999"

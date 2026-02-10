@@ -5,10 +5,10 @@ slug: "kurkcubasi-haci-huseyin-aga-camii-cesmesi"
 description: "### Kürkçübaşı Hacı Hüseyin Ağa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924503,40.994289"
 draft: "false"
 weight: "999"

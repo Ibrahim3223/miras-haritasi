@@ -5,10 +5,10 @@ slug: "cinarli-cesmesi-3-ve-ayazma-sarkoy"
 description: "## Çınarlı Çeşmesi 3 ve Ayazma, Şarköy: Bir Örnek Osmanlı Mimarisine Sahip Çeşme..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2535172,40.6927528"
 draft: "false"
 weight: "999"

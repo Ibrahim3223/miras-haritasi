@@ -5,10 +5,10 @@ slug: "kulaksiz-cesmesi"
 description: "## Kulaksız Çeşmesi: Beyoğlu'nun Eski Günlerine Dair Bir Anıt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.962254,41.038832"
 draft: "false"
 weight: "999"

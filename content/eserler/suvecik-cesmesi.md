@@ -5,10 +5,10 @@ slug: "suvecik-cesmesi"
 description: "### Süvecik Çeşmesi: Kaş'ın Tarihi Bir Hatırası..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6749,36.3553"
 draft: "false"
 weight: "999"

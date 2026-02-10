@@ -5,10 +5,10 @@ slug: "izzet-mehmet-pasa-camii-cesmeleri"
 description: "## İzzet Mehmet Paşa Camii Çeşmeleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/İzzet_Mehmet_Paşa_Camii_Çeşmeleri_(sol).jpg/1200px-İzzet_Mehmet_Paşa_Camii_Çeşmeleri_(sol).jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6931038,41.2440987"
 draft: "false"
 weight: "10"

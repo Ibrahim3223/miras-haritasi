@@ -4,8 +4,7 @@ date: "2025-12-25T05:04:06+03:00"
 slug: "kremaste"
 description: "## Kremaste: Antik Dönemden Kalan Gizemli Yer..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

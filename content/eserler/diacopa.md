@@ -4,8 +4,7 @@ date: "2025-12-25T05:40:11+03:00"
 slug: "diacopa"
 description: "## Diacopa: Bir Antik Kentin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

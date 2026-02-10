@@ -5,10 +5,10 @@ slug: "hurrem-sultan-cesmesi-soganlik"
 description: "## Hürrem Sultan Çeşmesi, Soğanlık..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.207078459,40.919064042"
 draft: "false"
 weight: "999"

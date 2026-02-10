@@ -5,10 +5,10 @@ slug: "atabey-gazi-cesmesi-1"
 description: "## Atabey Gazi Çeşmesi 1..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7711372,41.3758545"
 draft: "false"
 weight: "999"

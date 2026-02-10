@@ -4,8 +4,7 @@ date: "2025-12-25T08:17:42+03:00"
 slug: "tapinak-alani-serapeion"
 description: "### Tapınak Alanı (Serapeion): İzmir'in Gizli Çarpısı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Paolo_Monti_-_Servizio_fotografico_(Selçuk,_1962)_-_BEIC_6362076.jpg/1200px-Paolo_Monti_-_Servizio_fotografico_(Selçuk,_1962)_-_BEIC_6362076.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

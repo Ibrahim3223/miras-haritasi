@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:11+03:00"
 slug: "senzousa"
 description: "## Senzousa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

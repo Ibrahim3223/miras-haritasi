@@ -5,10 +5,10 @@ slug: "santa-dumanli-koyu-cesme-1"
 description: "### Gümüşhane'nin Dumanlı Köyü'nde Bulunan Santa (Dumanlı Köyü) Çeşme 1..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Gümüşhane"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.799799,40.651867"
 draft: "false"
 weight: "999"

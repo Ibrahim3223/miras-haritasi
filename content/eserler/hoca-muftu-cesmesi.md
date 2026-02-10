@@ -5,10 +5,10 @@ slug: "hoca-muftu-cesmesi"
 description: "## Hoca Müftü Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.523201,39.7643738"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "yesildirek-sebili"
 description: "## Yeşildirek Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.969315,41.025356"
 draft: "false"
 weight: "999"

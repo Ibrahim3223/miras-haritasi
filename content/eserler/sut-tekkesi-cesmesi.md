@@ -5,10 +5,10 @@ slug: "sut-tekkesi-cesmesi"
 description: "## Süt Tekkesi Çeşmesi: Konya'da Bir Çeşmenin Öyküsü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4912605,37.8757019"
 draft: "false"
 weight: "999"

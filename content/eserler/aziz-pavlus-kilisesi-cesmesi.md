@@ -5,10 +5,10 @@ slug: "aziz-pavlus-kilisesi-cesmesi"
 description: "## Aziz Pavlus Kilisesi Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.493208208,37.870840942"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "asagi-haci-khya-sokak-cesmesi"
 description: "## Aşağı Hacı Kâhya Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Aa_Hac_Khya_Sokak_emesi_1761583540.jpg/1200px-Aa_Hac_Khya_Sokak_emesi_1761583540.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2256927,40.9192734"
 draft: "false"
 weight: "10"

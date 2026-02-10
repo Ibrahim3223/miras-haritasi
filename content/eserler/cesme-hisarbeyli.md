@@ -5,10 +5,10 @@ slug: "cesme-hisarbeyli"
 description: "### Çeşme, Hisarbeyli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4731178,41.3671227"
 draft: "false"
 weight: "999"

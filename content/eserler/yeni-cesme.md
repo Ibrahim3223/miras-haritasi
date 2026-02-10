@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:17+03:00"
 slug: "yeni-cesme"
 description: "## Yeni Çeşme: Bir Çeşme'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/531.5-Yemi_Çeşme-19.yy_01.jpg/1200px-531.5-Yemi_Çeşme-19.yy_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.18683889,39.123125"
 draft: "false"
 weight: "10"

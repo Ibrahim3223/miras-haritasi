@@ -5,10 +5,10 @@ slug: "hakki-bey-cesmesi"
 description: "## Hakkı Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934197,41.036802"
 draft: "false"
 weight: "999"

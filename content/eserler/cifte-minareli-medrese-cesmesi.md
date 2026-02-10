@@ -5,10 +5,10 @@ slug: "cifte-minareli-medrese-cesmesi"
 description: "## Çifte Minareli Medrese Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2784691,39.9058914"
 draft: "false"
 weight: "999"

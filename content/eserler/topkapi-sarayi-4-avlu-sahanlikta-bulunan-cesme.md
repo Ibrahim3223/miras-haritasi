@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-4-avlu-sahanlikta-bulunan-cesme"
 description: "# Topkapı Sarayı 4. Avlu Sahanlıkta Bulunan Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.984391,41.013801"
 draft: "false"
 weight: "1"

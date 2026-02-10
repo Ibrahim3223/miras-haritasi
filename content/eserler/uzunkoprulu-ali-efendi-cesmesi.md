@@ -5,10 +5,10 @@ slug: "uzunkoprulu-ali-efendi-cesmesi"
 description: "**Uzunköprülü Ali Efendi Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951187,41.027883"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ahmetaga-cesmesi"
 description: "### Ahmetağa Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.0674992,39.4805984"
 draft: "false"
 weight: "999"

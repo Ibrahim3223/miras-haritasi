@@ -5,10 +5,10 @@ slug: "cevheriye-cesmesi"
 description: "## Cevheriye Çeşmesi: Mardin'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.737406,37.312407"
 draft: "false"
 weight: "999"

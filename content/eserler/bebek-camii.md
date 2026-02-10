@@ -4,8 +4,7 @@ date: "2025-12-24T21:45:52+03:00"
 slug: "bebek-camii"
 description: "### Bebek Camii: İstanbul'un Gizli Çeşmesinde Bir İbadet Mekânı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/İstanbul_-_Bebek,_Beşiktaş_r7_-_Şub_2013.JPG/1200px-İstanbul_-_Bebek,_Beşiktaş_r7_-_Şub_2013.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

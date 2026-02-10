@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:36+03:00"
 slug: "oxinas"
 description: "## Oxinas Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

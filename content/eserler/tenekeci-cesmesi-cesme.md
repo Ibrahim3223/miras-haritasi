@@ -5,10 +5,10 @@ slug: "tenekeci-cesmesi-cesme"
 description: "## Tenekeci Çeşmesi: Çeşme'nin Tarihi ve Güzel Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3356686,38.318367"
 draft: "false"
 weight: "999"

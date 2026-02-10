@@ -5,10 +5,10 @@ slug: "derekahve-ayazma-cesmesi"
 description: "## Derekahve Ayazma Çeşmesi: İzmirlinin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7391758,38.0809174"
 draft: "false"
 weight: "999"

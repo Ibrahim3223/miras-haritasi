@@ -5,10 +5,10 @@ slug: "karamanoglu-orta-cesme"
 description: "## Karamanoğlu Orta Çeşme: Afyonkarahisar'da Bir Önemli Kültür Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.536747,38.7614326"
 draft: "false"
 weight: "999"

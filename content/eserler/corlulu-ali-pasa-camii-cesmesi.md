@@ -5,10 +5,10 @@ slug: "corlulu-ali-pasa-camii-cesmesi"
 description: "## Çorlulu Ali Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9597626,41.0343437"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "onar-koyu-cesmesi-arapgir"
 description: "### Onar Köyü Çeşmesi: Arapgir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.569398107,38.969034402"
 draft: "false"
 weight: "999"

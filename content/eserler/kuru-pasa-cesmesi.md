@@ -5,10 +5,10 @@ slug: "kuru-pasa-cesmesi"
 description: "## Kuru Paşa Çeşmesi: Kırklareli'nin Tarihi Şöleni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kirklareli_kuru_pasa_cesmesi_01.jpg/1200px-Kirklareli_kuru_pasa_cesmesi_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.226333333,41.733527777"
 draft: "false"
 weight: "10"

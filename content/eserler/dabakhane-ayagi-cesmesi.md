@@ -5,10 +5,10 @@ slug: "dabakhane-ayagi-cesmesi"
 description: "## Dabakhane Ayağı Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2752647,39.9124222"
 draft: "false"
 weight: "999"

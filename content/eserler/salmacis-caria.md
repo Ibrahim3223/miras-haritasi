@@ -4,8 +4,7 @@ date: "2025-12-25T04:37:07+03:00"
 slug: "salmacis-caria"
 description: "## Salmacis (Caria)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

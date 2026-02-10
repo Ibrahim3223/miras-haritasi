@@ -4,8 +4,7 @@ date: "2025-12-25T08:18:52+03:00"
 slug: "koresa"
 description: "# Koresa..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

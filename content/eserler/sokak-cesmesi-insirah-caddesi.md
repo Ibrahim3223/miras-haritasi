@@ -5,10 +5,10 @@ slug: "sokak-cesmesi-insirah-caddesi"
 description: "## Sokak Çeşmesi: Beşiktaş'ta Bir Tarihi Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0385342,41.0784035"
 draft: "false"
 weight: "999"

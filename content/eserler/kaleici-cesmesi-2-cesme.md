@@ -5,10 +5,10 @@ slug: "kaleici-cesmesi-2-cesme"
 description: "## Kaleiçi Çeşmesi 2: Çeşme'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3037758,38.3231163"
 draft: "false"
 weight: "999"

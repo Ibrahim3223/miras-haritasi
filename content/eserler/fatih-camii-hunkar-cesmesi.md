@@ -5,10 +5,10 @@ slug: "fatih-camii-hunkar-cesmesi"
 description: "## Fatih Camii Hünkar Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2480698,41.0708046"
 draft: "false"
 weight: "999"

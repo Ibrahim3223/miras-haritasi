@@ -5,10 +5,10 @@ slug: "buyukada-cesmesi"
 description: "## Büyükada Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.115883,40.862083"
 draft: "false"
 weight: "999"

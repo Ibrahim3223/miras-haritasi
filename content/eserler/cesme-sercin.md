@@ -5,10 +5,10 @@ slug: "cesme-sercin"
 description: "### Söke'nin Eski Şehri'nde Gizli Bir Çeşme: Serçin Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3901005,37.5455017"
 draft: "false"
 weight: "999"

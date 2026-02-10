@@ -5,10 +5,10 @@ slug: "cinarli-cesme-kurucesme"
 description: "## Çınarlı Çeşme, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.03517,41.0608428"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "balci-yokusu-sokak-cesmesi"
 description: "### Balcı Yokuşu Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Balcı_Yokuşu'nda_Çeşme_01.jpg/1200px-Balcı_Yokuşu'nda_Çeşme_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.93328,41.04319"
 draft: "false"
 weight: "10"

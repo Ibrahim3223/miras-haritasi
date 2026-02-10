@@ -5,10 +5,10 @@ slug: "rukiye-kadin-cesmesi"
 description: "## Rukiye Kadın Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972185,41.016125"
 draft: "false"
 weight: "999"

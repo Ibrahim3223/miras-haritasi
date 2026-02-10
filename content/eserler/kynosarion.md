@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:22+03:00"
 slug: "kynosarion"
 description: "## Kynosarion: Ege Denizi'nin Gizli Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

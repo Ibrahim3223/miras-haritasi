@@ -5,10 +5,10 @@ slug: "cukur-cesme-caddebostan"
 description: "## Caddebostan'daki Çukur Çeşme: Bir Çeşmenin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0646248,40.9691391"
 draft: "false"
 weight: "999"

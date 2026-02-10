@@ -5,10 +5,10 @@ slug: "mavi-kadin-cesmesi"
 description: "### Mavi Kadın Çeşmesi: Sivrihisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5385971,39.4511528"
 draft: "false"
 weight: "999"

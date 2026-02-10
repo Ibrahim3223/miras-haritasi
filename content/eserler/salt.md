@@ -4,8 +4,7 @@ date: "2025-12-25T04:11:00+03:00"
 slug: "salt"
 description: "## SALT Müzesi: Türkiye'nin Kültür ve Sanat Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ottoman_Bank_head_office,_now_SALT_Galata,_İstanbul,_12967651205.jpg/1200px-Ottoman_Bank_head_office,_now_SALT_Galata,_İstanbul,_12967651205.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

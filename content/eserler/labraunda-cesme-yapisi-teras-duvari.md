@@ -5,10 +5,10 @@ slug: "labraunda-cesme-yapisi-teras-duvari"
 description: "### Labraunda Çeşme Yapısı ve Teras Duvarı: Milas'ın Gizli Cenneti..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8199253,37.4190331"
 draft: "false"
 weight: "999"

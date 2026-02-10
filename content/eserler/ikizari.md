@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:16+03:00"
 slug: "ikizari"
 description: "## İkiz Kalesi: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

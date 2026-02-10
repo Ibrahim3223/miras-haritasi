@@ -5,10 +5,10 @@ slug: "sehzade-suleyman-cesmesi"
 description: "## Şehzade Süleyman Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Şehzade_Süleyman_Çeşmesi.jpg/1200px-Şehzade_Süleyman_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018851,41.023929"
 draft: "false"
 weight: "10"

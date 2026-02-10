@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:42+03:00"
 slug: "tetracis"
 description: "## Tetracis: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

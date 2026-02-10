@@ -5,10 +5,10 @@ slug: "rustem-pasa-cesmesi-nakilbent-sokak"
 description: "### Rüstem Paşa Çeşmesi, Nakilbent Sokak: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Rüstem_Paşa_Çeşmesi,_Nakilbent_Sokak.jpg/1200px-Rüstem_Paşa_Çeşmesi,_Nakilbent_Sokak.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.974358,41.004037"
 draft: "false"
 weight: "10"

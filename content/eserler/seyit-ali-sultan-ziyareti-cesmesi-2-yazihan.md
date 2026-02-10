@@ -5,10 +5,10 @@ slug: "seyit-ali-sultan-ziyareti-cesmesi-2-yazihan"
 description: "## Seyit Ali Sultan Ziyareti Çeşmesi 2, Yazıhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yazıhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.984311895,38.557789471"
 draft: "false"
 weight: "999"

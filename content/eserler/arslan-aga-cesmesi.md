@@ -5,10 +5,10 @@ slug: "arslan-aga-cesmesi"
 description: "## Arslan Ağa Çeşmesi: Üsküdar'da Bir İhtişam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Arslan_Ağa_Çeşmesi.jpg/1200px-Arslan_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018029682,41.026804381"
 draft: "false"
 weight: "10"

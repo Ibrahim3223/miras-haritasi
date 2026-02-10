@@ -5,10 +5,10 @@ slug: "suleyman-cesmesi"
 description: "## Süleyman Çeşmesi: Bodrum'un Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Turgutreis"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2815132,37.0135117"
 draft: "false"
 weight: "999"

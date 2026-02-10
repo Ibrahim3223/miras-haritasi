@@ -5,10 +5,10 @@ slug: "marziye-halil-cesmesi-hekimhan"
 description: "## Marziye Halil Çeşmesi: Hekimhan'ın Tarihi Bir Zirvesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.932087815,38.819876999"
 draft: "false"
 weight: "999"

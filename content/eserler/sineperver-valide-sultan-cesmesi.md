@@ -5,10 +5,10 @@ slug: "sineperver-valide-sultan-cesmesi"
 description: "## Sineperver Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Sineperver_Valide_Sultan_Fountain,_Fatih.jpg/1200px-Sineperver_Valide_Sultan_Fountain,_Fatih.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941252,41.023111805"
 draft: "false"
 weight: "10"

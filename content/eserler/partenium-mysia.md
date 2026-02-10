@@ -4,8 +4,7 @@ date: "2025-12-25T04:38:49+03:00"
 slug: "partenium-mysia"
 description: "## Partenium (Mysia): Tarihi Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

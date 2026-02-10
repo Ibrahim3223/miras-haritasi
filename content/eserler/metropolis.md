@@ -4,8 +4,7 @@ date: "2025-12-25T04:26:05+03:00"
 slug: "metropolis"
 description: "### Metropolis: İzmir'in Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Metropolis_from_the_east.jpg/1200px-Metropolis_from_the_east.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

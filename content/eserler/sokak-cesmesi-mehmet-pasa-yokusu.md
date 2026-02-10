@@ -5,10 +5,10 @@ slug: "sokak-cesmesi-mehmet-pasa-yokusu"
 description: "## Sokak Çeşmesi, Mehmet Paşa Yokuşu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9620056,41.0191917"
 draft: "false"
 weight: "999"

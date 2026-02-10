@@ -4,8 +4,7 @@ date: "2025-12-25T08:54:26+03:00"
 slug: "surp-stepanos-katolik-kilisesi-yesilkoy"
 description: "## Surp Stepanos Katolik Kilisesi: İstanbulluların Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

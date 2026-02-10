@@ -5,10 +5,10 @@ slug: "haci-ali-bey-cesmesi"
 description: "### Hacı Ali Bey Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4720497,40.7324638"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayios-ioannis-ayazmasi"
 description: "### Ayios Ioannis Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0338001,41.0727615"
 draft: "false"
 weight: "999"

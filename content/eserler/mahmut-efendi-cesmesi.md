@@ -5,10 +5,10 @@ slug: "mahmut-efendi-cesmesi"
 description: "## Mahmut Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Mahmut_Efendi_Çeşmesi_IMG_4567.jpg/1200px-Mahmut_Efendi_Çeşmesi_IMG_4567.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.981894,41.029133"
 draft: "false"
 weight: "10"

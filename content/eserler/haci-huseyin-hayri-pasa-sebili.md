@@ -5,10 +5,10 @@ slug: "haci-huseyin-hayri-pasa-sebili"
 description: "## Hacı Hüseyin Hayri Paşa Sebili: Üsküdar'ın Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023159,41.0079536"
 draft: "false"
 weight: "999"

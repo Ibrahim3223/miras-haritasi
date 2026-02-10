@@ -5,10 +5,10 @@ slug: "cesme-kozdere"
 description: "## Çeşme – Kozdere: Aydın'ın Doğal Güzelliğini Yansıtan Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4694614,37.9921646"
 draft: "false"
 weight: "999"

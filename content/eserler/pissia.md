@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:13+03:00"
 slug: "pissia"
 description: "## Pissia Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

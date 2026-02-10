@@ -4,8 +4,7 @@ date: "2025-12-25T05:33:25+03:00"
 slug: "dogu-gymnasionu"
 description: "# Doğu Gymnasionu: İzmir'in Tarihi Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

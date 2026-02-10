@@ -5,10 +5,10 @@ slug: "hacikadin-cesmesi"
 description: "### Hacıkadın Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7713852,41.3775444"
 draft: "false"
 weight: "999"

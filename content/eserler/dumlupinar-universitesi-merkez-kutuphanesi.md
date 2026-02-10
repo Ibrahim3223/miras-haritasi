@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:41+03:00"
 slug: "dumlupinar-universitesi-merkez-kutuphanesi"
 description: "### Dumlupınar Üniversitesi Merkez Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

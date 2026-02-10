@@ -5,10 +5,10 @@ slug: "hasan-aga-cesmesi-kadikoy"
 description: "## Hasan Ağa Çeşmesi: Kadıköy'deki Bir Örnek Osmanlı Mimarisinden..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0401974,40.9842834"
 draft: "false"
 weight: "999"

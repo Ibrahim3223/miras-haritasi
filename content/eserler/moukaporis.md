@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:43+03:00"
 slug: "moukaporis"
 description: "## Moukaporis: Kıbrıs'ın Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

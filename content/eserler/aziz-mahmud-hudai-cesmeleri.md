@@ -5,10 +5,10 @@ slug: "aziz-mahmud-hudai-cesmeleri"
 description: "### Aziz Mahmud Hüdai Çeşmeleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Aziz_Mahmud_Hüdai_Çeşmeleri.jpg/1200px-Aziz_Mahmud_Hüdai_Çeşmeleri.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0145772,41.0224748"
 draft: "false"
 weight: "10"

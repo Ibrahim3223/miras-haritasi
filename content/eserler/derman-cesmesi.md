@@ -5,10 +5,10 @@ slug: "derman-cesmesi"
 description: "## Derman Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Derman_Çeşmesi,_Hamiye_Çolakoğlu,_Hacettepe_Üniversitesi_Beytepe_Kampüsü,_2021_05.jpg/1200px-Derman_Çeşmesi,_Hamiye_Çolakoğlu,_Hacettepe_Üniversitesi_Beytepe_Kampüsü,_2021_05.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.733583333,39.895833333"
 draft: "false"
 weight: "10"

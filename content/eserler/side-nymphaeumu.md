@@ -4,8 +4,7 @@ date: "2025-12-25T05:43:05+03:00"
 slug: "side-nymphaeumu"
 description: "## Side Nymphaeum: Antik Side'nin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

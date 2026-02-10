@@ -5,10 +5,10 @@ slug: "cesme-2-esenkoy"
 description: "## Çeşme 2, Esenköy: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.349939815,37.809221242"
 draft: "false"
 weight: "999"

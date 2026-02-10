@@ -5,10 +5,10 @@ slug: "dulbendcizade-cesmesi"
 description: "## Dülbendcizade Çeşmesi: Yedikule'nin Tarihî Bir Hatırası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.928551,40.995331"
 draft: "false"
 weight: "999"

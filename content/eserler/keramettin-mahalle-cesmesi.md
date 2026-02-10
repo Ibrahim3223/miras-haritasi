@@ -5,10 +5,10 @@ slug: "keramettin-mahalle-cesmesi"
 description: "## Keramettin Mahalle Çeşmesi: Muğla'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Menteşe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3609009,37.2204018"
 draft: "false"
 weight: "999"

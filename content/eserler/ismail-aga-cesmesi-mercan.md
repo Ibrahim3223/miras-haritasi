@@ -5,10 +5,10 @@ slug: "ismail-aga-cesmesi-mercan"
 description: "## İsmail Ağa Çeşmesi, Mercan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.969125,41.013768"
 draft: "false"
 weight: "999"

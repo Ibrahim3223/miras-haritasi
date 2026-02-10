@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-kamiloba"
 description: "# Havuzlu Çeşme, Kamiloba..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4322834,41.0462189"
 draft: "false"
 weight: "999"

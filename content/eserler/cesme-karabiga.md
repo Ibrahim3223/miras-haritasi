@@ -5,10 +5,10 @@ slug: "cesme-karabiga"
 description: "## Çeşme, Karabiga: Biga'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.303755792,40.402885119"
 draft: "false"
 weight: "999"

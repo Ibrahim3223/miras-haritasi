@@ -4,8 +4,7 @@ date: "2025-12-25T04:52:25+03:00"
 slug: "tetrapyrgiya-pamfilya"
 description: "## Tetrapyrgiya: Pamfilya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

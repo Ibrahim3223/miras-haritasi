@@ -5,10 +5,10 @@ slug: "can-pinari-cesmesi-arapgir"
 description: "## Can Pınarı Çeşmesi: Arapgir'in Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.623894433,39.07840991"
 draft: "false"
 weight: "999"

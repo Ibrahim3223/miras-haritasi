@@ -4,8 +4,7 @@ date: "2025-12-25T14:14:24+03:00"
 slug: "keslik-steli"
 description: "## Keşlik Steli: Türkiye'nin Eski Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NigdeMuseumSteleKeslik.jpg/1200px-NigdeMuseumSteleKeslik.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

@@ -5,10 +5,10 @@ slug: "osman-aga-cesmesi"
 description: "## Osman Ağa Çeşmesi: Kadıköy'ün Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Osman_Ağa_Çeşmesi_(Hasanpaşa).jpg/1200px-Osman_Ağa_Çeşmesi_(Hasanpaşa).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.043349031,40.99554693"
 draft: "false"
 weight: "10"

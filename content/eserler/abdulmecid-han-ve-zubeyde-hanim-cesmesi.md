@@ -5,10 +5,10 @@ slug: "abdulmecid-han-ve-zubeyde-hanim-cesmesi"
 description: "## Abdülmecid Han ve Zübeyde Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Abdülmecid_Han_ve_Zübeyde_Hanım_Çeşmesi_uzaktan1,_Beşiktaş,_İstanbul_2023.jpg/1200px-Abdülmecid_Han_ve_Zübeyde_Hanım_Çeşmesi_uzaktan1,_Beşiktaş,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.003193,41.047097"
 draft: "false"
 weight: "10"

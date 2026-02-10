@@ -5,10 +5,10 @@ slug: "erenkoy-istasyon-cesmesi"
 description: "## Erenköy İstasyon Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Erenköy_Station_Fountain-1.jpg/1200px-Erenköy_Station_Fountain-1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.074988805,40.974000694"
 draft: "false"
 weight: "10"

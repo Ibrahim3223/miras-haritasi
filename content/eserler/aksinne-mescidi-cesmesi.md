@@ -5,10 +5,10 @@ slug: "aksinne-mescidi-cesmesi"
 description: "## Aksinne Mescidi Çeşmesi: Meram, Konya'da Bir Örnek Osmanlı Mimarisine..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4920425,37.8629532"
 draft: "false"
 weight: "999"

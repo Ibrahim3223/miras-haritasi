@@ -5,10 +5,10 @@ slug: "kizilbey-cesmesi"
 description: "### Kızılbey Çeşmesi Nedir?..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.853902272,39.93988227"
 draft: "false"
 weight: "999"

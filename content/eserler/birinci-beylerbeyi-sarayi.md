@@ -4,8 +4,7 @@ date: "2025-12-25T13:14:50+03:00"
 slug: "birinci-beylerbeyi-sarayi"
 description: "# Birinci Beylerbeyi Sarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

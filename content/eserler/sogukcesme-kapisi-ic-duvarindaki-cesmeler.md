@@ -5,10 +5,10 @@ slug: "sogukcesme-kapisi-ic-duvarindaki-cesmeler"
 description: "## Soğukçeşme Kapısı İç Duvarındaki Çeşmeler..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9788066,41.0105419"
 draft: "false"
 weight: "999"

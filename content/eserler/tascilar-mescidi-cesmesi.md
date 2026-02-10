@@ -5,10 +5,10 @@ slug: "tascilar-mescidi-cesmesi"
 description: "## Taşçılar Mescidi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.432003,38.612278"
 draft: "false"
 weight: "999"

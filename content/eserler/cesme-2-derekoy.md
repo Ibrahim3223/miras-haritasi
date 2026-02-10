@@ -5,10 +5,10 @@ slug: "cesme-2-derekoy"
 description: "## Çeşme 2 – Dereköy: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0389862,37.7960281"
 draft: "false"
 weight: "999"

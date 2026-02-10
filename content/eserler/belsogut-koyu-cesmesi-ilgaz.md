@@ -5,10 +5,10 @@ slug: "belsogut-koyu-cesmesi-ilgaz"
 description: "## Belsöğüt Köyü Çeşmesi: Ilgaz'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Ilgaz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.601531942,40.947357801"
 draft: "false"
 weight: "999"

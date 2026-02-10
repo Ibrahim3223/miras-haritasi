@@ -5,10 +5,10 @@ slug: "ikipinar-cesmesi"
 description: "## İkipınar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4890976,39.6756859"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-24T22:13:35+03:00"
 slug: "ansarli-camii"
 description: "# Ansarlı Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

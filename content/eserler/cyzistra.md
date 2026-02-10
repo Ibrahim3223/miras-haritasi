@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:44+03:00"
 slug: "cyzistra"
 description: "## Cyzistra: Antik Bir Şehirin Kalıntıları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

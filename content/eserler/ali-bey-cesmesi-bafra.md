@@ -5,10 +5,10 @@ slug: "ali-bey-cesmesi-bafra"
 description: "### Ali Bey Çeşmesi, Bafra..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.903347,41.5681686"
 draft: "false"
 weight: "999"

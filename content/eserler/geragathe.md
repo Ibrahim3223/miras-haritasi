@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:54+03:00"
 slug: "geragathe"
 description: "## Geragathe: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

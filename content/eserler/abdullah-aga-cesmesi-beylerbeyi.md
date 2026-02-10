@@ -5,10 +5,10 @@ slug: "abdullah-aga-cesmesi-beylerbeyi"
 description: "### Abdullah Ağa Çeşmesi, Beylerbeyi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Üsküdar_-_Abdullah_Ağa_Çeşmesi,_Beylerbeyi_-_20250405121254.jpg/1200px-Üsküdar_-_Abdullah_Ağa_Çeşmesi,_Beylerbeyi_-_20250405121254.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.044386,41.042027"
 draft: "false"
 weight: "10"

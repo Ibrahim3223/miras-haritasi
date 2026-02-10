@@ -5,10 +5,10 @@ slug: "okuz-mehmet-pasa-cesmesi-ulukisla"
 description: "### Öküz Mehmet Paşa Çeşmesi: Ulukışla'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Niğde"
-iller: '["Niğde"]'
+iller: ["Niğde"]
 district: "Ulukışla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.481772578,37.547802649"
 draft: "false"
 weight: "999"

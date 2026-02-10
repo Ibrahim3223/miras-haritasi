@@ -4,8 +4,7 @@ date: "2025-12-25T08:20:59+03:00"
 slug: "atrium-thermarum-liman-hamamlari-atriumu"
 description: "## Atrium Thermarum: Liman Hamamları Atriumu..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

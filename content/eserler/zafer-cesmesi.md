@@ -5,10 +5,10 @@ slug: "zafer-cesmesi"
 description: "# Zafer Çeşmesi: Gemlik'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Gemlik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1550941,40.4319839"
 draft: "false"
 weight: "999"

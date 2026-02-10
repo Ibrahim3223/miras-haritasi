@@ -5,10 +5,10 @@ slug: "galatasaray-lisesi-kapi-cesmeleri"
 description: "## Galatasaray Lisesi Kapı Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.977427,41.033469"
 draft: "false"
 weight: "999"

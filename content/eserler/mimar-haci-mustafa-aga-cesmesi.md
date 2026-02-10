@@ -5,10 +5,10 @@ slug: "mimar-haci-mustafa-aga-cesmesi"
 description: "## Mimar Hacı Mustafa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mimar_Hacı_Mustafa_Ağa_Çeşmesi.jpg/1200px-Mimar_Hacı_Mustafa_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940933,41.037034"
 draft: "false"
 weight: "10"

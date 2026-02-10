@@ -5,10 +5,10 @@ slug: "kocahanim-cesmesi-ve-camasirhanesi"
 description: "### Kocahanım Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Çivril"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.7432995,38.3212013"
 draft: "false"
 weight: "999"

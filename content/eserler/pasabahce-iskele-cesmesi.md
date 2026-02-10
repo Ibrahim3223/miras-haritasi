@@ -5,10 +5,10 @@ slug: "pasabahce-iskele-cesmesi"
 description: "## Paşabahçe İskele Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Paşabahçe_İskele_Çeşmesi,_Beykoz,_İstanbul.jpg/1200px-Paşabahçe_İskele_Çeşmesi,_Beykoz,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.09518502,41.116137476"
 draft: "false"
 weight: "10"

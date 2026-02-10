@@ -5,10 +5,10 @@ slug: "suleyman-aga-cesmesi-buyukcekmece"
 description: "## Süleyman Ağa Çeşmesi: Büyükçekmece'nin Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.579859,41.023708"
 draft: "false"
 weight: "999"

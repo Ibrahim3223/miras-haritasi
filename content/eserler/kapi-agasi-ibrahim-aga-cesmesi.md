@@ -5,10 +5,10 @@ slug: "kapi-agasi-ibrahim-aga-cesmesi"
 description: "## Kapı Ağası İbrahim Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9287834,41.0110931"
 draft: "false"
 weight: "999"

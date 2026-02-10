@@ -5,10 +5,10 @@ slug: "kir-cesme"
 description: "## Kır Çeşme: Aydın'ın Tarihi Çeşmesinde Gizlenen Özellikler..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1083641,37.8857193"
 draft: "false"
 weight: "999"

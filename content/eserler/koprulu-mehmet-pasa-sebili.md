@@ -5,10 +5,10 @@ slug: "koprulu-mehmet-pasa-sebili"
 description: "## Köprülü Mehmet Paşa Sebili: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9719257,41.0083237"
 draft: "false"
 weight: "999"

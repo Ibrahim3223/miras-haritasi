@@ -5,10 +5,10 @@ slug: "catili-cesmesi-arapgir"
 description: "### Çatılı Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.624744113,39.076902252"
 draft: "false"
 weight: "999"

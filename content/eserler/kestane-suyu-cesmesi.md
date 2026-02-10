@@ -5,10 +5,10 @@ slug: "kestane-suyu-cesmesi"
 description: "## Kestane Suyu Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.026968,41.163523"
 draft: "false"
 weight: "999"

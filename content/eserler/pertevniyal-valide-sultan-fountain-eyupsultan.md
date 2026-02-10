@@ -4,11 +4,10 @@ date: "2025-12-25T10:39:51+03:00"
 slug: "pertevniyal-valide-sultan-fountain-eyupsultan"
 description: "### Pertevniyal Valide Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Pertevniyal_Valide_Sultan_Fountain,_Eyüpsultan_05.jpg/1200px-Pertevniyal_Valide_Sultan_Fountain,_Eyüpsultan_05.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.939499148,41.041211026"
 draft: "false"
 weight: "10"

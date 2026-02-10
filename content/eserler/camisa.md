@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:20+03:00"
 slug: "camisa"
 description: "## Camisa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

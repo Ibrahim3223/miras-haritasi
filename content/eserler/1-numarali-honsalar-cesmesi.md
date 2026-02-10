@@ -5,10 +5,10 @@ slug: "1-numarali-honsalar-cesmesi"
 description: "## 1 Numaralı Honsalar Çeşmesi: Kastamonu'nun Kültürel Miraslarından biri..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7706909,41.3798828"
 draft: "false"
 weight: "999"

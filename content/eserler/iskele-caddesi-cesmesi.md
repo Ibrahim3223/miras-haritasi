@@ -5,10 +5,10 @@ slug: "iskele-caddesi-cesmesi"
 description: "### İskele Caddesi Çeşmesi: Rumelikavağı'ndaki Bir Kültür Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.073643,41.182315"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "usakizade-kosku-cesmesi"
 description: "## Uşakizade Köşkü Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0985432,38.4029541"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-piri-sokak-cesmesi"
 description: "## Hacı Piri Sokak Çeşmesi: Yedikule'nin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hacı_Piri_Sokak_Çeşmesi1,_Fatih,_İstanbul_2025.jpg/1200px-Hacı_Piri_Sokak_Çeşmesi1,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.922889,40.998587"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "50yil-cesmesi"
 description: "## 50.Yıl Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.921526,40.7642555"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "buyukada-aya-yorgi-manastir-cesmesi"
 description: "# Büyükada Aya Yorgi Manastır Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.118832,40.84866"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:41:54+03:00"
 slug: "rhoe"
 description: "## Ege'nin Gizemi: Rhoe Antik Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "gumrukonu-hani-cesmesi"
 description: "## Gümrükönü Hanı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8430481,37.8512344"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayse-hanim-cesmesi-kanlica"
 description: "### Ayşe Hanım Çeşmesi, Kanlıca: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.06705,41.099341"
 draft: "false"
 weight: "999"

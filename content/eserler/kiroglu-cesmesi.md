@@ -5,10 +5,10 @@ slug: "kiroglu-cesmesi"
 description: "## Kıroğlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Kıroğlu_Çeşmesi_Sokak_Cephesi.jpg/1200px-Kıroğlu_Çeşmesi_Sokak_Cephesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7141533,41.0064583"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "akbiyik-cesmesi"
 description: "# Akbıyık Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Akbıyık_Çeşmesi.jpg/1200px-Akbıyık_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979596,41.003225"
 draft: "false"
 weight: "10"

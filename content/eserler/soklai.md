@@ -4,8 +4,7 @@ date: "2025-12-25T04:57:59+03:00"
 slug: "soklai"
 description: "## **Soklai Arkeolojik Sitesi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

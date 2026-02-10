@@ -4,8 +4,7 @@ date: "2025-12-25T01:59:13+03:00"
 slug: "ayvalik-bogazi-koprusu"
 description: "# Ayvalık Boğazı Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

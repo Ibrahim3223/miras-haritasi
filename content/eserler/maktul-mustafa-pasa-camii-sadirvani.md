@@ -5,10 +5,10 @@ slug: "maktul-mustafa-pasa-camii-sadirvani"
 description: "### Maktul Mustafa Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9337807,41.0349579"
 draft: "false"
 weight: "999"

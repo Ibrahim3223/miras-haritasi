@@ -4,8 +4,7 @@ date: "2025-12-25T05:40:07+03:00"
 slug: "callistratia"
 description: "## Callistratia: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

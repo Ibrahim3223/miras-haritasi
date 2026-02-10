@@ -4,8 +4,7 @@ date: "2025-12-25T05:41:50+03:00"
 slug: "climax"
 description: "## Climax: Geçmişin Gizemli Kalıntıları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

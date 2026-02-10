@@ -5,10 +5,10 @@ slug: "yukari-pinar-cesmesi-arapgir"
 description: "### Yukarı Pınar Çeşmesi: Arapgir'in Tarihi Bir Ölümsüzü..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.505143774,39.017034781"
 draft: "false"
 weight: "999"

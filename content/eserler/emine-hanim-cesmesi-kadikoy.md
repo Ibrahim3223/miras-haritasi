@@ -4,11 +4,10 @@ date: "2025-12-25T10:10:34+03:00"
 slug: "emine-hanim-cesmesi-kadikoy"
 description: "## Emine Hanım Çeşmesi, Kadıköy: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Emine_Hanım_Çeşmesi.jpg/1200px-Emine_Hanım_Çeşmesi.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.077867551,40.986176561"
 draft: "false"
 weight: "10"

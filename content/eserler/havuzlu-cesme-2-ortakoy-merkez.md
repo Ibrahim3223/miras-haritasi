@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-2-ortakoy-merkez"
 description: "## Havuzlu Çeşme 2: Silivri'nin Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3759727,41.1008987"
 draft: "false"
 weight: "999"

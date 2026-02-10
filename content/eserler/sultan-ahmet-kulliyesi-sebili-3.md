@@ -5,10 +5,10 @@ slug: "sultan-ahmet-kulliyesi-sebili-3"
 description: "## Sultan Ahmet Külliyesi Sebili 3: İstanbul'un Tarihî Esintileri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9783726,41.0054169"
 draft: "false"
 weight: "999"

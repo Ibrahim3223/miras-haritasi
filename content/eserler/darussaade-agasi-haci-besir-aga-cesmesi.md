@@ -5,10 +5,10 @@ slug: "darussaade-agasi-haci-besir-aga-cesmesi"
 description: "## Darüssaade Ağası Hacı Beşir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933598,41.042522"
 draft: "false"
 weight: "999"

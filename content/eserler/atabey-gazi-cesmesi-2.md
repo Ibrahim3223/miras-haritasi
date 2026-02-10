@@ -5,10 +5,10 @@ slug: "atabey-gazi-cesmesi-2"
 description: "## Atabey Gazi Çeşmesi 2: Kastamonu'da Bir Kültür Mirası ..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7710686,41.3752518"
 draft: "false"
 weight: "999"

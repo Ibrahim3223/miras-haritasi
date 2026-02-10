@@ -5,10 +5,10 @@ slug: "uftade-sokagi-cesmesi"
 description: "### Üftade Sokağı Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.057518,40.1829567"
 draft: "false"
 weight: "999"

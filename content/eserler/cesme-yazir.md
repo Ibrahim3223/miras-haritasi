@@ -5,10 +5,10 @@ slug: "cesme-yazir"
 description: "## Çeşme, Yazır: Kumluca, Antalya'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.4262,36.3759"
 draft: "false"
 weight: "999"

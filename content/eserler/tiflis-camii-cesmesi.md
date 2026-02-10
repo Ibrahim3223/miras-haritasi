@@ -5,10 +5,10 @@ slug: "tiflis-camii-cesmesi"
 description: "# Tiflis Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8580589,39.9404869"
 draft: "false"
 weight: "999"

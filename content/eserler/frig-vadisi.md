@@ -4,8 +4,7 @@ date: "2025-12-25T06:54:49+03:00"
 slug: "frig-vadisi"
 description: "## Frig Vadisi: Tarihçenizi Değiştirecek Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Phrygien.jpg/1200px-Phrygien.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

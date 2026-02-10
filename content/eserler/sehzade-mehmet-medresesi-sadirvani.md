@@ -5,10 +5,10 @@ slug: "sehzade-mehmet-medresesi-sadirvani"
 description: "## Şehzade Mehmet Medresesi Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9573746,41.0147057"
 draft: "false"
 weight: "999"

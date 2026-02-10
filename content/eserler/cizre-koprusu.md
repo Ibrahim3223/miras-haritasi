@@ -4,8 +4,7 @@ date: "2025-12-25T01:58:34+03:00"
 slug: "cizre-koprusu"
 description: "## Cizre Köprüsü: Bir Geçit Zamanların Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

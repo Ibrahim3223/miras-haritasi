@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:18+03:00"
 slug: "hacettepe-universitesi-saglik-bilimleri-kutuphanesi"
 description: "## Hacettepe Üniversitesi Sağlık Bilimleri Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:41:13+03:00"
 slug: "cales"
 description: "**Cales: Tarih ve Kültür Mirasının Bir Parçası**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

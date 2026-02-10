@@ -5,10 +5,10 @@ slug: "huseyin-bey-cesmesi"
 description: "## Hüseyin Bey Çeşmesi: Bafra'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Samsun"
-iller: '["Samsun"]'
+iller: ["Samsun"]
 district: "Bafra"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.908775,41.568321"
 draft: "false"
 weight: "999"

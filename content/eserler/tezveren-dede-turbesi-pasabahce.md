@@ -4,8 +4,7 @@ date: "2025-12-25T13:38:32+03:00"
 slug: "tezveren-dede-turbesi-pasabahce"
 description: "### Tezveren Dede Türbesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Grave_of_Tezveren_Dede2,_Paşabahçe,_Beykoz_İstanbul_2024.jpg/1200px-Grave_of_Tezveren_Dede2,_Paşabahçe,_Beykoz_İstanbul_2024.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

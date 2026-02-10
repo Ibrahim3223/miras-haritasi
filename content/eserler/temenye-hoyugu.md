@@ -4,8 +4,7 @@ date: "2025-12-25T07:09:42+03:00"
 slug: "temenye-hoyugu"
 description: "## Temenye Höyüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

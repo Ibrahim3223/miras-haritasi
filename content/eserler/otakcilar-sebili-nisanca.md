@@ -5,10 +5,10 @@ slug: "otakcilar-sebili-nisanca"
 description: "# Otakçılar Sebili: Eyüpsultan'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.931999505,41.039149926"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-odemis"
 description: "## Mehmet Ağa Çeşmesi, Ödemiş..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.968689,38.233078"
 draft: "false"
 weight: "999"

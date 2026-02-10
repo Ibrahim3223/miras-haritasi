@@ -5,10 +5,10 @@ slug: "karakayis-caddesi-cesmesi"
 description: "## Karakayış Caddesi Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5043411,37.8870239"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hisaronu-mahallesi-cesmesi"
 description: "### Hisarönü Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8598633,39.940918"
 draft: "false"
 weight: "999"

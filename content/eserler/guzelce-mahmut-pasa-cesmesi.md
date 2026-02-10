@@ -5,10 +5,10 @@ slug: "guzelce-mahmut-pasa-cesmesi"
 description: "## Güzelce Mahmut Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971823,41.011601"
 draft: "false"
 weight: "999"

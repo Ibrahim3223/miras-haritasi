@@ -5,10 +5,10 @@ slug: "zinciriye-cesmesi"
 description: "## Zinciriye Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.739826,37.313987"
 draft: "false"
 weight: "999"

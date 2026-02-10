@@ -5,10 +5,10 @@ slug: "baba-pinari-cesmesi"
 description: "## Baba Pınarı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5530777,38.9745598"
 draft: "false"
 weight: "999"

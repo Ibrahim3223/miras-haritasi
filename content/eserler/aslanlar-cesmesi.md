@@ -5,10 +5,10 @@ slug: "aslanlar-cesmesi"
 description: "## Aslanlar Çeşmesi: Safranbolu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Aslanlar_Çeşmesi.jpg/1200px-Aslanlar_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6722221,41.2589684"
 draft: "false"
 weight: "10"

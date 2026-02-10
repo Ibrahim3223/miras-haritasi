@@ -5,10 +5,10 @@ slug: "corbaci-cesmesi"
 description: "## Çorbacı Çeşmesi: Çorum'un Tarihî Çeşmesindeki Gizem..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Çorbacı_Fountain_(1).jpg/1200px-Çorbacı_Fountain_(1).jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9580994,40.5478249"
 draft: "false"
 weight: "999"

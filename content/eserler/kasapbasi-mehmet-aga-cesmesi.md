@@ -5,10 +5,10 @@ slug: "kasapbasi-mehmet-aga-cesmesi"
 description: "## Kasapbaşı Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.969194,41.003403"
 draft: "false"
 weight: "999"

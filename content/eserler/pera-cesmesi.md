@@ -5,10 +5,10 @@ slug: "pera-cesmesi"
 description: "## Pera Çeşmesi: Marmara'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5990314,40.5811539"
 draft: "false"
 weight: "999"

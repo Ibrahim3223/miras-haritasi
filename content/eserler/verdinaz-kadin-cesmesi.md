@@ -5,10 +5,10 @@ slug: "verdinaz-kadin-cesmesi"
 description: "## Verdinaz Kadın Çeşmesi: Beyoğlu'ndaki Bir Kent Edebiyatı İkoni..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Verdinaz_Kadın_Çeşmesi.jpg/1200px-Verdinaz_Kadın_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971376,41.022432"
 draft: "false"
 weight: "10"

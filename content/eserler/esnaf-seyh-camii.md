@@ -4,8 +4,7 @@ date: "2025-12-24T23:01:33+03:00"
 slug: "esnaf-seyh-camii"
 description: "## Esnaf Şeyh Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

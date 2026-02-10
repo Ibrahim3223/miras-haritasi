@@ -5,10 +5,10 @@ slug: "tevfik-bey-cesmesi"
 description: "## Tevfik Bey Çeşmesi: Fatih'in Saksı Çeşmesinde Bir Çeşme Örneği..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Tevfik_Bey_Fountain,_Fatih,_Istanbul.jpg/1200px-Tevfik_Bey_Fountain,_Fatih,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972586,41.004204"
 draft: "false"
 weight: "10"

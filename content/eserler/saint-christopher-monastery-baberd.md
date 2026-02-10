@@ -4,8 +4,7 @@ date: "2025-12-25T09:49:26+03:00"
 slug: "saint-christopher-monastery-baberd"
 description: "## Saint Christopher Manastırı (Baberd)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

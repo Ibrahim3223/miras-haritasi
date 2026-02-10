@@ -5,10 +5,10 @@ slug: "araba-meydani-cesmesi"
 description: "#### Araba Meydanı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Üsküdar_-_Car_Square_Fountain_-_20250405122206.jpg/1200px-Üsküdar_-_Car_Square_Fountain_-_20250405122206.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0443459,41.0435448"
 draft: "false"
 weight: "10"

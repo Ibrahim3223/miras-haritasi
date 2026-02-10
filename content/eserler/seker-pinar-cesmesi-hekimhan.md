@@ -5,10 +5,10 @@ slug: "seker-pinar-cesmesi-hekimhan"
 description: "## Şeker Pınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.891974168,38.958067493"
 draft: "false"
 weight: "999"

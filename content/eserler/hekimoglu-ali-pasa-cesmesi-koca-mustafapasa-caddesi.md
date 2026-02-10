@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-cesmesi-koca-mustafapasa-caddesi"
 description: "## Hekimoğlu Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9349117,41.0048714"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:35+03:00"
 slug: "sircan-tepe-hoyugu"
 description: "### Sırçan Tepe Höyüğü: Türkiye'nin En Önemli Arkeolojik Sitlerinden Birisi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

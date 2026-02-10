@@ -5,10 +5,10 @@ slug: "cesme-susuzbag-sokak"
 description: "## Üsküdar'da Bir Çeşme: Susuzbağ Sokak'nın Gizemi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0205135,41.0297623"
 draft: "false"
 weight: "999"

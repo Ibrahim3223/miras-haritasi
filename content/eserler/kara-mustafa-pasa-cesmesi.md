@@ -5,10 +5,10 @@ slug: "kara-mustafa-pasa-cesmesi"
 description: "### Kara Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.965247,41.017911"
 draft: "false"
 weight: "999"

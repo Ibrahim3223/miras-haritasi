@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-ortakoy-merkez"
 description: "## Havuzlu Çeşme, Ortaköy Merkez..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3750648,41.1017876"
 draft: "false"
 weight: "999"

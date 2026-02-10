@@ -5,10 +5,10 @@ slug: "eski-hamam-cesmesi"
 description: "## Eski Hamam Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.012308,41.024071"
 draft: "false"
 weight: "999"

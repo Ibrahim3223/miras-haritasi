@@ -5,10 +5,10 @@ slug: "avutmus-koyu-cesmesi"
 description: "### Avutmuş Köyü Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.4595184,40.3054848"
 draft: "false"
 weight: "999"

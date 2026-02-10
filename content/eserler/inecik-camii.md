@@ -4,8 +4,7 @@ date: "2025-12-24T23:36:25+03:00"
 slug: "inecik-camii"
 description: "## İnecik Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

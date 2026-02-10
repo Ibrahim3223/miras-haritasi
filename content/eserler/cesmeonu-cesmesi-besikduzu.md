@@ -5,10 +5,10 @@ slug: "cesmeonu-cesmesi-besikduzu"
 description: "## Çeşmeönü Çeşmesi Beşikdüzü..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Beşikdüzü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.208091,41.065374"
 draft: "false"
 weight: "999"

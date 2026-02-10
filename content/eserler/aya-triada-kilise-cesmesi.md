@@ -5,10 +5,10 @@ slug: "aya-triada-kilise-cesmesi"
 description: "### Aya Triada Kilise Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6950016,39.3137321"
 draft: "false"
 weight: "999"

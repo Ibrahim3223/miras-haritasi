@@ -5,10 +5,10 @@ slug: "osmaniye-mahallesi-cesmesi"
 description: "# Osmaniye Mahallesi Çeşmesi: Ankara'nın Gizli Cenneti..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8577423,39.947628"
 draft: "false"
 weight: "999"

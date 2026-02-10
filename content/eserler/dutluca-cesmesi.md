@@ -5,10 +5,10 @@ slug: "dutluca-cesmesi"
 description: "## Dutluca Çeşmesi: Sincan'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5422325,40.0961227"
 draft: "false"
 weight: "999"

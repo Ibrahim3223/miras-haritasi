@@ -4,8 +4,7 @@ date: "2025-12-25T00:22:37+03:00"
 slug: "bakkalzade-mescidi"
 description: "## Bakkalzade Mescidi: Geçmişin Eserleri ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

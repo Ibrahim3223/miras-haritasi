@@ -5,10 +5,10 @@ slug: "haci-mustafa-efendi-cesmesi"
 description: "## Hacı Mustafa Efendi Çeşmesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.042567,41.161333"
 draft: "false"
 weight: "999"

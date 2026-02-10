@@ -5,10 +5,10 @@ slug: "mustafa-pasa-cesmesi"
 description: "## Mustafa Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Mustafa_Paşa_Çeşmesi,_Üsküdar,_İstanbul.jpg/1200px-Mustafa_Paşa_Çeşmesi,_Üsküdar,_İstanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.012355238,41.022577717"
 draft: "false"
 weight: "10"

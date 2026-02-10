@@ -5,10 +5,10 @@ slug: "aci-kuyu-cesmesi"
 description: "### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3908539,38.4129601"
 draft: "false"
 weight: "999"

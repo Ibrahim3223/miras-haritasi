@@ -5,10 +5,10 @@ slug: "merkez-efendi-camii-sadirvani"
 description: "### Merkez Efendi Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.920269,41.0161057"
 draft: "false"
 weight: "999"

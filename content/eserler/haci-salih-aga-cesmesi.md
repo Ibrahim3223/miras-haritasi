@@ -5,10 +5,10 @@ slug: "haci-salih-aga-cesmesi"
 description: "# Hacı Salih Ağa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6089993,37.728138"
 draft: "false"
 weight: "999"

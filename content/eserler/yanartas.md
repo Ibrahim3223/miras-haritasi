@@ -4,8 +4,7 @@ date: "2025-12-25T06:51:12+03:00"
 slug: "yanartas"
 description: "## Yanartaş: Tarihinin Gizemi ve Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Chimaera-Yanartas,_SW_Turkey,_8_Aug_2005.jpg/1200px-Chimaera-Yanartas,_SW_Turkey,_8_Aug_2005.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

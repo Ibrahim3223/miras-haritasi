@@ -4,8 +4,7 @@ date: "2025-12-25T09:51:00+03:00"
 slug: "zuknin-manastiri"
 description: "## Zuknin Manastırı: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

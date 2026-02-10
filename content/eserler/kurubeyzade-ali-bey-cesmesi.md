@@ -5,10 +5,10 @@ slug: "kurubeyzade-ali-bey-cesmesi"
 description: "## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kurubeyzade_Ali_Bey_Çeşmesi.jpg/1200px-Kurubeyzade_Ali_Bey_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6922607,41.2466278"
 draft: "false"
 weight: "10"

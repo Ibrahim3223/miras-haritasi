@@ -4,8 +4,7 @@ date: "2025-12-25T01:56:51+03:00"
 slug: "tasgecit-koprusu"
 description: "# Taşgeçit Köprüsü: Bir Tarihî Köprünin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Main_arch_of_Taşgeçit_Bridge_from_south_west.jpg/1200px-Main_arch_of_Taşgeçit_Bridge_from_south_west.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

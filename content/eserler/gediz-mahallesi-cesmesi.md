@@ -5,10 +5,10 @@ slug: "gediz-mahallesi-cesmesi"
 description: "### Gediz Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4366913,38.6073227"
 draft: "false"
 weight: "999"

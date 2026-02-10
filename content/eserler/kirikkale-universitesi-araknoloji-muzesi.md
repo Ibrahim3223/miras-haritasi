@@ -4,8 +4,7 @@ date: "2025-12-25T03:12:11+03:00"
 slug: "kirikkale-universitesi-araknoloji-muzesi"
 description: "**Kırıkkale Üniversitesi Araknoloji Müzesi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

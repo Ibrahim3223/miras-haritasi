@@ -5,10 +5,10 @@ slug: "abdulcebbar-cesmesi-kastamonu"
 description: "## Abdülcebbar Çeşmesi: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.782822185,41.377801443"
 draft: "false"
 weight: "999"

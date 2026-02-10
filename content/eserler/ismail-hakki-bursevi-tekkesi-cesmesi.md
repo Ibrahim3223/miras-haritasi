@@ -5,10 +5,10 @@ slug: "ismail-hakki-bursevi-tekkesi-cesmesi"
 description: "### İsmail Hakkı Bursevi Tekkesi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0655861,40.1862679"
 draft: "false"
 weight: "999"

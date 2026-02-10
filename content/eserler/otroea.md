@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:42+03:00"
 slug: "otroea"
 description: "## Otroea: Ege Denizi'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

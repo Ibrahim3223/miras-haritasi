@@ -4,8 +4,7 @@ date: "2025-12-25T07:06:44+03:00"
 slug: "karatas-semayuk"
 description: "## Karataş - Semayük Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

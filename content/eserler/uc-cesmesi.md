@@ -5,10 +5,10 @@ slug: "uc-cesmesi"
 description: "## Uç Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5583954,38.945591"
 draft: "false"
 weight: "999"

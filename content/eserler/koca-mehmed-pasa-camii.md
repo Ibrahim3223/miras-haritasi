@@ -4,8 +4,7 @@ date: "2025-12-24T22:23:37+03:00"
 slug: "koca-mehmed-pasa-camii"
 description: "## Koca Mehmed Paşa Camii: Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

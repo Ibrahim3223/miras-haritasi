@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:15+03:00"
 slug: "horum-hoyuk"
 description: "### Horum Höyük: Geçmişten Günümüze Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

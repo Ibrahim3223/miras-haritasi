@@ -5,10 +5,10 @@ slug: "ibnul-emin-ahmed-aga-cesmesi"
 description: "## İbnü'l-Emin Ahmed Ağa Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/İbn'ül_Emin_Ahmet_Ağa_Çeşmesi.JPG/1200px-İbn'ül_Emin_Ahmet_Ağa_Çeşmesi.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.017722222,41.017916666"
 draft: "false"
 weight: "10"

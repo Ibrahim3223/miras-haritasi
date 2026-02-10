@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:11+03:00"
 slug: "selimpasa-hoyugu"
 description: "## Selimpaşa Höyüğü: İstanbul'un Eski Yerleşim Yeri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

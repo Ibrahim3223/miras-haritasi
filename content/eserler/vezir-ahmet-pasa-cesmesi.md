@@ -5,10 +5,10 @@ slug: "vezir-ahmet-pasa-cesmesi"
 description: "## Vezir Ahmet Paşa Çeşmesi: Fatih'ten Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9557686,41.0135956"
 draft: "false"
 weight: "999"

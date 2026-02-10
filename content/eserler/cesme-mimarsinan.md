@@ -5,10 +5,10 @@ slug: "cesme-mimarsinan"
 description: "## Çeşme, Mimarsinan: Büyükçekmece'nin Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Mimarsinan_Çeşmesi.jpg/1200px-Mimarsinan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5552273,41.0168877"
 draft: "false"
 weight: "10"

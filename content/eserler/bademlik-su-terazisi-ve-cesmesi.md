@@ -5,10 +5,10 @@ slug: "bademlik-su-terazisi-ve-cesmesi"
 description: "## Bademlik Su Terazisi ve Çeşmesi: Edirne'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Bademlik_Su_Terazisi_ve_Çeşmesi_36.JPG/1200px-Bademlik_Su_Terazisi_ve_Çeşmesi_36.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.539854,41.6874886"
 draft: "false"
 weight: "10"

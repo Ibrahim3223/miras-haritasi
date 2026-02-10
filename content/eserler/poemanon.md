@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:58+03:00"
 slug: "poemanon"
 description: "## Poemanen Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

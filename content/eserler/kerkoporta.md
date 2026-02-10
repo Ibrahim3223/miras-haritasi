@@ -4,8 +4,7 @@ date: "2025-12-25T13:43:23+03:00"
 slug: "kerkoporta"
 description: "## Kerkoporta: Anadolu'nun Gizemli Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Constantinoplewalls1.jpg/1200px-Constantinoplewalls1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

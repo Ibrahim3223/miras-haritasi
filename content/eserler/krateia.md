@@ -4,8 +4,7 @@ date: "2025-12-25T04:22:21+03:00"
 slug: "krateia"
 description: "## Krateia Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

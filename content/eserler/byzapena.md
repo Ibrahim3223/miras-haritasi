@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:16+03:00"
 slug: "byzapena"
 description: "### Byzapena: Geç Antik Dönemde Bir Roma Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

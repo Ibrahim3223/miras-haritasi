@@ -4,8 +4,7 @@ date: "2025-12-25T04:00:40+03:00"
 slug: "mardin-yasayan-muze"
 description: "## Mardin Yaşayan Müze..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

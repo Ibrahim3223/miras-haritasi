@@ -5,10 +5,10 @@ slug: "iii-osman-cesmesi"
 description: "### III. Osman Çeşmesi: Fatih'te Bir Altın Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9699898,41.0100403"
 draft: "false"
 weight: "999"

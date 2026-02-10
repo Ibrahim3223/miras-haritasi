@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:11+03:00"
 slug: "sadagolthina"
 description: "# Sadagolthina: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

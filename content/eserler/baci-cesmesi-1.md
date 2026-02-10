@@ -5,10 +5,10 @@ slug: "baci-cesmesi-1"
 description: "## Bacı Çeşmesi 1: Sincan'ın Tarih Özellikli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.2896576,39.7875633"
 draft: "false"
 weight: "999"

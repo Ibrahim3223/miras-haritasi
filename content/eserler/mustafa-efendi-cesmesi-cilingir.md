@@ -5,10 +5,10 @@ slug: "mustafa-efendi-cesmesi-cilingir"
 description: "### Mustafa Efendi Çeşmesi, Çilingir..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Mustafa_Efendi_Çeşmesi,_Çilingir_IMG_7169.jpg/1200px-Mustafa_Efendi_Çeşmesi,_Çilingir_IMG_7169.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Arnavutköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6776695,41.1904755"
 draft: "false"
 weight: "10"

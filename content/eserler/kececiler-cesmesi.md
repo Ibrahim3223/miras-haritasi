@@ -5,10 +5,10 @@ slug: "kececiler-cesmesi"
 description: "## Keçeciler Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936056,41.022038"
 draft: "false"
 weight: "999"

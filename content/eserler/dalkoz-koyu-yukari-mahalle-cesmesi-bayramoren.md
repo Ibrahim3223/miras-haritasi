@@ -5,10 +5,10 @@ slug: "dalkoz-koyu-yukari-mahalle-cesmesi-bayramoren"
 description: "## Dalkoz Köyü Yukarı Mahalle Çeşmesi: Bayramören'in Tarihî Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.233403228,40.947506208"
 draft: "false"
 weight: "999"

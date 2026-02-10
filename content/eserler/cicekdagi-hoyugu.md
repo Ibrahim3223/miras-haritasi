@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:01+03:00"
 slug: "cicekdagi-hoyugu"
 description: "# Çiçekdağı Höyüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

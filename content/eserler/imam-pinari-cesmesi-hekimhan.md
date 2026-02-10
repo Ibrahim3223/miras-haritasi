@@ -5,10 +5,10 @@ slug: "imam-pinari-cesmesi-hekimhan"
 description: "## İmam Pınarı Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.933379493,38.818466714"
 draft: "false"
 weight: "999"

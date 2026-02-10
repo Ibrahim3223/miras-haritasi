@@ -5,10 +5,10 @@ slug: "mehmet-aga-sebili-binbirdirek"
 description: "## Mehmet Ağa Sebili: Binbirdirek'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976181,41.0079613"
 draft: "false"
 weight: "999"

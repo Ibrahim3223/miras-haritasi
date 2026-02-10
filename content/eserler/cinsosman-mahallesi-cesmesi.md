@@ -5,10 +5,10 @@ slug: "cinsosman-mahallesi-cesmesi"
 description: "## Cinsosman Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6683578,39.1023293"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesme-halilbeyli"
 description: "## Halilbeyli Çeşmesi: Aydın'ın Eski Çağdan Kalan Değerli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7366333,37.7666283"
 draft: "false"
 weight: "999"

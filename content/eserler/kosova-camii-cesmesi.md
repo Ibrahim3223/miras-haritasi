@@ -5,10 +5,10 @@ slug: "kosova-camii-cesmesi"
 description: "## Kosova Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4993324,37.8617439"
 draft: "false"
 weight: "999"

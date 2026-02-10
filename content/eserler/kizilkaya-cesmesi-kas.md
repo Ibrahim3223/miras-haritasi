@@ -5,10 +5,10 @@ slug: "kizilkaya-cesmesi-kas"
 description: "## Kızılkaya Çeşmesi: Kaş'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6732,36.3439"
 draft: "false"
 weight: "999"

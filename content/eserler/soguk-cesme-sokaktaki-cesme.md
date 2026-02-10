@@ -5,10 +5,10 @@ slug: "soguk-cesme-sokaktaki-cesme"
 description: "## Soğuk Çeşme Sokaktaki Çeşme: Fatih'ten Bir Zeyil..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.980272,41.009358"
 draft: "false"
 weight: "999"

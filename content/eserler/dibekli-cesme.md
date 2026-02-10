@@ -5,10 +5,10 @@ slug: "dibekli-cesme"
 description: "## Dibekli Çeşme: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9543114,41.0125732"
 draft: "false"
 weight: "999"

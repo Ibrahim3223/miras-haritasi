@@ -5,10 +5,10 @@ slug: "piri-mehmet-pasa-camii-sadirvani"
 description: "# Piri Mehmet Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2453766,41.0736122"
 draft: "false"
 weight: "999"

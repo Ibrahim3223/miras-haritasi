@@ -5,10 +5,10 @@ slug: "safalan-cesmesi-kastamonu"
 description: "## Safalan Çeşmesi, Kastamonu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.782260839,41.384118511"
 draft: "false"
 weight: "999"

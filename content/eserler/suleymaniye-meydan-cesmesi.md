@@ -5,10 +5,10 @@ slug: "suleymaniye-meydan-cesmesi"
 description: "## Süleymaniye Meydan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Suleymaniye_Square_Fountain_20220315_(3).jpg/1200px-Suleymaniye_Square_Fountain_20220315_(3).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.963671,41.015182"
 draft: "false"
 weight: "1"

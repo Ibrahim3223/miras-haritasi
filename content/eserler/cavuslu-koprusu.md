@@ -4,8 +4,7 @@ date: "2025-12-25T02:05:09+03:00"
 slug: "cavuslu-koprusu"
 description: "## Çavuşlu Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-camii-sadirvani"
 description: "## Damat İbrahim Paşa Camii Şadırvanı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958251745,41.013086849"
 draft: "false"
 weight: "999"

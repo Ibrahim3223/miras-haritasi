@@ -4,8 +4,7 @@ date: "2025-12-25T08:55:18+03:00"
 slug: "fevkani-kilisesi"
 description: "## Fevkani Kilisesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nizip_2008_7431.jpg/1200px-Nizip_2008_7431.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -4,8 +4,7 @@ date: "2025-12-24T23:37:58+03:00"
 slug: "iskele-yahsi-bey-camii"
 description: "## İskele Yahşi Bey Camii: İzmir'in Tarihi Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "tahtatepen-camii-cesmesi"
 description: "## Tahtatepen Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4993439,37.8645325"
 draft: "false"
 weight: "999"

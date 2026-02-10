@@ -5,10 +5,10 @@ slug: "ayios-ioanis-prodromos-ayazmasi-fener"
 description: "### Ayios Ioanis Prodromos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.952364,41.0281792"
 draft: "false"
 weight: "999"

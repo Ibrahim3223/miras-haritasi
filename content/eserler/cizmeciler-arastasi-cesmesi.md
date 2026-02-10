@@ -4,11 +4,10 @@ date: "2025-12-25T10:06:06+03:00"
 slug: "cizmeciler-arastasi-cesmesi"
 description: "## Çizmeciler Arastası Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/334.12-Çizmeciler_Arastası_Çeşmesi-1849_01.jpg/1200px-334.12-Çizmeciler_Arastası_Çeşmesi-1849_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.17852222,39.12154722"
 draft: "false"
 weight: "10"

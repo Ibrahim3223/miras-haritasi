@@ -5,10 +5,10 @@ slug: "mehmet-emin-aga-cesmesi"
 description: "### Mehmet Emin Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.948858,41.018593"
 draft: "false"
 weight: "999"

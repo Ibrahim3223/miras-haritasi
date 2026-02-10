@@ -5,10 +5,10 @@ slug: "harmankasi-sokak-cesmesi"
 description: "### Harmankaşı Sokak Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7770538,41.3856735"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:16:19+03:00"
 slug: "istanbul"
 description: "## İstanbul: Bir İmparatorlukın Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Istanbul_Montage_2016.png/1200px-Istanbul_Montage_2016.png"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "beytul-malci-sokak-cesmesi"
 description: "## Beytül Malcı Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Beytül_Malcı_Sokak_Çeşmesi_IMG_7953.jpg/1200px-Beytül_Malcı_Sokak_Çeşmesi_IMG_7953.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.992351,41.035513"
 draft: "false"
 weight: "10"

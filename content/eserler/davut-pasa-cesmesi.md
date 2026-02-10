@@ -5,10 +5,10 @@ slug: "davut-pasa-cesmesi"
 description: "## Davut Paşa Çeşmesi: Cerrahpaşa'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.937393,41.006923"
 draft: "false"
 weight: "999"

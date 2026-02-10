@@ -5,10 +5,10 @@ slug: "cesme-gazipasa-ay-sokak-bergama"
 description: "## Çeşme – Gazipaşa, Ay Sokak, Bergama: Bergama'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/293.16-Ay_Sokak_Çeşmesi-19.yy.jpg/1200px-293.16-Ay_Sokak_Çeşmesi-19.yy.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.17806667,39.119775"
 draft: "false"
 weight: "10"

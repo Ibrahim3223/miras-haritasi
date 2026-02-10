@@ -5,10 +5,10 @@ slug: "kazli-cesme"
 description: "### Kazlı Çeşme: İstanbul'un Zeytinburnu'ndaki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/20240411_Kazlıçeşme_1_(cropped).jpg/1200px-20240411_Kazlıçeşme_1_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.914658626,40.990683327"
 draft: "false"
 weight: "10"

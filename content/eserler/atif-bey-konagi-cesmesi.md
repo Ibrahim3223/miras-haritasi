@@ -5,10 +5,10 @@ slug: "atif-bey-konagi-cesmesi"
 description: "### Atıf Bey Konağı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Atıf_Bey_Konağı_Çeşmesi.jpg/1200px-Atıf_Bey_Konağı_Çeşmesi.jpg"
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.861525977,39.948874303"
 draft: "false"
 weight: "10"

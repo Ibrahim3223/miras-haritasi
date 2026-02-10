@@ -5,10 +5,10 @@ slug: "kethuda-cesmesi"
 description: "## Kethüda Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Kethüda_Çeşmesi_IMG_8714.jpg/1200px-Kethüda_Çeşmesi_IMG_8714.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.086405,41.1371"
 draft: "false"
 weight: "10"

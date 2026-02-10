@@ -5,10 +5,10 @@ slug: "candir-camii-cesmesi"
 description: "## Çandır Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4816551,38.7260475"
 draft: "false"
 weight: "999"

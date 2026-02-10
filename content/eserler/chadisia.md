@@ -4,8 +4,7 @@ date: "2025-12-25T04:50:19+03:00"
 slug: "chadisia"
 description: "# Chadisia: Kayıtsız Kalmış Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

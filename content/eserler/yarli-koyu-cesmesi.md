@@ -5,10 +5,10 @@ slug: "yarli-koyu-cesmesi"
 description: "## Yarlı Köyü Çeşmesi: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Hayrat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.3384514,40.9033089"
 draft: "false"
 weight: "999"

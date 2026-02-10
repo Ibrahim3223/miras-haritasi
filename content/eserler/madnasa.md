@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:28+03:00"
 slug: "madnasa"
 description: "### Madnasa: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

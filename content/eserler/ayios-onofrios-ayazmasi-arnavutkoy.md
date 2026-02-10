@@ -5,10 +5,10 @@ slug: "ayios-onofrios-ayazmasi-arnavutkoy"
 description: "## Ayios Onofrios Ayazması: Beşiktaş'taki Bir Azizin Hazine..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0394402,41.0667839"
 draft: "false"
 weight: "999"

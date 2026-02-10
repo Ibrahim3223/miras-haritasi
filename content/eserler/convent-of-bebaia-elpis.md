@@ -4,8 +4,7 @@ date: "2025-12-25T09:56:45+03:00"
 slug: "convent-of-bebaia-elpis"
 description: "### Bebaia Elpis Manastırı: Bir Azizin Ruhuna Adanmış Ortam..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

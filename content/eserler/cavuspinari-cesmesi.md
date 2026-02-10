@@ -5,10 +5,10 @@ slug: "cavuspinari-cesmesi"
 description: "## Çavuşpınarı Çeşmesi: Şebinkarahisar'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.4347382,40.3271523"
 draft: "false"
 weight: "999"

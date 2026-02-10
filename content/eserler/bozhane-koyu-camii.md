@@ -4,8 +4,7 @@ date: "2025-12-24T22:48:59+03:00"
 slug: "bozhane-koyu-camii"
 description: "**Bozhane Köyü Camii: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

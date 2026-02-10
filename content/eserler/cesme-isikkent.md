@@ -5,10 +5,10 @@ slug: "cesme-isikkent"
 description: "### Işıkkent Çeşmesi: Bornova, İzmir'de Bir Altın Değer..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2318668,38.4238205"
 draft: "false"
 weight: "999"

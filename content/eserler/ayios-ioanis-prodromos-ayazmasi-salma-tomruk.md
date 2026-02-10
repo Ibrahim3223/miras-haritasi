@@ -5,10 +5,10 @@ slug: "ayios-ioanis-prodromos-ayazmasi-salma-tomruk"
 description: "# Ayios Ioanis Prodromos Ayazması, Salma Tomruk..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9394608,41.0300789"
 draft: "false"
 weight: "999"

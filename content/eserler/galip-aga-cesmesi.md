@@ -5,10 +5,10 @@ slug: "galip-aga-cesmesi"
 description: "## Galip Ağa Çeşmesi: Darıca'nın Tarihi Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Darıca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.383707,40.7588272"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cerrah-mehmet-pasa-camii-sadirvani"
 description: "## Cerrah Mehmet Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9447595,41.0077761"
 draft: "false"
 weight: "999"

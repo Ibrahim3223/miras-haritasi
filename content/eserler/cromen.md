@@ -4,8 +4,7 @@ date: "2025-12-25T05:43:51+03:00"
 slug: "cromen"
 description: "## Ege'nin Gizli Şehri: Cromen..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

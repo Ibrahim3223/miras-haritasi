@@ -5,10 +5,10 @@ slug: "boyaci-kapisi-cesmesi"
 description: "## Boyacı Kapısı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.949225,41.0206544"
 draft: "false"
 weight: "999"

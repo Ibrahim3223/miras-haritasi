@@ -4,8 +4,7 @@ date: "2025-12-24T21:46:19+03:00"
 slug: "emirgan-hamid-i-evvel-camii"
 description: "## Emirgan Hamid-i Evvel Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İstanbul_-_Emirgan_Hamid-i_Evvel_Camii_2_-_Şub_2013.JPG/1200px-İstanbul_-_Emirgan_Hamid-i_Evvel_Camii_2_-_Şub_2013.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

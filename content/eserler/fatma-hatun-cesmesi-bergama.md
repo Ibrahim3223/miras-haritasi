@@ -5,10 +5,10 @@ slug: "fatma-hatun-cesmesi-bergama"
 description: "## Fatma Hatun Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1737995,39.1183014"
 draft: "false"
 weight: "999"

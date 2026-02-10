@@ -5,10 +5,10 @@ slug: "alimezari-cesmesi"
 description: "## Alimezarı Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3719997,37.7750015"
 draft: "false"
 weight: "999"

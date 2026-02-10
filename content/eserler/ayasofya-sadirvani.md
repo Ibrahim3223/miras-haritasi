@@ -5,10 +5,10 @@ slug: "ayasofya-sadirvani"
 description: "### Ayasofya Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ayasofya_Şadırvanı_genel_görüntü.jpg/1200px-Ayasofya_Şadırvanı_genel_görüntü.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978989,41.008297"
 draft: "false"
 weight: "1"

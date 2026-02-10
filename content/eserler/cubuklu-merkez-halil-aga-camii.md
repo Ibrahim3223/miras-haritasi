@@ -4,8 +4,7 @@ date: "2025-12-24T22:51:56+03:00"
 slug: "cubuklu-merkez-halil-aga-camii"
 description: "## Çubuklu Merkez Halil Ağa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

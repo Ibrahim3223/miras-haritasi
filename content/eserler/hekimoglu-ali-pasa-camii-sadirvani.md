@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-camii-sadirvani"
 description: "### Hekimoğlu Ali Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9351826,41.006485"
 draft: "false"
 weight: "999"

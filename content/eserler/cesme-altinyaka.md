@@ -5,10 +5,10 @@ slug: "cesme-altinyaka"
 description: "### Kumluca'daki Çeşme, Altınyaka..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kumluca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.369,36.5798"
 draft: "false"
 weight: "999"

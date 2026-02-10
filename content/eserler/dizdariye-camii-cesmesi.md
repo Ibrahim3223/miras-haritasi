@@ -5,10 +5,10 @@ slug: "dizdariye-camii-cesmesi"
 description: "### Dizdariye Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971615,41.006147"
 draft: "false"
 weight: "999"

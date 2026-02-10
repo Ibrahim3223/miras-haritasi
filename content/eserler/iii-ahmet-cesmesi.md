@@ -5,10 +5,10 @@ slug: "iii-ahmet-cesmesi"
 description: "### III. Ahmet Çeşmesi: Fatih'te Bir Büyüklük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Brunnen_Sultan_Ahmet_III.JPG/1200px-Brunnen_Sultan_Ahmet_III.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.98121111,41.00825278"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "mahmud-efendi-cesmesi"
 description: "**Mahmud Efendi Çeşmesi: Beyoğlu'ndaki Bir Zıtınlıklı Çeşme**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mahmud_Efendi_Çeşmesi.jpg/1200px-Mahmud_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941277777,41.049027777"
 draft: "false"
 weight: "10"

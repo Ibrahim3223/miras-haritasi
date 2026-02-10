@@ -5,10 +5,10 @@ slug: "kuyucu-murat-pasa-medresesi-sebili"
 description: "**Kuyucu Murat Paşa Medresesi Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.960343,41.011372"
 draft: "false"
 weight: "999"

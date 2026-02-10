@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:52+03:00"
 slug: "meiros"
 description: "### Meiros Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

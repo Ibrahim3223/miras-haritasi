@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:58+03:00"
 slug: "colbasa"
 description: "## Colbasa: Kapadokya'nın Gizemli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

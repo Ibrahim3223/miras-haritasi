@@ -5,10 +5,10 @@ slug: "agios-georgios-cesmesi"
 description: "## Agios Georgios Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5981274,40.5804291"
 draft: "false"
 weight: "999"

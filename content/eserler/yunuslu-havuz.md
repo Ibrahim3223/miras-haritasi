@@ -5,10 +5,10 @@ slug: "yunuslu-havuz"
 description: "### Yunuslu Havuzu: İzmirlinin Gözde Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Lunapark,_İzmir,_Türkiye_-_panoramio.jpg/1200px-Lunapark,_İzmir,_Türkiye_-_panoramio.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.144416666,38.426"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "atik-ibrahim-pasa-avlu-duvari-cesmesi"
 description: "## Atik İbrahim Paşa Avlu Duvarı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967718,41.014676"
 draft: "false"
 weight: "999"

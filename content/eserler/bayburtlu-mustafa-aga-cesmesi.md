@@ -5,10 +5,10 @@ slug: "bayburtlu-mustafa-aga-cesmesi"
 description: "**Bayburtlu Mustafa Ağa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929205,41.046594"
 draft: "false"
 weight: "999"

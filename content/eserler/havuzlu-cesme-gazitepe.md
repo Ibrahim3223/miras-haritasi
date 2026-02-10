@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-gazitepe"
 description: "## Havuzlu Çeşme, Gazitepe: Silivri'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3236923,41.1289177"
 draft: "false"
 weight: "999"

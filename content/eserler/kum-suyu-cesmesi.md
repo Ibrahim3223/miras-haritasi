@@ -5,10 +5,10 @@ slug: "kum-suyu-cesmesi"
 description: "## Kum Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.069042,41.122364"
 draft: "false"
 weight: "999"

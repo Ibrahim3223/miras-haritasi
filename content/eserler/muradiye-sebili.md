@@ -5,10 +5,10 @@ slug: "muradiye-sebili"
 description: "## Muradiye Sebili: İstanbul'un Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/20250816_Muradiye_Sebili.jpg/1200px-20250816_Muradiye_Sebili.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976707,41.014015"
 draft: "false"
 weight: "10"

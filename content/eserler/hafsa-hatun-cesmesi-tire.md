@@ -5,10 +5,10 @@ slug: "hafsa-hatun-cesmesi-tire"
 description: "# Hafsa Hatun Çeşmesi: Tarih ve Sanatın Edepsiz Bir Örneği..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7503052,38.0871468"
 draft: "false"
 weight: "999"

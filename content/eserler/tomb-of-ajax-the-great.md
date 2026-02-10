@@ -4,8 +4,7 @@ date: "2025-12-25T15:09:02+03:00"
 slug: "tomb-of-ajax-the-great"
 description: "### Tomb of Ajax the Great..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

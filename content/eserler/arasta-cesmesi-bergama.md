@@ -5,10 +5,10 @@ slug: "arasta-cesmesi-bergama"
 description: "### Arasta Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.179285,39.1212311"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:20:54+03:00"
 slug: "madamyssos"
 description: "## Madamyssos: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

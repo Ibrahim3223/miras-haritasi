@@ -5,10 +5,10 @@ slug: "serif-aga-cesmesi-cesme"
 description: "### Şerif Ağa Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3080997,38.3064003"
 draft: "false"
 weight: "999"

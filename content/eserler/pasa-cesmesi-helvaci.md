@@ -5,10 +5,10 @@ slug: "pasa-cesmesi-helvaci"
 description: "# Paşa Çeşmesi, Helvacı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Aliağa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9589005,38.6861992"
 draft: "false"
 weight: "999"

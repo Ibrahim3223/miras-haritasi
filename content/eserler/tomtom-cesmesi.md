@@ -5,10 +5,10 @@ slug: "tomtom-cesmesi"
 description: "## Tomtom Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979053,41.030434"
 draft: "false"
 weight: "999"

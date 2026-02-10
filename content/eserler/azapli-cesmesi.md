@@ -5,10 +5,10 @@ slug: "azapli-cesmesi"
 description: "# Azaplı Çeşmesi: Aydın'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0953999,37.9099007"
 draft: "false"
 weight: "999"

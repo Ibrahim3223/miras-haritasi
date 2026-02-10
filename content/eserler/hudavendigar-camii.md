@@ -4,8 +4,7 @@ date: "2025-12-25T01:02:32+03:00"
 slug: "hudavendigar-camii"
 description: "### Hudavendigar Camii: Osmanlı İmparatorluğu'nun Altın Çağının Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

@@ -4,8 +4,7 @@ date: "2025-12-25T01:56:58+03:00"
 slug: "sakarya-viyadugu"
 description: "## Sakarya Viyadüğü: Tarihi ve Kültür Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

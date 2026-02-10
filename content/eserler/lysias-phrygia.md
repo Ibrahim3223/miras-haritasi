@@ -4,8 +4,7 @@ date: "2025-12-25T04:33:19+03:00"
 slug: "lysias-phrygia"
 description: "### Lysias, Phrygia: Fethedilmiş Kahramanların Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

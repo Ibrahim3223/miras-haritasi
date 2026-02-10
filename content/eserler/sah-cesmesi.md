@@ -5,10 +5,10 @@ slug: "sah-cesmesi"
 description: "## Şah Çeşmesi: İstanbul'un Sanki Zamanı Durmuş Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.001621,41.062538"
 draft: "false"
 weight: "999"

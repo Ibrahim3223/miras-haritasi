@@ -5,10 +5,10 @@ slug: "suleyman-halife-sibyan-mektebi-cesmesi"
 description: "## Süleyman Halife Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9516487,41.0138779"
 draft: "false"
 weight: "999"

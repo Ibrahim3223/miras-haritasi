@@ -5,10 +5,10 @@ slug: "kaptaniderya-ve-sadrazam-cezayirli-gazi-hasan-pasa-cesmesi"
 description: "**Kaptanıderya Ve Sadrazam Cezayirli Gazi Hasan Paşa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0185604,41.047081"
 draft: "false"
 weight: "999"

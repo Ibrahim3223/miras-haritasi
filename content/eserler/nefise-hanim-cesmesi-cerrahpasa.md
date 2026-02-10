@@ -5,10 +5,10 @@ slug: "nefise-hanim-cesmesi-cerrahpasa"
 description: "## Nefise Hanım Çeşmesi: Cerrahpaşa'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Nefise_Hanım_Çeşmesi,_Cerrahpaşa.jpg/1200px-Nefise_Hanım_Çeşmesi,_Cerrahpaşa.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941753,41.0033"
 draft: "false"
 weight: "10"

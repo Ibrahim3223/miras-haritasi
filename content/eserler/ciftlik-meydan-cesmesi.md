@@ -5,10 +5,10 @@ slug: "ciftlik-meydan-cesmesi"
 description: "## Çiftlik Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2783718,38.2908592"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "catal-cesmesi"
 description: "## Çatal Çeşmesi: Ferhatpaşa'daki Tarihi Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4634361,41.1414337"
 draft: "false"
 weight: "999"

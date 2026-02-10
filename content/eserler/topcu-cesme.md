@@ -5,10 +5,10 @@ slug: "topcu-cesme"
 description: "### Topçu Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.918047,40.7669907"
 draft: "false"
 weight: "999"

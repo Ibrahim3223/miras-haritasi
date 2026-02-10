@@ -5,10 +5,10 @@ slug: "sevknihal-usta-cesmesi"
 description: "## Şevknihal Usta Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Evknihal_Usta_emesi_1761587333.jpg/1200px-Evknihal_Usta_emesi_1761587333.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sancaktepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.211113,41.0060806"
 draft: "false"
 weight: "10"

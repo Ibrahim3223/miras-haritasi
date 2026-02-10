@@ -5,10 +5,10 @@ slug: "arap-cesme"
 description: "### Arap Çeşme..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Gebze (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4399624,40.8098373"
 draft: "false"
 weight: "999"

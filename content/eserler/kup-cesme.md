@@ -5,10 +5,10 @@ slug: "kup-cesme"
 description: "## Küp Çeşme: Afyonkarahisar'ın Büyüleyici Tarihi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5395832,38.7537079"
 draft: "false"
 weight: "999"

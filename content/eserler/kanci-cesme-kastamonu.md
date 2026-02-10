@@ -5,10 +5,10 @@ slug: "kanci-cesme-kastamonu"
 description: "# Kancı Çeşme: Kastamonu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.78056276,41.377920717"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esref-bey-cesmesi"
 description: "## Eşref Bey Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.3860435,40.9195976"
 draft: "false"
 weight: "999"

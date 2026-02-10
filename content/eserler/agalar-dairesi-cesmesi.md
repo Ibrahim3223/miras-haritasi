@@ -5,10 +5,10 @@ slug: "agalar-dairesi-cesmesi"
 description: "## Ağalar Dairesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0256062,41.1194153"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koca-ragip-pasa-sebili"
 description: "## Koca Ragıp Paşa Sebili: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958669,41.009389"
 draft: "false"
 weight: "999"

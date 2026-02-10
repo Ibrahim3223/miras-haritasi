@@ -5,10 +5,10 @@ slug: "mehmet-ali-pasa-cesmesi"
 description: "## Mehmet Ali Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.068928,41.08365"
 draft: "false"
 weight: "999"

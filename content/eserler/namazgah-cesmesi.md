@@ -5,10 +5,10 @@ slug: "namazgah-cesmesi"
 description: "## Namazgah Çeşmesi: Bozcaada'nın Ebedi Mirası..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bozcaada"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.0711098,39.8329773"
 draft: "false"
 weight: "999"

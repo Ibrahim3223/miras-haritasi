@@ -4,8 +4,7 @@ date: "2025-12-25T07:12:37+03:00"
 slug: "perperene"
 description: "## Perperene: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:24:09+03:00"
 slug: "lampsakos-hazinesi"
 description: "# Lampsakos Hazinesi: Efsanevi Bir Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lapseki_Treasure_BM_(4).JPG/1200px-Lapseki_Treasure_BM_(4).JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

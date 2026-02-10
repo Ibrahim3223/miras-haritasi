@@ -5,10 +5,10 @@ slug: "dumanli-koyu-cesme-2"
 description: "## Dumanlı Köyü Çeşme 2: Tarihi ve Kültürel Mirasın Bir Parçasi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.800285,40.653303"
 draft: "false"
 weight: "999"

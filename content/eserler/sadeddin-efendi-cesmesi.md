@@ -5,10 +5,10 @@ slug: "sadeddin-efendi-cesmesi"
 description: "### Sadeddin Efendi Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8794651,39.6440773"
 draft: "false"
 weight: "999"

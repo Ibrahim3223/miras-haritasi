@@ -5,10 +5,10 @@ slug: "valide-kethudasi-cesmesi-uskudar"
 description: "## Valide Kethüdası Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Valide_Kethüdası_Çeşmesi.jpg/1200px-Valide_Kethüdası_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0229553,41.0260185"
 draft: "false"
 weight: "10"

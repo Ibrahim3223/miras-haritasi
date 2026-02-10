@@ -5,10 +5,10 @@ slug: "eyup-aga-cesmesi"
 description: "### Eyüp Ağa Çeşmesi: Kütahya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9792671,39.4201279"
 draft: "false"
 weight: "999"

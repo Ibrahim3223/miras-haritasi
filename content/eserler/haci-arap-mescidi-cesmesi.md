@@ -5,10 +5,10 @@ slug: "haci-arap-mescidi-cesmesi"
 description: "# Hacı Arap Mescidi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8639412,39.9367027"
 draft: "false"
 weight: "999"

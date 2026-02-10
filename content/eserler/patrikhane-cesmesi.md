@@ -5,10 +5,10 @@ slug: "patrikhane-cesmesi"
 description: "**Patrikhane Çeşmesi: Fatih'in Gizli Mihenk Noktası**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Patrikhane_Fountain_2.jpg/1200px-Patrikhane_Fountain_2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.95223,41.02897"
 draft: "false"
 weight: "10"

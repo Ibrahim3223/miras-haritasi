@@ -5,10 +5,10 @@ slug: "manastir-cesmesi"
 description: "# Manastır Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7284813,40.9981422"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "knidos-boulakrates-cesmesi"
 description: "## Knidos Boulakrates Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Datça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3730545,36.6864357"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:36:39+03:00"
 slug: "turkey-syria-border-crossing-346"
 description: "## Türkiye-Suriye Sınır Kavşağı #346 Kervansarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

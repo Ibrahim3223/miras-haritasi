@@ -5,10 +5,10 @@ slug: "coban-dede-cesmesi"
 description: "### Çoban Dede Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Çorlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7983456,41.1557388"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tuzluk-cesme"
 description: "## Tuzluk Çeşme: Beykoz'un Birincil Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.066149,41.081728"
 draft: "false"
 weight: "999"

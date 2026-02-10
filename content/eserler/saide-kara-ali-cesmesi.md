@@ -5,10 +5,10 @@ slug: "saide-kara-ali-cesmesi"
 description: "**Saide Kara Ali Çeşmesi: Silivri'nin Tarihi Bir Ölümsüzü**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2189751,41.0820312"
 draft: "false"
 weight: "999"

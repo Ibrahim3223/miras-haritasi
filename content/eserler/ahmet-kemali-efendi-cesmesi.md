@@ -5,10 +5,10 @@ slug: "ahmet-kemali-efendi-cesmesi"
 description: "**Ahmet Kemali Efendi Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/SARIYER_AHMET_KEMALİ_EFENDİ_ÇEŞMESİ.jpg/1200px-SARIYER_AHMET_KEMALİ_EFENDİ_ÇEŞMESİ.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.058386019,41.168972076"
 draft: "false"
 weight: "10"

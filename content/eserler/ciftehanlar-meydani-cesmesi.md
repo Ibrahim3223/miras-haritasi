@@ -5,10 +5,10 @@ slug: "ciftehanlar-meydani-cesmesi"
 description: "## Çiftehanlar Meydanı Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6722393,39.1025467"
 draft: "false"
 weight: "999"

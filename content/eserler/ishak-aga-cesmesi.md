@@ -5,10 +5,10 @@ slug: "ishak-aga-cesmesi"
 description: "## İshak Ağa Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ishak-aga-cesmesi-fountain.jpg/1200px-Ishak-aga-cesmesi-fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.092611111,41.134361111"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "halil-ozturk-hayrat-cesmesi"
 description: "## Halil Öztürk Hayrat Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.703227,38.364936"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kasikci-cesmesi"
 description: "## Kaşıkçı Çeşmesi: Tekirdağ'ın Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2289867,41.0258026"
 draft: "false"
 weight: "999"

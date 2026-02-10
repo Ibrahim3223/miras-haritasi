@@ -5,10 +5,10 @@ slug: "pasakoy-cesmesi-ve-camasirhane"
 description: "## Paşaköy Çeşmesi ve Çamaşırhane: Bergama'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3034,39.219101"
 draft: "false"
 weight: "999"

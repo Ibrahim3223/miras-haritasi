@@ -5,10 +5,10 @@ slug: "sarikiz-cesmesi-hekimhan"
 description: "## Sarıkız Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.843516495,38.845013869"
 draft: "false"
 weight: "999"

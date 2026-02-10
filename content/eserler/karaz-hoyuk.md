@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:08+03:00"
 slug: "karaz-hoyuk"
 description: "## Karaz Höyük: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

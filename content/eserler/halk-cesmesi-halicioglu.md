@@ -5,10 +5,10 @@ slug: "halk-cesmesi-halicioglu"
 description: "### Halk Çeşmesi, Halıcıoğlu: Beyoğlu'ndaki Bir İhtişam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Halk_Çeşmesi,_Halıcıoğlu_IMG_1071.jpg/1200px-Halk_Çeşmesi,_Halıcıoğlu_IMG_1071.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9453697,41.0457382"
 draft: "false"
 weight: "10"

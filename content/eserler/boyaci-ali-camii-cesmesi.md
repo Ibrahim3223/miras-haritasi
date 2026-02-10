@@ -5,10 +5,10 @@ slug: "boyaci-ali-camii-cesmesi"
 description: "### Boyacı Ali Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8608437,39.9374847"
 draft: "false"
 weight: "999"

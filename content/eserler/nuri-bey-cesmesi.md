@@ -5,10 +5,10 @@ slug: "nuri-bey-cesmesi"
 description: "## Nuri Bey Çeşmesi: Beşiktaş'ta Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Nuri_Bey_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg/1200px-Nuri_Bey_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.010587,41.045351"
 draft: "false"
 weight: "10"

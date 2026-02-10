@@ -5,10 +5,10 @@ slug: "italya-buyukelciligi-cesmeleri"
 description: "### İtalya Büyükelçiliği Çeşmeleri..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Çankaya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8582153,39.9044724"
 draft: "false"
 weight: "999"

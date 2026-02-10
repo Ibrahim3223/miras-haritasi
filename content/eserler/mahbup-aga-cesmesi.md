@@ -5,10 +5,10 @@ slug: "mahbup-aga-cesmesi"
 description: "**Mahbup Ağa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.039518,41.032701"
 draft: "false"
 weight: "999"

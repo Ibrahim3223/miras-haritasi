@@ -5,10 +5,10 @@ slug: "semsi-pasa-camii-cesmesi-2"
 description: "## Şemsi Paşa Camii Çeşmesi 2: Üsküdar'ın Güzelliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.010699,41.025814"
 draft: "false"
 weight: "999"

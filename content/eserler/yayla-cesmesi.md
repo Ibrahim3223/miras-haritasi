@@ -5,10 +5,10 @@ slug: "yayla-cesmesi"
 description: "## Yayla Çeşmesi: Aydın'ın Göz Alıcısı..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4461994,37.5895996"
 draft: "false"
 weight: "999"

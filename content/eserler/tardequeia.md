@@ -4,8 +4,7 @@ date: "2025-12-25T05:17:27+03:00"
 slug: "tardequeia"
 description: "## Tardequeia: Türkiye'nin Gizli Şehri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

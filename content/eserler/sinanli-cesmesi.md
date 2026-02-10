@@ -5,10 +5,10 @@ slug: "sinanli-cesmesi"
 description: "## Sinanlı Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.149083333,41.346638888"
 draft: "false"
 weight: "999"

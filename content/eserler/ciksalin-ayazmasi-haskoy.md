@@ -5,10 +5,10 @@ slug: "ciksalin-ayazmasi-haskoy"
 description: "## Çıksalın Ayazması, Hasköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9525661,41.048275"
 draft: "false"
 weight: "999"

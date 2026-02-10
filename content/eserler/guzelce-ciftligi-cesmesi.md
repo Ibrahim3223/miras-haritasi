@@ -5,10 +5,10 @@ slug: "guzelce-ciftligi-cesmesi"
 description: "### Güzelce Çiftliği Çeşmesi: Büyükçekmece'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5118275,41.001049"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "suleyman-kaptan-cesmesi"
 description: "**Süleyman Kaptan Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Süleyman_Kaptan_Çeşmesi_IMG_7762.jpg/1200px-Süleyman_Kaptan_Çeşmesi_IMG_7762.jpg"
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Turgutreis"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2493687,37.032917"
 draft: "false"
 weight: "999"

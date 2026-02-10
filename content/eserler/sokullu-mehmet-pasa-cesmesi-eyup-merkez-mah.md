@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-cesmesi-eyup-merkez-mah"
 description: "## Sokullu Mehmet Paşa Çeşmesi: Eyüp'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9355412,41.0474167"
 draft: "false"
 weight: "999"

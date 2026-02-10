@@ -5,10 +5,10 @@ slug: "kaledibi-kilise-cesmesi"
 description: "## Kaledibi Kilise Çeşmesi: Ortahisar'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Kaledibi_Kilise_Çeşmesi.jpg/1200px-Kaledibi_Kilise_Çeşmesi.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7151985,41.0078621"
 draft: "false"
 weight: "10"

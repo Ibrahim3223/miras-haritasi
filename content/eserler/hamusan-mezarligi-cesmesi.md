@@ -5,10 +5,10 @@ slug: "hamusan-mezarligi-cesmesi"
 description: "## Hamuşan Mezarlığı Çeşmesi: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Hamuşan_Mezarlığı_Çeşmesi_IMG_9303.jpg/1200px-Hamuşan_Mezarlığı_Çeşmesi_IMG_9303.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9186745,41.0143547"
 draft: "false"
 weight: "10"

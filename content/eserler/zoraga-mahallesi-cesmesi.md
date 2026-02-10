@@ -5,10 +5,10 @@ slug: "zoraga-mahallesi-cesmesi"
 description: "## Zorağa Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6690865,39.1057663"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "imam-kizi-ayse-cesmesi"
 description: "### İmam Kızı Ayşe Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6296597,37.757431"
 draft: "false"
 weight: "999"

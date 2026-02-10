@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:28+03:00"
 slug: "kepos"
 description: "## Kepos Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "yakutiye-cesmeleri"
 description: "## Yakutiye Çeşmeleri: Erzurum'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2709541,39.906456"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haydar-pasa-cesmesi"
 description: "## Haydar Paşa Çeşmesi: Cibali'nin Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.95586,41.02177"
 draft: "false"
 weight: "999"

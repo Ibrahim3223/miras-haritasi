@@ -4,8 +4,7 @@ date: "2025-12-25T04:23:14+03:00"
 slug: "philadelphia-kilikya"
 description: "**Philadelphia (Kilikya) Arkeolojik Sit**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

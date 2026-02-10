@@ -5,10 +5,10 @@ slug: "duruca-koyu-cesmesi-taskopru"
 description: "## Duruca Köyü Çeşmesi: Taşköprü'nün Gizli Cevheri..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.192313986,41.600674678"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:01:07+03:00"
 slug: "atakoy-baruthanesi"
 description: "## Ataköy Baruthanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/d/dd/The_tower_of_Atakoy_Gunpowder.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

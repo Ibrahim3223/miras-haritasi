@@ -5,10 +5,10 @@ slug: "haci-kahyalar-cesmesi"
 description: "## Hacı Kahyalar Çeşmesi..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.805964197,37.700207539"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T07:06:40+03:00"
 slug: "cildirin-huyleri"
 description: "### Çıldırın Hüyleri: Bir Tarihin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

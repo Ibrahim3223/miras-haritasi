@@ -5,10 +5,10 @@ slug: "ali-bey-cesmesi-sumbul-efendi"
 description: "## Ali Bey Çeşmesi, Sümbül Efendi: Fatih'te Bir Zümrüt..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924622,41.001153"
 draft: "false"
 weight: "999"

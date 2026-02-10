@@ -5,10 +5,10 @@ slug: "benlizade-ahmet-resit-efendi-sebili"
 description: "**Benlizade Ahmet Reşit Efendi Sebili**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9486885,41.0236969"
 draft: "false"
 weight: "999"

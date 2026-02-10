@@ -5,10 +5,10 @@ slug: "rakoczi-cesmesi"
 description: "## Rakoczi Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5015297,40.9722137"
 draft: "false"
 weight: "999"

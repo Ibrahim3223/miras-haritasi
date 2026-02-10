@@ -5,10 +5,10 @@ slug: "bekdik-cesmesi"
 description: "### Bekdik Çeşmesi: Nevşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7092056,38.6197281"
 draft: "false"
 weight: "999"

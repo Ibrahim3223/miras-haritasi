@@ -5,10 +5,10 @@ slug: "ince-alemdarzade-mehmet-pasa-cesmesi"
 description: "## İnce Alemdarzade Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.981396,41.005688"
 draft: "false"
 weight: "999"

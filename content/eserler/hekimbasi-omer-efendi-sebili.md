@@ -5,10 +5,10 @@ slug: "hekimbasi-omer-efendi-sebili"
 description: "## Hekimbaşı Ömer Efendi Sebili: İstanbul'un Eski Şehirini Yansıtan Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9408722,41.0117188"
 draft: "false"
 weight: "999"

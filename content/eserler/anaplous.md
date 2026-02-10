@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:01+03:00"
 slug: "anaplous"
 description: "### Anaplous: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "tepeboz-cesmesi-karaburun"
 description: "## Tepeboz Çeşmesi: Karaburun'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Karaburun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.4472008,38.6609993"
 draft: "false"
 weight: "999"

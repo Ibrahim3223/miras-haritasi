@@ -5,10 +5,10 @@ slug: "ali-riza-pasa-cesmesi"
 description: "## Ali Rıza Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ali_Rıza_Paşa_Çeşmesi_IMG_1075.jpg/1200px-Ali_Rıza_Paşa_Çeşmesi_IMG_1075.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945445,41.046243"
 draft: "false"
 weight: "10"

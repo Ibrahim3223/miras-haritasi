@@ -5,10 +5,10 @@ slug: "odabasi-behruz-aga-camii-sadirvani"
 description: "## Odabaşı Behruz Ağa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9310188,41.0121155"
 draft: "false"
 weight: "999"

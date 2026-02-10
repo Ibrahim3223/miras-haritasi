@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:16+03:00"
 slug: "anabura"
 description: "## Anabura: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

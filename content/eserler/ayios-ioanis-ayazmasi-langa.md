@@ -5,10 +5,10 @@ slug: "ayios-ioanis-ayazmasi-langa"
 description: "## Ayios Ioanis Ayazması, Langa: Fatih, İstanbul'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9565697,41.0054016"
 draft: "false"
 weight: "999"

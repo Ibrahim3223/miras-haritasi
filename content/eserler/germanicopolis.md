@@ -4,8 +4,7 @@ date: "2025-12-25T05:19:22+03:00"
 slug: "germanicopolis"
 description: "## Germanicopolis: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

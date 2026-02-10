@@ -5,10 +5,10 @@ slug: "boyran-mahallesi-sokak-cesmesi-3-inebolu"
 description: "## Boyran Mahallesi Sokak Çeşmesi 3, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.755495218,41.977653949"
 draft: "false"
 weight: "999"

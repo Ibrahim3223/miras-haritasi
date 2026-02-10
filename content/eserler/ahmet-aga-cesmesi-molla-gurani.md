@@ -5,10 +5,10 @@ slug: "ahmet-aga-cesmesi-molla-gurani"
 description: "### Ahmet Ağa Çeşmesi: Molla Gürani'nin Yüzyıllar Önce Mimarlık Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9471912,41.0116463"
 draft: "false"
 weight: "999"

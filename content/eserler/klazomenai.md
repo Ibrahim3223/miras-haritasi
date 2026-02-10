@@ -4,8 +4,7 @@ date: "2025-12-25T04:16:06+03:00"
 slug: "klazomenai"
 description: "## Klazomenai: İzmir'in Gizli Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ionia499bc.jpg/1200px-Ionia499bc.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

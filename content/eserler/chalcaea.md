@@ -4,8 +4,7 @@ date: "2025-12-25T04:50:27+03:00"
 slug: "chalcaea"
 description: "## Chalcaea: Antik Bir Kentin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

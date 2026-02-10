@@ -5,10 +5,10 @@ slug: "catal-cesme-inonu-cesme"
 description: "### Çatal Çeşme – İnönü, Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3089008,38.3232994"
 draft: "false"
 weight: "999"

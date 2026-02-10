@@ -5,10 +5,10 @@ slug: "etligin-cesmesi"
 description: "## Etliğin Çeşmesi: Yakutiye, Erzurum'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2836266,39.915905"
 draft: "false"
 weight: "999"

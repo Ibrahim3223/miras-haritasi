@@ -4,8 +4,7 @@ date: "2025-12-25T04:09:32+03:00"
 slug: "zofia-rizi-ani-evi"
 description: "## Zofia Rizi Anı Evi Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

@@ -5,10 +5,10 @@ slug: "bogazagzi-cesmesi"
 description: "## Boğazağzı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Acıgöl"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4846001,38.6348"
 draft: "false"
 weight: "999"

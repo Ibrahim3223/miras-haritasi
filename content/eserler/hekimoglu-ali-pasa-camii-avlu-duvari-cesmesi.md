@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-camii-avlu-duvari-cesmesi"
 description: "# Hekimoğlu Ali Paşa Camii Avlu Duvarı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.935547,41.006161"
 draft: "false"
 weight: "999"

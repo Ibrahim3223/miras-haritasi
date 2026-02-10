@@ -5,10 +5,10 @@ slug: "dervis-aga-cesmesi-gokceyurt"
 description: "## Derviş Ağa Çeşmesi: Gökçeyurt'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6847534,38.43367"
 draft: "false"
 weight: "999"

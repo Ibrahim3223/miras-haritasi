@@ -5,10 +5,10 @@ slug: "cihanzade-mehmet-bey-cesmesi"
 description: "## Cihanzade Mehmet Bey Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8264065,37.8570633"
 draft: "false"
 weight: "999"

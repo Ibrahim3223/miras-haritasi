@@ -5,10 +5,10 @@ slug: "dodurga-koyu-cesmesi-3-orta"
 description: "## Dodurga Köyü Çeşmesi 3, Orta..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.986741936,40.603179891"
 draft: "false"
 weight: "999"

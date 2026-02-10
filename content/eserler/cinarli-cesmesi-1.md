@@ -5,10 +5,10 @@ slug: "cinarli-cesmesi-1"
 description: "### Çınarlı Çeşmesi-1..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2495003,40.6932983"
 draft: "false"
 weight: "999"

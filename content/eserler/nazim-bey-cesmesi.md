@@ -5,10 +5,10 @@ slug: "nazim-bey-cesmesi"
 description: "## Nazım Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.918346,41.051889"
 draft: "false"
 weight: "999"

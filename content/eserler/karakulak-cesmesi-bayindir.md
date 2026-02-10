@@ -5,10 +5,10 @@ slug: "karakulak-cesmesi-bayindir"
 description: "## Karakulak Çeşmesi: Bayındır'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6473999,38.2266006"
 draft: "false"
 weight: "999"

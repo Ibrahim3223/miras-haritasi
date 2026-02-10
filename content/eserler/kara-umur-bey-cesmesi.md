@@ -5,10 +5,10 @@ slug: "kara-umur-bey-cesmesi"
 description: "## Kara Umur Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kara_Umur_Bey_Çeşmesi_01.jpg/1200px-Kara_Umur_Bey_Çeşmesi_01.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.222583333,41.737111111"
 draft: "false"
 weight: "10"

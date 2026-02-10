@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:28+03:00"
 slug: "orni"
 description: "## Orni Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

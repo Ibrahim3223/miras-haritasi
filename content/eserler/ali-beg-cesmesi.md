@@ -5,10 +5,10 @@ slug: "ali-beg-cesmesi"
 description: "### Ali Beğ Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5548897,40.5857582"
 draft: "false"
 weight: "999"

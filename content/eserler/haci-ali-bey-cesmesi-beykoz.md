@@ -5,10 +5,10 @@ slug: "haci-ali-bey-cesmesi-beykoz"
 description: "## Hacı Ali Bey Çeşmesi, Beykoz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Hacı_Ali_Bey_Çeşmesi,_Beykoz_IMG_3355.jpg/1200px-Hacı_Ali_Bey_Çeşmesi,_Beykoz_IMG_3355.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0941034,41.1328435"
 draft: "false"
 weight: "10"

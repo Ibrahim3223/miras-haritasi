@@ -5,10 +5,10 @@ slug: "said-pasa-cesmesi"
 description: "## Said Paşa Çeşmesi: Konya'nın Tarihi Bir Ziyaret Günü..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5002556,37.8802223"
 draft: "false"
 weight: "999"

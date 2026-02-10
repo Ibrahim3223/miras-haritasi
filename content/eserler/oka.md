@@ -4,8 +4,7 @@ date: "2025-12-25T05:13:10+03:00"
 slug: "oka"
 description: "## Eski Oka Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

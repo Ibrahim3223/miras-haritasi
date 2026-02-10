@@ -5,10 +5,10 @@ slug: "cesme-golhisar"
 description: "## Çeşme – Gölhisar: Aydın'ın Eski Çağ Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9174404,37.7966576"
 draft: "false"
 weight: "999"

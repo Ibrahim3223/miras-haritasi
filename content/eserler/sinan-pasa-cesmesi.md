@@ -5,10 +5,10 @@ slug: "sinan-pasa-cesmesi"
 description: "## Sinan Paşa Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.987164,41.009871"
 draft: "false"
 weight: "999"

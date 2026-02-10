@@ -4,8 +4,7 @@ date: "2025-12-25T08:07:28+03:00"
 slug: "olaeis"
 description: "## Olaeis: Antik Kentin Efsanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

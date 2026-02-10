@@ -5,10 +5,10 @@ slug: "cesme-pazaryeri-970-sokak"
 description: "## Çeşme – Pazaryeri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1427212,38.4177742"
 draft: "false"
 weight: "999"

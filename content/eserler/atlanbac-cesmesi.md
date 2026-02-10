@@ -5,10 +5,10 @@ slug: "atlanbac-cesmesi"
 description: "# Atlanbaç Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.771595,41.3744431"
 draft: "false"
 weight: "999"

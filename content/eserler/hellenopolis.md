@@ -4,8 +4,7 @@ date: "2025-12-25T04:28:49+03:00"
 slug: "hellenopolis"
 description: "## Hellenopolis: Antikşehirin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

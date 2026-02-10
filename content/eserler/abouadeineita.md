@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:12+03:00"
 slug: "abouadeineita"
 description: "### Abouadeineita: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

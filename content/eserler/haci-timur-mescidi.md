@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:38+03:00"
 slug: "haci-timur-mescidi"
 description: "## Hacı Timur Mescidi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

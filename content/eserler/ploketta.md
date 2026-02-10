@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:51+03:00"
 slug: "ploketta"
 description: "### Ploketta Tarihi Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

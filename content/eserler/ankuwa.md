@@ -4,8 +4,7 @@ date: "2025-12-25T04:15:47+03:00"
 slug: "ankuwa"
 description: "## Ankuwa Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Kultorte.png/1200px-Kultorte.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T08:44:50+03:00"
 slug: "direkli-kilise"
 description: "## Direkli Kilise..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

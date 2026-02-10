@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-fenerkoy"
 description: "## Havuzlu Çeşme, Fenerköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2380924,41.1503067"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:17:29+03:00"
 slug: "stadion"
 description: "### Stadion: İzmir'in Antik Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Illustration_from_Views_in_the_Ottoman_Dominions_by_Luigi_Mayer,_digitally_enhanced_by_rawpixel-com_39.jpg/1200px-Illustration_from_Views_in_the_Ottoman_Dominions_by_Luigi_Mayer,_digitally_enhanced_by_rawpixel-com_39.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

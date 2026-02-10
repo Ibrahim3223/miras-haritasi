@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:42+03:00"
 slug: "eyice-hoyuk"
 description: "### Eyice Höyük: Türkiye'nin Gizli İnsani Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

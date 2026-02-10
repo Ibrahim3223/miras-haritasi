@@ -5,10 +5,10 @@ slug: "vefa-kilise-camii-sebili"
 description: "## Vefa Kilise Camii Sebili: Fatih'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9602032,41.0161934"
 draft: "false"
 weight: "999"

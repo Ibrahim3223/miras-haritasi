@@ -5,10 +5,10 @@ slug: "gundogdu-sokak-cesmesi"
 description: "# Gündoğdu Sokak Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9546661,40.7942162"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:09+03:00"
 slug: "elbessos"
 description: "### Elbessos: Antik Bir Kentin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

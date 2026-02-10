@@ -5,10 +5,10 @@ slug: "yakup-kethuda-cesmesi-sulukule"
 description: "## Yakup Kethüda Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Yakup_Kethüda_Çeşmesi_04.jpg/1200px-Yakup_Kethüda_Çeşmesi_04.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933314516,41.025652015"
 draft: "false"
 weight: "10"

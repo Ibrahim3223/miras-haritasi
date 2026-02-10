@@ -5,10 +5,10 @@ slug: "imam-cesmesi-cesme"
 description: "### İmam Çeşmesi: Çeşme'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3078003,38.3120804"
 draft: "false"
 weight: "999"

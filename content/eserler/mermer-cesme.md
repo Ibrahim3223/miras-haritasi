@@ -5,10 +5,10 @@ slug: "mermer-cesme"
 description: "## Mermer Çeşme..."
 featured_image: ""
 province: "İstanbul Vilayeti"
-iller: '["İstanbul Vilayeti"]'
+iller: ["İstanbul Vilayeti"]
 district: "Malkara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9020367,40.8920746"
 draft: "false"
 weight: "999"

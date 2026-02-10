@@ -5,10 +5,10 @@ slug: "mehmet-sevki-caddesi-cesmesi"
 description: "## Mehmet Şevki Caddesi Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7619553,41.9779053"
 draft: "false"
 weight: "999"

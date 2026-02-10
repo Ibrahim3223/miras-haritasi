@@ -4,8 +4,7 @@ date: "2025-12-25T04:17:27+03:00"
 slug: "kussara"
 description: "### Kuşşara Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

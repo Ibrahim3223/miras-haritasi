@@ -4,8 +4,7 @@ date: "2025-12-24T22:56:13+03:00"
 slug: "hoca-ali-cami"
 description: "# Hoca Ali Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

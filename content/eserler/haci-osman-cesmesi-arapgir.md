@@ -5,10 +5,10 @@ slug: "haci-osman-cesmesi-arapgir"
 description: "## Hacı Osman Çeşmesi: Arapgir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.524266471,38.881718391"
 draft: "false"
 weight: "999"

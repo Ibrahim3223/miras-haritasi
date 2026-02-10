@@ -5,10 +5,10 @@ slug: "molla-ahmet-cesmesi-orta"
 description: "## Molla Ahmet Çeşmesi: Orta'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.989506397,40.602883279"
 draft: "false"
 weight: "999"

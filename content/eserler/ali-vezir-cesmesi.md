@@ -5,10 +5,10 @@ slug: "ali-vezir-cesmesi"
 description: "## Ali Vezir Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.538599,38.7613487"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sifali-cesme"
 description: "## Şifalı Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951718,41.019398"
 draft: "false"
 weight: "999"

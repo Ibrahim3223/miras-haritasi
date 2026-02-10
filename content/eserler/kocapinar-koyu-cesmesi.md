@@ -5,10 +5,10 @@ slug: "kocapinar-koyu-cesmesi"
 description: "## Kocapınar Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Vilayeti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.5961571,40.4579163"
 draft: "false"
 weight: "999"

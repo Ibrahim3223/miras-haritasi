@@ -5,10 +5,10 @@ slug: "kavakdibi-cesmesi"
 description: "## Kavakdibi Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5298347,39.4531136"
 draft: "false"
 weight: "999"

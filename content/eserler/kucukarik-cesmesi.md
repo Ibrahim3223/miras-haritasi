@@ -5,10 +5,10 @@ slug: "kucukarik-cesmesi"
 description: "## Küçükarık Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6027756,37.7218323"
 draft: "false"
 weight: "999"

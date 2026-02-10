@@ -5,10 +5,10 @@ slug: "sultan-ahmet-kulliyesi-sebili-6"
 description: "### Sultan Ahmet Külliyesi Sebili 6..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9769592,41.0069466"
 draft: "false"
 weight: "999"

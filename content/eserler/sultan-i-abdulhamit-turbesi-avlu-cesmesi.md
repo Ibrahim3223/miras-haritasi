@@ -5,10 +5,10 @@ slug: "sultan-i-abdulhamit-turbesi-avlu-cesmesi"
 description: "## Sultan I. Abdülhamit Türbesi Avlu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973959,41.015424"
 draft: "false"
 weight: "999"

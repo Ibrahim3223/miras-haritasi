@@ -5,10 +5,10 @@ slug: "tercuman-mahallesi-cifte-cesmesi"
 description: "## Tercüman Mahallesi Çifte Çeşmesi: Konya'da Bir Mirasın Gizemi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4988403,37.8751297"
 draft: "false"
 weight: "999"

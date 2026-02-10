@@ -5,10 +5,10 @@ slug: "kel-hasan-cesmesi"
 description: "## Kel Hasan Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5006008,37.4525986"
 draft: "false"
 weight: "999"

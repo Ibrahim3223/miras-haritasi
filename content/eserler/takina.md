@@ -4,8 +4,7 @@ date: "2025-12-25T05:17:24+03:00"
 slug: "takina"
 description: "## Takina: Bir Arkeolojik Sitin Gizemi ve Özellikleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

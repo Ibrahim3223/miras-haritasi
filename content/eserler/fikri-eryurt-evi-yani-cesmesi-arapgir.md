@@ -5,10 +5,10 @@ slug: "fikri-eryurt-evi-yani-cesmesi-arapgir"
 description: "# Fikri Eryurt Evi Yanı Çeşmesi: Arapgir'in Bir Öreni..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.495076497,39.037112355"
 draft: "false"
 weight: "999"

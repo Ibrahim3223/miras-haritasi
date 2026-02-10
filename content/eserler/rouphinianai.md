@@ -4,8 +4,7 @@ date: "2025-12-25T04:46:46+03:00"
 slug: "rouphinianai"
 description: "## Rouphinianai: Türkiye'nin Gizli Arkeolojik Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "nuri-tavas-cesmesi"
 description: "## Nuri Tavas Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0222192,41.0314068"
 draft: "false"
 weight: "999"

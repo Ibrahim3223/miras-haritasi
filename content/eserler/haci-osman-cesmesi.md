@@ -5,10 +5,10 @@ slug: "haci-osman-cesmesi"
 description: "## Hacı Osman Çeşmesi: Nazilli'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4068336,37.8549652"
 draft: "false"
 weight: "999"

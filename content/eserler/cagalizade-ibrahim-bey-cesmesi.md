@@ -5,10 +5,10 @@ slug: "cagalizade-ibrahim-bey-cesmesi"
 description: "### Cağalizade İbrahim Bey Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cağalizade_İbrahim_Bey_Çeşmesi_o1.jpg/1200px-Cağalizade_İbrahim_Bey_Çeşmesi_o1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936686,41.02898"
 draft: "false"
 weight: "10"

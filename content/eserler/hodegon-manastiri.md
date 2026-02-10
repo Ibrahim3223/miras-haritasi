@@ -4,8 +4,7 @@ date: "2025-12-25T09:48:26+03:00"
 slug: "hodegon-manastiri"
 description: "### Hodegon Manastırı: Bir Geçiş Döneminin Eski Manastırı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Byzantine_Constantinople-pt.svg/1200px-Byzantine_Constantinople-pt.svg.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Manastır"
 turler: ["Manastır"]

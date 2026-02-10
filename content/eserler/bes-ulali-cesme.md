@@ -5,10 +5,10 @@ slug: "bes-ulali-cesme"
 description: "### Beş Ulalı Çeşme..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6465282,38.5451622"
 draft: "false"
 weight: "999"

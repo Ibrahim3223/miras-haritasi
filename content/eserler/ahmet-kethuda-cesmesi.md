@@ -5,10 +5,10 @@ slug: "ahmet-kethuda-cesmesi"
 description: "## Ahmet Kethüda Çeşmesi: Fatih'in Gizli Öteki Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973658,41.010235"
 draft: "false"
 weight: "999"

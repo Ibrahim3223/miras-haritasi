@@ -4,8 +4,7 @@ date: "2025-12-25T17:48:12+03:00"
 slug: "haci-selim-aga-yazma-eser-kutuphanesi"
 description: "## Hacı Selim Ağa Yazma Eser Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

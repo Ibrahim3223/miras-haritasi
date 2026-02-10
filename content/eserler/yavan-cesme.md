@@ -5,10 +5,10 @@ slug: "yavan-cesme"
 description: "## Yavan Çeşme: İyonya'nın Değerli Çeşme Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7296162,38.0831566"
 draft: "false"
 weight: "999"

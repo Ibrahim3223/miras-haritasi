@@ -5,10 +5,10 @@ slug: "ayazma-kalintisi-uskudar"
 description: "## Ayazma Kalıntısı, Üsküdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ayazma_Kalıntısı,_Üsküdar.jpg/1200px-Ayazma_Kalıntısı,_Üsküdar.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0093307,41.0227089"
 draft: "false"
 weight: "10"

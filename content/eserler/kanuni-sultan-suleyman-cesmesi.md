@@ -5,10 +5,10 @@ slug: "kanuni-sultan-suleyman-cesmesi"
 description: "## Kanuni Sultan Süleyman Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Kanuni_Sultan_Süleyman_Çeşmesi.JPG/1200px-Kanuni_Sultan_Süleyman_Çeşmesi.JPG"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.575722222,41.022305555"
 draft: "false"
 weight: "10"

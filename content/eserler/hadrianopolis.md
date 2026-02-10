@@ -4,8 +4,7 @@ date: "2025-12-25T04:32:23+03:00"
 slug: "hadrianopolis"
 description: "### Hadrianopolis: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Edirne_Roman_Walls_and_Macedonian_Tower_0208.jpg/1200px-Edirne_Roman_Walls_and_Macedonian_Tower_0208.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

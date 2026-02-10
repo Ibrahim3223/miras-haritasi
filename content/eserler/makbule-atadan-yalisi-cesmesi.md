@@ -5,10 +5,10 @@ slug: "makbule-atadan-yalisi-cesmesi"
 description: "## Makbule Atadan Yalısı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Makbule_Atadan_Yalısı_Çeşmesi.jpg/1200px-Makbule_Atadan_Yalısı_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0405197,41.0631905"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "haci-memisoglu-cesmesi"
 description: "## Hacı Memişoğlu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Hacı_Memişoğlu_Çeşmesi.jpg/1200px-Hacı_Memişoğlu_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6725273,41.263443"
 draft: "false"
 weight: "10"

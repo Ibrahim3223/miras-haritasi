@@ -4,8 +4,7 @@ date: "2025-12-25T08:13:11+03:00"
 slug: "orale-of-patara"
 description: "## Orales of Patara: Antik Bir Kentin Kalıntıları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

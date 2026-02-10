@@ -5,10 +5,10 @@ slug: "feyzullah-pasa-imaret-cesmesi"
 description: "## Feyzullah Paşa İmaret Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Feyzullah_Paşa_İmaret_Çeşmesi.jpg/1200px-Feyzullah_Paşa_İmaret_Çeşmesi.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5636864,41.6700668"
 draft: "false"
 weight: "10"

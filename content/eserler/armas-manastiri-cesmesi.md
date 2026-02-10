@@ -5,10 +5,10 @@ slug: "armas-manastiri-cesmesi"
 description: "## Armaş Manastırı Çeşmesi: İzmit'in Gizli Cenneti..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.1959457,40.8488197"
 draft: "false"
 weight: "999"

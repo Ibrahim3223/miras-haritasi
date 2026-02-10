@@ -4,8 +4,7 @@ date: "2025-12-24T22:30:08+03:00"
 slug: "cuneyt-bey-camii"
 description: "### Giriş..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

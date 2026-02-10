@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:42+03:00"
 slug: "vahid-pasa-kutuphanesi"
 description: "## Vahid Paşa Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

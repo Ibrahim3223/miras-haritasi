@@ -5,10 +5,10 @@ slug: "suludere-cesmesi"
 description: "**Suludere Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2416859,37.8974457"
 draft: "false"
 weight: "999"

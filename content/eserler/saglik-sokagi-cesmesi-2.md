@@ -5,10 +5,10 @@ slug: "saglik-sokagi-cesmesi-2"
 description: "## Sağlık Sokağı Çeşmesi 2: Safranbolu'nun Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sağlık_Sokağı_Çeşmesi-2.jpg/1200px-Sağlık_Sokağı_Çeşmesi-2.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6851044,41.2504387"
 draft: "false"
 weight: "10"

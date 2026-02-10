@@ -5,10 +5,10 @@ slug: "abbas-aga-cesmesi-zeynep-kamil"
 description: "### Abbas Ağa Çeşmesi, Zeynep Kamil..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Abbas_Ağa_Çeşmesi.jpg/1200px-Abbas_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.021706,41.01585"
 draft: "false"
 weight: "10"

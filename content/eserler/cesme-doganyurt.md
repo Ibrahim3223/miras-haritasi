@@ -5,10 +5,10 @@ slug: "cesme-doganyurt"
 description: "## Çeşme, Doğanyurt: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.979324499,37.596706256"
 draft: "false"
 weight: "999"

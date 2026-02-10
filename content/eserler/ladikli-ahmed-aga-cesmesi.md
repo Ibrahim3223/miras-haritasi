@@ -5,10 +5,10 @@ slug: "ladikli-ahmed-aga-cesmesi"
 description: "### Ladikli Ahmed Ağa Çeşmesi: Kadıköy'de Bir Önemli Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Ladikli_Ahmed_Ağa_Çeşmesi.jpg/1200px-Ladikli_Ahmed_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0239745,40.9958385"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:20+03:00"
 slug: "aspenzinsos"
 description: "## Aspenzinsos: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

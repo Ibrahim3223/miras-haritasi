@@ -5,10 +5,10 @@ slug: "ahmet-aga-cesmesi-cerrahpasa"
 description: "# Ahmet Ağa Çeşmesi, Cerrahpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936467,41.004978"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ordekli-dere-caddesi-cesmesi"
 description: "## Ördekli Dere Caddesi Çeşmesi..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: '["Süleymanpaşa"]'
+iller: ["Süleymanpaşa"]
 district: "Ortacami"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5179157,40.9810257"
 draft: "false"
 weight: "999"

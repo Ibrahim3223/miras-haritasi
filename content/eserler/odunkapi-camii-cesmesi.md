@@ -5,10 +5,10 @@ slug: "odunkapi-camii-cesmesi"
 description: "## Odunkapı Camii Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1301098,38.4138908"
 draft: "false"
 weight: "999"

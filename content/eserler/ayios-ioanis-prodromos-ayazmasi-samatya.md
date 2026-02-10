@@ -5,10 +5,10 @@ slug: "ayios-ioanis-prodromos-ayazmasi-samatya"
 description: "## Ayios Ioanis Prodromos Ayazması, Samatya..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9330692,41.0020218"
 draft: "false"
 weight: "999"

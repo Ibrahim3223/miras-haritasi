@@ -5,10 +5,10 @@ slug: "yeni-cesme-sokak-cesmesi-bergama"
 description: "## Yeni Çeşme Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1868,39.1231003"
 draft: "false"
 weight: "999"

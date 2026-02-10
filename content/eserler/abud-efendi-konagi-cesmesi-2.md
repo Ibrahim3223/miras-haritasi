@@ -5,10 +5,10 @@ slug: "abud-efendi-konagi-cesmesi-2"
 description: "## Abud Efendi Konağı Çeşmesi - 2: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9784336,41.0090942"
 draft: "false"
 weight: "999"

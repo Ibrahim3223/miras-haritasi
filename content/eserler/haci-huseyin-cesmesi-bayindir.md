@@ -5,10 +5,10 @@ slug: "haci-huseyin-cesmesi-bayindir"
 description: "## Hacı Hüseyin Çeşmesi: Bayındır'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6487751,38.226799"
 draft: "false"
 weight: "999"

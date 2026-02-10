@@ -5,10 +5,10 @@ slug: "gerdanli-cesmesi"
 description: "## Gerdanlı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Gerdanlı_Çeşmesi_03.jpg/1200px-Gerdanlı_Çeşmesi_03.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.228027777,41.737972222"
 draft: "false"
 weight: "10"

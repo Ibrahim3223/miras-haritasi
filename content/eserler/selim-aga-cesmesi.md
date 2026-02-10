@@ -5,10 +5,10 @@ slug: "selim-aga-cesmesi"
 description: "## Selim Ağa Çeşmesi: Üsküdar'da Bir Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.016746,41.024767"
 draft: "false"
 weight: "999"

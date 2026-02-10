@@ -5,10 +5,10 @@ slug: "han-sokak-cesmesi"
 description: "## Han Sokak Çeşmesi: Adapazarı'nın Tarihi ve Aşkına..."
 featured_image: ""
 province: "Sakarya"
-iller: '["Sakarya"]'
+iller: ["Sakarya"]
 district: "Adapazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.4087944,40.7815704"
 draft: "false"
 weight: "999"

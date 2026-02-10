@@ -5,10 +5,10 @@ slug: "kuyucak-cesmesi"
 description: "### Kuyucak Çeşmesi: Sincan'da Bir Osmanlı Dönemi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.3154755,39.7781563"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pasa-cesmesi"
 description: "## Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Kirklareli_pasa_cesmesi_01.jpg/1200px-Kirklareli_pasa_cesmesi_01.jpg"
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9514313,40.5421944"
 draft: "false"
 weight: "999"

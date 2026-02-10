@@ -5,10 +5,10 @@ slug: "bedesten-sokak-cesmesi-kure"
 description: "## Bedesten Sokak Çeşmesi, Küre..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Küre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.712622275,41.805553974"
 draft: "false"
 weight: "999"

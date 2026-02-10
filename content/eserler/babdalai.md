@@ -4,8 +4,7 @@ date: "2025-12-25T05:01:16+03:00"
 slug: "babdalai"
 description: "### Babadalai Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

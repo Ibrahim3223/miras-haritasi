@@ -5,10 +5,10 @@ slug: "cifte-cesme"
 description: "**Çifte Çeşme: Mudanya'nın Güzel Çeşmesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Mudanya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7931652,40.3911896"
 draft: "false"
 weight: "999"

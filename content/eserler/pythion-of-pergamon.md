@@ -4,8 +4,7 @@ date: "2025-12-25T08:11:53+03:00"
 slug: "pythion-of-pergamon"
 description: "### Pythion of Pergamon..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

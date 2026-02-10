@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:54+03:00"
 slug: "ardynion"
 description: "## Ardünion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

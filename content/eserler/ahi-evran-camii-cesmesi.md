@@ -5,10 +5,10 @@ slug: "ahi-evran-camii-cesmesi"
 description: "# Ahi Evran Camii Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9660912,39.4220886"
 draft: "false"
 weight: "999"

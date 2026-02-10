@@ -5,10 +5,10 @@ slug: "hurriyet-cesmesi"
 description: "## Hürriyet Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9849434,39.4190598"
 draft: "false"
 weight: "999"

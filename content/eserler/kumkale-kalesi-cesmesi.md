@@ -5,10 +5,10 @@ slug: "kumkale-kalesi-cesmesi"
 description: "## Kumkale Kalesi Çeşmesi: Çanakkale'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2004585,40.0059395"
 draft: "false"
 weight: "999"

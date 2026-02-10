@@ -5,10 +5,10 @@ slug: "emetullah-kadin-cesmesi"
 description: "## Emetullah Kadın Çeşmesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.4067993,40.2503014"
 draft: "false"
 weight: "999"

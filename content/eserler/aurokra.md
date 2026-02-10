@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:20+03:00"
 slug: "aurokra"
 description: "## Aurokra Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

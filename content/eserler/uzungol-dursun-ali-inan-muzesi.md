@@ -4,8 +4,7 @@ date: "2025-12-25T04:07:45+03:00"
 slug: "uzungol-dursun-ali-inan-muzesi"
 description: "## Uzungöl Dursun Ali İnan Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

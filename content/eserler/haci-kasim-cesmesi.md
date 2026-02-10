@@ -5,10 +5,10 @@ slug: "haci-kasim-cesmesi"
 description: "## Hacı Kasım Çeşmesi: Ortahisar'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7224617,41.0011024"
 draft: "false"
 weight: "999"

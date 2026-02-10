@@ -5,10 +5,10 @@ slug: "hak-cesmesi"
 description: "## Hak Çeşmesi: Eskişehir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5256481,39.7655487"
 draft: "false"
 weight: "999"

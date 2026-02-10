@@ -5,10 +5,10 @@ slug: "haci-veyis-camii-cesmesi"
 description: "# Hacı Veyis Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Hac_Veyis_Camii_emesi_2025-10-19_1761319915.jpg/1200px-Hac_Veyis_Camii_emesi_2025-10-19_1761319915.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.51054,37.8705635"
 draft: "false"
 weight: "10"

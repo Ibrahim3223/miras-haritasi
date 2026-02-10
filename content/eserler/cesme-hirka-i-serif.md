@@ -5,10 +5,10 @@ slug: "cesme-hirka-i-serif"
 description: "# Hırka-i Şerif Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9359436,41.0223808"
 draft: "false"
 weight: "999"

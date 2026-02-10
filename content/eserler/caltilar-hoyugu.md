@@ -4,8 +4,7 @@ date: "2025-12-25T07:08:25+03:00"
 slug: "caltilar-hoyugu"
 description: "## Çaltılar Höyüğü: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

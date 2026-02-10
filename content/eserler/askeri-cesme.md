@@ -5,10 +5,10 @@ slug: "askeri-cesme"
 description: "**Ortahisar'da Gizli Bir Çeşme: Askeri Çeşme**..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.709671,41.0006676"
 draft: "false"
 weight: "999"

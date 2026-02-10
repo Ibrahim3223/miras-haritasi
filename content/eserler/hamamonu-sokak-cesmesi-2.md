@@ -5,10 +5,10 @@ slug: "hamamonu-sokak-cesmesi-2"
 description: "### Hamamönü Sokak Çeşmesi 2: Safranbolu'nun Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hamamönü_Sokak_Çeşmesi_2.jpg/1200px-Hamamönü_Sokak_Çeşmesi_2.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6931953,41.2460823"
 draft: "false"
 weight: "10"

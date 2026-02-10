@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:19+03:00"
 slug: "arkeoloji-kutuphanesi"
 description: "## Arkeoloji Kütüphanesi: Türkiye'nin Kültür Mirasının Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

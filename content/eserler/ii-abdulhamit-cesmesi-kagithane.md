@@ -5,10 +5,10 @@ slug: "ii-abdulhamit-cesmesi-kagithane"
 description: "### II. Abdülhamit Çeşmesi, Kağıthane..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.975224,41.079594"
 draft: "false"
 weight: "999"

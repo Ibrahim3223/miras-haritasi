@@ -5,10 +5,10 @@ slug: "haci-mehmet-cesmesi"
 description: "**Hacı Mehmet Çeşmesi: Altındağ'un Tarihî Çeşmesi**..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8718834,39.9365425"
 draft: "false"
 weight: "999"

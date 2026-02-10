@@ -5,10 +5,10 @@ slug: "dedekoylu-haci-ahmet-efendi-cesmesi"
 description: "# Dedeköylü Hacı Ahmet Efendi Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6644707,37.769516"
 draft: "false"
 weight: "999"

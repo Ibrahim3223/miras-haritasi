@@ -5,10 +5,10 @@ slug: "kocatas-ilkokul-cesmesi"
 description: "### Kocatas İlkokul Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.037432,41.164661"
 draft: "false"
 weight: "999"

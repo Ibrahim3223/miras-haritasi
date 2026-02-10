@@ -5,10 +5,10 @@ slug: "yogurtcu-cesmesi"
 description: "## Yoğurtçu Çeşmesi: Kadıköy'ün Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Yoğurtçu_Fountain.jpg/1200px-Yoğurtçu_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.033245,40.983613"
 draft: "false"
 weight: "10"

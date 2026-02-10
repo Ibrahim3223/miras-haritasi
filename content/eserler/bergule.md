@@ -4,8 +4,7 @@ date: "2025-12-25T05:04:10+03:00"
 slug: "bergule"
 description: "### Bergule Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/K%C4%B1rklareli_location_L%C3%BCleburgaz.svg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

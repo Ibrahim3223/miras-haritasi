@@ -5,10 +5,10 @@ slug: "ucler-hamami-sokak-duvar-cesmesi"
 description: "## Üçler Hamamı Sokak Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973154,41.004551"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:16:01+03:00"
 slug: "akarassus"
 description: "## Akarassus: Antik Bir Kentin Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

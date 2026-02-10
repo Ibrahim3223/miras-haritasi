@@ -5,10 +5,10 @@ slug: "kuru-cesme-arapgir"
 description: "## Kuru Çeşme, Arapgir..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.493951789,39.032404192"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayntabzade-haci-mehmet-aga-cesmesi"
 description: "## Ayntabzade Hacı Mehmet Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Ayntabzade_Hacı_Mehmet_Ağa_Çeşmesi.jpg/1200px-Ayntabzade_Hacı_Mehmet_Ağa_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6927528,41.2458649"
 draft: "false"
 weight: "10"

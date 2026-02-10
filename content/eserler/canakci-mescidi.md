@@ -4,8 +4,7 @@ date: "2025-12-24T22:28:59+03:00"
 slug: "canakci-mescidi"
 description: "## Çanakçı Mescidi: İzmir'in Gizli Çarığı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

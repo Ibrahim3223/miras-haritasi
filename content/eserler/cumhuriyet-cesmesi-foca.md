@@ -5,10 +5,10 @@ slug: "cumhuriyet-cesmesi-foca"
 description: "### Cumhuriyet Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7528896,38.6675529"
 draft: "false"
 weight: "999"

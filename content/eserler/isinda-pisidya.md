@@ -4,8 +4,7 @@ date: "2025-12-25T04:27:12+03:00"
 slug: "isinda-pisidya"
 description: "## Isinda (Pisidya): Tarihi ve Kültürel Mirasın Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

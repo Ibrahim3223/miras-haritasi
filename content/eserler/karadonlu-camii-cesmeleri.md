@@ -5,10 +5,10 @@ slug: "karadonlu-camii-cesmeleri"
 description: "## Karadonlu Camii Çeşmeleri..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9775391,39.4212227"
 draft: "false"
 weight: "999"

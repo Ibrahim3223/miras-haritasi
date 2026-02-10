@@ -5,10 +5,10 @@ slug: "suluklu-cesme"
 description: "### Sülüklü Çeşme..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2552032,38.2807465"
 draft: "false"
 weight: "999"

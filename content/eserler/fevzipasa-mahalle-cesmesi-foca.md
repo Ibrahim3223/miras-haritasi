@@ -5,10 +5,10 @@ slug: "fevzipasa-mahalle-cesmesi-foca"
 description: "## Fevzipaşa Mahalle Çeşmesi, Foça..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Foça"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7554703,38.6682549"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "davut-pasa-cami-sadirvani"
 description: "## Davut Paşa Cami Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Davut_Paşa_Camii_Şadırvanı.jpg/1200px-Davut_Paşa_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9375362,41.0067253"
 draft: "false"
 weight: "10"

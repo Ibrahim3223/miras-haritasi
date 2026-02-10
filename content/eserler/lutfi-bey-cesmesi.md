@@ -5,10 +5,10 @@ slug: "lutfi-bey-cesmesi"
 description: "## Lütfi Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Lütfi_Bey_Çeşmesi.jpg/1200px-Lütfi_Bey_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.045267,41.078845"
 draft: "false"
 weight: "10"

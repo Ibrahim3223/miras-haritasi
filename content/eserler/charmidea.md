@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:14+03:00"
 slug: "charmidea"
 description: "## Charmidea Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

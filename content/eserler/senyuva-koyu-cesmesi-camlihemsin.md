@@ -5,10 +5,10 @@ slug: "senyuva-koyu-cesmesi-camlihemsin"
 description: "## Şenyuva Köyü Çeşmesi: Çamlıhemşin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: "Çamlıhemşin"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.972032757,40.999420235"
 draft: "false"
 weight: "999"

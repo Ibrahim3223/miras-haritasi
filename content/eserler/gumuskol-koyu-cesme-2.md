@@ -5,10 +5,10 @@ slug: "gumuskol-koyu-cesme-2"
 description: "## Gümüşkol Köyü Çeşme 2: Ülkemizin Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1631184,38.4690208"
 draft: "false"
 weight: "999"

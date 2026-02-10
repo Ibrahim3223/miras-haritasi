@@ -5,10 +5,10 @@ slug: "tavukcu-camii-cesmesi"
 description: "**Tavukçu Camii Çeşmesi**..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7110443,38.6256218"
 draft: "false"
 weight: "999"

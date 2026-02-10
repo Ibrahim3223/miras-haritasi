@@ -5,10 +5,10 @@ slug: "sicak-cesme"
 description: "**Sıcak Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9754143,39.4162827"
 draft: "false"
 weight: "999"

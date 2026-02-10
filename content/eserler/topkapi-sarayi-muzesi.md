@@ -4,8 +4,7 @@ date: "2025-12-25T03:31:59+03:00"
 slug: "topkapi-sarayi-muzesi"
 description: "## Topkapı Sarayı Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

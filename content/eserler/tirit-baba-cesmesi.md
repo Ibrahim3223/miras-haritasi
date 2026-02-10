@@ -5,10 +5,10 @@ slug: "tirit-baba-cesmesi"
 description: "## Tirit Baba Çeşmesi: Edirne'nin Tarihi Çeşmesi..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5649929,41.6835403"
 draft: "false"
 weight: "999"

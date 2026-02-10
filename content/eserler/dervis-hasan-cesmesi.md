@@ -5,10 +5,10 @@ slug: "dervis-hasan-cesmesi"
 description: "## Derviş Hasan Çeşmesi: Manisa'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4278622,38.6154785"
 draft: "false"
 weight: "999"

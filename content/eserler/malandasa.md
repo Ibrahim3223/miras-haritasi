@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:57+03:00"
 slug: "malandasa"
 description: "## Malandasa: Türkiye'nin Gizli Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

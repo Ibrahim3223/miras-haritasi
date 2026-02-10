@@ -5,10 +5,10 @@ slug: "yilik-cesme-cankiri"
 description: "### Yılık Çeşme: Çankırı'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.622639236,40.601473898"
 draft: "false"
 weight: "999"

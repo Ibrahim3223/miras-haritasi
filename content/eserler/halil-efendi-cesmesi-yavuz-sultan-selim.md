@@ -5,10 +5,10 @@ slug: "halil-efendi-cesmesi-yavuz-sultan-selim"
 description: "## Halil Efendi Çeşmesi: Yavuz Sultan Selim'in Bağışı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956764,41.024504"
 draft: "false"
 weight: "999"

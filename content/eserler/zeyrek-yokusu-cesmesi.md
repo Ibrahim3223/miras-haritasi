@@ -5,10 +5,10 @@ slug: "zeyrek-yokusu-cesmesi"
 description: "## Zeyrek Yokuşu Çeşmesi: Tarihî Bir Eserin İzleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.957676,41.018935"
 draft: "false"
 weight: "999"

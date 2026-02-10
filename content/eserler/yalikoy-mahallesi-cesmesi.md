@@ -5,10 +5,10 @@ slug: "yalikoy-mahallesi-cesmesi"
 description: "## Yalıköy Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Bulancak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.298962,40.932157"
 draft: "false"
 weight: "999"

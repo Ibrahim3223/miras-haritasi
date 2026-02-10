@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:59+03:00"
 slug: "karatepe-arslantas-hoyugu"
 description: "## Karatepe-Arslantaş Höyüğü: Tarihî ve Kültürel Mirasın Ebedî Yansıması..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

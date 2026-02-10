@@ -5,10 +5,10 @@ slug: "nevsehirli-damat-ibrahim-pasa-cesmesi-mimar-sinan"
 description: "## Nevşehirli Damat İbrahim Paşa Çeşmesi: Mimar Sinan'ın İhtișamlı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Üsküdar_-_Damat_İbrahim_Paşa_Fountain.jpg/1200px-Üsküdar_-_Damat_İbrahim_Paşa_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.012734,41.024547"
 draft: "false"
 weight: "10"

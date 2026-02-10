@@ -4,8 +4,7 @@ date: "2025-12-25T14:12:17+03:00"
 slug: "dortayak"
 description: "## Dörtayak Anıt..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Dörtayak.jpg/1200px-Dörtayak.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

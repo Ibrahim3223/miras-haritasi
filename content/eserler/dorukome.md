@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:55+03:00"
 slug: "dorukome"
 description: "## Dorukome Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

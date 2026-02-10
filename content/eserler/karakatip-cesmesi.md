@@ -5,10 +5,10 @@ slug: "karakatip-cesmesi"
 description: "## Karakatip Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5263405,38.7556686"
 draft: "false"
 weight: "999"

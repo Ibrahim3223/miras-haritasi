@@ -4,8 +4,7 @@ date: "2025-12-24T22:52:09+03:00"
 slug: "curuk-elma-camii"
 description: "# Çürük Elma Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

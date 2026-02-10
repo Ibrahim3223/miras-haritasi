@@ -5,10 +5,10 @@ slug: "vanikoy-camii-sadirvani"
 description: "### Vaniköy Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0554428,41.0641136"
 draft: "false"
 weight: "999"

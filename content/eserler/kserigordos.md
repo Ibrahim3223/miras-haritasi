@@ -4,8 +4,7 @@ date: "2025-12-25T01:12:59+03:00"
 slug: "kserigordos"
 description: "**Kserigordos: Eski Yunanistan'ın Gizli Kaleyi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kale"
 turler: ["Kale"]

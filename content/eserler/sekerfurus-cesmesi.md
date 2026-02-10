@@ -5,10 +5,10 @@ slug: "sekerfurus-cesmesi"
 description: "### Şekerfuruş Çeşmesi: Meram, Konya'da Bir Önemli Tarihsel Eser..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4921989,37.8690338"
 draft: "false"
 weight: "999"

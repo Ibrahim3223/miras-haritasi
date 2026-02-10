@@ -4,8 +4,7 @@ date: "2025-12-25T16:16:27+03:00"
 slug: "mill-osmanli-tiyatrosu"
 description: "## Millî Osmanlı Tiyatrosu..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

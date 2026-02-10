@@ -5,10 +5,10 @@ slug: "tutuncu-mehmet-efendi-camii-cesmesi"
 description: "# Tütüncü Mehmet Efendi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.066352,40.978729"
 draft: "false"
 weight: "999"

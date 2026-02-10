@@ -4,8 +4,7 @@ date: "2025-12-25T08:20:00+03:00"
 slug: "artemision-yakinindaki-tribuna"
 description: "### Artemision Yakınındaki Tribuna: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

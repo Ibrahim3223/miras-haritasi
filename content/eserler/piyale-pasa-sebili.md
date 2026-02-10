@@ -5,10 +5,10 @@ slug: "piyale-pasa-sebili"
 description: "## Piyale Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9652233,41.0441933"
 draft: "false"
 weight: "999"

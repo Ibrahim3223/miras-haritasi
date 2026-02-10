@@ -4,8 +4,7 @@ date: "2025-12-25T08:08:46+03:00"
 slug: "tarbana"
 description: "# Tarbana..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "tasavlu-cesmesi"
 description: "### Taşavlu Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1241779,37.8985596"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sehzade-mehmet-camii-dorduz-cesmesi"
 description: "# Şehzade Mehmet Camii Dördüz Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958074,41.013631"
 draft: "false"
 weight: "999"

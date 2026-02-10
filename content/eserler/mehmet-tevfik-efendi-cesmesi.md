@@ -5,10 +5,10 @@ slug: "mehmet-tevfik-efendi-cesmesi"
 description: "## Mehmet Tevfik Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924305,41.00948"
 draft: "false"
 weight: "999"

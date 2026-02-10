@@ -5,10 +5,10 @@ slug: "kadizade-cesmesi"
 description: "## Kadızade Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.932873,41.047117"
 draft: "false"
 weight: "999"

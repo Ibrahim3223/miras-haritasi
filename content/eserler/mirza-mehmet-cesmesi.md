@@ -5,10 +5,10 @@ slug: "mirza-mehmet-cesmesi"
 description: "## Mirza Mehmet Çeşmesi: Yakutiye'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2771072,39.9086838"
 draft: "false"
 weight: "999"

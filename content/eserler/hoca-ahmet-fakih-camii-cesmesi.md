@@ -5,10 +5,10 @@ slug: "hoca-ahmet-fakih-camii-cesmesi"
 description: "### Hoca Ahmet Fakih Camii Çeşmesi ..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4666481,37.8722229"
 draft: "false"
 weight: "999"

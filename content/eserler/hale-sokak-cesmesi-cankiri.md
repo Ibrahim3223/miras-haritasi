@@ -5,10 +5,10 @@ slug: "hale-sokak-cesmesi-cankiri"
 description: "## Hale Sokak Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.612987619,40.605346349"
 draft: "false"
 weight: "999"

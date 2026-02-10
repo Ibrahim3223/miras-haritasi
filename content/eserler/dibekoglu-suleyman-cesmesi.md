@@ -5,10 +5,10 @@ slug: "dibekoglu-suleyman-cesmesi"
 description: "## Dibekoğlu Süleyman Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8633461,39.9342079"
 draft: "false"
 weight: "999"

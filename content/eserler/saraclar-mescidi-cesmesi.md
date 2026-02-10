@@ -5,10 +5,10 @@ slug: "saraclar-mescidi-cesmesi"
 description: "## Saraçlar Mescidi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8621559,39.9366226"
 draft: "false"
 weight: "999"

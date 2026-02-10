@@ -5,10 +5,10 @@ slug: "kanli-cesme"
 description: "## Kanlı Çeşme: Kastamonu'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7814674,41.3793297"
 draft: "false"
 weight: "999"

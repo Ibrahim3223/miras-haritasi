@@ -5,10 +5,10 @@ slug: "ferhatlar-camii-cesmesi"
 description: "## Ferhatlar Camii Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.779505564,41.231059497"
 draft: "false"
 weight: "999"

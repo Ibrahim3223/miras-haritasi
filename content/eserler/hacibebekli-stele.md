@@ -4,8 +4,7 @@ date: "2025-12-25T14:14:08+03:00"
 slug: "hacibebekli-stele"
 description: "## Hacıbebekli Stele..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Hacibebekli.jpg/1200px-Hacibebekli.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

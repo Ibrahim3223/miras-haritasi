@@ -5,10 +5,10 @@ slug: "cesme-ulucami-vakif-bahce-sokak-24"
 description: "## Çeşme – Ulucami, Vakıf Bahçe Sokak, 24: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1795216,39.1255226"
 draft: "false"
 weight: "999"

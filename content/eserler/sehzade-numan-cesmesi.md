@@ -5,10 +5,10 @@ slug: "sehzade-numan-cesmesi"
 description: "## Şehzade Numan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Şehzade_Numan_Çeşmesi.jpg/1200px-Şehzade_Numan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018305555,41.019611111"
 draft: "false"
 weight: "10"

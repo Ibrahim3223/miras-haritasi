@@ -5,10 +5,10 @@ slug: "kayisdagi-suyu-cesmesi-sahrayicedid"
 description: "## Kayışdağı Suyu Çeşmesi (Sahrayıcedit)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kayışdağı_Suyu_Çeşmesi_(Sahrayıcedid).jpg/1200px-Kayışdağı_Suyu_Çeşmesi_(Sahrayıcedid).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.077416666,40.98025"
 draft: "false"
 weight: "10"

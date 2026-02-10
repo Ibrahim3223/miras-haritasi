@@ -5,10 +5,10 @@ slug: "ayios-konstantinos-ayazmasi-buyukada"
 description: "### Ayios Konstantinos Ayazması: Büyükada'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1130104,40.8614197"
 draft: "false"
 weight: "999"

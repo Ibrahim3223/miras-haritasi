@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:12+03:00"
 slug: "astyra-aiolis"
 description: "## Astyra (Aiolis): Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

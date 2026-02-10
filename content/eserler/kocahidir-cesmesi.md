@@ -5,10 +5,10 @@ slug: "kocahidir-cesmesi"
 description: "# Kocahıdır Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kırklareli_Kocahıdır_Ilk_Ögretim_Okulu_0019.jpg/1200px-Kırklareli_Kocahıdır_Ilk_Ögretim_Okulu_0019.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.226515996,41.734561261"
 draft: "false"
 weight: "10"

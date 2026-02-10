@@ -5,10 +5,10 @@ slug: "servi-camii-cesmesi"
 description: "## Servi Camii Çeşmesi: Kütahya'nın Tarihî Çeşme Örneği..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.981411,39.4198303"
 draft: "false"
 weight: "999"

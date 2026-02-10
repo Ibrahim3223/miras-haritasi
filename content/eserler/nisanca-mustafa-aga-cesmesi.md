@@ -5,10 +5,10 @@ slug: "nisanca-mustafa-aga-cesmesi"
 description: "## Nişanca Mustafa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Nişanca_Mustafa_Ağa_Çeşmesi.jpg/1200px-Nişanca_Mustafa_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.94278,41.024864"
 draft: "false"
 weight: "10"

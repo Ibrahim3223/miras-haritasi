@@ -5,10 +5,10 @@ slug: "kutuk-minare-cesmesi-urla"
 description: "## Kütük Minare Çeşmesi, Urla..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7720184,38.3223152"
 draft: "false"
 weight: "999"

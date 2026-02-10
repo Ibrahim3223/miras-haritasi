@@ -4,8 +4,7 @@ date: "2025-12-25T13:14:38+03:00"
 slug: "palace-in-constantinople"
 description: "**Konstantinopolis Sarayı**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

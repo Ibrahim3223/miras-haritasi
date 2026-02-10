@@ -5,10 +5,10 @@ slug: "fatma-hatun-cesmesi-orta"
 description: "## Fatma Hatun Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.955854517,40.577996175"
 draft: "false"
 weight: "999"

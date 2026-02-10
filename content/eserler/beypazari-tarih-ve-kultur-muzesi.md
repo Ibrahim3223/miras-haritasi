@@ -4,8 +4,7 @@ date: "2025-12-25T03:29:40+03:00"
 slug: "beypazari-tarih-ve-kultur-muzesi"
 description: "## Beypazarı Tarih ve Kültür Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

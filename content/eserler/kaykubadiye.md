@@ -4,8 +4,7 @@ date: "2025-12-25T13:11:36+03:00"
 slug: "kaykubadiye"
 description: "## Kaykubadiye Sarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

@@ -4,8 +4,7 @@ date: "2025-12-24T23:27:13+03:00"
 slug: "yukari-carsi-merkez-camii"
 description: "## Yukarı Çarşı Merkez Camii - İzmir'in Tarihi bir Çaprazı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

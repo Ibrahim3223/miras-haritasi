@@ -5,10 +5,10 @@ slug: "kaziroglu-cesmesi"
 description: "## Kaziroğlu Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7336636,38.0827522"
 draft: "false"
 weight: "999"

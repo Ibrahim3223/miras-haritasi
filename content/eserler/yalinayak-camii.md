@@ -4,8 +4,7 @@ date: "2025-12-24T23:43:45+03:00"
 slug: "yalinayak-camii"
 description: "## Yalınayak Camii: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

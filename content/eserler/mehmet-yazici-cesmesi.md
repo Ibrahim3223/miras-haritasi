@@ -5,10 +5,10 @@ slug: "mehmet-yazici-cesmesi"
 description: "### Mehmet Yazıcı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Mehmet_Yazıcı_Çeşmesi_Kitabesi.jpg/1200px-Mehmet_Yazıcı_Çeşmesi_Kitabesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979242,41.003286"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "haci-besir-aga-cesmesi-besiktas"
 description: "### Hacı Beşir Ağa Çeşmesi: Beşiktaş'ta Tarihin Sanki Süngerliğinde Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Hacı_Beşir_Ağa_Çeşmesi,_Beşiktaş_IMG_8326.jpg/1200px-Hacı_Beşir_Ağa_Çeşmesi,_Beşiktaş_IMG_8326.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0063686,41.0424042"
 draft: "false"
 weight: "10"

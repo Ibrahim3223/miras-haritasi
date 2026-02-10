@@ -5,10 +5,10 @@ slug: "gulnus-emetullah-valide-sultan-cesmesi-beyoglu"
 description: "# Gülnuş Emetullah Valide Sultan Çeşmesi, Beyoğlu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Gülnuş_Emetullah_Valide_Sultan_Çeşmesi,_Beyoğlu_IMG_0841.jpg/1200px-Gülnuş_Emetullah_Valide_Sultan_Çeşmesi,_Beyoğlu_IMG_0841.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9728838,41.0230024"
 draft: "false"
 weight: "10"

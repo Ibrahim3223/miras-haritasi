@@ -5,10 +5,10 @@ slug: "yahya-bey-cesmesi"
 description: "## Yahya Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Yahya_Bey_Çeşmesi,_Edirne_22.JPG/1200px-Yahya_Bey_Çeşmesi,_Edirne_22.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Edirne"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5632896,41.676815"
 draft: "false"
 weight: "10"

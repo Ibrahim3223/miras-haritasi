@@ -5,10 +5,10 @@ slug: "haci-faik-bey-cesmesi"
 description: "### Hacı Faik Bey Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Hacı_Faik_Bey_Çeşmesi.jpg/1200px-Hacı_Faik_Bey_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.015995,41.015587"
 draft: "false"
 weight: "10"

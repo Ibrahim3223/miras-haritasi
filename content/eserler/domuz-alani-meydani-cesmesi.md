@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:07+03:00"
 slug: "domuz-alani-meydani-cesmesi"
 description: "### Domuz Alanı Meydanı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/659.1-Domuz_Alanı_Meydanı_Çeşmesi-19.yy_01.jpg/1200px-659.1-Domuz_Alanı_Meydanı_Çeşmesi-19.yy_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.18110833,39.12555556"
 draft: "false"
 weight: "10"

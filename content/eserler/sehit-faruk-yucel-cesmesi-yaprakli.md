@@ -5,10 +5,10 @@ slug: "sehit-faruk-yucel-cesmesi-yaprakli"
 description: "## Şehit Faruk Yücel Çeşmesi, Yapraklı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Yapraklı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.778327439,40.757665039"
 draft: "false"
 weight: "999"

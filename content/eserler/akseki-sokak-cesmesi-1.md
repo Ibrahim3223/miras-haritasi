@@ -5,10 +5,10 @@ slug: "akseki-sokak-cesmesi-1"
 description: "### Akseki Sokak Çeşmesi 1: Safranbolu'nun Tarihi Bir Değerini Tanıtıyor..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Musalla_Mahallesi_Çeşmesi.jpg/1200px-Musalla_Mahallesi_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6889648,41.2436676"
 draft: "false"
 weight: "10"

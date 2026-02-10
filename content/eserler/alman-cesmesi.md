@@ -5,10 +5,10 @@ slug: "alman-cesmesi"
 description: "## Alman Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Istanbul_asv2021-11_img36_German_Fountain.jpg/1200px-Istanbul_asv2021-11_img36_German_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976694444,41.007111111"
 draft: "false"
 weight: "10"

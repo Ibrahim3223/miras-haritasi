@@ -5,10 +5,10 @@ slug: "bezmialem-valide-sultan-cesmesi-topkapi"
 description: "## Bezmialem Valide Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934618,41.017834"
 draft: "false"
 weight: "1"

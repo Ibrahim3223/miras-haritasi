@@ -5,10 +5,10 @@ slug: "daltaban-mustafa-pasa-cesmesi"
 description: "## Daltaban Mustafa Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961126,41.007622"
 draft: "false"
 weight: "999"

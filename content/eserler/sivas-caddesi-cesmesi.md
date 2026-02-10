@@ -5,10 +5,10 @@ slug: "sivas-caddesi-cesmesi"
 description: "## Sivas Caddesi Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4939575,38.7239761"
 draft: "false"
 weight: "999"

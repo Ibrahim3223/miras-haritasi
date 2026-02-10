@@ -5,10 +5,10 @@ slug: "dokuz-cesmeler"
 description: "## Dokuz Çeşmeler: Bir Çeşmenin Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Buca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1798973,38.3864136"
 draft: "false"
 weight: "999"

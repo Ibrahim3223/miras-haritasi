@@ -5,10 +5,10 @@ slug: "haci-besir-aga-cesmesi-gumussuyu"
 description: "## Hacı Beşir Ağa Çeşmesi: Gümüşsuyu'nun Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hacı_Beşir_Ağa_Çeşmesi,_Gümüşsuyu_IMG_5182.jpg/1200px-Hacı_Beşir_Ağa_Çeşmesi,_Gümüşsuyu_IMG_5182.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.987169,41.033688"
 draft: "false"
 weight: "10"

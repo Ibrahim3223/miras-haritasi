@@ -5,10 +5,10 @@ slug: "cakrak-koyu-cesmesi"
 description: "## Çakrak Köyü Çeşmesi: Alucra'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Alucra"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.603552,40.529807"
 draft: "false"
 weight: "999"

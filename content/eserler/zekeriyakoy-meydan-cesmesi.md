@@ -5,10 +5,10 @@ slug: "zekeriyakoy-meydan-cesmesi"
 description: "## Zekeriyaköy Meydan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0288773,41.1967239"
 draft: "false"
 weight: "999"

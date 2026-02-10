@@ -5,10 +5,10 @@ slug: "kabadayi-cesmesi-cesme"
 description: "## Kabadayı Çeşmesi: Çeşme'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3070984,38.3202248"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ihlamur-kasri-bahce-duvari-cesmesi"
 description: "## Ihlamur Kasrı Bahçe Duvarı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0002774,41.051667"
 draft: "false"
 weight: "999"

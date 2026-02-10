@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:19+03:00"
 slug: "limne"
 description: "## Limne: Türkiye'nin Gizli Arkeolojik Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

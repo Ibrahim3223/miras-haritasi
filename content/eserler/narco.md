@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:02+03:00"
 slug: "narco"
 description: "## Narco: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

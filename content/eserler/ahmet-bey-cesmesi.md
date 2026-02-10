@@ -5,10 +5,10 @@ slug: "ahmet-bey-cesmesi"
 description: "### Ahmet Bey Çeşmesi: Beykoz'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ahmet_Bey_Çeşmesi_IMG_1830.jpg/1200px-Ahmet_Bey_Çeşmesi_IMG_1830.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.088698,41.172543"
 draft: "false"
 weight: "10"

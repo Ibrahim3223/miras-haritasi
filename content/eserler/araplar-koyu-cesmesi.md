@@ -5,10 +5,10 @@ slug: "araplar-koyu-cesmesi"
 description: "## Araplar Köyü Çeşmesi: Mamak'taki Bir Örnek..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.9530029,39.929512"
 draft: "false"
 weight: "999"

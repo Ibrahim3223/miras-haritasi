@@ -4,8 +4,7 @@ date: "2025-12-24T22:15:31+03:00"
 slug: "ayasuluk-kale-camii"
 description: "## Ayasuluk Kale Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

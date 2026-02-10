@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:41+03:00"
 slug: "ergobrotis"
 description: "### Ergobrotis: Antik Tiyatro ve Kentin Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

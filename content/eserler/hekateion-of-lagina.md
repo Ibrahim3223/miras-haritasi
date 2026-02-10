@@ -4,8 +4,7 @@ date: "2025-12-25T08:26:48+03:00"
 slug: "hekateion-of-lagina"
 description: "## Hekateion of Lagina: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

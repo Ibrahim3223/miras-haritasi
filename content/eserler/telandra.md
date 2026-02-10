@@ -4,8 +4,7 @@ date: "2025-12-25T08:06:52+03:00"
 slug: "telandra"
 description: "## Telandra: Antik Bir Kentin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

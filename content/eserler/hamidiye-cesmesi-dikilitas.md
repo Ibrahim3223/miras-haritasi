@@ -5,10 +5,10 @@ slug: "hamidiye-cesmesi-dikilitas"
 description: "### Hamidiye Çeşmesi, Dikilitaş..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.006245,41.056488"
 draft: "false"
 weight: "999"

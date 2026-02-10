@@ -5,10 +5,10 @@ slug: "rustem-pasa-camii-sadirvani"
 description: "## Rüstem Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9687843,41.0179977"
 draft: "false"
 weight: "999"

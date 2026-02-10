@@ -5,10 +5,10 @@ slug: "yalinayak-hamami-cesmesi"
 description: "## Yalınayak Hamamı Çeşmesi: Tarihî Bir Ziyaret Günü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7318954,38.083313"
 draft: "false"
 weight: "999"

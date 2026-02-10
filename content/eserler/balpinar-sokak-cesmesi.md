@@ -5,10 +5,10 @@ slug: "balpinar-sokak-cesmesi"
 description: "### Balpınar Sokak Çeşmesi: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9714565,39.4225426"
 draft: "false"
 weight: "999"

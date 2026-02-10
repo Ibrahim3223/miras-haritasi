@@ -5,10 +5,10 @@ slug: "balikli-meryem-ana-ayazmasi"
 description: "**Balıklı Meryem Ana Ayazması**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9157257,41.0066566"
 draft: "false"
 weight: "999"

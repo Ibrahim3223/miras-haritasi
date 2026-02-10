@@ -5,10 +5,10 @@ slug: "cesme-3-yenikoy-sile"
 description: "## Çeşme 3, Yeniköy-Şile: Tarihî Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6495743,41.1246414"
 draft: "false"
 weight: "999"

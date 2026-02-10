@@ -5,10 +5,10 @@ slug: "aynali-cesme"
 description: "## Aynalı Çeşme: Fatih, İstanbul'un Tarihî Bir Zirvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940526,41.013867"
 draft: "false"
 weight: "999"

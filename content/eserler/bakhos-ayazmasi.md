@@ -5,10 +5,10 @@ slug: "bakhos-ayazmasi"
 description: "## Bakhos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972038909,41.002724732"
 draft: "false"
 weight: "999"

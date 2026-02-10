@@ -5,10 +5,10 @@ slug: "tarihi-baglar-cesmesi"
 description: "## Tarihi Bağlar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenyurt"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6772652,41.0341873"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cafergazi-cesmesi"
 description: "## Cafergazi Çeşmesi: İskilip'te Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4658051,40.7383461"
 draft: "false"
 weight: "999"

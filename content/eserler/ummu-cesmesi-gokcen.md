@@ -5,10 +5,10 @@ slug: "ummu-cesmesi-gokcen"
 description: "### Ümmü Çeşmesi, Gökçen: Tarihî Bir Mirasın Anlamı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8724003,38.1100998"
 draft: "false"
 weight: "999"

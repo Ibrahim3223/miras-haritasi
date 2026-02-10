@@ -5,10 +5,10 @@ slug: "mehmed-sabit-adniye-abide-ayas-cesmesi"
 description: "## Mehmed Sabit Adniye Abide Ayas Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Mehmed_Sabit_Adniye_Abide_Ayas_Çeşmesi.jpg/1200px-Mehmed_Sabit_Adniye_Abide_Ayas_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0725479,40.9777412"
 draft: "false"
 weight: "10"

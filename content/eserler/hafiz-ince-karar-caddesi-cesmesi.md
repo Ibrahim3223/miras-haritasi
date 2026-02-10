@@ -5,10 +5,10 @@ slug: "hafiz-ince-karar-caddesi-cesmesi"
 description: "## Hafız İnce Karar Caddesi Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7154617,38.6181984"
 draft: "false"
 weight: "999"

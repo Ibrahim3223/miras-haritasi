@@ -4,8 +4,7 @@ date: "2025-12-25T13:13:15+03:00"
 slug: "saljuk-palace-ani"
 description: "## Saljuk Palace Ani..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Səlcuqlu_sarayı_Ani_(18).jpg/1200px-Səlcuqlu_sarayı_Ani_(18).jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

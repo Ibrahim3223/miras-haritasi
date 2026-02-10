@@ -5,10 +5,10 @@ slug: "hasinli-camii-cesmesi"
 description: "# Hasinli Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4902382,38.7146721"
 draft: "false"
 weight: "999"

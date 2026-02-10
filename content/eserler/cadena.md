@@ -4,8 +4,7 @@ date: "2025-12-25T04:40:14+03:00"
 slug: "cadena"
 description: "## Cadena: Geçmişte Gizlenmiş, Bugün Farklılaşan Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "gideros-camii-cesmesi-cide"
 description: "# Gideros Camii Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Cide"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.862193655,41.861137573"
 draft: "false"
 weight: "999"

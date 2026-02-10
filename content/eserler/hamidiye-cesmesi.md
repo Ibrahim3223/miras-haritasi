@@ -4,11 +4,10 @@ date: "2025-12-25T10:43:06+03:00"
 slug: "hamidiye-cesmesi"
 description: "**Hamidiye Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Hamidiye_Fountain_(Yahya_Efendi)_02.jpg/1200px-Hamidiye_Fountain_(Yahya_Efendi)_02.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.017663627,41.045806841"
 draft: "false"
 weight: "10"

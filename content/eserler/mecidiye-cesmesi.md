@@ -5,10 +5,10 @@ slug: "mecidiye-cesmesi"
 description: "## Mecidiye Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.855472222,39.944194444"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "imrahor-ilyas-bey-camii-sadirvani"
 description: "**İmrahor İlyas Bey Camii Şadırvanı**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9282551,40.9961967"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sadirvanalti-camii-cesmesi"
 description: "## Şadırvanaltı Camii Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1350727,38.4210281"
 draft: "false"
 weight: "999"

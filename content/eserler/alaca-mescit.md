@@ -4,8 +4,7 @@ date: "2025-12-24T22:45:20+03:00"
 slug: "alaca-mescit"
 description: "### Alaca Mescit: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Alaca_Mescit_Camii_2025_-_i%C3%A7_pan2.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

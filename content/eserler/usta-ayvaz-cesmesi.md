@@ -5,10 +5,10 @@ slug: "usta-ayvaz-cesmesi"
 description: "### Usta Ayvaz Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5237694,39.7617188"
 draft: "false"
 weight: "999"

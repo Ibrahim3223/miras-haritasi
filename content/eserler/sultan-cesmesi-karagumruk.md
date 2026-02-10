@@ -5,10 +5,10 @@ slug: "sultan-cesmesi-karagumruk"
 description: "## Sultan Çeşmesi, Karagümrük..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933354,41.026515"
 draft: "false"
 weight: "999"

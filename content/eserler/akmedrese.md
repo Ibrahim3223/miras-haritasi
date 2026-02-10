@@ -4,8 +4,7 @@ date: "2025-12-25T17:43:59+03:00"
 slug: "akmedrese"
 description: "## Akmedrese: Tarihini ve Kültürel Mirasını Tanıtan Bir Medrese..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Medrese"
 turler: ["Medrese"]

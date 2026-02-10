@@ -4,8 +4,7 @@ date: "2025-12-25T02:02:54+03:00"
 slug: "papaz-koprusu"
 description: "### Papaz Köprüsü: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Halkalı_Merkez_-_Papaz_Bridge_-_20250615092331.jpg/1200px-Halkalı_Merkez_-_Papaz_Bridge_-_20250615092331.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Köprü"
 turler: ["Köprü"]

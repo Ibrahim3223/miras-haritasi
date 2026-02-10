@@ -5,10 +5,10 @@ slug: "cumalikizik-camii-cesmesi"
 description: "## Cumalıkızık Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1721706,40.1749115"
 draft: "false"
 weight: "999"

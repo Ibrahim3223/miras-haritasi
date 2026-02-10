@@ -5,10 +5,10 @@ slug: "coban-cesmesi-bakirkoy"
 description: "**Çoban Çeşmesi (Bakırköy)**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.88559,40.989403"
 draft: "false"
 weight: "999"

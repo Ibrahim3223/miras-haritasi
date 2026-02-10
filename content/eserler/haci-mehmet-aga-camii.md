@@ -4,8 +4,7 @@ date: "2025-12-24T23:29:52+03:00"
 slug: "haci-mehmet-aga-camii"
 description: "### Hacı Mehmet Ağa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

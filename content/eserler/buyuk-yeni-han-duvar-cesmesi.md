@@ -5,10 +5,10 @@ slug: "buyuk-yeni-han-duvar-cesmesi"
 description: "## Büyük Yeni Han Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9692954,41.0124376"
 draft: "false"
 weight: "999"

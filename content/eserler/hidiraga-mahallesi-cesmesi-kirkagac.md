@@ -5,10 +5,10 @@ slug: "hidiraga-mahallesi-cesmesi-kirkagac"
 description: "## Hıdırağa Mahallesi Çeşmesi: Kırkağaç'ta Bir Tarihsel Çeşme..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.667942,39.1014557"
 draft: "false"
 weight: "999"

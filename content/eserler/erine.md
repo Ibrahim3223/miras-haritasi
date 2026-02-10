@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:17+03:00"
 slug: "erine"
 description: "## Erine: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

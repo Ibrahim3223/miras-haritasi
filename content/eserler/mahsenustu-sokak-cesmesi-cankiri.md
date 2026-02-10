@@ -5,10 +5,10 @@ slug: "mahsenustu-sokak-cesmesi-cankiri"
 description: "### Mahsenüstü Sokak Çeşmesi, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.618901686,40.603210696"
 draft: "false"
 weight: "999"

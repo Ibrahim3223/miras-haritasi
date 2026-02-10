@@ -5,10 +5,10 @@ slug: "orduoglu-cesmesi"
 description: "## Orduoğlu Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.898258,41.006306"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "serife-ayse-siddika-hanim-cesmesi"
 description: "## Şerife Ayşe Sıddıka Hanım Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961157,41.014214"
 draft: "false"
 weight: "999"

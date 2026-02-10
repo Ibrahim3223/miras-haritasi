@@ -5,10 +5,10 @@ slug: "avcilar-sokak-cesmesi"
 description: "## Avcılar Sokak Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9780655,39.4229279"
 draft: "false"
 weight: "999"

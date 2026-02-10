@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:22+03:00"
 slug: "sogut-tarlasi-1"
 description: "### Söğüt Tarlası 1: Türkiye'nin Tarihî Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

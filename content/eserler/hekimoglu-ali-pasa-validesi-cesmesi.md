@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-validesi-cesmesi"
 description: "### Hekimoğlu Ali Paşa Validesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hekimoğlu_Ali_Paşa_Validesi_Çeşmesi.jpg/1200px-Hekimoğlu_Ali_Paşa_Validesi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979616,41.003203"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:04+03:00"
 slug: "ladik"
 description: "### Ladik: Tarihi ve Kültür Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

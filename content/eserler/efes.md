@@ -4,8 +4,7 @@ date: "2025-12-25T05:24:28+03:00"
 slug: "efes"
 description: "## Efes: İyonya'nın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ephesus_Celsus_Library_Façade.jpg/1200px-Ephesus_Celsus_Library_Façade.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

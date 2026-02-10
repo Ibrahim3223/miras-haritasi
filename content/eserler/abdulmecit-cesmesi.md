@@ -5,10 +5,10 @@ slug: "abdulmecit-cesmesi"
 description: "## Abdülmecit Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.982613,41.039898"
 draft: "false"
 weight: "999"

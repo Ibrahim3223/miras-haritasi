@@ -5,10 +5,10 @@ slug: "besikcizade-cesmesi"
 description: "## Beşikçizade Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Beşikçizade_Çeşmesi1.jpg/1200px-Beşikçizade_Çeşmesi1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.937652,41.008603"
 draft: "false"
 weight: "10"

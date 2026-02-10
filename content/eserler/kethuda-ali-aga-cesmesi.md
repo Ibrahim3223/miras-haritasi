@@ -5,10 +5,10 @@ slug: "kethuda-ali-aga-cesmesi"
 description: "**Kethüda Ali Ağa Çeşmesi: Beyoğlu'nun Tarihî Bir Çeşmesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kethüda_Ali_Ağa_Çeşmesi_IMG_6290.jpg/1200px-Kethüda_Ali_Ağa_Çeşmesi_IMG_6290.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.980082,41.033015"
 draft: "false"
 weight: "10"

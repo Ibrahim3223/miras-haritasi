@@ -4,8 +4,7 @@ date: "2025-12-25T14:45:45+03:00"
 slug: "hafsa-hatun-turbesi"
 description: "## Hafsa Hatun Türbesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

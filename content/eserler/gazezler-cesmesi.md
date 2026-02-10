@@ -5,10 +5,10 @@ slug: "gazezler-cesmesi"
 description: "### Gazezler Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4958725,37.8661385"
 draft: "false"
 weight: "999"

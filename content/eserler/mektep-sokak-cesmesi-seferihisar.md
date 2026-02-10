@@ -5,10 +5,10 @@ slug: "mektep-sokak-cesmesi-seferihisar"
 description: "## Mektep Sokak Çeşmesi, Seferihisar..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.8381996,38.2000008"
 draft: "false"
 weight: "999"

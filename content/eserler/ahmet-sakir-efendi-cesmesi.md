@@ -5,10 +5,10 @@ slug: "ahmet-sakir-efendi-cesmesi"
 description: "### Ahmet Şakir Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0128231,41.0161552"
 draft: "false"
 weight: "999"

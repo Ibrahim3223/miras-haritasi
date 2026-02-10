@@ -5,10 +5,10 @@ slug: "pasa-cesmesi-kutahya"
 description: "## Paşa Çeşmesi, Kütahya..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9873562,39.4175377"
 draft: "false"
 weight: "999"

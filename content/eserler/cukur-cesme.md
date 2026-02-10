@@ -5,10 +5,10 @@ slug: "cukur-cesme"
 description: "## Çukur Çeşme: Kütahya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9724979,39.4150467"
 draft: "false"
 weight: "999"

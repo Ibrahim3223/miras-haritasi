@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:22+03:00"
 slug: "polikhne-iyonya"
 description: "## Polikhne (İyonya): İyonya'nın Gizli Şehri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

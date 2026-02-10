@@ -5,10 +5,10 @@ slug: "ayia-paraskevi-ayazmasi-yenikoy"
 description: "### Ayia Paraskevi Ayazması, Yeniköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0637646,41.1225395"
 draft: "false"
 weight: "999"

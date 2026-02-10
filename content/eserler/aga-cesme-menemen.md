@@ -5,10 +5,10 @@ slug: "aga-cesme-menemen"
 description: "## Ağa Çeşme, Menemen: Bir Çağdaş Örnek..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0639019,38.6073341"
 draft: "false"
 weight: "999"

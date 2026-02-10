@@ -5,10 +5,10 @@ slug: "sahrayi-cedit-cesmesi"
 description: "## Sahrayı Cedit Çeşmesi: Kadıköy'ün Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.077404,40.980244"
 draft: "false"
 weight: "999"

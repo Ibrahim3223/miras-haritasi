@@ -5,10 +5,10 @@ slug: "tezkireci-osman-efendi-camii-cesmesi"
 description: "## Tezkireci Osman Efendi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.03764,41.061474"
 draft: "false"
 weight: "999"

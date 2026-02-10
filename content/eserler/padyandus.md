@@ -4,8 +4,7 @@ date: "2025-12-25T04:24:32+03:00"
 slug: "padyandus"
 description: "## Padyandus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

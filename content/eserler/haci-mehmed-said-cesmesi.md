@@ -5,10 +5,10 @@ slug: "haci-mehmed-said-cesmesi"
 description: "# Hacı Mehmed Said Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6933994,37.3572998"
 draft: "false"
 weight: "999"

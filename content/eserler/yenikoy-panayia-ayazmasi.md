@@ -5,10 +5,10 @@ slug: "yenikoy-panayia-ayazmasi"
 description: "# Yeniköy Panayia Ayazması: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0619431,41.1174126"
 draft: "false"
 weight: "999"

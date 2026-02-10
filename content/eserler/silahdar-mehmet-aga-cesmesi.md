@@ -5,10 +5,10 @@ slug: "silahdar-mehmet-aga-cesmesi"
 description: "## Silahdar Mehmet Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Silahdar_Mehmet_Ağa_Çeşmesi_IMG_5167.jpg/1200px-Silahdar_Mehmet_Ağa_Çeşmesi_IMG_5167.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.98632,41.034779"
 draft: "false"
 weight: "10"

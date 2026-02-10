@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:49+03:00"
 slug: "toriaion"
 description: "### Toriaion: Kıbrıs'in Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

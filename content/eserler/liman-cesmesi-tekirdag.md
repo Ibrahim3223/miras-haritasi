@@ -5,10 +5,10 @@ slug: "liman-cesmesi-tekirdag"
 description: "## Liman Çeşmesi Tekirdağ..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5156517,40.9756355"
 draft: "false"
 weight: "999"

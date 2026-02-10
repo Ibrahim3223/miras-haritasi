@@ -4,8 +4,7 @@ date: "2025-12-25T05:40:41+03:00"
 slug: "devlet-agorasindaki-tapinak"
 description: "# Devlet Agorasındaki Tapınak..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

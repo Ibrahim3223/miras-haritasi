@@ -4,11 +4,10 @@ date: "2025-12-25T13:07:21+03:00"
 slug: "cukur-cesmeler"
 description: "## Çukur Çeşmeler: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: ""
 draft: "false"
 weight: "999"

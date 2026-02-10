@@ -5,10 +5,10 @@ slug: "guneykoy-koyu-cesmesi"
 description: "## Güneyköy Köyü Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Görele"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.0780983,40.9927216"
 draft: "false"
 weight: "999"

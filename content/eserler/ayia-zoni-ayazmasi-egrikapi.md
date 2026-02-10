@@ -5,10 +5,10 @@ slug: "ayia-zoni-ayazmasi-egrikapi"
 description: "**Ayia Zoni Ayazması: İstanbul'un Gizli Cezvesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9399529,41.0366287"
 draft: "false"
 weight: "999"

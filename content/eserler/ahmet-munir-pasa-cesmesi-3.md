@@ -5,10 +5,10 @@ slug: "ahmet-munir-pasa-cesmesi-3"
 description: "**Ahmet Münir Paşa Çeşmesi 3: Bursa'nın Gizli Çeşmesi**..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0618439,40.1842422"
 draft: "false"
 weight: "999"

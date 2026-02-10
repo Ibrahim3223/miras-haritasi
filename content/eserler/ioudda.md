@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:38+03:00"
 slug: "ioudda"
 description: "## Ioudda Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

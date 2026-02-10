@@ -5,10 +5,10 @@ slug: "kiran-cesmesi"
 description: "### Kıran Çeşmesi: Eynesil'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Eynesil"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.1461868,41.0163956"
 draft: "false"
 weight: "999"

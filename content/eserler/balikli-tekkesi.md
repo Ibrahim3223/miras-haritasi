@@ -4,8 +4,7 @@ date: "2025-12-24T21:57:05+03:00"
 slug: "balikli-tekkesi"
 description: "### Balıklı Tekkesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Balıklı_(şeyh_bahşi)_tekkesi_(5).JPG/1200px-Balıklı_(şeyh_bahşi)_tekkesi_(5).JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "zevki-kadin-cesmesi"
 description: "## Zevki Kadın Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Zevki_Kadın_Fountain.jpg/1200px-Zevki_Kadın_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.988527777,41.029972222"
 draft: "false"
 weight: "10"

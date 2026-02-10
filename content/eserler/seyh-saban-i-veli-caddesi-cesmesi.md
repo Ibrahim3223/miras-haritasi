@@ -5,10 +5,10 @@ slug: "seyh-saban-i-veli-caddesi-cesmesi"
 description: "## Şeyh Şaban-ı Veli Caddesi Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7713509,41.3728561"
 draft: "false"
 weight: "999"

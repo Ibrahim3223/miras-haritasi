@@ -5,10 +5,10 @@ slug: "burmalicesmesi"
 description: "## Burmalı Çeşmesi: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Bağcılar_-_Burmalı_Fountain_-_20250615110558.jpg/1200px-Bağcılar_-_Burmalı_Fountain_-_20250615110558.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bağcılar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8263262,41.0528"
 draft: "false"
 weight: "10"

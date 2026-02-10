@@ -5,10 +5,10 @@ slug: "ibn-i-bezzaz-camii-cesmesi"
 description: "### İbn-i Bezzaz Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0793571,40.1835709"
 draft: "false"
 weight: "999"

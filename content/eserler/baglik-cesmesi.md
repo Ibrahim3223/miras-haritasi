@@ -5,10 +5,10 @@ slug: "baglik-cesmesi"
 description: "## Bağlık Çeşmesi: Aydın'ın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4661007,37.7925987"
 draft: "false"
 weight: "999"

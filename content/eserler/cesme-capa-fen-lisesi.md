@@ -5,10 +5,10 @@ slug: "cesme-capa-fen-lisesi"
 description: "# Çeşme, Çapa Fen Lisesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9360409,41.0142403"
 draft: "false"
 weight: "999"

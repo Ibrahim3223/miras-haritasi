@@ -5,10 +5,10 @@ slug: "iii-ahmet-cesmesi-topkapi-sarayi"
 description: "## III. Ahmet Çeşmesi: Topkapı Sarayı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9846266,41.0130633"
 draft: "false"
 weight: "1"

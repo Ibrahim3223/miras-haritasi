@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:37+03:00"
 slug: "augusta-kilikya"
 description: "### Augusta (Kilikya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

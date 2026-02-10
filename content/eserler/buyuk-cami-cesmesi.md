@@ -5,10 +5,10 @@ slug: "buyuk-cami-cesmesi"
 description: "## Büyük Cami Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kirklareli_buyuk_camii_cesmesi_02.jpg/1200px-Kirklareli_buyuk_camii_cesmesi_02.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.224055555,41.735805555"
 draft: "false"
 weight: "10"

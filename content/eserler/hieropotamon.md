@@ -4,8 +4,7 @@ date: "2025-12-25T05:04:43+03:00"
 slug: "hieropotamon"
 description: "## Hieropotamon: Antik Çağın Gizemli Evi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

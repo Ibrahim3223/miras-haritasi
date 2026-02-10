@@ -5,10 +5,10 @@ slug: "nasuh-pasa-kulliye-cesmesi"
 description: "## Nasuh Paşa Külliye Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8407173,37.8525009"
 draft: "false"
 weight: "999"

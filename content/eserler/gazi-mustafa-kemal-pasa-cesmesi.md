@@ -5,10 +5,10 @@ slug: "gazi-mustafa-kemal-pasa-cesmesi"
 description: "### Gazi Mustafa Kemal Paşa Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7112846,38.6242104"
 draft: "false"
 weight: "999"

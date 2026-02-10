@@ -5,10 +5,10 @@ slug: "kisikli-cesmesi"
 description: "## Kısıklı Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.063953,41.022034"
 draft: "false"
 weight: "999"

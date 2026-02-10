@@ -4,8 +4,7 @@ date: "2025-12-25T05:06:35+03:00"
 slug: "eulepa"
 description: "## Eulepa Arkeolojik Sit: Ege Bölgesi'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "kayabey-camii-cesmesi"
 description: "### Kayabey Camii Çeşmesi: Balıkesir'in Zengin Tarihi Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8790684,39.6525764"
 draft: "false"
 weight: "999"

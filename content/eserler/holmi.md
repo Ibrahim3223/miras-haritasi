@@ -4,8 +4,7 @@ date: "2025-12-25T04:34:24+03:00"
 slug: "holmi"
 description: "## Holmi: Türkiye'nin Eski Medeniyetinin Gizli Kaleleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

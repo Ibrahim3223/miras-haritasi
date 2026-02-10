@@ -5,10 +5,10 @@ slug: "pervizoglu-cesmesi"
 description: "## Pervizoğlu Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2744331,39.9094582"
 draft: "false"
 weight: "999"

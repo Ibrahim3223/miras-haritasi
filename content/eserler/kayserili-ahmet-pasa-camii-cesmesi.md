@@ -5,10 +5,10 @@ slug: "kayserili-ahmet-pasa-camii-cesmesi"
 description: "## Kayserili Ahmet Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.4047184,40.1427917"
 draft: "false"
 weight: "999"

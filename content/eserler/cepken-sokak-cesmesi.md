@@ -5,10 +5,10 @@ slug: "cepken-sokak-cesmesi"
 description: "## Cepken Sokak Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9429092,41.0305214"
 draft: "false"
 weight: "999"

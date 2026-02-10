@@ -5,10 +5,10 @@ slug: "aga-cesmesi-hamzabali"
 description: "## Ağa Çeşmesi, Hamzabali: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1293564,37.8054428"
 draft: "false"
 weight: "999"

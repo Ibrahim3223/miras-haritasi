@@ -5,10 +5,10 @@ slug: "yeni-cami-sadirvani"
 description: "## Yeni Cami Şadırvanı: İstanbul'un Tarihî Kısmına Dikkat Çeken Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9718323,41.0170898"
 draft: "false"
 weight: "999"

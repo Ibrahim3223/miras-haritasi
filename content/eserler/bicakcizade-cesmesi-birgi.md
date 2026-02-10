@@ -5,10 +5,10 @@ slug: "bicakcizade-cesmesi-birgi"
 description: "## Bıçakçızade Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0637913,38.2537498"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "emin-ganim-mustafa-cavus-cesmesi"
 description: "## Emin Ganim Mustafa Çavuş Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Emin_Ganim_Mustafa_Çavuş_Çeşmesi2,_Fatih,_İstanbul_2025.jpg/1200px-Emin_Ganim_Mustafa_Çavuş_Çeşmesi2,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.923246,41.000278"
 draft: "false"
 weight: "10"

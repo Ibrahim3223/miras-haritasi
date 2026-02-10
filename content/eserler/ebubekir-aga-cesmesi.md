@@ -5,10 +5,10 @@ slug: "ebubekir-aga-cesmesi"
 description: "## Ebubekir Ağa Çeşmesi: Fatih'te Bir Tarihî Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Ebubekir_Ağa_Çeşmesi.jpg/1200px-Ebubekir_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.94493,41.024436"
 draft: "false"
 weight: "10"

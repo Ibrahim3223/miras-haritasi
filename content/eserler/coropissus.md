@@ -4,8 +4,7 @@ date: "2025-12-25T05:19:18+03:00"
 slug: "coropissus"
 description: "## Coropissus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

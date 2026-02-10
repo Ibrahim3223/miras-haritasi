@@ -5,10 +5,10 @@ slug: "cavit-pasa-cesmesi"
 description: "## Cavit Paşa Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4330654,38.6192665"
 draft: "false"
 weight: "999"

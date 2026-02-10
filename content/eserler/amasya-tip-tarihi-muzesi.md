@@ -4,8 +4,7 @@ date: "2025-12-25T03:47:55+03:00"
 slug: "amasya-tip-tarihi-muzesi"
 description: "# Amasya Tıp Tarihi Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/4/42/Dar%C3%BC%C5%9F%C5%9Fifa_%28Bimarhane%29%2C_Amasya_04.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

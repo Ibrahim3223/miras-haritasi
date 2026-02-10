@@ -5,10 +5,10 @@ slug: "darulkurra-meydan-cesmesi"
 description: "## Darülkurra Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6460476,38.2268105"
 draft: "false"
 weight: "999"

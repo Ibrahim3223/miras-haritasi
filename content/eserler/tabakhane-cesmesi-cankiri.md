@@ -5,10 +5,10 @@ slug: "tabakhane-cesmesi-cankiri"
 description: "## Tabakhane Çeşmesi, Çankırı: Bir Çeşminin Öyküsü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.614053337,40.602550457"
 draft: "false"
 weight: "999"

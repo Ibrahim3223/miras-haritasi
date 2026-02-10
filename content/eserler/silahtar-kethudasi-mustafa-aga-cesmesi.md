@@ -5,10 +5,10 @@ slug: "silahtar-kethudasi-mustafa-aga-cesmesi"
 description: "## Silahtar Kethüdası Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.927401,41.011139"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:18:28+03:00"
 slug: "simena"
 description: "# Simena: Antik Tarihin Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/SIMENASUKALEKOY_002.jpg/1200px-SIMENASUKALEKOY_002.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

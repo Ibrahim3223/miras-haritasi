@@ -5,10 +5,10 @@ slug: "said-bey-cesmesi"
 description: "## Said Bey Çeşmesi: Şişli'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.994835,41.049067"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesme-besiktas-yikilmis"
 description: "### Beşiktaş Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.005354277,41.041727373"
 draft: "false"
 weight: "999"

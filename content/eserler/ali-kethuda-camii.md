@@ -4,8 +4,7 @@ date: "2025-12-24T22:24:41+03:00"
 slug: "ali-kethuda-camii"
 description: "## Ali Kethüda Camii: İstanbul'un Gizli Çehresinde Bir İhtişam..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg/1200px-Ali_Kethüda_Mosque,_Sarıyer,_İstanbul.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

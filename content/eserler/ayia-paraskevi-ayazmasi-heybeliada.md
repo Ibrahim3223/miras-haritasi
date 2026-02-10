@@ -5,10 +5,10 @@ slug: "ayia-paraskevi-ayazmasi-heybeliada"
 description: "### Ayia Paraskevi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0991402,40.8776016"
 draft: "false"
 weight: "999"

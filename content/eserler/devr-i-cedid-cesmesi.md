@@ -5,10 +5,10 @@ slug: "devr-i-cedid-cesmesi"
 description: "## Devr-i Cedid Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.48703,37.874279"
 draft: "false"
 weight: "999"

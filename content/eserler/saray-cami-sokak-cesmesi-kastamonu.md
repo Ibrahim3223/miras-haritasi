@@ -5,10 +5,10 @@ slug: "saray-cami-sokak-cesmesi-kastamonu"
 description: "## Saray Cami Sokak Çeşmesi: Kastamonu'nun Tarihi ve Kültür Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.779620452,41.376412768"
 draft: "false"
 weight: "999"

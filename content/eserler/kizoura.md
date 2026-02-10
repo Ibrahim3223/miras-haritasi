@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:39+03:00"
 slug: "kizoura"
 description: "## Kizoura: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

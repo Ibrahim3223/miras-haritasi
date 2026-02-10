@@ -5,10 +5,10 @@ slug: "kirimi-cesmesi"
 description: "### Kırımi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Kırımi_Çeşmesi.jpg/1200px-Kırımi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936359,41.037022"
 draft: "false"
 weight: "10"

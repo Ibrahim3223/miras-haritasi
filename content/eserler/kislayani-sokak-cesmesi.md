@@ -5,10 +5,10 @@ slug: "kislayani-sokak-cesmesi"
 description: "## Kışlayanı Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Kışlayanı_Sokak_Çeşmesi.jpg/1200px-Kışlayanı_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6930695,41.2429504"
 draft: "false"
 weight: "10"

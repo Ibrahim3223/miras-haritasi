@@ -5,10 +5,10 @@ slug: "incili-cavus-sokak-cesmesi"
 description: "## İncili Çavuş Sokak Çeşmesi: Fatih'ten Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976877,41.0081989"
 draft: "false"
 weight: "999"

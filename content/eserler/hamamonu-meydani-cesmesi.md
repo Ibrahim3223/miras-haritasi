@@ -5,10 +5,10 @@ slug: "hamamonu-meydani-cesmesi"
 description: "## Hamamönü Meydanı Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8665466,39.9332581"
 draft: "false"
 weight: "999"

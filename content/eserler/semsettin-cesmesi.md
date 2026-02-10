@@ -5,10 +5,10 @@ slug: "semsettin-cesmesi"
 description: "## Şemsettin Çeşmesi: Bulancak'ın Tarihî Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Bulancak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.235372,40.915866"
 draft: "false"
 weight: "999"

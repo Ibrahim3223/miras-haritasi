@@ -4,8 +4,7 @@ date: "2025-12-25T05:00:57+03:00"
 slug: "krise-aiolis"
 description: "### Krise (Aiolis)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

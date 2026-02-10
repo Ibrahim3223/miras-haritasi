@@ -5,10 +5,10 @@ slug: "ii-mahmut-cesmesi-nisanca"
 description: "## II. Mahmut Çeşmesi, Nişanca..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.930944,41.040726"
 draft: "false"
 weight: "999"

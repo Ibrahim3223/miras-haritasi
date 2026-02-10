@@ -5,10 +5,10 @@ slug: "tersane-emini-ahmet-aga-meydan-cesmesi"
 description: "## Tersane Emini Ahmet Ağa Meydan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tersane_Emini_Ahmet_Ağa_Meydan_Çeşmesi_IMG_5770.jpg/1200px-Tersane_Emini_Ahmet_Ağa_Meydan_Çeşmesi_IMG_5770.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967087,41.034111"
 draft: "false"
 weight: "10"

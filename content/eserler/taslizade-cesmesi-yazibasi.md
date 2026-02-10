@@ -5,10 +5,10 @@ slug: "taslizade-cesmesi-yazibasi"
 description: "### Taşlızade Çeşmesi, Yazıbaşı: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Torbalı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3206367,38.2387619"
 draft: "false"
 weight: "999"

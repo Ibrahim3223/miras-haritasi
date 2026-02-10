@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:32+03:00"
 slug: "karallia-pamfilya"
 description: "## Karallia (Pamfilya): Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

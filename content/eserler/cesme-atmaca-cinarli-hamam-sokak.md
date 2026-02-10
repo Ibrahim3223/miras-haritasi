@@ -5,10 +5,10 @@ slug: "cesme-atmaca-cinarli-hamam-sokak"
 description: "## Çeşme - Atmaca, Çınarlı Hamam Sokak..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1778831,39.1216774"
 draft: "false"
 weight: "999"

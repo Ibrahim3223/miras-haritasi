@@ -5,10 +5,10 @@ slug: "ayios-trifonos-cesmesi"
 description: "## Ayios Trifonos Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0434265,41.068306"
 draft: "false"
 weight: "999"

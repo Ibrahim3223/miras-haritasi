@@ -4,8 +4,7 @@ date: "2025-12-25T04:11:04+03:00"
 slug: "elgiz-muzesi"
 description: "## Elgiz Müzesi: İstanbul'un Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

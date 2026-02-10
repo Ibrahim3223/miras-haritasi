@@ -5,10 +5,10 @@ slug: "mustafa-aga-cesmesi-atikali"
 description: "## Mustafa Ağa Çeşmesi, Atikali: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944567,41.02697"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:44:33+03:00"
 slug: "ceretapa"
 description: "## Ceretapa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

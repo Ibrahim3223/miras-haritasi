@@ -5,10 +5,10 @@ slug: "mutaflar-yukari-cesme"
 description: "# Mutaflar Yukarı Çeşme..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4632988,40.7332497"
 draft: "false"
 weight: "999"

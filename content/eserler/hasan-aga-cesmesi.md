@@ -5,10 +5,10 @@ slug: "hasan-aga-cesmesi"
 description: "## Hasan Ağa Çeşmesi: İstanbul'un Tarihi ve Kültürel Miraslarından Bir İkincisi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Galata,_fontana_di_Matbah_Emini_Hasan_Aga,_02.jpg/1200px-Galata,_fontana_di_Matbah_Emini_Hasan_Aga,_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.975055555,41.025472222"
 draft: "false"
 weight: "10"

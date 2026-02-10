@@ -5,10 +5,10 @@ slug: "cesme-selcuk-2-cukurbag-caddesi-12"
 description: "### Çeşme - Selçuk, 2. Çukurbağ Caddesi, 12: Bergama'nın Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/418.3-Sarı_Çeşme-19.yy_01.jpg/1200px-418.3-Sarı_Çeşme-19.yy_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1772003,39.1245995"
 draft: "false"
 weight: "10"

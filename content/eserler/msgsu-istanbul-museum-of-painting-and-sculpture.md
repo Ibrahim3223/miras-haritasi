@@ -4,8 +4,7 @@ date: "2025-12-25T04:11:31+03:00"
 slug: "msgsu-istanbul-museum-of-painting-and-sculpture"
 description: "## MSGSU İstanbul Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

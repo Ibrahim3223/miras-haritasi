@@ -5,10 +5,10 @@ slug: "ortaalan-cesmesi-akcaabat"
 description: "# Ortaalan Çeşmesi Akçaabat..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.4822235,40.9311981"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tabakhane-camisi-cesmesi"
 description: "### Tabakhane Camisi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8601151,39.9424324"
 draft: "false"
 weight: "999"

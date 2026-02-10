@@ -5,10 +5,10 @@ slug: "haci-nefis-hanim-cesmesi"
 description: "## Hacı Nefis Hanım Çeşmesi: Sarıyer'in Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hacı_Nefis_Hanım_Çeşmesi_IMG_0273.jpg/1200px-Hacı_Nefis_Hanım_Çeşmesi_IMG_0273.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0556927,41.2337914"
 draft: "false"
 weight: "10"

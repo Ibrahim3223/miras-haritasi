@@ -4,11 +4,10 @@ date: "2025-12-25T10:04:38+03:00"
 slug: "menekse-cikmazi-cesmesi"
 description: "## Menekşe Çıkmazı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/657.41-Menekşe_Çıkmazı_Çeşmesi-21.yy.jpg/1200px-657.41-Menekşe_Çıkmazı_Çeşmesi-21.yy.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.18224444,39.12519167"
 draft: "false"
 weight: "10"

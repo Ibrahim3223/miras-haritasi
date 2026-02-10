@@ -5,10 +5,10 @@ slug: "gavremoglu-cesmesi"
 description: "### Gavremoğlu Çeşmesi: Melikgazi'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4924164,38.720108"
 draft: "false"
 weight: "999"

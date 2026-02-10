@@ -5,10 +5,10 @@ slug: "pasa-cesmesi-gume"
 description: "## Paşa Çeşmesi, Güme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7534065,38.0555763"
 draft: "false"
 weight: "999"

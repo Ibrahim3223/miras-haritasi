@@ -5,10 +5,10 @@ slug: "cesme-alhan"
 description: "## Alhan Çeşmesi: Aydın'ın Tarihi ve Mimari Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1672993,37.8137016"
 draft: "false"
 weight: "999"

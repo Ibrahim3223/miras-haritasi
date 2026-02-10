@@ -4,8 +4,7 @@ date: "2025-12-25T06:58:01+03:00"
 slug: "semahoyuk"
 description: "### Semahöyük: Tarih ve Kültür Mirasının Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "kucuk-ayasofya-mescidi-cesmesi"
 description: "## Küçük Ayasofya Mescidi Çeşmesi: Akşehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Akşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.4094124,38.3567467"
 draft: "false"
 weight: "1"

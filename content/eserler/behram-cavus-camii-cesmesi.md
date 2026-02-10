@@ -5,10 +5,10 @@ slug: "behram-cavus-camii-cesmesi"
 description: "## Behram Çavuş Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.96667,41.004354"
 draft: "false"
 weight: "999"

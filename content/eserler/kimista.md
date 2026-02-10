@@ -4,8 +4,7 @@ date: "2025-12-25T05:06:44+03:00"
 slug: "kimista"
 description: "## Kimista Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

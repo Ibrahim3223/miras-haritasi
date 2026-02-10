@@ -5,10 +5,10 @@ slug: "ayios-haralambos-ayazmasi-yenikoy"
 description: "## Ayios Haralambos Ayazması, Yeniköy: Sarıyer'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0619202,41.1250305"
 draft: "false"
 weight: "999"

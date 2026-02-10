@@ -5,10 +5,10 @@ slug: "huseyin-aga-camii-cesmesi"
 description: "### Hüseyin Ağa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hüseyin_Ağa_Camii_Çeşmesi.jpg/1200px-Hüseyin_Ağa_Camii_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.980416,41.035224"
 draft: "false"
 weight: "10"

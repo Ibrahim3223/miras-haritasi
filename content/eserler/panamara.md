@@ -4,8 +4,7 @@ date: "2025-12-25T05:22:21+03:00"
 slug: "panamara"
 description: "## Panamara: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

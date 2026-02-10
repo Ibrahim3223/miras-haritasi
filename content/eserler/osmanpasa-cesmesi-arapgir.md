@@ -5,10 +5,10 @@ slug: "osmanpasa-cesmesi-arapgir"
 description: "## Osmanpaşa Çeşmesi: Arapgir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Mamuret-ul-Aziz Vilayeti"
-iller: '["Mamuret-ul-Aziz Vilayeti"]'
+iller: ["Mamuret-ul-Aziz Vilayeti"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.471544851,39.05736326"
 draft: "false"
 weight: "999"

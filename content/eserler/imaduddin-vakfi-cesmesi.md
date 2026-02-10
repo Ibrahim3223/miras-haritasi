@@ -5,10 +5,10 @@ slug: "imaduddin-vakfi-cesmesi"
 description: "### İmadüddin Vakfı Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4329262,38.6089058"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "esat-pasa-cami-cesmeleri"
 description: "## Esat Paşa Cami Çeşmeleri..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2745972,39.9078255"
 draft: "false"
 weight: "999"

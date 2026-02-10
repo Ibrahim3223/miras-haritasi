@@ -5,10 +5,10 @@ slug: "hamidiye-camii-cesmesi"
 description: "**Hamidiye Camii Çeşmesi**..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7611656,41.9786568"
 draft: "false"
 weight: "999"

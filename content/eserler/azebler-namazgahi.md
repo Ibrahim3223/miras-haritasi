@@ -4,8 +4,7 @@ date: "2025-12-25T00:48:11+03:00"
 slug: "azebler-namazgahi"
 description: "## Azebler Namazgahı: Tarihî Bir Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

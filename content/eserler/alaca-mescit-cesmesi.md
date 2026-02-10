@@ -5,10 +5,10 @@ slug: "alaca-mescit-cesmesi"
 description: "## Alaca Mescit Çeşmesi: Tokat'taki Bir Tarihi Çeşmenin Gizemi..."
 featured_image: ""
 province: "Tokat"
-iller: '["Tokat"]'
+iller: ["Tokat"]
 district: "Tokat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "36.544519462,40.316219918"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-memis-cesmesi"
 description: "# Hoca Memiş Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.304206053,38.32026291"
 draft: "false"
 weight: "999"

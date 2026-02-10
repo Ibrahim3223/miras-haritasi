@@ -5,10 +5,10 @@ slug: "aci-cesme-altindag-bornova"
 description: "### Acı Çeşme - Bornova, İzmir..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2036228,38.4168053"
 draft: "false"
 weight: "999"

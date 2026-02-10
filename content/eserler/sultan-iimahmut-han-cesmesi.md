@@ -5,10 +5,10 @@ slug: "sultan-iimahmut-han-cesmesi"
 description: "## Sultan II.Mahmut Han Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Sultan_Mahmut_II_Han_Fountain,_Tarabya.jpg/1200px-Sultan_Mahmut_II_Han_Fountain,_Tarabya.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.053881,41.13866"
 draft: "false"
 weight: "10"

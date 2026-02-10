@@ -4,8 +4,7 @@ date: "2025-12-25T08:33:46+03:00"
 slug: "najade-gemi"
 description: "## Najade (Gemi)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

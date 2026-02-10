@@ -5,10 +5,10 @@ slug: "edirnekapi-mihrimah-sultan-camii-sadirvani"
 description: "## Edirnekapı Mihrimah Sultan Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9354668,41.0295105"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kethuda-ahmet-efendi-cesmesi"
 description: "## Kethüda Ahmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7450275,38.0861931"
 draft: "false"
 weight: "999"

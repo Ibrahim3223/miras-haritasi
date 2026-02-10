@@ -5,10 +5,10 @@ slug: "mirzazade-mehmet-efendi-cesmesi"
 description: "## Mirzazade Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.021401,41.027687"
 draft: "false"
 weight: "999"

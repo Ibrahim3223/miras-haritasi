@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:58+03:00"
 slug: "lobolda"
 description: "## Lobolda: Tarihçe ve Kültür Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

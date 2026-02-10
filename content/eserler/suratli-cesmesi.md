@@ -5,10 +5,10 @@ slug: "suratli-cesmesi"
 description: "## Süratli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.741272,38.0843773"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "maruf-cesmesi"
 description: "## Maruf Çeşmesi: Kütahya'nın Görsel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9731121,39.4211159"
 draft: "false"
 weight: "999"

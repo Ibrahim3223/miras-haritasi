@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:22+03:00"
 slug: "boradion"
 description: "## Boradion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

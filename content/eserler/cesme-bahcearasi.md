@@ -5,10 +5,10 @@ slug: "cesme-bahcearasi"
 description: "## Çeşme, Bahçearası: Aydın'ın Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8929672,37.708889"
 draft: "false"
 weight: "999"

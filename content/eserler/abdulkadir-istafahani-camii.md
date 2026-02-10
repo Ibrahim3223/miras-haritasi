@@ -4,8 +4,7 @@ date: "2025-12-24T22:10:23+03:00"
 slug: "abdulkadir-istafahani-camii"
 description: "## Abdülkadir İstafahani Camii: Geçmişin Mirası ve İnsanların İbadet Ettiği Yer..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

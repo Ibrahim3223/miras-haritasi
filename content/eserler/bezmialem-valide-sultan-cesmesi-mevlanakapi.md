@@ -5,10 +5,10 @@ slug: "bezmialem-valide-sultan-cesmesi-mevlanakapi"
 description: "### Bezmialem Valide Sultan Çeşmesi, Mevlanakapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9265442,41.0083809"
 draft: "false"
 weight: "999"

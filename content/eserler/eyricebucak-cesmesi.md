@@ -5,10 +5,10 @@ slug: "eyricebucak-cesmesi"
 description: "# Eyricebucak Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4033775,38.6766777"
 draft: "false"
 weight: "999"

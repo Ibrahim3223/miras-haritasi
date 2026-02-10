@@ -5,10 +5,10 @@ slug: "gumusluce-yolu-vakif-cesmesi"
 description: "# Gümüşlüce Yolu Vakıf Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7651253,41.3741951"
 draft: "false"
 weight: "999"

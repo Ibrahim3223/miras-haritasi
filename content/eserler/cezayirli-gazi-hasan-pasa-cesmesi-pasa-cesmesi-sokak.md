@@ -5,10 +5,10 @@ slug: "cezayirli-gazi-hasan-pasa-cesmesi-pasa-cesmesi-sokak"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.964828,41.032772"
 draft: "false"
 weight: "999"

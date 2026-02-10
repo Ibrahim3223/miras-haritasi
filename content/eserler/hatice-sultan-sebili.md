@@ -5,10 +5,10 @@ slug: "hatice-sultan-sebili"
 description: "## Hatice Sultan Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9425087,41.0400162"
 draft: "false"
 weight: "999"

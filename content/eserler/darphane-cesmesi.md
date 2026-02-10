@@ -5,10 +5,10 @@ slug: "darphane-cesmesi"
 description: "## Darphane Çeşmesi: Cankurtaran'da Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.981305,41.010159"
 draft: "false"
 weight: "999"

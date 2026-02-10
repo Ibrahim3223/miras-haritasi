@@ -5,10 +5,10 @@ slug: "sancaktar-hayrettin-cesmesi"
 description: "## Sancaktar Hayrettin Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9347916,41.0030899"
 draft: "false"
 weight: "999"

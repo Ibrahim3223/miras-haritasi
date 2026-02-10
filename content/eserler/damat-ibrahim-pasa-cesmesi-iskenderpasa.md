@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-cesmesi-iskenderpasa"
 description: "## Damat İbrahim Paşa Çeşmesi, İskenderpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.946936,41.014957"
 draft: "false"
 weight: "999"

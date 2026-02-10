@@ -5,10 +5,10 @@ slug: "ussaki-tekkesi-cesmesi"
 description: "## Uşşaki Tekkesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.927517,40.996536"
 draft: "false"
 weight: "999"

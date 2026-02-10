@@ -5,10 +5,10 @@ slug: "kaymakam-cesmesi"
 description: "## Kaymakam Çeşmesi: Odunpazarı'nın Tarihî Simgesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5254498,39.7638016"
 draft: "false"
 weight: "999"

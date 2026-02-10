@@ -5,10 +5,10 @@ slug: "cimcim-cesmesi"
 description: "## Uşak'ta Tarihi Bir Çeşme: Cimcim Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4026318,38.6779289"
 draft: "false"
 weight: "999"

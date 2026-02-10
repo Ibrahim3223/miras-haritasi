@@ -4,8 +4,7 @@ date: "2025-12-24T23:26:44+03:00"
 slug: "gurcuzade-camii"
 description: "### Gürcüzade Camii: İzmir'in Zümrüt Vadi'ndeki Tarihî Bir Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

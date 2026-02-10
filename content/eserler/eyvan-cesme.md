@@ -5,10 +5,10 @@ slug: "eyvan-cesme"
 description: "## Eyvan Çeşme: Şebinkarahisar'ın Göz Alıcı Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.4250069,40.2844963"
 draft: "false"
 weight: "999"

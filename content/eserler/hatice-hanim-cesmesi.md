@@ -5,10 +5,10 @@ slug: "hatice-hanim-cesmesi"
 description: "# Hatice Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/148.40-Hatice_Hanım_Çeşmesi-1884_01.jpg/1200px-148.40-Hatice_Hanım_Çeşmesi-1884_01.jpg"
 province: "Bergama (ilçe)"
-iller: '["Bergama (ilçe)"]'
+iller: ["Bergama (ilçe)"]
 district: "Turabey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.182194444,39.120694444"
 draft: "false"
 weight: "10"

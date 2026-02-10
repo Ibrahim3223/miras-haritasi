@@ -5,10 +5,10 @@ slug: "ayn-meydan-cesmesi"
 description: "## Ayn Meydan Çeşmesi: Mardin'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Savur"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.890584002,37.537150938"
 draft: "false"
 weight: "999"

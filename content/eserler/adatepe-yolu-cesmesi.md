@@ -5,10 +5,10 @@ slug: "adatepe-yolu-cesmesi"
 description: "## Adatepe Yolu Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6146908,39.5600433"
 draft: "false"
 weight: "999"

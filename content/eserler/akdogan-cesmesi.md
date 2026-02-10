@@ -5,10 +5,10 @@ slug: "akdogan-cesmesi"
 description: "## Akdoğan Çeşmesi: Sivrihisar'ın Tarihi Ögesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5385265,39.4533234"
 draft: "false"
 weight: "999"

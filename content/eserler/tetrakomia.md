@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:43+03:00"
 slug: "tetrakomia"
 description: "## Tetrakomia: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

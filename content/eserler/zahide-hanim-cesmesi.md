@@ -5,10 +5,10 @@ slug: "zahide-hanim-cesmesi"
 description: "## Zahide Hanım Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4333344,38.6106148"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kursunlu-camii-cesmesi"
 description: "## Kurşunlu Camii Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2755203,39.9087257"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T16:19:39+03:00"
 slug: "muhsin-ertugrul-sahnesi"
 description: "## Muhsin Ertuğrul Sahnesi: Türkiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

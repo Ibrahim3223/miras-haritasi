@@ -5,10 +5,10 @@ slug: "sakarya-haci-ali-cesmesi"
 description: "## Sakarya Hacı Ali Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4658813,40.737072"
 draft: "false"
 weight: "999"

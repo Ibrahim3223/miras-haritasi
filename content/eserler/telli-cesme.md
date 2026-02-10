@@ -5,10 +5,10 @@ slug: "telli-cesme"
 description: "## Telli Çeşme: Gelibolu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6753635,40.4092178"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:10+03:00"
 slug: "parabolos"
 description: "## Parabolos: Eski Yunanistan'ın Gizemli Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

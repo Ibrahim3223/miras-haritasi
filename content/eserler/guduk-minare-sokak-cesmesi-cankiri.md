@@ -5,10 +5,10 @@ slug: "guduk-minare-sokak-cesmesi-cankiri"
 description: "## Güdük Minare Sokak Çeşmesi: Çankırı'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.615068553,40.603383345"
 draft: "false"
 weight: "999"

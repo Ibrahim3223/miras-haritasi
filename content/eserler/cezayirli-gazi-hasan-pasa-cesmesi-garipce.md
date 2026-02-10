@@ -5,10 +5,10 @@ slug: "cezayirli-gazi-hasan-pasa-cesmesi-garipce"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi, Garipçe..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1002789,41.2061195"
 draft: "false"
 weight: "999"

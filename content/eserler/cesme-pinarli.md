@@ -5,10 +5,10 @@ slug: "cesme-pinarli"
 description: "## Çeşme, Pınarlı: Aydın'ın Bozdoğan'ında Bir Ölümsüz Miras..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3011894,37.7048912"
 draft: "false"
 weight: "999"

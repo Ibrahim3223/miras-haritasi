@@ -5,10 +5,10 @@ slug: "haci-aftal-cesmesi"
 description: "## Hacı Aftal Çeşmesi: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5346928,38.755352"
 draft: "false"
 weight: "999"

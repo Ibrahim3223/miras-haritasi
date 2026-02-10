@@ -5,10 +5,10 @@ slug: "katip-muslihittin-cesmesi"
 description: "## Katip Muslihittin Çeşmesi: Aksaray'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.947918,41.008602"
 draft: "false"
 weight: "999"

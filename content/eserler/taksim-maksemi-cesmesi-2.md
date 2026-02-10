@@ -5,10 +5,10 @@ slug: "taksim-maksemi-cesmesi-2"
 description: "## Taksim Maksemi Çeşmesi 2: Beyoğlu'ndaki Tarihi Bir Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Taksim_Maksemi_Çeşmesi_IMG_5125.jpg/1200px-Taksim_Maksemi_Çeşmesi_IMG_5125.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9842682,41.036377"
 draft: "false"
 weight: "10"

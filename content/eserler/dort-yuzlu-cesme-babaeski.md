@@ -5,10 +5,10 @@ slug: "dort-yuzlu-cesme-babaeski"
 description: "### Dört Yüzlü Çeşme (Babaeski)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Dört_Yüzlü_Fountain_(Babaeski)_-_20250424173050.jpg/1200px-Dört_Yüzlü_Fountain_(Babaeski)_-_20250424173050.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.09475,41.428416666"
 draft: "false"
 weight: "10"

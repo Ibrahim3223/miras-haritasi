@@ -5,10 +5,10 @@ slug: "ayios-nikolas-ayazmasi-balat"
 description: "## Ayios Nikolas Ayazması, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9450607,41.0319214"
 draft: "false"
 weight: "999"

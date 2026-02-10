@@ -4,8 +4,7 @@ date: "2025-12-25T08:12:38+03:00"
 slug: "cift-anitli-kutsal-alan"
 description: "## Çift Anıtlı Kutsal Alan: İzmir'in Gizli Gölleri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Ephesus18.jpg/1200px-Ephesus18.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

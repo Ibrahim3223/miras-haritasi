@@ -5,10 +5,10 @@ slug: "konyalizade-ismail-efendi-cesmesi"
 description: "## Konyalızade İsmail Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1781006,39.1236992"
 draft: "false"
 weight: "999"

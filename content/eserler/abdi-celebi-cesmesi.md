@@ -5,10 +5,10 @@ slug: "abdi-celebi-cesmesi"
 description: "## Abdi Çelebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.932437,41.001519"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "merzifonlu-kara-mustafa-pasa-sebili"
 description: "## Merzifonlu Kara Mustafa Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.968214,41.0086827"
 draft: "false"
 weight: "999"

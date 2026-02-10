@@ -5,10 +5,10 @@ slug: "haci-kadin-cesmesi"
 description: "## Hacı Kadın Çeşmesi: Fatih'ten Bir Kültürel Miras..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929534,41.000651"
 draft: "false"
 weight: "999"

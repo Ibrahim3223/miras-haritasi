@@ -5,10 +5,10 @@ slug: "cesme-3"
 description: "## Çeşme 3: Ayvacık'taki Bir Ören..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6188698,39.5703545"
 draft: "false"
 weight: "999"

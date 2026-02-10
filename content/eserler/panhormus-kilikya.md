@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:40+03:00"
 slug: "panhormus-kilikya"
 description: "### Panhormus (Kilikya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

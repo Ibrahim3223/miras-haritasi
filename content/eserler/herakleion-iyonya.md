@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:21+03:00"
 slug: "herakleion-iyonya"
 description: "## Herakleion (İyonya) Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

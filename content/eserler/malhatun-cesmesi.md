@@ -5,10 +5,10 @@ slug: "malhatun-cesmesi"
 description: "# Malhatun Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5257511,39.7654419"
 draft: "false"
 weight: "999"

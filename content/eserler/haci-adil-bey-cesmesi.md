@@ -5,10 +5,10 @@ slug: "haci-adil-bey-cesmesi"
 description: "## Hacı Adil Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Hacı_Adil_Bey_Çeşmesi,_27.JPG/1200px-Hacı_Adil_Bey_Çeşmesi,_27.JPG"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.551388888,41.662222222"
 draft: "false"
 weight: "10"

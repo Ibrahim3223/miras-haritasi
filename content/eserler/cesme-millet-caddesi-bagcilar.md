@@ -5,10 +5,10 @@ slug: "cesme-millet-caddesi-bagcilar"
 description: "## Çeşme (Millet Caddesi, Bağcılar)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Çeşme_(Millet_Caddesi,_Bağcılar)_-_20250615112106.jpg/1200px-Çeşme_(Millet_Caddesi,_Bağcılar)_-_20250615112106.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bağcılar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.825178,41.053101"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "naip-tarlasi-sokak-cesmesi"
 description: "## Naip Tarlası Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Naip_Tarlası_Sokak_Çeşmesi.jpg/1200px-Naip_Tarlası_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6940575,41.2447815"
 draft: "false"
 weight: "10"

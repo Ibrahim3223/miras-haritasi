@@ -5,10 +5,10 @@ slug: "ozcan-mahallesi-cesmesi"
 description: "### Özcan Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Trabzon Eyaleti"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.4588966,40.4600983"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tulbentci-husamettin-camii-cesmesi"
 description: "## Tülbentçi Hüsamettin Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9585972,41.0054321"
 draft: "false"
 weight: "999"

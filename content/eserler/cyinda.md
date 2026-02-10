@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:00+03:00"
 slug: "cyinda"
 description: "## Cyinda: Geçmişi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

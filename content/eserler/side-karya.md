@@ -4,8 +4,7 @@ date: "2025-12-25T04:40:19+03:00"
 slug: "side-karya"
 description: "## Side (Karya) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

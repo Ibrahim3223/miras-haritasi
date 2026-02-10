@@ -5,10 +5,10 @@ slug: "turkkuyusu-cesmesi"
 description: "## Türkkuyusu Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.430685,37.0386124"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "perest-kadin-cesmesi"
 description: "## Perestû Kadın Çeşmesi: Silivrikapı'da Bir Ölümsüz..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Perestû_Kadın_Çeşmesi,_Fatih,_İstanbul_2025.jpg/1200px-Perestû_Kadın_Çeşmesi,_Fatih,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.923664,41.008053"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "benlizade-ahmet-rasit-efendi-cesmesi-beykoz"
 description: "## Benlizade Ahmet Raşit Efendi Çeşmesi: Beykoz'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.074534,41.079032"
 draft: "false"
 weight: "999"

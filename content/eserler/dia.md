@@ -4,8 +4,7 @@ date: "2025-12-25T05:43:16+03:00"
 slug: "dia"
 description: "## Dia Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

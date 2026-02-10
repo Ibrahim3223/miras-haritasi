@@ -5,10 +5,10 @@ slug: "damatzade-mehmet-murat-efendi-cesmesi"
 description: "## Damatzade Mehmet Murat Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Damatzade_Mehmet_Murat_Efendi_Çeşmesi.jpg/1200px-Damatzade_Mehmet_Murat_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.04306,41.160614"
 draft: "false"
 weight: "10"

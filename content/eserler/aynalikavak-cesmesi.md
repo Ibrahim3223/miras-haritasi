@@ -5,10 +5,10 @@ slug: "aynalikavak-cesmesi"
 description: "# Aynalıkavak Çeşmesi: Beyoğlu'nun Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956295,41.038425"
 draft: "false"
 weight: "999"

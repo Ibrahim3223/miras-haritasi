@@ -5,10 +5,10 @@ slug: "ismail-aga-cesmesi"
 description: "## İsmail Ağa Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.505825,37.8675385"
 draft: "false"
 weight: "999"

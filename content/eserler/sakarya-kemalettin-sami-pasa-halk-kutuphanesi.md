@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:50+03:00"
 slug: "sakarya-kemalettin-sami-pasa-halk-kutuphanesi"
 description: "## Sakarya Kemalettin Sami Paşa Halk Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

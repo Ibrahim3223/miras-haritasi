@@ -5,10 +5,10 @@ slug: "fatma-hanim-cesmesi"
 description: "# Fatma Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bursa_Emir_Sultan_Cami_çeşmesi_in_2014_7072.jpg/1200px-Bursa_Emir_Sultan_Cami_çeşmesi_in_2014_7072.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0806446,40.1812553"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:44:29+03:00"
 slug: "nassete"
 description: "## Nassete Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

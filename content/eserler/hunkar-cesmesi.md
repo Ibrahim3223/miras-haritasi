@@ -5,10 +5,10 @@ slug: "hunkar-cesmesi"
 description: "## Hünkar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Çayırova_Hünkâr_Köprüsü_ve_çeşmesi.jpg/1200px-Çayırova_Hünkâr_Köprüsü_ve_çeşmesi.jpg"
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.343052113,40.814147699"
 draft: "false"
 weight: "10"

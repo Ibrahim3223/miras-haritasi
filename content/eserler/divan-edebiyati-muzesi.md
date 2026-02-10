@@ -4,8 +4,7 @@ date: "2025-12-25T04:00:11+03:00"
 slug: "divan-edebiyati-muzesi"
 description: "## Divan Edebiyatı Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

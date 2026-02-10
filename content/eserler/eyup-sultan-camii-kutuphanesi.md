@@ -4,8 +4,7 @@ date: "2025-12-25T17:56:53+03:00"
 slug: "eyup-sultan-camii-kutuphanesi"
 description: "## Eyüp Sultan Camii Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

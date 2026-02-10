@@ -5,10 +5,10 @@ slug: "halepli-cesme"
 description: "## Halepli Çeşme: Beykoz'un Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.065388,41.098665"
 draft: "false"
 weight: "999"

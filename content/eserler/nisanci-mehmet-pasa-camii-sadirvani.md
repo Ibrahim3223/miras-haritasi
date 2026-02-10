@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-camii-sadirvani"
 description: "## Nişancı Mehmet Paşa Camii Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Nişancı_Mehmet_Paşa_Camii_Şadırvanı.jpg/1200px-Nişancı_Mehmet_Paşa_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944706,41.0242805"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kethuda-mustafa-aga-cesmesi"
 description: "### Kethüda Mustafa Ağa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2546005,37.8566017"
 draft: "false"
 weight: "999"

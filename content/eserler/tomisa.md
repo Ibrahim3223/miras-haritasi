@@ -4,8 +4,7 @@ date: "2025-12-25T04:32:46+03:00"
 slug: "tomisa"
 description: "## Tomisa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

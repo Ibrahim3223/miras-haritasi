@@ -4,8 +4,7 @@ date: "2025-12-25T03:31:40+03:00"
 slug: "trabzon-tarih-muzesi"
 description: "## Trabzon Tarih Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

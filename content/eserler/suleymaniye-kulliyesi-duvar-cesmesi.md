@@ -5,10 +5,10 @@ slug: "suleymaniye-kulliyesi-duvar-cesmesi"
 description: "## Süleymaniye Külliyesi Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.964096,41.016946"
 draft: "false"
 weight: "1"

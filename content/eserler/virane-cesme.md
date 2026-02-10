@@ -5,10 +5,10 @@ slug: "virane-cesme"
 description: "## Virane Çeşme: Konya'nın Tarihi ve Kültürel Mirasının Bir Örneği..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.461520719,37.851265634"
 draft: "false"
 weight: "999"

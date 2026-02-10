@@ -5,10 +5,10 @@ slug: "suleymaniye-camii-ic-cesmeleri"
 description: "### Süleymaniye Camii İç Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.96405677,41.016176585"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "cesme-2"
 description: "## Çeşme 2: Eceabat'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "Eceabat ilçesi"
-iller: '["Eceabat ilçesi"]'
+iller: ["Eceabat ilçesi"]
 district: "Eceabat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.1891003,40.0435982"
 draft: "false"
 weight: "999"

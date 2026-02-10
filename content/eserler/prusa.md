@@ -4,8 +4,7 @@ date: "2025-12-25T04:28:10+03:00"
 slug: "prusa"
 description: "# Prusa..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

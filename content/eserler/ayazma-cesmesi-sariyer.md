@@ -5,10 +5,10 @@ slug: "ayazma-cesmesi-sariyer"
 description: "### Ayazma Çeşmesi, Sarıyer..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ayazma_Çeşmesi,_Sarıyer_IMG_7250.jpg/1200px-Ayazma_Çeşmesi,_Sarıyer_IMG_7250.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.053972,41.170627"
 draft: "false"
 weight: "10"

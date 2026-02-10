@@ -5,10 +5,10 @@ slug: "nebi-hoca-koyu-cesmesi"
 description: "## Nebi Hoca Köyü Çeşmesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.0190334,40.8818054"
 draft: "false"
 weight: "999"

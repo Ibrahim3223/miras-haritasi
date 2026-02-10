@@ -5,10 +5,10 @@ slug: "ismail-efendi-cesmesi"
 description: "## İsmail Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.93387,41.042064"
 draft: "false"
 weight: "999"

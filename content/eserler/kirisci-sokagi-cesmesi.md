@@ -5,10 +5,10 @@ slug: "kirisci-sokagi-cesmesi"
 description: "# Kirişçi Sokağı Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kirişçi_Sokağı_Çeşmesi.jpg/1200px-Kirişçi_Sokağı_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6841927,41.2488556"
 draft: "false"
 weight: "10"

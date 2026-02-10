@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:36+03:00"
 slug: "panemoteichos"
 description: "## Panemoteichos: Antik Bir Kentin Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

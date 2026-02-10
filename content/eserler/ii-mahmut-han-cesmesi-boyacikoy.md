@@ -5,10 +5,10 @@ slug: "ii-mahmut-han-cesmesi-boyacikoy"
 description: "## II. Mahmut Han Çeşmesi, Boyacıköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.051548,41.1023026"
 draft: "false"
 weight: "999"

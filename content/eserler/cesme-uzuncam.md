@@ -5,10 +5,10 @@ slug: "cesme-uzuncam"
 description: "## Uzunçam Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Nazilli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3714008,37.7757988"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:12:18+03:00"
 slug: "afrodisias-afrodit-tapinagi"
 description: "### Afrodisias Afrodit Tapınağı: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

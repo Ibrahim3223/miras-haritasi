@@ -5,10 +5,10 @@ slug: "kalayci-cesmesi-kirklareli"
 description: "## Kalaycı Çeşmesi: Kırklareli'nin Gizli Cezbesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2255363,41.7378883"
 draft: "false"
 weight: "999"

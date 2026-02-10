@@ -5,10 +5,10 @@ slug: "kocatas-suyu-cesmesi"
 description: "## Kocataş Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.054319,41.165347"
 draft: "false"
 weight: "999"

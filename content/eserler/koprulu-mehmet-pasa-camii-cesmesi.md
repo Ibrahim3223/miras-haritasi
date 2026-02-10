@@ -5,10 +5,10 @@ slug: "koprulu-mehmet-pasa-camii-cesmesi"
 description: "## Köprülü Mehmet Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Köprülü_Mehmet_Paşa_Camii_Çeşmesi.jpg/1200px-Köprülü_Mehmet_Paşa_Camii_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6928253,41.2447472"
 draft: "false"
 weight: "10"

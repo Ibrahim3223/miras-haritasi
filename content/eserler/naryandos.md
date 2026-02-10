@@ -4,8 +4,7 @@ date: "2025-12-25T08:07:36+03:00"
 slug: "naryandos"
 description: "## Naryandos Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

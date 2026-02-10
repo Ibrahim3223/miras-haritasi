@@ -5,10 +5,10 @@ slug: "hacilar-cesmesi-uskudar"
 description: "## Hacılar Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0304489,41.0098305"
 draft: "false"
 weight: "999"

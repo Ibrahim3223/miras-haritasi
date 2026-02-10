@@ -5,10 +5,10 @@ slug: "sulum-cesmesi-1"
 description: "## Sülüm Çeşmesi 1: Afyonkarahisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5352001,38.7598305"
 draft: "false"
 weight: "999"

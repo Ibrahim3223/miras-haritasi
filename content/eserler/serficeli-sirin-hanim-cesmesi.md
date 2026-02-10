@@ -5,10 +5,10 @@ slug: "serficeli-sirin-hanim-cesmesi"
 description: "## Serficeli Şirin Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Serficeli_irin_Hanm_emesi_2025-10-24_1761325597.jpg/1200px-Serficeli_irin_Hanm_emesi_2025-10-24_1761325597.jpg"
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4874611,37.8697624"
 draft: "false"
 weight: "10"

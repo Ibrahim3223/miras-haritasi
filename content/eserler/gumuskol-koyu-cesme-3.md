@@ -5,10 +5,10 @@ slug: "gumuskol-koyu-cesme-3"
 description: "### Gümüşkol Köyü Çeşme 3..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1595764,38.4667206"
 draft: "false"
 weight: "999"

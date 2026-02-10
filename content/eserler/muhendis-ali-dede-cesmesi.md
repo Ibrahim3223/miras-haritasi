@@ -5,10 +5,10 @@ slug: "muhendis-ali-dede-cesmesi"
 description: "## Mühendis Ali Dede Çeşmesi: Nişancı'daki Bir Geçit Akan Su Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934408,41.03906"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mebusan-yokusu-cesmesi"
 description: "### Mebusan Yokuşu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mebusan_Yokuşu_Çeşmesi.jpg/1200px-Mebusan_Yokuşu_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.987975,41.032652"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:59+03:00"
 slug: "arima-kilikya"
 description: "## Arima (Kilikya) - Türkiye'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

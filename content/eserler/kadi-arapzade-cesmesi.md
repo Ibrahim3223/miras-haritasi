@@ -5,10 +5,10 @@ slug: "kadi-arapzade-cesmesi"
 description: "## Kadı Arapzade Çeşmesi: Süleymanpaşa'da Tarih ve Kültür..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5161591,40.9787903"
 draft: "false"
 weight: "999"

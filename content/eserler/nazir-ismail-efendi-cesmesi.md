@@ -5,10 +5,10 @@ slug: "nazir-ismail-efendi-cesmesi"
 description: "## Nazır İsmail Efendi Çeşmesi: Cankurtaran'da Bir Örgü Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979485,41.009888"
 draft: "false"
 weight: "999"

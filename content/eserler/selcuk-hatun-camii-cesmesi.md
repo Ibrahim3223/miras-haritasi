@@ -5,10 +5,10 @@ slug: "selcuk-hatun-camii-cesmesi"
 description: "### Selçuk Hatun Camii Çeşmesi: Bursa'nın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Selçuk_Hatun_Camii,BURSA_-_panoramio.jpg/1200px-Selçuk_Hatun_Camii,BURSA_-_panoramio.jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0698395,40.1822472"
 draft: "false"
 weight: "10"

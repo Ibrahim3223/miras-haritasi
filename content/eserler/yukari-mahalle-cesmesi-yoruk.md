@@ -5,10 +5,10 @@ slug: "yukari-mahalle-cesmesi-yoruk"
 description: "## Yukarı Mahalle Çeşmesi, Yörük: Safranbolu'nun Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Karabük_Safranbolu_Yörük_Köyü_Yukarı_Mahalle_Çeşmesi.jpg/1200px-Karabük_Safranbolu_Yörük_Köyü_Yukarı_Mahalle_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.798836177,41.2232062"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:01+03:00"
 slug: "papirion"
 description: "### Papirion: Türkiye'nin Gizli Arkeolojik Şansı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

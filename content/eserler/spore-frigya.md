@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:41+03:00"
 slug: "spore-frigya"
 description: "### Spore (Frigya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

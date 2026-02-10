@@ -5,10 +5,10 @@ slug: "tevfikiye-koyu-cesmesi"
 description: "## Tevfikiye Köyü Çeşmesi: Geçmişten Bugüne Bir Çanakkale Efsanesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.249112249,39.961090659"
 draft: "false"
 weight: "999"

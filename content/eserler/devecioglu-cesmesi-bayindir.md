@@ -5,10 +5,10 @@ slug: "devecioglu-cesmesi-bayindir"
 description: "## Devecioğlu Çeşmesi: Bayındır'ın Tarihî Öyküsünün Parçaları Arasındaki Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6433716,38.2226028"
 draft: "false"
 weight: "999"

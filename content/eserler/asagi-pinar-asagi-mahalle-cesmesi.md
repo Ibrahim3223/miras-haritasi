@@ -5,10 +5,10 @@ slug: "asagi-pinar-asagi-mahalle-cesmesi"
 description: "## Aşağı Pınar (Aşağı Mahalle) Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.505835369,39.015041267"
 draft: "false"
 weight: "999"

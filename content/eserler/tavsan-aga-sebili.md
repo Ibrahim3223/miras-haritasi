@@ -5,10 +5,10 @@ slug: "tavsan-aga-sebili"
 description: "### Tavşan Ağa Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9772801,41.0091508"
 draft: "false"
 weight: "999"

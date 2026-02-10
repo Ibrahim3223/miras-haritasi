@@ -5,10 +5,10 @@ slug: "alinyayla-koyu-cesmesi-2"
 description: "## Alınyayla Köyü Çeşmesi 2: Gümüşhane'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.1051064,40.5322227"
 draft: "false"
 weight: "999"

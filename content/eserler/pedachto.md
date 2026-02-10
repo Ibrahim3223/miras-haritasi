@@ -4,8 +4,7 @@ date: "2025-12-25T05:14:37+03:00"
 slug: "pedachto"
 description: "## Pedachtoë: Kıbrıs'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

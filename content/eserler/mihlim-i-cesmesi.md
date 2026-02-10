@@ -5,10 +5,10 @@ slug: "mihlim-i-cesmesi"
 description: "# Mıhlım I Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4914246,38.7250977"
 draft: "false"
 weight: "999"

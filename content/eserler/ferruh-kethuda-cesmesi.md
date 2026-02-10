@@ -5,10 +5,10 @@ slug: "ferruh-kethuda-cesmesi"
 description: "## Ferruh Kethüda Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Ferruh_Kethüda_Çeşmesi.jpg/1200px-Ferruh_Kethüda_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945479,41.034592"
 draft: "false"
 weight: "10"

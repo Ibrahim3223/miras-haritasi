@@ -5,10 +5,10 @@ slug: "subasi-kurbu-cesmesi"
 description: "### Subaşı Kurbu Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2702637,39.909935"
 draft: "false"
 weight: "999"

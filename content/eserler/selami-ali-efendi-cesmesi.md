@@ -5,10 +5,10 @@ slug: "selami-ali-efendi-cesmesi"
 description: "## Selami Ali Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Selami_Ali_Efendi_Çeşmesi.jpg/1200px-Selami_Ali_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023493,41.023327"
 draft: "false"
 weight: "10"

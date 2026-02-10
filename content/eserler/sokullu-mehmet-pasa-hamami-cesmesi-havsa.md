@@ -5,10 +5,10 @@ slug: "sokullu-mehmet-pasa-hamami-cesmesi-havsa"
 description: "## Sokullu Mehmet Paşa Hamamı Çeşmesi, Havsa..."
 featured_image: ""
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: "Havsa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: ""
 draft: "false"
 weight: "999"

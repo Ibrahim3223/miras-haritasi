@@ -5,10 +5,10 @@ slug: "mehmet-tevfik-bey-cesmesi"
 description: "## Mehmet Tevfik Bey Çeşmesi: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4301682,38.6083908"
 draft: "false"
 weight: "999"

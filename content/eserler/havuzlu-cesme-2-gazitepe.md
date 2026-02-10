@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-2-gazitepe"
 description: "## Havuzlu Çeşme 2, Gazitepe..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3233299,41.1285095"
 draft: "false"
 weight: "999"

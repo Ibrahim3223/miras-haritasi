@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:16+03:00"
 slug: "moatra"
 description: "## Moatra Arkeolojik Sitesi: Türkiye'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

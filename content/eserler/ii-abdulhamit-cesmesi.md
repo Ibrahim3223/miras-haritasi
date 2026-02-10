@@ -5,10 +5,10 @@ slug: "ii-abdulhamit-cesmesi"
 description: "## II. Abdülhamit Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/II._Abdülhamid_Çeşmesi_(Şişli).jpg/1200px-II._Abdülhamid_Çeşmesi_(Şişli).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.994083333,41.045"
 draft: "false"
 weight: "10"

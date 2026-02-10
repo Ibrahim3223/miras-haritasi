@@ -4,8 +4,7 @@ date: "2025-12-25T15:42:17+03:00"
 slug: "turan-emeksiz-aniti"
 description: "## Turan Emeksiz Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

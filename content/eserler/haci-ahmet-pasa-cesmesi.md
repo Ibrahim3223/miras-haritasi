@@ -5,10 +5,10 @@ slug: "haci-ahmet-pasa-cesmesi"
 description: "### Hacı Ahmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.028009,41.017548"
 draft: "false"
 weight: "999"

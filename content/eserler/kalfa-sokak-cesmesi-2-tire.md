@@ -5,10 +5,10 @@ slug: "kalfa-sokak-cesmesi-2-tire"
 description: "## Kalfa Sokak Çeşmesi 2, Tire..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.729599,38.0819626"
 draft: "false"
 weight: "999"

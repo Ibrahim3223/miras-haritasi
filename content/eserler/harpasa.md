@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:05+03:00"
 slug: "harpasa"
 description: "### Harpasa: Ege Bölgesi'nin Gizli İncisi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

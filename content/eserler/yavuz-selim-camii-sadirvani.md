@@ -5,10 +5,10 @@ slug: "yavuz-selim-camii-sadirvani"
 description: "### Yavuz Selim Camii Şadırvanı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9511051,41.026722"
 draft: "false"
 weight: "999"

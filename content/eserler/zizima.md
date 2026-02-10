@@ -4,8 +4,7 @@ date: "2025-12-25T05:20:03+03:00"
 slug: "zizima"
 description: "## Zizima Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

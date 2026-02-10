@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-cesmesi"
 description: "## Damat İbrahim Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0558338,41.0871849"
 draft: "false"
 weight: "999"

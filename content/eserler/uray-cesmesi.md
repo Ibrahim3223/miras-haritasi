@@ -5,10 +5,10 @@ slug: "uray-cesmesi"
 description: "## Uray Çeşmesi: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1527996,38.4160995"
 draft: "false"
 weight: "999"

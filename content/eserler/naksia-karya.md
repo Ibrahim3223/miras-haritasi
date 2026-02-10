@@ -4,8 +4,7 @@ date: "2025-12-25T04:36:42+03:00"
 slug: "naksia-karya"
 description: "## Naksia (Karya) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

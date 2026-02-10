@@ -5,10 +5,10 @@ slug: "cevkani-cesmesi-kastamonu"
 description: "### Çevkani Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.768261511,41.37952264"
 draft: "false"
 weight: "999"

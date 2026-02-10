@@ -5,10 +5,10 @@ slug: "gazi-ahmed-pasa-cesmesi"
 description: "## Gazi Ahmed Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Gazi_Ahmet_Paşa_Çeşmesi_01.jpg/1200px-Gazi_Ahmet_Paşa_Çeşmesi_01.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929329893,41.020649264"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-24T22:51:36+03:00"
 slug: "cinar-camii"
 description: "## Çınar Camii: İstanbulluların Gözdesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

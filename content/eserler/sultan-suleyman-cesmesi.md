@@ -5,10 +5,10 @@ slug: "sultan-suleyman-cesmesi"
 description: "### Sultan Süleyman Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Sultan_Süleyman_Çeşmesi1,_Kadırga.jpg/1200px-Sultan_Süleyman_Çeşmesi1,_Kadırga.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9693031,41.0043106"
 draft: "false"
 weight: "10"

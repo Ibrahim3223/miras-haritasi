@@ -5,10 +5,10 @@ slug: "asagi-kose-cesmesi"
 description: "## Aşağı Köşe Çeşmesi: Kuşadası'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2546997,37.857399"
 draft: "false"
 weight: "999"

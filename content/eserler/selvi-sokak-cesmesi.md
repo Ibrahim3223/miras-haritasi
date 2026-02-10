@@ -5,10 +5,10 @@ slug: "selvi-sokak-cesmesi"
 description: "## Selvi Sokak Çeşmesi: Şile'nin Tarihî Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.609599,41.174706"
 draft: "false"
 weight: "999"

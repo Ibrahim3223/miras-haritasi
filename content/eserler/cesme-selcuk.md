@@ -5,10 +5,10 @@ slug: "cesme-selcuk"
 description: "### Selçuk'taki Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Selçuk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3668079,37.9477463"
 draft: "false"
 weight: "999"

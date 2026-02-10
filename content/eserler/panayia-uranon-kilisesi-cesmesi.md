@@ -5,10 +5,10 @@ slug: "panayia-uranon-kilisesi-cesmesi"
 description: "## Panayia Uranon Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9396744,41.0299683"
 draft: "false"
 weight: "999"

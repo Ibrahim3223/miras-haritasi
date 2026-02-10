@@ -4,8 +4,7 @@ date: "2025-12-25T07:06:59+03:00"
 slug: "taskun-mevkii"
 description: "## Taşkun Mevkii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:12+03:00"
 slug: "yildiz-sarayi-kutuphanesi"
 description: "## Yıldız Sarayı Kütüphanesi: Osmanlı'nın Gizli Bilgi Deposu..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

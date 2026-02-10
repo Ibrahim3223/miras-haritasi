@@ -5,10 +5,10 @@ slug: "arap-mescidi-cesmesi"
 description: "## Arap Mescidi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5355663,38.756424"
 draft: "false"
 weight: "999"

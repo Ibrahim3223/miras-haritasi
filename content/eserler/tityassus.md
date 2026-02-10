@@ -4,8 +4,7 @@ date: "2025-12-25T05:17:54+03:00"
 slug: "tityassus"
 description: "## Tityassus: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

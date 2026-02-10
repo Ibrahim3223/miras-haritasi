@@ -5,10 +5,10 @@ slug: "muslu-aga-cesmesi"
 description: "**Muslu Ağa Çeşmesi: Fatih, İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978395,41.005028"
 draft: "false"
 weight: "999"

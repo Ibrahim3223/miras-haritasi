@@ -5,10 +5,10 @@ slug: "savat-cesmesi"
 description: "## Savat Çeşmesi: Hacıbektaş'ta Tarihi Bir Miras..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5641174,38.9462357"
 draft: "false"
 weight: "999"

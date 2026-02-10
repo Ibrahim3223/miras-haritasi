@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:24+03:00"
 slug: "argiza"
 description: "## Argiza Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

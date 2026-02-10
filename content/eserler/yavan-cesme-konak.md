@@ -5,10 +5,10 @@ slug: "yavan-cesme-konak"
 description: "## Yavan Çeşme Tanıtımı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1310749,38.4136047"
 draft: "false"
 weight: "999"

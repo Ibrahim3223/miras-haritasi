@@ -5,10 +5,10 @@ slug: "sulumenli-koyu-cesmesi"
 description: "## Sülümenli Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2023449,38.3532753"
 draft: "false"
 weight: "999"

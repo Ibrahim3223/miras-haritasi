@@ -5,10 +5,10 @@ slug: "igneci-belkis-mahallesi-cesmesi"
 description: "### İğneci Belkıs Mahallesi Çeşmesi: Bir Osmanlı Dönemi Eseri..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8538132,39.9439354"
 draft: "false"
 weight: "999"

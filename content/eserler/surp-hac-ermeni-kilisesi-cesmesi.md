@@ -5,10 +5,10 @@ slug: "surp-hac-ermeni-kilisesi-cesmesi"
 description: "## Surp Haç Ermeni Kilisesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0349125,41.0604636"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "refik-efendi-cesmesi"
 description: "## Refik Efendi Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Bandırma"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0652161,40.1293221"
 draft: "false"
 weight: "999"

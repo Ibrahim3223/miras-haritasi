@@ -4,8 +4,7 @@ date: "2025-12-25T04:31:55+03:00"
 slug: "aureliopolis-lidya"
 description: "## Aureliopolis (Lidya): Geçmişin Gizli Şehirleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

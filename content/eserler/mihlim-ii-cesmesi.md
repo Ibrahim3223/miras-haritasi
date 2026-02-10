@@ -5,10 +5,10 @@ slug: "mihlim-ii-cesmesi"
 description: "## Mıhlım II Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4921799,38.7253761"
 draft: "false"
 weight: "999"

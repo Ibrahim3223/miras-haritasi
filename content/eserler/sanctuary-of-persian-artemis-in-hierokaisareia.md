@@ -4,8 +4,7 @@ date: "2025-12-25T08:11:07+03:00"
 slug: "sanctuary-of-persian-artemis-in-hierokaisareia"
 description: "**Sanctuary of Persian Artemis in Hierokaisareia**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T07:08:03+03:00"
 slug: "cavi-tarlasi"
 description: "## Çavi Tarlası: Türkiye'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "saban-aga-cesmesi"
 description: "### Şaban Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Şaban_Ağa_Çeşmesi_IMG_5160.jpg/1200px-Şaban_Ağa_Çeşmesi_IMG_5160.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bakırköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.875063,40.978683"
 draft: "false"
 weight: "10"

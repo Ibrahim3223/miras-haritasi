@@ -5,10 +5,10 @@ slug: "silahtar-yahya-efendi-cesmesi-kabatas"
 description: "## Silahtar Yahya Efendi Çeşmesi, Kabataş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yahya_Efendi_Fountain,_Beyoğlu,_Istanbul_(November_2023).jpg/1200px-Yahya_Efendi_Fountain,_Beyoğlu,_Istanbul_(November_2023).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.993982,41.036045"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "harem-iskelesi-ayazmasi"
 description: "### Harem İskelesi Ayazması: Üsküdar'da Eski Çağın Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.012681714,41.009063226"
 draft: "false"
 weight: "999"

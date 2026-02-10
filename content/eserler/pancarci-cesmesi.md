@@ -5,10 +5,10 @@ slug: "pancarci-cesmesi"
 description: "## Pancarcı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9076576,38.632"
 draft: "false"
 weight: "999"

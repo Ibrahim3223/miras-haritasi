@@ -5,10 +5,10 @@ slug: "gun-sokak-cesmesi"
 description: "## Gün Sokak Çeşmesi: İzmit'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.953001,40.7962151"
 draft: "false"
 weight: "999"

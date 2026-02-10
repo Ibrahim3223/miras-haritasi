@@ -4,8 +4,7 @@ date: "2025-12-25T04:35:04+03:00"
 slug: "pedesa"
 description: "### Pedesa: Türkiye'nin Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Педаса.jpg/1200px-Педаса.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

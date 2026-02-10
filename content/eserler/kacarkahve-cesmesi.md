@@ -5,10 +5,10 @@ slug: "kacarkahve-cesmesi"
 description: "## Kacarkahve Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1243343,37.8894958"
 draft: "false"
 weight: "999"

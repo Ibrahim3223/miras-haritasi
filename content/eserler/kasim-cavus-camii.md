@@ -4,8 +4,7 @@ date: "2025-12-24T22:17:14+03:00"
 slug: "kasim-cavus-camii"
 description: "## Kasım Çavuş Camii: İstanbul'un Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Kasım_Çavuş_Mosque_(1).jpg/1200px-Kasım_Çavuş_Mosque_(1).jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

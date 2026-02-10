@@ -5,10 +5,10 @@ slug: "ak-mescid-orta-cesme"
 description: "## Ak Mescid Orta Çeşme: Afyonkarahisar'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5345993,38.7528992"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "comezogullari-cesmesi-salpazari"
 description: "## Çömezoğulları Çeşmesi Şalpazarı..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Şalpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.198248,40.949258"
 draft: "false"
 weight: "999"

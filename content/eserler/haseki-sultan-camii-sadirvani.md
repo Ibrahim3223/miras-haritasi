@@ -5,10 +5,10 @@ slug: "haseki-sultan-camii-sadirvani"
 description: "## Haseki Sultan Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9415417,41.0086403"
 draft: "false"
 weight: "999"

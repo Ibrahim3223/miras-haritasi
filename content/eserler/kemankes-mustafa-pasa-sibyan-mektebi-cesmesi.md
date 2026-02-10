@@ -5,10 +5,10 @@ slug: "kemankes-mustafa-pasa-sibyan-mektebi-cesmesi"
 description: "## Kemankeş Mustafa Paşa Sıbyan Mektebi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kemankeş_Mustafa_Paşa_Sıbyan_Mektebi_Çeşmesi_IMG_5012.jpg/1200px-Kemankeş_Mustafa_Paşa_Sıbyan_Mektebi_Çeşmesi_IMG_5012.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976589,41.022926"
 draft: "false"
 weight: "10"

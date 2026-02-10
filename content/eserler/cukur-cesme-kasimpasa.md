@@ -5,10 +5,10 @@ slug: "cukur-cesme-kasimpasa"
 description: "## Çukur Çeşme, Kasımpaşa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Çukur_Çeşme,_Kasımpaşa_IMG_0453.jpg/1200px-Çukur_Çeşme,_Kasımpaşa_IMG_0453.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970154,41.030815"
 draft: "false"
 weight: "10"

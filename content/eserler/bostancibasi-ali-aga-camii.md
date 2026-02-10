@@ -4,8 +4,7 @@ date: "2025-12-24T22:48:20+03:00"
 slug: "bostancibasi-ali-aga-camii"
 description: "## Bostancıbaşı Ali Ağa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

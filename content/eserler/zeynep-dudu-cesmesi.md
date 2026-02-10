@@ -5,10 +5,10 @@ slug: "zeynep-dudu-cesmesi"
 description: "### Zeynep Dudu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.580087,41.0214"
 draft: "false"
 weight: "999"

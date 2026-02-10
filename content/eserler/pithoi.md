@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:59+03:00"
 slug: "pithoi"
 description: "## Pithoi: Antik Çağın Gizemli Vazo Eserleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:03:47+03:00"
 slug: "choria"
 description: "## Choria: Geçmişin Eseri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

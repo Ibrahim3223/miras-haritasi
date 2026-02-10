@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:35+03:00"
 slug: "arasaxa"
 description: "## Arasaxa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

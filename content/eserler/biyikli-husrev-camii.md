@@ -4,8 +4,7 @@ date: "2025-12-24T22:50:16+03:00"
 slug: "biyikli-husrev-camii"
 description: "## Bıyıklı Hüsrev Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

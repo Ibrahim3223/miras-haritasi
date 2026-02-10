@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-has-ahir-cesmeleri"
 description: "## Topkapı Sarayı Has Ahır Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9826908,41.0120201"
 draft: "false"
 weight: "1"

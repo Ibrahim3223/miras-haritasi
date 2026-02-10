@@ -5,10 +5,10 @@ slug: "abihayat-cesmesi"
 description: "**Abıhayat Çeşmesi: Sarıyer'in Tarihi ve Kültürel Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.997979,41.15696"
 draft: "false"
 weight: "999"

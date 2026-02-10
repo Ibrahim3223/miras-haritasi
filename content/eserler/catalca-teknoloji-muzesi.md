@@ -4,8 +4,7 @@ date: "2025-12-25T03:29:36+03:00"
 slug: "catalca-teknoloji-muzesi"
 description: "## Çatalca Teknoloji Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

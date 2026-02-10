@@ -5,10 +5,10 @@ slug: "yegenaga-cesmesi-tire"
 description: "## Yeğenağa Çeşmesi: Tire'de Bir Kültürel Miras..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7400169,38.0895042"
 draft: "false"
 weight: "999"

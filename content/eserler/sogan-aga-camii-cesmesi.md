@@ -5,10 +5,10 @@ slug: "sogan-aga-camii-cesmesi"
 description: "## Soğan Ağa Camii Çeşmesi: Tarihî Bir Ziyaretçi Merkezi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.962899,41.007966"
 draft: "false"
 weight: "999"

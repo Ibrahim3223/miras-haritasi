@@ -4,8 +4,7 @@ date: "2025-12-24T23:28:49+03:00"
 slug: "haci-memis-camii"
 description: "## Hacı Memiş Camii: İzmir'in Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

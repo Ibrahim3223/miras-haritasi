@@ -5,10 +5,10 @@ slug: "yeni-cesme-uskudar"
 description: "## Yeni Çeşme, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0161648,41.0220413"
 draft: "false"
 weight: "999"

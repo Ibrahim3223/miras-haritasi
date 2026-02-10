@@ -5,10 +5,10 @@ slug: "kalfa-sokak-cesmesi-1-tire"
 description: "## Kalfa Sokak Çeşmesi 1: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7319927,38.0815582"
 draft: "false"
 weight: "999"

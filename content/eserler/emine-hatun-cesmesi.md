@@ -5,10 +5,10 @@ slug: "emine-hatun-cesmesi"
 description: "## Emine Hatun Çeşmesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9221001,40.7656784"
 draft: "false"
 weight: "999"

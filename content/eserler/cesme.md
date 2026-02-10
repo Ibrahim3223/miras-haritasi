@@ -5,10 +5,10 @@ slug: "cesme"
 description: "# Gelibolu Çeşmesi: Çanakkale'nin Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.4325829,40.3498573"
 draft: "false"
 weight: "999"

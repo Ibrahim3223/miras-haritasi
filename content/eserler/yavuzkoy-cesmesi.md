@@ -5,10 +5,10 @@ slug: "yavuzkoy-cesmesi"
 description: "## Yavuzköy Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0866261,37.8698349"
 draft: "false"
 weight: "999"

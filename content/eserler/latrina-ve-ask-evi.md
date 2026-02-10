@@ -4,8 +4,7 @@ date: "2025-12-25T04:26:09+03:00"
 slug: "latrina-ve-ask-evi"
 description: "## Latrina ve Aşk Evi: İzmir'in Gizli Arkeolojik Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

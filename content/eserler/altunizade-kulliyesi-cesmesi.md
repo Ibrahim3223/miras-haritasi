@@ -5,10 +5,10 @@ slug: "altunizade-kulliyesi-cesmesi"
 description: "## Altunizade Külliyesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.045563,41.02047"
 draft: "false"
 weight: "999"

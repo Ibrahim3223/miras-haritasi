@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:54+03:00"
 slug: "karza"
 description: "## Karza: Tarihî Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

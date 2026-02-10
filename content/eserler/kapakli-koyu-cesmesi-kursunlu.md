@@ -5,10 +5,10 @@ slug: "kapakli-koyu-cesmesi-kursunlu"
 description: "### Kapaklı Köyü Çeşmesi: Kurşunlu'nun Gizli Cenneti..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.278836953,40.759785283"
 draft: "false"
 weight: "999"

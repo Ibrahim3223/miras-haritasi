@@ -5,10 +5,10 @@ slug: "abdulmecid-efendi-kosku-bahce-cesmesi"
 description: "### Abdülmecid Efendi Köşkü Bahçe Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0416279,41.0280762"
 draft: "false"
 weight: "999"

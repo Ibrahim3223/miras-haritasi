@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:17+03:00"
 slug: "apollonos-hieron"
 description: "## Apollonos Hieron: Kıbrıs'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Monnaie_-_Bronze%2C_Apollonos_Hi%C3%A9ron%2C_Lydie%2C_Tib%C3%A8re_-_btv1b85167122_%281_of_2%29.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

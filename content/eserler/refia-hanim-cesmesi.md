@@ -5,10 +5,10 @@ slug: "refia-hanim-cesmesi"
 description: "## Refia Hanım Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.947834,41.007562"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "havva-kadin-cesmesi"
 description: "## Bodrum'un Gizli Cenneti: Havva Kadın Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3449993,37.087101"
 draft: "false"
 weight: "999"

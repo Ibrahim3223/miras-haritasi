@@ -5,10 +5,10 @@ slug: "medreseli-yahya-efendi-camii-cesmesi"
 description: "## Medreseli Yahya Efendi Camii Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9090691,38.6316376"
 draft: "false"
 weight: "999"

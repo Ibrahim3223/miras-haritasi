@@ -5,10 +5,10 @@ slug: "valide-cesmesi"
 description: "## Valide Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Istanbul_asv2020-02_img68_Maçka_Fountain.jpg/1200px-Istanbul_asv2020-02_img68_Maçka_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.99839,41.04314"
 draft: "false"
 weight: "10"

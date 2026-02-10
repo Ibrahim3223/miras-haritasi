@@ -5,10 +5,10 @@ slug: "mirkelamoglu-han-cesmesi"
 description: "## Mirkelamoğlu Han Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1340313,38.4221268"
 draft: "false"
 weight: "999"

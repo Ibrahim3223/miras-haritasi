@@ -4,8 +4,7 @@ date: "2025-12-25T05:20:58+03:00"
 slug: "tyscos"
 description: "## Tyscos: Geçmişin Gizemli Kalıntısı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

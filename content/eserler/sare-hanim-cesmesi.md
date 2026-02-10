@@ -5,10 +5,10 @@ slug: "sare-hanim-cesmesi"
 description: "## Sare Hanım Çeşmesi: Safranbolu'nun Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Sare_Hanım_Çeşmesi.jpg/1200px-Sare_Hanım_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6920776,41.2435379"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "sillyon-osmanli-cesmesi"
 description: "## Sillyon Osmanlı Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Serik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.984977925,36.988672536"
 draft: "false"
 weight: "999"

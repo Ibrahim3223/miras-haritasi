@@ -5,10 +5,10 @@ slug: "yesil-ev-selsebili"
 description: "### Yeşil Ev Selsebili: Fatih'te Bir Çeşme Eseri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979187,41.006374"
 draft: "false"
 weight: "999"

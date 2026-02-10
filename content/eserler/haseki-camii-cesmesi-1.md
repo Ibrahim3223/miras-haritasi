@@ -5,10 +5,10 @@ slug: "haseki-camii-cesmesi-1"
 description: "# Haseki Camii Çeşmesi 1..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8587074,39.9403496"
 draft: "false"
 weight: "999"

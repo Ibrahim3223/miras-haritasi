@@ -5,10 +5,10 @@ slug: "musa-pasa-sebili"
 description: "## Musa Paşa Sebili: İstanbul'un Tarihî Çeşme Marveli..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9762993,41.0135612"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "derdiler-cesmesi"
 description: "## Derdiler Çeşmesi: Manisa'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4173584,38.6081696"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koca-yusuf-efendi-cesmesi-dugmeciler"
 description: "## Koca Yusuf Efendi Çeşmesi (Düğmeciler)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.931459,41.046009"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:09:28+03:00"
 slug: "sakip-sabanci-muzesi"
 description: "## Sakıp Sabancı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Dali-at-Sabanci-museum.jpg/1200px-Dali-at-Sabanci-museum.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

@@ -5,10 +5,10 @@ slug: "uzun-piyale-pasa-cesmesi"
 description: "## Uzun Piyale Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Uzun_Piyale_Paşa_Çeşmesi_IMG_7736.jpg/1200px-Uzun_Piyale_Paşa_Çeşmesi_IMG_7736.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.965382,41.036278"
 draft: "false"
 weight: "10"

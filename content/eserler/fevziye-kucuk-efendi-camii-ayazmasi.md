@@ -5,10 +5,10 @@ slug: "fevziye-kucuk-efendi-camii-ayazmasi"
 description: "## Fevziye Küçük Efendi Camii Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924528539,41.000384487"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:46+03:00"
 slug: "choiragria"
 description: "## Choiragria: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

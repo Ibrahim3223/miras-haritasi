@@ -4,8 +4,7 @@ date: "2025-12-25T08:22:49+03:00"
 slug: "theater-of-limyra"
 description: "## Limyra Tiyatrosu: Antik Limyra'nın Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

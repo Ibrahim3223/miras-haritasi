@@ -5,10 +5,10 @@ slug: "omer-dede-cesmesi-kas"
 description: "### Ömer Dede Çeşmesi..."
 featured_image: ""
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6675,36.3587"
 draft: "false"
 weight: "999"

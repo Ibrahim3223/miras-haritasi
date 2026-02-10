@@ -5,10 +5,10 @@ slug: "coban-cesmesi-avcilar"
 description: "### Çoban Çeşmesi (Avcılar)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Avcılar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.744547,40.98297"
 draft: "false"
 weight: "999"

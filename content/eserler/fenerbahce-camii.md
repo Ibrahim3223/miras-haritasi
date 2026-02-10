@@ -4,8 +4,7 @@ date: "2025-12-24T22:04:29+03:00"
 slug: "fenerbahce-camii"
 description: "## Fenerbahçe Camii: İstanbul'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Fenerbahçe_Mosque.jpg/1200px-Fenerbahçe_Mosque.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

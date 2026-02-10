@@ -5,10 +5,10 @@ slug: "ekindere-cesmesi"
 description: "### Ekindere Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6201,37.4173012"
 draft: "false"
 weight: "999"

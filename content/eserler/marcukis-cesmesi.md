@@ -5,10 +5,10 @@ slug: "marcukis-cesmesi"
 description: "## Marcukis Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5967102,40.5817642"
 draft: "false"
 weight: "999"

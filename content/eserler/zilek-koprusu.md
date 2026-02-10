@@ -4,8 +4,7 @@ date: "2025-12-25T01:56:43+03:00"
 slug: "zilek-koprusu"
 description: "## Zilek Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

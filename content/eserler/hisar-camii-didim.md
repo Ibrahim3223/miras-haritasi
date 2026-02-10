@@ -4,8 +4,7 @@ date: "2025-12-24T23:48:44+03:00"
 slug: "hisar-camii-didim"
 description: "### Hisar Camii (Didim): Bir Önemli Kültür Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Didyma_mosque_church.jpg/1200px-Didyma_mosque_church.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

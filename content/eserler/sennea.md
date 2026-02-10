@@ -4,8 +4,7 @@ date: "2025-12-25T04:52:49+03:00"
 slug: "sennea"
 description: "## Sennea Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "afife-hanim-cesmesi"
 description: "## Afife Hanım Çeşmesi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.841383,37.8506165"
 draft: "false"
 weight: "999"

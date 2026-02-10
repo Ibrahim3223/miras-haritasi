@@ -5,10 +5,10 @@ slug: "kuyubasi-cesmesi"
 description: "# Kuyubaşı Çeşmesi: Tarihî Bir Çeşmenin Gizemi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.811049,41.005883"
 draft: "false"
 weight: "999"

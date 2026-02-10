@@ -5,10 +5,10 @@ slug: "guzelce-kasim-pasa-camii-sadirvani"
 description: "## Güzelce Kasım Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9683132,41.0331459"
 draft: "false"
 weight: "999"

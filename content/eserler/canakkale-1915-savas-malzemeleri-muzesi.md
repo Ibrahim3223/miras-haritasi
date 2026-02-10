@@ -4,8 +4,7 @@ date: "2025-12-25T03:28:00+03:00"
 slug: "canakkale-1915-savas-malzemeleri-muzesi"
 description: "## Çanakkale 1915 Savaş Malzemeleri Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

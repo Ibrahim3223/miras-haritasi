@@ -5,10 +5,10 @@ slug: "sinan-pasa-camii-sadirvani-besiktas"
 description: "## Sinan Paşa Camii Şadırvanı, Beşiktaş..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0060368,41.0424309"
 draft: "false"
 weight: "999"

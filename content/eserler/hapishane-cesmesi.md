@@ -5,10 +5,10 @@ slug: "hapishane-cesmesi"
 description: "## Hapishane Çeşmesi: Kırklareli'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Kırklareli_former_jail_with_fountain_0009.jpg/1200px-Kırklareli_former_jail_with_fountain_0009.jpg"
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Kırklareli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.224305555,41.732861111"
 draft: "false"
 weight: "10"

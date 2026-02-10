@@ -5,10 +5,10 @@ slug: "baskadin-meydani-cesmesi"
 description: "## Başkadın Meydanı Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Başkadın_Meydanı_Çeşmesi.jpg/1200px-Başkadın_Meydanı_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.010399,41.021477"
 draft: "false"
 weight: "10"

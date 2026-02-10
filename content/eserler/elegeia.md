@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:23+03:00"
 slug: "elegeia"
 description: "## Elegeia: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

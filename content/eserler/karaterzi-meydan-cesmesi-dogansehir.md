@@ -5,10 +5,10 @@ slug: "karaterzi-meydan-cesmesi-dogansehir"
 description: "## Karaterzi Meydan Çeşmesi, Doğanşehir..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Doğanşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.900047733,38.197981086"
 draft: "false"
 weight: "999"

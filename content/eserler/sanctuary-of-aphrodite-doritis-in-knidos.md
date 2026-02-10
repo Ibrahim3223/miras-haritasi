@@ -4,8 +4,7 @@ date: "2025-12-25T08:12:47+03:00"
 slug: "sanctuary-of-aphrodite-doritis-in-knidos"
 description: "### Sanctuary of Aphrodite Doritis in Knidos..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

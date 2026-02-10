@@ -5,10 +5,10 @@ slug: "tahire-hanim-cesmesi-kemalpasa"
 description: "## Tahire Hanım Çeşmesi: Kemalpaşa'nın Şirin Öyküsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Kemalpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4159279,38.4254684"
 draft: "false"
 weight: "999"

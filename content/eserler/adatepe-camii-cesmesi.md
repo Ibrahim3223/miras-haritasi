@@ -5,10 +5,10 @@ slug: "adatepe-camii-cesmesi"
 description: "### Adatepe Camii Çeşmesi: Ayvacık, Çanakkale'nin Tarihî Diyarı..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6203995,39.5702324"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "sultantepe-cesmesi"
 description: "## Sultantepe Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sultantepe_Fountain,_Uskudar.jpg/1200px-Sultantepe_Fountain,_Uskudar.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020859,41.027971"
 draft: "false"
 weight: "10"

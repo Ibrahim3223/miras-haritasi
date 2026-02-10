@@ -5,10 +5,10 @@ slug: "haci-bayram-kaptan-cesmesi"
 description: "## Hacı Bayram Kaptan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Hacı_Bayram_Kaptan_Çeşmesi.jpg/1200px-Hacı_Bayram_Kaptan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.058063,41.114914"
 draft: "false"
 weight: "10"

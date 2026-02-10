@@ -5,10 +5,10 @@ slug: "buyuk-demir-han-cesmeleri"
 description: "## Büyük Demir Han Çeşmeleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1341591,38.4202995"
 draft: "false"
 weight: "999"

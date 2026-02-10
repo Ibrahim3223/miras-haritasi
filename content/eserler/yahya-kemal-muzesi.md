@@ -4,8 +4,7 @@ date: "2025-12-25T04:01:51+03:00"
 slug: "yahya-kemal-muzesi"
 description: "## Yahya Kemal Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

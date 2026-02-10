@@ -5,10 +5,10 @@ slug: "oda-yani-cesmesi-kursunlu"
 description: "## Oda Yanı Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.420704822,40.839322028"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ii-mahmut-cesmesi-dereseki"
 description: "## II. Mahmut Çeşmesi, Dereseki..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/II._Mahmut_Çeşmesi,_Dereseki_IMG_3278.jpg/1200px-II._Mahmut_Çeşmesi,_Dereseki_IMG_3278.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1332378,41.1505737"
 draft: "false"
 weight: "10"

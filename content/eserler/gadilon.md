@@ -4,8 +4,7 @@ date: "2025-12-25T05:42:41+03:00"
 slug: "gadilon"
 description: "# Gadilon Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

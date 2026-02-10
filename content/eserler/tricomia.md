@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:26+03:00"
 slug: "tricomia"
 description: "## Tricomia: Antik Dönemin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

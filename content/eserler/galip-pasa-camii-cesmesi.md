@@ -5,10 +5,10 @@ slug: "galip-pasa-camii-cesmesi"
 description: "### Galip Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.069792,40.966016"
 draft: "false"
 weight: "999"

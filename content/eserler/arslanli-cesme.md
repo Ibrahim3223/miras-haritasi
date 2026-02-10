@@ -5,10 +5,10 @@ slug: "arslanli-cesme"
 description: "## Arslanlı Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7768135,41.3851509"
 draft: "false"
 weight: "999"

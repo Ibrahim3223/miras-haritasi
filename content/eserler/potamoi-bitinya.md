@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:08+03:00"
 slug: "potamoi-bitinya"
 description: "## Potamoi (Bitinya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

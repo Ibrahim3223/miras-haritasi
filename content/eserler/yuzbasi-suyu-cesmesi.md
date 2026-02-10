@@ -5,10 +5,10 @@ slug: "yuzbasi-suyu-cesmesi"
 description: "## Yüzbaşı Suyu Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.388475,40.90977"
 draft: "false"
 weight: "999"

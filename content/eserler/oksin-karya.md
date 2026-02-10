@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:38+03:00"
 slug: "oksin-karya"
 description: "### Öksin (Karya) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

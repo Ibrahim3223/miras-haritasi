@@ -5,10 +5,10 @@ slug: "kilic-ali-pasa-sebili"
 description: "## Kılıç Ali Paşa Sebili: İstanbul'un Tarihi ve Kültürel Miraslarından Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9808445,41.026741"
 draft: "false"
 weight: "999"

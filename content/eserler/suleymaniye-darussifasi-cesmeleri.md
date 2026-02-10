@@ -5,10 +5,10 @@ slug: "suleymaniye-darussifasi-cesmeleri"
 description: "## Süleymaniye Darüşşifası Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961517008,41.016316691"
 draft: "false"
 weight: "1"

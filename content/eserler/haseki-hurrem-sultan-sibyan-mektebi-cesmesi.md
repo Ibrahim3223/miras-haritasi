@@ -5,10 +5,10 @@ slug: "haseki-hurrem-sultan-sibyan-mektebi-cesmesi"
 description: "## Haseki Hürrem Sultan Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941416,41.008705"
 draft: "false"
 weight: "999"

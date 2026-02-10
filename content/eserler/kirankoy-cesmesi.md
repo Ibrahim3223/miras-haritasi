@@ -5,10 +5,10 @@ slug: "kirankoy-cesmesi"
 description: "**Kıranköy Çeşmesi: Ulubey'de Bir Ölümsüz**..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9154186,38.4456711"
 draft: "false"
 weight: "999"

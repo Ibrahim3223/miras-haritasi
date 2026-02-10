@@ -4,8 +4,7 @@ date: "2025-12-25T08:52:25+03:00"
 slug: "holy-athanagine-chapel"
 description: "## Holy Athanagine Chapel: Tarihî Bir Örnek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

@@ -5,10 +5,10 @@ slug: "burmali-cesme"
 description: "## Burmalı Çeşme: Afyonkarahisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5352325,38.7579575"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "iii-selim-han-cesmesi-kumkapi"
 description: "# III. Selim Han Çeşmesi, Kumkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.962117,41.006308"
 draft: "false"
 weight: "999"

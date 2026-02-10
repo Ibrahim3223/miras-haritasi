@@ -4,8 +4,7 @@ date: "2025-12-25T04:38:45+03:00"
 slug: "dios-hieron-iyonya"
 description: "## Dios Hieron (İyonya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "istiklal-cesmesi"
 description: "# İstiklal Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.423674,40.288741"
 draft: "false"
 weight: "999"

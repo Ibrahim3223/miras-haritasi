@@ -5,10 +5,10 @@ slug: "boduroglu-mahalle-cesmesi"
 description: "### Boduroğlu Mahalle Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kırkağaç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6703987,39.1034546"
 draft: "false"
 weight: "999"

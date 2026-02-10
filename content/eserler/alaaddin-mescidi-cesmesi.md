@@ -5,10 +5,10 @@ slug: "alaaddin-mescidi-cesmesi"
 description: "### Kütahya'nın Tarihsel Mirası: Alaaddin Mescidi Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9745502,39.4234352"
 draft: "false"
 weight: "999"

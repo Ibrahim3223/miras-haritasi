@@ -5,10 +5,10 @@ slug: "laleli-cesme"
 description: "### Laleli Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Laleli_fountain.jpg/1200px-Laleli_fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972583333,41.025694444"
 draft: "false"
 weight: "10"

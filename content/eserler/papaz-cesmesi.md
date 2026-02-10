@@ -5,10 +5,10 @@ slug: "papaz-cesmesi"
 description: "### Papaz Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Bünyan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.8551445,38.8479805"
 draft: "false"
 weight: "999"

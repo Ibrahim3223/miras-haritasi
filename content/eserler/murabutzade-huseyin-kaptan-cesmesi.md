@@ -5,10 +5,10 @@ slug: "murabutzade-huseyin-kaptan-cesmesi"
 description: "## Murabutzade Hüseyin Kaptan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.304615,38.3247528"
 draft: "false"
 weight: "999"

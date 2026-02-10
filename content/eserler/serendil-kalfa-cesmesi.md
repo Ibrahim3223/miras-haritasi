@@ -5,10 +5,10 @@ slug: "serendil-kalfa-cesmesi"
 description: "### Serendil Kalfa Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.953582,41.019512"
 draft: "false"
 weight: "999"

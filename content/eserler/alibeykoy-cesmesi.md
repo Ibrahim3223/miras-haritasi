@@ -5,10 +5,10 @@ slug: "alibeykoy-cesmesi"
 description: "### Alibeyköy Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Hatice_Sultan_Mosque_20220601_155700.jpg/1200px-Hatice_Sultan_Mosque_20220601_155700.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.946931,41.076762"
 draft: "false"
 weight: "10"

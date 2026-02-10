@@ -4,8 +4,7 @@ date: "2025-12-24T23:46:15+03:00"
 slug: "yikik-camii"
 description: "## Yıkık Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

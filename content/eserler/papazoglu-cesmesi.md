@@ -5,10 +5,10 @@ slug: "papazoglu-cesmesi"
 description: "### Papazoğlu Çeşmesi: Edirne'nin Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Papazoğlu_Çeşmesi.jpg/1200px-Papazoğlu_Çeşmesi.jpg"
 province: "Edirne"
-iller: '["Edirne"]'
+iller: ["Edirne"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.5610504,41.6720467"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kadi-araligi-cesmesi-bergama"
 description: "## Kadı Aralığı Çeşmesi: Bergama'nın Eski Ahit'indeki Kutsal Suyu..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1825752,39.1240425"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ortakoy-meydan-cesmesi"
 description: "## Ortaköy Meydan Çeşmesi: Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.026396239,41.047520163"
 draft: "false"
 weight: "999"

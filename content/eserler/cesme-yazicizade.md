@@ -5,10 +5,10 @@ slug: "cesme-yazicizade"
 description: "### Çeşme, Yazıcızade: Gelibolu'nun Tarihî Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gelibolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.675412681,40.41346436"
 draft: "false"
 weight: "999"

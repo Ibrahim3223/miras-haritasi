@@ -5,10 +5,10 @@ slug: "girmec-cesmesi"
 description: "## Girmeç Çeşmesi: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.2785339,39.815094"
 draft: "false"
 weight: "999"

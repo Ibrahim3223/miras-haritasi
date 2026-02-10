@@ -5,10 +5,10 @@ slug: "ikicesmelik-cesmesi-cesme"
 description: "## İkiçeşmelik Çeşmesi: Çeşme'nin Tarihi Bir Sembolü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3105278,38.2806854"
 draft: "false"
 weight: "999"

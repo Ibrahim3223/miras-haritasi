@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-su-kulturu-acik-teshiri"
 description: "## Topkapı Sarayı Su Kültürü Açık Teşhiri: İstanbul'un Gizemli Çeşmesinde Bir Seyahat..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9829273,41.0108719"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "rami-kislasi-kasr-i-humayun-cesmeleri"
 description: "### Rami Kışlası Kasr-ı Hümayun Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9166431,41.0485115"
 draft: "false"
 weight: "999"

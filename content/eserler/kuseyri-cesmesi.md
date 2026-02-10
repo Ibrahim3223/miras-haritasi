@@ -5,10 +5,10 @@ slug: "kuseyri-cesmesi"
 description: "## Kuseyri Çeşmesi: Mardin'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.730193,37.311173"
 draft: "false"
 weight: "999"

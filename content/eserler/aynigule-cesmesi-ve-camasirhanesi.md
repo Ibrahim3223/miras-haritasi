@@ -5,10 +5,10 @@ slug: "aynigule-cesmesi-ve-camasirhanesi"
 description: "### Aynıgüle Çeşmesi ve Çamaşırhanesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.8354988,38.8126526"
 draft: "false"
 weight: "999"

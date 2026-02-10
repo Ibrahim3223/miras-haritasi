@@ -5,10 +5,10 @@ slug: "aksu-cesmesi"
 description: "## Aksu Çeşmesi: İskilip'in Şirin Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4646721,40.7333717"
 draft: "false"
 weight: "999"

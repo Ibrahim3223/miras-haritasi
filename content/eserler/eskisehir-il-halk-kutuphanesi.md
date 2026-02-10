@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:48+03:00"
 slug: "eskisehir-il-halk-kutuphanesi"
 description: "## Eskişehir İl Halk Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

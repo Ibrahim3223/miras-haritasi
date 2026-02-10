@@ -5,10 +5,10 @@ slug: "semi-molla-camii-su-teknesi"
 description: "## Şem'i Molla Camii Su Teknesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9462738,41.0082741"
 draft: "false"
 weight: "999"

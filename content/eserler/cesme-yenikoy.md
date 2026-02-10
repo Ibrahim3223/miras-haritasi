@@ -5,10 +5,10 @@ slug: "cesme-yenikoy"
 description: "## Çeşme, Yeniköy: Sarıyer'in Tarihi Bir Kahramanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0681419,41.1206436"
 draft: "false"
 weight: "999"

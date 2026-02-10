@@ -5,10 +5,10 @@ slug: "iskender-pasa-cesmesi-2"
 description: "### İskender Paşa Çeşmesi 2: Ortahisar'da Bir Güzellik..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/İskender_Paşa_Çeşmesi_2.jpg/1200px-İskender_Paşa_Çeşmesi_2.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7198601,41.0081253"
 draft: "false"
 weight: "10"

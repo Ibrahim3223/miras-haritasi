@@ -5,10 +5,10 @@ slug: "sukru-efendi-cesmesi"
 description: "## Şükrü Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Şükrü_Efendi_Çeşmesi.jpg/1200px-Şükrü_Efendi_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6919479,41.2447205"
 draft: "false"
 weight: "10"

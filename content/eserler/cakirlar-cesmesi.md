@@ -5,10 +5,10 @@ slug: "cakirlar-cesmesi"
 description: "## Çakırlar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.861903988,39.942712272"
 draft: "false"
 weight: "999"

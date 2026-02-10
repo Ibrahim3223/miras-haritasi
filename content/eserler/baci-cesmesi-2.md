@@ -5,10 +5,10 @@ slug: "baci-cesmesi-2"
 description: "## Bacı Çeşmesi 2: Sincan'ın Tarihî Anıtı..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Sincan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.2897148,39.7875977"
 draft: "false"
 weight: "999"

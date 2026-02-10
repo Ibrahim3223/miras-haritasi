@@ -5,10 +5,10 @@ slug: "kayisdagi-suyu-cesmesi-acibadem"
 description: "## Kayışdağı Suyu Çeşmesi, Acıbadem: Kadıköy'de Bir Çeşme Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.040666,40.999565"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ytu-mimarlik-fakultesi-cesmesi"
 description: "## YTÜ Mimarlık Fakültesi Çeşmesi: Beşiktaş'taki Bir Ören..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Yıldız_Teknik_Üniversitesi_Mimarlık_Fakültesi_Çeşmesi,_Yıldız,_Beşiktaş_2023.jpg/1200px-Yıldız_Teknik_Üniversitesi_Mimarlık_Fakültesi_Çeşmesi,_Yıldız,_Beşiktaş_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0108573,41.0521388"
 draft: "false"
 weight: "10"

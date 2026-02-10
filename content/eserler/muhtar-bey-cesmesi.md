@@ -5,10 +5,10 @@ slug: "muhtar-bey-cesmesi"
 description: "## Muhtar Bey Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.423361,40.911546"
 draft: "false"
 weight: "999"

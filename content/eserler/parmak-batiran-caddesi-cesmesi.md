@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:33+03:00"
 slug: "parmak-batiran-caddesi-cesmesi"
 description: "## Parmak Batıran Caddesi Çeşmesi: Ankara'nın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/537.1-Parmak_Batıran_Caddesi_Çeşmesi-19.yy_01.jpg/1200px-537.1-Parmak_Batıran_Caddesi_Çeşmesi-19.yy_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.18775278,39.12419167"
 draft: "false"
 weight: "10"

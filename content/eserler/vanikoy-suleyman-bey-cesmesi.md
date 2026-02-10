@@ -5,10 +5,10 @@ slug: "vanikoy-suleyman-bey-cesmesi"
 description: "## Vaniköy Süleyman Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.055505,41.063945"
 draft: "false"
 weight: "999"

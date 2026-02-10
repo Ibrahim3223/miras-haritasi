@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:21+03:00"
 slug: "tendeba"
 description: "## Tendeba: Türkiye'nin Gizli Kahramanı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

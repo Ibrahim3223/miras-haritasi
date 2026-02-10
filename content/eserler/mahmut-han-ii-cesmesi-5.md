@@ -5,10 +5,10 @@ slug: "mahmut-han-ii-cesmesi-5"
 description: "## Mahmut Han II Çeşmesi 5: Üsküdar'daki Bir Çeşmenin Tarihi ve Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.041174,41.04288"
 draft: "false"
 weight: "999"

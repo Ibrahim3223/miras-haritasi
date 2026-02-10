@@ -5,10 +5,10 @@ slug: "cesme-yenidogan"
 description: "### Çeşme, Yenidoğan: İstanbul'un Gizli Cezvesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Bayrampaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.915737,41.042343"
 draft: "false"
 weight: "999"

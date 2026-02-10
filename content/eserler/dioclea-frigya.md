@@ -4,8 +4,7 @@ date: "2025-12-25T05:41:09+03:00"
 slug: "dioclea-frigya"
 description: "## Dioclea (Frigya) Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

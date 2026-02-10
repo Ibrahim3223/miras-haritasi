@@ -5,10 +5,10 @@ slug: "konuklar-cesmesi"
 description: "### Konuklar Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.857497055,39.939181278"
 draft: "false"
 weight: "999"

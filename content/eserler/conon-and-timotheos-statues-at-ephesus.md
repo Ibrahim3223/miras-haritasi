@@ -4,8 +4,7 @@ date: "2025-12-25T13:40:36+03:00"
 slug: "conon-and-timotheos-statues-at-ephesus"
 description: "## Conon ve Timotheos, heykelleri, Efes..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

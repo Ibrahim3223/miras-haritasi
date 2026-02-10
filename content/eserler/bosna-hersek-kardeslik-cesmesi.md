@@ -5,10 +5,10 @@ slug: "bosna-hersek-kardeslik-cesmesi"
 description: "## Bosna-Hersek Kardeşlik Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.864627883,39.93394571"
 draft: "false"
 weight: "999"

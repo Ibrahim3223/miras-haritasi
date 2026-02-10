@@ -5,10 +5,10 @@ slug: "abaci-cesmesi"
 description: "## Abacı Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9575958,40.5473328"
 draft: "false"
 weight: "999"

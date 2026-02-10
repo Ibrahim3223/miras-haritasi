@@ -4,8 +4,7 @@ date: "2025-12-25T13:24:08+03:00"
 slug: "grave-of-mustafa-kemal-ataturk"
 description: "## Mustafa Kemal Atatürk'ün Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Ataturk's_symbolic_tomb_stone.JPG/1200px-Ataturk's_symbolic_tomb_stone.JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

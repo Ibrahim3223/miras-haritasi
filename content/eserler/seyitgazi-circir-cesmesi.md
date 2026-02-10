@@ -5,10 +5,10 @@ slug: "seyitgazi-circir-cesmesi"
 description: "## Seyitgazi Çırçır Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Seyitgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.6987877,39.4436607"
 draft: "false"
 weight: "999"

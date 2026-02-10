@@ -5,10 +5,10 @@ slug: "asik-pasazade-cesmesi"
 description: "### Aşık Paşazade Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956022,41.024061"
 draft: "false"
 weight: "999"

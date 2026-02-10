@@ -5,10 +5,10 @@ slug: "tavanli-cesmesi"
 description: "## Tavanlı Çeşmesi: Ortacami'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: '["Süleymanpaşa"]'
+iller: ["Süleymanpaşa"]
 district: "Ortacami"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5166759,40.9823151"
 draft: "false"
 weight: "999"

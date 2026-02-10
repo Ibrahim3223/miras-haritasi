@@ -5,10 +5,10 @@ slug: "halil-aga-elhac-cesmesi"
 description: "## Halil Ağa Elhac Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967155,41.016891"
 draft: "false"
 weight: "999"

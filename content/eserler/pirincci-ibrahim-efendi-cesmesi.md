@@ -5,10 +5,10 @@ slug: "pirincci-ibrahim-efendi-cesmesi"
 description: "## Pirinççi İbrahim Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.979483,41.029881"
 draft: "false"
 weight: "999"

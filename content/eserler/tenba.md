@@ -4,8 +4,7 @@ date: "2025-12-25T05:39:47+03:00"
 slug: "tenba"
 description: "## Tenba Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

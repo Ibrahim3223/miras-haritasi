@@ -5,10 +5,10 @@ slug: "sineperver-valide-sultan-cesmesi-uskudar"
 description: "### Sineperver Valide Sultan Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.014431,41.025223"
 draft: "false"
 weight: "999"

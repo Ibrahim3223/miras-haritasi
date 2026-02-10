@@ -4,8 +4,7 @@ date: "2025-12-25T08:36:58+03:00"
 slug: "syria-turkey-border-crossing-2745"
 description: "## Suriye - Türkiye Sınır geçiş noktası #2745: Kervansaray'ın Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

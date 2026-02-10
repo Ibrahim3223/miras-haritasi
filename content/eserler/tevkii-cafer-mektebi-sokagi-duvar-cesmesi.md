@@ -5,10 +5,10 @@ slug: "tevkii-cafer-mektebi-sokagi-duvar-cesmesi"
 description: "## Tevkii Cafer Mektebi Sokağı Duvar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Tevkii_Cafer_Mektebi_Sokağı_Duvar_Çeşmesi_(1).jpg/1200px-Tevkii_Cafer_Mektebi_Sokağı_Duvar_Çeşmesi_(1).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9487057,41.0300865"
 draft: "false"
 weight: "10"

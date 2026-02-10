@@ -5,10 +5,10 @@ slug: "atabey-gazi-cesmesi-3"
 description: "## Atabey Gazi Çeşmesi 3: Kastamonu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7716217,41.3755074"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mahmut-bey-cesmesi"
 description: "## Mahmut Bey Çeşmesi: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Mahmut_Bey_Çeşmesi.jpg/1200px-Mahmut_Bey_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1093597,40.9696557"
 draft: "false"
 weight: "10"

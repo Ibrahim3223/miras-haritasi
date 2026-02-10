@@ -5,10 +5,10 @@ slug: "zeynep-sultan-sebili"
 description: "### Zeynep Sultan Sebili: İstanbul'un Gizli Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9785385,41.0102348"
 draft: "false"
 weight: "999"

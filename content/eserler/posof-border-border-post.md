@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:19+03:00"
 slug: "posof-border-border-post"
 description: "## Posof Sınır Kapısı: Tarihi ve Kültürel Mirasımız..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

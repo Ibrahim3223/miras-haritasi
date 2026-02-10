@@ -5,10 +5,10 @@ slug: "cadirci-mescidi-cesmesi"
 description: "## Çadırcı Mescidi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9657192,41.0052452"
 draft: "false"
 weight: "999"

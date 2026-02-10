@@ -4,8 +4,7 @@ date: "2025-12-25T04:46:30+03:00"
 slug: "elaea"
 description: "## Elaea: Tarihi Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

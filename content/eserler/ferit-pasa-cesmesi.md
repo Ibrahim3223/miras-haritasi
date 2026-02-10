@@ -5,10 +5,10 @@ slug: "ferit-pasa-cesmesi"
 description: "## Ferit Paşa Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4863434,37.8673935"
 draft: "false"
 weight: "999"

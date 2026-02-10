@@ -5,10 +5,10 @@ slug: "kertil-tekke-cesmesi"
 description: "## Kertil Tekke Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9263973,40.7691841"
 draft: "false"
 weight: "999"

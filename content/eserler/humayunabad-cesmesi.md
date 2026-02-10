@@ -5,10 +5,10 @@ slug: "humayunabad-cesmesi"
 description: "## Hümayunabad Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0441208,41.0769005"
 draft: "false"
 weight: "999"

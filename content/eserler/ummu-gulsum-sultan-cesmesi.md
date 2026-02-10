@@ -5,10 +5,10 @@ slug: "ummu-gulsum-sultan-cesmesi"
 description: "### Ümmü Gülsüm Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.010839,41.024132"
 draft: "false"
 weight: "999"

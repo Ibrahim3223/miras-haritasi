@@ -5,10 +5,10 @@ slug: "mavu-cesmesi"
 description: "### Mavu Çeşmesi: Karaman'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2052116,37.1813545"
 draft: "false"
 weight: "999"

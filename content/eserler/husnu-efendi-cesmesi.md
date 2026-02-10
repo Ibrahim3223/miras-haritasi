@@ -5,10 +5,10 @@ slug: "husnu-efendi-cesmesi"
 description: "## Hüsnü Efendi Çeşmesi: Trabzon'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.5623245,41.0197411"
 draft: "false"
 weight: "999"

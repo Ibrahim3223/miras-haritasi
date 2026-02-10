@@ -5,10 +5,10 @@ slug: "mehmet-aga-camii-dogu-kapisi-cesmesi"
 description: "## Mehmet Ağa Camii Doğu Kapısı Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945697,41.027051"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mehmet-sait-efendi-cesmesi-kanlica"
 description: "### Mehmet Sait Efendi Çeşmesi, Kanlıca..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.068569,41.10136"
 draft: "false"
 weight: "999"

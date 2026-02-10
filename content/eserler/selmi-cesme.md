@@ -5,10 +5,10 @@ slug: "selmi-cesme"
 description: "**Selâmi Çeşme: Kadıköy'un Eski ve Önemli Hazinesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Salami_Fountain_in_İstanbul_22.03.2025_02.jpg/1200px-Salami_Fountain_in_İstanbul_22.03.2025_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.051927777,40.975558333"
 draft: "false"
 weight: "10"

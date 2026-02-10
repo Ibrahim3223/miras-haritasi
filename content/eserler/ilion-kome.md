@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:33+03:00"
 slug: "ilion-kome"
 description: "## İlion Kome: Antik Yunanistan'ın Gizli Şehri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

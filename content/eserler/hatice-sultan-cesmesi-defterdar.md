@@ -5,10 +5,10 @@ slug: "hatice-sultan-cesmesi-defterdar"
 description: "## Hatice Sultan Çeşmesi, Defterdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9403934,41.0411148"
 draft: "false"
 weight: "999"

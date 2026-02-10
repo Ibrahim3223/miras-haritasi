@@ -5,10 +5,10 @@ slug: "cesme-kucukmustafapasa"
 description: "## Küçükmustafapaşa Çeşmesi: İstanbul'un Gizli Çeşme Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9572582,41.0257111"
 draft: "false"
 weight: "999"

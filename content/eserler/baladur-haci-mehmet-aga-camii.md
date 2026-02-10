@@ -4,8 +4,7 @@ date: "2025-12-24T22:11:52+03:00"
 slug: "baladur-haci-mehmet-aga-camii"
 description: "### Baladur Hacı Mehmet Ağa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

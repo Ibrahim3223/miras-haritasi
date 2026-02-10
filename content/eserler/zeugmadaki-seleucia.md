@@ -4,8 +4,7 @@ date: "2025-12-25T04:31:35+03:00"
 slug: "zeugmadaki-seleucia"
 description: "## Zeugma'daki Seleucia: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

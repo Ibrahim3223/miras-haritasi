@@ -5,10 +5,10 @@ slug: "seyh-bedreddin-turbe-cesmesi"
 description: "**Şeyh Bedreddin Türbe Çeşmesi**..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6065292,37.4393616"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "eski-saray-cesmeleri"
 description: "### Eski Saray Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.96582,41.012661"
 draft: "false"
 weight: "999"

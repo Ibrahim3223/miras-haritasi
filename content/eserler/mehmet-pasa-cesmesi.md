@@ -5,10 +5,10 @@ slug: "mehmet-pasa-cesmesi"
 description: "### Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934603,41.045879"
 draft: "false"
 weight: "999"

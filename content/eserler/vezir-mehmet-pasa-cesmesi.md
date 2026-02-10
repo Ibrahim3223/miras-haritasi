@@ -5,10 +5,10 @@ slug: "vezir-mehmet-pasa-cesmesi"
 description: "## Vezir Mehmet Paşa Çeşmesi: Küçükçekmece'nin Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Küçükçekmece_-_Vezir_Mehmet_Paşa_Çeşmesi_-_20250621121138.jpg/1200px-Küçükçekmece_-_Vezir_Mehmet_Paşa_Çeşmesi_-_20250621121138.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Küçükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.770722222,40.990916666"
 draft: "false"
 weight: "10"

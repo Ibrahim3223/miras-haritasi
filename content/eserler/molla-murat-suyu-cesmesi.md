@@ -5,10 +5,10 @@ slug: "molla-murat-suyu-cesmesi"
 description: "# Molla Murat Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.041452,41.164698"
 draft: "false"
 weight: "999"

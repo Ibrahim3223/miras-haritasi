@@ -5,10 +5,10 @@ slug: "nusretiye-sebili"
 description: "### Nusretiye Sebili: Beyoğlu'ndaki Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.983395,41.027645"
 draft: "false"
 weight: "999"

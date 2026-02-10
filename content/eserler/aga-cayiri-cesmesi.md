@@ -5,10 +5,10 @@ slug: "aga-cayiri-cesmesi"
 description: "## Ağa Çayırı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9245129,41.0036736"
 draft: "false"
 weight: "999"

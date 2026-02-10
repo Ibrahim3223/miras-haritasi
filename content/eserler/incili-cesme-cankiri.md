@@ -5,10 +5,10 @@ slug: "incili-cesme-cankiri"
 description: "## İncili Çeşme, Çankırı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.619564667,40.601534541"
 draft: "false"
 weight: "999"

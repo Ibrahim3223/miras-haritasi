@@ -5,10 +5,10 @@ slug: "cilimbiz-mevki-cesmesi"
 description: "### Cılımbız Mevki Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "İncirliova"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7165146,37.881916"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tabakhane-koprusu-cesmesi"
 description: "## Tabakhane Köprüsü Çeşmesi: Ankara'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.861393,39.9433403"
 draft: "false"
 weight: "999"

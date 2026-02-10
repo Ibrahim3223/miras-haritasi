@@ -4,8 +4,7 @@ date: "2025-12-24T22:45:12+03:00"
 slug: "arakiyeci-ahmet-celebi-camii"
 description: "## Arakiyeci Ahmet Çelebi Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

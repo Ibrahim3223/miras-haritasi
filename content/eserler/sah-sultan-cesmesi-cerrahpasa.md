@@ -5,10 +5,10 @@ slug: "sah-sultan-cesmesi-cerrahpasa"
 description: "## Şah Sultan Çeşmesi (Cerrahpaşa)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.938875,41.004044"
 draft: "false"
 weight: "999"

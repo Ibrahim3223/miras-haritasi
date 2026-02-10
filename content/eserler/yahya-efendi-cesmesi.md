@@ -5,10 +5,10 @@ slug: "yahya-efendi-cesmesi"
 description: "# Yahya Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Yahya_Efendi_Fountain_05.jpg/1200px-Yahya_Efendi_Fountain_05.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.01725,41.04587"
 draft: "false"
 weight: "10"

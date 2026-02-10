@@ -4,8 +4,7 @@ date: "2025-12-25T05:39:07+03:00"
 slug: "sandaraca"
 description: "## Sandaraca Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

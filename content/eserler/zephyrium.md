@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:29+03:00"
 slug: "zephyrium"
 description: "## Zephyrium: Antik Bir Liman Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

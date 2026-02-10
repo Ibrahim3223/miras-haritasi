@@ -5,10 +5,10 @@ slug: "ayn-sincar-cesmesi"
 description: "# Ayn Sincar Çeşmesi..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.74567,37.312549"
 draft: "false"
 weight: "999"

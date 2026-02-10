@@ -4,8 +4,7 @@ date: "2025-12-25T04:25:19+03:00"
 slug: "mysomakedones"
 description: "## Mysomakedones: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

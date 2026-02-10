@@ -5,10 +5,10 @@ slug: "goztepe-su-terazisi-ve-cesmesi"
 description: "### Göztepe Su Terazisi ve Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0559185,40.9846781"
 draft: "false"
 weight: "999"

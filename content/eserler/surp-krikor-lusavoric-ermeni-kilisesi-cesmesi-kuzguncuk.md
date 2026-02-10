@@ -5,10 +5,10 @@ slug: "surp-krikor-lusavoric-ermeni-kilisesi-cesmesi-kuzguncuk"
 description: "## Surp Krikor Lusavoriç Ermeni Kilisesi Çeşmesi, Kuzguncuk..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.030214211,41.036771617"
 draft: "false"
 weight: "999"

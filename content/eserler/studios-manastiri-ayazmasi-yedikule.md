@@ -5,10 +5,10 @@ slug: "studios-manastiri-ayazmasi-yedikule"
 description: "### Studios Manastırı Ayazması, Yedikule..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.928915,40.9958076"
 draft: "false"
 weight: "999"

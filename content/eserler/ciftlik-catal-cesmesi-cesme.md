@@ -5,10 +5,10 @@ slug: "ciftlik-catal-cesmesi-cesme"
 description: "### Çiftlik Çatal Çeşmesi: Çeşme'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2801208,38.2922287"
 draft: "false"
 weight: "999"

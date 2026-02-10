@@ -5,10 +5,10 @@ slug: "ahmet-bey-cesmesi-suleymaniye"
 description: "## Ahmet Bey Çeşmesi: Süleymaniye'nin Yüzyıllardır Bakılan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.961458,41.015745"
 draft: "false"
 weight: "1"

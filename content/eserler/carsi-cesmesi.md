@@ -5,10 +5,10 @@ slug: "carsi-cesmesi"
 description: "## Çarşı Çeşmesi: Karaman'ın Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Çarşı_Çeşmesi_IMG_0341.jpg/1200px-Çarşı_Çeşmesi_IMG_0341.jpg"
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2173233,37.1836472"
 draft: "false"
 weight: "999"

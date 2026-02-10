@@ -5,10 +5,10 @@ slug: "istinye-iskele-cesmesi"
 description: "## İstinye İskele Çeşmesi: Sarıyer'in İhtişamlı Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/İstinye_İskele_Çeşmesi_IMG_7422.jpg/1200px-İstinye_İskele_Çeşmesi_IMG_7422.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.061449,41.11348"
 draft: "false"
 weight: "10"

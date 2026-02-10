@@ -5,10 +5,10 @@ slug: "alamuar-cesmesi"
 description: "## Alamuar Çeşmesi: Kaş'ın Kırmızı Taş Çeşmesi..."
 featured_image: ""
 province: "Kaş ilçesi"
-iller: '["Kaş ilçesi"]'
+iller: ["Kaş ilçesi"]
 district: "Kaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6766,36.3545"
 draft: "false"
 weight: "999"

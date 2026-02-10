@@ -4,8 +4,7 @@ date: "2025-12-25T05:35:37+03:00"
 slug: "yukari-gymnasion-devlet-agorasi-hamamlari"
 description: "# Yukarı Gymnasion / Devlet Agorası Hamamları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/1.2_Baths'_ruins_in_Ephesus.JPG/1200px-1.2_Baths'_ruins_in_Ephesus.JPG"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T04:33:02+03:00"
 slug: "issos-yakinlarindaki-iskenderiye"
 description: "## İssos Yakınlarındaki İskenderiye: Antik Kentin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "duvar-cesmesi-anadoluhisari"
 description: "## Duvar Çeşmesi, Anadoluhisarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0669327,41.0827408"
 draft: "false"
 weight: "999"

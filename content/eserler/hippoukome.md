@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:35+03:00"
 slug: "hippoukome"
 description: "# Hippoukome: Antik Yunanistan'ın Gizli Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

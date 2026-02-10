@@ -4,8 +4,7 @@ date: "2025-12-25T13:14:12+03:00"
 slug: "beikta-palace"
 description: "## Beșiktaș Palace: Istanbul'un Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saray"
 turler: ["Saray"]

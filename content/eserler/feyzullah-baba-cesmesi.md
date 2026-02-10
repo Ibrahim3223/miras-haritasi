@@ -5,10 +5,10 @@ slug: "feyzullah-baba-cesmesi"
 description: "# Feyzullah Baba Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5648003,38.9407997"
 draft: "false"
 weight: "999"

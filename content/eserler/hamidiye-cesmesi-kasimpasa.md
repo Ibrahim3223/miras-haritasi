@@ -5,10 +5,10 @@ slug: "hamidiye-cesmesi-kasimpasa"
 description: "## Hamidiye Çeşmesi, Kasımpaşa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Hamidiye_Çeşmesi,_Kasımpaşa_IMG_7729.jpg/1200px-Hamidiye_Çeşmesi,_Kasımpaşa_IMG_7729.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967016,41.03426"
 draft: "false"
 weight: "10"

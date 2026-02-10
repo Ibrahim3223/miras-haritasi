@@ -4,8 +4,7 @@ date: "2025-12-25T03:09:40+03:00"
 slug: "istanbul-demiryolu-muzesi"
 description: "## İstanbul Demiryolu Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg/1200px-Istanbul_asv2020-02_img12_Sirkeci_Terminal.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

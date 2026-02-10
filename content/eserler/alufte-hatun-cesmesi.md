@@ -5,10 +5,10 @@ slug: "alufte-hatun-cesmesi"
 description: "### Alüfte Hatun Çeşmesi: Beyoğlu'ndaki Bir Ölümsüz Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Alüfte_Hatun_Çeşmesi_IMG_9564.jpg/1200px-Alüfte_Hatun_Çeşmesi_IMG_9564.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973484,41.0234375"
 draft: "false"
 weight: "10"

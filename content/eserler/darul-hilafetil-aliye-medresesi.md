@@ -4,8 +4,7 @@ date: "2025-12-25T17:43:51+03:00"
 slug: "darul-hilafetil-aliye-medresesi"
 description: "## Darü'l-Hilafeti'l-Aliye Medresesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Medrese"
 turler: ["Medrese"]

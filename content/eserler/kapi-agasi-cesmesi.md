@@ -5,10 +5,10 @@ slug: "kapi-agasi-cesmesi"
 description: "## Kapı Ağası Çeşmesi: Sultanahmet'te Bir İhtişam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9768937,41.003207"
 draft: "false"
 weight: "999"

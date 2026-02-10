@@ -5,10 +5,10 @@ slug: "arpacik-koyu-cesmesi"
 description: "## Arpacık Köyü Çeşmesi: Giresun'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Espiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.775753,40.8864212"
 draft: "false"
 weight: "999"

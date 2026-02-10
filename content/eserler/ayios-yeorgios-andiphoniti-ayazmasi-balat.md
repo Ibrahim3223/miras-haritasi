@@ -5,10 +5,10 @@ slug: "ayios-yeorgios-andiphoniti-ayazmasi-balat"
 description: "## Ayios Yeorgios Andiphoniti Ayazması, Balat..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9471798,41.0282288"
 draft: "false"
 weight: "999"

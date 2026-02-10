@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:49+03:00"
 slug: "nauloi"
 description: "# Nauloi Arkeolojik Sitleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

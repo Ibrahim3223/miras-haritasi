@@ -5,10 +5,10 @@ slug: "gumussuyu-namazghi-cesmesi"
 description: "### Gümüşsuyu Namazgâhı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9321308,41.0564003"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ali-saip-pasa-meydan-cesmesi"
 description: "## Ali Saip Paşa Meydan Çeşmesi: Kayseri'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Talas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.558342,38.6870155"
 draft: "false"
 weight: "999"

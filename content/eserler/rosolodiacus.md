@@ -4,8 +4,7 @@ date: "2025-12-25T05:21:25+03:00"
 slug: "rosolodiacus"
 description: "## Rosolodiacus: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

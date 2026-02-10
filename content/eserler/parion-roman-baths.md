@@ -4,8 +4,7 @@ date: "2025-12-25T05:34:50+03:00"
 slug: "parion-roman-baths"
 description: "## Parion, Roma Hamamları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

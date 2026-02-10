@@ -5,10 +5,10 @@ slug: "bodrumi-camii-cesmesi"
 description: "## Bodrumi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.067816,41.011834"
 draft: "false"
 weight: "999"

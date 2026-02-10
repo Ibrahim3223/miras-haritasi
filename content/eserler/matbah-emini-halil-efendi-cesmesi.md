@@ -5,10 +5,10 @@ slug: "matbah-emini-halil-efendi-cesmesi"
 description: "### Matbah Emini Halil Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.026705,41.018004"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bilal-aga-cesmesi"
 description: "## Bilal Ağa Çeşmesi: Hacımimi'de Gizlenen Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978535,41.026997"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:44:21+03:00"
 slug: "argyronion"
 description: "## Argyronion: Eski Yunanistan'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "kasaplar-camii-cesmesi"
 description: "### Kasaplar Camii Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8810482,39.6432877"
 draft: "false"
 weight: "999"

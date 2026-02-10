@@ -4,8 +4,7 @@ date: "2025-12-25T05:42:48+03:00"
 slug: "symbra"
 description: "### Symbra Arkeolojik Sitesi Tanıtım Yazısı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

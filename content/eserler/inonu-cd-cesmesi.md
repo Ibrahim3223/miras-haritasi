@@ -5,10 +5,10 @@ slug: "inonu-cd-cesmesi"
 description: "## İnönü Cd. Çeşmesi: Sarıyer, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9915905,41.1790619"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hoca-fikih-cesmesi"
 description: "# Hoca Fıkıh Çeşmesi: Nevşehir'in Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5603523,38.9456367"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:03:28+03:00"
 slug: "bonitai"
 description: "### Bonitai Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

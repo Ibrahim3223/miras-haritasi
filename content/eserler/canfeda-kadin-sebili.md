@@ -5,10 +5,10 @@ slug: "canfeda-kadin-sebili"
 description: "## Canfeda Kadın Sebili: Fatih'te Bir Altın Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9529495,41.0152435"
 draft: "false"
 weight: "999"

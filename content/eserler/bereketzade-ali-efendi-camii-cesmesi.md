@@ -5,10 +5,10 @@ slug: "bereketzade-ali-efendi-camii-cesmesi"
 description: "## Bereketzade Ali Efendi Camii Çeşmesi: Osmanlı Rönesansının Efsanevi Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Bereketzade_Ali_Efendi_Camii_Çeşmesi_IMG_9852.jpg/1200px-Bereketzade_Ali_Efendi_Camii_Çeşmesi_IMG_9852.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9742279,41.0249329"
 draft: "false"
 weight: "10"

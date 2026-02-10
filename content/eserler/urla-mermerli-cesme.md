@@ -5,10 +5,10 @@ slug: "urla-mermerli-cesme"
 description: "## Urla Mermerli Çeşme: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ahmet_Aga_Cesmesi.jpg/1200px-Ahmet_Aga_Cesmesi.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.767908333,38.322194444"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "meydan-cesmesi"
 description: "**Meydan Çeşmesi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.0650997,39.4793015"
 draft: "false"
 weight: "999"

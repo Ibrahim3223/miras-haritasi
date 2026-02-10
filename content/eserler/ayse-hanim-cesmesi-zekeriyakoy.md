@@ -5,10 +5,10 @@ slug: "ayse-hanim-cesmesi-zekeriyakoy"
 description: "## Ayşe Hanım Çeşmesi, Zekeriyaköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ayşe_Hanım_Çeşmesi,_Zekeriyaköy_IMG_0408.jpg/1200px-Ayşe_Hanım_Çeşmesi,_Zekeriyaköy_IMG_0408.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0286369,41.1949043"
 draft: "false"
 weight: "10"

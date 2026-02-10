@@ -5,10 +5,10 @@ slug: "halil-efendi-cesmesi"
 description: "**Halil Efendi Çeşmesi**..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2234802,37.1784363"
 draft: "false"
 weight: "999"

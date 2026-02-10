@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:17+03:00"
 slug: "koliorga"
 description: "## Koliorga: Türkiye'nin Gizli Zirvesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

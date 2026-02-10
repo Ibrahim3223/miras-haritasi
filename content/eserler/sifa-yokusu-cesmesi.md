@@ -5,10 +5,10 @@ slug: "sifa-yokusu-cesmesi"
 description: "## Şifa Yokuşu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.929418,41.045674"
 draft: "false"
 weight: "999"

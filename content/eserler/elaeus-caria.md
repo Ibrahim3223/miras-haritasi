@@ -4,8 +4,7 @@ date: "2025-12-25T04:42:42+03:00"
 slug: "elaeus-caria"
 description: "## Elaeus (Caria): Antik Kentin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

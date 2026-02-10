@@ -5,10 +5,10 @@ slug: "bayram-pasa-kulliyesi-sadirvani"
 description: "### Bayram Paşa Külliyesi Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.942295,41.008591"
 draft: "false"
 weight: "999"

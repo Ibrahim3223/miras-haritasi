@@ -5,10 +5,10 @@ slug: "pazarkapi-cesmesi-ortahisar"
 description: "## Pazarkapı Çeşmesi: Ortahisar'ın Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Pazarkapı_Çeşmesi,_Ortahisar.jpg/1200px-Pazarkapı_Çeşmesi,_Ortahisar.jpg"
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.7178383,41.0067711"
 draft: "false"
 weight: "10"

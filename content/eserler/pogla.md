@@ -4,8 +4,7 @@ date: "2025-12-25T04:24:16+03:00"
 slug: "pogla"
 description: "## Pogla Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

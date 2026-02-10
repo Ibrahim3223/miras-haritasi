@@ -4,8 +4,7 @@ date: "2025-12-24T22:46:42+03:00"
 slug: "balikpazari-iskele-mescidi"
 description: "## Balıkpazarı İskele Mescidi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

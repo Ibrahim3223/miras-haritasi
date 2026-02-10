@@ -4,8 +4,7 @@ date: "2025-12-24T23:05:57+03:00"
 slug: "seferihisar-ulu-cami"
 description: "## Seferihisar Ulu Cami: İzmir'in Tarihi Bir Çaprazı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

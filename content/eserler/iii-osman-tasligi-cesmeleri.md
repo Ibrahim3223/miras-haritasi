@@ -5,10 +5,10 @@ slug: "iii-osman-tasligi-cesmeleri"
 description: "## III. Osman Taşlığı Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9830189,41.0135612"
 draft: "false"
 weight: "999"

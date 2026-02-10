@@ -4,8 +4,7 @@ date: "2025-12-25T04:43:13+03:00"
 slug: "panion"
 description: "## Panion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

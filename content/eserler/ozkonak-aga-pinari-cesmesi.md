@@ -5,10 +5,10 @@ slug: "ozkonak-aga-pinari-cesmesi"
 description: "### Özkonak Ağa Pınarı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Avanos"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.8335266,38.8033295"
 draft: "false"
 weight: "999"

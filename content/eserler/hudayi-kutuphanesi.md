@@ -4,8 +4,7 @@ date: "2025-12-25T17:56:45+03:00"
 slug: "hudayi-kutuphanesi"
 description: "## Hüdayi Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -5,10 +5,10 @@ slug: "yemenici-cesmesi"
 description: "## Yemenici Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9730873,41.0296516"
 draft: "false"
 weight: "999"

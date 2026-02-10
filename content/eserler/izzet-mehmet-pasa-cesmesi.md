@@ -5,10 +5,10 @@ slug: "izzet-mehmet-pasa-cesmesi"
 description: "### İzzet Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.042651,41.070313"
 draft: "false"
 weight: "999"

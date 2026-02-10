@@ -4,8 +4,7 @@ date: "2025-12-25T07:09:57+03:00"
 slug: "kumocagi-avariz"
 description: "## Kumocağı / Avarız Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

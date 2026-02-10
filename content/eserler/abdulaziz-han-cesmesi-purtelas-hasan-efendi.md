@@ -5,10 +5,10 @@ slug: "abdulaziz-han-cesmesi-purtelas-hasan-efendi"
 description: "# Abdülaziz Han Çeşmesi, Pürtelaş Hasan Efendi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.987524,41.0294189"
 draft: "false"
 weight: "999"

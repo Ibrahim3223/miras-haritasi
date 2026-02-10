@@ -5,10 +5,10 @@ slug: "emin-cesmesi-kulaksiz"
 description: "## Emin Çeşmesi, Kulaksız: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.960773,41.036102"
 draft: "false"
 weight: "999"

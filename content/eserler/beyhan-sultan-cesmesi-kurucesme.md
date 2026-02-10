@@ -5,10 +5,10 @@ slug: "beyhan-sultan-cesmesi-kurucesme"
 description: "### Beyhan Sultan Çeşmesi, Kuruçeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.037281,41.061484"
 draft: "false"
 weight: "999"

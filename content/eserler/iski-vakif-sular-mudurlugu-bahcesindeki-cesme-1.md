@@ -5,10 +5,10 @@ slug: "iski-vakif-sular-mudurlugu-bahcesindeki-cesme-1"
 description: "## İski Vakıf Sular Müdürlüğü Bahçesindeki Çeşme 1: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.989991,41.180693"
 draft: "false"
 weight: "999"

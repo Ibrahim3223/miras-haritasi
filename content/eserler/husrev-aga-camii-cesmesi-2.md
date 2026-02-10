@@ -5,10 +5,10 @@ slug: "husrev-aga-camii-cesmesi-2"
 description: "### Hüsrev Ağa Camii Çeşmesi-2: Manisa'da Bir Örnek Osmanlı Mimarisi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4374962,38.6154709"
 draft: "false"
 weight: "999"

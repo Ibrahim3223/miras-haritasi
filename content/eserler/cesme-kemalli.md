@@ -5,10 +5,10 @@ slug: "cesme-kemalli"
 description: "**Kemallı Çeşmesi: Ezine'nin Tarihi Güzelliği**..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.233950905,39.759074854"
 draft: "false"
 weight: "999"

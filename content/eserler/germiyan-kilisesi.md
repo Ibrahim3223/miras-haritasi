@@ -4,8 +4,7 @@ date: "2025-12-25T08:52:01+03:00"
 slug: "germiyan-kilisesi"
 description: "**Germiyan Kilisesi: İstanbul'un Gizli Çehresinde Bir Kaplıca Kilisesi**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Degirmenkoy-800.jpg/1200px-Degirmenkoy-800.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Kilise"
 turler: ["Kilise"]

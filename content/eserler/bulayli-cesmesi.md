@@ -5,10 +5,10 @@ slug: "bulayli-cesmesi"
 description: "## Bulaylı Çeşmesi: Aydın'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4484005,37.6077003"
 draft: "false"
 weight: "999"

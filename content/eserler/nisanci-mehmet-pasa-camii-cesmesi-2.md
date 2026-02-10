@@ -5,10 +5,10 @@ slug: "nisanci-mehmet-pasa-camii-cesmesi-2"
 description: "### Nişancı Mehmet Paşa Camii Çeşmesi 2: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9608088,41.0063254"
 draft: "false"
 weight: "999"

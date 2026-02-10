@@ -5,10 +5,10 @@ slug: "gazi-hasan-pasa-cesmesi"
 description: "### Gazi Hasan Paşa Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Turgutreis"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2497063,37.0333366"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vezir-cesmesi-sirkeci"
 description: "# Vezir Çeşmesi, Sirkeci..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9744987,41.0147133"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osman-aga-cesmesi-cankiri"
 description: "**Osman Ağa Çeşmesi: Çankırı'nın Gizli Cenneti**..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Bayramören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.155352038,40.945901908"
 draft: "false"
 weight: "999"

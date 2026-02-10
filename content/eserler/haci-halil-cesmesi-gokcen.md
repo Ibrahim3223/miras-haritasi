@@ -5,10 +5,10 @@ slug: "haci-halil-cesmesi-gokcen"
 description: "## Hacı Halil Çeşmesi: Gökçen, Tire'nin Yüzyıllar Önceki Kuytu Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8729,38.1106987"
 draft: "false"
 weight: "999"

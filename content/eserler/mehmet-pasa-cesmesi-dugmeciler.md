@@ -5,10 +5,10 @@ slug: "mehmet-pasa-cesmesi-dugmeciler"
 description: "### Mehmet Paşa Çeşmesi, Düğmeciler..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.927854,41.04849"
 draft: "false"
 weight: "999"

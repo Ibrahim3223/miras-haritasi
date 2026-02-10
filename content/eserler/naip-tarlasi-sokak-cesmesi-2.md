@@ -5,10 +5,10 @@ slug: "naip-tarlasi-sokak-cesmesi-2"
 description: "## Naip Tarlası Sokak Çeşmesi 2: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6946831,41.2446136"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesmeli-konak-cesmesi"
 description: "## Çeşmeli Konak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Edremit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7373009,39.5808258"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:09:10+03:00"
 slug: "bozcaada-antik-kent"
 description: "### Bozcaada Antik Kenti: Bir Tarihî Eserin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

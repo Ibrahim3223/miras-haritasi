@@ -5,10 +5,10 @@ slug: "mantar-cesme"
 description: "## Mantar Çeşme..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9276123,40.768383"
 draft: "false"
 weight: "999"

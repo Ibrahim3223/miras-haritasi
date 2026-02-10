@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:09+03:00"
 slug: "adrasus"
 description: "## Adrasus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

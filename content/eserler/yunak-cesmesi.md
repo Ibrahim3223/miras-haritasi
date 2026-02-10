@@ -5,10 +5,10 @@ slug: "yunak-cesmesi"
 description: "### Yunak Çeşmesi: Ürgüp'un Tarihî Bir Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Ürgüp"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.905426,38.6337433"
 draft: "false"
 weight: "999"

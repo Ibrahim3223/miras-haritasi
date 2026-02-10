@@ -4,8 +4,7 @@ date: "2025-12-25T03:30:39+03:00"
 slug: "erdemli-yoruk-muzesi"
 description: "## Erdemli Yörük Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

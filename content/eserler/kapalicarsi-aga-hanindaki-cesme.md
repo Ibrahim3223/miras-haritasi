@@ -5,10 +5,10 @@ slug: "kapalicarsi-aga-hanindaki-cesme"
 description: "## Kapalıçarşı Ağa Hanındaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9668331,41.0110893"
 draft: "false"
 weight: "999"

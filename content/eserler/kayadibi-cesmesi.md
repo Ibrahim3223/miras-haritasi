@@ -5,10 +5,10 @@ slug: "kayadibi-cesmesi"
 description: "### Afyonkarahisar'da Bir Tarihî Çeşme: Kayadibi Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5370369,38.761982"
 draft: "false"
 weight: "999"

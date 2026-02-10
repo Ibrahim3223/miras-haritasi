@@ -5,10 +5,10 @@ slug: "dede-cesmesi"
 description: "# Dede Çeşmesi: Bayramiç'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6134052,39.8094826"
 draft: "false"
 weight: "999"

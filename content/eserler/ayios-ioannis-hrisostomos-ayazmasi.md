@@ -5,10 +5,10 @@ slug: "ayios-ioannis-hrisostomos-ayazmasi"
 description: "**Ayios Ioannis Hrisostomos Ayazması**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Ayios_Ioannis_Hrisostomos_Ayazması.jpg/1200px-Ayios_Ioannis_Hrisostomos_Ayazması.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.041441,40.9765282"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cumhuriyet-caddesi-cesmesi-mimarsinan-buyukcekmece"
 description: "### Cumhuriyet Caddesi Çeşmesi, Mimarsinan (Büyükçekmece)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5609608,41.0148964"
 draft: "false"
 weight: "999"

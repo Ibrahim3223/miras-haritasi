@@ -5,10 +5,10 @@ slug: "seyyit-kethuda-mehmet-aga-cesmesi"
 description: "## Seyyit Kethüda Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.982044,41.00542"
 draft: "false"
 weight: "999"

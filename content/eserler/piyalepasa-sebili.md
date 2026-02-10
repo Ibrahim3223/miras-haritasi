@@ -5,10 +5,10 @@ slug: "piyalepasa-sebili"
 description: "## Piyalepaşa Sebili: Fatih'in Şehre Söylüyen Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9675388,41.0128517"
 draft: "false"
 weight: "999"

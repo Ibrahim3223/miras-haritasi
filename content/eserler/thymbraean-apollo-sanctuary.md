@@ -4,8 +4,7 @@ date: "2025-12-25T08:12:35+03:00"
 slug: "thymbraean-apollo-sanctuary"
 description: "## Thymbraean Apollo Sanctuary: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

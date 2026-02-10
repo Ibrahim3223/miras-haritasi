@@ -5,10 +5,10 @@ slug: "draman-cesmesi-dervisali"
 description: "## Draman Çeşmesi, Dervişali..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9435291,41.0278931"
 draft: "false"
 weight: "999"

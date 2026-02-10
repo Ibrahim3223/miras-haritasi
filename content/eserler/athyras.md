@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:44+03:00"
 slug: "athyras"
 description: "### Athyras Arkeolojik Sit..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/0/02/Thresor_de_la_langue_francoyse%2C_1606%2C_3%2C_Indexrerum.djvu"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

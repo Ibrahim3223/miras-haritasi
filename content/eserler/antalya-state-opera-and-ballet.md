@@ -4,8 +4,7 @@ date: "2025-12-25T16:19:18+03:00"
 slug: "antalya-state-opera-and-ballet"
 description: "## Antalya Devlet Opera ve Balesi: Antalya'nın Kültür Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

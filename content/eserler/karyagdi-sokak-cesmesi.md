@@ -5,10 +5,10 @@ slug: "karyagdi-sokak-cesmesi"
 description: "## Karyağdı Sokak Çeşmesi: Eyüpsultan'ın Tarihi bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Karyağdı_Sokak_Fountain_in_November_2025.jpg/1200px-Karyağdı_Sokak_Fountain_in_November_2025.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9333,41.053488"
 draft: "false"
 weight: "10"

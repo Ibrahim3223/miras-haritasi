@@ -4,8 +4,7 @@ date: "2025-12-25T08:57:57+03:00"
 slug: "aya-paraskevi-kilisesi-buyukdere"
 description: "## Aya Paraskevi Kilisesi (Büyükdere)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

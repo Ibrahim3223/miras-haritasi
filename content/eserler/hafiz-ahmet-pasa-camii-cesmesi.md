@@ -5,10 +5,10 @@ slug: "hafiz-ahmet-pasa-camii-cesmesi"
 description: "### Hafız Ahmet Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9475466,41.0218844"
 draft: "false"
 weight: "999"

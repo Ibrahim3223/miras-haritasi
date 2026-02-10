@@ -5,10 +5,10 @@ slug: "kara-mustafa-oglu-mustafa-cesmesi"
 description: "## Kara Mustafa Oğlu Mustafa Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3192062,37.0650101"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "gildan-dede-cesmesi"
 description: "## Gildan Dede Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5047989,37.8689842"
 draft: "false"
 weight: "999"

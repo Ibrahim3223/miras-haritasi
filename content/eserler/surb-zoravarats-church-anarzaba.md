@@ -4,8 +4,7 @@ date: "2025-12-25T08:52:28+03:00"
 slug: "surb-zoravarats-church-anarzaba"
 description: "## Surb Zoravarats Church (Anarzaba)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

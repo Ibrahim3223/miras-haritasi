@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:43+03:00"
 slug: "saurania"
 description: "## Saurania: Geçmişi ve Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

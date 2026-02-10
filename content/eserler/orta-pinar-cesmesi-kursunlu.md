@@ -5,10 +5,10 @@ slug: "orta-pinar-cesmesi-kursunlu"
 description: "## Orta Pınar Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.211344476,40.889222117"
 draft: "false"
 weight: "999"

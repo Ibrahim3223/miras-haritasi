@@ -5,10 +5,10 @@ slug: "refik-efendi-cesmesi-bergama"
 description: "## Refik Efendi Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1796608,39.122345"
 draft: "false"
 weight: "999"

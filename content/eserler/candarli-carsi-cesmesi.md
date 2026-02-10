@@ -5,10 +5,10 @@ slug: "candarli-carsi-cesmesi"
 description: "## Çandarlı Çarşı Çeşmesi: Dikili, İzmir'de Bir Çarpıcı Özellik..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Dikili"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.9352379,38.9353561"
 draft: "false"
 weight: "999"

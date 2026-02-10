@@ -5,10 +5,10 @@ slug: "muftu-cesmesi-1"
 description: "### Müftü Çeşmesi 1..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.420322,40.285279"
 draft: "false"
 weight: "999"

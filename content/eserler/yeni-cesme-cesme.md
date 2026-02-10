@@ -5,10 +5,10 @@ slug: "yeni-cesme-cesme"
 description: "## Yeni Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.307669429,38.323345726"
 draft: "false"
 weight: "999"

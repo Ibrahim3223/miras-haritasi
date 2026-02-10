@@ -5,10 +5,10 @@ slug: "sobuca-cesmesi"
 description: "## Sobuca Çeşmesi: Aydın'ın Değerli Mimari Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6737003,37.7652016"
 draft: "false"
 weight: "999"

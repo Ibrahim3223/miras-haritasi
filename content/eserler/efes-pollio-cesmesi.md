@@ -4,8 +4,7 @@ date: "2025-12-25T08:22:26+03:00"
 slug: "efes-pollio-cesmesi"
 description: "## Efes Pollio Çeşmesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

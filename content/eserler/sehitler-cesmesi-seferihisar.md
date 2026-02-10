@@ -5,10 +5,10 @@ slug: "sehitler-cesmesi-seferihisar"
 description: "### Şehitler Çeşmesi, Seferihisar..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.8352432,38.1950722"
 draft: "false"
 weight: "999"

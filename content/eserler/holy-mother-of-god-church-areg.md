@@ -4,8 +4,7 @@ date: "2025-12-25T08:59:57+03:00"
 slug: "holy-mother-of-god-church-areg"
 description: "### Holy Mother of God Church (Areg)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

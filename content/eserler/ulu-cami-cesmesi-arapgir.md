@@ -5,10 +5,10 @@ slug: "ulu-cami-cesmesi-arapgir"
 description: "### Ulu Cami Çeşmesi: Arapgir'in Ziyaretçi Cenneti..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.479132397,39.062074333"
 draft: "false"
 weight: "999"

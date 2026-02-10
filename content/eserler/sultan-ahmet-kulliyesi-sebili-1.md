@@ -5,10 +5,10 @@ slug: "sultan-ahmet-kulliyesi-sebili-1"
 description: "## Sultan Ahmet Külliyesi Sebili 1: İstanbul'un En Önemli Çeşme Yapılarından Birisi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9765968,41.0065384"
 draft: "false"
 weight: "999"

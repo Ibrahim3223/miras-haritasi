@@ -4,8 +4,7 @@ date: "2025-12-25T06:58:04+03:00"
 slug: "yukari-maltepe"
 description: "## Yukarı Maltepe: Türkiye'nin Gizli Harabeleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

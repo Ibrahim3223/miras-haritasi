@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:51+03:00"
 slug: "phosphorus-trakya"
 description: "# Phosphorus (Trakya): Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

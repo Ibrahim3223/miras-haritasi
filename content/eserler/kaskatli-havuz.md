@@ -5,10 +5,10 @@ slug: "kaskatli-havuz"
 description: "## Kaskatlı Havuz: İzmir'in Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/TR_Izmir_asv2020-02_img26_Kültürpark.jpg/1200px-TR_Izmir_asv2020-02_img26_Kültürpark.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.144805555,38.429277777"
 draft: "false"
 weight: "10"

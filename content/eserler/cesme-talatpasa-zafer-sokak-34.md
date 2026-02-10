@@ -5,10 +5,10 @@ slug: "cesme-talatpasa-zafer-sokak-34"
 description: "# Çeşme – Talatpaşa, Zafer Sokak, 34: Bergama'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1830006,39.1245003"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kartal-cesmesi"
 description: "## Kartal Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Kartal_Çeşmesi_8108.jpg/1200px-Kartal_Çeşmesi_8108.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.187142,40.890021"
 draft: "false"
 weight: "10"

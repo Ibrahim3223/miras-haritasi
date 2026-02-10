@@ -5,10 +5,10 @@ slug: "kaptan-pir-ahmet-pasa-sebili"
 description: "### Kaptan Pir Ahmet Paşa Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.947709,41.021694"
 draft: "false"
 weight: "999"

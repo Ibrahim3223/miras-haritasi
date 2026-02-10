@@ -4,8 +4,7 @@ date: "2025-12-25T14:13:54+03:00"
 slug: "maras-stele-15"
 description: "### Maraş Stele 15 Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Kahramanmaras_Museum_Maras_15.jpg/1200px-Kahramanmaras_Museum_Maras_15.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

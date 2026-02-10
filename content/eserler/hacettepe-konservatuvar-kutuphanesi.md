@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:02+03:00"
 slug: "hacettepe-konservatuvar-kutuphanesi"
 description: "## Hacettepe Konservatuvar Kütüphanesi: Türkiye'nin Eğitime Özenle Hizmet Ettiği Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -4,8 +4,7 @@ date: "2025-12-25T16:16:23+03:00"
 slug: "istanbul-sehir-tiyatrolari"
 description: "### İstanbul Şehir Tiyatroları..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

@@ -5,10 +5,10 @@ slug: "palamar-cesmesi"
 description: "## Palamar Çeşmesi: Beykoz'un Tarihi Bir Anıtı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Palamar_emesi_1761588139.jpg/1200px-Palamar_emesi_1761588139.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.091552,41.146182"
 draft: "false"
 weight: "10"

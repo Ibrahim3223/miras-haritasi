@@ -5,10 +5,10 @@ slug: "asagitasli-cesmesi"
 description: "### Aşağıtaslı Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4770851,40.7375259"
 draft: "false"
 weight: "999"

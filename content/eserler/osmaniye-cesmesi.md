@@ -5,10 +5,10 @@ slug: "osmaniye-cesmesi"
 description: "## Osmaniye Çeşmesi: Giresun'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Giresun"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.391083,40.914189"
 draft: "false"
 weight: "999"

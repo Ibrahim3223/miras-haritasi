@@ -5,10 +5,10 @@ slug: "atik-valide-kulliyesi-altindaki-cesme"
 description: "## Atik Valide Külliyesi Altındaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023288,41.019205"
 draft: "false"
 weight: "999"

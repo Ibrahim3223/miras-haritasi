@@ -4,8 +4,7 @@ date: "2025-12-24T23:12:43+03:00"
 slug: "seyh-nasurettin-camii"
 description: "## Şeyh Nurettin Camii: İzmir'in Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

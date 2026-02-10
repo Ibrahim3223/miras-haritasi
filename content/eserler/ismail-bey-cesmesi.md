@@ -5,10 +5,10 @@ slug: "ismail-bey-cesmesi"
 description: "## İsmail Bey Çeşmesi: Kastamonu'nun Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7769623,41.3844757"
 draft: "false"
 weight: "999"

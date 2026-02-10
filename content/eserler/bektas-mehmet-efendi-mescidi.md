@@ -4,8 +4,7 @@ date: "2025-12-24T22:46:46+03:00"
 slug: "bektas-mehmet-efendi-mescidi"
 description: "### Bektaş Mehmet Efendi Mescidi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "cukur-cesme-2"
 description: "## Çukur Çeşme 2..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6489429,38.5476952"
 draft: "false"
 weight: "999"

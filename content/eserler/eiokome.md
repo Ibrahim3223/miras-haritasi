@@ -4,8 +4,7 @@ date: "2025-12-25T05:38:42+03:00"
 slug: "eiokome"
 description: "### Eiokome: Tarihi ve Kültürel Mirasının Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "yakinpinar-cesmesi-arapgir"
 description: "**Yakınpınar Çeşmesi: Arapgir'in Tarihî ve Kültürel Mirası**..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.593037951,39.030600281"
 draft: "false"
 weight: "999"

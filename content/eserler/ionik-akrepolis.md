@@ -4,8 +4,7 @@ date: "2025-12-25T08:22:21+03:00"
 slug: "ionik-akrepolis"
 description: "## İonik Akrepolis: İzmir'in Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

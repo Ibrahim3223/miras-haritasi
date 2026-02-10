@@ -4,8 +4,7 @@ date: "2025-12-25T01:12:51+03:00"
 slug: "aydos-kalesi"
 description: "# Aydos Kalesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/DSC_5400_Aydos_harabeleri_-_panoramio.jpg/1200px-DSC_5400_Aydos_harabeleri_-_panoramio.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Kale"
 turler: ["Kale"]

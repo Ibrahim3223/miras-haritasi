@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-kucukayasofya"
 description: "## Mehmet Ağa Çeşmesi Küçükayasofya..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970998,41.002858"
 draft: "false"
 weight: "1"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:23+03:00"
 slug: "syria-turkey-border-crossing-2723"
 description: "## Suriye - Türkiye Sınırında 2723 Numaralı Sınır Geçidi Kervansarayı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

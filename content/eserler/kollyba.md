@@ -4,8 +4,7 @@ date: "2025-12-25T04:57:46+03:00"
 slug: "kollyba"
 description: "## Kollyba: Türkiye'nin Gizli Arkeolojik Çarpıcılığı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

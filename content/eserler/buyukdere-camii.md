@@ -4,8 +4,7 @@ date: "2025-12-24T22:50:11+03:00"
 slug: "buyukdere-camii"
 description: "### İstanbul'un Gizli Cenneti: Büyükdere Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

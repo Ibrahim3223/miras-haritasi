@@ -4,8 +4,7 @@ date: "2025-12-25T14:14:45+03:00"
 slug: "adiyaman-stele-2"
 description: "## Adıyaman Stele 2: Tarihî Bir Mirasın Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wettergott_Adiyaman_2-1.jpg/1200px-Wettergott_Adiyaman_2-1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

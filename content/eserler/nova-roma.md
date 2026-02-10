@@ -4,8 +4,7 @@ date: "2025-12-25T04:39:13+03:00"
 slug: "nova-roma"
 description: "## Nova Roma: Türkiye'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

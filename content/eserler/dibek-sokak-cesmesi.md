@@ -5,10 +5,10 @@ slug: "dibek-sokak-cesmesi"
 description: "## Dibek Sokak Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4558392,37.9159966"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:02+03:00"
 slug: "syneta-karya"
 description: "# Syneta (Karya): Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

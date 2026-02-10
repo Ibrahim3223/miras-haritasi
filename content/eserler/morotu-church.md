@@ -4,8 +4,7 @@ date: "2025-12-25T08:52:32+03:00"
 slug: "morotu-church"
 description: "### Morotu Church..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

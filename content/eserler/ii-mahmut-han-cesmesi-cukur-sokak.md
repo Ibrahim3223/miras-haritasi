@@ -5,10 +5,10 @@ slug: "ii-mahmut-han-cesmesi-cukur-sokak"
 description: "## II. Mahmut Han Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.977894,41.037518"
 draft: "false"
 weight: "999"

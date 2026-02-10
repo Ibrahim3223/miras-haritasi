@@ -4,8 +4,7 @@ date: "2025-12-25T05:22:09+03:00"
 slug: "peleiatai"
 description: "## Peleiatai Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

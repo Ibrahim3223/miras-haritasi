@@ -5,10 +5,10 @@ slug: "ermeni-mahallesi-cesmesi"
 description: "## Ermeni Mahallesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.927356,41.050288"
 draft: "false"
 weight: "999"

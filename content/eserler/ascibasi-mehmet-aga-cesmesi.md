@@ -5,10 +5,10 @@ slug: "ascibasi-mehmet-aga-cesmesi"
 description: "### Aşcıbaşı Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.959242,41.014663"
 draft: "false"
 weight: "999"

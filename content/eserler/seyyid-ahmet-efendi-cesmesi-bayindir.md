@@ -5,10 +5,10 @@ slug: "seyyid-ahmet-efendi-cesmesi-bayindir"
 description: "## Seyyid Ahmet Efendi Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6478672,38.2246704"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "demirci-cesmesi"
 description: "## Demirci Çeşmesi: Sivrihisar'ın Değerli Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5415993,39.4480019"
 draft: "false"
 weight: "999"

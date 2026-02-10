@@ -5,10 +5,10 @@ slug: "konak-cesmesi"
 description: "### Konak Çeşmesi: İznik'in Büyüleyici Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "İznik"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.7224731,40.4312935"
 draft: "false"
 weight: "999"

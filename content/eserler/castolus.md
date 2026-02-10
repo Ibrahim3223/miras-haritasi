@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:51+03:00"
 slug: "castolus"
 description: "## Castolus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

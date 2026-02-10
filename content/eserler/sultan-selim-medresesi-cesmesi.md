@@ -5,10 +5,10 @@ slug: "sultan-selim-medresesi-cesmesi"
 description: "### Sultan Selim Medresesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.942179,41.014916"
 draft: "false"
 weight: "999"

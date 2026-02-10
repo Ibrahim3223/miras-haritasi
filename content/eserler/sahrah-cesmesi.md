@@ -5,10 +5,10 @@ slug: "sahrah-cesmesi"
 description: "## Şahrah Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.955187,41.023979"
 draft: "false"
 weight: "999"

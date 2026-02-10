@@ -4,8 +4,7 @@ date: "2025-12-25T03:10:03+03:00"
 slug: "istanbul-universitesi-zooloji-muzesi"
 description: "## İstanbul Üniversitesi Zooloji Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

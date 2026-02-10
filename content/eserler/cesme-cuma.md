@@ -5,10 +5,10 @@ slug: "cesme-cuma"
 description: "## Çeşme – Cuma: Aydın'ın Değerli Tarihi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6067009,37.722599"
 draft: "false"
 weight: "999"

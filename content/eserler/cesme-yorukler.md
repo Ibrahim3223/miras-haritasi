@@ -5,10 +5,10 @@ slug: "cesme-yorukler"
 description: "# Çeşme, Yörükler: Aydın'ın Etkileyici Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9778004,37.6287994"
 draft: "false"
 weight: "999"

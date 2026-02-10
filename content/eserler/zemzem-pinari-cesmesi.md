@@ -5,10 +5,10 @@ slug: "zemzem-pinari-cesmesi"
 description: "## Zemzem Pınarı Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5784988,38.9383011"
 draft: "false"
 weight: "999"

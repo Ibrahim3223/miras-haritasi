@@ -5,10 +5,10 @@ slug: "cinarli-camii-cesmeleri-menemen"
 description: "## Çınarlı Camii Çeşmeleri, Menemen..."
 featured_image: ""
 province: "Menemen (ilçe)"
-iller: '["Menemen (ilçe)"]'
+iller: ["Menemen (ilçe)"]
 district: "Menemen"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0688572,38.6077423"
 draft: "false"
 weight: "999"

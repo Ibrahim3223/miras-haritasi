@@ -5,10 +5,10 @@ slug: "ibrahim-bey-cesmesi"
 description: "## İbrahim Bey Çeşmesi..."
 featured_image: ""
 province: "Karaman"
-iller: '["Karaman"]'
+iller: ["Karaman"]
 district: "Karaman"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.2128105,37.1806488"
 draft: "false"
 weight: "999"

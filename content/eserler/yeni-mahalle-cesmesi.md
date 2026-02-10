@@ -5,10 +5,10 @@ slug: "yeni-mahalle-cesmesi"
 description: "## Yeni Mahalle Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "25.9120541,40.1967773"
 draft: "false"
 weight: "999"

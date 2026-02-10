@@ -5,10 +5,10 @@ slug: "kayisdagi-suyu-cesmesi-osmanaga"
 description: "## Kayışdağı Suyu Çeşmesi (Osmanağa): Kadıköy'un Şirin Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Kayışdağı_Water_Fountain,_Osmanağa-2_(cropped).jpg/1200px-Kayışdağı_Water_Fountain,_Osmanağa-2_(cropped).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.028083333,40.990305555"
 draft: "false"
 weight: "10"

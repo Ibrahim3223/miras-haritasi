@@ -4,8 +4,7 @@ date: "2025-12-25T04:52:58+03:00"
 slug: "bitenas"
 description: "## Bitenas Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

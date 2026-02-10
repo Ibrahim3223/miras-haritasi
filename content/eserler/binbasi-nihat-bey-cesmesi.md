@@ -5,10 +5,10 @@ slug: "binbasi-nihat-bey-cesmesi"
 description: "### Binbaşı Nihat Bey Çeşmesi: Bulancak'ta Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Bulancak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.2333946,40.9382019"
 draft: "false"
 weight: "999"

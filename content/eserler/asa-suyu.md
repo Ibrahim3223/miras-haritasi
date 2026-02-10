@@ -5,10 +5,10 @@ slug: "asa-suyu"
 description: "## Asa Suyu: Kastamonu'nun Değerli Çeşme Mirası..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7644882,41.3745651"
 draft: "false"
 weight: "999"

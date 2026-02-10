@@ -5,10 +5,10 @@ slug: "kucukoglu-cesmesi"
 description: "## Küçükoğlu Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2574997,37.8568993"
 draft: "false"
 weight: "999"

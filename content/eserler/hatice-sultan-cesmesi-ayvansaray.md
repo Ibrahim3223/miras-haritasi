@@ -5,10 +5,10 @@ slug: "hatice-sultan-cesmesi-ayvansaray"
 description: "## Hatice Sultan Çeşmesi, Ayvansaray..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.942541,41.039909"
 draft: "false"
 weight: "999"

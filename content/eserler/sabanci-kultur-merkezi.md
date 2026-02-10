@@ -4,8 +4,7 @@ date: "2025-12-25T16:16:07+03:00"
 slug: "sabanci-kultur-merkezi"
 description: "## Sabancı Kültür Merkezi: Antik Tiyatro'nun Yeniden Doğuşu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sabancı_Cultural_Center.png/1200px-Sabancı_Cultural_Center.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

@@ -5,10 +5,10 @@ slug: "hamidiye-sutun-cesme"
 description: "### Hamidiye Sütun Çeşme..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Hamidiye_Sütun_Çeşme.jpg/1200px-Hamidiye_Sütun_Çeşme.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1339645,38.41716"
 draft: "false"
 weight: "10"

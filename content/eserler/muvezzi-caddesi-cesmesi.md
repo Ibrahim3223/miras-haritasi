@@ -5,10 +5,10 @@ slug: "muvezzi-caddesi-cesmesi"
 description: "## Müvezzi Caddesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0133324,41.0451698"
 draft: "false"
 weight: "999"

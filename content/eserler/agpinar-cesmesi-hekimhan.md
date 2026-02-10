@@ -5,10 +5,10 @@ slug: "agpinar-cesmesi-hekimhan"
 description: "### Ağpınar Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.099398556,38.851022911"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:42+03:00"
 slug: "gordus"
 description: "## Gordus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

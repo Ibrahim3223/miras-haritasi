@@ -5,10 +5,10 @@ slug: "ali-pasa-cesmesi-atikali"
 description: "**Ali Paşa Çeşmesi, Atikali**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940296,41.02586"
 draft: "false"
 weight: "999"

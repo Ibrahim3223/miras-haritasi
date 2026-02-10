@@ -5,10 +5,10 @@ slug: "elhac-yakup-efendi-cesmesi"
 description: "## Elhac Yakup Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941462,41.003269"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:46:54+03:00"
 slug: "potamonion"
 description: "## Potamonion: Tarihi ve Kültürel Mirasın Bir Parçası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

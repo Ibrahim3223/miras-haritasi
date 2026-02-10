@@ -5,10 +5,10 @@ slug: "cesme-sancar"
 description: "## Çeşme, Sancar: Kahramankazan'ın Eski Köy Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kahramankazan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.7820969,40.2156944"
 draft: "false"
 weight: "999"

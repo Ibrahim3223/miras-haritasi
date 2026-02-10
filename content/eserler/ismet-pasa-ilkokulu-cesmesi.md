@@ -5,10 +5,10 @@ slug: "ismet-pasa-ilkokulu-cesmesi"
 description: "## İsmet Paşa İlkokulu Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5014229,37.8747826"
 draft: "false"
 weight: "999"

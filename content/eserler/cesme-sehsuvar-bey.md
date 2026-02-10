@@ -5,10 +5,10 @@ slug: "cesme-sehsuvar-bey"
 description: "## Şehsuvar Bey Çeşmesi: Fatih'te Bir Altın Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9673996,41.0056"
 draft: "false"
 weight: "999"

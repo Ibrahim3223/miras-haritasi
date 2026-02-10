@@ -4,8 +4,7 @@ date: "2025-12-25T08:08:10+03:00"
 slug: "maratesium"
 description: "## Maratesium: Tarihî Bir Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

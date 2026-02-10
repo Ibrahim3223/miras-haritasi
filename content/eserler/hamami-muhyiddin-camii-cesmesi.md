@@ -5,10 +5,10 @@ slug: "hamami-muhyiddin-camii-cesmesi"
 description: "### Hamamı Muhyiddin Camii Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9431839,41.0311584"
 draft: "false"
 weight: "999"

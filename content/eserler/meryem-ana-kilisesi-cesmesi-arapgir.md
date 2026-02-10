@@ -5,10 +5,10 @@ slug: "meryem-ana-kilisesi-cesmesi-arapgir"
 description: "## Meryem Ana Kilisesi Çeşmesi: Arapgir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.487304808,39.041182018"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "zeliha-hanim-cesmesi"
 description: "## Zeliha Hanım Çeşmesi: Balıkesir'in Tarihi Bir Mirası..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8739071,39.6521645"
 draft: "false"
 weight: "999"

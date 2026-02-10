@@ -5,10 +5,10 @@ slug: "icerenkoy-mezarlik-cesmesi"
 description: "## İçerenköy Mezarlık Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/İçerenköy_Mezarlık_Çeşmesi_IMG_8276.jpg/1200px-İçerenköy_Mezarlık_Çeşmesi_IMG_8276.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ataşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.108484,40.969181"
 draft: "false"
 weight: "10"

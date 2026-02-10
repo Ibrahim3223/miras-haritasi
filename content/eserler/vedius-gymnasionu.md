@@ -4,8 +4,7 @@ date: "2025-12-25T05:46:41+03:00"
 slug: "vedius-gymnasionu"
 description: "## Vedius Gymnasionu: İzmir'in Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

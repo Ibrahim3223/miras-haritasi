@@ -4,11 +4,10 @@ date: "2025-12-25T10:39:09+03:00"
 slug: "feyzullah-efendi-cesmesi-kasimpasa"
 description: "## Feyzullah Efendi Çeşmesi, Kasımpaşa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Feyzullah_Efendi_Çeşmesi,_Kasımpaşa_04.jpg/1200px-Feyzullah_Efendi_Çeşmesi,_Kasımpaşa_04.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.968085873,41.033195987"
 draft: "false"
 weight: "10"

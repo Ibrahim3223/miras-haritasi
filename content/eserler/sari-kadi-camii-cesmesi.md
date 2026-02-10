@@ -5,10 +5,10 @@ slug: "sari-kadi-camii-cesmesi"
 description: "### Sarı Kadı Camii Çeşmesi: Altındağ'ın Tarihi Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8669281,39.9317322"
 draft: "false"
 weight: "999"

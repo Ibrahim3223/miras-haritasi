@@ -5,10 +5,10 @@ slug: "taspazar-cesmesi-birgi"
 description: "### Taşpazar Çeşmesi, Birgi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Ödemiş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0693703,38.2539635"
 draft: "false"
 weight: "999"

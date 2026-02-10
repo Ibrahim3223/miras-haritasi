@@ -5,10 +5,10 @@ slug: "karaca-cesmesi"
 description: "## Karaca Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Şiran"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.127224,40.1881828"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cezayirli-gazi-hasan-pasa-cesmesi-yenimahalle"
 description: "## Cezayirli Gazi Hasan Paşa Çeşmesi: Istanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Yenimahalle_IMG_1265.jpg/1200px-Cezayirli_Gazi_Hasan_Paşa_Çeşmesi,_Yenimahalle_IMG_1265.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.06059,41.171098"
 draft: "false"
 weight: "10"

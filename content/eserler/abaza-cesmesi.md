@@ -5,10 +5,10 @@ slug: "abaza-cesmesi"
 description: "## Abaza Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.9586067,40.5480804"
 draft: "false"
 weight: "999"

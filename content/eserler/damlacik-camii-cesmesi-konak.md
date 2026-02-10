@@ -5,10 +5,10 @@ slug: "damlacik-camii-cesmesi-konak"
 description: "# Damlacık Camii Çeşmesi, Konak..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1294098,38.4135361"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "kucuk-langa-caddesi-cesmesi"
 description: "## Küçük Langa Caddesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Küçük_Langa_Caddesi_Çeşmesi.jpg/1200px-Küçük_Langa_Caddesi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.946801,41.0067"
 draft: "false"
 weight: "10"

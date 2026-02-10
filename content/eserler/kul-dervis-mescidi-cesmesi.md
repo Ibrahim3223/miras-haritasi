@@ -5,10 +5,10 @@ slug: "kul-dervis-mescidi-cesmesi"
 description: "## Kul Derviş Mescidi Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8623009,39.9317589"
 draft: "false"
 weight: "999"

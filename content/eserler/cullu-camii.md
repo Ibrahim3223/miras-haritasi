@@ -4,8 +4,7 @@ date: "2025-12-24T22:33:56+03:00"
 slug: "cullu-camii"
 description: "## Çullu Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

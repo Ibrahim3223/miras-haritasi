@@ -5,10 +5,10 @@ slug: "turabiye-cesmesi"
 description: "## Turabiye Çeşmesi: Seferihisar'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Seferihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.843381149,38.199217591"
 draft: "false"
 weight: "999"

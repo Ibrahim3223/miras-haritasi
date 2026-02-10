@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-sebili"
 description: "## Hekimoğlu Ali Paşa Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9354549,41.0065678"
 draft: "false"
 weight: "999"

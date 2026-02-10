@@ -5,10 +5,10 @@ slug: "canbaziye-camii-cesmesi"
 description: "## Canbaziye Camii Çeşmesi: Aksaray'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9432507,41.0073814"
 draft: "false"
 weight: "999"

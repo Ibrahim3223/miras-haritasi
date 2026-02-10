@@ -5,10 +5,10 @@ slug: "cukur-cesme-1"
 description: "### Çukur Çeşme 1: Manisa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Kula"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5236912,38.6237793"
 draft: "false"
 weight: "999"

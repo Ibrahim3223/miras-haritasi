@@ -5,10 +5,10 @@ slug: "yahsi-bey-camii-duvar-cesmesi"
 description: "### Yahşi Bey Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7336464,38.08564"
 draft: "false"
 weight: "999"

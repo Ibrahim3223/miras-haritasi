@@ -5,10 +5,10 @@ slug: "sokak-cesmesi-rumelihisari"
 description: "## Sokak Çeşmesi, Rumelihisarı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0567322,41.0864601"
 draft: "false"
 weight: "999"

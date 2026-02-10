@@ -5,10 +5,10 @@ slug: "gulendam-kadin-cesmesi"
 description: "### Gülendam Kadın Çeşmesi: Üsküdar'daki Bir Azizlik Anıtı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0483475,41.0397644"
 draft: "false"
 weight: "999"

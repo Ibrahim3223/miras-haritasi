@@ -5,10 +5,10 @@ slug: "misirli-osman-aga-cesmesi"
 description: "## Mısırlı Osman Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Mısırlı_Osman_Ağa_Çeşmesi,_Kadıköy-2.jpg/1200px-Mısırlı_Osman_Ağa_Çeşmesi,_Kadıköy-2.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.026736111,40.991074111"
 draft: "false"
 weight: "10"

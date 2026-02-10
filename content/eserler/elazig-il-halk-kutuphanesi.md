@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:14+03:00"
 slug: "elazig-il-halk-kutuphanesi"
 description: "## Elazığ İl Halk Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

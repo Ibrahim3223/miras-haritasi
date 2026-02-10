@@ -5,10 +5,10 @@ slug: "esma-sultan-cesmesi-kisikli"
 description: "## Esma Sultan Çeşmesi, Kısıklı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0603771,41.0219994"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T16:16:39+03:00"
 slug: "izmir-devlet-tiyatrosu"
 description: "## İzmir Devlet Tiyatrosu..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Antik Tiyatro"
 turler: ["Antik Tiyatro"]

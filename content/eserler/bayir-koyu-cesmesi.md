@@ -5,10 +5,10 @@ slug: "bayir-koyu-cesmesi"
 description: "## Bayır Köyü Çeşmesi: Giresun'un Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Çamoluk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.569519,40.109027"
 draft: "false"
 weight: "999"

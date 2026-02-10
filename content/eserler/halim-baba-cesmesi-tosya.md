@@ -5,10 +5,10 @@ slug: "halim-baba-cesmesi-tosya"
 description: "#### Halim Baba Çeşmesi, Tosya..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Tosya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.036169287,41.020039439"
 draft: "false"
 weight: "999"

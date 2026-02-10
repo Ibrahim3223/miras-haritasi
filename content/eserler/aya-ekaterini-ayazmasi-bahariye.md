@@ -5,10 +5,10 @@ slug: "aya-ekaterini-ayazmasi-bahariye"
 description: "## Aya Ekaterini Ayazması, Bahariye..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.027483,40.9861069"
 draft: "false"
 weight: "999"

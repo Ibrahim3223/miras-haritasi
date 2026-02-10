@@ -5,10 +5,10 @@ slug: "sikayet-cesmesi-konak"
 description: "## Şikayet Çeşmesi: İzmir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.149437,38.4179649"
 draft: "false"
 weight: "999"

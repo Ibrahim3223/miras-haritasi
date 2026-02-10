@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-uskudar"
 description: "## Üsküdar'da Bir Şehri Sular: Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.021091,41.017326"
 draft: "false"
 weight: "999"

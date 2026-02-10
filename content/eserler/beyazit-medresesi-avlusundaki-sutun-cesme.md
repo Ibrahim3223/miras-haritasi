@@ -5,10 +5,10 @@ slug: "beyazit-medresesi-avlusundaki-sutun-cesme"
 description: "### Beyazıt Medresesi Avlusu'ndaki Sütun Çeşme: Tarihi ve Mimari Özellikleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9631862,41.0099918"
 draft: "false"
 weight: "999"

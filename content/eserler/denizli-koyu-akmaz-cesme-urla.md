@@ -5,10 +5,10 @@ slug: "denizli-koyu-akmaz-cesme-urla"
 description: "## Denizli Köyü Akmaz Çeşme, Urla: Tarihi ve Kültürel Mirasın Özü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7398434,38.3796272"
 draft: "false"
 weight: "999"

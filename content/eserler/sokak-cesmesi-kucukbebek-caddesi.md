@@ -5,10 +5,10 @@ slug: "sokak-cesmesi-kucukbebek-caddesi"
 description: "## Sokak Çeşmesi, Küçükbebek Caddesi: Beşiktaş'ın Ören Yeri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Sokak_Çeşmesi,_Küçükbebek_Caddesi.jpg/1200px-Sokak_Çeşmesi,_Küçükbebek_Caddesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0435467,41.0815887"
 draft: "false"
 weight: "10"

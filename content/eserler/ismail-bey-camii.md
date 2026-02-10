@@ -4,8 +4,7 @@ date: "2025-12-24T23:37:00+03:00"
 slug: "ismail-bey-camii"
 description: "## İsmail Bey Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

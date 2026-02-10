@@ -4,8 +4,7 @@ date: "2025-12-25T01:58:38+03:00"
 slug: "kasimbey-koprusu"
 description: "## Kasımbey Köprüsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eski_köprü.JPG/1200px-Eski_köprü.JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

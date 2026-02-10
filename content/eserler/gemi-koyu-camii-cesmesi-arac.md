@@ -5,10 +5,10 @@ slug: "gemi-koyu-camii-cesmesi-arac"
 description: "## Gemi Köyü Camii Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.366418684,41.275820581"
 draft: "false"
 weight: "999"

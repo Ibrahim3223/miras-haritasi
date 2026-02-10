@@ -5,10 +5,10 @@ slug: "darussaade-ktibi-cesmesi"
 description: "## Darüssaade Kâtibi Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0809937,40.1806374"
 draft: "false"
 weight: "999"

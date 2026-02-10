@@ -5,10 +5,10 @@ slug: "memet-haytagil-cesmesi-arapgir"
 description: "## Memet Haytagil Çeşmesi: Arapgir'in Tarihî bir Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.495047832,39.036722144"
 draft: "false"
 weight: "999"

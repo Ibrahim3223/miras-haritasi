@@ -5,10 +5,10 @@ slug: "yukari-emerce-koyu-cesmesi-taskopru"
 description: "## Yukarı Emerce Köyü Çeşmesi: Taşköprü'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.234945237,41.522749971"
 draft: "false"
 weight: "999"

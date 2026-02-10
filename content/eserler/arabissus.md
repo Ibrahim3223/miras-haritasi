@@ -4,8 +4,7 @@ date: "2025-12-25T04:16:55+03:00"
 slug: "arabissus"
 description: "### Arabissus Arkeolojik Sitesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/3/37/Roman-Persian_Frontier%2C_565_AD.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

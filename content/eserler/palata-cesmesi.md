@@ -5,10 +5,10 @@ slug: "palata-cesmesi"
 description: "## Palata Çeşmesi: Erdek'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Erdek"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.792016921,40.405632253"
 draft: "false"
 weight: "999"

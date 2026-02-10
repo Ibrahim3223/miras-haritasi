@@ -5,10 +5,10 @@ slug: "kethuda-mehmet-pasa-cesmesi-fatih"
 description: "## Kethüda Mehmet Paşa Çeşmesi (Fatih)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9727644,41.0116699"
 draft: "false"
 weight: "999"

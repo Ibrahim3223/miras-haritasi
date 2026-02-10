@@ -5,10 +5,10 @@ slug: "damat-ibrahim-pasa-camii-cesmesi-1"
 description: "## Damat İbrahim Paşa Çeşmesi: Nevşehir'in Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7147217,38.6216202"
 draft: "false"
 weight: "999"

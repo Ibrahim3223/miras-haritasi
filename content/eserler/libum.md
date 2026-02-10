@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:02+03:00"
 slug: "libum"
 description: "## Libum: İhtişamlı Geç Antik Çağ'ın Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

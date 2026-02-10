@@ -5,10 +5,10 @@ slug: "sirmerd-cavus-camii-cesmesi"
 description: "## Şirmerd Çavuş Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9452343,41.0104218"
 draft: "false"
 weight: "999"

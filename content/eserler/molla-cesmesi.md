@@ -5,10 +5,10 @@ slug: "molla-cesmesi"
 description: "## Molla Çeşmesi: Aydın'ın Güzelliği..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6764488,37.7636757"
 draft: "false"
 weight: "999"

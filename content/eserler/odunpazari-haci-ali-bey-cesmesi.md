@@ -5,10 +5,10 @@ slug: "odunpazari-haci-ali-bey-cesmesi"
 description: "# Odunpazarı Hacı Ali Bey Çeşmesi: Çorum'un Tarihî Mirası..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.472805,40.7341537"
 draft: "false"
 weight: "999"

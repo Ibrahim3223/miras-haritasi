@@ -4,8 +4,7 @@ date: "2025-12-25T06:55:37+03:00"
 slug: "hoyucek"
 description: "## Höyücek Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

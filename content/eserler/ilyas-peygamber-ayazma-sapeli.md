@@ -5,10 +5,10 @@ slug: "ilyas-peygamber-ayazma-sapeli"
 description: "### İlyas Peygamber Ayazma Şapeli: Şile'nin Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6539154,41.1225281"
 draft: "false"
 weight: "999"

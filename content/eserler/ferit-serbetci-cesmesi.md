@@ -5,10 +5,10 @@ slug: "ferit-serbetci-cesmesi"
 description: "## Ferit Şerbetci Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ferit_erbetci_emesi_1761583378.jpg/1200px-Ferit_erbetci_emesi_1761583378.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.225358,40.917246"
 draft: "false"
 weight: "10"

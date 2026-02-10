@@ -5,10 +5,10 @@ slug: "sirkeci-gari-cesmesi"
 description: "## Sirkeci Garı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9780674,41.0150375"
 draft: "false"
 weight: "999"

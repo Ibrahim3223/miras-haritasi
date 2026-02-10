@@ -5,10 +5,10 @@ slug: "ferhuniye-cesmesi"
 description: "## Ferhuniye Çeşmesi: Konya'nın Selçuklu Dönemine Ait Bir Harikası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4900093,37.8763885"
 draft: "false"
 weight: "999"

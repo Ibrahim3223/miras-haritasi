@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:40+03:00"
 slug: "pirra-karya"
 description: "### Pirra (Karya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "inadiye-mezarlik-cesmesi-zeynepkamil"
 description: "## İnadiye Mezarlık Çeşmesi (Zeynepkamil)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020644,41.013457"
 draft: "false"
 weight: "999"

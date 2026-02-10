@@ -5,10 +5,10 @@ slug: "seyitusagi-koyu-cesmesi-yesilyurt"
 description: "### Seyituşağı Köyü Çeşmesi: Yeşilyurt'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Yeşilyurt"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.174534861,38.263316217"
 draft: "false"
 weight: "999"

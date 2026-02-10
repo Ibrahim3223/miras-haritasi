@@ -5,10 +5,10 @@ slug: "dolapli-bostan-sokagi-cesmesi"
 description: "## Dolaplı Bostan Sokağı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.943922,41.0272827"
 draft: "false"
 weight: "999"

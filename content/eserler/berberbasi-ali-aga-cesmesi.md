@@ -5,10 +5,10 @@ slug: "berberbasi-ali-aga-cesmesi"
 description: "## Berberbaşı Ali Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ali_Ağa_Fountain,_Ayvansaray,_Istanbul.jpg/1200px-Ali_Ağa_Fountain,_Ayvansaray,_Istanbul.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.938978,41.032721"
 draft: "false"
 weight: "10"

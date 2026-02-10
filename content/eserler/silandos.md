@@ -4,8 +4,7 @@ date: "2025-12-25T06:58:18+03:00"
 slug: "silandos"
 description: "## Silandos Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

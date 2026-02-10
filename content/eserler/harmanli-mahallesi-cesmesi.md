@@ -5,10 +5,10 @@ slug: "harmanli-mahallesi-cesmesi"
 description: "## Trabzon'un Gizli Çeşmesi: Harmanlı Mahallesi Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Arsin"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.908614,40.928181"
 draft: "false"
 weight: "999"

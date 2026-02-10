@@ -5,10 +5,10 @@ slug: "pasakonagi-cesmesi"
 description: "## Paşakonağı Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0451412,40.1874619"
 draft: "false"
 weight: "999"

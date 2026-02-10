@@ -5,10 +5,10 @@ slug: "kadirga-sokullu-mehmet-pasa-cesmesi"
 description: "## Kadırga Sokullu Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971612,41.004829"
 draft: "false"
 weight: "999"

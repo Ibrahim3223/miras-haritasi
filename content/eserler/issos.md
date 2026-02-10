@@ -4,8 +4,7 @@ date: "2025-12-25T06:52:01+03:00"
 slug: "issos"
 description: "**İssos: Antik Dünya'nın Gizli Çarpışması**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_BW.jpg/1200px-Alexander_and_Bucephalus_-_Battle_of_Issus_mosaic_-_Museo_Archeologico_Nazionale_-_Naples_BW.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

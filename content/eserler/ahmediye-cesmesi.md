@@ -5,10 +5,10 @@ slug: "ahmediye-cesmesi"
 description: "### Ahmediye Çeşmesi: Üsküdar'ın Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ahmediye_Çeşmesi.jpg/1200px-Ahmediye_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.016759,41.020213"
 draft: "false"
 weight: "10"

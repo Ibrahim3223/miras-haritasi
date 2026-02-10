@@ -5,10 +5,10 @@ slug: "abdi-kaptan-cesmesi"
 description: "### Abdi Kaptan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.966027777,41.03725"
 draft: "false"
 weight: "999"

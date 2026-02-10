@@ -4,8 +4,7 @@ date: "2025-12-25T07:30:29+03:00"
 slug: "kusaklitepe-tumulus"
 description: "## Kusaklitepe Tumulus..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

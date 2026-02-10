@@ -5,10 +5,10 @@ slug: "cavusbas-camii-cesmesi"
 description: "## Çavuşbaş Camii Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5268154,38.7571373"
 draft: "false"
 weight: "999"

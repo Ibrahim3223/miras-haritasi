@@ -5,10 +5,10 @@ slug: "sokmen-koyu-cesmesi-kelkit"
 description: "## Sökmen Köyü Çeşmesi Kelkit: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.6310959,40.0563812"
 draft: "false"
 weight: "999"

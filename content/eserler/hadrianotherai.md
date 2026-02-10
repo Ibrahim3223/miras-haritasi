@@ -4,8 +4,7 @@ date: "2025-12-25T04:44:44+03:00"
 slug: "hadrianotherai"
 description: "### Hadrianotherai: Antik Kentin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "haci-suleyman-cesmesi"
 description: "## Hacı Süleyman Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8603821,39.9343109"
 draft: "false"
 weight: "999"

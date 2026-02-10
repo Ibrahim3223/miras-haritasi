@@ -4,8 +4,7 @@ date: "2025-12-25T08:43:20+03:00"
 slug: "konstantinopolis-kilisesi"
 description: "### Konstantinopolis Kilisesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

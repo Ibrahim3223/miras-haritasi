@@ -5,10 +5,10 @@ slug: "selimaga-cesmesi"
 description: "### Selimağa Çeşmesi: Giresun'un Tarihî Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.813758,41.006417"
 draft: "false"
 weight: "999"

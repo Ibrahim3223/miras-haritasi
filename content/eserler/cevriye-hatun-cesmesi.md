@@ -5,10 +5,10 @@ slug: "cevriye-hatun-cesmesi"
 description: "## Cevriye Hatun Çeşmesi: Beykoz'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Cevriye_Hatun_Çeşmesi_IMG_9551.jpg/1200px-Cevriye_Hatun_Çeşmesi_IMG_9551.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.088702,41.173615"
 draft: "false"
 weight: "10"

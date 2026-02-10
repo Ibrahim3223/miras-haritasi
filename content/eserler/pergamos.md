@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:46+03:00"
 slug: "pergamos"
 description: "## Pergamos: Antik Kentin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

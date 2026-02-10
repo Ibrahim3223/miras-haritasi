@@ -4,8 +4,7 @@ date: "2025-12-25T08:28:55+03:00"
 slug: "sefer-tepe"
 description: "### Sefer Tepe: Tarihî ve Kültürel Bir Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

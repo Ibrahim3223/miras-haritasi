@@ -5,10 +5,10 @@ slug: "isildakli-gecidi-cesmesi-bayindir"
 description: "### Işıldaklı Geçidi Çeşmesi, Bayındır: Tarihi Bir Anıt..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6443214,38.2238121"
 draft: "false"
 weight: "999"

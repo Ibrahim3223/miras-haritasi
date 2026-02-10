@@ -5,10 +5,10 @@ slug: "muftu-abdullah-efendi-cesmesi"
 description: "### Müftü Abdullah Efendi Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5057602,37.8743019"
 draft: "false"
 weight: "999"

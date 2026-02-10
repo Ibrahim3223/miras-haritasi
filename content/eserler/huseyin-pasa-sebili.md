@@ -5,10 +5,10 @@ slug: "huseyin-pasa-sebili"
 description: "## Hüseyin Paşa Sebili: İstanbul'un Görsel Harikası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9335155,41.0351562"
 draft: "false"
 weight: "999"

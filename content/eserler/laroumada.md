@@ -4,8 +4,7 @@ date: "2025-12-25T05:05:28+03:00"
 slug: "laroumada"
 description: "**Laroumada Arkeolojik Sit**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

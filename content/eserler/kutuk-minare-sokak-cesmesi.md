@@ -5,10 +5,10 @@ slug: "kutuk-minare-sokak-cesmesi"
 description: "# Kütük Minare Sokak Çeşmesi: Urla'nın Ölümsüz Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7717285,38.3218956"
 draft: "false"
 weight: "999"

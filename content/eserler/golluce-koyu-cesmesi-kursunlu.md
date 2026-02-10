@@ -5,10 +5,10 @@ slug: "golluce-koyu-cesmesi-kursunlu"
 description: "## Göllüce Köyü Çeşmesi: Kurşunlu'daki Bir Önemli Tarihi Anıt..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.406824239,40.814599422"
 draft: "false"
 weight: "999"

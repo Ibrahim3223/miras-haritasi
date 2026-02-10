@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-1-celaliye"
 description: "## Havuzlu Çeşme 1, Celaliye: Büyükçekmece'nin Tarihî Bir Değeri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4167137,41.0517883"
 draft: "false"
 weight: "999"

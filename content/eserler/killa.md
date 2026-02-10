@@ -4,8 +4,7 @@ date: "2025-12-25T04:37:33+03:00"
 slug: "killa"
 description: "## Killa: Tarihin Gizemli Yerleşim Yerleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

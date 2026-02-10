@@ -5,10 +5,10 @@ slug: "dervis-aga-sadirvani"
 description: "## Derviş Ağa Şadırvanı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2789459,39.9102745"
 draft: "false"
 weight: "999"

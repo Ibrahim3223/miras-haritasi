@@ -5,10 +5,10 @@ slug: "hasan-pasa-cesmesi-yakacik"
 description: "# Hasan Paşa Çeşmesi, Yakacık..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hasan_Paa_emesi_Yakack_1761583168.jpg/1200px-Hasan_Paa_emesi_Yakack_1761583168.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.221221,40.915778"
 draft: "false"
 weight: "10"

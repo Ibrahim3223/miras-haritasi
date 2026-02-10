@@ -5,10 +5,10 @@ slug: "cesme-orhaniye"
 description: "## Çeşme, Orhaniye..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Kahramankazan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.671196,40.1031532"
 draft: "false"
 weight: "999"

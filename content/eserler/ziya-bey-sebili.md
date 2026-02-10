@@ -5,10 +5,10 @@ slug: "ziya-bey-sebili"
 description: "## Ziya Bey Sebili: Üsküdar'ın Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Ziya_Bey_Sebili.jpg/1200px-Ziya_Bey_Sebili.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0198975,41.0132294"
 draft: "false"
 weight: "10"

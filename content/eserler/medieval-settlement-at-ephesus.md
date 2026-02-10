@@ -4,8 +4,7 @@ date: "2025-12-25T08:19:40+03:00"
 slug: "medieval-settlement-at-ephesus"
 description: "## Ortaçağ Yerleşimi Efes..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

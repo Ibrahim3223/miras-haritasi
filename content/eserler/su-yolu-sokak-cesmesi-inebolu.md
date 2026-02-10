@@ -5,10 +5,10 @@ slug: "su-yolu-sokak-cesmesi-inebolu"
 description: "## Su Yolu Sokak Çeşmesi, İnebolu..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "İnebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.765781537,41.974896184"
 draft: "false"
 weight: "999"

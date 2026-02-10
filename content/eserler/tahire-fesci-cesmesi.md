@@ -5,10 +5,10 @@ slug: "tahire-fesci-cesmesi"
 description: "## Tahire Fesçi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.140543,38.4197578"
 draft: "false"
 weight: "999"

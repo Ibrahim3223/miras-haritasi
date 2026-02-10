@@ -5,10 +5,10 @@ slug: "haydarpasa-ayazmasi"
 description: "## Haydarpaşa Ayazması: Kadıköy'de Bir Geçmişin İzleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.022979554,40.999201815"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:52+03:00"
 slug: "esendere-sero-border-post"
 description: "## Esendere - Sero Border Post: Tarihi ve Kültürel Bir Kervansaray..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

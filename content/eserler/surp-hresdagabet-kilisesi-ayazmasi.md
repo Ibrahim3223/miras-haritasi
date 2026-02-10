@@ -5,10 +5,10 @@ slug: "surp-hresdagabet-kilisesi-ayazmasi"
 description: "**Surp Hreşdagabet Kilisesi Ayazması**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9456825,41.0339165"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "bereketzade-cesmesi"
 description: "### Bereketzade Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Bereketzade_Fountain_DSCF3601.jpg/1200px-Bereketzade_Fountain_DSCF3601.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.974222222,41.025819444"
 draft: "false"
 weight: "10"

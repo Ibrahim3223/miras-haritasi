@@ -5,10 +5,10 @@ slug: "anonim-cesme-16-altindag"
 description: "## Anonim Çeşme-16, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.860100262,39.933604142"
 draft: "false"
 weight: "999"

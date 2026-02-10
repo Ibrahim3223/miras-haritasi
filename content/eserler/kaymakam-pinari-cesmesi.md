@@ -5,10 +5,10 @@ slug: "kaymakam-pinari-cesmesi"
 description: "## Kaymakam Pınarı Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Kaymakam_Pınarı_Çeşmesi.jpg/1200px-Kaymakam_Pınarı_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6942825,41.2440872"
 draft: "false"
 weight: "10"

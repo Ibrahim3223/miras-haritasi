@@ -5,10 +5,10 @@ slug: "ali-pasa-camii-cesmesi"
 description: "## Ali Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Ali_Paşa_Camii_Çeşmesi.jpg/1200px-Ali_Paşa_Camii_Çeşmesi.jpg"
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2765579,39.9127731"
 draft: "false"
 weight: "999"

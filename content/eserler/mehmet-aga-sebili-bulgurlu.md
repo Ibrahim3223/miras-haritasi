@@ -5,10 +5,10 @@ slug: "mehmet-aga-sebili-bulgurlu"
 description: "## Mehmet Ağa Sebili, Bulgurlu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0714989,41.0183258"
 draft: "false"
 weight: "999"

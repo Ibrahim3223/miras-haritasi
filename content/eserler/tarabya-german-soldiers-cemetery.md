@@ -4,8 +4,7 @@ date: "2025-12-25T13:19:19+03:00"
 slug: "tarabya-german-soldiers-cemetery"
 description: "**Tarabya Alman askerlerinin Mezarlığı**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

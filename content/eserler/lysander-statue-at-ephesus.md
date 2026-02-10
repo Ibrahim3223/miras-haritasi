@@ -4,8 +4,7 @@ date: "2025-12-25T13:40:43+03:00"
 slug: "lysander-statue-at-ephesus"
 description: "### Lysander Heykeli: Efeze'nin Gizli Kahramanı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

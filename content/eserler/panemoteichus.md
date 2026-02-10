@@ -4,8 +4,7 @@ date: "2025-12-25T05:19:34+03:00"
 slug: "panemoteichus"
 description: "**Panemoteichus: Antik Çağın Gizemi**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "cagalzade-ibrahim-bey-cesmesi"
 description: "## Cağalzade İbrahim Bey Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5127563,40.9814072"
 draft: "false"
 weight: "999"

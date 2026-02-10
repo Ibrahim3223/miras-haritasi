@@ -5,10 +5,10 @@ slug: "hanife-kadin-camasirhanesi-ve-cesmesi"
 description: "### Hanife Kadın Çamaşırhanesi ve Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "25.9049149,40.1914253"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cesme-osman-aga-camii-avlusu"
 description: "## Çeşme, Osman Ağa Camii Avlusu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Çeşme,_Osman_Ağa_Camii_Avlusu.jpg/1200px-Çeşme,_Osman_Ağa_Camii_Avlusu.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0260468,40.9909706"
 draft: "false"
 weight: "10"

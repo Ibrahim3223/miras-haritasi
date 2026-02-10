@@ -4,8 +4,7 @@ date: "2025-12-24T22:03:07+03:00"
 slug: "yavedud-camii"
 description: "# Yavedüd Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Ya_Vedud_Mosque_01.jpg/1200px-Ya_Vedud_Mosque_01.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

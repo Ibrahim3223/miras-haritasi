@@ -5,10 +5,10 @@ slug: "beylerbeyi-camii-cesmeleri"
 description: "## Beylerbeyi Camii Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.046268,41.0448428"
 draft: "false"
 weight: "999"

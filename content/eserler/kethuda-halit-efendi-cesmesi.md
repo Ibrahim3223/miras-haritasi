@@ -5,10 +5,10 @@ slug: "kethuda-halit-efendi-cesmesi"
 description: "## Kethüda Halit Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951303,41.011887"
 draft: "false"
 weight: "999"

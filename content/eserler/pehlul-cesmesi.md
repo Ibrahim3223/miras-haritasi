@@ -5,10 +5,10 @@ slug: "pehlul-cesmesi"
 description: "## Pehlül Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7656136,41.3748779"
 draft: "false"
 weight: "999"

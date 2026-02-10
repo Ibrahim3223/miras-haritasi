@@ -5,10 +5,10 @@ slug: "molla-yusuf-cesmesi"
 description: "## Molla Yusuf Çeşmesi: İvrindi'nin Değerli Tarihi Eseri..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "İvrindi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.60585144,39.539366721"
 draft: "false"
 weight: "999"

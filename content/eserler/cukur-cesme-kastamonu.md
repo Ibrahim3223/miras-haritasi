@@ -5,10 +5,10 @@ slug: "cukur-cesme-kastamonu"
 description: "### Çukur Çeşme: Kastamonu'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.768864065,41.378166849"
 draft: "false"
 weight: "999"

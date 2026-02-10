@@ -4,8 +4,7 @@ date: "2025-12-25T13:53:30+03:00"
 slug: "cifte-kumbet"
 description: "### Çifte Kümbet: Bir Anıtın Tarihî Özellikleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

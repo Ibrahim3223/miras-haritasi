@@ -5,10 +5,10 @@ slug: "sira-cesmeler"
 description: "## Sıra Çeşmeler: Karesi, Balıkesir'de Bir Önemli Çeşme..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8874683,39.6507339"
 draft: "false"
 weight: "999"

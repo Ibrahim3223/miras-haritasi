@@ -5,10 +5,10 @@ slug: "alemdar-mustafa-pasa-cesmesi"
 description: "**Alemdar Mustafa Paşa Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.928753,41.049278"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "haci-omer-aga-cesmesi"
 description: "**Hacı Ömer Ağa Çeşmesi: Çine'nin Tarihi Bir Çeşmesi**..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9258003,37.7154007"
 draft: "false"
 weight: "999"

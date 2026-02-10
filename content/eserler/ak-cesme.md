@@ -5,10 +5,10 @@ slug: "ak-cesme"
 description: "## Ak Çeşme: Sivrihisar'ın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5344105,39.4490891"
 draft: "false"
 weight: "999"

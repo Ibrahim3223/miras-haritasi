@@ -5,10 +5,10 @@ slug: "esatoglu-cesmesi"
 description: "## Esatoğlu Çeşmesi: Yakutiye'nin Tarihine Bir Katkı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2823868,39.9153519"
 draft: "false"
 weight: "999"

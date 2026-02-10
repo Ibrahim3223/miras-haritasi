@@ -4,8 +4,7 @@ date: "2025-12-24T23:08:28+03:00"
 slug: "sultanhamit-camii-yenikoy"
 description: "# Sultanhamit Camii – Yeniköy..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

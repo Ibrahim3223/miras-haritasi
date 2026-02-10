@@ -4,8 +4,7 @@ date: "2025-12-25T04:29:31+03:00"
 slug: "arsinoe-kilikya"
 description: "### Kilikya'da Antik Arsinoe: Tarih, Mimari ve Ziyaret Bilgileri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "tahsinbey-sokagi-cesmesi"
 description: "## Tahsinbey Sokağı Çeşmesi: İstanbul'un Tarihî Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971425,41.005352"
 draft: "false"
 weight: "999"

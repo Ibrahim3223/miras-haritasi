@@ -5,10 +5,10 @@ slug: "saadet-hanim-cesmesi-tuzla-istasyon-caddesi"
 description: "### Saadet Hanım Çeşmesi: Tuzla'nın Tarihî Bir Simgesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Saadet_Hanım_Çeşmesi,_Tuzla,_İstanbul_2024.jpg/1200px-Saadet_Hanım_Çeşmesi,_Tuzla,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3031616,40.8158951"
 draft: "false"
 weight: "10"

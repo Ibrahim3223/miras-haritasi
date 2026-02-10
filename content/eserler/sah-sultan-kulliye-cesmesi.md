@@ -5,10 +5,10 @@ slug: "sah-sultan-kulliye-cesmesi"
 description: "## Şah Sultan Külliye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9361442,41.0444316"
 draft: "false"
 weight: "999"

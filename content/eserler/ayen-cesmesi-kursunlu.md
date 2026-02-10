@@ -5,10 +5,10 @@ slug: "ayen-cesmesi-kursunlu"
 description: "## Ayen Çeşmesi, Kurşunlu: Tarihî Bir Çeşmenin Eksik Bilinen Öyküsü..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.262024643,40.840643251"
 draft: "false"
 weight: "999"

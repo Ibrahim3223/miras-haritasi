@@ -5,10 +5,10 @@ slug: "odabasi-kopru-cesmesi"
 description: "## Odabaşı Köprü Çeşmesi: Başakşehir'in Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Odabaşı_Köprü_Çeşmesi_IMG_0108.jpg/1200px-Odabaşı_Köprü_Çeşmesi_IMG_0108.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Başakşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.7444,41.0639992"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "tepedelen-cesmesi"
 description: "## Tepedelen Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Tepedelen_Fountain_05.jpg/1200px-Tepedelen_Fountain_05.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958381,41.021986"
 draft: "false"
 weight: "10"

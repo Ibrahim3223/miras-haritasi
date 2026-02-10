@@ -5,10 +5,10 @@ slug: "dagdelen-camii-cesmesi"
 description: "## Dağdelen Camii Çeşmesi: Safranbolu'nun Gizli Çeşmesi..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6964073,41.2458763"
 draft: "false"
 weight: "999"

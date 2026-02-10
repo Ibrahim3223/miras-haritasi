@@ -5,10 +5,10 @@ slug: "laleli-kulliyesi-cesmesi"
 description: "# Laleli Külliyesi Çeşmesi: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9571632,41.0099569"
 draft: "false"
 weight: "999"

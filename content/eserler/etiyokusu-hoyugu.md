@@ -4,8 +4,7 @@ date: "2025-12-25T07:06:48+03:00"
 slug: "etiyokusu-hoyugu"
 description: "## Etiyokuşu Höyüğü: Tarihî Bir Mirasın İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

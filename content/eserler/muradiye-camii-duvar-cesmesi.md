@@ -5,10 +5,10 @@ slug: "muradiye-camii-duvar-cesmesi"
 description: "## Muradiye Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9989624,41.04879"
 draft: "false"
 weight: "999"

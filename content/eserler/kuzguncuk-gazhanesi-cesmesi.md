@@ -5,10 +5,10 @@ slug: "kuzguncuk-gazhanesi-cesmesi"
 description: "## Kuzguncuk Gazhanesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0338821,41.0362587"
 draft: "false"
 weight: "999"

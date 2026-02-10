@@ -5,10 +5,10 @@ slug: "memetce-cesmesi"
 description: "## Memetçe Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2543812,38.2811928"
 draft: "false"
 weight: "999"

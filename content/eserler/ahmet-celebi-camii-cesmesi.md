@@ -5,10 +5,10 @@ slug: "ahmet-celebi-camii-cesmesi"
 description: "## Ahmet Çelebi Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.013354,41.021709"
 draft: "false"
 weight: "999"

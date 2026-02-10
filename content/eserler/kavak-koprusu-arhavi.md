@@ -4,8 +4,7 @@ date: "2025-12-25T02:05:12+03:00"
 slug: "kavak-koprusu-arhavi"
 description: "## Kavak Köprüsü: Arhavi'nin Tarihi ve Görsel Özelliklere Sahip Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

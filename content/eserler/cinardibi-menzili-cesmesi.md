@@ -5,10 +5,10 @@ slug: "cinardibi-menzili-cesmesi"
 description: "### Çınardibi Menzili Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.078421,40.971616"
 draft: "false"
 weight: "999"

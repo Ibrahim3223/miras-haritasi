@@ -5,10 +5,10 @@ slug: "maresal-fevzi-cakmak-caddesi-5-sokak-cesmesi"
 description: "### Mareşal Fevzi Çakmak Caddesi 5. Sokak Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6961594,39.3187027"
 draft: "false"
 weight: "999"

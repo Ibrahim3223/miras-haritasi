@@ -5,10 +5,10 @@ slug: "vezir-cesmesi-fatih"
 description: "## Vezir Çeşmesi (Fatih) Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Iskender_Pasha_Mosque_9057.jpg/1200px-Iskender_Pasha_Mosque_9057.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.947959,41.016897"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "ahmet-efendi-cesmesi-beyoglu"
 description: "## Ahmet Efendi Çeşmesi, Beyoğlu..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ahmet_Efendi_Fountain.jpg/1200px-Ahmet_Efendi_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.984472,41.029171"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-24T22:43:23+03:00"
 slug: "samancioglu-camii"
 description: "## Samancıoğlu Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

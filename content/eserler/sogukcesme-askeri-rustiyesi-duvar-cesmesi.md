@@ -5,10 +5,10 @@ slug: "sogukcesme-askeri-rustiyesi-duvar-cesmesi"
 description: "## Soğukçeşme Askeri Rüştiyesi Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978034,41.010843"
 draft: "false"
 weight: "999"

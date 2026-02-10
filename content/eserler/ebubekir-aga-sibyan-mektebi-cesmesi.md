@@ -5,10 +5,10 @@ slug: "ebubekir-aga-sibyan-mektebi-cesmesi"
 description: "## Ebubekir Ağa Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.950216,41.008934"
 draft: "false"
 weight: "999"

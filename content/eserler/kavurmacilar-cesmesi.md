@@ -5,10 +5,10 @@ slug: "kavurmacilar-cesmesi"
 description: "## Kavurmacılar Çeşmesi: Aydın'ın Gizli Cenneti..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6044502,37.7263641"
 draft: "false"
 weight: "999"

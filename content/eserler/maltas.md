@@ -4,8 +4,7 @@ date: "2025-12-25T06:50:53+03:00"
 slug: "maltas"
 description: "## Maltaş Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

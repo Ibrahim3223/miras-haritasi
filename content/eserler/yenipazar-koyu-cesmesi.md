@@ -5,10 +5,10 @@ slug: "yenipazar-koyu-cesmesi"
 description: "# Yenipazar Köyü Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Salihli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1982136,38.4661598"
 draft: "false"
 weight: "999"

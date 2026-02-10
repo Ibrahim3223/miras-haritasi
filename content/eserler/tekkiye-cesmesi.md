@@ -5,10 +5,10 @@ slug: "tekkiye-cesmesi"
 description: "## Tekkiye Çeşmesi: Mardin'in Eski Bir Çeşmesinin Tarihi Gülleri..."
 featured_image: ""
 province: "Mardin"
-iller: '["Mardin"]'
+iller: ["Mardin"]
 district: "Artuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "40.746226,37.315504"
 draft: "false"
 weight: "999"

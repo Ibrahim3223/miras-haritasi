@@ -4,8 +4,7 @@ date: "2025-12-25T04:34:00+03:00"
 slug: "scyllae"
 description: "## Ege Denizi'ndeki Gizemli Scyllae Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

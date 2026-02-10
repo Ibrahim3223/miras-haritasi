@@ -5,10 +5,10 @@ slug: "cesme-2-kazandere"
 description: "## Çeşme 2, Kazandere: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3843002,37.6198997"
 draft: "false"
 weight: "999"

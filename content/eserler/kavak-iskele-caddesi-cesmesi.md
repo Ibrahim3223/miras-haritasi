@@ -5,10 +5,10 @@ slug: "kavak-iskele-caddesi-cesmesi"
 description: "### Kavak İskele Caddesi Çeşmesi: Sarıyer'in İhtişamlı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0739098,41.1811256"
 draft: "false"
 weight: "999"

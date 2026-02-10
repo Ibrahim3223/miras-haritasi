@@ -5,10 +5,10 @@ slug: "emirgan-kanlikavak-suyu-cesmesi"
 description: "## Emirgan Kanlıkavak Suyu Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.053721,41.099295"
 draft: "false"
 weight: "999"

@@ -4,11 +4,10 @@ date: "2025-12-25T10:13:59+03:00"
 slug: "ali-pasa-cesmesi"
 description: "## Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Ali_Paşa_Fountain_(Kadıköy)_02.jpg/1200px-Ali_Paşa_Fountain_(Kadıköy)_02.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.025883333,40.991013888"
 draft: "false"
 weight: "10"

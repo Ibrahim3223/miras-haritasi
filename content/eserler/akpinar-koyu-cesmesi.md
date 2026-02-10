@@ -5,10 +5,10 @@ slug: "akpinar-koyu-cesmesi"
 description: "## Akpınar Köyü Çeşmesi: Biga'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Biga"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.204342863,40.229968054"
 draft: "false"
 weight: "999"

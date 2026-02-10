@@ -4,8 +4,7 @@ date: "2025-12-24T23:07:44+03:00"
 slug: "bagyurdu-ulu-cami"
 description: "## Bağyurdu Ulu Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

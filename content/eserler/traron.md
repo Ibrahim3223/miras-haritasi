@@ -4,8 +4,7 @@ date: "2025-12-25T05:01:01+03:00"
 slug: "traron"
 description: "## Traron: Tarihî Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

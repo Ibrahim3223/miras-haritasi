@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-eminsinan"
 description: "**Mehmet Ağa Çeşmesi (Eminsinan)**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Mehmet_Ağa_Çeşmesi,_Emin_Sinan.jpg/1200px-Mehmet_Ağa_Çeşmesi,_Emin_Sinan.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970416,41.005603"
 draft: "false"
 weight: "10"

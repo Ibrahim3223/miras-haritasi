@@ -5,10 +5,10 @@ slug: "behice-naci-yazgan-cesmesi"
 description: "# Behice Naci Yazgan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0487366,40.985508"
 draft: "false"
 weight: "999"

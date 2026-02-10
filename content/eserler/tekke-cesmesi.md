@@ -5,10 +5,10 @@ slug: "tekke-cesmesi"
 description: "# Tekke Çeşmesi: Aydın'ın Tarihi Bir Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Tekke_Çeşmesi_IMG_7223.jpg/1200px-Tekke_Çeşmesi_IMG_7223.jpg"
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.607336,37.7297592"
 draft: "false"
 weight: "999"

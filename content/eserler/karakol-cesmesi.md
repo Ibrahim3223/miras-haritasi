@@ -5,10 +5,10 @@ slug: "karakol-cesmesi"
 description: "## Karakol Çeşmesi: Aydın'ın Yüzyıllık Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Köşk"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0517006,37.8544006"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:59+03:00"
 slug: "cola-avika-hoyugu"
 description: "### Çola Avika Höyüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

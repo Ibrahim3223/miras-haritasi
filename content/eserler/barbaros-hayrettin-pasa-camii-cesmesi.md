@@ -5,10 +5,10 @@ slug: "barbaros-hayrettin-pasa-camii-cesmesi"
 description: "## Barbaros Hayrettin Paşa Camii Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Barbaros_Hayrettin_Pasha_Mosque.jpg/1200px-Barbaros_Hayrettin_Pasha_Mosque.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: ""
 draft: "false"
 weight: "10"

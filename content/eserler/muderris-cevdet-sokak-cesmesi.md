@@ -5,10 +5,10 @@ slug: "muderris-cevdet-sokak-cesmesi"
 description: "## Müderris Cevdet Sokak Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/204.7-Müderris_Cevdet_Sokak_Çeşmesi-1744_01.jpg/1200px-204.7-Müderris_Cevdet_Sokak_Çeşmesi-1744_01.jpg"
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.18198056,39.11970278"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "kagnipazar-cesmesi"
 description: "## Kağnıpazar Çeşmesi: Sivrihisar'ın Gizli Cenneti..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5365467,39.4515877"
 draft: "false"
 weight: "999"

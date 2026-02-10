@@ -5,10 +5,10 @@ slug: "yavuz-sultan-selim-cesmesi"
 description: "# Yavuz Sultan Selim Çeşmesi: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4979019,37.8742714"
 draft: "false"
 weight: "999"

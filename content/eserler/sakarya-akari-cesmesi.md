@@ -5,10 +5,10 @@ slug: "sakarya-akari-cesmesi"
 description: "# Sakarya Akarı Çeşmesi: Şişli'nin Güzel Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.976222,41.053742"
 draft: "false"
 weight: "999"

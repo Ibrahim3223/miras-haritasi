@@ -5,10 +5,10 @@ slug: "beyhan-sultan-cesmesi"
 description: "### Beyhan Sultan Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Beyhan_Sultan_Çeşmesi.jpg/1200px-Beyhan_Sultan_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.046154,41.068535"
 draft: "false"
 weight: "10"

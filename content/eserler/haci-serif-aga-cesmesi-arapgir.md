@@ -5,10 +5,10 @@ slug: "haci-serif-aga-cesmesi-arapgir"
 description: "# Hacı Şerif Ağa Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.497143033,39.038961925"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:51+03:00"
 slug: "ardistama"
 description: "## Ardıçlı Dağı (Ardistama)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

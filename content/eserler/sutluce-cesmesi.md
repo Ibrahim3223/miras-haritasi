@@ -5,10 +5,10 @@ slug: "sutluce-cesmesi"
 description: "## Sütlüce Çeşmesi Tanıtımı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Sütlüce_Çeşmesi_IMG_1049.jpg/1200px-Sütlüce_Çeşmesi_IMG_1049.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.941062,41.048366"
 draft: "false"
 weight: "10"

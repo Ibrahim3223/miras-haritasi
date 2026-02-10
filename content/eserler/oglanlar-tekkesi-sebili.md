@@ -5,10 +5,10 @@ slug: "oglanlar-tekkesi-sebili"
 description: "## Oğlanlar Tekkesi Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.948466,41.010459"
 draft: "false"
 weight: "999"

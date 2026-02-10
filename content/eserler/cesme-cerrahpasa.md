@@ -5,10 +5,10 @@ slug: "cesme-cerrahpasa"
 description: "## Çeşme, Cerrahpaşa: Fatih, İstanbul'da Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9328442,41.0042381"
 draft: "false"
 weight: "999"

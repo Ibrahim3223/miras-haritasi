@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-orta-avlu-cesmesi-1"
 description: "## Topkapı Sarayı Orta Avlu Çeşmesi 1: Geçmişi ve Günceliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.984998,41.012598"
 draft: "false"
 weight: "1"

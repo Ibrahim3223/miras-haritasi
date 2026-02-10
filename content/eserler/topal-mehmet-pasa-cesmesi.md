@@ -5,10 +5,10 @@ slug: "topal-mehmet-pasa-cesmesi"
 description: "# Topal Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Şebinkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.423662,40.283253"
 draft: "false"
 weight: "999"

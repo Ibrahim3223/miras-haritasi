@@ -4,8 +4,7 @@ date: "2025-12-25T05:13:46+03:00"
 slug: "ontoraita"
 description: "# Ontoraita..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

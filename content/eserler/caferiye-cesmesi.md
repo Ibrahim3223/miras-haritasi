@@ -5,10 +5,10 @@ slug: "caferiye-cesmesi"
 description: "## Caferiye Çeşmesi: Yakutiye'nin Büyüleyici Şarkısı..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2754288,39.9065323"
 draft: "false"
 weight: "999"

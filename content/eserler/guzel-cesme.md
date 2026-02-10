@@ -5,10 +5,10 @@ slug: "guzel-cesme"
 description: "## Güzel Çeşme: Söke'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Söke"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.383908176,37.561890031"
 draft: "false"
 weight: "999"

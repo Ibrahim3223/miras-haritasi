@@ -5,10 +5,10 @@ slug: "hacikamber-sokagi-girisindeki-cesme"
 description: "## Hacıkamber Sokağı Girişindeki Çeşme..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4214821,37.9295502"
 draft: "false"
 weight: "999"

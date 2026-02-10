@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:06+03:00"
 slug: "neonteichos"
 description: "## Neonteichos: Kıbrıs'ta Bir Antik Kent..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-24T22:15:21+03:00"
 slug: "atcilar-camii"
 description: "## Atçılar Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

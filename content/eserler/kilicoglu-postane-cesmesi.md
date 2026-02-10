@@ -5,10 +5,10 @@ slug: "kilicoglu-postane-cesmesi"
 description: "## Kılıçoğlu Postane Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5199108,40.9791603"
 draft: "false"
 weight: "999"

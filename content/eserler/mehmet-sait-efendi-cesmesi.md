@@ -5,10 +5,10 @@ slug: "mehmet-sait-efendi-cesmesi"
 description: "## Mehmet Sait Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.058161,41.068436"
 draft: "false"
 weight: "999"

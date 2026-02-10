@@ -4,8 +4,7 @@ date: "2025-12-25T13:40:39+03:00"
 slug: "lacedaemonians-statues-at-ephesus"
 description: "## Lacedaemonians, Ephesos'taki Heykeller: Tarihi Bir Anıt..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

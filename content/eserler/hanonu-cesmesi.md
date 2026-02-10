@@ -5,10 +5,10 @@ slug: "hanonu-cesmesi"
 description: "## Hanönü Çeşmesi: Tavas'taki Bir Ölümsüz..."
 featured_image: ""
 province: "Denizli"
-iller: '["Denizli"]'
+iller: ["Denizli"]
 district: "Tavas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.808,37.6998"
 draft: "false"
 weight: "999"

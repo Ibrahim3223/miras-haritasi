@@ -5,10 +5,10 @@ slug: "cesme-sahnali"
 description: "## Şahnalı Çeşmesi: Aydın'ın Tarihi ve Kültürel Mirasının Bir Parçası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.9347248,37.7993698"
 draft: "false"
 weight: "999"

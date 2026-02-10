@@ -5,10 +5,10 @@ slug: "terslik-cesmesi"
 description: "### Terslik Çeşmesi: Urla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.703773,38.365304"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "vaftiz-teknesi-suleymaniye-camii-avlusu"
 description: "### Vaftiz Teknesi, Süleymaniye Camii Avlusu..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.963224112,41.015943314"
 draft: "false"
 weight: "1"

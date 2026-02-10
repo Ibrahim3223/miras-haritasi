@@ -5,10 +5,10 @@ slug: "gacan-cesmesi"
 description: "**Gaçan Çeşmesi: Tarihi ve Kültürel Miras**..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.819046,41.0053177"
 draft: "false"
 weight: "999"

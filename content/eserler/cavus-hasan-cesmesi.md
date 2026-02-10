@@ -5,10 +5,10 @@ slug: "cavus-hasan-cesmesi"
 description: "## Çavuş Hasan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023028,41.017722"
 draft: "false"
 weight: "999"

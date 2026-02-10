@@ -5,10 +5,10 @@ slug: "vakif-cesmesi"
 description: "## Vakıf Çeşmesi: Devrek'teki Bir Tarihi Anıt..."
 featured_image: ""
 province: "Zonguldak"
-iller: '["Zonguldak"]'
+iller: ["Zonguldak"]
 district: "Devrek"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.9548321,41.2192497"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "hebil-cesmesi"
 description: "## Hebil Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Uşak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.4020748,38.68116"
 draft: "false"
 weight: "999"

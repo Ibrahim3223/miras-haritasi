@@ -5,10 +5,10 @@ slug: "merzifonlu-mustafa-pasa-cesmesi"
 description: "### Merzifonlu Mustafa Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Merzifonlu_Mustafa_Paşa_Çeşmesi_IMG_0357.jpg/1200px-Merzifonlu_Mustafa_Paşa_Çeşmesi_IMG_0357.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.914801,40.989225"
 draft: "false"
 weight: "10"

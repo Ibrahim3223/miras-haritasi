@@ -4,8 +4,7 @@ date: "2025-12-25T01:56:31+03:00"
 slug: "15-temmuz-sehitler-koprusu-adana"
 description: "### 15 Temmuz Şehitler Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

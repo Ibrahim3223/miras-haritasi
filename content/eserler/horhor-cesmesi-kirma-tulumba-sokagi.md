@@ -5,10 +5,10 @@ slug: "horhor-cesmesi-kirma-tulumba-sokagi"
 description: "### Horhor Çeşmesi (Kırma Tulumba Sokağı)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Horhor_Fountain_(Kırma_Tulumba_Street,_Fatih).jpg/1200px-Horhor_Fountain_(Kırma_Tulumba_Street,_Fatih).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951019,41.013196"
 draft: "false"
 weight: "10"

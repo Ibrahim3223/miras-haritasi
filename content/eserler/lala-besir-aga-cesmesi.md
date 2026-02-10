@@ -5,10 +5,10 @@ slug: "lala-besir-aga-cesmesi"
 description: "### Lala Beşir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973803,41.030525"
 draft: "false"
 weight: "999"

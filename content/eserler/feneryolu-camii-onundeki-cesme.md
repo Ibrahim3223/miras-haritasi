@@ -5,10 +5,10 @@ slug: "feneryolu-camii-onundeki-cesme"
 description: "## Feneryolu Camii Önündeki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0472374,40.9797325"
 draft: "false"
 weight: "999"

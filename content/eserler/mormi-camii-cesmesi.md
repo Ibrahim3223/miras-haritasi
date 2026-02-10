@@ -5,10 +5,10 @@ slug: "mormi-camii-cesmesi"
 description: "## Mormi Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Selçuklu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.413414,37.9276352"
 draft: "false"
 weight: "999"

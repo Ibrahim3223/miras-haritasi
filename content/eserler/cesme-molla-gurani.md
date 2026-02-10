@@ -5,10 +5,10 @@ slug: "cesme-molla-gurani"
 description: "### Molla Gürani Çeşmesi: Fatih'in Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.940691,41.0163574"
 draft: "false"
 weight: "999"

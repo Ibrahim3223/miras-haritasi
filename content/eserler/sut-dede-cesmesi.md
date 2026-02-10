@@ -5,10 +5,10 @@ slug: "sut-dede-cesmesi"
 description: "### Süt Dede Çeşmesi: Tarihî Bir Mirasın Tanıtımı..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5371876,38.7519493"
 draft: "false"
 weight: "999"

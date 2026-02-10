@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:02+03:00"
 slug: "hasirci-melek-camii"
 description: "# Hasırcı Melek Camii: İstanbul'un Gizli Çehresinde Bir Örnek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

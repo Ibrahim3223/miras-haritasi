@@ -5,10 +5,10 @@ slug: "omer-pasa-cesmesi"
 description: "### Ömer Paşa Çeşmesi: Yakutiye'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2705994,39.9020004"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "tekke-sirozi-mustafa-aga-cesmesi"
 description: "## Tekke Sirozi Mustafa Ağa Çeşmesi: Aydoğdu'daki Değerli Çeşme..."
 featured_image: ""
 province: "Süleymanpaşa"
-iller: '["Süleymanpaşa"]'
+iller: ["Süleymanpaşa"]
 district: "Aydoğdu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5089149,40.9773026"
 draft: "false"
 weight: "999"

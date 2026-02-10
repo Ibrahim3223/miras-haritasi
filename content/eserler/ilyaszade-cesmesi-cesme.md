@@ -5,10 +5,10 @@ slug: "ilyaszade-cesmesi-cesme"
 description: "## İlyaszade Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3066349,38.3225975"
 draft: "false"
 weight: "999"

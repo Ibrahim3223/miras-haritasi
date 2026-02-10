@@ -5,10 +5,10 @@ slug: "molla-husrev-mahallesi-cesmesi"
 description: "### Molla Hüsrev Mahallesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9609356,41.0146332"
 draft: "false"
 weight: "999"

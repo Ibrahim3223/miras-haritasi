@@ -5,10 +5,10 @@ slug: "3-mustafa-han-cesmesi"
 description: "## 3. Mustafa Han Çeşmesi: Beykoz'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/3._Mustafa_Han_Çeşmesi_IMG_3106.jpg/1200px-3._Mustafa_Han_Çeşmesi_IMG_3106.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.095562,41.1156616"
 draft: "false"
 weight: "10"

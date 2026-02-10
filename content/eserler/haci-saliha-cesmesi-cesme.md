@@ -5,10 +5,10 @@ slug: "haci-saliha-cesmesi-cesme"
 description: "## Hacı Saliha Çeşmesi: Çeşme'nin Yüzyıllık Tarihi Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3029785,38.3225708"
 draft: "false"
 weight: "999"

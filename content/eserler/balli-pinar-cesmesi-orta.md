@@ -5,10 +5,10 @@ slug: "balli-pinar-cesmesi-orta"
 description: "### Ballı Pınar Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.987571569,40.600425248"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:06+03:00"
 slug: "pisarissos"
 description: "## Pisarissos: Türkiye'nin Gizli Ören Yeri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

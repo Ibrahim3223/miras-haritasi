@@ -5,10 +5,10 @@ slug: "beycegiz-camii-cesmesi"
 description: "## Beyceğiz Camii Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.946157,41.025898"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "pasakoy-yolu-cesmesi"
 description: "## Paşaköy Yolu Çeşmesi: Ayvacık'taki Tarihi Bir Örnek..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.3271294,39.5157356"
 draft: "false"
 weight: "999"

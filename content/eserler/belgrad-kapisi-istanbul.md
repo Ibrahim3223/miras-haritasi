@@ -4,8 +4,7 @@ date: "2025-12-25T13:18:20+03:00"
 slug: "belgrad-kapisi-istanbul"
 description: "# Belgrad Kapısı (İstanbul)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Car_bed_kap_deu2.jpg/1200px-Car_bed_kap_deu2.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

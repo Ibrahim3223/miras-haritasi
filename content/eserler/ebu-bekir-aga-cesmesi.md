@@ -5,10 +5,10 @@ slug: "ebu-bekir-aga-cesmesi"
 description: "### Ebu Bekir Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936174,41.054344"
 draft: "false"
 weight: "999"

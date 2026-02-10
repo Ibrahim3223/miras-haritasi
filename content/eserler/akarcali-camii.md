@@ -4,8 +4,7 @@ date: "2025-12-24T22:59:02+03:00"
 slug: "akarcali-camii"
 description: "# Akarcalı Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

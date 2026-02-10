@@ -5,10 +5,10 @@ slug: "buyuk-olucak-cesmesi"
 description: "**Büyük Olucak Çeşmesi**..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5238495,38.7580643"
 draft: "false"
 weight: "999"

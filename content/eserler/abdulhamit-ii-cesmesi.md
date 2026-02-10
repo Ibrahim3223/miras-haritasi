@@ -5,10 +5,10 @@ slug: "abdulhamit-ii-cesmesi"
 description: "## Abdülhamit II Çeşmesi: Beşiktaş'taki bir Geçiş Dönemi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/II._Abdülhamit_Han_Meydan_Çeşmesi_genel_görüntü.jpg/1200px-II._Abdülhamit_Han_Meydan_Çeşmesi_genel_görüntü.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.009901,41.05489"
 draft: "false"
 weight: "10"

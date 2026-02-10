@@ -5,10 +5,10 @@ slug: "adilsah-kadin-cesmeleri"
 description: "## Adilşah Kadın Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.956087,41.0098264"
 draft: "false"
 weight: "999"

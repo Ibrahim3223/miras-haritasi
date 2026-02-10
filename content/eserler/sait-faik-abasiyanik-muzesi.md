@@ -4,8 +4,7 @@ date: "2025-12-25T03:21:14+03:00"
 slug: "sait-faik-abasiyanik-muzesi"
 description: "# Sait Faik Abasıyanık Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sait_faik_burgazada.jpg/1200px-Sait_faik_burgazada.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

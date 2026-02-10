@@ -5,10 +5,10 @@ slug: "karatas-cesmesi-cankiri"
 description: "## Karataş Çeşmesi: Çankırı'nın İhtişamlı Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Çankırı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.612232073,40.605527468"
 draft: "false"
 weight: "999"

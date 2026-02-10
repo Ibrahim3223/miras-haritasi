@@ -5,10 +5,10 @@ slug: "lapir-cesmesi"
 description: "## Lapir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.035984,41.1569939"
 draft: "false"
 weight: "999"

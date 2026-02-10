@@ -5,10 +5,10 @@ slug: "zileli-muharrem-cesmesi"
 description: "## Zileli Muharrem Çeşmesi: Bir Çeşmenin Öyküsü..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0756168,40.9734306"
 draft: "false"
 weight: "999"

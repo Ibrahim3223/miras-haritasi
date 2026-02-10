@@ -5,10 +5,10 @@ slug: "tifligul-hanim-cesmesi"
 description: "### Tıflıgül Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Tıflıgül_Hanım_Fountain.jpg/1200px-Tıflıgül_Hanım_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.01593598,41.024319464"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:02:44+03:00"
 slug: "congustus"
 description: "# Congustus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

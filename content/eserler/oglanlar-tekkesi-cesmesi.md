@@ -5,10 +5,10 @@ slug: "oglanlar-tekkesi-cesmesi"
 description: "### Oğlanlar Tekkesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.948492,41.010512"
 draft: "false"
 weight: "999"

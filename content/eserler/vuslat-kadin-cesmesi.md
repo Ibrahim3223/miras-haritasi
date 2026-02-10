@@ -5,10 +5,10 @@ slug: "vuslat-kadin-cesmesi"
 description: "## Vuslat Kadın Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Vuslat_Kadın_Çeşmesi_IMG_6225.jpg/1200px-Vuslat_Kadın_Çeşmesi_IMG_6225.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972431,41.038387"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "zeynep-sultan-cesmesi-sirkeci"
 description: "### Zeynep Sultan Çeşmesi: Fatih'in Öyküsü..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Zeynep_Sultan_Çeşmesi,_Sirkeci.jpg/1200px-Zeynep_Sultan_Çeşmesi,_Sirkeci.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.978622,41.012531"
 draft: "false"
 weight: "10"

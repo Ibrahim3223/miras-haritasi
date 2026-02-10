@@ -5,10 +5,10 @@ slug: "cesme-yenikoy-sile"
 description: "## Çeşme, Yeniköy-Şile: Şile'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6470795,41.1236"
 draft: "false"
 weight: "999"

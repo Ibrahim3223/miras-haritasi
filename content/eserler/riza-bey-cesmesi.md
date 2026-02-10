@@ -5,10 +5,10 @@ slug: "riza-bey-cesmesi"
 description: "### Rıza Bey Çeşmesi: Erzurum'un Bir Öyküsünü Taşıyan Tarihi Bir Çeşme..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2669716,39.9102554"
 draft: "false"
 weight: "999"

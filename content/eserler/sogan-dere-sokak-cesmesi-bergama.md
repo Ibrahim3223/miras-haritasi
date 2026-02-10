@@ -5,10 +5,10 @@ slug: "sogan-dere-sokak-cesmesi-bergama"
 description: "## Soğan Dere Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1801529,39.1252937"
 draft: "false"
 weight: "999"

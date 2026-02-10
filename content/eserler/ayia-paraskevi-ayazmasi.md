@@ -5,10 +5,10 @@ slug: "ayia-paraskevi-ayazmasi"
 description: "## Ayia Paraskevi Ayazması: Kadıköy'ün Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0249882,40.9906845"
 draft: "false"
 weight: "999"

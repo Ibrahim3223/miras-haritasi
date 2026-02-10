@@ -5,10 +5,10 @@ slug: "morukcu-cesmesi"
 description: "### Morukçu Çeşmesi: Nevşehir'in Tarihi Bir Anıtı..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7130966,38.6215858"
 draft: "false"
 weight: "999"

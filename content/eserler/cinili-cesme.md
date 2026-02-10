@@ -5,10 +5,10 @@ slug: "cinili-cesme"
 description: "### Çinili Çeşme: Kütahya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9769917,39.4174652"
 draft: "false"
 weight: "999"

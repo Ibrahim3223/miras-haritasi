@@ -5,10 +5,10 @@ slug: "i-mahmut-cesmesi-visnezade"
 description: "# I. Mahmut Çeşmesi, Vişnezade..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/I._Mahmut_Çeşmesi,_Vişnezade_IMG_8103.jpg/1200px-I._Mahmut_Çeşmesi,_Vişnezade_IMG_8103.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.996122,41.041973"
 draft: "false"
 weight: "10"

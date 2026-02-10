@@ -5,10 +5,10 @@ slug: "asagi-camlica-camii-cesmesi"
 description: "## Aşağı Çamlıca Camii Çeşmesi..."
 featured_image: ""
 province: "Rize"
-iller: '["Rize"]'
+iller: ["Rize"]
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.000774,41.056055"
 draft: "false"
 weight: "999"

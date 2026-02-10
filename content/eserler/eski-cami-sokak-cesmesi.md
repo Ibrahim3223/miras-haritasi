@@ -5,10 +5,10 @@ slug: "eski-cami-sokak-cesmesi"
 description: "### Eski Cami Sokak Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Eski_Cami_Sokak_Çeşmesi.jpg/1200px-Eski_Cami_Sokak_Çeşmesi.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6912193,41.2435303"
 draft: "false"
 weight: "10"

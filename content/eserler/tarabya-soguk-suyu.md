@@ -5,10 +5,10 @@ slug: "tarabya-soguk-suyu"
 description: "## Tarabya Soguk Suyu: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.040133,41.142516"
 draft: "false"
 weight: "999"

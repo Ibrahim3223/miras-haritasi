@@ -5,10 +5,10 @@ slug: "i-mahmut-cesmesi-babiali"
 description: "## I. Mahmut Çeşmesi, Babıali: Tarihi ve Görsel Zenginliği..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.975748,41.010394"
 draft: "false"
 weight: "999"

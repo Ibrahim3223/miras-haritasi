@@ -5,10 +5,10 @@ slug: "burunucu-cesmesi"
 description: "### Burunucu Çeşmesi: Bulancak'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Bulancak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.287259,40.942602"
 draft: "false"
 weight: "999"

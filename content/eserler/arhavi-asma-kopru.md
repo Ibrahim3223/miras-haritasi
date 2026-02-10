@@ -4,8 +4,7 @@ date: "2025-12-25T02:03:31+03:00"
 slug: "arhavi-asma-kopru"
 description: "# Arhavi Asma Köprü: Geçmişten Günümüze Uzanan Bir Mimari Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

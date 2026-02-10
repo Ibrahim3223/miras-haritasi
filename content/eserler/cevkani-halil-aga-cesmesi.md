@@ -5,10 +5,10 @@ slug: "cevkani-halil-aga-cesmesi"
 description: "## Cevkani Halil Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934254,41.041225"
 draft: "false"
 weight: "999"

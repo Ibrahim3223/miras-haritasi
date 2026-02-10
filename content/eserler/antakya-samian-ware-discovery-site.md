@@ -4,8 +4,7 @@ date: "2025-12-25T05:30:47+03:00"
 slug: "antakya-samian-ware-discovery-site"
 description: "### Antakya (Samian Ware Discovery Site): Tarihin Eski Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

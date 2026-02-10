@@ -5,10 +5,10 @@ slug: "yadigar-cesmesi"
 description: "### Yadigar Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Kastamonu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7784805,41.3761253"
 draft: "false"
 weight: "999"

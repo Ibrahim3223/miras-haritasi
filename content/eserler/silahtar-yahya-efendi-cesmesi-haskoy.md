@@ -5,10 +5,10 @@ slug: "silahtar-yahya-efendi-cesmesi-haskoy"
 description: "## Silahtar Yahya Efendi Çeşmesi, Hasköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Silahtar_Yahya_Efendi_Çeşmesi,_Hasköy_IMG_0449.jpg/1200px-Silahtar_Yahya_Efendi_Çeşmesi,_Hasköy_IMG_0449.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951229,41.038361"
 draft: "false"
 weight: "10"

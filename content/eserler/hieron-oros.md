@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:02+03:00"
 slug: "hieron-oros"
 description: "## Hieron Oros: Kıbrıs'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

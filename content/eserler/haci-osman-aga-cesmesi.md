@@ -5,10 +5,10 @@ slug: "haci-osman-aga-cesmesi"
 description: "## Hacı Osman Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg/1200px-Hacı_Osman_Ağa_Çeşmesi,_Şile,_İstanbul_2025.jpg"
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7147102,38.6412277"
 draft: "false"
 weight: "999"

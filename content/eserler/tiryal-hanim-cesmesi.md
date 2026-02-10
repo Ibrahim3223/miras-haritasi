@@ -5,10 +5,10 @@ slug: "tiryal-hanim-cesmesi"
 description: "## Tiryal Hanım Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.065005,41.027024"
 draft: "false"
 weight: "999"

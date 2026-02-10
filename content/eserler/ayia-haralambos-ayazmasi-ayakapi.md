@@ -5,10 +5,10 @@ slug: "ayia-haralambos-ayazmasi-ayakapi"
 description: "**Ayia Haralambos Ayazması, Ayakapı: İstanbul'un Gizli Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9568405,41.0275078"
 draft: "false"
 weight: "999"

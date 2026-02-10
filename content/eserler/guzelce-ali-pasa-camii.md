@@ -4,8 +4,7 @@ date: "2025-12-24T22:54:10+03:00"
 slug: "guzelce-ali-pasa-camii"
 description: "### Güzelce Ali Paşa Camii: İstanbul'un Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

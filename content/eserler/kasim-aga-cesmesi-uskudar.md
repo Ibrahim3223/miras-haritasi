@@ -5,10 +5,10 @@ slug: "kasim-aga-cesmesi-uskudar"
 description: "### Kasım Ağa Çeşmesi: Üsküdar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.025471,41.017862"
 draft: "false"
 weight: "999"

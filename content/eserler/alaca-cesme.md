@@ -5,10 +5,10 @@ slug: "alaca-cesme"
 description: "## Alaca Çeşme: Eyüpsultan'da Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.936871,41.041187"
 draft: "false"
 weight: "999"

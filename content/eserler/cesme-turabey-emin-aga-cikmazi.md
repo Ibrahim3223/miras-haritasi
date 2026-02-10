@@ -5,10 +5,10 @@ slug: "cesme-turabey-emin-aga-cikmazi"
 description: "**Çeşme – Turabey, Emin Ağa Çıkmazı**..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1814003,39.1209984"
 draft: "false"
 weight: "999"

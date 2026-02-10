@@ -5,10 +5,10 @@ slug: "pazar-sokagi-cesmesi"
 description: "## Pazar Sokağı Çeşmesi: Beykoz'un Tarihi Bir Mirası..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.068163,41.084053"
 draft: "false"
 weight: "999"

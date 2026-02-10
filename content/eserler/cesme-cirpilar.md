@@ -5,10 +5,10 @@ slug: "cesme-cirpilar"
 description: "## Çeşme, Çırpılar: Bir Çanakkale Efsanesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Bayramiç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.84824234,39.808158346"
 draft: "false"
 weight: "999"

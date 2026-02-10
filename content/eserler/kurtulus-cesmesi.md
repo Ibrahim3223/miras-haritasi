@@ -5,10 +5,10 @@ slug: "kurtulus-cesmesi"
 description: "### Kurtuluş Çeşmesi..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.881176,39.6484795"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:32:27+03:00"
 slug: "isaura-palaea"
 description: "### Isaura Palaea: Antik Çağın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

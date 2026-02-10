@@ -4,8 +4,7 @@ date: "2025-12-25T04:58:38+03:00"
 slug: "karkabo"
 description: "**Karkabho: Tarihi ve Kültürel Bir Miras**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-24T23:02:55+03:00"
 slug: "golcukler-camii"
 description: "### Gölcükler Camii: İzmir'in Tarihi ve Mimari Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

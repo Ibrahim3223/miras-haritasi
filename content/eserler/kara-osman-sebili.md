@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:11+03:00"
 slug: "kara-osman-sebili"
 description: "## Kara Osman Sebili..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/309.14-Kara_Osman_Sebili-1814_01.jpg/1200px-309.14-Kara_Osman_Sebili-1814_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.17877222,39.11978056"
 draft: "false"
 weight: "10"

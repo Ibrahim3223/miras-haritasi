@@ -4,8 +4,7 @@ date: "2025-12-25T05:15:24+03:00"
 slug: "otanada"
 description: "## Otanada Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "tuluce-camii-cesmesi"
 description: "# Tülüce Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8571587,39.9427452"
 draft: "false"
 weight: "999"

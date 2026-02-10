@@ -4,8 +4,7 @@ date: "2025-12-25T08:07:58+03:00"
 slug: "carambis"
 description: "## Carambis Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

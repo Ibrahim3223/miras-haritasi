@@ -5,10 +5,10 @@ slug: "sadak-koyu-cesmesi"
 description: "### Sadak Köyü Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Kelkit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.5954208,40.0257187"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aci-cesme"
 description: "### Acı Çeşme: Altındağ'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.860388888,39.936611111"
 draft: "false"
 weight: "999"

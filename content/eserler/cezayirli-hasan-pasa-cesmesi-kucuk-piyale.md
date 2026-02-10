@@ -5,10 +5,10 @@ slug: "cezayirli-hasan-pasa-cesmesi-kucuk-piyale"
 description: "## Cezayirli Hasan Paşa Çeşmesi, Küçük Piyale..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cezayirli_Hasan_Paşa_Çeşmesi,_Küçük_Piyale_IMG_5782.jpg/1200px-Cezayirli_Hasan_Paşa_Çeşmesi,_Küçük_Piyale_IMG_5782.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.966335,41.03548"
 draft: "false"
 weight: "10"

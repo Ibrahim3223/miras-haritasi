@@ -5,10 +5,10 @@ slug: "cardakli-beldesi-yeni-pinar-cesmesi"
 description: "## Çardaklı Beldesi Yeni Pınar Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Atkaracalar İlçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.127797748,40.806637668"
 draft: "false"
 weight: "999"

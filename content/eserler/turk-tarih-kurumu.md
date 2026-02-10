@@ -4,8 +4,7 @@ date: "2025-12-25T17:46:37+03:00"
 slug: "turk-tarih-kurumu"
 description: "## Türk Tarih Kurumu Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

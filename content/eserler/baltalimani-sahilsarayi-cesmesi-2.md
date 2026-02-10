@@ -5,10 +5,10 @@ slug: "baltalimani-sahilsarayi-cesmesi-2"
 description: "## Baltalimanı Sahilsarayı Çeşmesi (2)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0537357,41.0972862"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ciftlikonu-cesmesi"
 description: "## Çiftlikönü Çeşmesi: Tekirdağ'ın Eski Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5227051,40.9813576"
 draft: "false"
 weight: "999"

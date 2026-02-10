@@ -5,10 +5,10 @@ slug: "muftuzade-haci-ali-efendi-cesmesi"
 description: "## Müftüzade Hacı Ali Efendi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7390995,38.0844994"
 draft: "false"
 weight: "999"

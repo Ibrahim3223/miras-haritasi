@@ -5,10 +5,10 @@ slug: "nemane-cesmesi"
 description: "### Nemane Çeşmesi: Eskişehir'in Tarihî Mekânı..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5404606,39.4487457"
 draft: "false"
 weight: "999"

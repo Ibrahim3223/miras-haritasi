@@ -5,10 +5,10 @@ slug: "iskender-bey-cesmesi"
 description: "## İskender Bey Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/İskender_Bey_Çeşmesi_02.jpg/1200px-İskender_Bey_Çeşmesi_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.943319,41.039391"
 draft: "false"
 weight: "10"

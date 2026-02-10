@@ -5,10 +5,10 @@ slug: "mehmet-kethuda-cesmesi-cerrahpasa"
 description: "## Mehmet Kethüda Çeşmesi, Cerrahpaşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9392319,41.0061646"
 draft: "false"
 weight: "999"

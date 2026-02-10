@@ -5,10 +5,10 @@ slug: "serkavas-ahmet-aga-lahanacilar-cesmesi"
 description: "## Serkavas Ahmet Ağa Lahanacılar Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Serkavas_Ahmet_Ağa_Lahanacılar_Fountain_(2).jpg/1200px-Serkavas_Ahmet_Ağa_Lahanacılar_Fountain_(2).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.052627155,41.050806388"
 draft: "false"
 weight: "10"

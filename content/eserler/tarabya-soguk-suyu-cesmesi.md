@@ -5,10 +5,10 @@ slug: "tarabya-soguk-suyu-cesmesi"
 description: "### Tarabya Soguk Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.053479,41.13776"
 draft: "false"
 weight: "999"

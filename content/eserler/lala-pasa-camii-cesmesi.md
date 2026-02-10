@@ -5,10 +5,10 @@ slug: "lala-pasa-camii-cesmesi"
 description: "### Lala Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Yunusemre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4185162,38.6064987"
 draft: "false"
 weight: "999"

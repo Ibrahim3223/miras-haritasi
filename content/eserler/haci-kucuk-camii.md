@@ -4,8 +4,7 @@ date: "2025-12-24T22:56:21+03:00"
 slug: "haci-kucuk-camii"
 description: "## Hacı Küçük Camii: İstanbul'un Tarihi Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hacı_Küçük_Camii_in_2024_6512.jpg/1200px-Hacı_Küçük_Camii_in_2024_6512.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

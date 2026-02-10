@@ -5,10 +5,10 @@ slug: "yesarizade-cesmesi"
 description: "## Yesarizade Çeşmesi: Üsküdar'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.034916,41.020211"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:36:03+03:00"
 slug: "sederek-sinir-kapisi"
 description: "## Sederek Sınır Kapısı: Tarihi ve Kültürel Mirasın Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

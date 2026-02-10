@@ -5,10 +5,10 @@ slug: "sivircik-cesmesi"
 description: "### Sıvırcık Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2812996,39.9054108"
 draft: "false"
 weight: "999"

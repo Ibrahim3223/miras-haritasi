@@ -4,8 +4,7 @@ date: "2025-12-25T05:25:54+03:00"
 slug: "categorymaximianupolis"
 description: "## Maximianupolis: Eski Roma'nın Gizli Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Maximianupolis_08_09_1994_Via_Sebaste_Pflasterstraße_Blick_nach_Süden_auf_die_Travertin-Ebene_von_Kovanlık.jpg/1200px-Maximianupolis_08_09_1994_Via_Sebaste_Pflasterstraße_Blick_nach_Süden_auf_die_Travertin-Ebene_von_Kovanlık.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:13:03+03:00"
 slug: "moutalaske"
 description: "### Moutalaske: Antik Bir Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

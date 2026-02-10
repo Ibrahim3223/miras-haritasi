@@ -5,10 +5,10 @@ slug: "haci-ilyas-camii-cesmesi"
 description: "## Hacı İlyas Camii Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8621521,39.9325104"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "boyacikoy-kanlikavak-suyu-cesmesi"
 description: "### Boyacıköy Kanlıkavak Suyu Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Boyacıköy_Kanlıkavak_Suyu_Çeşmesi.jpg/1200px-Boyacıköy_Kanlıkavak_Suyu_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.054906,41.101418"
 draft: "false"
 weight: "10"

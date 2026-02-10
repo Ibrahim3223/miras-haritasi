@@ -5,10 +5,10 @@ slug: "yahyazade-ahmet-efendi-cesmesi"
 description: "## Yahyazade Ahmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944712,41.028061"
 draft: "false"
 weight: "999"

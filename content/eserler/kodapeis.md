@@ -4,8 +4,7 @@ date: "2025-12-25T08:08:49+03:00"
 slug: "kodapeis"
 description: "**Kodapeis Arkeolojik Sit**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

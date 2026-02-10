@@ -5,10 +5,10 @@ slug: "mehmet-sadik-cesmesi"
 description: "### Mehmet Sadık Çeşmesi: Beşiktaş'ta Tarihi Bir Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0223618,41.0497704"
 draft: "false"
 weight: "999"

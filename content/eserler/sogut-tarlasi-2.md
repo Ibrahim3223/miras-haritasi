@@ -4,8 +4,7 @@ date: "2025-12-25T07:01:50+03:00"
 slug: "sogut-tarlasi-2"
 description: "## Söğüt Tarlası 2 Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

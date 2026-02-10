@@ -5,10 +5,10 @@ slug: "cavus-sokak-cesmesi"
 description: "### Çavuş Sokak Çeşmesi: İskilip'in Değerli Taş eserleri..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "İskilip"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.4669991,40.7357292"
 draft: "false"
 weight: "999"

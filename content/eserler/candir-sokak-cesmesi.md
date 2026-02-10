@@ -5,10 +5,10 @@ slug: "candir-sokak-cesmesi"
 description: "### Çandır Sokak Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Meram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4308739,37.8498611"
 draft: "false"
 weight: "999"

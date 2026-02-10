@@ -5,10 +5,10 @@ slug: "bes-cesmeler"
 description: "### Beş Çeşmeler: İstanbul'un Tarihi ve Kültürel Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Beş_Çeşmeler_1.jpg/1200px-Beş_Çeşmeler_1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Maltepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.12895,40.922031"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "cortan-cesmesi"
 description: "### Çortan Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2728691,39.9095459"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:33+03:00"
 slug: "seydiler-hoyugu"
 description: "## Seydiler Höyüğü: Türkiye'nin Gizli Tarihî Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

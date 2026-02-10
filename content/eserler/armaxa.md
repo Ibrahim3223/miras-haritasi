@@ -4,8 +4,7 @@ date: "2025-12-25T05:08:20+03:00"
 slug: "armaxa"
 description: "## Armaxa: Eski Çağ'ın Gizemli Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T05:07:31+03:00"
 slug: "etsyena"
 description: "## Etsyena Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

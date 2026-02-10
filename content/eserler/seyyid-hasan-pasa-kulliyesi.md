@@ -5,10 +5,10 @@ slug: "seyyid-hasan-pasa-kulliyesi"
 description: "## Seyyid Hasan Paşa Külliyesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Hasan_Paşa_Medresesi_Sebil_in_2008_0854.jpg/1200px-Hasan_Paşa_Medresesi_Sebil_in_2008_0854.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.96135,41.010428"
 draft: "false"
 weight: "10"

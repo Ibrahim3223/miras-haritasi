@@ -4,8 +4,7 @@ date: "2025-12-24T23:03:10+03:00"
 slug: "fatih-ibrahim-bey-camii"
 description: "## Fatih İbrahim Bey Camii: İzmir'in Tarihi ve Kültürel Kıymeti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

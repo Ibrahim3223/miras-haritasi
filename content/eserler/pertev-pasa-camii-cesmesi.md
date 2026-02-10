@@ -5,10 +5,10 @@ slug: "pertev-pasa-camii-cesmesi"
 description: "# İzmit'in Tarihî Çeşmesi: Pertev Paşa Camii Çeşmesi..."
 featured_image: ""
 province: "Anadolu eyaleti"
-iller: '["Anadolu eyaleti"]'
+iller: ["Anadolu eyaleti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9308167,40.7623634"
 draft: "false"
 weight: "999"

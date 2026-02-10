@@ -5,10 +5,10 @@ slug: "adem-hoca-cesmesi"
 description: "## Adem Hoca Çeşmesi: Silivri'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2518673,41.0732002"
 draft: "false"
 weight: "999"

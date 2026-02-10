@@ -4,8 +4,7 @@ date: "2025-12-25T05:16:45+03:00"
 slug: "zeita"
 description: "### Zeita Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

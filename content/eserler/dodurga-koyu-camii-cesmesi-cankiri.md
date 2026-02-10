@@ -5,10 +5,10 @@ slug: "dodurga-koyu-camii-cesmesi-cankiri"
 description: "## Dodurga Köyü Camii Çeşmesi: Çankırı'nın Gizli Çeşme Mücevheri..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.9882431,40.6018867"
 draft: "false"
 weight: "999"

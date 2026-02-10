@@ -4,8 +4,7 @@ date: "2025-12-25T07:12:05+03:00"
 slug: "simeon-limani"
 description: "### Simeon Limanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/PrincipadodeAntioquía.png/1200px-PrincipadodeAntioquía.png"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

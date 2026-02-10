@@ -5,10 +5,10 @@ slug: "sehremaneti-cesmesi"
 description: "**Şehremaneti Çeşmesi: Kadıköy'de Bir İmparatorluk Mirası**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.085032,40.978689"
 draft: "false"
 weight: "999"

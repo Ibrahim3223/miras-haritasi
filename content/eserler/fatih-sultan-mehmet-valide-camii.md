@@ -4,8 +4,7 @@ date: "2025-12-24T23:02:43+03:00"
 slug: "fatih-sultan-mehmet-valide-camii"
 description: "# Fatih Sultan Mehmet Valide Camii: İzmir'in Tarihi Bir Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

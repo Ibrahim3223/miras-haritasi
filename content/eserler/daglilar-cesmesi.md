@@ -5,10 +5,10 @@ slug: "daglilar-cesmesi"
 description: "## Dağlılar Çeşmesi: Aydın'ın Görsel Zirvesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3010063,37.7038612"
 draft: "false"
 weight: "999"

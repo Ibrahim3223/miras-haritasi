@@ -4,8 +4,7 @@ date: "2025-12-25T08:11:00+03:00"
 slug: "sanctuary-of-athena-at-phaselis"
 description: "## Phaselis'te Athena Tapınağı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

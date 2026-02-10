@@ -5,10 +5,10 @@ slug: "bezirci-camii-cesmesi"
 description: "## Bezirci Camii Çeşmesi: Konya'nın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5172043,37.8977318"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T08:22:40+03:00"
 slug: "paulos-magarasi"
 description: "## Paulos Mağarası: İzmir'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Paul_and_Thecla.jpg/1200px-Paul_and_Thecla.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

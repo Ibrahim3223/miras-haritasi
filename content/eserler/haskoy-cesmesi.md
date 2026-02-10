@@ -5,10 +5,10 @@ slug: "haskoy-cesmesi"
 description: "## Hasköy Çeşmesi: Beyoğlu'ndaki Bir Çeşme Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Hasköy_Fountain.jpg/1200px-Hasköy_Fountain.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.951138888,41.040583333"
 draft: "false"
 weight: "10"

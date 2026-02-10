@@ -5,10 +5,10 @@ slug: "gurcu-mehmet-pasa-cesmesi-kemal-pasa"
 description: "## Gürcü Mehmet Paşa Çeşmesi, Kemal Paşa..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.954237,41.0143738"
 draft: "false"
 weight: "999"

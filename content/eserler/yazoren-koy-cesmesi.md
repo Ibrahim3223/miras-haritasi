@@ -5,10 +5,10 @@ slug: "yazoren-koy-cesmesi"
 description: "# Yazören Köy Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Savaştepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8182297,39.3312035"
 draft: "false"
 weight: "999"

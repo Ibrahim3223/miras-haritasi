@@ -5,10 +5,10 @@ slug: "mercan-camii-duvar-cesmesi"
 description: "## Mercan Camii Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.967471,41.012413"
 draft: "false"
 weight: "999"

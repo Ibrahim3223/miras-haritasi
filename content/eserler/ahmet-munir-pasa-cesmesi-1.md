@@ -5,10 +5,10 @@ slug: "ahmet-munir-pasa-cesmesi-1"
 description: "### Ahmet Münir Paşa Çeşmesi 1: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0623684,40.183754"
 draft: "false"
 weight: "999"

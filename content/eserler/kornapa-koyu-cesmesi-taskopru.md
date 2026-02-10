@@ -5,10 +5,10 @@ slug: "kornapa-koyu-cesmesi-taskopru"
 description: "### Kornapa Köyü Çeşmesi: Taşköprü'deki Gizli Çeşme..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Taşköprü"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.272240064,41.576638511"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "orduoglu-cesmesi-2"
 description: "## Orduoğlu Çeşmesi 2: Nevşehir'in Tarihî Mirası..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7093849,38.6222496"
 draft: "false"
 weight: "999"

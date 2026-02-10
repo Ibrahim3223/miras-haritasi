@@ -5,10 +5,10 @@ slug: "seyyid-hasan-pasa-cesmesi-haci-kadin"
 description: "# Seyyid Hasan Paşa Çeşmesi, Hacı Kadın: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9578792,41.0182397"
 draft: "false"
 weight: "999"

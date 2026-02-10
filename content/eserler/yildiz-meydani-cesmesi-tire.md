@@ -5,10 +5,10 @@ slug: "yildiz-meydani-cesmesi-tire"
 description: "## Yıldız Meydanı Çeşmesi: Tire'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7353935,38.0876312"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:38:34+03:00"
 slug: "kyllene-eolis"
 description: "# Kyllene (Eolis)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

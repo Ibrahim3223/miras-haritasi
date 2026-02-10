@@ -4,8 +4,7 @@ date: "2025-12-25T04:41:18+03:00"
 slug: "charadrus"
 description: "## Charadrus Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

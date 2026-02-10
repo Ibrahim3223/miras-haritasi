@@ -4,8 +4,7 @@ date: "2025-12-25T05:11:41+03:00"
 slug: "aquae-saravenae"
 description: "## Aquae Saravenae: Roma Dönemi'nin Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

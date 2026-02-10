@@ -5,10 +5,10 @@ slug: "kapalicarsi-bodrum-handaki-cesme"
 description: "## Kapalıçarşı Bodrum Handaki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9665642,41.010231"
 draft: "false"
 weight: "999"

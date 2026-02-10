@@ -5,10 +5,10 @@ slug: "rehabula-kadin-sebili"
 description: "## Rehabula Kadın Sebili: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.960361,41.017034"
 draft: "false"
 weight: "999"

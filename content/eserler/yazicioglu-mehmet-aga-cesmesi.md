@@ -5,10 +5,10 @@ slug: "yazicioglu-mehmet-aga-cesmesi"
 description: "## Yazıcıoğlu Mehmet Ağa Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Dilovası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.5813007,40.8166008"
 draft: "false"
 weight: "999"

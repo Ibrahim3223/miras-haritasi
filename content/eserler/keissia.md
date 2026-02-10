@@ -4,8 +4,7 @@ date: "2025-12-25T05:06:10+03:00"
 slug: "keissia"
 description: "### Keissia: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

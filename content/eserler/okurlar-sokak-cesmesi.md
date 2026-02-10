@@ -5,10 +5,10 @@ slug: "okurlar-sokak-cesmesi"
 description: "## Okurlar Sokak Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2565002,37.8591995"
 draft: "false"
 weight: "999"

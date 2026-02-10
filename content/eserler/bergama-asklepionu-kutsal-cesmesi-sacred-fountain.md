@@ -4,11 +4,10 @@ date: "2025-12-25T10:05:14+03:00"
 slug: "bergama-asklepionu-kutsal-cesmesi-sacred-fountain"
 description: "### Bergama Asklepionu Kutsal Çeşmesi (Sacred Fountain)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Bergama_Asklepionu-Kutsal_Çeşme.jpg/1200px-Bergama_Asklepionu-Kutsal_Çeşme.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: ""
 draft: "false"
 weight: "10"

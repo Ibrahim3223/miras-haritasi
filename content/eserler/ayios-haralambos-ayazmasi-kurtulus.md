@@ -5,10 +5,10 @@ slug: "ayios-haralambos-ayazmasi-kurtulus"
 description: "## Ayios Haralambos Ayazması, Kurtuluş..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şişli"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9773216,41.0446663"
 draft: "false"
 weight: "999"

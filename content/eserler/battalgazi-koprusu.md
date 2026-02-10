@@ -4,8 +4,7 @@ date: "2025-12-25T01:57:57+03:00"
 slug: "battalgazi-koprusu"
 description: "## Battalgazi Köprüsü: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

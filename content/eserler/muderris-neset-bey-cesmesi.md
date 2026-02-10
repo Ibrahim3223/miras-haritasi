@@ -5,10 +5,10 @@ slug: "muderris-neset-bey-cesmesi"
 description: "## Müderris Neşet Bey Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9680514,41.1869102"
 draft: "false"
 weight: "999"

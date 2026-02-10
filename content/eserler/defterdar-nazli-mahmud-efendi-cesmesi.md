@@ -5,10 +5,10 @@ slug: "defterdar-nazli-mahmud-efendi-cesmesi"
 description: "## Defterdar Nazlı Mahmud Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Defterdar_Nazlı_Mahmud_Efendi_Çeşmesi.jpg/1200px-Defterdar_Nazlı_Mahmud_Efendi_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.937607,41.042149"
 draft: "false"
 weight: "10"

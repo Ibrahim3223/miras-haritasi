@@ -5,10 +5,10 @@ slug: "baltaci-mehmet-pasa-cesmesi"
 description: "## Baltacı Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "Çorum"
-iller: '["Çorum"]'
+iller: ["Çorum"]
 district: "Osmancık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7984314,40.9727821"
 draft: "false"
 weight: "999"

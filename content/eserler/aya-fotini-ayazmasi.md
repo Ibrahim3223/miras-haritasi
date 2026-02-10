@@ -5,10 +5,10 @@ slug: "aya-fotini-ayazmasi"
 description: "## Aya Fotini Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0479317,40.9057312"
 draft: "false"
 weight: "999"

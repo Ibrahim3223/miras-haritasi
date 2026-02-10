@@ -5,10 +5,10 @@ slug: "dilsikar-hatun-camii-cesmesi"
 description: "## Dilşikar Hatun Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4398022,38.6124611"
 draft: "false"
 weight: "999"

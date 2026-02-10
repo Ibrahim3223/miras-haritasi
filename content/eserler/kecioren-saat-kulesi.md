@@ -4,8 +4,7 @@ date: "2025-12-25T17:22:53+03:00"
 slug: "kecioren-saat-kulesi"
 description: "### Keçiören Saat Kulesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saat Kulesi"
 turler: ["Saat Kulesi"]

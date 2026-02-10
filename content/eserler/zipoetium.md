@@ -4,8 +4,7 @@ date: "2025-12-25T04:34:12+03:00"
 slug: "zipoetium"
 description: "## Zipoetium Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

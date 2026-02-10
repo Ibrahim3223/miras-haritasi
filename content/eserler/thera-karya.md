@@ -4,8 +4,7 @@ date: "2025-12-25T05:03:24+03:00"
 slug: "thera-karya"
 description: "## Thera (Karya): Antik Yunanistan'ın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

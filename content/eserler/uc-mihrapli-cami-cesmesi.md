@@ -5,10 +5,10 @@ slug: "uc-mihrapli-cami-cesmesi"
 description: "**Üç Mihraplı Cami Çeşmesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.963103,41.020199"
 draft: "false"
 weight: "999"

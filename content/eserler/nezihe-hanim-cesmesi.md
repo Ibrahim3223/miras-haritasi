@@ -5,10 +5,10 @@ slug: "nezihe-hanim-cesmesi"
 description: "### Nezihe Hanım Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8578987,39.9438705"
 draft: "false"
 weight: "999"

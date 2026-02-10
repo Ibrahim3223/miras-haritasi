@@ -4,8 +4,7 @@ date: "2025-12-24T23:37:16+03:00"
 slug: "ismailli-camii"
 description: "## İsmailli Camii: İzmir'in Tarihi Bir Çağı Gerçekleştiren Anıtı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

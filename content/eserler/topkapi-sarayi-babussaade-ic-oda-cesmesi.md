@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-babussaade-ic-oda-cesmesi"
 description: "## Topkapı Sarayı Babüssaade İç Oda Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9843988,41.0126332"
 draft: "false"
 weight: "1"

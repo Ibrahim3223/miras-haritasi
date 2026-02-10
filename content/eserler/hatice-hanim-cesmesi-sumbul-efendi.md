@@ -5,10 +5,10 @@ slug: "hatice-hanim-cesmesi-sumbul-efendi"
 description: "## Hatice Hanım Çeşmesi, Sümbül Efendi: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.924353,41.000406"
 draft: "false"
 weight: "999"

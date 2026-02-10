@@ -5,10 +5,10 @@ slug: "cesme-1-karesi"
 description: "## Çeşme-1, Karesi: Tarihi ve Kültürel Mirasın Parçası..."
 featured_image: ""
 province: "Marmara Bölgesi"
-iller: '["Marmara Bölgesi"]'
+iller: ["Marmara Bölgesi"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.878133033,39.647417825"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "seref-sirin-camii-cesmesi"
 description: "## Şeref Şirin Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.4999466,37.8725204"
 draft: "false"
 weight: "999"

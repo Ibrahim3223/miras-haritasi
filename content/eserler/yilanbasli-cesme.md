@@ -5,10 +5,10 @@ slug: "yilanbasli-cesme"
 description: "## Yılanbaşlı Çeşme: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Mamak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.943722167,39.924054961"
 draft: "false"
 weight: "999"

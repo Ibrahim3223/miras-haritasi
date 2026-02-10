@@ -4,11 +4,10 @@ date: "2025-12-25T11:45:43+03:00"
 slug: "abdulmecid-han-cesmesi"
 description: "## Abdülmecid Han Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Abdülmecid_Han_Çeşmesi_01.jpg/1200px-Abdülmecid_Han_Çeşmesi_01.jpg"
-province: ""
-iller: '[""]'
+iller: []
 district: "İstanbul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.82071,40.958"
 draft: "false"
 weight: "10"

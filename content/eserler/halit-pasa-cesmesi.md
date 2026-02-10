@@ -5,10 +5,10 @@ slug: "halit-pasa-cesmesi"
 description: "### Halit Paşa Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5206985,40.9812584"
 draft: "false"
 weight: "999"

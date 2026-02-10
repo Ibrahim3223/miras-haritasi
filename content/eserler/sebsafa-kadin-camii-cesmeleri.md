@@ -5,10 +5,10 @@ slug: "sebsafa-kadin-camii-cesmeleri"
 description: "## Şebsafa Kadın Camii Çeşmeleri: Fatih'in Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.958563,41.019274"
 draft: "false"
 weight: "999"

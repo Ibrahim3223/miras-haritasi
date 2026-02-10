@@ -5,10 +5,10 @@ slug: "yali-cesmesi"
 description: "### Yalı Çeşmesi: Ayvacık'ta Bir Osmanlı Dönemi Çeşmesinden Hatıralar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yalı_Çeşmesi.jpg/1200px-Yalı_Çeşmesi.jpg"
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Ayvacık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.0648994,39.4785995"
 draft: "false"
 weight: "999"

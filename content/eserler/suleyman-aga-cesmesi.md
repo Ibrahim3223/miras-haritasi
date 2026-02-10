@@ -5,10 +5,10 @@ slug: "suleyman-aga-cesmesi"
 description: "### Süleyman Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Süleyman_Ağa_Çeşmesi.jpg/1200px-Süleyman_Ağa_Çeşmesi.jpg"
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Havran"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0982647,39.5574799"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "ayios-minas-ayazmasi-kumkapi"
 description: "### Ayios Minas Ayazması, Kumkapı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9320869,41.0005608"
 draft: "false"
 weight: "999"

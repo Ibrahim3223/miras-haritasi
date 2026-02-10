@@ -5,10 +5,10 @@ slug: "kurtkulagi-cesmesi"
 description: "## Kurtkulağı Çeşmesi: Adana'nın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Adana"
-iller: '["Adana"]'
+iller: ["Adana"]
 district: "Ceyhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.885334118,36.922901064"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:49:26+03:00"
 slug: "gaziantep-islahiye-halk-kutuphanesi"
 description: "# Gaziantep İslahiye Halk Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

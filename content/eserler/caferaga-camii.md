@@ -4,8 +4,7 @@ date: "2025-12-24T21:40:06+03:00"
 slug: "caferaga-camii"
 description: "## Caferağa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cafer_Ağa_Camii.jpg/1200px-Cafer_Ağa_Camii.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

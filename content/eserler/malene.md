@@ -4,8 +4,7 @@ date: "2025-12-25T04:34:36+03:00"
 slug: "malene"
 description: "# Malene Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T07:14:56+03:00"
 slug: "tavsantepe-tumulusu"
 description: "## Tavşantepe Tümülüsü: İzmir'in Gizli İncisi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

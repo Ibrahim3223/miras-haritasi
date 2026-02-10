@@ -5,10 +5,10 @@ slug: "dodurga-koyu-cesmesi-2-orta"
 description: "## Dodurga Köyü Çeşmesi 2: Orta'nın Tarihsel Güzelliği..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Orta"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.990483123,40.602162218"
 draft: "false"
 weight: "999"

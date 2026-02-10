@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:59+03:00"
 slug: "pirhias-kion"
 description: "## Pirhias Kion: Bir Antik Kentin İzleri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

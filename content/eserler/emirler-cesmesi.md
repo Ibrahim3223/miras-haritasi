@@ -5,10 +5,10 @@ slug: "emirler-cesmesi"
 description: "## Emirler Çeşmesi: Torul'un Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Gümüşhane"
-iller: '["Gümüşhane"]'
+iller: ["Gümüşhane"]
 district: "Torul"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.1954079,40.5165062"
 draft: "false"
 weight: "999"

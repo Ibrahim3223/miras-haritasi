@@ -5,10 +5,10 @@ slug: "dervis-pasa-cesmesi"
 description: "## Derviş Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/20240411_Derviş_Paşa_Çeşmesi_3.jpg/1200px-20240411_Derviş_Paşa_Çeşmesi_3.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.921284067,41.022910086"
 draft: "false"
 weight: "10"

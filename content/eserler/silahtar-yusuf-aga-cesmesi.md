@@ -5,10 +5,10 @@ slug: "silahtar-yusuf-aga-cesmesi"
 description: "### Silahtar Yusuf Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.952244,41.08384"
 draft: "false"
 weight: "999"

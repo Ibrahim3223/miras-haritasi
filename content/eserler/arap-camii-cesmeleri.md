@@ -5,10 +5,10 @@ slug: "arap-camii-cesmeleri"
 description: "### Arap Camii Çeşmeleri: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Arap_Camii_Çeşmeleri_IMG_5402.jpg/1200px-Arap_Camii_Çeşmeleri_IMG_5402.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.970882,41.024606"
 draft: "false"
 weight: "10"

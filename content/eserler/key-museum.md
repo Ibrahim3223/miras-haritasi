@@ -4,8 +4,7 @@ date: "2025-12-25T03:06:58+03:00"
 slug: "key-museum"
 description: "## Key Museum..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Key_Museum_3.jpg/1200px-Key_Museum_3.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Müze"
 turler: ["Müze"]

@@ -5,10 +5,10 @@ slug: "acem-cesmesi"
 description: "## Acem Çeşmesi: Sivrihisar'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5389557,39.4512787"
 draft: "false"
 weight: "999"

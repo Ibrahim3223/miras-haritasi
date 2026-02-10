@@ -4,8 +4,7 @@ date: "2025-12-25T08:33:05+03:00"
 slug: "dara-baraji"
 description: "## Dara Barajı: Türkiye'nin Efsanevi Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

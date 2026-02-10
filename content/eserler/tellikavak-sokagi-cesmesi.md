@@ -4,11 +4,10 @@ date: "2025-12-25T10:07:56+03:00"
 slug: "tellikavak-sokagi-cesmesi"
 description: "## Tellikavak Sokağı Çeşmesi..."
 featured_image: ""
-province: ""
-iller: '[""]'
+iller: []
 district: ""
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.078211805,40.971643111"
 draft: "false"
 weight: "999"

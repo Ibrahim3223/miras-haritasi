@@ -5,10 +5,10 @@ slug: "dursun-bey-cesmesi"
 description: "### Dursun Bey Çeşmesi: Erzurum'un Tarihi Zirvesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2713661,39.9091301"
 draft: "false"
 weight: "999"

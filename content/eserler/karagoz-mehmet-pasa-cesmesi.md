@@ -5,10 +5,10 @@ slug: "karagoz-mehmet-pasa-cesmesi"
 description: "# Karagöz Mehmet Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.926267,41.009196"
 draft: "false"
 weight: "999"

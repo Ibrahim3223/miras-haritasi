@@ -5,10 +5,10 @@ slug: "emin-alemdar-sokak-cesmesi"
 description: "## Emin Alemdar Sokak Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Ortahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.724102,41.0069695"
 draft: "false"
 weight: "999"

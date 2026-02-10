@@ -5,10 +5,10 @@ slug: "kamanli-uclu-cesme"
 description: "## Kamanlı Üçlü Çeşme..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7769737,38.3214722"
 draft: "false"
 weight: "999"

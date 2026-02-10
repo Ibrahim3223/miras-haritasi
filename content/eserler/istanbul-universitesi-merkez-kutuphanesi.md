@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:47+03:00"
 slug: "istanbul-universitesi-merkez-kutuphanesi"
 description: "## İstanbul Üniversitesi Merkez Kütüphanesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/İstanbul_Üniversitesi_Merkez_Kütüphanesi_01.jpg/1200px-İstanbul_Üniversitesi_Merkez_Kütüphanesi_01.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

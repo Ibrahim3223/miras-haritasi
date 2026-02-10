@@ -5,10 +5,10 @@ slug: "mahmut-han-ii-cesmesi-beylerbeyi-sarayi"
 description: "## Mahmut Han II Çeşmesi, Beylerbeyi Sarayı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.040266,41.0425453"
 draft: "false"
 weight: "999"

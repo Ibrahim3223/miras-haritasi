@@ -5,10 +5,10 @@ slug: "haci-ahmet-aga-cesmesi"
 description: "## Hacı Ahmet Ağa Çeşmesi: Fatih'te Bir Zeytinlik Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9474864,41.0105307"
 draft: "false"
 weight: "999"

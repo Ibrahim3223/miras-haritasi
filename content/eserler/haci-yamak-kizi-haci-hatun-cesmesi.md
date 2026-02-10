@@ -5,10 +5,10 @@ slug: "haci-yamak-kizi-haci-hatun-cesmesi"
 description: "## Hacı Yamak Kızı Hacı Hatun Çeşmesi: Bergama'nın Gizli Cenneti..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1791,39.1161995"
 draft: "false"
 weight: "999"

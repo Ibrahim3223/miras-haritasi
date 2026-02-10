@@ -4,8 +4,7 @@ date: "2025-12-25T03:40:57+03:00"
 slug: "ig-papaskir-ani-muzesi"
 description: "## İ.G. Papaskir Anı Müzesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Мемориальный_музей_И.Г._Папаскир._Национальная_библиотека_Республики_Абхазия_08.jpg/1200px-Мемориальный_музей_И.Г._Папаскир._Национальная_библиотека_Республики_Абхазия_08.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

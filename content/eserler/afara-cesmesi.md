@@ -5,10 +5,10 @@ slug: "afara-cesmesi"
 description: "## Afara Çeşmesi..."
 featured_image: ""
 province: "Antalya"
-iller: '["Antalya"]'
+iller: ["Antalya"]
 district: "Kaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.6796,36.3443"
 draft: "false"
 weight: "999"

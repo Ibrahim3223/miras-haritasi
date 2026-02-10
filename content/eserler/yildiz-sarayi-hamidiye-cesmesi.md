@@ -5,10 +5,10 @@ slug: "yildiz-sarayi-hamidiye-cesmesi"
 description: "## Yıldız Sarayı Hamidiye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.011455369,41.049652457"
 draft: "false"
 weight: "999"

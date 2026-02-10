@@ -4,8 +4,7 @@ date: "2025-12-25T04:59:41+03:00"
 slug: "aianteion-biga"
 description: "### Aianteion (Biga)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "ayios-ionais-ayazmasi-burgazada"
 description: "## Ayios İonais Ayazması, Burgazada..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Adalar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.068645472,40.881075616"
 draft: "false"
 weight: "999"

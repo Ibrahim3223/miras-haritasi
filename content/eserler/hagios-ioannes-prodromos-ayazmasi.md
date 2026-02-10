@@ -5,10 +5,10 @@ slug: "hagios-ioannes-prodromos-ayazmasi"
 description: "## Hagios Ioannes Prodromos Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.02034,41.0309601"
 draft: "false"
 weight: "999"

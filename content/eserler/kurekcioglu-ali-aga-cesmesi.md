@@ -5,10 +5,10 @@ slug: "kurekcioglu-ali-aga-cesmesi"
 description: "### Kürekçioğlu Ali Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Kürekçioğlu_Ali_Ağa_Çeşmesi.jpg/1200px-Kürekçioğlu_Ali_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Tuzla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3271217,40.8697433"
 draft: "false"
 weight: "10"

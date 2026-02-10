@@ -5,10 +5,10 @@ slug: "serbetdar-hasan-bey-camii-cesmesi"
 description: "### Şerbetdar Hasan Bey Camii Çeşmesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Vize"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.766654666,41.57518293"
 draft: "false"
 weight: "999"

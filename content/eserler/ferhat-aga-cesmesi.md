@@ -5,10 +5,10 @@ slug: "ferhat-aga-cesmesi"
 description: "# Ferhat Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Ferhat_Ağa_Çeşmesi_IMG_4425.jpg/1200px-Ferhat_Ağa_Çeşmesi_IMG_4425.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Güngören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.871854,41.038137"
 draft: "false"
 weight: "10"

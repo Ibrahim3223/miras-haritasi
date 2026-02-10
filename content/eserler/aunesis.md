@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:02+03:00"
 slug: "aunesis"
 description: "## Aunesis Arkeolojik Sit: Tarih, Mimari Özellikler ve Ziyaret Bilgileri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

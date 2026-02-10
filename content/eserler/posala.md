@@ -4,8 +4,7 @@ date: "2025-12-25T05:12:05+03:00"
 slug: "posala"
 description: "### Posala: Geçmişe Yolculuk..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

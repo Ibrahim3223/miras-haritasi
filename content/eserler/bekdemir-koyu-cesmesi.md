@@ -5,10 +5,10 @@ slug: "bekdemir-koyu-cesmesi"
 description: "## Bekdemir Köyü Çeşmesi: Ulubey'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Uşak"
-iller: '["Uşak"]'
+iller: ["Uşak"]
 district: "Ulubey"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.3845768,38.5117416"
 draft: "false"
 weight: "999"

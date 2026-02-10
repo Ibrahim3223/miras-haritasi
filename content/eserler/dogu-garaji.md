@@ -4,8 +4,7 @@ date: "2025-12-25T07:13:55+03:00"
 slug: "dogu-garaji"
 description: "## Doğu Garajı: Kırsal Alanın Gizli Çehresi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

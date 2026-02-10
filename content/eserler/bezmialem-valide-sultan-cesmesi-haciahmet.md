@@ -5,10 +5,10 @@ slug: "bezmialem-valide-sultan-cesmesi-haciahmet"
 description: "## Bezmialem Valide Sultan Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971245,41.041"
 draft: "false"
 weight: "999"

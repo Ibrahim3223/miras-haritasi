@@ -5,10 +5,10 @@ slug: "ali-bey-camii-cesmesi"
 description: "### Ali Bey Camii Çeşmesi..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4266167,38.6092491"
 draft: "false"
 weight: "999"

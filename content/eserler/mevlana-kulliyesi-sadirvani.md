@@ -5,10 +5,10 @@ slug: "mevlana-kulliyesi-sadirvani"
 description: "## Mevlana Külliyesi Şadırvanı: Konya'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.504675365,37.870718211"
 draft: "false"
 weight: "999"

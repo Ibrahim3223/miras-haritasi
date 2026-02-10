@@ -5,10 +5,10 @@ slug: "mehmet-aga-camii-bati-kapisi-cesmesi"
 description: "### Mehmet Ağa Camii Batı Kapısı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.94509,41.026814"
 draft: "false"
 weight: "999"

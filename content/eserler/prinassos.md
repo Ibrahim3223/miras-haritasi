@@ -4,8 +4,7 @@ date: "2025-12-25T05:22:57+03:00"
 slug: "prinassos"
 description: "## Prinassos: Geçmişin İzlerini Bulmak..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "cesme-1-sabanci-muzesi"
 description: "## Çeşme 1, Sabancı Müzesi: Sarıyer'in Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Çeşme_1,_Sabancı_Müzesi_IMG_7486.jpg/1200px-Çeşme_1,_Sabancı_Müzesi_IMG_7486.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0566387,41.1060066"
 draft: "false"
 weight: "10"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:04+03:00"
 slug: "veliyyuddin-efendi-kutuphanesi"
 description: "## Veliyyüddin Efendi Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

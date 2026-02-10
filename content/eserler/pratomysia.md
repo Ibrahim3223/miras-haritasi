@@ -4,8 +4,7 @@ date: "2025-12-25T04:48:00+03:00"
 slug: "pratomysia"
 description: "## Pratomysia: Tarihi ve Kültürel Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "cokon-meydani-cesmesi"
 description: "## Çökön Meydanı Çeşmesi: Safranbolu'nun Kültürel Güzelliği..."
 featured_image: ""
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.798067136,41.222903604"
 draft: "false"
 weight: "999"

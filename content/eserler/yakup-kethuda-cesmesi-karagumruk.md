@@ -5,10 +5,10 @@ slug: "yakup-kethuda-cesmesi-karagumruk"
 description: "### Yakup Kethüda Çeşmesi, Karagümrük..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yakup_Kethüda_Çeşmesi,_Karagümrük_03.jpg/1200px-Yakup_Kethüda_Çeşmesi,_Karagümrük_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9360511,41.024859521"
 draft: "false"
 weight: "10"

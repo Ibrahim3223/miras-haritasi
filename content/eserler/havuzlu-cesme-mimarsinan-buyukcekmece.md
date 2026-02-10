@@ -5,10 +5,10 @@ slug: "havuzlu-cesme-mimarsinan-buyukcekmece"
 description: "## Havuzlu Çeşme, Mimarsinan (Büyükçekmece)..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Büyükçekmece"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.5600014,41.0148773"
 draft: "false"
 weight: "999"

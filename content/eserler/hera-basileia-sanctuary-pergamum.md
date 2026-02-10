@@ -4,8 +4,7 @@ date: "2025-12-25T08:10:14+03:00"
 slug: "hera-basileia-sanctuary-pergamum"
 description: "### Hera Basileia Tapınağı, Pergamon..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

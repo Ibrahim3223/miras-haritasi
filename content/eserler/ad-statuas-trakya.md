@@ -4,8 +4,7 @@ date: "2025-12-25T04:50:15+03:00"
 slug: "ad-statuas-trakya"
 description: "### Ad Statuas: Trakya'nın Gizli Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

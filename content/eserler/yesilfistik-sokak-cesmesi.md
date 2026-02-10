@@ -5,10 +5,10 @@ slug: "yesilfistik-sokak-cesmesi"
 description: "## Yeşilfıstık Sokak Çeşmesi: Yıldız'ın Şirin Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Yeşilfıstık_Street_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg/1200px-Yeşilfıstık_Street_Fountain_2,_Beşiktaş,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.012607,41.046136"
 draft: "false"
 weight: "10"

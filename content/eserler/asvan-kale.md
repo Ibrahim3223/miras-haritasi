@@ -4,8 +4,7 @@ date: "2025-12-25T07:02:18+03:00"
 slug: "asvan-kale"
 description: "# Aşvan Kale..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

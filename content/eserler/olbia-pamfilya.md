@@ -4,8 +4,7 @@ date: "2025-12-25T04:58:34+03:00"
 slug: "olbia-pamfilya"
 description: "## Olbia (Pamfilya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

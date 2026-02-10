@@ -4,8 +4,7 @@ date: "2025-12-25T05:30:08+03:00"
 slug: "anemurium-samian-ware-discovery-site"
 description: "# Anemurium: Samian Ware Discovery Site..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

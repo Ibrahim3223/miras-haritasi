@@ -5,10 +5,10 @@ slug: "osmancik-cesmesi"
 description: "## Osmancık Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Sivrihisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.5405731,39.4465218"
 draft: "false"
 weight: "999"

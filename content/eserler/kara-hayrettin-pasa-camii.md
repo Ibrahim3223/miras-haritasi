@@ -4,8 +4,7 @@ date: "2025-12-24T23:39:16+03:00"
 slug: "kara-hayrettin-pasa-camii"
 description: "## Kara Hayrettin Paşa Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

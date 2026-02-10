@@ -5,10 +5,10 @@ slug: "cobanli-sakir-pasa-cesmesi-arapgir"
 description: "### Çobanlı Şakir Paşa Çeşmesi: Arapgir'in Tarihî Bir Mirası..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Arapgir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.502309457,39.044524526"
 draft: "false"
 weight: "999"

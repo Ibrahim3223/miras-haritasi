@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi"
 description: "## Mehmet Ağa Çeşmesi: Karatay, Konya'nın Tarihî Çeşme Anıtı..."
 featured_image: ""
 province: "Konya"
-iller: '["Konya"]'
+iller: ["Konya"]
 district: "Karatay"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.5022736,37.8690987"
 draft: "false"
 weight: "999"

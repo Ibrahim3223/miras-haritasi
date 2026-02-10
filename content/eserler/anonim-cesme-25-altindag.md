@@ -5,10 +5,10 @@ slug: "anonim-cesme-25-altindag"
 description: "### Anonim Çeşme-25, Altındağ: Ankara'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.859893066,39.939102339"
 draft: "false"
 weight: "999"

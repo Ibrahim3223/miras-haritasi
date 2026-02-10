@@ -5,10 +5,10 @@ slug: "inadiye-mezarlik-cesmesi-ahmediye"
 description: "## İnadiye Mezarlık Çeşmesi (Ahmediye)..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/İnadiye_Mezarlık_Çeşmesi_(Ahmediye).jpg/1200px-İnadiye_Mezarlık_Çeşmesi_(Ahmediye).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.018224,41.016682"
 draft: "false"
 weight: "10"

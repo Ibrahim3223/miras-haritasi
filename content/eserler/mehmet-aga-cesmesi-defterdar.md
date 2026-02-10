@@ -5,10 +5,10 @@ slug: "mehmet-aga-cesmesi-defterdar"
 description: "## Mehmet Ağa Çeşmesi, Defterdar..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Mehmet_Ağa_Çeşmesi,_Defterdar_02.jpg/1200px-Mehmet_Ağa_Çeşmesi,_Defterdar_02.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9404945,41.0398293"
 draft: "false"
 weight: "10"

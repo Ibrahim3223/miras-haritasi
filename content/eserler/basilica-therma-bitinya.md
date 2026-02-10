@@ -4,8 +4,7 @@ date: "2025-12-25T04:45:24+03:00"
 slug: "basilica-therma-bitinya"
 description: "## Basilica Therma: Bitinya'nın Gizemli Banyo Merkezi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -4,8 +4,7 @@ date: "2025-12-25T04:42:22+03:00"
 slug: "panormus-karya"
 description: "## Panormus (Karya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

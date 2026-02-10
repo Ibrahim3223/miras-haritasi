@@ -5,10 +5,10 @@ slug: "huseyin-aga-cesmesi-hekimhan"
 description: "### Hüseyin Ağa Çeşmesi, Hekimhan..."
 featured_image: ""
 province: "Malatya"
-iller: '["Malatya"]'
+iller: ["Malatya"]
 district: "Hekimhan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.934170603,38.817889669"
 draft: "false"
 weight: "999"

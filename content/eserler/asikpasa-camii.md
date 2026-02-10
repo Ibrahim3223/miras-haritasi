@@ -4,8 +4,7 @@ date: "2025-12-24T22:46:38+03:00"
 slug: "asikpasa-camii"
 description: "## Aşıkpaşa Camii..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/6/6f/A%C5%9F%C4%B1kpa%C5%9Fa_Tabiat_Park%C4%B1.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

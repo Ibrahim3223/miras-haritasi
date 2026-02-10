@@ -4,8 +4,7 @@ date: "2025-12-25T03:44:36+03:00"
 slug: "karesi-ataturk-evi"
 description: "# Karesi Atatürk Evi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Karesi_Atatürk_Evi.jpg/1200px-Karesi_Atatürk_Evi.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Müze"
 turler: ["Müze"]

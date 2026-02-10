@@ -5,10 +5,10 @@ slug: "halil-efendi-cesmesi-mimar-sinan"
 description: "### Halil Efendi Çeşmesi: Mimar Sinan'ın Bir Çeşme Harikası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Halil_Efendi_Çeşmesi,_Mimar_Sinan.jpg/1200px-Halil_Efendi_Çeşmesi,_Mimar_Sinan.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020438,41.022531"
 draft: "false"
 weight: "10"

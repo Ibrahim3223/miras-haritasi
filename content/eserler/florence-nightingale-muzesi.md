@@ -4,8 +4,7 @@ date: "2025-12-25T03:29:19+03:00"
 slug: "florence-nightingale-muzesi"
 description: "## Florence Nightingale Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

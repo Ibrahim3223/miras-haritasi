@@ -4,8 +4,7 @@ date: "2025-12-25T06:59:47+03:00"
 slug: "guzir-hoyuk"
 description: "## Güzir Höyük Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

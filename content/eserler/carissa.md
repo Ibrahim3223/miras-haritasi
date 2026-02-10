@@ -4,8 +4,7 @@ date: "2025-12-25T04:30:39+03:00"
 slug: "carissa"
 description: "## Eser Özeti: Carissa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

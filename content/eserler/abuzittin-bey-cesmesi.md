@@ -5,10 +5,10 @@ slug: "abuzittin-bey-cesmesi"
 description: "## Abuzittin Bey Çeşmesi..."
 featured_image: ""
 province: "Kuşadası"
-iller: '["Kuşadası"]'
+iller: ["Kuşadası"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2567711,37.8596764"
 draft: "false"
 weight: "999"

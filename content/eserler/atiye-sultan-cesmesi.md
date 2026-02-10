@@ -5,10 +5,10 @@ slug: "atiye-sultan-cesmesi"
 description: "### Atiye Sultan Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9375744,41.0280495"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-24T23:05:08+03:00"
 slug: "menemen-ulu-cami"
 description: "## Menemen Ulu Cami: İzmirlinin Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

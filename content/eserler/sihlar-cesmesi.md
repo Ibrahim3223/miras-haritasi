@@ -5,10 +5,10 @@ slug: "sihlar-cesmesi"
 description: "## Şıhlar Çeşmesi: Bolvadin'in Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Bolvadin"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "31.0630169,38.7081642"
 draft: "false"
 weight: "999"

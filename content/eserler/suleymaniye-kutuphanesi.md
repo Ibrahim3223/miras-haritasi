@@ -4,8 +4,7 @@ date: "2025-12-25T17:45:42+03:00"
 slug: "suleymaniye-kutuphanesi"
 description: "## Süleymaniye Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-meydan-cesmesi"
 description: "## Topkapı Sarayı Meydan Çeşmesi: Bir İmparatorlukun Yansıması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.982893,41.0115585"
 draft: "false"
 weight: "1"

@@ -5,10 +5,10 @@ slug: "ibrahim-aga-cesmesi-gokcen"
 description: "## İbrahim Ağa Çeşmesi, Gökçen: Tarihî Bir Çeşmenin Öyküsü..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Tire"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8719006,38.1132011"
 draft: "false"
 weight: "999"

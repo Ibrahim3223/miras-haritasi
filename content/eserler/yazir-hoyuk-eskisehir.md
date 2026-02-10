@@ -4,8 +4,7 @@ date: "2025-12-25T07:08:17+03:00"
 slug: "yazir-hoyuk-eskisehir"
 description: "## Yazır Höyük (Eskişehir)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

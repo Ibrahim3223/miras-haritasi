@@ -5,10 +5,10 @@ slug: "gurcu-mehmet-pasa-cesmesi-hirka-i-serif"
 description: "### Gürcü Mehmet Paşa Çeşmesi, Hırka-ı Şerif..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.93915,41.021637"
 draft: "false"
 weight: "999"

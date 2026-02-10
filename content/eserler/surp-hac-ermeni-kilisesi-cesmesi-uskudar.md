@@ -5,10 +5,10 @@ slug: "surp-hac-ermeni-kilisesi-cesmesi-uskudar"
 description: "# Surp Haç Ermeni Kilisesi Çeşmesi, Üsküdar..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0302048,41.0246124"
 draft: "false"
 weight: "999"

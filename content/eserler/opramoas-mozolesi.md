@@ -4,8 +4,7 @@ date: "2025-12-25T08:27:51+03:00"
 slug: "opramoas-mozolesi"
 description: "# Opramoas Mozolesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Rhodiapolis_Opramoas_Tomb_in_2016_0521_02.jpg/1200px-Rhodiapolis_Opramoas_Tomb_in_2016_0521_02.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

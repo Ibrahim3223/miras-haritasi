@@ -4,8 +4,7 @@ date: "2025-12-25T05:17:03+03:00"
 slug: "tomara-lidya"
 description: "### Tomara (Lidya)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

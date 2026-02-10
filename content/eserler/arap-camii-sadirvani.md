@@ -5,10 +5,10 @@ slug: "arap-camii-sadirvani"
 description: "## Arap Camii Şadırvanı: Beyoğlu'nun Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arap_Camii_Şadırvanı.jpg/1200px-Arap_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.971271066,41.024419784"
 draft: "false"
 weight: "10"

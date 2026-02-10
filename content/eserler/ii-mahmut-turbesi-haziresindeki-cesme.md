@@ -5,10 +5,10 @@ slug: "ii-mahmut-turbesi-haziresindeki-cesme"
 description: "### II. Mahmut Türbesi Haziresi’ndeki Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.973274,41.008536"
 draft: "false"
 weight: "999"

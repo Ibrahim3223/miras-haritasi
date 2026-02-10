@@ -5,10 +5,10 @@ slug: "ayios-ioanis-prodromos-ayazmasi-kadirga"
 description: "### Ayios Ioanis Prodromos Ayazması, Kadırga..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9668407,41.0045204"
 draft: "false"
 weight: "999"

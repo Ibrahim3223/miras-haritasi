@@ -4,8 +4,7 @@ date: "2025-12-24T22:19:42+03:00"
 slug: "rustem-celebi-cami"
 description: "## Rüstem Çelebi Cami..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

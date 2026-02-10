@@ -4,8 +4,7 @@ date: "2025-12-24T22:55:46+03:00"
 slug: "hadimkoy-hadim-baba-camii"
 description: "### Hadımköy Hadım Baba Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

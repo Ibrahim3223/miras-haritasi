@@ -5,10 +5,10 @@ slug: "yenikapi-mevlevhanesi-sebili"
 description: "### Yenikapı Mevlevîhanesi Sebili..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.917572,41.0144539"
 draft: "false"
 weight: "999"

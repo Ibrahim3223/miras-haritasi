@@ -5,10 +5,10 @@ slug: "menderes-cesmesi"
 description: "## Menderes Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Menderes_Çeşmesi_IMG_4456.jpg/1200px-Menderes_Çeşmesi_IMG_4456.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Esenler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.880997,41.039404"
 draft: "false"
 weight: "10"

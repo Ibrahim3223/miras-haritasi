@@ -4,8 +4,7 @@ date: "2025-12-25T08:34:39+03:00"
 slug: "hamzabeyli-sinir-kapisi"
 description: "## Hamzabeyli Sınır Kapısı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kervansaray"
 turler: ["Kervansaray"]

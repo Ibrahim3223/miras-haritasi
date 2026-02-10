@@ -4,8 +4,7 @@ date: "2025-12-25T05:18:15+03:00"
 slug: "thouththourbia"
 description: "## Thouththourbia: Eski Dünya'nın Gizli Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

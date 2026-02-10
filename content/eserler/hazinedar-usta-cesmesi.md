@@ -5,10 +5,10 @@ slug: "hazinedar-usta-cesmesi"
 description: "### Hazinedar Usta Çeşmesi: Fatih'in Gizli Cenneti..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Hazinedar_Usta_Çeşmesi.jpg/1200px-Hazinedar_Usta_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945257,41.005085"
 draft: "false"
 weight: "10"

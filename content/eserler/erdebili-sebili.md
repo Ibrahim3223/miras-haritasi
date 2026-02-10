@@ -5,10 +5,10 @@ slug: "erdebili-sebili"
 description: "## Erdebili Sebili: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9794712,41.0097504"
 draft: "false"
 weight: "999"

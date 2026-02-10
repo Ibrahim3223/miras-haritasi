@@ -5,10 +5,10 @@ slug: "ayazma-suyu-cesmesi"
 description: "## Ayazma Suyu Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Ayazma_Suyu_emesi_1761584988.jpg/1200px-Ayazma_Suyu_emesi_1761584988.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.2320213,40.9149704"
 draft: "false"
 weight: "10"

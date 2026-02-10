@@ -5,10 +5,10 @@ slug: "hoca-mustafa-cesmesi"
 description: "## Hoca Mustafa Çeşmesi..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8556137,39.9383316"
 draft: "false"
 weight: "999"

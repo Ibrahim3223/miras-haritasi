@@ -5,10 +5,10 @@ slug: "abdullah-aga-cesmesi-molla-husrev"
 description: "## Abdullah Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.96122,41.015112"
 draft: "false"
 weight: "999"

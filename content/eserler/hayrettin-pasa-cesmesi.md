@@ -5,10 +5,10 @@ slug: "hayrettin-pasa-cesmesi"
 description: "## Hayrettin Paşa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.934216,41.048809"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-24T22:54:02+03:00"
 slug: "fevziye-kucukefendi-camii"
 description: "## Fevziye Küçükefendi Camii..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "yahsi-meydan-cesmesi"
 description: "## Yahşi Meydan Çeşmesi: Bodrum'un Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3315887,37.0425186"
 draft: "false"
 weight: "999"

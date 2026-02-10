@@ -5,10 +5,10 @@ slug: "burhaniye-cesmesi"
 description: "### Burhaniye Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.04739,41.029065"
 draft: "false"
 weight: "999"

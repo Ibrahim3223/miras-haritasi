@@ -4,8 +4,7 @@ date: "2025-12-24T21:59:00+03:00"
 slug: "ferruhsah-camii"
 description: "## Ferruhşah Camii: Tarihi ve Kültürel Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

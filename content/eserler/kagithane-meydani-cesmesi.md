@@ -5,10 +5,10 @@ slug: "kagithane-meydani-cesmesi"
 description: "## Kağıthane Meydanı Çeşmesi: İstanbul'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kağıthane"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.972184,41.080517"
 draft: "false"
 weight: "999"

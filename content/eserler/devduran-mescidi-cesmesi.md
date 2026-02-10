@@ -5,10 +5,10 @@ slug: "devduran-mescidi-cesmesi"
 description: "## Devduran Mescidi Çeşmesi: Altındağ'daki Bir Önemli Kültürel Miras..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8639565,39.9388428"
 draft: "false"
 weight: "999"

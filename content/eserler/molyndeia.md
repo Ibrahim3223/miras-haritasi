@@ -4,8 +4,7 @@ date: "2025-12-25T04:57:42+03:00"
 slug: "molyndeia"
 description: "## Molyndeia: Tarihî Mirasın Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

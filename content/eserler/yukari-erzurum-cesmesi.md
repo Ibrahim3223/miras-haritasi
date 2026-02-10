@@ -5,10 +5,10 @@ slug: "yukari-erzurum-cesmesi"
 description: "## Yukarı Erzurum Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8682518,39.9321938"
 draft: "false"
 weight: "999"

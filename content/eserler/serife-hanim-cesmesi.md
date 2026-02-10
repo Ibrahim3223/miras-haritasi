@@ -5,10 +5,10 @@ slug: "serife-hanim-cesmesi"
 description: "### Şerife Hanım Çeşmesi: Ezine'nin Değerli Mirası..."
 featured_image: ""
 province: "Ezine"
-iller: '["Ezine"]'
+iller: ["Ezine"]
 district: "Ezine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.333712269,39.786099612"
 draft: "false"
 weight: "999"

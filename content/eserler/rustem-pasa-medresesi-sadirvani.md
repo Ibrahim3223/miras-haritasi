@@ -5,10 +5,10 @@ slug: "rustem-pasa-medresesi-sadirvani"
 description: "### Rüstem Paşa Medresesi Şadırvanı: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9723969,41.0131645"
 draft: "false"
 weight: "999"

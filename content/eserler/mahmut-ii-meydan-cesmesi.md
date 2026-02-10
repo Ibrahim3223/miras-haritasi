@@ -5,10 +5,10 @@ slug: "mahmut-ii-meydan-cesmesi"
 description: "## Mahmut II Meydan Çeşmesi: Beylerbeyi'nin Ihtişamlı Eserleri Arasinda..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Üsküdar_-_Mahmut_II_Square_Fountain_-_20250405123305.jpg/1200px-Üsküdar_-_Mahmut_II_Square_Fountain_-_20250405123305.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0453148,41.0450897"
 draft: "false"
 weight: "10"

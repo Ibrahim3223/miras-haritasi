@@ -5,10 +5,10 @@ slug: "surp-asdvadzadzin-ermeni-kilisesi-cesmesi"
 description: "## Surp Asdvadzadzin Ermeni Kilisesi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Surp_Asdvadzadzin_Ermeni_Kilisesi_Çeşmesi_IMG_7415.jpg/1200px-Surp_Asdvadzadzin_Ermeni_Kilisesi_Çeşmesi_IMG_7415.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.062279,41.117127"
 draft: "false"
 weight: "10"

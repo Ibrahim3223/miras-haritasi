@@ -4,8 +4,7 @@ date: "2025-12-24T23:09:46+03:00"
 slug: "suludere-camii"
 description: "## Suludere Camii: İzmir'in Gizli Çehresini Gerçekleştiren Bir Anıt..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Cami"
 turler: ["Cami"]

@@ -5,10 +5,10 @@ slug: "cesme-calti"
 description: "## Çaltı Çeşmesi: Aydın'ın Efsanevi Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Çine"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.0312996,37.6525002"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "orta-mahalle-cesmesi"
 description: "### Orta Mahalle Çeşmesi: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.85289,37.8449326"
 draft: "false"
 weight: "999"

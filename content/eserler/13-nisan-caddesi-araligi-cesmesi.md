@@ -5,10 +5,10 @@ slug: "13-nisan-caddesi-araligi-cesmesi"
 description: "## 13 Nisan Caddesi Aralığı Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Ayvalık"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.6958694,39.3160667"
 draft: "false"
 weight: "999"

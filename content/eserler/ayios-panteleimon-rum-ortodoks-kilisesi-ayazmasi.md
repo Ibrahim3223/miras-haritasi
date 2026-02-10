@@ -5,10 +5,10 @@ slug: "ayios-panteleimon-rum-ortodoks-kilisesi-ayazmasi"
 description: "## Ayios Panteleimon Rum Ortodoks Kilisesi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.030682655,41.034596784"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "karakaya-cesmesi"
 description: "## Karakaya Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Bodrum"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2641907,37.0621185"
 draft: "false"
 weight: "999"

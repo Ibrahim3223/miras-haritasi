@@ -5,10 +5,10 @@ slug: "toraman-mescidi-cesmesi"
 description: "### Toraman Mescidi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1362724,38.415451"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:36+03:00"
 slug: "kymnissa"
 description: "## Kymnissa Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

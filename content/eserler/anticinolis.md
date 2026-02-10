@@ -4,8 +4,7 @@ date: "2025-12-25T04:42:38+03:00"
 slug: "anticinolis"
 description: "## Anticinolis Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

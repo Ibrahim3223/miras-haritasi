@@ -5,10 +5,10 @@ slug: "pehlivan-ibrahim-aga-cesmesi-bayindir"
 description: "## Pehlivan İbrahim Ağa Çeşmesi, Bayındır..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6079998,38.2206993"
 draft: "false"
 weight: "999"

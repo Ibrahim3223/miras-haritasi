@@ -5,10 +5,10 @@ slug: "hafiz-isa-aga-cesmesi"
 description: "# Hafız İsa Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Hafız_İsa_Ağa_Çeşmesi.jpg/1200px-Hafız_İsa_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0134315,41.0156364"
 draft: "false"
 weight: "10"

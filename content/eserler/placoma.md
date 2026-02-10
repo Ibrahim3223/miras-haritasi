@@ -4,8 +4,7 @@ date: "2025-12-25T04:55:55+03:00"
 slug: "placoma"
 description: "## Placoma: Geçmişten Günümüze Eski Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

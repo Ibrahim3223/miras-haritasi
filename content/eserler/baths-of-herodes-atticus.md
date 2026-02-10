@@ -4,8 +4,7 @@ date: "2025-12-25T05:35:15+03:00"
 slug: "baths-of-herodes-atticus"
 description: "## Baths of Herodes Atticus..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/1/14/Baths_of_Herodes_Atticus_%28Capo_di_Bove%29%2C_built_in_the_2nd_century_AD_on_the_fourth_mile_of_the_Appian_Way%2C_Via_Appia%2C_Rome_%289091626798%29.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

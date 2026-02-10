@@ -4,8 +4,7 @@ date: "2025-12-25T05:10:50+03:00"
 slug: "sibidunda"
 description: "## Sibidunda: Bir Arkeolojik Sitin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

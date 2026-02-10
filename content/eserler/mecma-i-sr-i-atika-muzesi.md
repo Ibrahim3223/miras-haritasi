@@ -4,8 +4,7 @@ date: "2025-12-25T03:21:49+03:00"
 slug: "mecma-i-sr-i-atika-muzesi"
 description: "## Mecma-ı Âsâr-ı Atika Müzesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

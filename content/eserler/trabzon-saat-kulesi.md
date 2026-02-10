@@ -4,8 +4,7 @@ date: "2025-12-25T17:18:21+03:00"
 slug: "trabzon-saat-kulesi"
 description: "## Trabzon Saat Kulesi ..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Saat Kulesi"
 turler: ["Saat Kulesi"]

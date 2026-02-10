@@ -5,10 +5,10 @@ slug: "sultan-ii-mahmut-cesmesi-cengelkoy"
 description: "## Sultan II. Mahmut Çeşmesi, Çengelköy..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.05364,41.049629"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "amber-aga-cesmesi"
 description: "## Amber Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Amber_Ağa_Çeşmesi.jpg/1200px-Amber_Ağa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9983425,41.0449409"
 draft: "false"
 weight: "10"

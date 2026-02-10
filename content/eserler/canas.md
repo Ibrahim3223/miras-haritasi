@@ -4,8 +4,7 @@ date: "2025-12-25T04:57:05+03:00"
 slug: "canas"
 description: "# Canas: Türkiye'nin Eski Medeniyetinin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

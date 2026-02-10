@@ -4,8 +4,7 @@ date: "2025-12-25T04:56:57+03:00"
 slug: "thyaira"
 description: "## Thyaira: Eski Yunanistan'ın Gizli Kahramanı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

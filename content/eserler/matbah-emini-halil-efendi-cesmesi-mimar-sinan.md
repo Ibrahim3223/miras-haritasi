@@ -5,10 +5,10 @@ slug: "matbah-emini-halil-efendi-cesmesi-mimar-sinan"
 description: "**Matbah Emini Halil Efendi Çeşmesi, Mimar Sinan**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Matbah_Emini_Halil_Efendi_Çeşmesi,_Mimar_Sinan.jpg/1200px-Matbah_Emini_Halil_Efendi_Çeşmesi,_Mimar_Sinan.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.020303,41.023748"
 draft: "false"
 weight: "10"

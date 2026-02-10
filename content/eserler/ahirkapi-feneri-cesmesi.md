@@ -5,10 +5,10 @@ slug: "ahirkapi-feneri-cesmesi"
 description: "### Ahırkapı Feneri Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.986357,41.008442"
 draft: "false"
 weight: "999"

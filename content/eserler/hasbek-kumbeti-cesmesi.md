@@ -5,10 +5,10 @@ slug: "hasbek-kumbeti-cesmesi"
 description: "## Hasbek Kümbeti Çeşmesi: Kayseri'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Kocasinan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4819221,38.7227249"
 draft: "false"
 weight: "999"

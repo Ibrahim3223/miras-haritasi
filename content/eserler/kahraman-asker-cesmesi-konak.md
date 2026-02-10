@@ -5,10 +5,10 @@ slug: "kahraman-asker-cesmesi-konak"
 description: "## Kahraman Asker Çeşmesi: İzmir'in Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1528797,38.4283142"
 draft: "false"
 weight: "999"

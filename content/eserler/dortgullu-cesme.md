@@ -5,10 +5,10 @@ slug: "dortgullu-cesme"
 description: "## Dörtgüllü Çeşme: Yakutiye'nin Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2691879,39.9039154"
 draft: "false"
 weight: "999"

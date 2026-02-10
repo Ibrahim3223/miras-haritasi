@@ -5,10 +5,10 @@ slug: "omer-muharrem-sefkatiye-cesmesi"
 description: "### Ömer Muharrem Şefkatiye Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8460445,37.8496284"
 draft: "false"
 weight: "999"

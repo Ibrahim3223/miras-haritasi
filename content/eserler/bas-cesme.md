@@ -5,10 +5,10 @@ slug: "bas-cesme"
 description: "## Baş Çeşme: Afyonkarahisar'ın Şirin Çeşmesi..."
 featured_image: ""
 province: "Afyonkarahisar"
-iller: '["Afyonkarahisar"]'
+iller: ["Afyonkarahisar"]
 district: "Afyonkarahisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.5339851,38.7579765"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cinarli-camasirhanesi-ve-cesmesi"
 description: "## Çınarlı Çamaşırhanesi ve Çeşmesi..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Gökçeada"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "25.9064007,40.1908989"
 draft: "false"
 weight: "999"

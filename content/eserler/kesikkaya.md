@@ -4,8 +4,7 @@ date: "2025-12-25T08:27:55+03:00"
 slug: "kesikkaya"
 description: "### Kesikkaya: Tarihi ve Kültürel Miras..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Ḫattuša_Kesikkaya_09.jpg/1200px-Ḫattuša_Kesikkaya_09.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

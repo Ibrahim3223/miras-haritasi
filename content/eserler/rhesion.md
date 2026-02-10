@@ -4,8 +4,7 @@ date: "2025-12-25T04:53:18+03:00"
 slug: "rhesion"
 description: "### Rhesion Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

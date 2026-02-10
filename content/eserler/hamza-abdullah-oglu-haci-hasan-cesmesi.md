@@ -5,10 +5,10 @@ slug: "hamza-abdullah-oglu-haci-hasan-cesmesi"
 description: "## Hamza Abdullah Oğlu Hacı Hasan Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Yenipazar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2732391,37.8377991"
 draft: "false"
 weight: "999"

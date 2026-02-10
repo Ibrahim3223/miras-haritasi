@@ -5,10 +5,10 @@ slug: "orenkaya-koyu-cesmesi"
 description: "## Örenkaya Köyü Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.8766975,40.954586"
 draft: "false"
 weight: "999"

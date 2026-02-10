@@ -5,10 +5,10 @@ slug: "gumusluk-cesmesi"
 description: "### Gümüşlük Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7726765,37.317997"
 draft: "false"
 weight: "999"

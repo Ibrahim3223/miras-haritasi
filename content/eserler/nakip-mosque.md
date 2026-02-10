@@ -4,8 +4,7 @@ date: "2025-12-24T21:50:36+03:00"
 slug: "nakip-mosque"
 description: "## Nakip Camii: Tarihi ve Kültürel Miras..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Cami"
 turler: ["Cami"]

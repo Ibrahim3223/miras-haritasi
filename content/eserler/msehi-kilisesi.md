@@ -4,8 +4,7 @@ date: "2025-12-25T09:05:17+03:00"
 slug: "msehi-kilisesi"
 description: "## Mşehi Kilisesi: Ermeni Kilisesi ve Tarihi Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

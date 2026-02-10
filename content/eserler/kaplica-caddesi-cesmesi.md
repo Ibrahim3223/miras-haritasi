@@ -5,10 +5,10 @@ slug: "kaplica-caddesi-cesmesi"
 description: "## Kaplıca Caddesi Çeşmesi: Bursa'nın Tarihi Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0482178,40.1868553"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T05:04:14+03:00"
 slug: "bithynium"
 description: "## Bithynium: Bithynia'da Antik Bir Yerleşme..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "eskicioglu-cesmesi-urla"
 description: "## Eskicioğlu Çeşmesi: Urla'nın Tarihi Bir Mirası..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Urla"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.7707253,38.3192024"
 draft: "false"
 weight: "999"

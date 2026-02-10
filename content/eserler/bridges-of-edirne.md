@@ -4,8 +4,7 @@ date: "2025-12-25T03:05:51+03:00"
 slug: "bridges-of-edirne"
 description: "## Köprüler Edirne..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Edirne_Meric_Bridge_1.JPG/1200px-Edirne_Meric_Bridge_1.JPG"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

@@ -4,8 +4,7 @@ date: "2025-12-25T08:52:36+03:00"
 slug: "saint-ohan-church-baberd"
 description: "## Saint Ohan Church (Baberd)..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kilise"
 turler: ["Kilise"]

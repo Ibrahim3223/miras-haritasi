@@ -5,10 +5,10 @@ slug: "macar-tabya-caddesi-cesmesi"
 description: "## Macar Tabya Caddesi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.087808,41.170628"
 draft: "false"
 weight: "999"

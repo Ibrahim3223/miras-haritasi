@@ -5,10 +5,10 @@ slug: "dilsiz-suleyman-aga-cesmesi-cerrahpasa"
 description: "**Dilsiz Süleyman Ağa Çeşmesi: İstanbul'un Gizli Cenneti**..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.937004,41.002827"
 draft: "false"
 weight: "999"

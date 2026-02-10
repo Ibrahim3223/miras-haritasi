@@ -4,8 +4,7 @@ date: "2025-12-25T04:49:31+03:00"
 slug: "tipaso"
 description: "## Tipaso: Afrika'nın En Eski Roma Kentlerinden Biri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

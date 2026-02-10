@@ -5,10 +5,10 @@ slug: "kavakli-meydan-cesmesi"
 description: "## Kavaklı Meydan Çeşmesi: Aydın'da Bir Kültür Mirası..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.3025627,37.7515373"
 draft: "false"
 weight: "999"

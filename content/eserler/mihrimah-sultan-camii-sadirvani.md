@@ -5,10 +5,10 @@ slug: "mihrimah-sultan-camii-sadirvani"
 description: "## Mihrimah Sultan Camii Şadırvanı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mihrimah_Sultan_Camii_Şadırvanı.jpg/1200px-Mihrimah_Sultan_Camii_Şadırvanı.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.015837639,41.02693902"
 draft: "false"
 weight: "10"

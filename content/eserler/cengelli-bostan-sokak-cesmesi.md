@@ -5,10 +5,10 @@ slug: "cengelli-bostan-sokak-cesmesi"
 description: "### Çengelli Bostan Sokak Çeşmesi: Üsküdar'daki Bir Tarihi Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0562305,41.0505676"
 draft: "false"
 weight: "999"

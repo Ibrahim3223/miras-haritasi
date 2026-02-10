@@ -5,10 +5,10 @@ slug: "sazelli-sokak-cesmesi-bergama"
 description: "### Şazelli Sokak Çeşmesi, Bergama..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1842995,39.1240005"
 draft: "false"
 weight: "999"

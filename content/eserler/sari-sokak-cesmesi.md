@@ -5,10 +5,10 @@ slug: "sari-sokak-cesmesi"
 description: "## Sarı Sokak Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuşadası"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.2579994,37.8563538"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T01:57:17+03:00"
 slug: "bicakci-koprusu"
 description: "# Bıçakçı Köprüsü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

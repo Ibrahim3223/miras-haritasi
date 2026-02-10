@@ -5,10 +5,10 @@ slug: "zincirli-camii-cesmesi"
 description: "### Zincirli Camii Çeşmesi: Altındağ'un Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacı Bayram"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8561516,39.941906"
 draft: "false"
 weight: "999"

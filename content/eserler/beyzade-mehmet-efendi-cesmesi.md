@@ -5,10 +5,10 @@ slug: "beyzade-mehmet-efendi-cesmesi"
 description: "### Beyzade Mehmet Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.932878,41.043213"
 draft: "false"
 weight: "999"

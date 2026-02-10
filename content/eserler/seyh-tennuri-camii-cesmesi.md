@@ -5,10 +5,10 @@ slug: "seyh-tennuri-camii-cesmesi"
 description: "## Şeyh Tennuri Camii Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.489521,38.7182999"
 draft: "false"
 weight: "999"

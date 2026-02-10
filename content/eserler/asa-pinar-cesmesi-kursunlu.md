@@ -5,10 +5,10 @@ slug: "asa-pinar-cesmesi-kursunlu"
 description: "## Asa Pınar Çeşmesi, Kurşunlu..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Kurşunlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.286623373,40.779372633"
 draft: "false"
 weight: "999"

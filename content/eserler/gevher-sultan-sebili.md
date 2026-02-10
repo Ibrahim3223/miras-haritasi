@@ -5,10 +5,10 @@ slug: "gevher-sultan-sebili"
 description: "## Gevher Sultan Sebili: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9573364,41.0132523"
 draft: "false"
 weight: "999"

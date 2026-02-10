@@ -5,10 +5,10 @@ slug: "mesih-ali-pasa-cesmesi"
 description: "## Mesih Ali Paşa Çeşmesi: Fatih'teki Bir Çeşme Eseri..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Mesih_Ali_Paşa_Çeşmesi.jpg/1200px-Mesih_Ali_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.943572,41.021591"
 draft: "false"
 weight: "10"

@@ -5,10 +5,10 @@ slug: "veyis-efendi-cesmesi"
 description: "## Veyis Efendi Çeşmesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2861938,39.9069557"
 draft: "false"
 weight: "999"

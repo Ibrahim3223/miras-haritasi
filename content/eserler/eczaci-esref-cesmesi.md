@@ -5,10 +5,10 @@ slug: "eczaci-esref-cesmesi"
 description: "### Eczacı Eşref Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9349592,41.0530524"
 draft: "false"
 weight: "999"

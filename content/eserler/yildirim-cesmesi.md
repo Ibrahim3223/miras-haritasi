@@ -5,10 +5,10 @@ slug: "yildirim-cesmesi"
 description: "### Yıldırım Çeşmesi: Bursa'nın Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0813599,40.1873474"
 draft: "false"
 weight: "999"

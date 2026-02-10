@@ -5,10 +5,10 @@ slug: "asagi-cesme"
 description: "## Aşağı Çeşme: Bodrum'un Gizli Çeşmesi..."
 featured_image: ""
 province: "Bodrum"
-iller: '["Bodrum"]'
+iller: ["Bodrum"]
 district: "Yalıkavak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.299984,37.0858231"
 draft: "false"
 weight: "999"

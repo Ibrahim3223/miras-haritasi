@@ -5,10 +5,10 @@ slug: "fatima-kadin-cesmesi"
 description: "## Fatıma Kadın Çeşmesi: Marmara'nın Tarihî Bir Örneği..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Marmara"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5538559,40.5859756"
 draft: "false"
 weight: "999"

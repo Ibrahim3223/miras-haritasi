@@ -4,8 +4,7 @@ date: "2025-12-25T08:21:39+03:00"
 slug: "laekanius-bassus-cesmesi"
 description: "## Laekanius Bassus Çeşmesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

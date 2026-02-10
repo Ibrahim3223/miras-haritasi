@@ -5,10 +5,10 @@ slug: "sadirvan-of-aydin-cihanzade-mosque"
 description: "## Şadırvan of Aydın Cihanzade Mosque: Aydın'ın Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Koçarlı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.706645325,37.759873445"
 draft: "false"
 weight: "999"

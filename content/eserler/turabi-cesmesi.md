@@ -5,10 +5,10 @@ slug: "turabi-cesmesi"
 description: "### Turabi Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0891819,36.5760384"
 draft: "false"
 weight: "999"

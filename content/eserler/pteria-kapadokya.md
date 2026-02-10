@@ -4,8 +4,7 @@ date: "2025-12-25T04:27:08+03:00"
 slug: "pteria-kapadokya"
 description: "## Pteria (Kapadokya): Türkiye'nin Gizli Cenneti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

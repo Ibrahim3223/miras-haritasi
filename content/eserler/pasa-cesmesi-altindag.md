@@ -5,10 +5,10 @@ slug: "pasa-cesmesi-altindag"
 description: "### Paşa Çeşmesi, Altındağ..."
 featured_image: ""
 province: "Ankara"
-iller: '["Ankara"]'
+iller: ["Ankara"]
 district: "Altındağ"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8677177,39.9338913"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "koluk-camii-cesmesi"
 description: "### Kölük Camii Çeşmesi: Kayseri'nin Gizli Çarpıcılığı..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kayseri_Gülük_Camii_maybe_fountain_remains_2116.jpg/1200px-Kayseri_Gülük_Camii_maybe_fountain_remains_2116.jpg"
 province: "Kayseri"
-iller: '["Kayseri"]'
+iller: ["Kayseri"]
 district: "Melikgazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "35.4811516,38.7187233"
 draft: "false"
 weight: "10"

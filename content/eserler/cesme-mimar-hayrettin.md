@@ -5,10 +5,10 @@ slug: "cesme-mimar-hayrettin"
 description: "## Çeşme, Mimar Hayrettin: Fatih'te Bir İhtişamlı Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9656868,41.0055809"
 draft: "false"
 weight: "999"

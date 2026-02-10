@@ -5,10 +5,10 @@ slug: "piyale-pasa-camii-sadirvani"
 description: "## Piyale Paşa Camii Şadırvanı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beyoğlu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9655857,41.0448074"
 draft: "false"
 weight: "999"

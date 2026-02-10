@@ -5,10 +5,10 @@ slug: "anit-cesme-koyulhisar"
 description: "## Anıt Çeşme, Koyulhisar..."
 featured_image: ""
 province: "Sivas"
-iller: '["Sivas"]'
+iller: ["Sivas"]
 district: "Koyulhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "37.8309822,40.301487"
 draft: "false"
 weight: "999"

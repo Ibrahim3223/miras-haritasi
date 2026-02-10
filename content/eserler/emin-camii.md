@@ -4,8 +4,7 @@ date: "2025-12-24T22:52:26+03:00"
 slug: "emin-camii"
 description: "## Emin Camii Tanıtımı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

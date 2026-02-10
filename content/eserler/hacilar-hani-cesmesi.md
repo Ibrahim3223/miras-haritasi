@@ -5,10 +5,10 @@ slug: "hacilar-hani-cesmesi"
 description: "## Hacılar Hanı Çeşmesi: Yakutiye'nin Gizemli Abidesi..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2752113,39.9110527"
 draft: "false"
 weight: "999"

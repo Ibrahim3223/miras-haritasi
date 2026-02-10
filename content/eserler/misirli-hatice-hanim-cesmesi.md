@@ -5,10 +5,10 @@ slug: "misirli-hatice-hanim-cesmesi"
 description: "## Mısırlı Hatice Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mısırlı_Hatice_Hanım_Çeşmesi1,_Şile,_İstanbul_2024.jpg/1200px-Mısırlı_Hatice_Hanım_Çeşmesi1,_Şile,_İstanbul_2024.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Şile"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.610227,41.176192"
 draft: "false"
 weight: "10"

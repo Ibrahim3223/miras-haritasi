@@ -5,10 +5,10 @@ slug: "emirgan-cesmesi"
 description: "### Emirgan Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Emirgan_Çeşmesi_IMG_7501.jpg/1200px-Emirgan_Çeşmesi_IMG_7501.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.056242,41.104809"
 draft: "false"
 weight: "10"

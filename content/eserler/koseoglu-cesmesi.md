@@ -5,10 +5,10 @@ slug: "koseoglu-cesmesi"
 description: "## Köseoğlu Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Karacasu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.6068001,37.7282982"
 draft: "false"
 weight: "999"

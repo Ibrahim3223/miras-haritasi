@@ -4,8 +4,7 @@ date: "2025-12-25T17:47:18+03:00"
 slug: "bursa-yazma-ve-eski-basma-eserler-kutuphanesi"
 description: "## Bursa Yazma ve Eski Basma Eserler Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

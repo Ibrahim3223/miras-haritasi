@@ -5,10 +5,10 @@ slug: "su-bolumu-sokak-cesmesi"
 description: "## Su Bölümü Sokak Çeşmesi: Tarihi ve Kültürel Miras Değerleri..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bayındır"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.6430988,38.2238197"
 draft: "false"
 weight: "999"

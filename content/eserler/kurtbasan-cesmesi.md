@@ -5,10 +5,10 @@ slug: "kurtbasan-cesmesi"
 description: "## Kurtbasan Çeşmesi: Bursa'nın tarihi ve kültürel mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Emirsultan_camii_bursa_-_panoramio_(1).jpg/1200px-Emirsultan_camii_bursa_-_panoramio_(1).jpg"
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Yıldırım"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0806065,40.1811104"
 draft: "false"
 weight: "10"

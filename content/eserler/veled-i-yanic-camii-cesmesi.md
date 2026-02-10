@@ -5,10 +5,10 @@ slug: "veled-i-yanic-camii-cesmesi"
 description: "## Veled-i Yaniç Camii Çeşmesi..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0564938,40.1850929"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "cumakoy-lahit-cesme"
 description: "## Cumaköy Lahit Çeşme: Kocaeli'nin Gizli Çeşmesi..."
 featured_image: ""
 province: "Kocaeli"
-iller: '["Kocaeli"]'
+iller: ["Kocaeli"]
 district: "Körfez"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.7887001,40.9302673"
 draft: "false"
 weight: "999"

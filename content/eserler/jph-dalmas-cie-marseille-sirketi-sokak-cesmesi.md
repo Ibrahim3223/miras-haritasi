@@ -5,10 +5,10 @@ slug: "jph-dalmas-cie-marseille-sirketi-sokak-cesmesi"
 description: "### Jph Dalmas & Cie Marseille Şirketi Sokak Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Konak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1289387,38.4125938"
 draft: "false"
 weight: "999"

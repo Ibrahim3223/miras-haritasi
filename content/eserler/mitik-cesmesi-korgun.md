@@ -5,10 +5,10 @@ slug: "mitik-cesmesi-korgun"
 description: "## Mitik Çeşmesi, Korgun..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.516905648,40.733046541"
 draft: "false"
 weight: "999"

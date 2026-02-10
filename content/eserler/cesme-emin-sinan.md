@@ -5,10 +5,10 @@ slug: "cesme-emin-sinan"
 description: "## Çeşme, Emin Sinan: Fatih'ten Bir Örnek..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9683323,41.0058937"
 draft: "false"
 weight: "999"

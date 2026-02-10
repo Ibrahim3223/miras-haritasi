@@ -5,10 +5,10 @@ slug: "halil-abdurrahman-cesmesi"
 description: "## Halil Abdurrahman Çeşmesi: Fatih, İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.944375,41.030654"
 draft: "false"
 weight: "999"

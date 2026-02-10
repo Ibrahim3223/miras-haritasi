@@ -5,10 +5,10 @@ slug: "haci-cuma-cesmesi"
 description: "## Hacı Cuma Çeşmesi: Yakutiye'nin Tarihi Bir Mirası..."
 featured_image: ""
 province: "Erzurum"
-iller: '["Erzurum"]'
+iller: ["Erzurum"]
 district: "Yakutiye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "41.2796364,39.9078598"
 draft: "false"
 weight: "999"

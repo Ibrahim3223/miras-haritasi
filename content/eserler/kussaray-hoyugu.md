@@ -4,8 +4,7 @@ date: "2025-12-25T07:03:03+03:00"
 slug: "kussaray-hoyugu"
 description: "### Kuşsaray Höyüğü: Tarihi ve Kültürel Mirasın Ören Yeri..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

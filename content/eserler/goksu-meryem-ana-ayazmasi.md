@@ -5,10 +5,10 @@ slug: "goksu-meryem-ana-ayazmasi"
 description: "## Göksu Meryem Ana Ayazması: Beykoz'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beykoz"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0794582,41.0790596"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "aga-puhar-cesmesi"
 description: "### Ağa Puhar Çeşmesi..."
 featured_image: ""
 province: "Elazığ"
-iller: '["Elazığ"]'
+iller: ["Elazığ"]
 district: "Maden"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.66763,38.394358"
 draft: "false"
 weight: "999"

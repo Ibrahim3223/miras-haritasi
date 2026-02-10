@@ -5,10 +5,10 @@ slug: "mehmet-salih-efendi-cesmesi"
 description: "### Mehmet Salih Efendi Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.7341003,37.3726006"
 draft: "false"
 weight: "999"

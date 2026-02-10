@@ -4,8 +4,7 @@ date: "2025-12-25T15:42:30+03:00"
 slug: "karaoglanoglu-sehitligi"
 description: "# Karaoğlanoğlu Şehitliği: Türkiye'nin Kurtuluş Savaşı'nın Onurlu Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Karaoğlanoğlu_Şehitliği.jpg/1200px-Karaoğlanoğlu_Şehitliği.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Anıt"
 turler: ["Anıt"]

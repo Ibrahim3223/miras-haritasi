@@ -5,10 +5,10 @@ slug: "belkahve-ataturk-cesmesi"
 description: "## Belkahve Atatürk Çeşmesi: Bornova, İzmir'in Tarihî Bir Anıtı..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bornova"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.3179321,38.4537964"
 draft: "false"
 weight: "999"

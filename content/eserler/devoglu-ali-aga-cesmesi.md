@@ -5,10 +5,10 @@ slug: "devoglu-ali-aga-cesmesi"
 description: "### Devoğlu Ali Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.966401,41.017246"
 draft: "false"
 weight: "999"

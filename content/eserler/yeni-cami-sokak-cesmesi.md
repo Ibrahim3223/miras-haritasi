@@ -5,10 +5,10 @@ slug: "yeni-cami-sokak-cesmesi"
 description: "### Yeni Cami Sokak Çeşmesi..."
 featured_image: ""
 province: "Trabzon"
-iller: '["Trabzon"]'
+iller: ["Trabzon"]
 district: "Akçaabat"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "39.5666809,41.0209579"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "osmanli-cesmesi-eskihisar"
 description: "## Osmanlı Çeşmesi, Eskihisar: Aydın'da Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Sultanhisar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.1362991,37.8927994"
 draft: "false"
 weight: "999"

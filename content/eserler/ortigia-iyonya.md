@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:34+03:00"
 slug: "ortigia-iyonya"
 description: "## Ortigia (İyonya): İyonya'nın Efsanevi Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

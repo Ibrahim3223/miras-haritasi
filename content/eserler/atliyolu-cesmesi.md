@@ -5,10 +5,10 @@ slug: "atliyolu-cesmesi"
 description: "## Atlıyolu Çeşmesi: Giresun'un Tarihi ve Kültürel Mirası..."
 featured_image: ""
 province: "Giresun"
-iller: '["Giresun"]'
+iller: ["Giresun"]
 district: "Tirebolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "38.821165,41.00387"
 draft: "false"
 weight: "999"

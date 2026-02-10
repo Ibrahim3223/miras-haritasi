@@ -4,8 +4,7 @@ date: "2025-12-25T07:07:23+03:00"
 slug: "bozuyuk-hoyugu"
 description: "## Bozüyük Höyüğü..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

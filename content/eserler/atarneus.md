@@ -4,8 +4,7 @@ date: "2025-12-25T04:18:03+03:00"
 slug: "atarneus"
 description: "## Atarneus: İzmir'in Tarihi Mirası..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Atarna(Atarneus)_Dikili_Turkey.jpg/1200px-Atarna(Atarneus)_Dikili_Turkey.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

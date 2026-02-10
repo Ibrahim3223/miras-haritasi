@@ -5,10 +5,10 @@ slug: "sultan-ahmet-sibyan-mektebi-cesmesi"
 description: "## Sultan Ahmet Sıbyan Mektebi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9777402,41.0059004"
 draft: "false"
 weight: "999"

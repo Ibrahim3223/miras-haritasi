@@ -5,10 +5,10 @@ slug: "dikenli-koyu-cesmesi-2-korgun"
 description: "### Dikenli Köyü Çeşmesi 2, Korgun..."
 featured_image: ""
 province: "Çankırı"
-iller: '["Çankırı"]'
+iller: ["Çankırı"]
 district: "Korgun ilçesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.52580609,40.789839677"
 draft: "false"
 weight: "999"

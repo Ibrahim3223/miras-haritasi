@@ -4,8 +4,7 @@ date: "2025-12-25T08:08:34+03:00"
 slug: "gentinos"
 description: "## Gentinos Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

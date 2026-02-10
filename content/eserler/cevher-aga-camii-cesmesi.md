@@ -5,10 +5,10 @@ slug: "cevher-aga-camii-cesmesi"
 description: "## Cevher Ağa Camii Çeşmesi: İstanbul'un Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Ümraniye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0909373,41.0251144"
 draft: "false"
 weight: "999"

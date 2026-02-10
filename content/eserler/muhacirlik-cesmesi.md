@@ -5,10 +5,10 @@ slug: "muhacirlik-cesmesi"
 description: "## Muhacirlik Çeşmesi: Muğla'nın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Q207998"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0946465,36.5760651"
 draft: "false"
 weight: "999"

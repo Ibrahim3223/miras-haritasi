@@ -5,10 +5,10 @@ slug: "cesme-ziyaretli"
 description: "## Çeşme, Ziyaretli: Bozdoğan, Aydın'da Bir Öne Çıkan Çeşme..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Bozdoğan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2971077,37.6844978"
 draft: "false"
 weight: "999"

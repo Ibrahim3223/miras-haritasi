@@ -5,10 +5,10 @@ slug: "cesme-mevlanakapi"
 description: "## Mevlanakapı Çeşmesi: Fatih'te Bir İhtişam..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9238548,41.0168571"
 draft: "false"
 weight: "999"

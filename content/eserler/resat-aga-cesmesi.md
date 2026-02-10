@@ -5,10 +5,10 @@ slug: "resat-aga-cesmesi"
 description: "## Reşat Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.027711,41.053994"
 draft: "false"
 weight: "999"

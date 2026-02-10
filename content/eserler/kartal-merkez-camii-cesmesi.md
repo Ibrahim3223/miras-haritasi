@@ -5,10 +5,10 @@ slug: "kartal-merkez-camii-cesmesi"
 description: "## Kartal Merkez Camii Çeşmesi: İstanbul'un Bir Diğer Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Kartal_Merkez_Camii_Çeşmesi_IMG_8170.jpg/1200px-Kartal_Merkez_Camii_Çeşmesi_IMG_8170.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kartal"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.1862583,40.8887978"
 draft: "false"
 weight: "10"

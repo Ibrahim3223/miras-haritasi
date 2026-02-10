@@ -5,10 +5,10 @@ slug: "sultan-ahmet-camii-harim-bolumu-cesmeleri"
 description: "### Sultan Ahmet Camii Harim Bölümü Çeşmeleri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9770432,41.0053787"
 draft: "false"
 weight: "1"

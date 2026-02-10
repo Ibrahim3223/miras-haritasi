@@ -4,8 +4,7 @@ date: "2025-12-25T04:51:43+03:00"
 slug: "tetrapyrgia"
 description: "## Tetrapyrgia: Antik Dönemden Kalan Bir Arkeolojik Harikadan Bahsetmek..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "sahaflar-carsisi-cesmesi"
 description: "# Sahaflar Çarşısı Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9659328,41.0104523"
 draft: "false"
 weight: "999"

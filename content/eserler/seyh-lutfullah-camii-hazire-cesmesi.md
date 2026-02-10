@@ -5,10 +5,10 @@ slug: "seyh-lutfullah-camii-hazire-cesmesi"
 description: "## Şeyh Lütfullah Camii Hazire Çeşmesi..."
 featured_image: ""
 province: "Balıkesir"
-iller: '["Balıkesir"]'
+iller: ["Balıkesir"]
 district: "Karesi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.886058874,39.648127469"
 draft: "false"
 weight: "999"

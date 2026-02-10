@@ -5,10 +5,10 @@ slug: "tevfik-sirri-gur-cesmesi"
 description: "### Tevfik Sırrı Gür Çeşmesi: Tarihî Mirasın Gözdesi..."
 featured_image: ""
 province: "Kırklareli"
-iller: '["Kırklareli"]'
+iller: ["Kırklareli"]
 district: "Babaeski"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.0917155,41.430304534"
 draft: "false"
 weight: "999"

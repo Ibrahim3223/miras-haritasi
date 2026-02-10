@@ -5,10 +5,10 @@ slug: "sofali-cesme-tirilye"
 description: "## Sofalı Çeşme: Tirilye'nin Tarihi Bir Çeşmesi..."
 featured_image: ""
 province: "Mudanya"
-iller: '["Mudanya"]'
+iller: ["Mudanya"]
 district: "Tirilye"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.796111111,40.392444444"
 draft: "false"
 weight: "999"

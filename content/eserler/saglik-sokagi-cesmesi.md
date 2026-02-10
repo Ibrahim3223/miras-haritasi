@@ -5,10 +5,10 @@ slug: "saglik-sokagi-cesmesi"
 description: "### Sağlık Sokağı Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Sağlık_Sokağı_Çeşmesi-1.jpg/1200px-Sağlık_Sokağı_Çeşmesi-1.jpg"
 province: "Karabük"
-iller: '["Karabük"]'
+iller: ["Karabük"]
 district: "Safranbolu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.6841927,41.2529068"
 draft: "false"
 weight: "10"

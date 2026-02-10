@@ -5,10 +5,10 @@ slug: "cezayirli-hasan-pasa-cesmesi-buyukdere"
 description: "## Cezayirli Hasan Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cezayirli_Hasan_Paşa_Çeşmesi,_Büyükdere_IMG_7309.jpg/1200px-Cezayirli_Hasan_Paşa_Çeşmesi,_Büyükdere_IMG_7309.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.036133,41.157036"
 draft: "false"
 weight: "10"

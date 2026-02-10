@@ -5,10 +5,10 @@ slug: "ayia-vlaherna-ayazmasi"
 description: "## Ayia Vlaherna Ayazması: Beşiktaş'ın Gizli Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0407982,41.0703735"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "damat-aga-cesmesi"
 description: "## Damat Ağa Çeşmesi..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5103703,40.9809608"
 draft: "false"
 weight: "999"

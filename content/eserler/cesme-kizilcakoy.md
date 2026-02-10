@@ -5,10 +5,10 @@ slug: "cesme-kizilcakoy"
 description: "## Çeşme, Kızılcaköy: Aydın'ın Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Efeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.774559,37.8708763"
 draft: "false"
 weight: "999"

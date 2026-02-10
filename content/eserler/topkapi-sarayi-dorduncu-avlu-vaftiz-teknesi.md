@@ -5,10 +5,10 @@ slug: "topkapi-sarayi-dorduncu-avlu-vaftiz-teknesi"
 description: "## Topkapı Sarayı Dördüncü Avlu Vaftiz Teknesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.984777777,41.013722222"
 draft: "false"
 weight: "1"

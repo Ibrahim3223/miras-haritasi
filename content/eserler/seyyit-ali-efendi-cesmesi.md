@@ -5,10 +5,10 @@ slug: "seyyit-ali-efendi-cesmesi"
 description: "## Seyyit Ali Efendi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.945665,41.0256"
 draft: "false"
 weight: "999"

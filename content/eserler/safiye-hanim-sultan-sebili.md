@@ -5,10 +5,10 @@ slug: "safiye-hanim-sultan-sebili"
 description: "## Safiye Hanım Sultan Sebili: İstanbul'un Tarihi Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9579755,41.0132848"
 draft: "false"
 weight: "999"

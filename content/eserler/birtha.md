@@ -4,8 +4,7 @@ date: "2025-12-25T04:28:56+03:00"
 slug: "birtha"
 description: "## Birtha Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

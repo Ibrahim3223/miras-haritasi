@@ -5,10 +5,10 @@ slug: "sogutlu-cesme-eskisehir"
 description: "## Söğütlü Çeşme: Eskişehir'in Gizli Çeşmesi..."
 featured_image: ""
 province: "Eskişehir"
-iller: '["Eskişehir"]'
+iller: ["Eskişehir"]
 district: "Odunpazarı"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "30.52178,39.7629395"
 draft: "false"
 weight: "999"

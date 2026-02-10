@@ -4,8 +4,7 @@ date: "2025-12-25T08:09:19+03:00"
 slug: "korikos-iyonya"
 description: "## Korikos, İyonya: Bir Antik Kentin Mirası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

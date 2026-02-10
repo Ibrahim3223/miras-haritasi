@@ -5,10 +5,10 @@ slug: "kazgani-sadi-sibyan-mektebi-cesmesi"
 description: "### Kazgani Sadi Sıbyan Mektebi Çeşmesi Tanıtımı..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.960143,41.004532"
 draft: "false"
 weight: "999"

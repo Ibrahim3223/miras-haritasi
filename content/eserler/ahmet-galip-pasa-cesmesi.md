@@ -5,10 +5,10 @@ slug: "ahmet-galip-pasa-cesmesi"
 description: "## Ahmet Galip Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ahmet_Galip_Paşa_Çeşmesi_03.jpg/1200px-Ahmet_Galip_Paşa_Çeşmesi_03.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.933512,41.028179"
 draft: "false"
 weight: "10"

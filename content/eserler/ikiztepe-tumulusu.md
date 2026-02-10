@@ -4,8 +4,7 @@ date: "2025-12-25T07:16:10+03:00"
 slug: "ikiztepe-tumulusu"
 description: "**İkiztepe Tümülüsü: İzmir'in Gizli Anıtı**..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

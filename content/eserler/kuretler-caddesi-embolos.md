@@ -4,8 +4,7 @@ date: "2025-12-25T08:17:47+03:00"
 slug: "kuretler-caddesi-embolos"
 description: "**Kuretler Caddesi (Embolos)**..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Looking_down_the_Street_of_Curetes_(16314212482).jpg/1200px-Looking_down_the_Street_of_Curetes_(16314212482).jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

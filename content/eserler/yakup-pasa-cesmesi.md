@@ -5,10 +5,10 @@ slug: "yakup-pasa-cesmesi"
 description: "### Yakup Paşa Çeşmesi..."
 featured_image: ""
 province: "Aydın"
-iller: '["Aydın"]'
+iller: ["Aydın"]
 district: "Kuyucak"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.4618988,37.9145851"
 draft: "false"
 weight: "999"

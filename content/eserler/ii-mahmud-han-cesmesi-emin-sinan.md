@@ -5,10 +5,10 @@ slug: "ii-mahmud-han-cesmesi-emin-sinan"
 description: "## II. Mahmud Han Çeşmesi, Emin Sinan..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9693031,41.0065308"
 draft: "false"
 weight: "999"

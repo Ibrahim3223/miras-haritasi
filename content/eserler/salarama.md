@@ -4,8 +4,7 @@ date: "2025-12-25T05:13:26+03:00"
 slug: "salarama"
 description: "## Salarama..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

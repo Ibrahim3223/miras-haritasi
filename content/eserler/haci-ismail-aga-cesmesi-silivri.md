@@ -5,10 +5,10 @@ slug: "haci-ismail-aga-cesmesi-silivri"
 description: "## Hacı İsmail Ağa Çeşmesi, Silivri..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Silivri"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.2444363,41.0734291"
 draft: "false"
 weight: "999"

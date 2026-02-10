@@ -4,8 +4,7 @@ date: "2025-12-25T04:47:46+03:00"
 slug: "trikomia"
 description: "## Trikomia Arkeolojik Sit..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

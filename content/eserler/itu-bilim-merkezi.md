@@ -4,8 +4,7 @@ date: "2025-12-25T03:24:56+03:00"
 slug: "itu-bilim-merkezi"
 description: "## İTÜ Bilim Merkezi: Bilim ve Teknolojiyi Yaşayan Bir Müze..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Müze"
 turler: ["Müze"]

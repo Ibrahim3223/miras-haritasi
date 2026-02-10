@@ -5,10 +5,10 @@ slug: "husrev-pasa-cesmesi-eyupsultan"
 description: "## Hüsrev Paşa Çeşmesi: Eyüpsultan'da Bir Geç Klasik Çeşme..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9326649,41.0482178"
 draft: "false"
 weight: "999"

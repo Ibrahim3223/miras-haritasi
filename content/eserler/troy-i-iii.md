@@ -4,8 +4,7 @@ date: "2025-12-25T06:54:54+03:00"
 slug: "troy-i-iii"
 description: "## Troy I-III..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Troy_I_wall_2642.jpg/1200px-Troy_I_wall_2642.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

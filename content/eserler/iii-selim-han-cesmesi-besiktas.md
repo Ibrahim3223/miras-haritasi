@@ -5,10 +5,10 @@ slug: "iii-selim-han-cesmesi-besiktas"
 description: "## III. Selim Han Çeşmesi, Beşiktaş..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/III._Selim_Han_Çeşmesi1,_Beşiktaş,_İstanbul_2023.jpg/1200px-III._Selim_Han_Çeşmesi1,_Beşiktaş,_İstanbul_2023.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.004274,41.046008"
 draft: "false"
 weight: "10"

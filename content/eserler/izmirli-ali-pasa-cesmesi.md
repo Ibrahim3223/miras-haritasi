@@ -5,10 +5,10 @@ slug: "izmirli-ali-pasa-cesmesi"
 description: "## İzmirli Ali Paşa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/İzmirli_Ali_Paşa_Çeşmesi.jpg/1200px-İzmirli_Ali_Paşa_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.011832,41.019204"
 draft: "false"
 weight: "10"

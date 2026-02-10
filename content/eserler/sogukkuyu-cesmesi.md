@@ -5,10 +5,10 @@ slug: "sogukkuyu-cesmesi"
 description: "## Soğukkuyu Çeşmesi: Tekirdağ'ın Tarihî ve Kültürel Mirası..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Süleymanpaşa"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.5178928,40.9810028"
 draft: "false"
 weight: "999"

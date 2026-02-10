@@ -5,10 +5,10 @@ slug: "haci-hanim-cesmesi-uskudar"
 description: "## Hacı Hanım Çeşmesi: Üsküdar'ın Gizli Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Üsküdar_-_Hacı_Hanım_Çeşmesi_(Üsküdar)_-_20250405131916.jpg/1200px-Üsküdar_-_Hacı_Hanım_Çeşmesi_(Üsküdar)_-_20250405131916.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0540921,41.047583"
 draft: "false"
 weight: "10"

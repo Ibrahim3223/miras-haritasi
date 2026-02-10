@@ -5,10 +5,10 @@ slug: "karacaagac-cesmesi"
 description: "### Karacaağaç Çeşmesi..."
 featured_image: ""
 province: "Muğla"
-iller: '["Muğla"]'
+iller: ["Muğla"]
 district: "Milas"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.8977718,37.1675606"
 draft: "false"
 weight: "999"

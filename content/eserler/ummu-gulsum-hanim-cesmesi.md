@@ -5,10 +5,10 @@ slug: "ummu-gulsum-hanim-cesmesi"
 description: "### Ümmü Gülsüm Hanım Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ümmü_Gülsüm_Hanım_Çeşmesi1.jpg/1200px-Ümmü_Gülsüm_Hanım_Çeşmesi1.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.023130751,41.020391584"
 draft: "false"
 weight: "10"

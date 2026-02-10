@@ -5,10 +5,10 @@ slug: "mahmut-sevket-pasa-caddesi-cesmesi"
 description: "## Mahmut Şevket Paşa Caddesi Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1851006,39.1235008"
 draft: "false"
 weight: "999"

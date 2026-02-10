@@ -5,10 +5,10 @@ slug: "bekirdede-sokak-cesmesi"
 description: "### Bekirdede Sokak Çeşmesi: Osmangazi, Bursa'da Bir Çağdaş Anıtsal Çeşme..."
 featured_image: ""
 province: "Bursa"
-iller: '["Bursa"]'
+iller: ["Bursa"]
 district: "Osmangazi"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0632133,40.1868896"
 draft: "false"
 weight: "999"

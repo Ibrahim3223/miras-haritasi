@@ -5,10 +5,10 @@ slug: "imam-hasan-efendi-cesmesi"
 description: "# İmam Hasan Efendi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/İmam_Hasan_Efendi_Çeşmesi_IMG_0375.jpg/1200px-İmam_Hasan_Efendi_Çeşmesi_IMG_0375.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Sarıyer"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.022141,41.219993"
 draft: "false"
 weight: "10"

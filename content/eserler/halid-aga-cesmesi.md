@@ -5,10 +5,10 @@ slug: "halid-aga-cesmesi"
 description: "## Halid Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Halid_Ağa_Fountain,_Kadıköy.jpg/1200px-Halid_Ağa_Fountain,_Kadıköy.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.028025111,40.991211111"
 draft: "false"
 weight: "10"

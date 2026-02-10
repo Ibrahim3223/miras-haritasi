@@ -4,8 +4,7 @@ date: "2025-12-25T04:54:50+03:00"
 slug: "kasossos"
 description: "## Kasossos: Antik Çağ'ın Gizemli Arkeolojik Sitesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

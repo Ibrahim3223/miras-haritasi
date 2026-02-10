@@ -5,10 +5,10 @@ slug: "uc-oluklu-cesme"
 description: "**Üç Oluklu Çeşme**..."
 featured_image: ""
 province: "Manisa"
-iller: '["Manisa"]'
+iller: ["Manisa"]
 district: "Şehzadeler"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.4394379,38.6256714"
 draft: "false"
 weight: "999"

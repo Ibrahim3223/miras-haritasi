@@ -5,10 +5,10 @@ slug: "ciplak-koyu-meydan-cesmesi"
 description: "**Çıplak Köyü Meydan Çeşmesi**..."
 featured_image: ""
 province: "Çanakkale"
-iller: '["Çanakkale"]'
+iller: ["Çanakkale"]
 district: "Çanakkale (ilçe)"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.2614326,39.951313"
 draft: "false"
 weight: "999"

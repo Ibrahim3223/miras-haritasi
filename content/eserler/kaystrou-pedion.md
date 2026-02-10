@@ -4,8 +4,7 @@ date: "2025-12-25T05:21:18+03:00"
 slug: "kaystrou-pedion"
 description: "## Kaystrou Pedion: Antik Yunanistan'ın Gizli Harikası..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

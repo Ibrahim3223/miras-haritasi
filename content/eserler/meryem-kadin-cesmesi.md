@@ -5,10 +5,10 @@ slug: "meryem-kadin-cesmesi"
 description: "## Meryem Kadın Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Üsküdar"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0653076,41.0268135"
 draft: "false"
 weight: "999"

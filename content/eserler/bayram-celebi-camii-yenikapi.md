@@ -4,8 +4,7 @@ date: "2025-12-24T22:48:08+03:00"
 slug: "bayram-celebi-camii-yenikapi"
 description: "### Bayram Çelebi Camii Yenikapı..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Cami"
 turler: ["Cami"]

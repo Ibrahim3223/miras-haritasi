@@ -5,10 +5,10 @@ slug: "yaver-aga-cesmesi"
 description: "### Yaver Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.962806,41.0223807"
 draft: "false"
 weight: "999"

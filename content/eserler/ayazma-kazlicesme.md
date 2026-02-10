@@ -5,10 +5,10 @@ slug: "ayazma-kazlicesme"
 description: "## Ayazma, Kazlıçeşme: İstanbul'un Gizli Cenneti..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Zeytinburnu"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9178333,40.9945335"
 draft: "false"
 weight: "999"

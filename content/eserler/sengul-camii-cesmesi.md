@@ -5,10 +5,10 @@ slug: "sengul-camii-cesmesi"
 description: "### Şengül Camii Çeşmesi..."
 featured_image: ""
 province: "Kütahya"
-iller: '["Kütahya"]'
+iller: ["Kütahya"]
 district: "Kütahya"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9744072,39.4163246"
 draft: "false"
 weight: "999"

@@ -4,8 +4,7 @@ date: "2025-12-25T17:57:58+03:00"
 slug: "wikilala"
 description: "## Wikilala: Fas'ın Klasik Kütüphanesi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Kütüphane"
 turler: ["Kütüphane"]

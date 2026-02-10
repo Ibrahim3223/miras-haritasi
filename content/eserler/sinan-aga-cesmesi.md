@@ -5,10 +5,10 @@ slug: "sinan-aga-cesmesi"
 description: "## Sinan Ağa Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.9575329,41.0088272"
 draft: "false"
 weight: "999"

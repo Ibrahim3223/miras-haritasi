@@ -5,10 +5,10 @@ slug: "tahta-camii-cesmesi"
 description: "## Tahta Camii Çeşmesi: Nevşehir'in Tarihî Bir Çeşmesi..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Nevşehir"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.7107353,38.6217308"
 draft: "false"
 weight: "999"

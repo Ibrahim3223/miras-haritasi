@@ -4,8 +4,7 @@ date: "2025-12-25T03:33:24+03:00"
 slug: "nese-ve-karikatur-muzesi"
 description: "## Neşe ve Karikatür Müzesi: İşte İzmir'in Komik Çehresi!..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: "İzmir"
 type: "Müze"
 turler: ["Müze"]

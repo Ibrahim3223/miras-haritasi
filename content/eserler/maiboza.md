@@ -4,8 +4,7 @@ date: "2025-12-25T05:13:30+03:00"
 slug: "maiboza"
 description: "### Maiboza: Eski Türklerin Gizli Şehirleri Arasındaki Bir Harika..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

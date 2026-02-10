@@ -5,10 +5,10 @@ slug: "ferhatpasa-hamami-duvar-cesmesi"
 description: "# Ferhatpaşa Hamamı Duvar Çeşmesi..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Çatalca"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.464049577,41.1382047"
 draft: "false"
 weight: "999"

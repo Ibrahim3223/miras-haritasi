@@ -5,10 +5,10 @@ slug: "namazgahli-cesme"
 description: "## Namazgahlı Çeşme: Şarköy'ün Tarihi ve Kültürel Mirasının Özellikleri..."
 featured_image: ""
 province: "Tekirdağ"
-iller: '["Tekirdağ"]'
+iller: ["Tekirdağ"]
 district: "Şarköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1698647,40.6327324"
 draft: "false"
 weight: "999"

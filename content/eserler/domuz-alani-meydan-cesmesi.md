@@ -5,10 +5,10 @@ slug: "domuz-alani-meydan-cesmesi"
 description: "# Domuz Alanı Meydan Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Bergama"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "27.1811085,39.125576"
 draft: "false"
 weight: "999"

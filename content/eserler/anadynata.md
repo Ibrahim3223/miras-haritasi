@@ -4,8 +4,7 @@ date: "2025-12-25T05:09:20+03:00"
 slug: "anadynata"
 description: "### Anadynata: Tarihi ve Kültürel Mirasının Gizemi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/a/af/Kur%C5%9Funlu_Kalesi_02.jpg"
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

@@ -5,10 +5,10 @@ slug: "genc-osman-cesmesi-1"
 description: "## Genç Osman Çeşmesi 1: Güngören'in Tarihi Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Genç_Osman_Çeşmesi.jpg/1200px-Genç_Osman_Çeşmesi.jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Güngören"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.8741179,41.0265941"
 draft: "false"
 weight: "10"

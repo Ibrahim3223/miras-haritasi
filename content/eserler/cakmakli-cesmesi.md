@@ -5,10 +5,10 @@ slug: "cakmakli-cesmesi"
 description: "## Çakmaklı Çeşmesi..."
 featured_image: ""
 province: "Aydın Vilayeti"
-iller: '["Aydın Vilayeti"]'
+iller: ["Aydın Vilayeti"]
 district: "İzmit"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.9204845,40.7678375"
 draft: "false"
 weight: "999"

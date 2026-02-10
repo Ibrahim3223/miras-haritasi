@@ -5,10 +5,10 @@ slug: "hekimoglu-ali-pasa-cesmesi-osmanaga"
 description: "## Hekimoğlu Ali Paşa Çeşmesi, Osmanağa..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Ali_Paşa_Fountain_(Kadıköy).jpg/1200px-Ali_Paşa_Fountain_(Kadıköy).jpg"
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Kadıköy"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0257794,40.9909426"
 draft: "false"
 weight: "10"

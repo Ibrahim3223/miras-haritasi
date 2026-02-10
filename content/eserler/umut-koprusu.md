@@ -4,8 +4,7 @@ date: "2025-12-25T01:53:13+03:00"
 slug: "umut-koprusu"
 description: "## Umut Köprüsü: Tarihinin ve Mimarisinin Gizemi..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Köprü"
 turler: ["Köprü"]

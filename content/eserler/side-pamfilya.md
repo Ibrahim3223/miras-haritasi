@@ -4,8 +4,7 @@ date: "2025-12-25T05:22:42+03:00"
 slug: "side-pamfilya"
 description: "## Side: Pamfilya'nın Muhteşem Kenti..."
 featured_image: ""
-province: ""
-iller: [""]
+iller: []
 district: ""
 type: "Arkeolojik Sit"
 turler: ["Arkeolojik Sit"]

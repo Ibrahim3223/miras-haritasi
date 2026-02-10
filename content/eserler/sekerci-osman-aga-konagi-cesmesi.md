@@ -5,10 +5,10 @@ slug: "sekerci-osman-aga-konagi-cesmesi"
 description: "### Şekerci Osman Ağa Konağı Çeşmesi..."
 featured_image: ""
 province: "İzmir"
-iller: '["İzmir"]'
+iller: ["İzmir"]
 district: "Çeşme"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "26.30546,38.3229218"
 draft: "false"
 weight: "999"

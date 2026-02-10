@@ -5,10 +5,10 @@ slug: "akincilar-koyu-cesmesi-arac"
 description: "### Akıncılar Köyü Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Araç"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.301410299,41.245890751"
 draft: "false"
 weight: "999"

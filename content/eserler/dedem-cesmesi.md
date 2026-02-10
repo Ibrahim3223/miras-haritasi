@@ -5,10 +5,10 @@ slug: "dedem-cesmesi"
 description: "### Dedem Çeşmesi: Hacıbektaş'taki Bir Tarihî Çeşme..."
 featured_image: ""
 province: "Nevşehir"
-iller: '["Nevşehir"]'
+iller: ["Nevşehir"]
 district: "Hacıbektaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "34.5689316,38.9594421"
 draft: "false"
 weight: "999"

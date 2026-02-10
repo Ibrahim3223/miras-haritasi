@@ -5,10 +5,10 @@ slug: "abbas-aga-cesmesi-sehremini"
 description: "## Abbas Ağa Çeşmesi, Şehremini..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Fatih"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "28.931141,41.009678"
 draft: "false"
 weight: "999"

@@ -5,10 +5,10 @@ slug: "mil-cesmesi"
 description: "## Mil Çeşmesi..."
 featured_image: ""
 province: "Altındağ"
-iller: '["Altındağ"]'
+iller: ["Altındağ"]
 district: "Hacettepe"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "32.8720131,39.9350967"
 draft: "false"
 weight: "999"

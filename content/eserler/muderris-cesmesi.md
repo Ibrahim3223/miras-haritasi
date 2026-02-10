@@ -5,10 +5,10 @@ slug: "muderris-cesmesi"
 description: "## Müderris Çeşmesi..."
 featured_image: ""
 province: "Kastamonu"
-iller: '["Kastamonu"]'
+iller: ["Kastamonu"]
 district: "Küre"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "33.7104874,41.8042374"
 draft: "false"
 weight: "999"

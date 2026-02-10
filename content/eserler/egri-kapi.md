@@ -4,8 +4,7 @@ date: "2025-12-25T13:16:52+03:00"
 slug: "egri-kapi"
 description: "## Eğri Kapı: İstanbul'un Tarihî ve Kültürel Mirasının Değerli Parçaları..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Eğri_Kapı.jpg/1200px-Eğri_Kapı.jpg"
-province: ""
-iller: [""]
+iller: []
 district: "İstanbul"
 type: "Anıt"
 turler: ["Anıt"]

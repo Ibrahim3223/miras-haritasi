@@ -5,10 +5,10 @@ slug: "ali-pasa-cesmesi-arnavutkoy"
 description: "## Ali Paşa Çeşmesi: Beşiktaş'ta Bir Çeşme Müstesna..."
 featured_image: ""
 province: "İstanbul"
-iller: '["İstanbul"]'
+iller: ["İstanbul"]
 district: "Beşiktaş"
 type: "Çeşme"
-turler: '["Çeşme"]'
+turler: ["Çeşme"]
 coords: "29.0403767,41.0654869"
 draft: "false"
 weight: "999"
