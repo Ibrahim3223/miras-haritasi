@@ -1,14 +1,2 @@
 # Cloudflare Pages Redirects
-# Redirect deleted fountain (çeşme) pages to main Eserler page
-# This prevents 404 errors and preserves SEO value
-
-# Pattern: redirect all çeşme pages to /eserler/
-/eserler/*-cesme-*     /eserler/   301
-/eserler/*-çeşme-*     /eserler/   301
-/eserler/*-cesmesi-*   /eserler/   301
-/eserler/*-çeşmesi-*   /eserler/   301
-
-# Specific high-traffic fountain pages (if you have analytics data)
-# Add individual redirects for top 20-30 most visited fountain pages here
-# Example:
-# /eserler/sultanahmet-cesmesi/   /eserler/sultanahmet-camii/   301
+# Çeşme sayfaları geri getirildi - redirect kuralları kaldırıldı (2026-02-10)

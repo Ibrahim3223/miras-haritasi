@@ -29,41 +29,4 @@
     </div>
 </div>
 
-<script>
-    // Auto-redirect deleted fountain (çeşme) pages
-    (function() {
-        const currentPath = window.location.pathname.toLowerCase();
-
-        // Check if URL contains çeşme/cesme variants
-        const fountainPatterns = ['cesme', 'çesme', 'cesmesi', 'çesmesi'];
-        const isFountainPage = fountainPatterns.some(pattern => currentPath.includes(pattern));
-
-        if (isFountainPage) {
-            // Update UI for fountain pages
-            document.getElementById('pageTitle').textContent = 'Bu Sayfa Arşivlendi';
-            document.getElementById('pageMessage').innerHTML =
-                'Çeşme sayfalarımız arşivlenmiştir. <br>Tüm tarihi eserlerimizi ana listeden keşfedebilirsiniz.';
-            document.getElementById('redirectTimer').style.display = 'block';
-
-            // Countdown timer
-            let seconds = 3;
-            const countdownEl = document.getElementById('countdown');
-            const timer = setInterval(() => {
-                seconds--;
-                countdownEl.textContent = seconds;
-                if (seconds <= 0) {
-                    clearInterval(timer);
-                    window.location.href = '/eserler/';
-                }
-            }, 1000);
-
-            // Update button to skip countdown
-            const mainBtn = document.querySelector('.btn-primary');
-            if (mainBtn) {
-                mainBtn.textContent = 'Hemen Git';
-                mainBtn.href = '/eserler/';
-            }
-        }
-    })();
-</script>
 {{ end }}
