@@ -2,7 +2,7 @@
 title: "Kullanım Şartları | Miras Haritası"
 description: "Miras Haritası kullanım koşulları ve yasal uyarılar."
 date: 2025-12-24
-layout: "page"
+layout: "simple"
 draft: false
 ---
 

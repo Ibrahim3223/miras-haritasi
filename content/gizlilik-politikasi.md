@@ -2,7 +2,7 @@
 title: "Gizlilik Politikası | Miras Haritası"
 description: "Miras Haritası gizlilik politikası ve veri kullanım şartları."
 date: 2025-12-24
-layout: "page"
+layout: "simple"
 draft: false
 ---
 

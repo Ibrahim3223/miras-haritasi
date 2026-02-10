@@ -2,7 +2,7 @@
 title: "Hakkında | Miras Haritası"
 description: "Miras Haritası, Türkiye'nin zengin kültürel ve tarihi mirasını dijital ortamda arşivleyen açık bir ansiklopedi projesidir."
 date: 2025-12-24
-layout: "page"
+layout: "simple"
 draft: false
 ---
 
