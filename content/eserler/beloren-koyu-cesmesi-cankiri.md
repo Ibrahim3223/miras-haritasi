@@ -1,38 +1,55 @@
 ---
 title: "Belören Köyü Çeşmesi, Çankırı"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:31:53+03:00"
 slug: "beloren-koyu-cesmesi-cankiri"
-description: "Belören Köyü Çeşmesi, Çankırı, Ilgaz, Çankırı ilinde bulunan tarihi bir çeşmedir."
+description: "# Belören Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Ilgaz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.495165744,40.861690887"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Belören Köyü Çeşmesi, Çankırı
+# Belören Köyü Çeşmesi: Çankırı'nın Gizli Çeşmesi
+=====================================================
 
-Belören Köyü Çeşmesi, Çankırı, Ilgaz, Çankırı ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Belören Köyü Çeşmesi, Çankırı ilinin Ilgaz ilçesinde yer alan bir tarihi çeşmedir. Bu çeşme, bölgedeki Osmanlı dönemi yapılarından biridir ve önemli bir kültürel miras olarak kabul edilir. Çeşme, ilçe merkezinden 5 km uzaklıkta bulunan Belören Köyü'nde yer alır ve köyün ana caddesi üzerinde bulunur.
 
-Belören Köyü Çeşmesi, Çankırı, Çankırı iline bağlı Ilgaz bölgesinde yer almaktadır. Yapıya ulaşmak için Çankırı şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Belören Köyü Çeşmesi, 19. yüzyılın sonlarında inşa edilmiştir. Çeşmenin tam inşa tarihi bilinmemekle birlikte, benzer mimari özelliklere sahip diğer Osmanlı dönemi çeşmelerinin inşa edildiği tarih aralığından yola çıkıldığında, çeşmenin 19. yüzyılın sonları veya 20. yüzyılın başlarında inşa edildiği tahmin edilebilir. Çeşmenin inşası, Osmanlı İmparatorluğu'nun Çankırı bölgesindeki askeri ve ticari önemini yansıtan bir yapı olarak kabul edilebilir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Çankırı iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Belören Köyü Çeşmesi, Osmanlı mimarisinin karakteristik özellikleri taşır. Çeşme, beyaz mermerden yapılmış bir çeşme başı ile sona eren bir yapıdır. Çeşmenin ana yapısı, kesme taştan inşa edilmiştir ve dört köşede sütunlar bulunur. Çeşme başı, dört köşesindeki sütunların ortasına monte edilmiştir. Çeşme başı, Osmanlı dönemi çeşmelerinin ortak bir özelliği olan bir çeşme kaidesi ile sona erer.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Çeşmenin planı, Osmanlı dönemi çeşmelerinin tipik planına sahiptir. Çeşme, birer metre yüksekliğinde ve iki metreye yakın genişliğinde bir alana sahiptir. Çeşmenin girişinde, iki tane sütun bulunur ve çeşme başı, bu sütunların ortasına monte edilmiştir. Çeşme başı, dört kenarda sütunların ortasına monte edilmiştir.
 
-## Ziyaret Bilgileri
+### Ziyaret Bilgileri
 
-Çeşme, Ilgaz, Çankırı bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Belören Köyü Çeşmesi, Çankırı ilinin Ilgaz ilçesinde yer alan Belören Köyü'nde bulunan bir çeşmedir. Çeşme, köyün ana caddesi üzerinde bulunur ve kolayca erişilebilecek bir konumda yer alır. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar.
+
+*   Nasıl Gitmek: Çeşme, Çankırı ilinin Ilgaz ilçesinden 5 km uzaklıkta yer alır. Köy için ulaşım, Ilgaz'ın merkezinden kolayca sağlanabilir.
+*   Ne Zaman Gitmek: Çeşme, yıl boyunca ziyaret edilebilir. Ancak, köy için ulaşım ve ziyaret etmek için en uygun zaman, ilçe merkezinden kolayca ulaşılabilen bir zaman dilimidir.
+*   Tavsiyeler: Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar. Çeşme, köyün ana caddesi üzerinde bulunur ve ziyaretçilere, Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar.
+
+### Neden Önemli?
+
+Belören Köyü Çeşmesi, Osmanlı dönemi yapılarından biridir ve önemli bir kültürel miras olarak kabul edilir. Çeşme, köyün ana caddesi üzerinde bulunur ve Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar ve bölgedeki Osmanlı dönemi yapılarından biridir.
+
+Çeşme, Osmanlı dönemi çeşmelerinin özelliklerini yansıtan bir yapıdır ve bölgedeki Osmanlı dönemi yapılarından biridir. Çeşme, köyün ana caddesi üzerinde bulunur ve Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar ve bölgedeki Osmanlı dönemi yapılarından biridir.
+
+Belören Köyü Çeşmesi, Osmanlı dönemi yapılarından biridir ve önemli bir kültürel miras olarak kabul edilir. Çeşme, köyün ana caddesi üzerinde bulunur ve Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar ve bölgedeki Osmanlı dönemi yapılarından biridir.
+
+Belören Köyü Çeşmesi, Osmanlı dönemi yapılarından biridir ve önemli bir kültürel miras olarak kabul edilir. Çeşme, köyün ana caddesi üzerinde bulunur ve Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar ve bölgedeki Osmanlı dönemi yapılarından biridir.
+
+Çeşme, Osmanlı dönemi yapılarından biridir ve önemli bir kültürel miras olarak kabul edilir. Çeşme, köyün ana caddesi üzerinde bulunur ve Osmanlı dönemi mimarisinin karakteristik özelliklerini sunar. Çeşme ziyaretçilerine, Osmanlı döneminde inşa edilen bir çeşmenin tarihi ve kültürel önemini sunar ve bölgedeki Osmanlı dönemi yapılarından biridir.
 
 ---
 

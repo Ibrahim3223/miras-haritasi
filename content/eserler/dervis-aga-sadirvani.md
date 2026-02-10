@@ -1,38 +1,44 @@
 ---
 title: "Derviş Ağa Şadırvanı"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:40:58+03:00"
 slug: "dervis-aga-sadirvani"
-description: "Derviş Ağa Şadırvanı, Yakutiye, Erzurum ilinde bulunan tarihi bir çeşmedir."
+description: "## Derviş Ağa Şadırvanı..."
 featured_image: ""
 province: "Erzurum"
-iller: ["Erzurum"]
+iller: '["Erzurum"]'
 district: "Yakutiye"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "41.2789459,39.9102745"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Derviş Ağa Şadırvanı
 
-Derviş Ağa Şadırvanı, Yakutiye, Erzurum ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Derviş Ağa Şadırvanı, Türkiye'nin kuzeydoğusundaki Erzurum ilinin Yakutiye ilçesinde bulunan tarihi bir çeşmedir. Bu şadırvan, hem görülmeye değer mimari özellikleriyle hem de kültürel miras değeri ile dikkat çekmektedir. Derviş Ağa Şadırvanı, Erzurum'un tarihi ve kültürel mirasının önemli bir parçasıdır ve şehir turizmine önemli bir katkı sunmaktadır.
 
-Derviş Ağa Şadırvanı, Erzurum iline bağlı Yakutiye bölgesinde yer almaktadır. Yapıya ulaşmak için Erzurum şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Derviş Ağa Şadırvanı'nın tam build tarihine ulaşılamamıştır. Ancak şadırvan, 18. yüzyılda yapıldığı tahmin edilmektedir. Bu dönemde, Erzurum ve civarında birçok tarihi yapı inşa edilmiştir. Derviş Ağa Şadırvanı da bu döneme ait bir yapıdır ve Erzurum'un kültürel miras değerini yansıtmaktadır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Erzurum iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Derviş Ağa Şadırvanı, klasik Osmanlı mimarisinin özelliklerini taşımaktadır. Şadırvan, dikdörtgen planlı bir yapıdadır ve iki katlıdır. İlk kat, bir çeşme odasıdır ve burası, suyun aktığı yerdir. İkinci kat ise, kubbe çatılı bir avludur ve burası, dinlenmek ve sosyal içerikli etkinliklere yer vermektedir. Şadırvan, mermer ve taş malzemelerden inşa edilmiştir ve iç mekanlar, kemer ve nişler ile süslenmiştir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Derviş Ağa Şadırvanı, Yakutiye ilçesindeki tarihi eserler bölgesindedir. Şadırvana ulaşmak için, Erzurum merkezinden Yakutiye ilçesine doğru hareket etmek gerekir. Yakutiye'de, tarihi eserler bölgesine girebilmek için, ilçe merkezine yakın bir noktada park etmek gerekir. Şadırvana gitmek için, en uygun zamanlar, ilkbahar ve sonbahardır. Bu dönemlerde, hava sıcaklığı uygun ve ziyaretçi akını daha az olmaktadır.
 
-Çeşme, Yakutiye, Erzurum bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Derviş Ağa Şadırvanı, Erzurum'un kültürel miras değerini yansıtmaktadır. Şadırvan, klasik Osmanlı mimarisinin özelliklerini taşımaktadır ve iç mekanları, kemer ve nişler ile süslenmiştir. Derviş Ağa Şadırvanı, aynı zamanda, suyun aktığı yer olarak da önemlidir. Şadırvan, şehrin su ihtiyacını karşılamakta ve aynı zamanda, sosyal içerikli etkinliklere de yer vermektedir.
+
+Derviş Ağa Şadırvanı, Erzurum'un tarihi ve kültürel mirasının önemli bir parçasıdır. Şadırvan, klasik Osmanlı mimarisinin özelliklerini taşımakta ve iç mekanları, kemer ve nişler ile süslenmiştir. Derviş Ağa Şadırvanı, aynı zamanda, suyun aktığı yer olarak da önemlidir ve şehrin su ihtiyacını karşılamakta ve aynı zamanda, sosyal içerikli etkinliklere de yer vermektedir. Erzurum'un tarihi ve kültürel mirasının korunması ve gelecek nesillere aktarma amacıyla, Derviş Ağa Şadırvanı'nın tüm ziyaretçilere açık olması önemlidir.
+
+Derviş Ağa Şadırvanı, Erzurum'un tarihi ve kültürel mirasının önemli bir parçasıdır. Bu şadırvan, klasik Osmanlı mimarisinin özelliklerini taşımakta ve Erzurum'un kültürel miras değerini yansıtmaktadır. Derviş Ağa Şadırvanı, aynı zamanda, suyun aktığı yer olarak da önemlidir ve şehrin su ihtiyacını karşılamakta ve aynı zamanda, sosyal içerikli etkinliklere de yer vermektedir. Derviş Ağa Şadırvanı'nın tüm ziyaretçilere açık olması, Erzurum'un tarihi ve kültürel mirasının korunması ve gelecek nesillere aktarma amacıyla önemlidir.
 
 ---
 

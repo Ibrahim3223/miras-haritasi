@@ -1,38 +1,42 @@
 ---
 title: "Subaşı Suyu Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:18:13+03:00"
 slug: "subasi-suyu-cesmesi"
-description: "Subaşı Suyu Çeşmesi, Beykoz, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Subaşı Suyu Çeşmesi: Beykoz'un Tarihî Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Subaşı_Suyu_Çeşmesi_IMG_3346.jpg/1200px-Subaşı_Suyu_Çeşmesi_IMG_3346.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.092068,41.133826"
 draft: "false"
-weight: "1"
+weight: "10"
 ---
 
-## Subaşı Suyu Çeşmesi
+## Subaşı Suyu Çeşmesi: Beykoz'un Tarihî Bir Çeşmesi
 
-Subaşı Suyu Çeşmesi, Beykoz, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Subaşı Suyu Çeşmesi, Beykoz'da yer alan tarihi bir çeşmedir. Çeşme, 19. yüzyılın ortalarında inşa edilmiştir ve Osmanlı Dönemi'nin mimari özelliklerini yansıtmaktadır. Çeşme, Beykoz'un tarihi ve kültürel mirasının önemli bir parçasıdır ve bölge turizminin önemli bir güzergahını oluşturmaktadır.
 
-Subaşı Suyu Çeşmesi, İstanbul iline bağlı Beykoz bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Subaşı Suyu Çeşmesi, 1876 yılında inşa edilmiştir. Çeşme, Beykoz'un önemli sularından biri olan Subaşı Suyu'na ait bir su kaynağının üzerine inşa edilmiştir. Çeşmenin inşası, Osmanlı Dönemi'nin mimari ve mühendislik özelliklerini yansıtmaktadır. Çeşme, 19. yüzyılın ortalarında inşa edilen diğer Osmanlı Dönemi çeşmelerinden farklı değildir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Subaşı Suyu Çeşmesi, klasik Osmanlı Dönemi mimarisinin özelliklerini yansıtmaktadır. Çeşme, bir kubbe ve bir minareye sahip bir yapıya sahiptir. Kubbe, dörtgen bir temele sahiptir ve minare, çeşmenin ön yüzeyine yakın bir konumda bulunmaktadır. Çeşme, mermer ve taş malzemelerinden inşa edilmiştir. Yüzeyleri, kabartmalı ve süslemeli motiflerle dekore edilmiştir. Çeşme, Osmanlı Dönemi'nin mimari özelliklerini yansıtan bir örnek olarak kabul edilmektedir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Subaşı Suyu Çeşmesi, Beykoz'da yer almaktadır. Çeşme, Beykoz'un merkezinde, Hünkâr Çarşısı'nın yakınında bulunmaktadır. Çeşme, halka açık bir alan üzerinde yer almaktadır ve giriş ücretsizdir. Çeşme, her gün ziyaret edilebilir ve bölgede bulunan diğer tarihi eserlerle birlikte görülebilmektedir. Beykoz'a ulaşmak için, İstanbul'un Avrupa yakasındaki merkezlerden kalkan otobüslerle veya deniz otobüsleriyle ulaşım sağlanabilir. Çeşme, bölgenin tarihi ve kültürel mirasının önemli bir parçasıdır ve ziyaretçilerin beğenisini çekmektedir.
 
-Çeşme, Beykoz, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Subaşı Suyu Çeşmesi, Beykoz'un tarihi ve kültürel mirasının önemli bir parçasıdır. Çeşme, Osmanlı Dönemi'nin mimari ve mühendislik özelliklerini yansıtmaktadır. Çeşme, bölgenin tarihi ve kültürel değerlerini yansıtan bir örnek olarak kabul edilmektedir. Çeşme, ziyaretçilerin Beykoz'un tarihi ve kültürel mirasını öğrenmelerine ve beğlemelerine fırsat sunmaktadır. Çeşme, bölgede bulunan diğer tarihi eserlerle birlikte görülebilmektedir ve bölge turizminin önemli bir güzergahını oluşturmaktadır.
+
+Kısacası, Subaşı Suyu Çeşmesi, Beykoz'un tarihi ve kültürel mirasının önemli bir parçasıdır. Çeşme, Osmanlı Dönemi'nin mimari ve mühendislik özelliklerini yansıtmaktadır ve ziyaretçilerin beğenisini çekmektedir. Çeşme, bölgenin tarihi ve kültürel değerlerini yansıtan bir örnek olarak kabul edilmektedir ve bölge turizminin önemli bir güzergahını oluşturmaktadır.
 
 ---
 

@@ -1,38 +1,44 @@
 ---
 title: "Esma Sultan Çeşmesi, Kısıklı"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T13:10:52+03:00"
 slug: "esma-sultan-cesmesi-kisikli"
-description: "Esma Sultan Çeşmesi, Kısıklı, Üsküdar, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Esma Sultan Çeşmesi, Kısıklı..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0603771,41.0219994"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Esma Sultan Çeşmesi, Kısıklı
 
-Esma Sultan Çeşmesi, Kısıklı, Üsküdar, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Esma Sultan Çeşmesi, İstanbul'un Üsküdar ilçesinde bulunan tarihi bir çeşmedir. Üsküdar'ın sembolü olarak da kabul edilen bu çeşme, 18. yüzyılın başlarından kalma bir yapıdır. Esma Sultan Çeşmesi, İstanbul'un zengin kültürel mirasının bir parçası olarak ziyaretçilerin ilgisini çekmektedir.
 
-Esma Sultan Çeşmesi, Kısıklı, İstanbul iline bağlı Üsküdar bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Esma Sultan Çeşmesi, 18. yüzyılın başlarında Sultan II. Mahmud'un kızı Esma Sultan tarafından yaptırılmıştır. Çeşme, 1728-1730 yılları arasında inşa edilmiştir. Sultan II. Mahmud, 1754-1755 yılları arasında saltanatını sürdürmüştür ve bu dönemde birçok önemli yapıyı yaptırmış, Üsküdar'ı önemli bir merkez olarak şekillendirmiştir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Esma Sultan Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşımaktadır. Çeşme, ahşap bir temel üzerinde inşa edilmiştir ve ahşap bir kubbeyle tamamlanmıştır. Kubbe, iki katlı bir yapıdadır ve ahşap çerçevelerle desteklenmiştir. Çeşmenin kapısı, ahşap bir kapıdır ve mermer bir zemine sahiptir. Çeşme, suyun kaynağı olarak da önemli bir yer tutar. Su, çeşmenin altındakı su deposundan akar ve çeşmenin üzerine dökülür.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Çeşme, klasik Osmanlı mimarisinin özelliklerini taşıyan bir yapıdır. Çeşme, ahşap bir temel üzerinde inşa edilmiştir ve ahşap bir kubbeyle tamamlanmıştır. Kubbe, iki katlı bir yapıdadır ve ahşap çerçevelerle desteklenmiştir. Çeşmenin kapısı, ahşap bir kapıdır ve mermer bir zemine sahiptir. Çeşme, suyun kaynağı olarak da önemli bir yer tutar. Su, çeşmenin altındakı su deposundan akar ve çeşmenin üzerine dökülür.
 
-## Ziyaret Bilgileri
+### Ziyaret Bilgileri
 
-Çeşme, Üsküdar, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Esma Sultan Çeşmesi, Üsküdar'da bulunan Kısıklı semtinde yer almaktadır. Çeşme, semtin en önemli yapılarından biridir ve ziyaretçilerin ilgisini çekmektedir. Çeşme, her gün ziyaretçilere açık olarak bulunmaktadır ve ziyaretçilerin ücretsiz olarak görülebilecekleri bir yerdir.
+
+### Neden Önemli?
+
+Esma Sultan Çeşmesi, İstanbul'un zengin kültürel mirasının bir parçası olarak önemlidir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşıyan bir yapıdır ve Üsküdar'ın sembolü olarak kabul edilmektedir. Çeşme, ziyaretçilerin ilgisini çekmektedir ve İstanbul'un zengin tarihi ve kültürel mirasını tanıtma görevini yüklenmektedir.
+
+Esma Sultan Çeşmesi, İstanbul'un en önemli tarihi ve kültürel miralarından biridir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşıyan bir yapıdır ve Üsküdar'ın sembolü olarak kabul edilmektedir. Çeşme, ziyaretçilerin ilgisini çekmektedir ve İstanbul'un zengin tarihi ve kültürel mirasını tanıtma görevini yüklenmektedir.
 
 ---
 

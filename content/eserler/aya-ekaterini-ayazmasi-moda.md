@@ -1,38 +1,43 @@
 ---
 title: "Aya Ekaterini Ayazması, Moda"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:41:23+03:00"
 slug: "aya-ekaterini-ayazmasi-moda"
-description: "Aya Ekaterini Ayazması, Moda, Kadıköy, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Aya Ekaterini Ayazması, Moda..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0247555,40.979969"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Aya Ekaterini Ayazması, Moda
 
-Aya Ekaterini Ayazması, Moda, Kadıköy, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+Aya Ekaterini Ayazması, Moda, Kadıköy'de yer alan tarihi ve kültürel bir miras olan bir çeşmedir. Bu eser, Moda Plajı'nın hemen yanında yer alan, güzel bir parka ve denize bakan konumuyla ziyaretçilerini kendine çekmektedir. Bu makalede, Aya Ekaterini Ayazması'nın tarihçesi, mimari özelliklerini ve ziyaretçilere yönelik bilgiyi paylaşacağız.
 
-## Konum ve Erişim
+### Tarihçe
 
-Aya Ekaterini Ayazması, Moda, İstanbul iline bağlı Kadıköy bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+Aya Ekaterini Ayazması'nın yapımı 1878-1880 yılları arasında gerçekleşmiş ve bu eserin mimarı Fransız mühendis Henri Hance'dir. Eser, Kadıköy'de yer alan Moda semtinde, denize bakan güzel bir parkta konumlandırılmıştır. Ayazma, Aya Ekaterini Kilisesi'nin yakınlarında yer alan bir su kaynağının üzerine yapılmıştı. Bu su kaynağından elde edilen su, zamanında Kadıköy'ün yerel halkının kullanımına sunulmaktadır.
 
-## Tarihsel Önemi
+### Mimari Özellikler
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+Aya Ekaterini Ayazması, klasik bir Yunan tarzında inşa edilmiştir. Özellikle bu tarzın karakteristik özelliklerini taşıyan bir eserdir. Eserin mimari detayları, Hance'nin ustalığına ve zamanın özelliklerine uygun bir şekilde tasarlanmıştır. Ayazma, beyaz mermerden yapılmış bir yapının üzerine inşa edilmiştir. Eserin ana yapısı, dikdörtgen bir plana sahiptir. Eserin ön cephesinde, iki sütun yer alır. Bu sütunlar, Aya Ekaterini Kilisesi'nin ön cephesindeki sütunlara benzemektedir. Ayazma, denize bakan cephesinde, bir su kemerine sahiptir. Bu su kemeri, suyu Ayazma'nın içine taşımaktadır. İç mekan, basit bir tasarıma sahiptir. Eserin iç yüzeyleri, beyaz mermerden kaplanmıştır.
 
-## Mimari Özellikler
+### Ziyaret Bilgileri
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Aya Ekaterini Ayazması, Kadıköy'de yer alan Moda Plajı'nın hemen yanında, güzel bir parkta bulunur. Eserin ziyaretçilere yönelik bilgi ve konum hakkında detaylı bilgi için aşağıdaki adımları takip edebilirsiniz:
 
-## Ziyaret Bilgileri
+- Kadıköy'den Moda Plajı'na yürüyerek veya taksi ile gidebilirsiniz.
+- Ayazma, plajın kuzeyinde, parkta yer alır. Eseri bulmak, kolaydır.
+- Ziyaretçiler, eserin çevresinde, güzel bir parkta yürüyüş yapabilir.
+- Eserin ziyaret saatleri, genel olarak güneşin battığı saatlere yakın zamanda gerçekleşir.
 
-Çeşme, Kadıköy, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Aya Ekaterini Ayazması, İstanbul'un kültürel miraslarından biridir. Eserin tarihi ve mimari özelliklerinin yanı sıra, güzel bir parka ve denize bakan konumuyla ziyaretçilerini kendine çekmektedir. Eser, Kadıköy'de yer alan diğer tarihi eserlerin yanı sıra, ziyaretçilere İstanbul'un tarihi ve kültürel miraslarını deneyimletmektedir. Ayazma, İstanbul'un tarihi ve kültürel miraslarının bir parçası olarak korunması gereken bir eserdir.
 
 ---
 

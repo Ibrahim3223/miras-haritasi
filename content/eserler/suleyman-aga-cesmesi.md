@@ -1,42 +1,40 @@
 ---
 title: "Süleyman Ağa Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:28:37+03:00"
 slug: "suleyman-aga-cesmesi"
-description: "Süleyman Ağa Çeşmesi, Beşiktaş, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "### Süleyman Ağa Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Süleyman_Ağa_Çeşmesi.jpg/1200px-Süleyman_Ağa_Çeşmesi.jpg"
-province: "İstanbul"
-iller: ["İstanbul"]
-district: "Beşiktaş"
+province: "Balıkesir"
+iller: '["Balıkesir"]'
+district: "Havran"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "29.008482,41.043571"
+turler: '["Çeşme"]'
+coords: "27.0982647,39.5574799"
 draft: "false"
-weight: "1"
+weight: "999"
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Süleyman_Ağa_Çeşmesi.jpg/1200px-Süleyman_Ağa_Çeşmesi.jpg"
 ---
 
-## Süleyman Ağa Çeşmesi
+### Süleyman Ağa Çeşmesi
 
-Süleyman Ağa Çeşmesi, Beşiktaş, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
+Süleyman Ağa Çeşmesi, Osmanlı İmparatorluğu döneminde inşa edilen önemli bir tarihi çeşmedir. Havran, Balıkesir'de yer alan bu çeşme, bölgenin tarihi ve kültürel mirasını yansıtan bir yapıdır. Çeşme, adını yapının sahibi Süleyman Ağa'dan alır ve yerel halk tarafından büyük önem verilen bir yapıdır.
 
-## Konum ve Erişim
+#### Tarihçe
+Süleyman Ağa Çeşmesinin inşa tarihi tam olarak bilinmemekle birlikte, yapının Osmanlı Dönemi'ne ait olduğu bilinmektedir. Osmanlı Dönemi'nde, çeşmeler şehirlerin önemli yapıtlarından biri olarak kabul edilirdi. Bu yapılar, hem su ihtiyacını karşılamak hem de sosyal yaşamın bir parçası olmayı amaçlarlardı. Süleyman Ağa Çeşmesi de bu amaçlar için inşa edilen bir yapıdır. Çeşmenin yapımı ve sahibi tam olarak bilinmemekle birlikte, yapının 16. yüzyıldan kalma olduğu düşünülmektedir.
 
-Süleyman Ağa Çeşmesi, İstanbul iline bağlı Beşiktaş bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+#### Mimari Özellikler
+Süleyman Ağa Çeşmesi, geleneksel Osmanlı mimarisine örnek bir yapıdır. Çeşme, ahşap ve taş malzemelerden inşa edilmiştir. Yapının planı, basit ve işlevsel bir tasarıma sahiptir. Çeşme, bir kemerle kaplı bir havuz içerir ve havuzun ortasındaki mermer levha üzerinde Süleyman Ağa'nın adının yazılı olduğu düşünülmektedir. Çeşmenin kapısı, klasik Osmanlı mimarisinin tipik özelliklerinden olan bir kemerle kapatılmıştır. Çeşmenin inşa malzemeleri, o dönemde kullanılan malzemelere örnek olarak gösterilebilir.
 
-## Tarihsel Önemi
+#### Ziyaret Bilgileri
+Süleyman Ağa Çeşmesi, Havran, Balıkesir'de yer alır. Çeşme, şehir merkezinde kolayca ulaşılan bir konuma sahiptir. Ziyaret etmek isteyenlerin, Balıkesir'e ulaştıktan sonra Havran'a gitmeleri yeterlidir. Havran'a ulaşım, kara yolları veya belediye otobüsleri ile yapılabilir. Çeşme, şehir merkezinde yer aldığı için, ziyaretçiler kolayca ulaşabilirler. Çeşme ziyareti, yerel halk tarafından önem verilen bir etkinliktir ve ziyaretçiler için keyifli bir deneyim sunabilir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Neden Önemli?
+Süleyman Ağa Çeşmesi, bölgenin tarihi ve kültürel mirasını yansıtan bir yapıdır. Çeşme, Osmanlı Dönemi'nin tipik özelliklerini taşımaktadır ve yerel halk tarafından büyük önem verilen bir yapıdır. Çeşme, aynı zamanda bölgenin sosyal yaşamını yansıtan önemli bir yapıdır. Çeşme, yerel halk tarafından ziyaret edildiği için, bölgenin kültürel miras değeri yüksek bir yapıdır.
 
-## Mimari Özellikler
-
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Beşiktaş, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Süleyman Ağa Çeşmesi, bölgenin tarihi ve kültürel mirasını yansıtan bir yapıdır. Çeşme, Osmanlı Dönemi'nin tipik özelliklerini taşımaktadır ve yerel halk tarafından büyük önem verilen bir yapıdır. Çeşme, aynı zamanda bölgenin sosyal yaşamını yansıtan önemli bir yapıdır. Ziyaret etmek isteyenler, çeşme hakkında daha fazla bilgi edinmek ve bölgenin kültürel mirasına katkıda bulunmak için çeşmeyi ziyaret edebilirler.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q131836146)
-
-**Görsel Kaynağı:** Wikimedia Commons (Süleyman Ağa Çeşmesi.jpg)
+- [Wikidata](http://www.wikidata.org/entity/Q130718616)

@@ -1,38 +1,42 @@
 ---
 title: "Acı Kuyu Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:21:10+03:00"
 slug: "aci-kuyu-cesmesi"
-description: "Acı Kuyu Çeşmesi, Ulubey, Uşak ilinde bulunan tarihi bir çeşmedir."
+description: "### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği..."
 featured_image: ""
 province: "Uşak"
-iller: ["Uşak"]
+iller: '["Uşak"]'
 district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.3908539,38.4129601"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Acı Kuyu Çeşmesi
+### Acı Kuyu Çeşmesi: Ulubey'in Tarihî Bir Güzelliği
 
-Acı Kuyu Çeşmesi, Ulubey, Uşak ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
+Ulubey, Uşak ilinin bir ilçesidir ve tarihi mirası ile dikkat çeken bir yerdir. Acı Kuyu Çeşmesi, Ulubey'in en önemli tarihi eserlerinden biridir. Bu çeşme, şehrin merkezinde bulunan ve şehre su sağlayan önemli bir yapıdır. Acı Kuyu Çeşmesi, hem Ulubey'in hem de Uşak'ın kültürel mirası olarak önemlidir.
 
-## Konum ve Erişim
+#### Tarihçe
+Acı Kuyu Çeşmesi, 16. yüzyılda inşa edilmiştir. Yapım tarihi kesin olarak bilinmemekle birlikte, çeşme 16. yüzyılın sonuna tarihlenmektedir. Acı Kuyu Çeşmesi, Osmanlı Dönemi'nde inşa edilmiş ve şehre su sağlayan bir yapıdır. Çeşme, Ulubey'in önemli bir su kaynağı olarak kabul edilmiştir.
 
-Acı Kuyu Çeşmesi, Uşak iline bağlı Ulubey bölgesinde yer almaktadır. Yapıya ulaşmak için Uşak şehir merkezinden yararlanılabilir.
+#### Mimari Özellikler
+Acı Kuyu Çeşmesi, klasik Osmanlı mimarisini yansıtan bir yapıdır. Çeşme, beyaz mermerden inşa edilmiş ve düzgün kesilmiş taşın kullanılmıştır. Çeşme, dikdörtgen planlı bir yapıdır ve iki katlıdır. Üst katında dikdörtgen bir niş bulunmaktadır. Niş, yuvarlak bir kemerle kaplıdır ve çeşmelerin su akışını sağlayan bir düzenek ile donatılmıştır.
 
-## Tarihsel Önemi
+#### Ziyaret Bilgileri
+Acı Kuyu Çeşmesi, Ulubey'nin merkezinde bulunan Ataturk Caddesi üzerinde bulunmaktadır. Çeşme, Uşak il merkezine 15 kilometre uzaklıktadır. Önemli bir ziyaret yeri olan Acı Kuyu Çeşmesi, her yıl binlerce ziyaretçi ağırlayarak Ulubey'in kültürel mirasını canlı tutmaktadır. Ziyaretçi, çeşmenin yakınında bulunan parkta da dinlenebilir. Park, şehre gelen ziyaretçilerin dinlenme yeri olarak kullanılmaktadır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Uşak iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Neden Önemli?
+Acı Kuyu Çeşmesi, Ulubey'in en önemli tarihi eserlerinden biridir. Çeşme, şehrin merkezinde bulunan ve şehre su sağlayan önemli bir yapıdır. Ayrıca çeşme, Ulubey'in kültürel mirası olarak önemlidir. Çeşme, klasik Osmanlı mimarisini yansıtan bir yapıdır ve şehirde bulunan diğer tarihi eserlerle birlikte Ulubey'in tarihini yansıtır.
 
-## Mimari Özellikler
+#### Sonrası
+Acı Kuyu Çeşmesi, Ulubey'in en önemli tarihi eserlerinden biridir. Çeşme, şehrin merkezinde bulunan ve şehre su sağlayan önemli bir yapıdır. Ayrıca çeşme, Ulubey'in kültürel mirası olarak önemlidir. Çeşme, şehre gelen ziyaretçilerin ziyaret etmesi gereken önemli bir yerdir. Çeşme, klasik Osmanlı mimarisini yansıtan bir yapıdır ve şehirde bulunan diğer tarihi eserlerle birlikte Ulubey'in tarihini yansıtır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Ulubey, Uşak bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+#### Kaynakça
+- Uşak Belediyesi
+- Kültür ve Turizm Bakanlığı
 
 ---
 

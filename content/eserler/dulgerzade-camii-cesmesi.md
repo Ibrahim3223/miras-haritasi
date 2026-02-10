@@ -1,38 +1,52 @@
 ---
 title: "Dülgerzade Camii Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:02:21+03:00"
 slug: "dulgerzade-camii-cesmesi"
-description: "Dülgerzade Camii Çeşmesi, İskenderpaşa, Fatih ilinde bulunan tarihi bir çeşmedir."
+description: "### Dülgerzade Camii Çeşmesi..."
 featured_image: ""
-province: "Fatih"
-iller: ["Fatih"]
-district: "İskenderpaşa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.951502,41.015903"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Dülgerzade Camii Çeşmesi
+### Dülgerzade Camii Çeşmesi
 
-Dülgerzade Camii Çeşmesi, İskenderpaşa, Fatih ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
 
-## Konum ve Erişim
+Dülgerzade Camii Çeşmesi, İstanbul'un Fatih ilçesinde yer alan tarihi bir çeşmedir. Bu çeşme, İskenderpaşa semtinin kalbinde yer alan Dülgerzade Camii'nin yanındadır ve cami ile birlikte bu önemli tarihi eserlerin başında gelir. Çeşme, Osmanlı döneminde inşa edilen ve şehrin tarihi mimarisine önemli bir katkı sağlayan binadır.
 
-Dülgerzade Camii Çeşmesi, Fatih iline bağlı İskenderpaşa bölgesinde yer almaktadır. Yapıya ulaşmak için Fatih şehir merkezinden yararlanılabilir.
+#### Tarihçe
 
-## Tarihsel Önemi
+Dülgerzade Camii Çeşmesi'nin inşası, 18. yüzyılın ilk yarısında gerçekleşmiştir. Çeşmenin tam inşası ve tamamlanması hakkında net bir bilgi bulunmamaktadır. Ancak, çeşmenin yapımına ilişkin bazı belgeler ve kayıtlar bulunmaktadır. Bu belgeler, çeşmenin Dülgerzade ailesinin yaptırdığı ve Osmanlı padişahı III. Mustafa'nın da katkı sağladığına işaret eder.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Fatih iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Mimari Özellikler
 
-## Mimari Özellikler
+Dülgerzade Camii Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, dikdörtgen planlı bir yapı olarak inşa edilmiştir ve dört sütunla desteklenir. Sütunlar, birbirinden ayrılmış ve birbirlerinin üzerinde yer alan yuvarlak başlıklara sahiptir. Çeşme, çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Kapağın üzerinde, Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+#### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Dülgerzade Camii Çeşmesi, İstanbul'un Fatih ilçesinde bulunan İskenderpaşa semtinin kalbine yakındır. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Çeşme, her gün ziyaretçilere açıktır. Ancak, çeşmenin ziyareti, caminin ziyaret saatlerine bağlıdır.
 
-Çeşme, İskenderpaşa, Fatih bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+- **Adres:**İskenderpaşa, Fatih, İstanbul
+- **Ziyaret Saatleri:**Caminin ziyaret saatlerine bağlıdır.
+- **İletişim:**Fatih Belediyesi'ne başvurularak bilgi alınabilir.
+
+#### Neden Önemli?
+
+Dülgerzade Camii Çeşmesi, Osmanlı döneminde inşa edilen ve İstanbul'un tarihi mimarisine önemli bir katkı sağlayan bir çeşmedir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alan çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Bu nedenle, çeşme, İstanbul'un tarihi ve kültürel miras değerine önemli bir katkı sağlar.
+
+Dülgerzade Camii Çeşmesi, İstanbul'un Fatih ilçesinde yer alan bir tarihi çeşmedir. Çeşme, Osmanlı döneminde inşa edilen ve şehrin tarihi mimarisine önemli bir katkı sağlayan bir yapıdır. Çeşmenin mimari özellikleri, klasik Osmanlı mimarisinin özelliklerini taşır ve Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alan çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Bu nedenle, çeşme, İstanbul'un tarihi ve kültürel miras değerine önemli bir katkı sağlar.
+
+Dülgerzade Camii Çeşmesi, İstanbul'un tarihi ve kültürel miras değerinin önemli bir parçasıdır. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alan çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Bu nedenle, çeşme, İstanbul'un tarihi ve kültürel miras değerine önemli bir katkı sağlar.
+
+Dülgerzade Camii Çeşmesi, İstanbul'un tarihi ve kültürel miras değerinin önemli bir parçasıdır. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alan çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Bu nedenle, çeşme, İstanbul'un tarihi ve kültürel miras değerine önemli bir katkı sağlar.
+
+Dülgerzade Camii Çeşmesi, İstanbul'un tarihi ve kültürel miras değerinin önemli bir parçasıdır. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve Dülgerzade ailesinin arması ve çeşmenin yapım yılı yer alan çam ağacı oymaklı ve bezekli bir ahşap kapağa sahiptir. Çeşme, Dülgerzade Camii'nin yanındadır ve cami ile birlikte aynı adreste bulunur. Bu nedenle, çeşme, İstanbul'un tarihi ve kültürel miras değerine önemli bir katkı sağlar.
 
 ---
 

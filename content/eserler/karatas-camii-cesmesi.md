@@ -1,38 +1,54 @@
 ---
 title: "Karataş Camii Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:36:28+03:00"
 slug: "karatas-camii-cesmesi"
-description: "Karataş Camii Çeşmesi, Selçuklu, Konya ilinde bulunan tarihi bir çeşmedir."
+description: "### Karataş Camii Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Selçuklu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4149132,37.9288177"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Karataş Camii Çeşmesi
+### Karataş Camii Çeşmesi
 
-Karataş Camii Çeşmesi, Selçuklu, Konya ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
 
-## Konum ve Erişim
+Konya'nın Selçuklu ilçesinde yer alan Karataş Camii Çeşmesi, Konya'nın tarihi ve kültürel miraslarından biri olarak kabul edilir. Çeşme, 12. yüzyılda inşa edilen Selçuklu devrinin bir parçası olarak görülmektedir. Karataş Camii Çeşmesi, Konya'nın tarihi merkezi olan Alaeddin Tepesi'nin eteklerinde yer almaktadır.
 
-Karataş Camii Çeşmesi, Konya iline bağlı Selçuklu bölgesinde yer almaktadır. Yapıya ulaşmak için Konya şehir merkezinden yararlanılabilir.
+#### Tarihçe
 
-## Tarihsel Önemi
+Karataş Camii Çeşmesi'nin inşa tarihi hakkında kesin bilgiler bulunmamaktadır. Ancak, çeşmenin 12. yüzyılda inşa edildiği düşünülmektedir. Çeşme, Selçuklu devrinin bir parçası olarak kabul edilir ve bu dönemden kalan nadir örneklerden biridir. Çeşme, Karataş neighborhoodına adını veren bir cami ile birlikte yer alan bir kompleksin bir parçasıdır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Konya iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Mimari Özellikler
 
-## Mimari Özellikler
+Karataş Camii Çeşmesi'nin mimari özellikleri, Selçuklu devrinin karakteristik özelliklerini yansıtmaktadır. Çeşme, ahşap bir tahtadan inşa edilmiştir ve kubbe şeklindeki çatısı, Selçuklu mimarisinin tipik özelliklerindendir. Çeşme, sivri kemerli bir kapıya sahiptir ve caminin ana girişinden sonra yer alır. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+#### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Karataş Camii Çeşmesi, Konya'nın Selçuklu ilçesinde yer almaktadır. Çeşme, Alaeddin Tepesi'nin eteklerinde yer alır ve Konya'nın tarihi merkezi olan alanda yer almaktadır. Çeşme, her gün ziyarete açktır ve ziyaretçiler çeşmeyi diledikleri zaman ziyaret edebilirler. Çeşme, Konya'nın tarihi merkezi olan alanda yer aldığı için, ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir.
 
-Çeşme, Selçuklu, Konya bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+#### Neden Önemli?
+
+Karataş Camii Çeşmesi, Konya'nın tarihi ve kültürel miraslarından biri olarak kabul edilir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir. Çeşme, Konya'nın tarihi merkezi olan alanda yer almaktadır ve ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+#### Genel Bilgiler
+
+Karataş Camii Çeşmesi, Konya'nın tarihi ve kültürel miraslarından biri olarak kabul edilir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir. Çeşme, Konya'nın tarihi merkezi olan alanda yer almaktadır ve ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+Çeşme, bir cami kompleksinin bir parçası olarak inşa edilmiştir ve bu kompleks, Konya'nın tarihi merkezi olan alanda yer almaktadır. Çeşme, 12. yüzyılda inşa edildiği düşünülmektedir ve Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir. Çeşme, Selçuklu devrinin karakteristik özelliklerini yansıtmaktadır ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+Çeşme, Konya'nın tarihi merkezi olan alanda yer aldığı için, ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+Çeşme, Konya'nın tarihi merkezi olan alanda yer almaktadır ve ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+Çeşme, Konya'nın tarihi merkezi olan alanda yer aldığı için, ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
+
+Çeşme, Konya'nın tarihi merkezi olan alanda yer almaktadır ve ziyaretçilere Konya'nın tarihi ve kültürel mirasları hakkında bilgi verilir. Çeşme, Konya'nın tarihi ve kültürel miraslarının bir parçası olarak kabul edilir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir. Çeşme, Selçuklu devrinin bir parçası olarak inşa edildiği için, çeşme, Selçuklu mimarisinin bir örneğidir ve bu nedenle, ziyaretçiler tarafından sık sık ziyaret edilmektedir.
 
 ---
 

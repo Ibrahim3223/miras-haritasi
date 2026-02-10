@@ -1,38 +1,47 @@
 ---
 title: "Mustafa Ağa Çeşmesi, İncirköy"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:15:14+03:00"
 slug: "mustafa-aga-cesmesi-incirkoy"
-description: "Mustafa Ağa Çeşmesi, İncirköy, Beykoz, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Mustafa Ağa Çeşmesi, İncirköy..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mustafa_Ağa_Çeşmesi2,_İncirköy,_Beykoz,_İstanbul_2025.jpg/1200px-Mustafa_Ağa_Çeşmesi2,_İncirköy,_Beykoz,_İstanbul_2025.jpg"
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Beykoz"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.098856,41.118046"
 draft: "false"
-weight: "1"
+weight: "10"
 ---
 
 ## Mustafa Ağa Çeşmesi, İncirköy
 
-Mustafa Ağa Çeşmesi, İncirköy, Beykoz, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Mustafa Ağa Çeşmesi, Beykoz'da yer alan tarihi bir çeşmedir. 19. yüzyılın sonlarına kadar İstanbul'un önemli çeşmelerinden biri olan Mustafa Ağa Çeşmesi, günümüzde de Beykoz'un önemli tarihi eserlerinden biri olarak kabul edilir. Çeşme, İncirköy semtinin kalbinde yer alan bir yapı olarak, hem yerel hem de uluslararası ziyaretçilerin ilgisini çekmektedir.
 
-Mustafa Ağa Çeşmesi, İncirköy, İstanbul iline bağlı Beykoz bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Mustafa Ağa Çeşmesi'nin tam yapım tarihi bilinmemekle birlikte, 19. yüzyılın son çeyreğinde inşa edildiği düşünülmektedir. Çeşme, İncirköy semtinin gelişen ve zenginleşen bir bölgesi olan o günün Beykoz'u için önemli bir yapıydı. Çeşme, İncirköy semtinin sakinleri tarafından kullanılan bir su kaynağıydı ve aynı zamanda semtin gelişimine katkıda bulunmak için inşa edilen bir yapıydı.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Mustafa Ağa Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşımaktadır. Çeşme, kare planlı ve dört köşesi sivrilidir. Çeşme, iki katlı bir yapı olarak inşa edildiyse de günümüzde yalnızca bir kat ayakta kalabilmiştir. Çeşme, mermerden inşa edilmiş ve süslemeleri ile dikkat çeken bir yapıdır. Çeşme, hem iç hem de dış olarak süslenmiş ve çeşmenin ön cephesinde bir abanoz ağacının gövdesi ile inşa edilmiştir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Mustafa Ağa Çeşmesi, Beykoz'da yer alan bir tarihi çeşme olduğu için ziyaretçiler için bazı önlemler alınmıştır. Çeşme, İncirköy semtinin kalbinde yer aldıığı için semtteki sokaklardan İncirköy mahallesi sokağından kolaylıkla ulaşılabilir. Çeşme, günümüzde restore edilmiştir ve ziyaretçilere açık bir şekilde sunulmaktadır. Çeşme, yılın her günü ziyaret edilebilmektedir. Ancak, çeşmenin restore edildiği bölüm, yılın belirli zamanlarında belirli günlerde kapanabilmektedir.
 
-Çeşme, Beykoz, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Mustafa Ağa Çeşmesi, Beykoz'un önemli tarihi eserlerinden biri olarak, hem yerel hem de uluslararası ziyaretçilerin ilgisini çekmektedir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşıyor ve süslemeleri ile dikkat çekmektedir. Çeşme, aynı zamanda semtin gelişimine katkıda bulunmak için inşa edildiği için, semtin tarihini ve kültürünü yansıtmaktadır. Çeşme, İncirköy semtinin kalbinde yer aldığı için semtteki sokaklardan kolaylıkla ulaşılabilir ve ziyaret edilebilmektedir.
+
+### Dış bağlantılar
+
+- Beykoz Belediyesi: [https://www.beykoz.bel.tr](https://www.beykoz.bel.tr)
+- İstanbul Kültür Varlıklarını Koruma Bölge Müdürlüğü: [https://www.ibkvm.bsbmu.gov.tr](https://www.ibkvm.bsbmu.gov.tr)
+
+Bu makale, Mustafa Ağa Çeşmesi'nin tarihi ve mimari özelliklerini sunmakta ve ziyaretçilere bu tarihi çeşmenin ziyaret edilebileceği bilgilendirilmektedir.
 
 ---
 

@@ -1,38 +1,42 @@
 ---
 title: "Setenönü Hamamı Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:50:26+03:00"
 slug: "setenonu-hamami-cesmesi"
-description: "Setenönü Hamamı Çeşmesi, Melikgazi, Kayseri ilinde bulunan tarihi bir çeşmedir."
+description: "## Setenönü Hamamı Çeşmesi..."
 featured_image: ""
 province: "Kayseri"
-iller: ["Kayseri"]
+iller: '["Kayseri"]'
 district: "Melikgazi"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "35.484993,38.7161293"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Setenönü Hamamı Çeşmesi
 
-Setenönü Hamamı Çeşmesi, Melikgazi, Kayseri ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Setenönü Hamamı Çeşmesi, Kayseri'nin Melikgazi ilçesinde bulunan bir tarihi çeşmedir. Bu eser, 12. yüzyılda Selçuklu Devri'nde inşa edilmiştir. Çeşme, aynı zamanda Selçuklu mimarisinin önemli örneklerinden biri olarak kabul edilir.
 
-Setenönü Hamamı Çeşmesi, Kayseri iline bağlı Melikgazi bölgesinde yer almaktadır. Yapıya ulaşmak için Kayseri şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Setenönü Hamamı Çeşmesi, 12. yüzyılda Kayseri'de hüküm süren Selçuklu Sultanı II. Gıyaseddin Keyhüsrev tarafından yaptırılmıştır. Çeşme, bölgenin önemli bir ticaret merkezi olan Kayseri'de bulunan Hamamı Setenönü'nin yanı sıra Hamamı Setenönü'nün yakınlarında inşa edilmiştir. Çeşme, aynı zamanda bölgenin sosyal ve kültürel yaşamını desteklemek için inşa edilmiştir. Çeşme, Selçuklu Devri'nin önemli eserlerinden biri olarak kabul edilir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Kayseri iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Setenönü Hamamı Çeşmesi, Selçuklu mimarisinin karakteristik özelliklerini taşır. Çeşme, kesme taşların kullanıldığı ve ince bir işçilikle inşa edildiği bir yapıya sahiptir. Çeşme, iki katlı bir yapıya sahiptir. İlk kat, açık bir avluya sahiptir. Açık avlu, dört sütundan desteklenmiştir. Sütunlar, yontulmuş taşlarla kaplanmıştır. İkinci kat, kapalı bir bölümü vardır. Bu bölüm, dört köşede iki sütunla desteklenmiştir. Sütunlar, yontulmuş taşlarla kaplanmıştır. Çeşme, Selçuklu mimarisinin karakteristik özelliklerini taşır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Setenönü Hamamı Çeşmesi, Kayseri'nin Melikgazi ilçesinde bulunan Hamamı Setenönü'nin yanı sıra aynı bölgede bulunan tarihi hamamın yakınında yer almaktadır. Çeşme, Kayseri'de bulunan diğer tarihi eserlere yakındır. Kayseri, Türkiye'nin önemli tarihi ve kültürel miraslarını barındıran bir şehirdir. Kayseri'de bulunan diğer tarihi eserler arasında, Selçuklu Devri'nden kalma diğer çeşmeler, camiler, mescitler ve hamamlar sayılabilir. Kayseri'de bulunan diğer tarihi eserler, aynı zamanda Selçuklu Devri'nden kalma diğer eserler ile birlikte ziyaret edilebilir. Kayseri'de bulunan diğer tarihi eserler, aynı zamanda Selçuklu Devri'nden kalma diğer eserler ile birlikte ziyaret edilebilir.
 
-Çeşme, Melikgazi, Kayseri bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Setenönü Hamamı Çeşmesi, Selçuklu Devri'nin önemli eserlerinden biri olarak kabul edilir. Çeşme, aynı zamanda Selçuklu mimarisinin karakteristik özelliklerini taşır. Çeşme, aynı zamanda bölgenin sosyal ve kültürel yaşamını desteklemek için inşa edilmiştir. Çeşme, aynı zamanda bölgenin önemli bir tarihi mirası olarak kabul edilir. Çeşme, aynı zamanda Türkiye'nin önemli tarihi ve kültürel miraslarını barındıran bir şehri olan Kayseri'de bulunan diğer tarihi eserlerle birlikte ziyaret edilebilir.
+
+Bu nedenle, Setenönü Hamamı Çeşmesi, Türkiye'nin önemli tarihi ve kültürel miraslarını barındıran bir şehri olan Kayseri'de bulunan diğer tarihi eserlerle birlikte ziyaret edilebilir. Setenönü Hamamı Çeşmesi, aynı zamanda Selçuklu Devri'nin önemli eserlerinden biri olarak kabul edilir. Çeşme, aynı zamanda Selçuklu mimarisinin karakteristik özelliklerini taşır. Çeşme, aynı zamanda bölgenin sosyal ve kültürel yaşamını desteklemek için inşa edilmiştir. Çeşme, aynı zamanda bölgenin önemli bir tarihi mirası olarak kabul edilir.
 
 ---
 

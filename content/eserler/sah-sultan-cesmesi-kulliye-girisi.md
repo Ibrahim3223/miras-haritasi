@@ -1,38 +1,37 @@
 ---
 title: "Şah Sultan Çeşmesi, Külliye Girişi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:20:28+03:00"
 slug: "sah-sultan-cesmesi-kulliye-girisi"
-description: "Şah Sultan Çeşmesi, Külliye Girişi, Eyüpsultan, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Şah Sultan Çeşmesi, Külliye Girişi..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Eyüpsultan"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9362812,41.0448875"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Şah Sultan Çeşmesi, Külliye Girişi
+### Giriş
+Şah Sultan Çeşmesi, Eyüpsultan ilçesinde yer alan tarihi bir yapıdır. Çeşme, Osmanlı döneminden kalma bir külliye kompleksinin ana giriş noktasını oluşturur. Şah Sultan Çeşmesi, hem İstanbul'un tarihi mirası hem de kültürel değerleri açısından önemlidir.
 
-Şah Sultan Çeşmesi, Külliye Girişi, Eyüpsultan, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Tarihçe
+Şah Sultan Çeşmesi, 16. yüzyılda Osmanlı padişahı II. Selim'in eşi Şah Sultan tarafından yaptırılmıştır. Çeşme, Şah Sultan'ın adını taşımasına rağmen, kim tarafından yaptırıldığı tam olarak bilinmemektedir. Ancak, Şah Sultan'ın adının mention edildiği diğer tarihi eserler de bu dönemden kalmış olmalıdır. Çeşme, Osmanlı döneminde inşa edilmiş ve çeşitli修复 (tamir) çalışmalarına uğramıştır.
 
-## Konum ve Erişim
+### Mimari Özellikler
+Şah Sultan Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, beyaz mermerden inşa edilmiş ve bir avlu etrafında düzenlenmiştir. Avlunun ortasında, bir fıskiye (su çeşmesi) bulunur. Fıskiyenin üzerinde, Osmanlı devrine ait bir kitabedir. Kitapta, çeşmenin inşa ediliş tarihi ve Şah Sultan'ın adı bulunmaktadır. Çeşmenin duvarları, ahşap sütunlar ve kubbelerle desteklenmiştir. Ayrıca, çeşme kompleksinin içinde, bir mescit ve bir hamam bulunmaktadır.
 
-Şah Sultan Çeşmesi, Külliye Girişi, İstanbul iline bağlı Eyüpsultan bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+### Ziyaret Bilgileri
+Şah Sultan Çeşmesi, Eyüpsultan ilçesinde yer almaktadır. Çeşme, İstanbul'un en eski ve en önemli tarihi bölgelerinden biridir. Çeşme kompleksine ulaşmak için, Eyüpsultan İstasyonu'ndan yürüyerek ulaşabilirsiniz. Çeşme, yılın her günü ziyarete açıkken, en ideal ziyaret zamanı sabah veya akşamdır. Çeşme kompleksine giriş ücretsizken, fotoğraf çekmek için izin alınması gerekir.
 
-## Tarihsel Önemi
+### Neden Önemli?
+Şah Sultan Çeşmesi, Osmanlı döneminden kalma bir külliye kompleksinin ana giriş noktasını oluşturur. Çeşme, hem İstanbul'un tarihi mirası hem de kültürel değerleri açısından önemlidir. Çeşme kompleksinin içinde, bir mescit ve bir hamam bulunmanın yanı sıra, Osmanlı devrine ait bir kitabesi vardır. Bu kitabeye göre Şah Sultan Çeşmesi, II. Selim'in eşi Şah Sultan tarafından yaptırılmıştır. Çeşme kompleksinin mimari özellikleri, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme kompleksinin ziyaret edilmesi, İstanbul'un tarihi mirasını ve kültürel değerlerini öğrenmek isteyenler için önemlidir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
-
-## Mimari Özellikler
-
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Eyüpsultan, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Genel Bilgiler
+Şah Sultan Çeşmesi, Eyüpsultan ilçesinde yer alan tarihi bir yapıdır. Çeşme, Osmanlı döneminde inşa edilmiş ve çeşitli tamir çalışmalarına uğramıştır. Çeşme kompleksinin içinde, bir mescit ve bir hamam bulunur. Osmanlı devrine ait bir kitabesi bulunan çeşme, II. Selim'in eşi Şah Sultan tarafından yaptırılmıştır. Çeşme kompleksinin mimari özellikleri, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme kompleksinin ziyaret edilmesi, İstanbul'un tarihi mirasını ve kültürel değerlerini öğrenmek isteyenler için önemlidir.
 
 ---
 

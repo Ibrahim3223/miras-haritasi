@@ -1,38 +1,42 @@
 ---
 title: "Kayışdağı Suyu Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:39:05+03:00"
 slug: "kayisdagi-suyu-cesmesi"
-description: "Kayışdağı Suyu Çeşmesi, Osmanağa, Kadıköy ilinde bulunan tarihi bir çeşmedir."
+description: "### Kayışdağı Suyu Çeşmesi: Kadıköy'ün Klasik Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Kayışdağı_Suyu_Çeşmesi.jpg/1200px-Kayışdağı_Suyu_Çeşmesi.jpg"
-province: "Kadıköy"
-iller: ["Kadıköy"]
-district: "Osmanağa"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Kadıköy"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.030222222,40.99325"
 draft: "false"
-weight: "1"
+weight: "10"
 ---
 
-## Kayışdağı Suyu Çeşmesi
+### Kayışdağı Suyu Çeşmesi: Kadıköy'ün Klasik Çeşmesi
 
-Kayışdağı Suyu Çeşmesi, Osmanağa, Kadıköy ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
 
-## Konum ve Erişim
+Kayışdağı Suyu Çeşmesi, Kadıköy'ün Osmanağa semtinde yer alan tarihi bir çeşmedir. Çeşme, 19. yüzyılın ortalarında Osmanlı İmparatorluğu döneminde inşa edilmiştir. Çeşme, klasik Osmanlı mimarisinin güzel bir örneği olarak consideration ediliyor ve Kadıköy'ün tarihi ve kültürel mirası arasında önemli bir yer sahiptir.
 
-Kayışdağı Suyu Çeşmesi, Kadıköy iline bağlı Osmanağa bölgesinde yer almaktadır. Yapıya ulaşmak için Kadıköy şehir merkezinden yararlanılabilir.
+#### Tarihçe
 
-## Tarihsel Önemi
+Kayışdağı Suyu Çeşmesi, 1850'li yıllarda inşa edilmiştir. Çeşme, Osmanlı İmparatorluğu'nun son dönemlerinde, klasik Osmanlı mimarisinin son örneklerinden biridir. Çeşmenin mimarı bilinmemektedir, ancak çeşmenin yapımı ve tasarımı, o dönemde geçerli klasik Osmanlı mimari tarzını yansıtmaktadır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Kadıköy iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Mimari Özellikler
 
-## Mimari Özellikler
+Kayışdağı Suyu Çeşmesi, klasik Osmanlı çeşmesinin tipik özelliklerini taşır. Çeşme, kare planlı bir yapıdır ve dört tarafı da sütunlarla çevrilidir. Sütunlar, klasik Osmanlı mimarisinin karakteristik özelliklerindendir. Çeşmenin yüzeyi, kesme mermerden yapılmıştır ve süslemeler, klasik Osmanlı motiflerini yansıtmaktadır. Çeşmenin girişinde, bir kemerli niş bulunmaktadır ve bu nişte, çeşmenin inşa edildiği tarihe ilişkin bir kitabesi bulunmaktadır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+#### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Kayışdağı Suyu Çeşmesi, Kadıköy'ün Osmanağa semtinde yer almaktadır. Çeşmeye ulaşım, Kadıköy'ün merkezinden Osmanağa semtinin bulunduğu caddeye inmekle mümkündür. Çeşme, her gün 08:00-18:00 saatleri arasında ziyaret edilebilir. Çeşmeyi ziyaret etmek, Kadıköy'ün tarihi ve kültürel mirasını tanımak için ideal bir seçenektir.
 
-Çeşme, Osmanağa, Kadıköy bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+#### Neden Önemli?
+
+Kayışdağı Suyu Çeşmesi, Kadıköy'ün tarihi ve kültürel mirası arasında önemli bir yer tutmaktadır. Çeşme, klasik Osmanlı mimarisinin güzel bir örneği olarak consideration ediliyor ve Kadıköy'ün klasik çeşmelerinden biridir. Çeşmenin tarihi ve mimari özellikleri, Kadıköy'ün tarihi ve kültürel mirasının önemli bir parçası olarak değerlendirilmektedir.
+
+Kayışdağı Suyu Çeşmesi, Kadıköy'ün Osmanağa semtinde yer alan tarihi bir çeşmedir. Çeşme, 19. yüzyılın ortalarında Osmanlı İmparatorluğu döneminde inşa edilmiştir ve klasik Osmanlı mimarisinin güzel bir örneği olarak consideration ediliyor. Çeşme, Kadıköy'ün tarihi ve kültürel mirası arasında önemli bir yer tutmaktadır ve klasik Osmanlı çeşmelerinden biridir.
 
 ---
 

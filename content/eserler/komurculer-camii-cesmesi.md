@@ -1,38 +1,45 @@
 ---
 title: "Kömürcüler Camii Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:37:20+03:00"
 slug: "komurculer-camii-cesmesi"
-description: "Kömürcüler Camii Çeşmesi, Meram, Konya ilinde bulunan tarihi bir çeşmedir."
+description: "### Kömürcüler Camii Çeşmesi: Konya'nın Gizli Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Meram"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.4967232,37.8664093"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Kömürcüler Camii Çeşmesi
+### Kömürcüler Camii Çeşmesi: Konya'nın Gizli Çeşmesi
 
-Kömürcüler Camii Çeşmesi, Meram, Konya ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
+Kömürcüler Camii Çeşmesi, Konya'nın Meram ilçesinde yer alan tarihi bir çeşmedir. Bu yazıda, çeşmenin tarihi ve mimari özelliklerini keşfedeceğiz.
 
-## Konum ve Erişim
+#### Tarihçe
+Kömürcüler Camii Çeşmesi'nin tam yapım tarihi bilinmemekle birlikte, 17. yüzyıldan kalma olduğu düşünülmektedir. Çeşme, Kömürcüler Camii'nin yanına inşa edilmiştir ve caminin adından da anlaşılacağı üzere, caminin kömür satanları tarafından kurulmuştur. Çeşme, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, Osmanlı Döneminde inşa edilmiştir.
 
-Kömürcüler Camii Çeşmesi, Konya iline bağlı Meram bölgesinde yer almaktadır. Yapıya ulaşmak için Konya şehir merkezinden yararlanılabilir.
+#### Mimari Özellikler
+Kömürcüler Camii Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, beyaz mermerden inşa edilmiştir ve dikdörtgen planlıdır. Çeşmenin ön cephesinde, bir kemerli giriş kapısı bulunur. Kapının üstünde, bir nişte yer alan bir kitabeye göre, çeşme, 17. yüzyılda inşa edilmiştir. Çeşmenin ön cephesinde, iki yan tarafta, sütunlar bulunur. Sütunlar, çeşmenin ön cephesini destekler ve caminin yanını sarmalar.
 
-## Tarihsel Önemi
+Çeşme, iç mekan olarak, küçük bir avluya sahiptir. Avlu, sütunların ve kemerin oluşturduğu bir alandır. Avlu, çeşmenin ön cephesine açıktır ve çeşmenin ön cephesini tamamlar. İç mekan olarak, çeşme, küçük bir odadan oluşur. Oda, sütunların oluşturduğu bir alandır. Oda, çeşmenin ön cephesine açıktır ve çeşmenin ön cephesini tamamlar.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Konya iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+Çeşmenin mimari özellikleri, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, dikdörtgen planlıdır ve beyaz mermerden inşa edilmiştir. Çeşmenin ön cephesinde, bir kemerli giriş kapısı bulunur. Kapının üstünde, bir nişte yer alan bir kitabeye göre, çeşme, 17. yüzyılda inşa edilmiştir. Çeşmenin ön cephesinde, iki yan tarafta, sütunlar bulunur. Sütunlar, çeşmenin ön cephesini destekler ve caminin yanını sarmalar.
 
-## Mimari Özellikler
+#### Ziyaret Bilgileri
+Kömürcüler Camii Çeşmesi, Konya'nın Meram ilçesinde yer almaktadır. Çeşme, caminin yanına inşa edilmiştir ve caminin adından da anlaşılacağı üzere, caminin kömür satanları tarafından kurulmuştur. Çeşme, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, Osmanlı Döneminde inşa edilmiştir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Çeşme, ziyaretçilere açık değildir. Ancak, çeşmenin ön cephesini ve iç mekanını, caminin yanından görme şansı vardır. Çeşme, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, tarihi öneme sahiptir.
 
-## Ziyaret Bilgileri
+#### Neden Önemli?
+Kömürcüler Camii Çeşmesi, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, Osmanlı Döneminde inşa edilmiştir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve dikdörtgen planlıdır. Çeşme, beyaz mermerden inşa edilmiştir ve caminin yanına inşa edilmiştir. Çeşme, caminin adından da anlaşılacağı üzere, caminin kömür satanları tarafından kurulmuştur.
 
-Çeşme, Meram, Konya bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Çeşme, ziyaretçilere açık değildir. Ancak, çeşmenin ön cephesini ve iç mekanını, caminin yanından görme şansı vardır. Çeşme, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, tarihi öneme sahiptir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve dikdörtgen planlıdır. Çeşme, beyaz mermerden inşa edilmiştir ve caminin yanına inşa edilmiştir.
+
+Sonuç olarak, Kömürcüler Camii Çeşmesi, Konya'nın Meram ilçesindeki diğer tarihi çeşmeler gibi, Osmanlı Döneminde inşa edilmiştir. Çeşme, klasik Osmanlı mimarisinin özelliklerini taşır ve dikdörtgen planlıdır. Çeşme, beyaz mermerden inşa edilmiştir ve caminin yanına inşa edilmiştir. Çeşme, caminin adından da anlaşılacağı üzere, caminin kömür satanları tarafından kurulmuştur.
 
 ---
 

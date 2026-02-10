@@ -1,40 +1,48 @@
 ---
 title: "Hacı Kasım Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:24:00+03:00"
 slug: "haci-kasim-cesmesi"
-description: "Hacı Kasım Çeşmesi, Melikgazi, Kayseri ilinde bulunan tarihi bir çeşmedir."
+description: "## Hacı Kasım Çeşmesi: Ortahisar'daki Bir Tarihi Çeşme..."
 featured_image: ""
-province: "Kayseri"
-iller: ["Kayseri"]
-district: "Melikgazi"
+province: "Trabzon"
+iller: '["Trabzon"]'
+district: "Ortahisar"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "35.4882317,38.7131653"
+turler: '["Çeşme"]'
+coords: "39.7224617,41.0011024"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Hacı Kasım Çeşmesi
+## Hacı Kasım Çeşmesi: Ortahisar'daki Bir Tarihi Çeşme
 
-Hacı Kasım Çeşmesi, Melikgazi, Kayseri ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+Ortahisar ilçesi, Trabzon'un önemli tarihi bölgelerinden biridir. İlçede bulunan Hacı Kasım Çeşmesi, hem mimari açıdan hem de tarihi öneminden dolayı dikkat çekmektedir. Bu makalede, Hacı Kasım Çeşmesi'nin tarihçesi, mimari özellikleri ve ziyareti hakkında bilgi verilmektedir.
 
-## Konum ve Erişim
+### Tarihçe
 
-Hacı Kasım Çeşmesi, Kayseri iline bağlı Melikgazi bölgesinde yer almaktadır. Yapıya ulaşmak için Kayseri şehir merkezinden yararlanılabilir.
+Hacı Kasım Çeşmesi'nin tam inşa tarihi bilinmemektedir. Ancak, çeşmenin mimari tarzından ve kullanılan malzemelerden yola çıkarak, 17. veya 18. yüzyılın sonlarına tarihlendirilebilir. Çeşme, Osmanlı Dönemi'nde inşa edilmiştir. Osmanlı İmparatorluğu, Trabzon bölgesini 15. yüzyılda fethetti ve bölgedeki birçok tarihi eseri inşa ettirmiştir. Hacı Kasım Çeşmesi, bu döneme ait önemli bir yapıdır.
 
-## Tarihsel Önemi
+### Mimari Özellikler
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Kayseri iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+Hacı Kasım Çeşmesi, Ortahisar'ın merkezi konumundadır. Çeşme, küçük bir alana inşa edilmiştir ve etrafı sade bir duvarla çevrilidir. Çeşme, ahşap ve taş malzemeden yapılmıştır. Kapıları ve pencereleri ahşap olarak tasarlanmıştır. Çeşme, tek katlıdır ve içinde bir avlu bulunmaktadır. Avlu, çeşmenin ortasında bir mermer havuz ve etrafında dört sütun bulunur.
 
-## Mimari Özellikler
+### Ziyaret Bilgileri
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Hacı Kasım Çeşmesi, Ortahisar ilçesinde bulunmaktadır. İller Bankası ve Karayolları arasında bulunan yol, çeşmenin hemen önünde sona ermektedir. Çeşme, günümüzde restore edilmiştir ve ziyarete açıktır. Önemli bir tarihi esere sahip olan Hacı Kasım Çeşmesi, Trabzon'un tarihi ve kültürel mirasının önemli bir parçası konumundadır.
 
-## Ziyaret Bilgileri
+Gidilecek Yer: Ortahisar, Trabzon
 
-Çeşme, Melikgazi, Kayseri bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Gidilecek Yere Ulaşmak:
+
+Trabzon'dan Ortahisar'a ulaşmak için karayolu kullanılır. İller Bankası ve Karayolları arasında bulunan yol, çeşmenin hemen önünde sona ermektedir. Trabzon'dan Ortahisar'a giden otobüsleri kullanmak da mümkündür.
+
+Zaman: Çeşme günün her saatinde ziyarete açıkken, en iyi ziyaret süresi güneş battıktan sonra olan saatlerdir. Bu saatlerde çeşme daha huzurlu bir atmosphere sunar.
+
+### Neden Önemli?
+
+Hacı Kasım Çeşmesi, Ortahisar'ın tarihi ve kültürel mirasının önemli bir parçası konumundadır. Osmanlı Dönemi'ne ait bu çeşme, Trabzon bölgesinin tarihi önemini yansıtıyor. Çeşme, aynı zamanda mimari açıdan da önemli bir değer taşımaktadır. Ahşap ve taş malzemeleri ile inşa edilen çeşme, Osmanlı mimarisinin güzel bir örneğidir.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q130718287)
+- [Wikidata](http://www.wikidata.org/entity/Q130690477)

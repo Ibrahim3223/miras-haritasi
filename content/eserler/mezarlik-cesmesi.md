@@ -1,40 +1,40 @@
 ---
 title: "Mezarlık Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:22:01+03:00"
 slug: "mezarlik-cesmesi"
-description: "Mezarlık Çeşmesi, Milas, Muğla ilinde bulunan tarihi bir çeşmedir."
+description: "**Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**..."
 featured_image: ""
-province: "Muğla"
-iller: ["Muğla"]
-district: "Milas"
+province: "Uşak"
+iller: '["Uşak"]'
+district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "27.816555,37.2981987"
+turler: '["Çeşme"]'
+coords: "29.4116745,38.3648491"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Mezarlık Çeşmesi
+**Mezarlık Çeşmesi: Ulubey, Uşak'ta Bir Önemli Kültürel Miras**
 
-Mezarlık Çeşmesi, Milas, Muğla ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+**Giriş**
+Mezarlık Çeşmesi, Uşak'ın Ulubey ilçesinde yer alan bir tarihi çeşme yapısıdır. Bu eser, bölgede önemli bir kültürel miras olarak kabul edilir ve tarihseverler tarafından ziyaret edilmektedir. Çeşmenin yapımı ve tasarımı, o dönemki mimari tarzın bir örneğidir ve bölgeye özgü bir karakter taşır.
 
-## Konum ve Erişim
+**Tarihçe**
+Mezarlık Çeşmesinin tam inşa tarihi bilinmemektedir, ancak yapının 19. yüzyıla ait olduğu düşünülmektedir. Bu dönem, Osmanlı İmparatorluğu'nun sona erdiği bir dönemdi ve bölge de bu dönemde önemli bir yapılaşmaya sahne oldu. Çeşmenin kim tarafından yapıldığı veya hangi nedenle yapıldığı bilinmemektedir.
 
-Mezarlık Çeşmesi, Muğla iline bağlı Milas bölgesinde yer almaktadır. Yapıya ulaşmak için Muğla şehir merkezinden yararlanılabilir.
+**Mimari Özellikler**
+Mezarlık Çeşmesi, klasik Osmanlı çeşme mimarisi tarzında inşa edilmiştir. Yapının malzemesi çoğunlukla mermer ve taşlardan oluşmaktadır. Çeşmenin planı, kare biçimindedir ve dört farklı yüzeyden oluşmaktadır. Her bir yüzeyde, farklı motifler ve bezekler foundlanmıştır. Çeşmenin ön yüzeyinde, bir adet çeşme suyunun akması için tasarlanan bir kemer yer almaktadır.
 
-## Tarihsel Önemi
+**Ziyaret Bilgileri**
+Ulubey, Uşak'ın bir ilçesidir ve Mezarlık Çeşmesinden sadece birkaç kilometre uzaklıktadır. Çeşme, ilçenin merkezinde yer alan bir park içerisinde bulunmaktadır. Ziyaretçilerin ulaşım için araç kiralaması veya taksi kullanması mümkündür. Çeşme, her gün ziyarete açık olmakla birlikte, sabah ve akşam saatlerinde daha az kalabalık olacaktır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Muğla iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+**Neden Önemli?**
+Mezarlık Çeşmesi, Uşak'ın önemli kültürel miraslarından biridir. Bu çeşme, bölgede önemli bir yapılaşma örneği olarak kabul edilir ve tarihseverler tarafından ziyaret edilmektedir. Çeşmenin mimari yapısı, klasik Osmanlı çeşme mimarisi tarzında inşa edilmiştir ve bölgeye özgü bir karakter taşır. Çeşme, aynı zamanda bölgede su kaynaklarına erişim sağlanmasını sağlayan önemli bir yapı olarak da kabul edilir.
 
-## Mimari Özellikler
-
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Milas, Muğla bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+**Sonuç**
+Mezarlık Çeşmesi, Ulubey, Uşak'ta bulunan bir tarihi çeşme yapısıdır. Çeşmenin tam inşa tarihi bilinmemektedir, ancak yapının 19. yüzyıla ait olduğu düşünülmektedir. Çeşmenin mimari yapısı, klasik Osmanlı çeşme mimarisi tarzında inşa edilmiştir ve bölgeye özgü bir karakter taşır. Çeşme, aynı zamanda bölgede su kaynaklarına erişim sağlanmasını sağlayan önemli bir yapı olarak da kabul edilir. Ziyaretçiler, çeşmeni ziyaret etmek için her gün saat 9:00-17:00 arasında ziyaret edebilir.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q130723732)
+- [Wikidata](http://www.wikidata.org/entity/Q130689650)

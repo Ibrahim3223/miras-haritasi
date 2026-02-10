@@ -1,40 +1,52 @@
 ---
 title: "Koca Çeşme"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:24:20+03:00"
 slug: "koca-cesme"
-description: "Koca Çeşme, Milas, Muğla ilinde bulunan tarihi bir çeşmedir."
+description: "## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme..."
 featured_image: ""
-province: "Muğla"
-iller: ["Muğla"]
-district: "Milas"
+province: "Uşak"
+iller: '["Uşak"]'
+district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "27.5008678,37.4520454"
+turler: '["Çeşme"]'
+coords: "29.2819805,38.5443192"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Koca Çeşme
+## Koca Çeşme: Ulubey'de Bir Tarihi Çeşme
 
-Koca Çeşme, Milas, Muğla ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Koca Çeşme, Uşak ilinin Ulubey ilçesinde yer alan bir tarihi çeşmedir. Eser, mimari açıdan da önemlidir ve bölgedeki diğer tarihi yapılardan farklı bir özelliklere sahiptir. Bu makale, Koca Çeşme'nin tarihçesini, mimari özelliklerini ve ziyarete ilişkin bilgileri içermektedir.
 
-Koca Çeşme, Muğla iline bağlı Milas bölgesinde yer almaktadır. Yapıya ulaşmak için Muğla şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Koca Çeşme'nin kesin yapım tarihi bilinmemekle birlikte, yapı 16. yüzyıla tarihlenmektedir. Çeşme, Ulubey ilçesi sınırları içinde bulunan bir su kaynağı üzerine inşa edilmiştir. Bu su kaynağı, bölgede yaşayan halkın su ihtiyacını karşılamak için kullanılmıştır. Çeşmenin yapımına ilişkin herhangi bir belgeli kayda rastlanmamıştır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Muğla iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Koca Çeşme, klasik Osmanlı mimari tarzını yansıtan bir yapıdır. Çeşme, bir kubbe üzerine inşa edilmiştir. Kubbenin üzerine bir minare bulunmaktadır. Minare, çeşmenin diğer mimari özelliklerinden farklı bir görünüme sahiptir. Minare, çeşmenin daha yüksek bir noktasına yerleştirilmiştir. Çeşme, mermerden kaplanmıştır. Mermerin kullanılması, çeşmenin daha kaliteli ve dayanıklı bir yapı olmasını sağlamıştır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Koca Çeşme, Ulubey ilçesi merkezinde bulunmaktadır. Çeşme, Uşak il merkezine 15 km uzaklıktadır. En yakın şehir merkezine ulaşım, otobüs ve taksi kullanarak sağlanabilir. Çeşme, yılın her döneminde ziyarete açıktır. Ancak yaz aylarında çeşme, fazla ziyaretçi alabildiği için daha uygun bir seçenektir.
 
-Çeşme, Milas, Muğla bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Neden Önemli?
+
+Koca Çeşme, Ulubey ilçesinin tarihi ve kültürel mirasıdır. Çeşme, bölgedeki diğer tarihi yapılardan farklı bir özelliklere sahiptir. Çeşme, Osmanlı mimari tarzının güzel bir örneğidir. Çeşme, bölgede yaşayan halkın su ihtiyacını karşılamak için inşa edilmiştir. Çeşme, bölgedeki su kaynaklarının önemini vurgular. Bu nedenle, Koca Çeşme önemli bir tarihi ve kültürel miras olarak kabul edilir.
+
+### Ek Bilgiler
+
+Koca Çeşme, bölgedeki diğer tarihi yapılardan farklı bir özelliklere sahiptir. Çeşme, bir kubbe üzerine inşa edilmiştir. Kubbenin üzerine bir minare bulunmaktadır. Minare, çeşmenin diğer mimari özelliklerinden farklı bir görünüme sahiptir. Çeşme, mermerden kaplanmıştır. Mermerin kullanılması, çeşmenin daha kaliteli ve dayanıklı bir yapı olmasını sağlamıştır.
+
+Koca Çeşme, bölgedeki su kaynaklarının önemini vurgular. Bu nedenle, Koca Çeşme önemli bir tarihi ve kültürel miras olarak kabul edilir. Çeşme, bölgede yaşayan halkın su ihtiyacını karşılamak için inşa edilmiştir. Çeşme, Osmanlı mimari tarzının güzel bir örneğidir.
+
+Koca Çeşme, Ulubey ilçesinin tarihi ve kültürel mirasıdır. Çeşme, bölgedeki diğer tarihi yapılardan farklı bir özelliklere sahiptir. Çeşme, bir kubbe üzerine inşa edilmiştir. Kubbenin üzerine bir minare bulunmaktadır. Minare, çeşmenin diğer mimari özelliklerinden farklı bir görünüme sahiptir. Çeşme, mermerden kaplanmıştır. Mermerin kullanılması, çeşmenin daha kaliteli ve dayanıklı bir yapı olmasını sağlamıştır.
+
+Sonuç olarak, Koca Çeşme, Ulubey ilçesinin tarihi ve kültürel mirasıdır. Çeşme, bölgedeki diğer tarihi yapılardan farklı bir özelliklere sahiptir. Çeşme, Osmanlı mimari tarzının güzel bir örneğidir. Çeşme, bölgede yaşayan halkın su ihtiyacını karşılamak için inşa edilmiştir. Çeşme, bölgedeki su kaynaklarının önemini vurgular. Bu nedenle, Koca Çeşme önemli bir tarihi ve kültürel miras olarak kabul edilir.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q130723730)
+- [Wikidata](http://www.wikidata.org/entity/Q130689683)

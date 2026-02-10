@@ -1,40 +1,41 @@
 ---
 title: "Demirci Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:44:51+03:00"
 slug: "demirci-cesmesi"
-description: "Demirci Çeşmesi, Üsküdar, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "## Demirci Çeşmesi: Sivrihisar'ın Değerli Kültürel Mirası..."
 featured_image: ""
-province: "İstanbul"
-iller: ["İstanbul"]
-district: "Üsküdar"
+province: "Eskişehir"
+iller: '["Eskişehir"]'
+district: "Sivrihisar"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "29.0704994,41.0191994"
+turler: '["Çeşme"]'
+coords: "31.5415993,39.4480019"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Demirci Çeşmesi
+## Demirci Çeşmesi: Sivrihisar'ın Değerli Kültürel Mirası
 
-Demirci Çeşmesi, Üsküdar, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+Demirci Çeşmesi, Eskişehir'in Sivrihisar ilçesinde yer alan bir tarihi ve kültürel miras eseri olarak dikkat çekmektedir. Bu çeşme, bölgenin tarihi dokusunu şekillendiren önemli bir yapı olarak kabul edilir.
 
-## Konum ve Erişim
+### Giriş
+Demirci Çeşmesi, Sivrihisar ilçesindeki demirciler için inşa edilen tarihi bir çeşmedir. Çeşme, Sivrihisar'ın merkezindeki bir cadde üzerinde yer almaktadır ve bölgenin zengin kültürel mirasının bir parçasıdır. Çeşme, hem ziyaretçi çekme potansiyeline hem de tarihi dokuya katkıda bulunması açısından önemli bir eser olarak kabul edilmektedir.
 
-Demirci Çeşmesi, İstanbul iline bağlı Üsküdar bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+### Tarihçe
+Demirci Çeşmesinin tam yapım tarihi bilinmemektedir, ancak 18. yüzyıla tarihlenen bir yapı olarak kabul edilmektedir. Çeşme, Sivrihisar'ın demircilik geleneğinin önemli bir parçası olarak inşa edilmiştir. Demirciler, çeşmenin yanına yerleştikleri için "Demirci Çeşmesi" ismi verilmiştir. Çeşmenin yapımına kimin başladığı veya hangi kişiler tarafından inşa edildiği bilinmemektedir.
 
-## Tarihsel Önemi
+### Mimari Özellikler
+Demirci Çeşmesi, klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, doğal taşlardan inşa edilmiştir ve bir kubbeli çeşme olarak tasarlanmıştır. Çeşmenin ana yapısı, sekizgen bir plana sahiptir ve çeşmenin dört bir yanındaki sütunlar, çeşmenin dengesini sağlamaktadır. Çeşmenin ön cephesi, bir nişe sahiptir ve çeşmenin girişini sağlayan bir kapıya sahiptir. Çeşmenin üst kubbesi, bir kubbe olarak tasarlanmıştır ve çeşmenin dengesini sağlamaktadır.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Ziyaret Bilgileri
+Demirci Çeşmesi, Sivrihisar'ın merkezindeki bir cadde üzerinde yer almaktadır. Çeşme, kolayca ulaşılabilecek bir yerine yapılmıştır. Çeşmeyi ziyaret etmek isteyenler, Sivrihisar'a gelenler için kolay bir yere sahiptir ve bölgenin diğer tarihi eserleri ile birlikte ziyaret edilebilir. En iyi ziyaret zamanı, Sivrihisar'ın sıcak yaz günlerinde çeşmenin serinliği ile keyif almak olacaktır.
 
-## Mimari Özellikler
+### Neden Önemli?
+Demirci Çeşmesi, Sivrihisar'ın tarihinde önemli bir role sahip olan demircilik geleneğinin bir parçası olarak kabul edilmektedir. Çeşme, bölgenin kültürel mirasına katkıda bulunması ve ziyaretçi çekme potansiyeline sahip olması açısından önemli bir eser olarak kabul edilmektedir. Çeşme, bölgenin tarihi dokusunu şekillendiren önemli bir yapı olarak kabul edilir ve Sivrihisar'ın değerli kültürel mirası olarak korunması gereken bir eser olarak kabul edilmektedir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Üsküdar, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Demirci Çeşmesi, Sivrihisar'ın değerli kültürel mirası olarak kabul edilen bir tarihi eserdir. Çeşme, bölgenin tarihi dokusunu şekillendiren önemli bir yapı olarak kabul edilir ve ziyaretçi çekme potansiyeline sahip olması açısından önemli bir eser olarak kabul edilmektedir. Çeşme, Sivrihisar'ın demircilik geleneğinin önemli bir parçası olarak inşa edilmiş ve bölgenin kültürel mirasına katkıda bulunması açısından önemli bir rol oynamaktadır.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q131836346)
+- [Wikidata](http://www.wikidata.org/entity/Q130693143)

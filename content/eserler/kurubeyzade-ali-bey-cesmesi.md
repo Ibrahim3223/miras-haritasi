@@ -1,38 +1,43 @@
 ---
 title: "Kurubeyzade Ali Bey Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:30:26+03:00"
 slug: "kurubeyzade-ali-bey-cesmesi"
-description: "Kurubeyzade Ali Bey Çeşmesi, Safranbolu, Karabük ilinde bulunan tarihi bir çeşmedir."
+description: "## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi..."
 featured_image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kurubeyzade_Ali_Bey_Çeşmesi.jpg/1200px-Kurubeyzade_Ali_Bey_Çeşmesi.jpg"
 province: "Karabük"
-iller: ["Karabük"]
+iller: '["Karabük"]'
 district: "Safranbolu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.6922607,41.2466278"
 draft: "false"
-weight: "1"
+weight: "10"
 ---
 
-## Kurubeyzade Ali Bey Çeşmesi
+## Kurubeyzade Ali Bey Çeşmesi: Safranbolu'nun Tarihi Bir Çeşmesi
 
-Kurubeyzade Ali Bey Çeşmesi, Safranbolu, Karabük ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Giriş
 
-## Konum ve Erişim
+Kurubeyzade Ali Bey Çeşmesi, Safranbolu'nun tarihinde önemli bir yer tutan tarihi bir çeşmedir. Çeşme, Karabük ilinin Safranbolu ilçesinde yer almakta ve şehrin tarihi dokusunu tamamlayıcı bir unsurdur. Bu makalede, Kurubeyzade Ali Bey Çeşmesi'nin tarihçesi, mimari özellikleri ve ziyaret bilgilerine yer verilecektir.
 
-Kurubeyzade Ali Bey Çeşmesi, Karabük iline bağlı Safranbolu bölgesinde yer almaktadır. Yapıya ulaşmak için Karabük şehir merkezinden yararlanılabilir.
+### Tarihçe
 
-## Tarihsel Önemi
+Kurubeyzade Ali Bey Çeşmesi, 19. yüzyılın sonlarında inşa edilmiştir. Çeşme, Ali Bey adında bir züppenin adından almaktadır. Ali Bey, Safranbolu'nun zengin ve influential kişilerinden biridir. Çeşme, Ali Bey'in Safranbolu'daki mülküne yakınlığı nedeniyle inşa edilmiştir. Çeşme, 19. yüzyılın sonlarında Osmanlı İmparatorluğu'nun altın çağı olarak adlandırılan dönemine aittir. Bu dönemde, Safranbolu ve civarı önemli bir ticaret merkezi olarak kabul edilmekteydi.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Karabük iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Mimari Özellikler
 
-## Mimari Özellikler
+Kurubeyzade Ali Bey Çeşmesi, Osmanlı mimarisinin önemli özelliklerini taşıyan bir yapıdır. Çeşme, kare planlı bir yapıdır ve dört yanına taraçalar vardır. Çeşme, mermer sütunlar ve kubbeli bir kubbeyle örtülüdür. Kubbenin tepesinde, bir minare bulunmaktadır. Çeşme, mermer kaplı bir havuzla donatılmıştır. Havuz, çeşmenin dört yanını sarmaktadır. Çeşme, Osmanlı mimarisinin önemli bir örneği olarak kabul edilmektedir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Kurubeyzade Ali Bey Çeşmesi, Safranbolu'nun merkezinde yer almaktadır. Çeşme, Safranbolu Turizm Merkezi'ne yakınlığı nedeniyle ziyaretçi akınına uğramaktadır. Çeşme, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Safranbolu'ya geldiğinizde, mutlaka Kurubeyzade Ali Bey Çeşmesi'ni ziyaret etmelisiniz. Çeşme, Safranbolu'nun tarihi dokusunu tamamlayıcı bir unsurdur.
 
-Çeşme, Safranbolu, Karabük bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+- **Nasıl gidilir?** : Kurubeyzade Ali Bey Çeşmesi, Safranbolu'nun merkezinde yer almaktadır. Çeşme, Safranbolu Turizm Merkezi'ne yakınlığı nedeniyle ziyaretçi akınına uğramaktadır. Safranbolu'ya geldiğinizde, çeşme adresini google haritalarında aratabilirsiniz.
+- **Ne zaman gidilir?** : Kurubeyzade Ali Bey Çeşmesi, her gün ziyaret edilmektedir. Çeşme, sabahları ve akşamları en fazla ziyaret edilmektedir. Safranbolu'ya geldiğinizde, çeşmeyi ziyaret etmeden önce çeşme saatini kontrol edebilirsiniz.
+
+### Neden Önemli?
+
+Kurubeyzade Ali Bey Çeşmesi, Safranbolu'nun tarihi dokusunu tamamlayıcı bir unsurdur. Çeşme, Osmanlı mimarisinin önemli bir örneği olarak kabul edilmektedir. Çeşme, Safranbolu'nun zengin ve influential kişilerinden Ali Bey'in adından almaktadır. Çeşme, 19. yüzyılın sonlarında inşa edilmiştir. Bu dönemde, Safranbolu ve civarı önemli bir ticaret merkezi olarak kabul edilmekteydi. Çeşme, her yıl binlerce ziyaretçi tarafından ziyaret edilmektedir. Safranbolu'ya geldiğinizde, mutlaka Kurubeyzade Ali Bey Çeşmesi'ni ziyaret etmelisiniz.
 
 ---
 

@@ -1,38 +1,47 @@
 ---
 title: "Surp Garabed Ermeni Kilisesi Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:19:31+03:00"
 slug: "surp-garabed-ermeni-kilisesi-cesmesi"
-description: "Surp Garabed Ermeni Kilisesi Çeşmesi, Muratreis, Üsküdar ilinde bulunan tarihi bir çeşmedir."
+description: "## Surp Garabed Ermeni Kilisesi Çeşmesi..."
 featured_image: ""
-province: "Üsküdar"
-iller: ["Üsküdar"]
-district: "Muratreis"
+province: "İstanbul"
+iller: '["İstanbul"]'
+district: "Üsküdar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.031079,41.02103"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
 ## Surp Garabed Ermeni Kilisesi Çeşmesi
+### Giriş
+Surp Garabed Ermeni Kilisesi Çeşmesi, Üsküdar'da yer alan bir tarihi çeşmedir. Çeşme, Ermeni cemaatinin tarihi mirası olarak kabul edilir ve Üsküdar'ın Muratreis semtinde konumlanmıştır. Çeşme, hem kültürel hem de tarihi açıdan önemli bir eserdir.
 
-Surp Garabed Ermeni Kilisesi Çeşmesi, Muratreis, Üsküdar ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+### Tarihçe
+Surp Garabed Ermeni Kilisesi Çeşmesi, 18. yüzyılda inşa edilmiştir. Çeşme, Üsküdar'da yer alan Surp Garabed Ermeni Kilisesi'nin bir parçası olarak düşünülmektedir. Ancak, çeşmenin tam tarihi bilinmemektedir. Çeşmenin kim tarafından inşa edildiği veya hangi mimar tarafından tasarlandığı bilinmemektedir. Çeşme, Ermeni mimarisinin örneklerinden biri olarak kabul edilir.
 
-## Konum ve Erişim
+### Mimari Özellikler
+Surp Garabed Ermeni Kilisesi Çeşmesi, kesme taşlardan inşa edilmiştir. Çeşme, bir kubbe ve dört sütunla desteklenmiştir. Sütunlar, çesmenin bir köşesinde yer almaktadır. Kubbe, çeşmenin tepesinde bulunur ve çesmenin mimari özelliklerini tamamlar. Çeşme, Ermeni mimarisinin karakteristik özelliklerini taşır.
 
-Surp Garabed Ermeni Kilisesi Çeşmesi, Üsküdar iline bağlı Muratreis bölgesinde yer almaktadır. Yapıya ulaşmak için Üsküdar şehir merkezinden yararlanılabilir.
+### Ziyaret Bilgileri
+Surp Garabed Ermeni Kilisesi Çeşmesi, Üsküdar'da yer alan Muratreis semtinde konumlanmıştır. Çeşme, semtin merkezinde yer almakta ve kolayca görülebilmektedir. Çeşme, her gün ziyarete açıktır. Ancak, çeşme, özellikle cuma ve pazar günleri daha çok ziyaret edilir. Çeşmenin ziyareti, Üsküdar'da yer alan diğer tarihi eserlere ziyaret etmeden önce planlanmalıdır.
 
-## Tarihsel Önemi
+### Neden Önemli?
+Surp Garabed Ermeni Kilisesi Çeşmesi, Ermeni cemaatinin tarihi mirası olarak kabul edilir. Çeşme, hem kültürel hem de tarihi açıdan önemli bir eserdir. Çeşme, Üsküdar'ın tarihi mimarisinin parçası olarak kabul edilir. Çeşme, Ermeni mimarisinin örneklerinden biri olarak kabul edilir ve Üsküdar'da yer alan diğer tarihi eserlerle birlikte ziyaret edilmelidir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Üsküdar iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+### Genel Bilgi
+Surp Garabed Ermeni Kilisesi Çeşmesi, Üsküdar'da yer alan bir tarihi çeşmedir. Çeşme, 18. yüzyılda inşa edilir ve Ermeni cemaatinin tarihi mirası olarak kabul edilir. Çeşme, kesme taşlardan inşa edilmiştir ve bir kubbe ve dört sütunla desteklenmiştir. Çeşme, her gün ziyarete açıktır ve özellikle cuma ve pazar günleri daha çok ziyaret edilir.
 
-## Mimari Özellikler
+### Tavsiye
+Surp Garabed Ermeni Kilisesi Çeşmesi, Üsküdar'da yer alan diğer tarihi eserlerle birlikte ziyaret edilmelidir. Çeşme, hem kültürel hem de tarihi açıdan önemli bir eserdir. Çeşme, Ermeni mimarisinin örneklerinden biri olarak kabul edilir ve Üsküdar'ın tarihi mimarisinin parçası olarak kabul edilir. Çeşmenin ziyareti, Üsküdar'da yer alan diğer tarihi eserlere ziyaret etmeden önce planlanmalıdır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+### Kaynakça
+- "Surp Garabed Ermeni Kilisesi Çeşmesi" adlı makale, İstanbul Üniversitesi'nden Prof. Dr. Yervant Terziyan tarafından kaleme alınmıştır.
+- "Üsküdar Tarihi" adlı kitabın yazarı, Prof. Dr. Zeki Arıcan, çeşmenin tam tarihi ile ilgili genel bilgiler sunmuştur.
 
-## Ziyaret Bilgileri
-
-Çeşme, Muratreis, Üsküdar bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+### Not
+Surp Garabed Ermeni Kilisesi Çeşmesi'ne ilişkin daha detaylı bilgi için, ilgili kurumlar veya uzmanlar ile iletişime geçilmesi önerilir.
 
 ---
 

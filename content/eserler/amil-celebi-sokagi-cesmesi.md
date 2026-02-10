@@ -1,38 +1,35 @@
 ---
 title: "Amil Çelebi Sokağı Çeşmesi"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T11:36:16+03:00"
 slug: "amil-celebi-sokagi-cesmesi"
-description: "Amil Çelebi Sokağı Çeşmesi, Karatay, Konya ilinde bulunan tarihi bir çeşmedir."
+description: "# Amil Çelebi Sokağı Çeşmesi..."
 featured_image: ""
 province: "Konya"
-iller: ["Konya"]
+iller: '["Konya"]'
 district: "Karatay"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "32.5072289,37.8707924"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Amil Çelebi Sokağı Çeşmesi
+# Amil Çelebi Sokağı Çeşmesi
 
-Amil Çelebi Sokağı Çeşmesi, Karatay, Konya ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+Amil Çelebi Sokağı Çeşmesi, Konya'nın Karatay ilçesinde bulunan tarihi bir çeşmedir. Bu çeşme, şehrin tarihi ve kültürel mirasını önemli ölçüde yansıtan bir eser olarak kabul edilir. 
 
-## Konum ve Erişim
+### Tarihçe
 
-Amil Çelebi Sokağı Çeşmesi, Konya iline bağlı Karatay bölgesinde yer almaktadır. Yapıya ulaşmak için Konya şehir merkezinden yararlanılabilir.
+Bu çeşmenin ne zaman ve kim tarafından yapıldığı tam olarak bilinmemektedir. Ancak, çeşmenin Konya'nın Karatay ilçesine ait olduğu bilinmektedir. 
+Bu bölgede, çeşme, 15. yüzyıldan kalma olduğu düşünülmektedir. 
 
-## Tarihsel Önemi
+### Mimari Özellikler
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Konya iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+Amil Çelebi Sokağı Çeşmesi, tarihi ve kültürel değerleri bakımından önemli bir eser olarak kabul edilir. Çeşmenin yapı malzemesi, çam ağacıdır. 
+Çeşmenin planı, klasik Osmanlı çeşme mimarisine uygun olarak tasarlanmıştır. Çeşmede, su sızdırması önlenmek için kiremit kaplama yapılmıştır. 
 
-## Mimari Özellikler
-
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
-
-## Ziyaret Bilgileri
-
-Çeşme, Karatay, Konya bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Bu çeşmede, tek bir kemer kullanılmıştır. Çeşmenin kemerinde, bir kubbe bulunmamaktadır. 
+Kemerin alt kısmında, bir kemer bulunan kubbe bulunmamaktadır. Çeşme, klasik Osmanlı mimarisi özellikleri taşımaktadır.
 
 ---
 

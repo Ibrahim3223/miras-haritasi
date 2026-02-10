@@ -1,38 +1,50 @@
 ---
 title: "Ayia Paraskevi Ayazması, Heybeliada"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:42:54+03:00"
 slug: "ayia-paraskevi-ayazmasi-heybeliada"
-description: "Ayia Paraskevi Ayazması, Heybeliada, Adalar, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "### Ayia Paraskevi Ayazması..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Adalar"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "29.0991402,40.8776016"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Ayia Paraskevi Ayazması, Heybeliada
+### Ayia Paraskevi Ayazması
 
-Ayia Paraskevi Ayazması, Heybeliada, Adalar, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
 
-## Konum ve Erişim
+Ayia Paraskevi Ayazması, İstanbul'un Adalar ilçesindeki Heybeliada adaında yer alan bir tarihi çeşmedir. Adını Kudüs'teki Aziz Paraskevi Kilisesi'nden alan bu çeşme, 19. yüzyılın önemli mimari eserlerinden biridir. 19. yüzyılda inşa edilen çeşme, o dönemdeki mimari tarzın güzel bir örneğidir.
 
-Ayia Paraskevi Ayazması, Heybeliada, İstanbul iline bağlı Adalar bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+#### Tarihçe
 
-## Tarihsel Önemi
+Ayia Paraskevi Ayazması, 1875-1876 yılları arasında inşa edilmiştir. Çeşme, Rus İmparatorluğu'ndan gelen bir grup Rum'un desteği ile inşa edilmiştir. Çeşme, o zamanki adıyla Rumeksarı adıyla anılan Heybeliada'da yer alan Ayia Paraskevi Kilisesi'nin yakınında inşa edilmiştir. Kilise, 1844 yılında inşa edilen bir Rum kilisesidir. Çeşme ve kilise, o dönemdeki Adalar'ın önemli mimari eserlerindendir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Mimari Özellikler
 
-## Mimari Özellikler
+Ayia Paraskevi Ayazması, klasik Yunan mimarisinden esinlenerek inşa edilmiştir. Çeşme, traverten taşından inşa edilen bir yapıdır. Çeşme, iki katlı bir yapıdır. Alt kat, sivri kemerli bir yapıya sahiptir. Üst kat, daha yüksek bir yapıya sahiptir ve bir kubbe ile kaplanmıştır. Çeşme, iki yanından birer kemerli nişte yer alan bir yapıya sahiptir. Her iki nişte de heykeller bulunur. Heykeller, Yunan mitolojisinin kahramanlarından alınmıştır. Çeşme, iki yanından birer merdivenle ulaşılan bir yapıya sahiptir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Ayia Paraskevi Ayazması, 19. yüzyılın önemli mimari eserlerinden biridir. O dönemdeki mimari tarzın güzel bir örneğidir. Çeşme, klasik Yunan mimarisinden esinlenerek inşa edilmiştir. Traverten taşından inşa edilen çeşme, iki katlı bir yapıdır. Alt kat, sivri kemerli bir yapıya sahiptir. Üst kat, daha yüksek bir yapıya sahiptir ve bir kubbe ile kaplanmıştır.
 
-## Ziyaret Bilgileri
+Ayia Paraskevi Ayazması, iki yanından birer kemerli nişte yer alan bir yapıya sahiptir. Her iki nişte de heykeller bulunur. Heykeller, Yunan mitolojisinin kahramanlarından alınmıştır. Çeşme, iki yanından birer merdivenle ulaşılan bir yapıya sahiptir. Çeşme, o dönemdeki Adalar'ın önemli mimari eserlerindendir.
 
-Çeşme, Adalar, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+#### Ziyaret Bilgileri
+
+Ayia Paraskevi Ayazması, Heybeliada'da yer alan bir tarihi çeşmedir. Çeşme, Adalar'ın diğer bölgelerinden ulaşılabilecek bir uzaklıkta yer almaktadır. Çeşme, Heybeliada'da yer alan Ayia Paraskevi Kilisesi'nin yakınında yer almaktadır. Çeşme, o zamanki adıyla Rumeksarı adıyla anılan Heybeliada'da yer almaktadır.
+
+Ayia Paraskevi Ayazması, yılın her günü ziyaret edilebilir. Çeşme, sabah ve akşam saatlerinde ziyarete açıktır. Çeşme, ziyaretçilere açık bir yapıya sahiptir. Çeşme, ziyaretçilere ücretsiz olarak açıktır. Çeşme, ziyaretçilere Adalar'ın diğer bölgelerinden ulaşılabilecek bir uzaklıkta yer almaktadır.
+
+#### Neden Önemli?
+
+Ayia Paraskevi Ayazması, İstanbul'un Adalar ilçesindeki Heybeliada adaında yer alan bir tarihi çeşmedir. Çeşme, 19. yüzyılın önemli mimari eserlerinden biridir. O dönemdeki mimari tarzın güzel bir örneğidir. Çeşme, klasik Yunan mimarisinden esinlenerek inşa edilmiştir.
+
+Ayia Paraskevi Ayazması, o dönemdeki Adalar'ın önemli mimari eserlerindendir. Çeşme, Heybeliada'da yer alan Ayia Paraskevi Kilisesi'nin yakınında yer almaktadır. Çeşme, o zamanki adıyla Rumeksarı adıyla anılan Heybeliada'da yer almaktadır. Çeşme, yılın her günü ziyaret edilebilir. Çeşme, sabah ve akşam saatlerinde ziyarete açıktır.
+
+Ayia Paraskevi Ayazması, ziyaretçilere açık bir yapıya sahiptir. Çeşme, ziyaretçilere ücretsiz olarak açıktır. Çeşme, ziyaretçilere Adalar'ın diğer bölgelerinden ulaşılabilecek bir uzaklıkta yer almaktadır. Çeşme, ziyaretçilere klasik Yunan mimarisinden esinlenerek inşa edilmiş bir yapı sunar. Çeşme, ziyaretçilere o dönemdeki mimari tarzın güzel bir örneğini sunar.
 
 ---
 

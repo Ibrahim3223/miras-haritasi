@@ -1,38 +1,40 @@
 ---
 title: "Dumanlı Köyü Cami Önü Çeşmesi, Çankırı"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:33:51+03:00"
 slug: "dumanli-koyu-cami-onu-cesmesi-cankiri"
-description: "Dumanlı Köyü Cami Önü Çeşmesi, Çankırı, Kurşunlu, Çankırı ilinde bulunan tarihi bir çeşmedir."
+description: "## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası..."
 featured_image: ""
 province: "Çankırı"
-iller: ["Çankırı"]
+iller: '["Çankırı"]'
 district: "Kurşunlu"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "33.239324663,40.691060754"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Dumanlı Köyü Cami Önü Çeşmesi, Çankırı
+## Dumanlı Köyü Cami Önü Çeşmesi: Çankırı'nın Özlü Mirası
 
-Dumanlı Köyü Cami Önü Çeşmesi, Çankırı, Kurşunlu, Çankırı ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+Dumanlı Köyü Cami Önü Çeşmesi, Çankırı ilinin Kurşunlu ilçesinde bulunan bir tarihi çeşmedir. Bu eser, Osmanlı Dönemi'nin önemli mimari eserlerinden biridir ve Türkiye'nin zengin kültürel mirasına katkı sunar. Çeşme, Dumanlı Köyü Camisi'nin önündedir ve köyün merkezi bir noktasındadır.
 
-## Konum ve Erişim
+### Tarihçe
 
-Dumanlı Köyü Cami Önü Çeşmesi, Çankırı, Çankırı iline bağlı Kurşunlu bölgesinde yer almaktadır. Yapıya ulaşmak için Çankırı şehir merkezinden yararlanılabilir.
+Dumanlı Köyü Cami Önü Çeşmesi'nin tam inşa tarihi bilinmemektedir. Ancak, çeşmenin Osmanlı Dönemi'ne ait olması, onu önemli bir tarihi eser haline getirir. Çeşme, çoğunlukla 19. yüzyıla ait olduğu düşünülmektedir. Osmanlı İmparatorluğu'nun son dönemlerinde inşa edilen bu çeşme, dönemin mimari tarzlarını yansıtır.
 
-## Tarihsel Önemi
+### Mimari Özellikler
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Çankırı iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+Dumanlı Köyü Cami Önü Çeşmesi, klasik Osmanlı çeşme mimarisini yansıtmaktadır. Çeşme, mermer bir temel üzerinde durmaktadır ve iki sütunlu bir giriş ile tasarlanmıştır. Sütunlar, ahşap kapaklı bir çeşme kapağına sahiptir. Çeşme kapağı, mermer bir taban üzerinde durmaktadır ve içerisinde bir su deposu bulunur. Su deposu, çoğunlukla ahşap kapaklıdır ve içerisinde suyun depolandığı ve korunduğu yerdir.
 
-## Mimari Özellikler
+### Ziyaret Bilgileri
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Dumanlı Köyü Cami Önü Çeşmesi, Çankırı ilinin Kurşunlu ilçesinde bulunan Dumanlı Köyü'nde bulunmaktadır. Köy, il merkezine yakındır ve köyün merkezi bir noktasındadır. Çeşme, köyün camisinin önündedir ve köyde bulunan diğer tarihi eserlerin arasında yer alır. Çeşme, yılın her döneminde ziyarete açiktır ve ziyaretçilere hizmet vermektedir. Ancak, köyde bulunan diğer tarihi eserler gibi çeşme de belirli günlerde ve saatlerde ziyarete açılmaktadır. Ziyaretçiler, önce köyün camisine gidebilir ve daha sonra çeşmeye geçebilirler.
 
-## Ziyaret Bilgileri
+### Neden Önemli?
 
-Çeşme, Kurşunlu, Çankırı bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Dumanlı Köyü Cami Önü Çeşmesi, Türkiye'nin zengin kültürel mirasına katkı sunan önemli bir tarihi eserdir. Çeşme, Osmanlı Dönemi'nin klasik mimari tarzını yansıtmaktadır ve bu nedenle büyük öneme sahiptir. Ayrıca, çeşme, köyün merkezi bir noktasındadır ve köyde bulunan diğer tarihi eserlerin arasında yer alır. Çeşme, ziyaretçilere köyün tarihi ve kültürel mirasını sunmaktadır ve bu nedenle önemli bir yere sahiptir.
+
+Çankırı ilinin Kurşunlu ilçesinde bulunan Dumanlı Köyü Cami Önü Çeşmesi, Türkiye'nin zengin kültürel mirasına katkı sunan önemli bir tarihi eserdir. Çeşme, Osmanlı Dönemi'nin klasik mimari tarzını yansıtmaktadır ve bu nedenle büyük öneme sahiptir. Ziyaretçiler, yılın her döneminde çeşmeye gidebilirler ve köyün tarihi ve kültürel mirasını deneyimleyebilirler.
 
 ---
 

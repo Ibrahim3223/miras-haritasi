@@ -1,40 +1,44 @@
 ---
 title: "Sülüklü Çeşme"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T10:21:07+03:00"
 slug: "suluklu-cesme"
-description: "Sülüklü Çeşme, Altıeylül, Balıkesir ilinde bulunan tarihi bir çeşmedir."
+description: "### Sülüklü Çeşme..."
 featured_image: ""
-province: "Balıkesir"
-iller: ["Balıkesir"]
-district: "Altıeylül"
+province: "Uşak"
+iller: '["Uşak"]'
+district: "Ulubey"
 type: "Çeşme"
-turler: ["Çeşme"]
-coords: "27.8805542,39.640892"
+turler: '["Çeşme"]'
+coords: "29.2552032,38.2807465"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Sülüklü Çeşme
+### Sülüklü Çeşme
 
-Sülüklü Çeşme, Altıeylül, Balıkesir ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+#### Giriş
 
-## Konum ve Erişim
+Sülüklü Çeşme, Uşak'ın Ulubey ilçesinde yer alan bir tarihi çeşmedir. Bu çeşme, ilçenin görsel güzelliklerini ve kültürel mirasını ziyaretçiler ile buluşturmak amacıyla kurulmuştur. Sülüklü Çeşme, hem Ulubey'in hem de Uşak'ın tarihi ve kültürel mirası açısından önemli bir eserdir.
 
-Sülüklü Çeşme, Balıkesir iline bağlı Altıeylül bölgesinde yer almaktadır. Yapıya ulaşmak için Balıkesir şehir merkezinden yararlanılabilir.
+#### Tarihçe
 
-## Tarihsel Önemi
+Sülüklü Çeşme'nin tam tarihçesi bilinmemekle birlikte, yapının 18. yüzyılda inşa edildiği düşünülmektedir. Bu dönemde Osmanlı İmparatorluğu'nun Uşak bölgesine yönelik kültürel ve ekonomik faaliyetler yoğunlaşmıştır. Sülüklü Çeşme, bu dönemde inşa edilen diğer tarihi eserlerle birlikte Uşak'ın kültürel mirasının önemli bir parçası olarak kabul edilebilir.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. Balıkesir iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+#### Mimari Özellikler
 
-## Mimari Özellikler
+Sülüklü Çeşme, çeşme mimarisinin klasik özelliklerini taşımaktadır. Yapının malzemesi taştan ve mermerden yapılmıştır. Çeşme, sivri kemerli bir giriş kapıya sahiptir. İç mekan, dört sütun üzerine oturan bir kubbe ile örtülüdür. Kubbe, çeşmenin ana yapısını taşıyacak şekilde tasarlanmıştır. Sülüklü Çeşme'nin en dikkat çekici özelliği, çeşmenin üzerinde yer alan sülük motifli bir heykeldir. Bu heykel, çeşmenin adı ile de ilgili bulunmaktadır.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+#### Ziyaret Bilgileri
 
-## Ziyaret Bilgileri
+Sülüklü Çeşme, Ulubey ilçesinin merkezinde yer almaktadır. Çeşme, Uşak'a 30 dakika uzaklıktadır. Uşak'a ulaşmak için en yakın havalimanı, İzmir Adnan Menderes Havalimanı'dır. Çeşme, Ulubey'den yaklaşık 10 dakika uzaklıktadır. Çeşme'nin ziyaret saatleri, günün her saatinde açıktır. Ancak ziyaretçiler çeşmeyi günün en iyi ışık saatlerinde ziyaret edebilirler.
 
-Çeşme, Altıeylül, Balıkesir bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+#### Neden Önemli?
+
+Sülüklü Çeşme, Uşak'ın kültürel mirasının önemli bir parçası olarak kabul edilmektedir. Çeşme, bölgede yer alan diğer tarihi eserlerin yanı sıra, Uşak'ın tarihini ve kültürünü yansıtan bir eserdir. Sülüklü Çeşme, ziyaretçilere Uşak'ın tarihi ve kültürel mirasını deneyimleme fırsatı sunmaktadır. Çeşme, aynı zamanda bölgede yer alan diğer tarihi eserlerin bir parçası olarak da öneme sahiptir.
+
+Sülüklü Çeşme, Uşak'ın kültürel mirası ve tarihi güzelliklerinin tanıtımı için önemlidir. Çeşme, ziyaretçiler ile buluşturulan bir eser olarak, Uşak'ın tarihi ve kültürel mirasını yaşatma misyonunu taşımaktadır. Sülüklü Çeşme'nin ziyaret edilmesi, Uşak'ın tarihi ve kültürel mirasını deneyimleme fırsatı sunan bir deneyim olacaktır.
 
 ---
 
 **Kaynaklar:**
-- [Wikidata](http://www.wikidata.org/entity/Q130718634)
+- [Wikidata](http://www.wikidata.org/entity/Q130689681)

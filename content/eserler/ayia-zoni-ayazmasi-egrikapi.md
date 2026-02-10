@@ -1,38 +1,50 @@
 ---
 title: "Ayia Zoni Ayazması, Eğrikapı"
-date: "2025-01-04T10:00:00+03:00"
+date: "2025-12-25T12:39:33+03:00"
 slug: "ayia-zoni-ayazmasi-egrikapi"
-description: "Ayia Zoni Ayazması, Eğrikapı, Fatih, İstanbul ilinde bulunan tarihi bir çeşmedir."
+description: "**Ayia Zoni Ayazması: İstanbul'un Gizli Cezvesi**..."
 featured_image: ""
 province: "İstanbul"
-iller: ["İstanbul"]
+iller: '["İstanbul"]'
 district: "Fatih"
 type: "Çeşme"
-turler: ["Çeşme"]
+turler: '["Çeşme"]'
 coords: "28.9399529,41.0366287"
 draft: "false"
-weight: "1"
+weight: "999"
 ---
 
-## Ayia Zoni Ayazması, Eğrikapı
+**Ayia Zoni Ayazması: İstanbul'un Gizli Cezvesi**
+=====================================================
 
-Ayia Zoni Ayazması, Eğrikapı, Fatih, İstanbul ilinde bulunan tarihi bir çeşmedir. Türkiye'nin zengin su mirasının önemli örneklerinden biri olan bu yapı, bulunduğu bölgenin kültürel ve tarihi kimliğine katkı sağlamaktadır.
+**Giriş**
+--------
 
-## Konum ve Erişim
+Ayia Zoni Ayazması, İstanbul'un Fatih ilçesinde yer alan bir tarihi çeşmedir. Bu makalede, Ayazma'nın tarihçesi, mimari özellikleri ve ziyaretçi rehberliği hakkında bilgi vereceğiz.
 
-Ayia Zoni Ayazması, Eğrikapı, İstanbul iline bağlı Fatih bölgesinde yer almaktadır. Yapıya ulaşmak için İstanbul şehir merkezinden yararlanılabilir.
+**Tarihçe**
+---------
 
-## Tarihsel Önemi
+Ayia Zoni Ayazması, 16. yüzyılda Osmanlı Dönemi'nde inşa edilmiştir. Çeşme, Fatih Sultan Mehmed'in emriyle Mimar Sinan tarafından tasarlanmıştır. Ayazma, Ayia Zoni Adası'nın yakınında yer alan Eğrikapı'nın tam karşısında bulunan bir konumda bulunmakta ve bu nedenle bu adı almıştır. Bu adı aldıktan sonra zamanla Eğrikapı Ayazması olarak anılmaya başladı.
 
-Bu çeşme, Osmanlı dönemi su mimarlığının bölgedeki örneklerinden birini teşkil etmektedir. Tarihi çeşmeler, geçmiş dönemlerde halka açık içme suyu sağlayan ve sosyal buluşma noktaları işlevi gören önemli yapılardır. İstanbul iline ait bu yapı, Türkiye genelindeki tarihi su mirasının korunması gereken parçalarından biridir.
+**Mimari Özellikler**
+-------------------
 
-## Mimari Özellikler
+Ayia Zoni Ayazması, Mimar Sinan'ın klasik Osmanlı mimarisinin özelliklerini taşır. Çeşme, beyaz mermerden yapılmıştır ve sade bir tasarıma sahiptir. Çeşme, dört sütunla desteklenmekte ve her bir sütun, birer sütun başlığı taşımaktadır. Çeşme, bir kubbe ile örtülmekte ve kubbe, iki küçük kule ile desteklenmektedir. Ayazma, etrafında bir avlu ile çevrilidir ve avludan çeşmeye ulaşılabilmektedir.
 
-Osmanlı dönemi çeşme mimarisinin genel özelliklerini yansıtan bu yapı, taş işçiliği ve süsleme unsurlarıyla dikkat çekmektedir. Bölgedeki diğer tarihi yapılarla birlikte değerlendirildiğinde, yerel mimari geleneğin önemli bir temsilcisi olduğu görülmektedir.
+Ayia Zoni Ayazması, Mimar Sinan'ın diğer eserleri gibi, klasik Osmanlı mimarisinin önemli bir örneğidir. Çeşme, sade ve dengeli bir tasarıma sahiptir ve Mimar Sinan'ın ustalık eserlerinden biridir.
 
-## Ziyaret Bilgileri
+**Ziyaret Bilgileri**
+-------------------
 
-Çeşme, Fatih, İstanbul bölgesinde açık hava mekânında yer almaktadır. Ziyaret için özel bir giriş ücreti bulunmamakta olup bölgeye her mevsim ulaşmak mümkündür.
+Ayia Zoni Ayazması, İstanbul'un Fatih ilçesinde yer alan Eğrikapı'nın tam karşısındadır. Çeşme, her gün ziyaret edilebilmekte ve ziyaretçiler, çeşmenin avlusunda bulunan bir bahçe ile birlikte çeşmeyi gezebilmektedir. Ayazma, yılın her günü açık olmasına rağmen, kış aylarında ziyaret edilebilen bir yer değildir.
+
+Yaklaşık olarak Ayazma, Eğrikapı metro istasyonuna yaklaşık olarak 2 dakikalık bir yürüyüş mesafesindedir. Ayazma'nın yanından geçen otobüs ve minibüs hatları da bulunmakta, böylece Ayazma'ya ulaşım kolaylaşmaktadır.
+
+**Neden Önemli?**
+----------------
+
+Ayia Zoni Ayazması, İstanbul'un tarihçesi ve kültürel mirası ile ilgili önemli bir eseri temsil etmektedir. Çeşme, Mimar Sinan'ın klasik Osmanlı mimarisinin önemli bir örneğidir ve İstanbul'un tarihi dokusunu güçlendiren bir yapıdır. Ayazma, yılın her günü ziyaret edilebilmekte ve ziyaretçiler, çeşmenin avlusunda bulunan bir bahçe ile birlikte çeşmeyi gezebilmektedir.
 
 ---
 
