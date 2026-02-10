@@ -7,7 +7,7 @@ enableRobotsTXT = true
 
 # Pagination
 [pagination]
-  pagerSize = 24
+  pagerSize = 96
 
 # URL Structure
 [permalinks]
@@ -26,7 +26,9 @@ enableRobotsTXT = true
 # Output Formats (JSON for search)
 [outputs]
   home = ["HTML", "RSS", "JSON"]
-  section = ["HTML", "RSS"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 # Sitemap Configuration
 [sitemap]
