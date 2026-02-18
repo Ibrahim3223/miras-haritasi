@@ -1,2 +1,25 @@
 # Cloudflare Pages Redirects
-# Çeşme sayfaları geri getirildi - redirect kuralları kaldırıldı (2026-02-10)
+
+# GSC 404 Recovery: İstanbul ilçeleri → İstanbul il sayfasına yönlendir
+/iller/arnavutköy/       /iller/istanbul/   301
+/iller/bakırköy/         /iller/istanbul/   301
+/iller/beyoğlu/          /iller/istanbul/   301
+/iller/esenyurt/         /iller/istanbul/   301
+/iller/eyüpsultan/       /iller/istanbul/   301
+/iller/maltepe/          /iller/istanbul/   301
+/iller/zeytinburnu/      /iller/istanbul/   301
+/iller/şişli/            /iller/istanbul/   301
+
+# Tekirdağ ilçesi
+/iller/süleymanpaşa/     /iller/tekirdag/   301
+
+# Tarihi vilayet isimleri → modern illere yönlendir
+/iller/edirne-vilayeti/           /iller/edirne/    301
+/iller/hüdavendigâr-vilayeti/     /iller/bursa/     301
+/iller/çıldır-eyaleti/            /iller/kars/      301
+
+# Diğer geçersiz iller
+/iller/kutaisi-guberniyası/       /iller/           301
+/iller/türkiye/                   /iller/           301
+/iller/orta-ilçe/                 /iller/           301
+/iller/büyükçekmece/              /iller/istanbul/  301
