@@ -1,25 +1,350 @@
 # Cloudflare Pages Redirects
 
-# GSC 404 Recovery: İstanbul ilçeleri → İstanbul il sayfasına yönlendir
-/iller/arnavutköy/       /iller/istanbul/   301
-/iller/bakırköy/         /iller/istanbul/   301
-/iller/beyoğlu/          /iller/istanbul/   301
-/iller/esenyurt/         /iller/istanbul/   301
-/iller/eyüpsultan/       /iller/istanbul/   301
-/iller/maltepe/          /iller/istanbul/   301
-/iller/zeytinburnu/      /iller/istanbul/   301
-/iller/şişli/            /iller/istanbul/   301
+# ============================================================
+# GSC 404 Fix: İlçe, tarihi vilayet ve diğer geçersiz il değerleri
+# → Modern Türkiye illerine veya /iller/ anasayfasına yönlendir
+# ============================================================
 
-# Tekirdağ ilçesi
-/iller/süleymanpaşa/     /iller/tekirdag/   301
+# Çanakkale ilçeleri
+/iller/eceabat-ilçesi/  /iller/canakkale/  301
+/iller/eceabat/  /iller/canakkale/  301
+/iller/çanakkale-ilçe/  /iller/canakkale/  301
+/iller/ezine/  /iller/canakkale/  301
+/iller/ayvacık-çanakkale-ilçesi/  /iller/canakkale/  301
+/iller/bayramiç-ilçe/  /iller/canakkale/  301
 
-# Tarihi vilayet isimleri → modern illere yönlendir
-/iller/edirne-vilayeti/           /iller/edirne/    301
-/iller/hüdavendigâr-vilayeti/     /iller/bursa/     301
-/iller/çıldır-eyaleti/            /iller/kars/      301
+# İstanbul ilçeleri
+/iller/fatih/  /iller/istanbul/  301
+/iller/beyoğlu/  /iller/istanbul/  301
+/iller/üsküdar/  /iller/istanbul/  301
+/iller/beşiktaş/  /iller/istanbul/  301
+/iller/eyüpsultan/  /iller/istanbul/  301
+/iller/kadıköy/  /iller/istanbul/  301
+/iller/sarıyer/  /iller/istanbul/  301
+/iller/beykoz/  /iller/istanbul/  301
+/iller/bakırköy/  /iller/istanbul/  301
+/iller/istanbul-vilayeti/  /iller/istanbul/  301
+/iller/adalar/  /iller/istanbul/  301
+/iller/şişli/  /iller/istanbul/  301
+/iller/zeytinburnu/  /iller/istanbul/  301
+/iller/büyükçekmece/  /iller/istanbul/  301
+/iller/ataşehir/  /iller/istanbul/  301
+/iller/şile/  /iller/istanbul/  301
+/iller/kağıthane/  /iller/istanbul/  301
+/iller/arnavutköy/  /iller/istanbul/  301
+/iller/silivri-ilçe/  /iller/istanbul/  301
+/iller/küçükçekmece/  /iller/istanbul/  301
+/iller/sancaktepe/  /iller/istanbul/  301
+/iller/esenyurt/  /iller/istanbul/  301
+/iller/bahçelievler/  /iller/istanbul/  301
+/iller/avcılar/  /iller/istanbul/  301
+/iller/kartal/  /iller/istanbul/  301
+/iller/maltepe/  /iller/istanbul/  301
+/iller/tuzla/  /iller/istanbul/  301
+/iller/ümraniye/  /iller/istanbul/  301
+/iller/çatalca/  /iller/istanbul/  301
+/iller/esenler/  /iller/istanbul/  301
 
-# Diğer geçersiz iller
-/iller/kutaisi-guberniyası/       /iller/           301
-/iller/türkiye/                   /iller/           301
-/iller/orta-ilçe/                 /iller/           301
-/iller/büyükçekmece/              /iller/istanbul/  301
+# Ankara ilçeleri
+/iller/altındağ/  /iller/ankara/  301
+/iller/ankara-vilayeti/  /iller/ankara/  301
+/iller/etimesgut/  /iller/ankara/  301
+/iller/çankaya/  /iller/ankara/  301
+/iller/polatlı/  /iller/ankara/  301
+/iller/kahramankazan/  /iller/ankara/  301
+/iller/haymana-ilçesi/  /iller/ankara/  301
+
+# Trabzon
+/iller/trabzon-vilayeti/  /iller/trabzon/  301
+/iller/trabzon-eyaleti/  /iller/trabzon/  301
+/iller/çaykara-ilçesi/  /iller/trabzon/  301
+/iller/of-ilçe/  /iller/trabzon/  301
+
+# Aydın ilçeleri
+/iller/aydın-vilayeti/  /iller/aydin/  301
+/iller/söke-ilçesi/  /iller/aydin/  301
+/iller/kuşadası/  /iller/aydin/  301
+/iller/germencik-ilçe/  /iller/aydin/  301
+/iller/karacasu-ilçe/  /iller/aydin/  301
+/iller/bozdoğan/  /iller/aydin/  301
+
+# Artvin ilçeleri
+/iller/şavşat/  /iller/artvin/  301
+/iller/ardanuç/  /iller/artvin/  301
+/iller/borçka/  /iller/artvin/  301
+/iller/yusufeli/  /iller/artvin/  301
+/iller/murgul/  /iller/artvin/  301
+/iller/borçka-ilçesi/  /iller/artvin/  301
+/iller/arhavi-ilçesi/  /iller/artvin/  301
+/iller/hopa/  /iller/artvin/  301
+/iller/artvin-ilçesi/  /iller/artvin/  301
+
+# Erzurum ilçeleri
+/iller/erzurum-vilayeti/  /iller/erzurum/  301
+/iller/erzurum-eyaleti/  /iller/erzurum/  301
+/iller/tortum-ilçesi/  /iller/erzurum/  301
+/iller/oltu/  /iller/erzurum/  301
+/iller/olur/  /iller/erzurum/  301
+/iller/uzundere/  /iller/erzurum/  301
+/iller/ispir/  /iller/erzurum/  301
+/iller/şenkaya-ilçesi/  /iller/erzurum/  301
+/iller/yakutiye/  /iller/erzurum/  301
+
+# Ardahan ilçeleri
+/iller/çıldır/  /iller/ardahan/  301
+/iller/çıldır-eyaleti/  /iller/ardahan/  301
+/iller/posof/  /iller/ardahan/  301
+/iller/hanak/  /iller/ardahan/  301
+/iller/göle/  /iller/ardahan/  301
+/iller/göle-ilçesi/  /iller/ardahan/  301
+
+# Kars ilçeleri
+/iller/kars-oblastı/  /iller/kars/  301
+/iller/kars-eyaleti/  /iller/kars/  301
+/iller/arpaçay/  /iller/kars/  301
+/iller/digor/  /iller/kars/  301
+
+# İzmir ilçeleri
+/iller/menemen-ilçe/  /iller/izmir/  301
+/iller/konak-ilçe/  /iller/izmir/  301
+/iller/bergama-ilçe/  /iller/izmir/  301
+/iller/foça/  /iller/izmir/  301
+/iller/dikili-ilçe/  /iller/izmir/  301
+/iller/ödemiş/  /iller/izmir/  301
+/iller/tire-ilçe/  /iller/izmir/  301
+/iller/alaşehir-ilçe/  /iller/izmir/  301
+
+# Amasya
+/iller/merzifon-ilçesi/  /iller/amasya/  301
+
+# Balıkesir ilçeleri
+/iller/burhaniye-ilçe/  /iller/balikesir/  301
+/iller/edremit-balıkesir-ilçesi/  /iller/balikesir/  301
+/iller/bandırma/  /iller/balikesir/  301
+/iller/erdek-ilçesi/  /iller/balikesir/  301
+/iller/ayvalık-ilçe/  /iller/balikesir/  301
+/iller/yenipazar/  /iller/balikesir/  301
+
+# Antalya ilçeleri
+/iller/kaş-ilçesi/  /iller/antalya/  301
+/iller/manavgat-ilçe/  /iller/antalya/  301
+/iller/akseki-ilçe/  /iller/antalya/  301
+/iller/kemer-district-antalya/  /iller/antalya/  301
+/iller/finike/  /iller/antalya/  301
+/iller/serik/  /iller/antalya/  301
+/iller/demre/  /iller/antalya/  301
+/iller/konyaaltı/  /iller/antalya/  301
+
+# Muğla ilçeleri
+/iller/bodrum/  /iller/mugla/  301
+/iller/seydikemer/  /iller/mugla/  301
+/iller/milas/  /iller/mugla/  301
+/iller/dalaman/  /iller/mugla/  301
+/iller/marmaris-ilçe/  /iller/mugla/  301
+/iller/ortaca-ilçe/  /iller/mugla/  301
+/iller/menteşe/  /iller/mugla/  301
+
+# Bursa ilçeleri
+/iller/hüdavendigâr-vilayeti/  /iller/bursa/  301
+/iller/orhangazi-ilçe/  /iller/bursa/  301
+/iller/mudanya/  /iller/bursa/  301
+/iller/yıldırım/  /iller/bursa/  301
+/iller/iznik-ilçe/  /iller/bursa/  301
+/iller/iznik/  /iller/bursa/  301
+/iller/karacabey-ilçesi/  /iller/bursa/  301
+
+# Manisa ilçeleri
+/iller/akhisar-ilçe/  /iller/manisa/  301
+/iller/salihli/  /iller/manisa/  301
+/iller/kula-ilçe/  /iller/manisa/  301
+/iller/saruhanlı-ilçe/  /iller/manisa/  301
+
+# Hatay ilçeleri
+/iller/iskenderun-sancağı/  /iller/hatay/  301
+/iller/antakya-ilçesi/  /iller/hatay/  301
+/iller/samandağ/  /iller/hatay/  301
+/iller/altınözü-ilçe/  /iller/hatay/  301
+
+# Samsun
+/iller/ilkadım/  /iller/samsun/  301
+
+# Mersin ilçeleri
+/iller/silifke-ilçe/  /iller/mersin/  301
+/iller/tarsus-ilçe/  /iller/mersin/  301
+/iller/erdemli/  /iller/mersin/  301
+
+# Elazığ
+/iller/mamuret-ul-aziz-vilayeti/  /iller/elazig/  301
+
+# Nevşehir ilçeleri
+/iller/avanos/  /iller/nevsehir/  301
+/iller/ürgüp/  /iller/nevsehir/  301
+/iller/gülşehir/  /iller/nevsehir/  301
+
+# Tekirdağ ilçeleri
+/iller/süleymanpaşa/  /iller/tekirdag/  301
+/iller/malkara/  /iller/tekirdag/  301
+
+# Edirne
+/iller/edirne-vilayeti/  /iller/edirne/  301
+/iller/edirne-ilçe/  /iller/edirne/  301
+
+# Sivas ilçeleri
+/iller/divriği/  /iller/sivas/  301
+/iller/hafik/  /iller/sivas/  301
+/iller/kangal/  /iller/sivas/  301
+/iller/zara/  /iller/sivas/  301
+
+# Konya ilçeleri
+/iller/konya-vilayeti/  /iller/konya/  301
+/iller/selçuklu/  /iller/konya/  301
+/iller/yunak/  /iller/konya/  301
+/iller/seydişehir/  /iller/konya/  301
+/iller/akşehir-ilçe/  /iller/konya/  301
+/iller/bozkır/  /iller/konya/  301
+/iller/meram/  /iller/konya/  301
+
+# Kayseri ilçeleri
+/iller/melikgazi/  /iller/kayseri/  301
+/iller/kocasinan/  /iller/kayseri/  301
+
+# Bitlis ilçeleri
+/iller/bitlis-vilayeti/  /iller/bitlis/  301
+/iller/tatvan/  /iller/bitlis/  301
+/iller/hizan/  /iller/bitlis/  301
+
+# Van ilçeleri
+/iller/van-vilayeti/  /iller/van/  301
+/iller/van-eyaleti/  /iller/van/  301
+/iller/bahçesaray/  /iller/van/  301
+/iller/gevaş/  /iller/van/  301
+/iller/erciş-district/  /iller/van/  301
+
+# Kırşehir
+/iller/kaman-ilçe/  /iller/kirsehir/  301
+
+# Adana ilçeleri
+/iller/adana-vilayeti/  /iller/adana/  301
+/iller/seyhan/  /iller/adana/  301
+/iller/karataş/  /iller/adana/  301
+/iller/aladağ/  /iller/adana/  301
+
+# Mardin
+/iller/midyat/  /iller/mardin/  301
+
+# Diyarbakır ilçeleri
+/iller/çüngüş/  /iller/diyarbakir/  301
+/iller/çınar/  /iller/diyarbakir/  301
+/iller/yenişehir-diyarbakır/  /iller/diyarbakir/  301
+
+# Tokat
+/iller/erbaa/  /iller/tokat/  301
+
+# Çorum ilçeleri
+/iller/sungurlu/  /iller/corum/  301
+/iller/boğazkale/  /iller/corum/  301
+
+# Kastamonu
+/iller/kargı/  /iller/kastamonu/  301
+
+# Sakarya
+/iller/erenler/  /iller/sakarya/  301
+
+# Kocaeli
+/iller/izmit-ilçe/  /iller/kocaeli/  301
+
+# Yalova
+/iller/altınova/  /iller/yalova/  301
+
+# Bayburt
+/iller/demirözü/  /iller/bayburt/  301
+
+# Karabük
+/iller/eflani/  /iller/karabuk/  301
+
+# Aksaray
+/iller/eskil/  /iller/aksaray/  301
+
+# Kahramanmaraş
+/iller/onikişubat/  /iller/kahramanmaras/  301
+
+# Afyonkarahisar ilçeleri
+/iller/dinar-ilçesi/  /iller/afyonkarahisar/  301
+/iller/dinar/  /iller/afyonkarahisar/  301
+/iller/ihsaniye/  /iller/afyonkarahisar/  301
+/iller/emirdağ/  /iller/afyonkarahisar/  301
+
+# Denizli ilçeleri
+/iller/çivril/  /iller/denizli/  301
+/iller/çal/  /iller/denizli/  301
+
+# Isparta
+/iller/yalvaç/  /iller/isparta/  301
+
+# Burdur
+/iller/bucak/  /iller/burdur/  301
+
+# Gaziantep
+/iller/gaziantep-alt-bölgesi/  /iller/gaziantep/  301
+/iller/antep-sancağı/  /iller/gaziantep/  301
+
+# Kütahya
+/iller/altıntaş/  /iller/kutahya/  301
+
+# Şanlıurfa
+/iller/karaköprü/  /iller/sanliurfa/  301
+
+# Kırklareli
+/iller/vize/  /iller/kirklareli/  301
+
+# Ağrı
+/iller/taşlıçay/  /iller/agri/  301
+
+# Tunceli
+/iller/hozat/  /iller/tunceli/  301
+
+# Bolu
+/iller/kocaköy/  /iller/bolu/  301
+
+# Ordu
+/iller/ünye/  /iller/ordu/  301
+
+# Rize
+/iller/kalkandere/  /iller/rize/  301
+
+# Çankırı
+/iller/orta-ilçe/  /iller/cankiri/  301
+
+# Bartın
+/iller/amasra-ilçesi/  /iller/bartin/  301
+
+# Geçersiz/yabancı/tarihi değerler → /iller/ anasayfası
+/iller/türkiye/  /iller/  301
+/iller/iyonya/  /iller/  301
+/iller/kilikya/  /iller/  301
+/iller/anadolu-eyaleti/  /iller/  301
+/iller/marmara-bölgesi/  /iller/  301
+/iller/akdeniz-bölgesi/  /iller/  301
+/iller/güneydoğu-anadolu-bölgesi/  /iller/  301
+/iller/iç-anadolu-bölgesi/  /iller/  301
+/iller/fransız-suriye-ve-lübnan-mandası/  /iller/  301
+/iller/halep-vilayeti/  /iller/  301
+/iller/halep-sancağı/  /iller/  301
+/iller/kutaisi-guberniyası/  /iller/  301
+/iller/batum-oblastı/  /iller/  301
+/iller/sürmeli-uyezdi/  /iller/  301
+/iller/mezopotamya-roma-eyaleti/  /iller/  301
+/iller/part-imparatorluğu/  /iller/  301
+/iller/dioecesis-asiana/  /iller/  301
+/iller/misya/  /iller/  301
+/iller/çamlıbel/  /iller/  301
+/iller/ortaköy/  /iller/  301
+/iller/ermenistan-demokratik-cumhuriyeti/  /iller/  301
+
+# ============================================================
+# Sayfalama (pagination) 404 düzeltmeleri
+# pagerSize 24→96 değişikliğinden kaynaklanan eski pagination URL'leri
+# ============================================================
+/iller/:il/page/:num/  /iller/:il/  301
+/turler/:tur/page/:num/  /turler/:tur/  301
+/eserler/page/:num/  /eserler/  301
